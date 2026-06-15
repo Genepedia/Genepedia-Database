@@ -1,0 +1,141 @@
+{
+  "id": 3989,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-jacobs",
+  "names": {
+    "display": "Petrus Johannes Jacobs",
+    "given": "Petrus Johannes",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 JUN 1875",
+      "year": 1875,
+      "iso": "1875-06-14",
+      "precision": "exact",
+      "display": "June 14, 1875",
+      "place": "Barkley Wes",
+      "location": {
+        "label": "Barkley Wes",
+        "placeName": "Barkley Wes",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 MAY 1938",
+      "year": 1938,
+      "iso": "1938-05-09",
+      "precision": "exact",
+      "display": "May 9, 1938",
+      "place": "Wolmaranstad",
+      "location": {
+        "label": "Wolmaranstad",
+        "placeName": "Wolmaranstad",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1538,
+      3987
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3988,
+      3990,
+      3991,
+      3992,
+      3993,
+      3994,
+      3995,
+      3996,
+      3997,
+      3998,
+      3999
+    ],
+    "parentUnions": [
+      "F934"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1538,
+        "unionId": "F934",
+        "type": "biological"
+      },
+      {
+        "id": 3987,
+        "unionId": "F934",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000184973039853@",
+    "geniId": "6000000184973039853",
+    "rfn": "geni:6000000184973039853",
+    "changed": "22 MAY 2022"
+  },
+  "page": {
+    "route": "people/3989/",
+    "canonical": "https://www.genepedia.org/people/3989/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

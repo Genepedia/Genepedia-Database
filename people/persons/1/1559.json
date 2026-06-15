@@ -1,0 +1,224 @@
+{
+  "id": 1559,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-christina-margaretha-du-plessis",
+  "names": {
+    "display": "Johanna Christina Margaretha du Plessis",
+    "given": "Johanna Christina Margaretha",
+    "surname": "du Plessis",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 JAN 1888",
+      "year": 1888,
+      "iso": "1888-01-13",
+      "precision": "exact",
+      "display": "January 13, 1888",
+      "place": null
+    },
+    "death": {
+      "date": "6 MAR 1979",
+      "year": 1979,
+      "iso": "1979-03-06",
+      "precision": "exact",
+      "display": "March 6, 1979",
+      "place": "Bloemhof, NW, South Africa",
+      "location": {
+        "label": "Bloemhof, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Bloemhof, NW, South Africa",
+      "location": {
+        "label": "Bloemhof, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p3/3376/9113/53444836153cc37f/seq65gem_original.jpg?hash=c59ddca8681a8c772d4be6a58c3451acd0a5533cd6785470a6b00f29b3980e28.1789455599",
+      "alt": "Johanna Christina Margaretha du Plessis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p3/3376/9113/53444836153cc37f/seq65gem_original.jpg?hash=c59ddca8681a8c772d4be6a58c3451acd0a5533cd6785470a6b00f29b3980e28.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/33/d7/d9/56/5344485ef8b17eb2/niekerk_izak_david_van_1876_-_1953_en_johanna_christina_nee_du_plessis_1888_-_1979_1__original.jpg?hash=e6c636a4e1a64b5bfda0a038b80d2fddd5c3ae18b547166967728c6c213e4510.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/c3/01/e1/d7/5344485ef8b654e5/izak_dawidvan_niekerk_1876-1953_johanna_chstina_du_plessis_1888-1979_original.jpg?hash=57b68bde7efff7b4430e92da86d6d66954e2f6d2f6a79e8dbd3eca237320131d.1789455599",
+        "form": "",
+        "title": "Oom Izak en Tant Hannie van Niekerk van Rietfontein, Bloemhof",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4127,
+      4126
+    ],
+    "spouses": [
+      630
+    ],
+    "exSpouses": [],
+    "children": [
+      1560,
+      1561,
+      1562,
+      1563,
+      1564,
+      1565,
+      1566
+    ],
+    "siblings": [
+      4128,
+      4129,
+      4130,
+      4131,
+      4132,
+      4133
+    ],
+    "parentUnions": [
+      "F955"
+    ],
+    "spouseUnions": [
+      "F397"
+    ],
+    "parentLinks": [
+      {
+        "id": 4127,
+        "unionId": "F955",
+        "type": "biological"
+      },
+      {
+        "id": 4126,
+        "unionId": "F955",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 630,
+        "unionId": "F397",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1560,
+        "unionId": "F397",
+        "type": "biological"
+      },
+      {
+        "id": 1561,
+        "unionId": "F397",
+        "type": "biological"
+      },
+      {
+        "id": 1562,
+        "unionId": "F397",
+        "type": "biological"
+      },
+      {
+        "id": 1563,
+        "unionId": "F397",
+        "type": "biological"
+      },
+      {
+        "id": 1564,
+        "unionId": "F397",
+        "type": "biological"
+      },
+      {
+        "id": 1565,
+        "unionId": "F397",
+        "type": "biological"
+      },
+      {
+        "id": 1566,
+        "unionId": "F397",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000134808396918@",
+    "geniId": "6000000134808396918",
+    "rfn": "geni:6000000134808396918",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/1559/",
+    "canonical": "https://www.genepedia.org/people/1559/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

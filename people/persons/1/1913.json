@@ -1,0 +1,184 @@
+{
+  "id": 1913,
+  "schema": "genepedia/person@1",
+  "slug": "willem-johannes-benjamin-bester",
+  "names": {
+    "display": "Willem Johannes Benjamin Bester",
+    "given": "Willem Johannes Benjamin",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 APR 1905",
+      "year": 1905,
+      "iso": "1905-04-19",
+      "precision": "exact",
+      "display": "April 19, 1905",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 MAR 1984",
+      "year": 1984,
+      "iso": "1984-03-02",
+      "precision": "exact",
+      "display": "March 2, 1984",
+      "place": "Brixton, Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Brixton, Johannesburg, Gauteng, South Africa",
+        "placeName": "Brixton",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Police Warder",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      816,
+      1908
+    ],
+    "spouses": [
+      4906
+    ],
+    "exSpouses": [],
+    "children": [
+      4907,
+      4908,
+      4909,
+      4910,
+      4911,
+      4912
+    ],
+    "siblings": [
+      1909,
+      1910,
+      1911,
+      1912,
+      1914,
+      1915
+    ],
+    "parentUnions": [
+      "F505"
+    ],
+    "spouseUnions": [
+      "F1165"
+    ],
+    "parentLinks": [
+      {
+        "id": 816,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1908,
+        "unionId": "F505",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4906,
+        "unionId": "F1165",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4907,
+        "unionId": "F1165",
+        "type": "biological"
+      },
+      {
+        "id": 4908,
+        "unionId": "F1165",
+        "type": "biological"
+      },
+      {
+        "id": 4909,
+        "unionId": "F1165",
+        "type": "biological"
+      },
+      {
+        "id": 4910,
+        "unionId": "F1165",
+        "type": "biological"
+      },
+      {
+        "id": 4911,
+        "unionId": "F1165",
+        "type": "biological"
+      },
+      {
+        "id": 4912,
+        "unionId": "F1165",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000009733289023@",
+    "geniId": "6000000009733289023",
+    "rfn": "geni:6000000009733289023",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1913/",
+    "canonical": "https://www.genepedia.org/people/1913/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

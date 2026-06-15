@@ -1,0 +1,159 @@
+{
+  "id": 122,
+  "schema": "genepedia/person@1",
+  "slug": "tania-laubscher",
+  "names": {
+    "display": "Tania Laubscher",
+    "given": "Tania",
+    "surname": "Laubscher",
+    "married": "Labuschagne",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "20 MAR 1978",
+      "year": 1978,
+      "iso": "1978-03-20",
+      "precision": "exact",
+      "display": "March 20, 1978",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "South Africa",
+  "lastResidenceLocation": {
+    "label": "South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/43/b4/77/2a/5344486601254bda/screenshot_2024-06-14_143445_original.jpg?hash=65c389e9c8c69576a067b80140e59274ac613722fbec2de598e3b36b310e0150.1789455599",
+      "alt": "Tania Laubscher"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/43/b4/77/2a/5344486601254bda/screenshot_2024-06-14_143445_original.jpg?hash=65c389e9c8c69576a067b80140e59274ac613722fbec2de598e3b36b310e0150.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      121,
+      37
+    ],
+    "spouses": [
+      317
+    ],
+    "exSpouses": [],
+    "children": [
+      318,
+      319
+    ],
+    "siblings": [
+      123
+    ],
+    "parentUnions": [
+      "F43"
+    ],
+    "spouseUnions": [
+      "F102"
+    ],
+    "parentLinks": [
+      {
+        "id": 121,
+        "unionId": "F43",
+        "type": "biological"
+      },
+      {
+        "id": 37,
+        "unionId": "F43",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 317,
+        "unionId": "F102",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 318,
+        "unionId": "F102",
+        "type": "biological"
+      },
+      {
+        "id": 319,
+        "unionId": "F102",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204042823821@",
+    "geniId": "6000000204042823821",
+    "rfn": "geni:6000000204042823821",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/122/",
+    "canonical": "https://www.genepedia.org/people/122/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

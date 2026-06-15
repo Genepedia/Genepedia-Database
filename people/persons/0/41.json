@@ -1,0 +1,143 @@
+{
+  "id": 41,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-jacobus-roselt",
+  "names": {
+    "display": "Gabriel Jacobus Roselt",
+    "given": "Gabriel Jacobus",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "Gawie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 SEP 1957",
+      "year": 1957,
+      "iso": "1957-09-27",
+      "precision": "exact",
+      "display": "September 27, 1957",
+      "place": null
+    },
+    "death": {
+      "date": "AFT 2012",
+      "year": 2012,
+      "iso": "2012",
+      "precision": "after",
+      "display": "after 2012",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/a2/92/63/67/534448656e8e74f1/screenshot_2024-03-13_133148_original.jpg?hash=ee498e337f58e64ee6a288427ab508e0d74cc76d8d7defc2c484646a9a57891c.1789455599",
+      "alt": "Gabriel Jacobus Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/a2/92/63/67/534448656e8e74f1/screenshot_2024-03-13_133148_original.jpg?hash=ee498e337f58e64ee6a288427ab508e0d74cc76d8d7defc2c484646a9a57891c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      40,
+      39
+    ],
+    "spouses": [
+      149
+    ],
+    "exSpouses": [],
+    "children": [
+      150,
+      151,
+      152
+    ],
+    "siblings": [
+      6,
+      42,
+      43
+    ],
+    "parentUnions": [
+      "F14"
+    ],
+    "spouseUnions": [
+      "F48"
+    ],
+    "parentLinks": [
+      {
+        "id": 40,
+        "unionId": "F14",
+        "type": "biological"
+      },
+      {
+        "id": 39,
+        "unionId": "F14",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 149,
+        "unionId": "F48",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 150,
+        "unionId": "F48",
+        "type": "biological"
+      },
+      {
+        "id": 151,
+        "unionId": "F48",
+        "type": "biological"
+      },
+      {
+        "id": 152,
+        "unionId": "F48",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204042921845@",
+    "geniId": "6000000204042921845",
+    "rfn": "geni:6000000204042921845",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/41/",
+    "canonical": "https://www.genepedia.org/people/41/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

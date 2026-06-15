@@ -1,0 +1,85 @@
+{
+  "id": 1382,
+  "schema": "genepedia/person@1",
+  "slug": "theron",
+  "names": {
+    "display": "? Theron",
+    "given": "?",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      562
+    ],
+    "exSpouses": [],
+    "children": [
+      1383
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F357"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 562,
+        "unionId": "F357",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1383,
+        "unionId": "F357",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206578790821@",
+    "geniId": "6000000206578790821",
+    "rfn": "geni:6000000206578790821",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/1382/",
+    "canonical": "https://www.genepedia.org/people/1382/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

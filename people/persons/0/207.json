@@ -1,0 +1,140 @@
+{
+  "id": 207,
+  "schema": "genepedia/person@1",
+  "slug": "leandri-de-leeuw",
+  "names": {
+    "display": "Leandri De Leeuw",
+    "given": "Leandri",
+    "surname": "De Leeuw",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "16 JUL 1987",
+      "year": 1987,
+      "iso": "1987-07-16",
+      "precision": "exact",
+      "display": "July 16, 1987",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "SCRUM Master",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/fa/37/2b/25/534448656fc35318/271782389_3058161234422105_3840777363386676329_n_original.jpg?hash=d0091c07afb107179cb4212e663bdca736df0b8ebf7a958f2a59feea4438bd2c.1789455599",
+      "alt": "Leandri De Leeuw"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/fa/37/2b/25/534448656fc35318/271782389_3058161234422105_3840777363386676329_n_original.jpg?hash=d0091c07afb107179cb4212e663bdca736df0b8ebf7a958f2a59feea4438bd2c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      532,
+      533
+    ],
+    "spouses": [
+      64
+    ],
+    "exSpouses": [],
+    "children": [
+      208
+    ],
+    "siblings": [
+      534,
+      535,
+      209
+    ],
+    "parentUnions": [
+      "F157"
+    ],
+    "spouseUnions": [
+      "F66"
+    ],
+    "parentLinks": [
+      {
+        "id": 532,
+        "unionId": "F157",
+        "type": "biological"
+      },
+      {
+        "id": 533,
+        "unionId": "F157",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 64,
+        "unionId": "F66",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 208,
+        "unionId": "F66",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204060612877@",
+    "geniId": "6000000204060612877",
+    "rfn": "geni:6000000204060612877",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/207/",
+    "canonical": "https://www.genepedia.org/people/207/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,143 @@
+{
+  "id": 4136,
+  "schema": "genepedia/person@1",
+  "slug": "gert-hendrik-meyer",
+  "names": {
+    "display": "Gert Hendrik Meyer",
+    "given": "Gert Hendrik",
+    "surname": "Meyer",
+    "married": "Meyer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 SEP 1911",
+      "year": 1911,
+      "iso": "1911-09-17",
+      "precision": "exact",
+      "display": "September 17, 1911",
+      "place": "Rietfontien, Bloemhof",
+      "location": {
+        "label": "Rietfontien, Bloemhof",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Rietfontien, Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 SEP 1976",
+      "year": 1976,
+      "iso": "1976-09-10",
+      "precision": "exact",
+      "display": "September 10, 1976",
+      "place": "Potchefstroom",
+      "location": {
+        "label": "Potchefstroom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p3/3376/9113/53444836089c39bb/wep77sud_original.jpg?hash=858a2119a5bbb8fd40d7783aff784b1e6ad654794609acf8433643e38da87bbf.1789455599",
+      "alt": "Gert Hendrik Meyer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p3/3376/9113/53444836089c39bb/wep77sud_original.jpg?hash=858a2119a5bbb8fd40d7783aff784b1e6ad654794609acf8433643e38da87bbf.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1561
+    ],
+    "exSpouses": [],
+    "children": [
+      4137
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F958"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1561,
+        "unionId": "F958",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4137,
+        "unionId": "F958",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000000460147334@",
+    "geniId": "6000000000460147334",
+    "rfn": "geni:6000000000460147334",
+    "changed": "09 NOV 2014"
+  },
+  "page": {
+    "route": "people/4136/",
+    "canonical": "https://www.genepedia.org/people/4136/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

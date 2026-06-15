@@ -1,0 +1,120 @@
+{
+  "id": 4704,
+  "schema": "genepedia/person@1",
+  "slug": "dorothea-johanna-burger",
+  "names": {
+    "display": "Dorothea Johanna Burger",
+    "given": "Dorothea Johanna",
+    "surname": "Burger",
+    "married": "Burger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 JUL 1917",
+      "year": 1917,
+      "iso": "1917-07-06",
+      "precision": "exact",
+      "display": "July 6, 1917",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "2 SEP 1917",
+      "year": 1917,
+      "iso": "1917-09-02",
+      "precision": "exact",
+      "display": "September 2, 1917",
+      "place": "Jagersfontein, Free State, South Africa",
+      "location": {
+        "label": "Jagersfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Jagersfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4702,
+      1869
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4703,
+      4705,
+      4706,
+      4707,
+      4708,
+      4709
+    ],
+    "parentUnions": [
+      "F1122"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4702,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 1869,
+        "unionId": "F1122",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066267162034@",
+    "geniId": "6000000066267162034",
+    "rfn": "geni:6000000066267162034",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/4704/",
+    "canonical": "https://www.genepedia.org/people/4704/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

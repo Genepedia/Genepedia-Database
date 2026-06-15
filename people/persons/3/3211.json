@@ -1,0 +1,77 @@
+{
+  "id": 3211,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-christiaan-van-wyk",
+  "names": {
+    "display": "Johannes Christiaan van Wyk",
+    "given": "Johannes Christiaan",
+    "surname": "van Wyk",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1289
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F791"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1289,
+        "unionId": "F791",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000112930339868@",
+    "geniId": "6000000112930339868",
+    "rfn": "geni:6000000112930339868",
+    "changed": "19 NOV 2019"
+  },
+  "page": {
+    "route": "people/3211/",
+    "canonical": "https://www.genepedia.org/people/3211/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

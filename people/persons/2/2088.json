@@ -1,0 +1,101 @@
+{
+  "id": 2088,
+  "schema": "genepedia/person@1",
+  "slug": "hester-van-der-walt-2088",
+  "names": {
+    "display": "Hester van der Walt",
+    "given": "Hester",
+    "surname": "van der Walt",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 SEP 1879",
+      "year": 1879,
+      "iso": "1879-09-17",
+      "precision": "exact",
+      "display": "September 17, 1879",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2086,
+      2087
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2089,
+      2090,
+      2091,
+      2092,
+      2093,
+      2094,
+      862,
+      2095
+    ],
+    "parentUnions": [
+      "F545"
+    ],
+    "spouseUnions": [
+      "F1284"
+    ],
+    "parentLinks": [
+      {
+        "id": 2086,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 2087,
+        "unionId": "F545",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025579902934@",
+    "geniId": "6000000025579902934",
+    "rfn": "geni:6000000025579902934",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2088/",
+    "canonical": "https://www.genepedia.org/people/2088/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

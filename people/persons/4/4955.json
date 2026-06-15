@@ -1,0 +1,116 @@
+{
+  "id": 4955,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-cornelius-smith",
+  "names": {
+    "display": "Jacobus Cornelius Smith",
+    "given": "Jacobus Cornelius",
+    "surname": "Smith",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1879",
+      "year": 1879,
+      "iso": "1879",
+      "precision": "exact",
+      "display": "1879",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1925
+    ],
+    "exSpouses": [],
+    "children": [
+      4956,
+      4957,
+      4958,
+      4959,
+      4960
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1176"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1925,
+        "unionId": "F1176",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4956,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 4957,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 4958,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 4959,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 4960,
+        "unionId": "F1176",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000089490383302@",
+    "geniId": "6000000089490383302",
+    "rfn": "geni:6000000089490383302",
+    "changed": "19 MAR 2019"
+  },
+  "page": {
+    "route": "people/4955/",
+    "canonical": "https://www.genepedia.org/people/4955/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

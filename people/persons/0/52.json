@@ -1,0 +1,129 @@
+{
+  "id": 52,
+  "schema": "genepedia/person@1",
+  "slug": "christo-booyens",
+  "names": {
+    "display": "Christo Booyens",
+    "given": "Christo",
+    "surname": "Booyens",
+    "married": "Booyens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "AFT 3 AUG 1978",
+      "year": 1978,
+      "iso": "1978-08-03",
+      "precision": "after",
+      "display": "after August 3, 1978",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/13/d3/99/3e/534448674b863356/336733032_957401232284703_2982391573546298794_n_original.jpg?hash=1272f99c1ba26ee6f216070102431c2abdc007994b0409626cf1f2f71cf83b56.1789455599",
+      "alt": "Christo Booyens"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/13/d3/99/3e/534448674b863356/336733032_957401232284703_2982391573546298794_n_original.jpg?hash=1272f99c1ba26ee6f216070102431c2abdc007994b0409626cf1f2f71cf83b56.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/66/f1/56/be/534448656eff2469/screenshot_2024-03-13_173549_original.jpg?hash=e0394f02ce65802e13d6fa6de93d06946b61299a16731bfe9f71eaf500d95fd6.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      188,
+      189
+    ],
+    "spouses": [
+      9
+    ],
+    "exSpouses": [],
+    "children": [
+      53
+    ],
+    "siblings": [
+      190
+    ],
+    "parentUnions": [
+      "F57"
+    ],
+    "spouseUnions": [
+      "F18"
+    ],
+    "parentLinks": [
+      {
+        "id": 188,
+        "unionId": "F57",
+        "type": "biological"
+      },
+      {
+        "id": 189,
+        "unionId": "F57",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 9,
+        "unionId": "F18",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 53,
+        "unionId": "F18",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204042683828@",
+    "geniId": "6000000204042683828",
+    "rfn": "geni:6000000204042683828",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/52/",
+    "canonical": "https://www.genepedia.org/people/52/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

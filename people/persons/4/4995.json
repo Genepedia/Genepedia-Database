@@ -1,0 +1,109 @@
+{
+  "id": 4995,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-johannes-hendrik-bester-4995",
+  "names": {
+    "display": "Marthinus Johannes Hendrik Bester",
+    "given": "Marthinus Johannes Hendrik",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "19 DEC 1927",
+      "year": 1927,
+      "iso": "1927-12-19",
+      "precision": "exact",
+      "display": "December 19, 1927",
+      "place": "Vlakpan, Schweizer Reneke, North West, South Africa",
+      "location": {
+        "label": "Vlakpan, Schweizer Reneke, North West, South Africa",
+        "placeName": "Vlakpan",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Schweizer Reneke",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1941,
+      4994
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4996,
+      4997
+    ],
+    "parentUnions": [
+      "F1186"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1941,
+        "unionId": "F1186",
+        "type": "biological"
+      },
+      {
+        "id": 4994,
+        "unionId": "F1186",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066994323853@",
+    "geniId": "6000000066994323853",
+    "rfn": "geni:6000000066994323853",
+    "changed": "13 SEP 2017"
+  },
+  "page": {
+    "route": "people/4995/",
+    "canonical": "https://www.genepedia.org/people/4995/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

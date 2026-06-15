@@ -1,0 +1,119 @@
+{
+  "id": 3363,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-dreyer-morkel",
+  "names": {
+    "display": "Johanna Dreyer Morkel",
+    "given": "Johanna Dreyer",
+    "surname": "Morkel",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 MAR 1917",
+      "year": 1917,
+      "iso": "1917-03-23",
+      "precision": "exact",
+      "display": "March 23, 1917",
+      "place": null
+    },
+    "death": {
+      "date": "17 MAY 2013",
+      "year": 2013,
+      "iso": "2013-05-17",
+      "precision": "exact",
+      "display": "May 17, 2013",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/41/a3/d5/cf/53444866617c56ab/thumb200s_2__original.jpg?hash=049a980930005d8216690c89e6c335da7850582391aafd96e4310135f1697021.1789455599",
+      "alt": "Johanna Dreyer Morkel"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/41/a3/d5/cf/53444866617c56ab/thumb200s_2__original.jpg?hash=049a980930005d8216690c89e6c335da7850582391aafd96e4310135f1697021.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1329
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F827"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1329,
+        "unionId": "F827",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020387164136@",
+    "geniId": "6000000020387164136",
+    "rfn": "geni:6000000020387164136",
+    "changed": "13 AUG 2024"
+  },
+  "page": {
+    "route": "people/3363/",
+    "canonical": "https://www.genepedia.org/people/3363/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

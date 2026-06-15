@@ -1,0 +1,86 @@
+{
+  "id": 3703,
+  "schema": "genepedia/person@1",
+  "slug": "arnold-herman-de-beer",
+  "names": {
+    "display": "Arnold Herman De Beer",
+    "given": "Arnold Herman",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1415,
+      3700
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3701,
+      3702
+    ],
+    "parentUnions": [
+      "F887"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1415,
+        "unionId": "F887",
+        "type": "biological"
+      },
+      {
+        "id": 3700,
+        "unionId": "F887",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000178610252836@",
+    "geniId": "6000000178610252836",
+    "rfn": "geni:6000000178610252836",
+    "changed": "18 SEP 2021"
+  },
+  "page": {
+    "route": "people/3703/",
+    "canonical": "https://www.genepedia.org/people/3703/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

@@ -1,0 +1,197 @@
+{
+  "id": 4183,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-paulus-viljoen-4183",
+  "names": {
+    "display": "Abraham Paulus Viljoen",
+    "given": "Abraham Paulus",
+    "surname": "Viljoen",
+    "married": "Viljoen",
+    "nick": "Apie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JAN 1889",
+      "year": 1889,
+      "iso": "1889-01-12",
+      "precision": "exact",
+      "display": "January 12, 1889",
+      "place": "Schweizer Reneke, Transvaal, South Africa",
+      "location": {
+        "label": "Schweizer Reneke, Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Schweizer Reneke",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 MAY 1960",
+      "year": 1960,
+      "iso": "1960-05-03",
+      "precision": "exact",
+      "display": "May 3, 1960",
+      "place": "Schweizer Reneke, Wes Transvaal, South Africa",
+      "location": {
+        "label": "Schweizer Reneke, Wes Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Schweizer Reneke",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Wes Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Schweizer Reneke, Wes Transvaal, South Africa",
+      "location": {
+        "label": "Schweizer Reneke, Wes Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Schweizer Reneke",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Wes Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer op Welgevonden - Schweizer Reneke",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p5/5860/5088/534448368f142801/APViljoen_original.jpg?hash=7f491964c5f1b239447880d69183f947c9c3033bee6bbe55ecf4d7e3db568a74.1789455599",
+      "alt": "Abraham Paulus Viljoen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p5/5860/5088/534448368f142801/APViljoen_original.jpg?hash=7f491964c5f1b239447880d69183f947c9c3033bee6bbe55ecf4d7e3db568a74.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4182
+    ],
+    "exSpouses": [],
+    "children": [
+      4184,
+      4185,
+      1587,
+      4186,
+      4187,
+      4188
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F980"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4182,
+        "unionId": "F980",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4184,
+        "unionId": "F980",
+        "type": "biological"
+      },
+      {
+        "id": 4185,
+        "unionId": "F980",
+        "type": "biological"
+      },
+      {
+        "id": 1587,
+        "unionId": "F980",
+        "type": "biological"
+      },
+      {
+        "id": 4186,
+        "unionId": "F980",
+        "type": "biological"
+      },
+      {
+        "id": 4187,
+        "unionId": "F980",
+        "type": "biological"
+      },
+      {
+        "id": 4188,
+        "unionId": "F980",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000001785982521@",
+    "geniId": "6000000001785982521",
+    "rfn": "geni:6000000001785982521",
+    "changed": "08 JUL 2025"
+  },
+  "page": {
+    "route": "people/4183/",
+    "canonical": "https://www.genepedia.org/people/4183/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

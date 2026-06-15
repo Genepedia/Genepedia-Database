@@ -1,0 +1,131 @@
+{
+  "id": 4686,
+  "schema": "genepedia/person@1",
+  "slug": "maria-johanna-droskie",
+  "names": {
+    "display": "Maria Johanna Droskie",
+    "given": "Maria Johanna",
+    "surname": "Droskie",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 OCT 1898",
+      "year": 1898,
+      "iso": "1898-10-08",
+      "precision": "exact",
+      "display": "October 8, 1898",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 JAN 1976",
+      "year": 1976,
+      "iso": "1976-01-23",
+      "precision": "exact",
+      "display": "January 23, 1976",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1866
+    ],
+    "exSpouses": [],
+    "children": [
+      4687
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1117"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1866,
+        "unionId": "F1117",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4687,
+        "unionId": "F1117",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066096740014@",
+    "geniId": "6000000066096740014",
+    "rfn": "geni:6000000066096740014",
+    "changed": "06 MAY 2026"
+  },
+  "page": {
+    "route": "people/4686/",
+    "canonical": "https://www.genepedia.org/people/4686/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

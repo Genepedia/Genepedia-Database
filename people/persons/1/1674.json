@@ -1,0 +1,77 @@
+{
+  "id": 1674,
+  "schema": "genepedia/person@1",
+  "slug": "private-1674",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      674
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F434"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 674,
+        "unionId": "F434",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000210177850839@",
+    "geniId": "6000000210177850839",
+    "rfn": "geni:6000000210177850839",
+    "changed": "22 OCT 2024"
+  },
+  "page": {
+    "route": "people/1674/",
+    "canonical": "https://www.genepedia.org/people/1674/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

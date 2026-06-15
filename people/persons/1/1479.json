@@ -1,0 +1,98 @@
+{
+  "id": 1479,
+  "schema": "genepedia/person@1",
+  "slug": "ronelle-de-beer",
+  "names": {
+    "display": "Ronelle de Beer",
+    "given": "Ronelle",
+    "surname": "Swart",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 DEC 1965",
+      "year": 1965,
+      "iso": "1965-12-15",
+      "precision": "exact",
+      "display": "December 15, 1965",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      594
+    ],
+    "exSpouses": [],
+    "children": [
+      1480,
+      1481
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F378"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 594,
+        "unionId": "F378",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1480,
+        "unionId": "F378",
+        "type": "biological"
+      },
+      {
+        "id": 1481,
+        "unionId": "F378",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206608739854@",
+    "geniId": "6000000206608739854",
+    "rfn": "geni:6000000206608739854",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1479/",
+    "canonical": "https://www.genepedia.org/people/1479/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

@@ -1,0 +1,214 @@
+{
+  "id": 955,
+  "schema": "genepedia/person@1",
+  "slug": "alida-petronella-swanepoel",
+  "names": {
+    "display": "Alida Petronella Swanepoel",
+    "given": "Alida Petronella",
+    "surname": "Swanepoel",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1829",
+      "year": 1829,
+      "iso": "1829",
+      "precision": "exact",
+      "display": "1829",
+      "place": "Graafreinette, South Africa",
+      "location": {
+        "label": "Graafreinette, South Africa",
+        "placeName": "Graafreinette",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "14 MAY 1908",
+      "year": 1908,
+      "iso": "1908-05-14",
+      "precision": "exact",
+      "display": "May 14, 1908",
+      "place": "Driefontein, Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Driefontein, Griekwastad, Northern Cape, South Africa",
+        "placeName": "Driefontein",
+        "addressLine1": "Hay",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/a1/74/fb/6e/53444861674b1d52/alida_petronella_cloete_swanepoel_information_of_a_death_13_may_1908_griekwastad_original.jpg?hash=498a9b85705de2c9c34ff5d70a293df6d81d5545781100f24da22d5c7c517214.1789455599",
+      "alt": "Alida Petronella Swanepoel"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/a1/74/fb/6e/53444861674b1d52/alida_petronella_cloete_swanepoel_information_of_a_death_13_may_1908_griekwastad_original.jpg?hash=498a9b85705de2c9c34ff5d70a293df6d81d5545781100f24da22d5c7c517214.1789455599",
+        "form": "",
+        "title": "Alida Petronella Cloete (Swanepoel)  Information of a death 13 May 1908 Griekwastad.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/8d/75/a1/97/534448616745a6fb/alida_petronella_cloete_swanepoel_death_notice_14_may_1908_griekwastad_original.jpg?hash=5c0a29ad6e0e91178f4da3ba5807d9eb51f3d6de5edfe23c9d5597309b037390.1789455599",
+        "form": "",
+        "title": "Alida Petronella Cloete (Swanepoel)  Death Notice 14 May 1908 Griekwastad.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2384,
+      2383
+    ],
+    "spouses": [
+      954
+    ],
+    "exSpouses": [],
+    "children": [
+      382,
+      956,
+      957,
+      958,
+      959,
+      960,
+      961,
+      962,
+      963
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F601"
+    ],
+    "spouseUnions": [
+      "F262"
+    ],
+    "parentLinks": [
+      {
+        "id": 2384,
+        "unionId": "F601",
+        "type": "biological"
+      },
+      {
+        "id": 2383,
+        "unionId": "F601",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 954,
+        "unionId": "F262",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 382,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 956,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 957,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 958,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 959,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 960,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 961,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 962,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 963,
+        "unionId": "F262",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000136294473821@",
+    "geniId": "6000000136294473821",
+    "rfn": "geni:6000000136294473821",
+    "changed": "26 AUG 2022"
+  },
+  "page": {
+    "route": "people/955/",
+    "canonical": "https://www.genepedia.org/people/955/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

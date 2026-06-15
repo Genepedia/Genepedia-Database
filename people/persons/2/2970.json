@@ -1,0 +1,101 @@
+{
+  "id": 2970,
+  "schema": "genepedia/person@1",
+  "slug": "christiaan-johannes-de-klerk-2970",
+  "names": {
+    "display": "Christiaan Johannes de Klerk",
+    "given": "Christiaan Johannes",
+    "surname": "de Klerk",
+    "married": "de Klerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 MAY 1921",
+      "year": 1921,
+      "iso": "1921-05-12",
+      "precision": "exact",
+      "display": "May 12, 1921",
+      "place": null
+    },
+    "death": {
+      "date": "2015",
+      "year": 2015,
+      "iso": "2015",
+      "precision": "exact",
+      "display": "2015",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1181,
+      2969
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2971,
+      2972,
+      2973
+    ],
+    "parentUnions": [
+      "F726"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1181,
+        "unionId": "F726",
+        "type": "biological"
+      },
+      {
+        "id": 2969,
+        "unionId": "F726",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056758936821@",
+    "geniId": "6000000056758936821",
+    "rfn": "geni:6000000056758936821",
+    "changed": "23 DEC 2023"
+  },
+  "page": {
+    "route": "people/2970/",
+    "canonical": "https://www.genepedia.org/people/2970/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

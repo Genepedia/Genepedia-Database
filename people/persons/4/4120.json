@@ -1,0 +1,131 @@
+{
+  "id": 4120,
+  "schema": "genepedia/person@1",
+  "slug": "francina-carolina-burger",
+  "names": {
+    "display": "Francina Carolina Burger",
+    "given": "Francina Carolina",
+    "surname": "Burger",
+    "married": "Van Aswegen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 FEB 1897",
+      "year": 1897,
+      "iso": "1897-02-06",
+      "precision": "exact",
+      "display": "February 6, 1897",
+      "place": "Griekwastad, Hay, Cape Province, South Africa",
+      "location": {
+        "label": "Griekwastad, Hay, Cape Province, South Africa",
+        "placeName": "Griekwastad, Hay, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 SEP 1974",
+      "year": 1974,
+      "iso": "1974-09-01",
+      "precision": "exact",
+      "display": "September 1, 1974",
+      "place": "Kempton Park, Gauteng, South Africa",
+      "location": {
+        "label": "Kempton Park, Gauteng, South Africa",
+        "placeName": "Kempton Park, Gauteng, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4119,
+      1557
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4121
+    ],
+    "parentUnions": [
+      "F953"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4119,
+        "unionId": "F953",
+        "type": "biological"
+      },
+      {
+        "id": 1557,
+        "unionId": "F953",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000188324253839@",
+    "geniId": "6000000188324253839",
+    "rfn": "geni:6000000188324253839",
+    "changed": "25 OCT 2022"
+  },
+  "page": {
+    "route": "people/4120/",
+    "canonical": "https://www.genepedia.org/people/4120/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

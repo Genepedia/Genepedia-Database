@@ -1,0 +1,125 @@
+{
+  "id": 637,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-johannes-pretorius-637",
+  "names": {
+    "display": "Hendrik Johannes Pretorius",
+    "given": "Hendrik Johannes",
+    "surname": "Pretorius",
+    "married": "Bezuidenhout",
+    "nick": "",
+    "aliases": [
+      "Rikie Bezuidenhout"
+    ]
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d7/5e/f6/8f/53444866474b5da3/rikie_original.jpg?hash=db3034eab7ecd14a4a90ec4fb894b63f1159402513fcaa71b685ebcbf7cb5084.1789455599",
+      "alt": "Hendrik Johannes Pretorius"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d7/5e/f6/8f/53444866474b5da3/rikie_original.jpg?hash=db3034eab7ecd14a4a90ec4fb894b63f1159402513fcaa71b685ebcbf7cb5084.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      634,
+      241
+    ],
+    "spouses": [
+      1592
+    ],
+    "exSpouses": [],
+    "children": [
+      1593,
+      1594
+    ],
+    "siblings": [
+      635,
+      636,
+      638
+    ],
+    "parentUnions": [
+      "F177"
+    ],
+    "spouseUnions": [
+      "F403"
+    ],
+    "parentLinks": [
+      {
+        "id": 634,
+        "unionId": "F177",
+        "type": "biological"
+      },
+      {
+        "id": 241,
+        "unionId": "F177",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1592,
+        "unionId": "F403",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1593,
+        "unionId": "F403",
+        "type": "biological"
+      },
+      {
+        "id": 1594,
+        "unionId": "F403",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002432906106@",
+    "geniId": "6000000002432906106",
+    "rfn": "geni:6000000002432906106",
+    "changed": "28 JUL 2024"
+  },
+  "page": {
+    "route": "people/637/",
+    "canonical": "https://www.genepedia.org/people/637/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,122 @@
+{
+  "id": 3771,
+  "schema": "genepedia/person@1",
+  "slug": "jeremia-brynard",
+  "names": {
+    "display": "Jeremia Brynard",
+    "given": "Jeremia",
+    "surname": "Brynard",
+    "married": "Brynard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 FEB 1895",
+      "year": 1895,
+      "iso": "1895-02-24",
+      "precision": "exact",
+      "display": "February 24, 1895",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "21 APR 1895",
+      "year": 1895,
+      "iso": "1895-04-21",
+      "precision": "exact",
+      "display": "April 21, 1895",
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1435,
+      3763
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3764,
+      3765,
+      3766,
+      3767,
+      3768,
+      3769,
+      3770,
+      3772
+    ],
+    "parentUnions": [
+      "F900"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1435,
+        "unionId": "F900",
+        "type": "biological"
+      },
+      {
+        "id": 3763,
+        "unionId": "F900",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000150166166906@",
+    "geniId": "6000000150166166906",
+    "rfn": "geni:6000000150166166906",
+    "changed": "04 FEB 2021"
+  },
+  "page": {
+    "route": "people/3771/",
+    "canonical": "https://www.genepedia.org/people/3771/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

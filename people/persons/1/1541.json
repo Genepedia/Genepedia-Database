@@ -1,0 +1,155 @@
+{
+  "id": 1541,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-jacobus-van-niekerk",
+  "names": {
+    "display": "Gerrit Jacobus van Niekerk",
+    "given": "Gerrit Jacobus",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "Gerrie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1830",
+      "year": 1830,
+      "iso": "1830",
+      "precision": "about",
+      "display": "about 1830",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f6/fb/6a/42/5344484875c288f8/scan_20180627_190238_original.jpg?hash=48a4f027f26d564015005531b32b92c1466d7ecf58608f8789b4009209045378.1789455599",
+      "alt": "Gerrit Jacobus van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f6/fb/6a/42/5344484875c288f8/scan_20180627_190238_original.jpg?hash=48a4f027f26d564015005531b32b92c1466d7ecf58608f8789b4009209045378.1789455599",
+        "form": "",
+        "title": "Scan_20180627_190238.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/ab/aa/60/62/5344484875c288f4/scan_20180627_185854_original.jpg?hash=68e0d0d453f55c61de614eb717faf56be46c4ec4cf2b78a1ddddb30d6a10bd94.1789455599",
+        "form": "",
+        "title": "Scan_20180627_185854.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/e0/ad/65/d8/5344484875c288f6/scan_20180627_190047_original.jpg?hash=5780a3493d1ca070d01e4b2e58e48d6133cf3b07c2a0ab4c3e7c48dab78857fd.1789455599",
+        "form": "",
+        "title": "Scan_20180627_190047.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/81/8d/1f/12/5344485ef06c6245/famnea_volume_9_edition_2_published_may_1812_original.pdf?hash=8c633b743694a84bcac9226faf90d3cc9632d08291fad57b4d90499ea7f2aa0d.1789455599",
+        "form": "",
+        "title": "Famnea volume 9 Edition 2 published May 1912.pdf",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1539,
+      1540
+    ],
+    "spouses": [
+      2873
+    ],
+    "exSpouses": [],
+    "children": [
+      4028,
+      4029
+    ],
+    "siblings": [
+      1542,
+      1543,
+      1544,
+      628,
+      1545,
+      1546,
+      1547
+    ],
+    "parentUnions": [
+      "F394"
+    ],
+    "spouseUnions": [
+      "F938"
+    ],
+    "parentLinks": [
+      {
+        "id": 1539,
+        "unionId": "F394",
+        "type": "biological"
+      },
+      {
+        "id": 1540,
+        "unionId": "F394",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2873,
+        "unionId": "F938",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4028,
+        "unionId": "F938",
+        "type": "biological"
+      },
+      {
+        "id": 4029,
+        "unionId": "F938",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024466301410@",
+    "geniId": "6000000024466301410",
+    "rfn": "geni:6000000024466301410",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1541/",
+    "canonical": "https://www.genepedia.org/people/1541/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1812,
+  "schema": "genepedia/person@1",
+  "slug": "john-mapeno",
+  "names": {
+    "display": "John Mapeno",
+    "given": "John",
+    "surname": "Mapeno",
+    "married": "Mapeno",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      787
+    ],
+    "exSpouses": [],
+    "children": [
+      1813,
+      1814,
+      1815
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F479"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 787,
+        "unionId": "F479",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1813,
+        "unionId": "F479",
+        "type": "biological"
+      },
+      {
+        "id": 1814,
+        "unionId": "F479",
+        "type": "biological"
+      },
+      {
+        "id": 1815,
+        "unionId": "F479",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207545005821@",
+    "geniId": "6000000207545005821",
+    "rfn": "geni:6000000207545005821",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1812/",
+    "canonical": "https://www.genepedia.org/people/1812/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

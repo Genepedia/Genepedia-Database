@@ -1,0 +1,151 @@
+{
+  "id": 1545,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-johannes-van-niekerk-1545",
+  "names": {
+    "display": "Dirk Johannes van Niekerk",
+    "given": "Dirk Johannes",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1539,
+      1540
+    ],
+    "spouses": [
+      1552
+    ],
+    "exSpouses": [],
+    "children": [
+      4041,
+      4042,
+      4043,
+      4044,
+      4045,
+      4046,
+      4047,
+      4048
+    ],
+    "siblings": [
+      1541,
+      1542,
+      1543,
+      1544,
+      628,
+      1546,
+      1547
+    ],
+    "parentUnions": [
+      "F394"
+    ],
+    "spouseUnions": [
+      "F942"
+    ],
+    "parentLinks": [
+      {
+        "id": 1539,
+        "unionId": "F394",
+        "type": "biological"
+      },
+      {
+        "id": 1540,
+        "unionId": "F394",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1552,
+        "unionId": "F942",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4041,
+        "unionId": "F942",
+        "type": "biological"
+      },
+      {
+        "id": 4042,
+        "unionId": "F942",
+        "type": "biological"
+      },
+      {
+        "id": 4043,
+        "unionId": "F942",
+        "type": "biological"
+      },
+      {
+        "id": 4044,
+        "unionId": "F942",
+        "type": "biological"
+      },
+      {
+        "id": 4045,
+        "unionId": "F942",
+        "type": "biological"
+      },
+      {
+        "id": 4046,
+        "unionId": "F942",
+        "type": "biological"
+      },
+      {
+        "id": 4047,
+        "unionId": "F942",
+        "type": "biological"
+      },
+      {
+        "id": 4048,
+        "unionId": "F942",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000022921295056@",
+    "geniId": "6000000022921295056",
+    "rfn": "geni:6000000022921295056",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/1545/",
+    "canonical": "https://www.genepedia.org/people/1545/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1743,
+  "schema": "genepedia/person@1",
+  "slug": "taube-hane-kleyn",
+  "names": {
+    "display": "Taube Hane Kleyn",
+    "given": "Taube Hane",
+    "surname": "Kleyn",
+    "married": "Lurie",
+    "nick": "Tobye",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1831",
+      "year": 1831,
+      "iso": "1831",
+      "precision": "about",
+      "display": "about 1831",
+      "place": null
+    },
+    "death": {
+      "date": "AFT 27 MAY 1858",
+      "year": 1858,
+      "iso": "1858-05-27",
+      "precision": "after",
+      "display": "after May 27, 1858",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4450,
+      4451
+    ],
+    "spouses": [
+      1742
+    ],
+    "exSpouses": [],
+    "children": [
+      725,
+      1744,
+      1745,
+      1746,
+      1747
+    ],
+    "siblings": [
+      4452
+    ],
+    "parentUnions": [
+      "F1055"
+    ],
+    "spouseUnions": [
+      "F457"
+    ],
+    "parentLinks": [
+      {
+        "id": 4450,
+        "unionId": "F1055",
+        "type": "biological"
+      },
+      {
+        "id": 4451,
+        "unionId": "F1055",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1742,
+        "unionId": "F457",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 725,
+        "unionId": "F457",
+        "type": "biological"
+      },
+      {
+        "id": 1744,
+        "unionId": "F457",
+        "type": "biological"
+      },
+      {
+        "id": 1745,
+        "unionId": "F457",
+        "type": "biological"
+      },
+      {
+        "id": 1746,
+        "unionId": "F457",
+        "type": "biological"
+      },
+      {
+        "id": 1747,
+        "unionId": "F457",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291004@",
+    "geniId": "6000000003658291004",
+    "rfn": "geni:6000000003658291004",
+    "changed": "06 JAN 2025"
+  },
+  "page": {
+    "route": "people/1743/",
+    "canonical": "https://www.genepedia.org/people/1743/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

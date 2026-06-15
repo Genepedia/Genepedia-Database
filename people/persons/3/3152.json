@@ -1,0 +1,88 @@
+{
+  "id": 3152,
+  "schema": "genepedia/person@1",
+  "slug": "isabella-wilhelmina-marais",
+  "names": {
+    "display": "Isabella Wilhelmina Marais",
+    "given": "Isabella Wilhelmina",
+    "surname": "Marais",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1262,
+      3150
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3151,
+      3153,
+      3154,
+      3155
+    ],
+    "parentUnions": [
+      "F775"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1262,
+        "unionId": "F775",
+        "type": "biological"
+      },
+      {
+        "id": 3150,
+        "unionId": "F775",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000073577631236@",
+    "geniId": "6000000073577631236",
+    "rfn": "geni:6000000073577631236",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/3152/",
+    "canonical": "https://www.genepedia.org/people/3152/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

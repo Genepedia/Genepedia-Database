@@ -1,0 +1,140 @@
+{
+  "id": 3320,
+  "schema": "genepedia/person@1",
+  "slug": "jan-sybrand-van-der-spuy-van-taak",
+  "names": {
+    "display": "Jan Sybrand van der Spuy van Taak",
+    "given": "Jan Sybrand van der Spuy",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "Oupa",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 JUN 1942",
+      "year": 1942,
+      "iso": "1942-06-13",
+      "precision": "exact",
+      "display": "June 13, 1942",
+      "place": "Cape Town, Cape Province, South Africa",
+      "location": {
+        "label": "Cape Town, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 JAN 2016",
+      "year": 2016,
+      "iso": "2016-01-17",
+      "precision": "exact",
+      "display": "January 17, 2016",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": "21 JAN 2016",
+      "year": 2016,
+      "iso": "2016-01-21",
+      "precision": "exact",
+      "display": "January 21, 2016",
+      "place": null,
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/2d/0b/02/46/5344483abcfcdd68/jan_sybrandt_van_taak_-_dalk_original.jpg?hash=706f80177bc75747f971415f7a5ad7b153e0c6e95e60b4afc1e1f8f327e5d3c2.1789455599",
+      "alt": "Jan Sybrand van der Spuy van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/2d/0b/02/46/5344483abcfcdd68/jan_sybrandt_van_taak_-_dalk_original.jpg?hash=706f80177bc75747f971415f7a5ad7b153e0c6e95e60b4afc1e1f8f327e5d3c2.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1310,
+      3313
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3314,
+      3315,
+      3316,
+      3317,
+      3318,
+      3319
+    ],
+    "parentUnions": [
+      "F813"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1310,
+        "unionId": "F813",
+        "type": "biological"
+      },
+      {
+        "id": 3313,
+        "unionId": "F813",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020304438488@",
+    "geniId": "6000000020304438488",
+    "rfn": "geni:6000000020304438488",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/3320/",
+    "canonical": "https://www.genepedia.org/people/3320/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

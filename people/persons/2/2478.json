@@ -1,0 +1,139 @@
+{
+  "id": 2478,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-maria-mitchell",
+  "names": {
+    "display": "Elizabeth Maria Mitchell",
+    "given": "Elizabeth Maria",
+    "surname": "Mitchell",
+    "married": "Ellis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 JUN 1868",
+      "year": 1868,
+      "iso": "1868-06-13",
+      "precision": "exact",
+      "display": "June 13, 1868",
+      "place": "Buffelsdrift, Ladismith, Western Cape, South Africa",
+      "location": {
+        "label": "Buffelsdrift, Ladismith, Western Cape, South Africa",
+        "placeName": "Buffelsdrift",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ladismith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "6 DEC 1892",
+      "year": 1892,
+      "iso": "1892-12-06",
+      "precision": "exact",
+      "display": "December 6, 1892",
+      "place": "Groot Brakrivier, WC, South Africa",
+      "location": {
+        "label": "Groot Brakrivier, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Groot Brakrivier",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2473,
+      1012
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1995,
+      2474,
+      2475,
+      2476,
+      2477,
+      2479,
+      2480
+    ],
+    "parentUnions": [
+      "F622"
+    ],
+    "spouseUnions": [
+      "F1524"
+    ],
+    "parentLinks": [
+      {
+        "id": 2473,
+        "unionId": "F622",
+        "type": "biological"
+      },
+      {
+        "id": 1012,
+        "unionId": "F622",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000005610658361@",
+    "geniId": "6000000005610658361",
+    "rfn": "geni:6000000005610658361",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/2478/",
+    "canonical": "https://www.genepedia.org/people/2478/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

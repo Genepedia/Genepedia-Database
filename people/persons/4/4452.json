@@ -1,0 +1,99 @@
+{
+  "id": 4452,
+  "schema": "genepedia/person@1",
+  "slug": "sroel-kleyn",
+  "names": {
+    "display": "Sroel Kleyn",
+    "given": "Sroel",
+    "surname": "Kleyn",
+    "married": "Kleyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1823",
+      "year": 1823,
+      "iso": "1823",
+      "precision": "about",
+      "display": "about 1823",
+      "place": null
+    },
+    "death": {
+      "date": "AFT 27 MAY 1858",
+      "year": 1858,
+      "iso": "1858-05-27",
+      "precision": "after",
+      "display": "after May 27, 1858",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4450,
+      4451
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1743
+    ],
+    "parentUnions": [
+      "F1055"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4450,
+        "unionId": "F1055",
+        "type": "biological"
+      },
+      {
+        "id": 4451,
+        "unionId": "F1055",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000209492376821@",
+    "geniId": "6000000209492376821",
+    "rfn": "geni:6000000209492376821",
+    "changed": "06 JAN 2025"
+  },
+  "page": {
+    "route": "people/4452/",
+    "canonical": "https://www.genepedia.org/people/4452/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 835,
+  "schema": "genepedia/person@1",
+  "slug": "james-archibald-mackenzie-mitchell",
+  "names": {
+    "display": "James Archibald Mackenzie Mitchell",
+    "given": "James Archibald Mackenzie",
+    "surname": "Mitchell",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 DEC 1909",
+      "year": 1909,
+      "iso": "1909-12-13",
+      "precision": "exact",
+      "display": "December 13, 1909",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      831,
+      333
+    ],
+    "spouses": [
+      2008
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      832,
+      833,
+      834,
+      836,
+      837,
+      838,
+      839
+    ],
+    "parentUnions": [
+      "F230"
+    ],
+    "spouseUnions": [
+      "F522"
+    ],
+    "parentLinks": [
+      {
+        "id": 831,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 333,
+        "unionId": "F230",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2008,
+        "unionId": "F522",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066539344821@",
+    "geniId": "6000000066539344821",
+    "rfn": "geni:6000000066539344821",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/835/",
+    "canonical": "https://www.genepedia.org/people/835/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

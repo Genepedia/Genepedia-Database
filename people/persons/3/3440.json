@@ -1,0 +1,96 @@
+{
+  "id": 3440,
+  "schema": "genepedia/person@1",
+  "slug": "hans-janse-van-vuuren",
+  "names": {
+    "display": "Hans Janse van Vuuren",
+    "given": "Hans",
+    "surname": "Janse van Vuuren",
+    "married": "Janse van Vuuren",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "2008",
+      "year": 2008,
+      "iso": "2008",
+      "precision": "exact",
+      "display": "2008",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/8f/a7/30/93/5344486602ab670b/409009017_799212185306967_5813587834881166552_n_original.jpg?hash=a81e16e254dd2128c723fe08c31cabe2f88926c534f913f764b224ce6d394049.1789455599",
+      "alt": "Hans Janse van Vuuren"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/8f/a7/30/93/5344486602ab670b/409009017_799212185306967_5813587834881166552_n_original.jpg?hash=a81e16e254dd2128c723fe08c31cabe2f88926c534f913f764b224ce6d394049.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      1357
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F846"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 1357,
+        "unionId": "F846",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206533020821@",
+    "geniId": "6000000206533020821",
+    "rfn": "geni:6000000206533020821",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/3440/",
+    "canonical": "https://www.genepedia.org/people/3440/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

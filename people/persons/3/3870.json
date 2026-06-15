@@ -1,0 +1,111 @@
+{
+  "id": 3870,
+  "schema": "genepedia/person@1",
+  "slug": "cornelias-johannes-barnard",
+  "names": {
+    "display": "Cornelias Johannes Barnard",
+    "given": "Cornelias Johannes",
+    "surname": "Barnard",
+    "married": "Barnard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 MAY 1869",
+      "year": 1869,
+      "iso": "1869-05-31",
+      "precision": "exact",
+      "display": "May 31, 1869",
+      "place": "Boshof, FS, South Africa",
+      "location": {
+        "label": "Boshof, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3866,
+      1523
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3867,
+      3868,
+      3869,
+      3871
+    ],
+    "parentUnions": [
+      "F918"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3866,
+        "unionId": "F918",
+        "type": "biological"
+      },
+      {
+        "id": 1523,
+        "unionId": "F918",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000178715222841@",
+    "geniId": "6000000178715222841",
+    "rfn": "geni:6000000178715222841",
+    "changed": "23 SEP 2021"
+  },
+  "page": {
+    "route": "people/3870/",
+    "canonical": "https://www.genepedia.org/people/3870/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

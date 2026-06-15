@@ -1,0 +1,173 @@
+{
+  "id": 373,
+  "schema": "genepedia/person@1",
+  "slug": "jane-ann-roselt-373",
+  "names": {
+    "display": "Jane Ann Roselt",
+    "given": "Jane Ann",
+    "surname": "Roselt",
+    "married": "Mentasti",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 JUL 1896",
+      "year": 1896,
+      "iso": "1896-07-06",
+      "precision": "exact",
+      "display": "July 6, 1896",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 APR 1986",
+      "year": 1986,
+      "iso": "1986-04-16",
+      "precision": "exact",
+      "display": "April 16, 1986",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e2/4f/55/43/5344484f529414f4/record-image_undefined_2__original.jpg?hash=e98802edee0248c0fb796b7274f7169e058cac362eaaa00c11f008360e372b2f.1789455599",
+      "alt": "Jane Ann Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e2/4f/55/43/5344484f529414f4/record-image_undefined_2__original.jpg?hash=e98802edee0248c0fb796b7274f7169e058cac362eaaa00c11f008360e372b2f.1789455599",
+        "form": "",
+        "title": "record-image_trou  1922 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      368,
+      369
+    ],
+    "spouses": [
+      917
+    ],
+    "exSpouses": [],
+    "children": [
+      918,
+      919,
+      920,
+      921
+    ],
+    "siblings": [
+      370,
+      138,
+      371,
+      372,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380
+    ],
+    "parentUnions": [
+      "F117"
+    ],
+    "spouseUnions": [
+      "F255"
+    ],
+    "parentLinks": [
+      {
+        "id": 368,
+        "unionId": "F117",
+        "type": "biological"
+      },
+      {
+        "id": 369,
+        "unionId": "F117",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 917,
+        "unionId": "F255",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 918,
+        "unionId": "F255",
+        "type": "biological"
+      },
+      {
+        "id": 919,
+        "unionId": "F255",
+        "type": "biological"
+      },
+      {
+        "id": 920,
+        "unionId": "F255",
+        "type": "biological"
+      },
+      {
+        "id": 921,
+        "unionId": "F255",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165487831@",
+    "geniId": "6000000028165487831",
+    "rfn": "geni:6000000028165487831",
+    "changed": "25 MAY 2018"
+  },
+  "page": {
+    "route": "people/373/",
+    "canonical": "https://www.genepedia.org/people/373/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

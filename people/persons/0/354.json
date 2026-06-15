@@ -1,0 +1,120 @@
+{
+  "id": 354,
+  "schema": "genepedia/person@1",
+  "slug": "marthina-johanna-bester",
+  "names": {
+    "display": "Marthina Johanna Bester",
+    "given": "Marthina Johanna",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "4 SEP 1965",
+      "year": 1965,
+      "iso": "1965-09-04",
+      "precision": "exact",
+      "display": "September 4, 1965",
+      "place": "Olifantshoek, Northern Cape, South Africa",
+      "location": {
+        "label": "Olifantshoek, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Olifantshoek",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      133,
+      352
+    ],
+    "spouses": [
+      874
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      353,
+      355,
+      356
+    ],
+    "parentUnions": [
+      "F111"
+    ],
+    "spouseUnions": [
+      "F245"
+    ],
+    "parentLinks": [
+      {
+        "id": 133,
+        "unionId": "F111",
+        "type": "biological"
+      },
+      {
+        "id": 352,
+        "unionId": "F111",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 874,
+        "unionId": "F245",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066597211831@",
+    "geniId": "6000000066597211831",
+    "rfn": "geni:6000000066597211831",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/354/",
+    "canonical": "https://www.genepedia.org/people/354/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

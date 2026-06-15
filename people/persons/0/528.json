@@ -1,0 +1,123 @@
+{
+  "id": 528,
+  "schema": "genepedia/person@1",
+  "slug": "hendrick-jacobus-van-deventer",
+  "names": {
+    "display": "Hendrick Jacobus Van Deventer",
+    "given": "Hendrick Jacobus",
+    "surname": "Van Deventer",
+    "married": "Van Deventer",
+    "nick": "Hendrik",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 OCT 1941",
+      "year": 1941,
+      "iso": "1941-10-16",
+      "precision": "exact",
+      "display": "October 16, 1941",
+      "place": null
+    },
+    "death": {
+      "date": "22 APR 2015",
+      "year": 2015,
+      "iso": "2015-04-22",
+      "precision": "exact",
+      "display": "April 22, 2015",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/a4/fd/3c/7d/534448659f2cb30d/screenshot_2024-04-06_194543_original.jpg?hash=27b30197fcdc587aef8014a899a6ec2d57ab6a412933c8af34aae1d6747f1a0b.1789455599",
+      "alt": "Hendrick Jacobus Van Deventer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/a4/fd/3c/7d/534448659f2cb30d/screenshot_2024-04-06_194543_original.jpg?hash=27b30197fcdc587aef8014a899a6ec2d57ab6a412933c8af34aae1d6747f1a0b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      529
+    ],
+    "exSpouses": [],
+    "children": [
+      530,
+      531,
+      205
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F156"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 529,
+        "unionId": "F156",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 530,
+        "unionId": "F156",
+        "type": "biological"
+      },
+      {
+        "id": 531,
+        "unionId": "F156",
+        "type": "biological"
+      },
+      {
+        "id": 205,
+        "unionId": "F156",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204861762923@",
+    "geniId": "6000000204861762923",
+    "rfn": "geni:6000000204861762923",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/528/",
+    "canonical": "https://www.genepedia.org/people/528/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,246 @@
+{
+  "id": 811,
+  "schema": "genepedia/person@1",
+  "slug": "geertruyda-magdalena-cornelia-theron",
+  "names": {
+    "display": "Geertruyda Magdalena Cornelia Theron",
+    "given": "Geertruyda Magdalena Cornelia",
+    "surname": "Theron",
+    "married": "Droskie (formerly Bester)",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 NOV 1832",
+      "year": 1832,
+      "iso": "1832-11-06",
+      "precision": "exact",
+      "display": "November 6, 1832",
+      "place": "Colesberg",
+      "location": {
+        "label": "Colesberg",
+        "placeName": "Colesberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "30 DEC 1917",
+      "year": 1917,
+      "iso": "1917-12-30",
+      "precision": "exact",
+      "display": "December 30, 1917",
+      "place": "Doornkloof, Colesberg, NC, South Africa",
+      "location": {
+        "label": "Doornkloof, Colesberg, NC, South Africa",
+        "placeName": "Doornkloof",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "13 JAN 1833",
+      "year": 1833,
+      "iso": "1833-01-13",
+      "precision": "exact",
+      "display": "January 13, 1833",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1853,
+      1854
+    ],
+    "spouses": [
+      810,
+      1850
+    ],
+    "exSpouses": [],
+    "children": [
+      812,
+      813,
+      814,
+      815,
+      331,
+      816,
+      817,
+      818,
+      819,
+      1851,
+      1852
+    ],
+    "siblings": [
+      1855,
+      1856,
+      1857,
+      1858,
+      1859,
+      1860,
+      1861,
+      1862
+    ],
+    "parentUnions": [
+      "F495"
+    ],
+    "spouseUnions": [
+      "F228",
+      "F494"
+    ],
+    "parentLinks": [
+      {
+        "id": 1853,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1854,
+        "unionId": "F495",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 810,
+        "unionId": "F228",
+        "role": "husband"
+      },
+      {
+        "id": 1850,
+        "unionId": "F494",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 812,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 813,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 814,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 815,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 331,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 816,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 817,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 818,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 819,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 1851,
+        "unionId": "F494",
+        "type": "biological"
+      },
+      {
+        "id": 1852,
+        "unionId": "F494",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000023992164902@",
+    "geniId": "6000000023992164902",
+    "rfn": "geni:6000000023992164902",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/811/",
+    "canonical": "https://www.genepedia.org/people/811/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

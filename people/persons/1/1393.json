@@ -1,0 +1,179 @@
+{
+  "id": 1393,
+  "schema": "genepedia/person@1",
+  "slug": "louis-andries-de-beer",
+  "names": {
+    "display": "Louis Andries de Beer",
+    "given": "Louis Andries",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "a2b6c14d11e9",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 AUG 1854",
+      "year": 1854,
+      "iso": "1854-08-23",
+      "precision": "exact",
+      "display": "August 23, 1854",
+      "place": "Adendorp, Eastern Cape, South Africa",
+      "location": {
+        "label": "Adendorp, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Adendorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 JUN 1936",
+      "year": 1936,
+      "iso": "1936-06-11",
+      "precision": "exact",
+      "display": "June 11, 1936",
+      "place": "Graaff-Reinet, Cape Province, Sout Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, Sout Africa",
+        "placeName": "Graaff-Reinet",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "Sout Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "16 OCT 1854",
+      "year": 1854,
+      "iso": "1854-10-16",
+      "precision": "exact",
+      "display": "October 16, 1854",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "winkelier",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1385,
+      1384
+    ],
+    "spouses": [
+      3549,
+      3550
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1386,
+      1387,
+      1388,
+      1389,
+      1390,
+      563,
+      1391,
+      1392,
+      1394
+    ],
+    "parentUnions": [
+      "F358"
+    ],
+    "spouseUnions": [
+      "F863",
+      "F864"
+    ],
+    "parentLinks": [
+      {
+        "id": 1385,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1384,
+        "unionId": "F358",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3549,
+        "unionId": "F863",
+        "role": "wife"
+      },
+      {
+        "id": 3550,
+        "unionId": "F864",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028575902383@",
+    "geniId": "6000000028575902383",
+    "rfn": "geni:6000000028575902383",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1393/",
+    "canonical": "https://www.genepedia.org/people/1393/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

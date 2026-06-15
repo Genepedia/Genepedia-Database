@@ -1,0 +1,153 @@
+{
+  "id": 39,
+  "schema": "genepedia/person@1",
+  "slug": "hendrina-francina-bester",
+  "names": {
+    "display": "Hendrina Francina Bester",
+    "given": "Hendrina Francina",
+    "surname": "Bester",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 MAR 1933",
+      "year": 1933,
+      "iso": "1933-03-28",
+      "precision": "exact",
+      "display": "March 28, 1933",
+      "place": null
+    },
+    "death": {
+      "date": "3 DEC 2019",
+      "year": 2019,
+      "iso": "2019-12-03",
+      "precision": "exact",
+      "display": "December 3, 2019",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/80/9f/21/57/534448656cb6f5a1/screenshot_2024-03-12_151047_original.jpg?hash=c06bcefcdca3eda5a885e2941e3ea03c0e23d2e099ac37a417955c0106386415.1789455599",
+      "alt": "Hendrina Francina Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/80/9f/21/57/534448656cb6f5a1/screenshot_2024-03-12_151047_original.jpg?hash=c06bcefcdca3eda5a885e2941e3ea03c0e23d2e099ac37a417955c0106386415.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      129,
+      130
+    ],
+    "spouses": [
+      40
+    ],
+    "exSpouses": [],
+    "children": [
+      6,
+      41,
+      42,
+      43
+    ],
+    "siblings": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "parentUnions": [
+      "F46"
+    ],
+    "spouseUnions": [
+      "F14"
+    ],
+    "parentLinks": [
+      {
+        "id": 129,
+        "unionId": "F46",
+        "type": "biological"
+      },
+      {
+        "id": 130,
+        "unionId": "F46",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 40,
+        "unionId": "F14",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 6,
+        "unionId": "F14",
+        "type": "biological"
+      },
+      {
+        "id": 41,
+        "unionId": "F14",
+        "type": "biological"
+      },
+      {
+        "id": 42,
+        "unionId": "F14",
+        "type": "biological"
+      },
+      {
+        "id": 43,
+        "unionId": "F14",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028170887590@",
+    "geniId": "6000000028170887590",
+    "rfn": "geni:6000000028170887590",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/39/",
+    "canonical": "https://www.genepedia.org/people/39/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

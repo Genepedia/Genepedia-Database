@@ -1,0 +1,133 @@
+{
+  "id": 4312,
+  "schema": "genepedia/person@1",
+  "slug": "william-lodge",
+  "names": {
+    "display": "William Lodge",
+    "given": "William",
+    "surname": "Lodge",
+    "married": "Lodge",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1794",
+      "year": 1794,
+      "iso": "1794",
+      "precision": "about",
+      "display": "about 1794",
+      "place": "Wexford, Ireland",
+      "location": {
+        "label": "Wexford, Ireland",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wexford",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Wexford",
+        "country": "Ireland",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1861",
+      "year": 1861,
+      "iso": "1861",
+      "precision": "about",
+      "display": "about 1861",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4313
+    ],
+    "exSpouses": [],
+    "children": [
+      4314,
+      1630,
+      4315,
+      4316
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1015"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4313,
+        "unionId": "F1015",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4314,
+        "unionId": "F1015",
+        "type": "biological"
+      },
+      {
+        "id": 1630,
+        "unionId": "F1015",
+        "type": "biological"
+      },
+      {
+        "id": 4315,
+        "unionId": "F1015",
+        "type": "biological"
+      },
+      {
+        "id": 4316,
+        "unionId": "F1015",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000036782045213@",
+    "geniId": "6000000036782045213",
+    "rfn": "geni:6000000036782045213",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/4312/",
+    "canonical": "https://www.genepedia.org/people/4312/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

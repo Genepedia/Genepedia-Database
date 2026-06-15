@@ -1,0 +1,153 @@
+{
+  "id": 552,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-christoffel-esterhuyse",
+  "names": {
+    "display": "Johannes Christoffel Esterhuyse",
+    "given": "Johannes Christoffel",
+    "surname": "Esterhuyse",
+    "married": "Esterhuyse",
+    "nick": "Johan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "7 JAN 1963",
+      "year": 1963,
+      "iso": "1963-01-07",
+      "precision": "exact",
+      "display": "January 7, 1963",
+      "place": "Calvinia, South Africa",
+      "location": {
+        "label": "Calvinia, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/85/39/56/12/534448602ee2fb14/picture4_original.jpg?hash=6c0be72200da3fd359099fa5d6edf59e3101468637fbaf158a03626dc41f2f70.1789455599",
+      "alt": "Johannes Christoffel Esterhuyse"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/85/39/56/12/534448602ee2fb14/picture4_original.jpg?hash=6c0be72200da3fd359099fa5d6edf59e3101468637fbaf158a03626dc41f2f70.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      551,
+      212
+    ],
+    "spouses": [
+      1357
+    ],
+    "exSpouses": [],
+    "children": [
+      1358,
+      1359,
+      1360
+    ],
+    "siblings": [
+      553,
+      554,
+      555,
+      556
+    ],
+    "parentUnions": [
+      "F161"
+    ],
+    "spouseUnions": [
+      "F348"
+    ],
+    "parentLinks": [
+      {
+        "id": 551,
+        "unionId": "F161",
+        "type": "biological"
+      },
+      {
+        "id": 212,
+        "unionId": "F161",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1357,
+        "unionId": "F348",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1358,
+        "unionId": "F348",
+        "type": "biological"
+      },
+      {
+        "id": 1359,
+        "unionId": "F348",
+        "type": "biological"
+      },
+      {
+        "id": 1360,
+        "unionId": "F348",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227587199@",
+    "geniId": "6000000027227587199",
+    "rfn": "geni:6000000027227587199",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/552/",
+    "canonical": "https://www.genepedia.org/people/552/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

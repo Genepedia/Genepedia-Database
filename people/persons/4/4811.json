@@ -1,0 +1,126 @@
+{
+  "id": 4811,
+  "schema": "genepedia/person@1",
+  "slug": "izak-gerhardus-visagi",
+  "names": {
+    "display": "Izak Gerhardus Visagi",
+    "given": "Izak Gerhardus",
+    "surname": "Visagi",
+    "married": "Visagie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 JUL 1867",
+      "year": 1867,
+      "iso": "1867-07-08",
+      "precision": "exact",
+      "display": "July 8, 1867",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "12 JAN 1868",
+      "year": 1868,
+      "iso": "1868-01-12",
+      "precision": "exact",
+      "display": "January 12, 1868",
+      "place": "Colesburg, IA, United States",
+      "location": {
+        "label": "Colesburg, IA, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "IA",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1897,
+      4804
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4805,
+      4806,
+      4807,
+      4808,
+      4809,
+      4810,
+      4812,
+      4813,
+      4814,
+      4815,
+      4816,
+      4817
+    ],
+    "parentUnions": [
+      "F1146"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1897,
+        "unionId": "F1146",
+        "type": "biological"
+      },
+      {
+        "id": 4804,
+        "unionId": "F1146",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036711982737@",
+    "geniId": "6000000036711982737",
+    "rfn": "geni:6000000036711982737",
+    "changed": "29 MAR 2025"
+  },
+  "page": {
+    "route": "people/4811/",
+    "canonical": "https://www.genepedia.org/people/4811/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

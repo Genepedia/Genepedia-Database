@@ -1,0 +1,120 @@
+{
+  "id": 1221,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-cornel-gunter",
+  "names": {
+    "display": "Johanna Cornel Gunter",
+    "given": "Johanna Cornel",
+    "surname": "Gunter",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "22 JUL 1935",
+      "year": 1935,
+      "iso": "1935-07-22",
+      "precision": "exact",
+      "display": "July 22, 1935",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3051,
+      3050
+    ],
+    "spouses": [
+      495
+    ],
+    "exSpouses": [],
+    "children": [
+      1222,
+      1223,
+      1224
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F748"
+    ],
+    "spouseUnions": [
+      "F316"
+    ],
+    "parentLinks": [
+      {
+        "id": 3051,
+        "unionId": "F748",
+        "type": "biological"
+      },
+      {
+        "id": 3050,
+        "unionId": "F748",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 495,
+        "unionId": "F316",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1222,
+        "unionId": "F316",
+        "type": "biological"
+      },
+      {
+        "id": 1223,
+        "unionId": "F316",
+        "type": "biological"
+      },
+      {
+        "id": 1224,
+        "unionId": "F316",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222068309848@",
+    "geniId": "6000000222068309848",
+    "rfn": "geni:6000000222068309848",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/1221/",
+    "canonical": "https://www.genepedia.org/people/1221/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

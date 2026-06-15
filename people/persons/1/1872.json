@@ -1,0 +1,212 @@
+{
+  "id": 1872,
+  "schema": "genepedia/person@1",
+  "slug": "isabella-susanna-duvenhage",
+  "names": {
+    "display": "Isabella Susanna Duvenhage",
+    "given": "Isabella Susanna",
+    "surname": "Duvenhage",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1864",
+      "year": 1864,
+      "iso": "1864",
+      "precision": "about",
+      "display": "about 1864",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 SEP 1920",
+      "year": 1920,
+      "iso": "1920-09-08",
+      "precision": "exact",
+      "display": "September 8, 1920",
+      "place": "On the farm Ermelo, Smithfield, Free State, South Africa",
+      "location": {
+        "label": "On the farm Ermelo, Smithfield, Free State, South Africa",
+        "placeName": "On the farm Ermelo",
+        "addressLine1": "District",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4711,
+      4712
+    ],
+    "spouses": [
+      813
+    ],
+    "exSpouses": [],
+    "children": [
+      1873,
+      1874,
+      1875,
+      1876,
+      1877,
+      1878,
+      1879,
+      1880,
+      1881,
+      1882
+    ],
+    "siblings": [
+      4713,
+      4714,
+      4715,
+      4716,
+      4717,
+      4718,
+      4719,
+      4720,
+      4721,
+      4722
+    ],
+    "parentUnions": [
+      "F1124"
+    ],
+    "spouseUnions": [
+      "F497"
+    ],
+    "parentLinks": [
+      {
+        "id": 4711,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 4712,
+        "unionId": "F1124",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 813,
+        "unionId": "F497",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1873,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1874,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1875,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1876,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1877,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1878,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1879,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1880,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1881,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1882,
+        "unionId": "F497",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000018408239494@",
+    "geniId": "6000000018408239494",
+    "rfn": "geni:6000000018408239494",
+    "changed": "14 OCT 2018"
+  },
+  "page": {
+    "route": "people/1872/",
+    "canonical": "https://www.genepedia.org/people/1872/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

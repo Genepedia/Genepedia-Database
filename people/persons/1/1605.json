@@ -1,0 +1,132 @@
+{
+  "id": 1605,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-johanna-gertruida-hefer",
+  "names": {
+    "display": "Catharina Johanna Gertruida Hefer",
+    "given": "Catharina Johanna Gertruida",
+    "surname": "Hefer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 MAY 1816",
+      "year": 1816,
+      "iso": "1816-05-03",
+      "precision": "exact",
+      "display": "May 3, 1816",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4233,
+      4232
+    ],
+    "spouses": [
+      1606
+    ],
+    "exSpouses": [],
+    "children": [
+      1607,
+      1608,
+      1609,
+      646,
+      1610
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F994"
+    ],
+    "spouseUnions": [
+      "F409"
+    ],
+    "parentLinks": [
+      {
+        "id": 4233,
+        "unionId": "F994",
+        "type": "biological"
+      },
+      {
+        "id": 4232,
+        "unionId": "F994",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1606,
+        "unionId": "F409",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1607,
+        "unionId": "F409",
+        "type": "biological"
+      },
+      {
+        "id": 1608,
+        "unionId": "F409",
+        "type": "biological"
+      },
+      {
+        "id": 1609,
+        "unionId": "F409",
+        "type": "biological"
+      },
+      {
+        "id": 646,
+        "unionId": "F409",
+        "type": "biological"
+      },
+      {
+        "id": 1610,
+        "unionId": "F409",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000061611877829@",
+    "geniId": "6000000061611877829",
+    "rfn": "geni:6000000061611877829",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1605/",
+    "canonical": "https://www.genepedia.org/people/1605/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

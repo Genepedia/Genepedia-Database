@@ -1,0 +1,127 @@
+{
+  "id": 758,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-lurie",
+  "names": {
+    "display": "Abraham Lurie",
+    "given": "Abraham",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      302,
+      757
+    ],
+    "spouses": [
+      1794
+    ],
+    "exSpouses": [],
+    "children": [
+      1795,
+      1796,
+      1797,
+      1798
+    ],
+    "siblings": [
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765
+    ],
+    "parentUnions": [
+      "F212"
+    ],
+    "spouseUnions": [
+      "F472"
+    ],
+    "parentLinks": [
+      {
+        "id": 302,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 757,
+        "unionId": "F212",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1794,
+        "unionId": "F472",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1795,
+        "unionId": "F472",
+        "type": "biological"
+      },
+      {
+        "id": 1796,
+        "unionId": "F472",
+        "type": "biological"
+      },
+      {
+        "id": 1797,
+        "unionId": "F472",
+        "type": "biological"
+      },
+      {
+        "id": 1798,
+        "unionId": "F472",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204087757821@",
+    "geniId": "6000000204087757821",
+    "rfn": "geni:6000000204087757821",
+    "changed": "17 MAR 2024"
+  },
+  "page": {
+    "route": "people/758/",
+    "canonical": "https://www.genepedia.org/people/758/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 2708,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-susanna-holtzhausen",
+  "names": {
+    "display": "Johanna Susanna Holtzhausen",
+    "given": "Johanna Susanna",
+    "surname": "Holtzhausen",
+    "married": "Jansen van Vuuren",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 JAN 1829",
+      "year": 1829,
+      "iso": "1829-01-14",
+      "precision": "exact",
+      "display": "January 14, 1829",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2707
+    ],
+    "exSpouses": [],
+    "children": [
+      2709,
+      1089,
+      2710
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1675"
+    ],
+    "spouseUnions": [
+      "F666"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2707,
+        "unionId": "F666",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2709,
+        "unionId": "F666",
+        "type": "biological"
+      },
+      {
+        "id": 1089,
+        "unionId": "F666",
+        "type": "biological"
+      },
+      {
+        "id": 2710,
+        "unionId": "F666",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000078388456838@",
+    "geniId": "6000000078388456838",
+    "rfn": "geni:6000000078388456838",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/2708/",
+    "canonical": "https://www.genepedia.org/people/2708/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

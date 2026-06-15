@@ -1,0 +1,85 @@
+{
+  "id": 778,
+  "schema": "genepedia/person@1",
+  "slug": "jacob-lurie-778",
+  "names": {
+    "display": "Jacob Lurie",
+    "given": "Jacob",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      304,
+      776
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      777
+    ],
+    "parentUnions": [
+      "F215"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 304,
+        "unionId": "F215",
+        "type": "biological"
+      },
+      {
+        "id": 776,
+        "unionId": "F215",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149364823@",
+    "geniId": "6000000204149364823",
+    "rfn": "geni:6000000204149364823",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/778/",
+    "canonical": "https://www.genepedia.org/people/778/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

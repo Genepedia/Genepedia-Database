@@ -1,0 +1,84 @@
+{
+  "id": 2071,
+  "schema": "genepedia/person@1",
+  "slug": "gert-olivier-olivier",
+  "names": {
+    "display": "Gert Olivier Olivier",
+    "given": "Gert Olivier",
+    "surname": "Olivier",
+    "married": "Olivier",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "ABT 1978",
+      "year": 1978,
+      "iso": "1978",
+      "precision": "about",
+      "display": "about 1978",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      857
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F540"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 857,
+        "unionId": "F540",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066590212822@",
+    "geniId": "6000000066590212822",
+    "rfn": "geni:6000000066590212822",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/2071/",
+    "canonical": "https://www.genepedia.org/people/2071/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

@@ -1,0 +1,136 @@
+{
+  "id": 2920,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-alida-fleming",
+  "names": {
+    "display": "Anna Maria Alida Fleming",
+    "given": "Anna Maria Alida",
+    "surname": "Fleming",
+    "married": "Kotze",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "JAN 1869",
+      "year": 1869,
+      "iso": "1869-01",
+      "precision": "exact",
+      "display": "January 1869",
+      "place": "Orange Free State, South Africa",
+      "location": {
+        "label": "Orange Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 MAY 1908",
+      "year": 1908,
+      "iso": "1908-05-28",
+      "precision": "exact",
+      "display": "May 28, 1908",
+      "place": "\"Jorogais\", Cape Colony, South Africa",
+      "location": {
+        "label": "\"Jorogais\", Cape Colony, South Africa",
+        "placeName": "\"Jorogais\"",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2916,
+      2917
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2918,
+      2919,
+      1166,
+      2173
+    ],
+    "parentUnions": [
+      "F718"
+    ],
+    "spouseUnions": [
+      "F1827"
+    ],
+    "parentLinks": [
+      {
+        "id": 2916,
+        "unionId": "F718",
+        "type": "biological"
+      },
+      {
+        "id": 2917,
+        "unionId": "F718",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000183951321917@",
+    "geniId": "6000000183951321917",
+    "rfn": "geni:6000000183951321917",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2920/",
+    "canonical": "https://www.genepedia.org/people/2920/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

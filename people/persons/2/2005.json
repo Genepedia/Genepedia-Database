@@ -1,0 +1,84 @@
+{
+  "id": 2005,
+  "schema": "genepedia/person@1",
+  "slug": "willem-johannes-kleynhans",
+  "names": {
+    "display": "Willem Johannes Kleynhans",
+    "given": "Willem Johannes",
+    "surname": "Kleynhans",
+    "married": "Kleynhans",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 APR 1906",
+      "year": 1906,
+      "iso": "1906-04-06",
+      "precision": "exact",
+      "display": "April 6, 1906",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      832
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F519"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 832,
+        "unionId": "F519",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066536990915@",
+    "geniId": "6000000066536990915",
+    "rfn": "geni:6000000066536990915",
+    "changed": "05 SEP 2017"
+  },
+  "page": {
+    "route": "people/2005/",
+    "canonical": "https://www.genepedia.org/people/2005/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

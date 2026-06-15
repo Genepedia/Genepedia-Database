@@ -1,0 +1,132 @@
+{
+  "id": 2301,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-francina-cloete",
+  "names": {
+    "display": "Johanna Francina Cloete",
+    "given": "Johanna Francina",
+    "surname": "Cloete",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 MAR 1896",
+      "year": 1896,
+      "iso": "1896-03-23",
+      "precision": "exact",
+      "display": "March 23, 1896",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 JUN 1896",
+      "year": 1896,
+      "iso": "1896-06-07",
+      "precision": "exact",
+      "display": "June 7, 1896",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/57/3e/f1/e0/5344486360482ef5/record-image__original.jpg?hash=26828e04b6c310e0c32c895fef31a8b01c31f6fc93a2d8f329e6ffc1ef9dd6a5.1789455599",
+      "alt": "Johanna Francina Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/57/3e/f1/e0/5344486360482ef5/record-image__original.jpg?hash=26828e04b6c310e0c32c895fef31a8b01c31f6fc93a2d8f329e6ffc1ef9dd6a5.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2297,
+      2296
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2298,
+      2299,
+      2300,
+      922,
+      2302,
+      2303
+    ],
+    "parentUnions": [
+      "F584"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2297,
+        "unionId": "F584",
+        "type": "biological"
+      },
+      {
+        "id": 2296,
+        "unionId": "F584",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000179328776850@",
+    "geniId": "6000000179328776850",
+    "rfn": "geni:6000000179328776850",
+    "changed": "06 JUN 2023"
+  },
+  "page": {
+    "route": "people/2301/",
+    "canonical": "https://www.genepedia.org/people/2301/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

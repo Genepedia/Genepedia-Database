@@ -1,0 +1,154 @@
+{
+  "id": 109,
+  "schema": "genepedia/person@1",
+  "slug": "angela-ann-kotze",
+  "names": {
+    "display": "Angela Ann Kotze",
+    "given": "Angela Ann",
+    "surname": "Kotze",
+    "married": "Lurie",
+    "nick": "Angeline",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 1937",
+      "year": 1937,
+      "iso": "1937",
+      "precision": "before",
+      "display": "before 1937",
+      "place": null
+    },
+    "death": {
+      "date": "ABT 7 JUL 1955",
+      "year": 1955,
+      "iso": "1955-07-07",
+      "precision": "about",
+      "display": "about July 7, 1955",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      294,
+      295
+    ],
+    "spouses": [
+      110,
+      293
+    ],
+    "exSpouses": [],
+    "children": [
+      111,
+      112,
+      35,
+      113,
+      114,
+      115
+    ],
+    "siblings": [
+      296
+    ],
+    "parentUnions": [
+      "F96"
+    ],
+    "spouseUnions": [
+      "F40",
+      "F95"
+    ],
+    "parentLinks": [
+      {
+        "id": 294,
+        "unionId": "F96",
+        "type": "biological"
+      },
+      {
+        "id": 295,
+        "unionId": "F96",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 110,
+        "unionId": "F40",
+        "role": "partner"
+      },
+      {
+        "id": 293,
+        "unionId": "F95",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 111,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 112,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 35,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 113,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 114,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 115,
+        "unionId": "F40",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204015196855@",
+    "geniId": "6000000204015196855",
+    "rfn": "geni:6000000204015196855",
+    "changed": "13 JUN 2025"
+  },
+  "page": {
+    "route": "people/109/",
+    "canonical": "https://www.genepedia.org/people/109/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

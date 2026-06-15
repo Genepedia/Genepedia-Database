@@ -1,0 +1,130 @@
+{
+  "id": 2310,
+  "schema": "genepedia/person@1",
+  "slug": "catherina-elizabeth-jacoba-du-plessis",
+  "names": {
+    "display": "Catherina Elizabeth Jacoba du Plessis",
+    "given": "Catherina Elizabeth Jacoba",
+    "surname": "du Plessis",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 AUG 1929",
+      "year": 1929,
+      "iso": "1929-08-11",
+      "precision": "exact",
+      "display": "August 11, 1929",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/da/cd/81/5a/53444861936922f5/record-image__original.jpg?hash=945e5ca49e5eacb5c9dbbc88f765e4a688e250db1533e6b645ad26b7944ecb87.1789455599",
+      "alt": "Catherina Elizabeth Jacoba du Plessis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/da/cd/81/5a/53444861936922f5/record-image__original.jpg?hash=945e5ca49e5eacb5c9dbbc88f765e4a688e250db1533e6b645ad26b7944ecb87.1789455599",
+        "form": "",
+        "title": "record-image_trou 1950 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      924
+    ],
+    "exSpouses": [],
+    "children": [
+      2311,
+      2312,
+      2313,
+      2314,
+      2315
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1430"
+    ],
+    "spouseUnions": [
+      "F586"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 924,
+        "unionId": "F586",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2311,
+        "unionId": "F586",
+        "type": "biological"
+      },
+      {
+        "id": 2312,
+        "unionId": "F586",
+        "type": "biological"
+      },
+      {
+        "id": 2313,
+        "unionId": "F586",
+        "type": "biological"
+      },
+      {
+        "id": 2314,
+        "unionId": "F586",
+        "type": "biological"
+      },
+      {
+        "id": 2315,
+        "unionId": "F586",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000017182747909@",
+    "geniId": "6000000017182747909",
+    "rfn": "geni:6000000017182747909",
+    "changed": "13 JUL 2024"
+  },
+  "page": {
+    "route": "people/2310/",
+    "canonical": "https://www.genepedia.org/people/2310/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

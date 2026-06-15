@@ -1,0 +1,197 @@
+{
+  "id": 7,
+  "schema": "genepedia/person@1",
+  "slug": "estelle-fourie",
+  "names": {
+    "display": "Estelle Fourie",
+    "given": "Estelle",
+    "surname": "Fourie",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 OCT 1954",
+      "year": 1954,
+      "iso": "1954-10-18",
+      "precision": "exact",
+      "display": "October 18, 1954",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 FEB 2005",
+      "year": 2005,
+      "iso": "2005-02-16",
+      "precision": "exact",
+      "display": "February 16, 2005",
+      "place": "Medi Clinic Hospital, Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Medi Clinic Hospital, Bloemfontein, Free-State, South Africa",
+        "placeName": "Medi Clinic Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "9301",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "AFT 17 FEB 2005",
+      "year": 2005,
+      "iso": "2005-02-17",
+      "precision": "after",
+      "display": "after February 17, 2005",
+      "place": "NG Kerk: Universitas-Wes, Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "NG Kerk: Universitas-Wes, Bloemfontein, Free-State, South Africa",
+        "placeName": "NG Kerk: Universitas-Wes",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "9301",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/af/b6/68/ef/534448656cb3f430/screenshot_2024-03-12_151037_original.jpg?hash=99eb87305f03c610fdafc881b9de0871bec5fba6e1220e595d4fea2fb7b391ba.1789455599",
+      "alt": "Estelle Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/af/b6/68/ef/534448656cb3f430/screenshot_2024-03-12_151037_original.jpg?hash=99eb87305f03c610fdafc881b9de0871bec5fba6e1220e595d4fea2fb7b391ba.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      45,
+      44
+    ],
+    "spouses": [
+      6
+    ],
+    "exSpouses": [],
+    "children": [
+      8,
+      9,
+      1
+    ],
+    "siblings": [
+      46
+    ],
+    "parentUnions": [
+      "F15"
+    ],
+    "spouseUnions": [
+      "F3"
+    ],
+    "parentLinks": [
+      {
+        "id": 45,
+        "unionId": "F15",
+        "type": "biological"
+      },
+      {
+        "id": 44,
+        "unionId": "F15",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 6,
+        "unionId": "F3",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 8,
+        "unionId": "F3",
+        "type": "biological"
+      },
+      {
+        "id": 9,
+        "unionId": "F3",
+        "type": "biological"
+      },
+      {
+        "id": 1,
+        "unionId": "F3",
+        "type": "adopted"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204013264840@",
+    "geniId": "6000000204013264840",
+    "rfn": "geni:6000000204013264840",
+    "changed": "21 FEB 2025"
+  },
+  "page": {
+    "route": "people/7/",
+    "canonical": "https://www.genepedia.org/people/7/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

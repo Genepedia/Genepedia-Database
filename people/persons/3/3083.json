@@ -1,0 +1,100 @@
+{
+  "id": 3083,
+  "schema": "genepedia/person@1",
+  "slug": "bernhard-montgomery-strydom",
+  "names": {
+    "display": "Bernhard Montgomery Strydom",
+    "given": "Bernhard Montgomery",
+    "surname": "Strydom",
+    "married": "Strydom",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 DEC 1968",
+      "year": 1968,
+      "iso": "1968-12-29",
+      "precision": "exact",
+      "display": "December 29, 1968",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1233
+    ],
+    "exSpouses": [],
+    "children": [
+      3084,
+      3085
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1909"
+    ],
+    "spouseUnions": [
+      "F760"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1233,
+        "unionId": "F760",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3084,
+        "unionId": "F760",
+        "type": "biological"
+      },
+      {
+        "id": 3085,
+        "unionId": "F760",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207509193845@",
+    "geniId": "6000000207509193845",
+    "rfn": "geni:6000000207509193845",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3083/",
+    "canonical": "https://www.genepedia.org/people/3083/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

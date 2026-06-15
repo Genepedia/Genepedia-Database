@@ -1,0 +1,116 @@
+{
+  "id": 2615,
+  "schema": "genepedia/person@1",
+  "slug": "sara-magdalena-graaff",
+  "names": {
+    "display": "Sara Magdalena Graaff",
+    "given": "Sara Magdalena",
+    "surname": "Graaff",
+    "married": "Graaff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 FEB 1785",
+      "year": 1785,
+      "iso": "1785-02-11",
+      "precision": "exact",
+      "display": "February 11, 1785",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 1822",
+      "year": 1822,
+      "iso": "1822",
+      "precision": "before",
+      "display": "before 1822",
+      "place": null
+    },
+    "baptism": {
+      "date": "2 JAN 1787",
+      "year": 1787,
+      "iso": "1787-01-02",
+      "precision": "exact",
+      "display": "January 2, 1787",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2608,
+      2607
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2609,
+      2610,
+      2611,
+      2612,
+      2613,
+      2614,
+      1066,
+      2616,
+      2617,
+      2618,
+      2619
+    ],
+    "parentUnions": [
+      "F643"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2608,
+        "unionId": "F643",
+        "type": "biological"
+      },
+      {
+        "id": 2607,
+        "unionId": "F643",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003356173585@",
+    "geniId": "6000000003356173585",
+    "rfn": "geni:6000000003356173585",
+    "changed": "10 AUG 2022"
+  },
+  "page": {
+    "route": "people/2615/",
+    "canonical": "https://www.genepedia.org/people/2615/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

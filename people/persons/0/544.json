@@ -1,0 +1,252 @@
+{
+  "id": 544,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-elias-marthinus-van-taak",
+  "names": {
+    "display": "Hendrik Elias Marthinus van Taak",
+    "given": "Hendrik Elias Marthinus",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "Hennie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 SEP 1913",
+      "year": 1913,
+      "iso": "1913-09-30",
+      "precision": "exact",
+      "display": "September 30, 1913",
+      "place": "Nieuwoudtville, Cape Province, South Africa",
+      "location": {
+        "label": "Nieuwoudtville, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nieuwoudtville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 OCT 1967",
+      "year": 1967,
+      "iso": "1967-10-09",
+      "precision": "exact",
+      "display": "October 9, 1967",
+      "place": "Cape Town, Cape Province, South Africa",
+      "location": {
+        "label": "Cape Town, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "19 APR 1914",
+      "year": 1914,
+      "iso": "1914-04-19",
+      "precision": "exact",
+      "display": "April 19, 1914",
+      "place": "Nieuwoudtville, Cape Province, South Africa",
+      "location": {
+        "label": "Nieuwoudtville, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nieuwoudtville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Calvinia, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/af/8e/72/fe/5344483c47203493/put46bux_original.jpg?hash=3dfbc021ce94be76591c4d56f659346a070c2990d38ee2db829a079811e4a4a8.1789455599",
+      "alt": "Hendrik Elias Marthinus van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/af/8e/72/fe/5344483c47203493/put46bux_original.jpg?hash=3dfbc021ce94be76591c4d56f659346a070c2990d38ee2db829a079811e4a4a8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/11/a8/04/1a/5344483c471c39da/miz45diz_original.jpg?hash=aad40c65778e4e444f440ee6076ec787091be069ce9572e6d2af5bdde97516a6.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      538,
+      537
+    ],
+    "spouses": [
+      1326,
+      1331
+    ],
+    "exSpouses": [],
+    "children": [
+      1327,
+      1328,
+      1329,
+      1330,
+      1332
+    ],
+    "siblings": [
+      539,
+      540,
+      541,
+      210,
+      542,
+      543,
+      545
+    ],
+    "parentUnions": [
+      "F159"
+    ],
+    "spouseUnions": [
+      "F342",
+      "F343"
+    ],
+    "parentLinks": [
+      {
+        "id": 538,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 537,
+        "unionId": "F159",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1326,
+        "unionId": "F342",
+        "role": "partner"
+      },
+      {
+        "id": 1331,
+        "unionId": "F343",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1327,
+        "unionId": "F342",
+        "type": "biological"
+      },
+      {
+        "id": 1328,
+        "unionId": "F342",
+        "type": "biological"
+      },
+      {
+        "id": 1329,
+        "unionId": "F342",
+        "type": "biological"
+      },
+      {
+        "id": 1330,
+        "unionId": "F342",
+        "type": "biological"
+      },
+      {
+        "id": 1332,
+        "unionId": "F343",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020386620143@",
+    "geniId": "6000000020386620143",
+    "rfn": "geni:6000000020386620143",
+    "changed": "07 OCT 2024"
+  },
+  "page": {
+    "route": "people/544/",
+    "canonical": "https://www.genepedia.org/people/544/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

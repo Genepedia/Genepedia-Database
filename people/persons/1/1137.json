@@ -1,0 +1,206 @@
+{
+  "id": 1137,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobus-koekemoer",
+  "names": {
+    "display": "Daniel Jacobus Koekemoer",
+    "given": "Daniel Jacobus",
+    "surname": "Koekemoer",
+    "married": "Koekemoer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 APR 1864",
+      "year": 1864,
+      "iso": "1864-04-11",
+      "precision": "exact",
+      "display": "April 11, 1864",
+      "place": "Marico, Transvaal, South Africa",
+      "location": {
+        "label": "Marico, Transvaal, South Africa",
+        "placeName": "Marico, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "29 JUL 1937",
+      "year": 1937,
+      "iso": "1937-07-29",
+      "precision": "exact",
+      "display": "July 29, 1937",
+      "place": "Naboomspruit, Potgietersrust, Transvaal, South Africa",
+      "location": {
+        "label": "Naboomspruit, Potgietersrust, Transvaal, South Africa",
+        "placeName": "Naboomspruit, Potgietersrust, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/0b/5a/1d/c1/534448680a1cd5b1/img_2842_original.jpg?hash=79505ef68605a5d5825e583d86993d20aafb1fe2db051e08190027ad8dbda21b.1789455599",
+      "alt": "Daniel Jacobus Koekemoer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/0b/5a/1d/c1/534448680a1cd5b1/img_2842_original.jpg?hash=79505ef68605a5d5825e583d86993d20aafb1fe2db051e08190027ad8dbda21b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/a8/6f/d0/7d/534448683df9cff0/img-20250222-wa0033_original.jpg?hash=32870eda7d88ad3c5b2f5777c336fb0a4ef0e33f6e09ea9026c57d3c8be78c90.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2620,
+      1067
+    ],
+    "spouses": [
+      443
+    ],
+    "exSpouses": [],
+    "children": [
+      1138,
+      1139,
+      1140,
+      1141,
+      1142,
+      1143
+    ],
+    "siblings": [
+      2621,
+      2622,
+      2623,
+      2624,
+      2625,
+      1095,
+      2626,
+      2627,
+      2628
+    ],
+    "parentUnions": [
+      "F644"
+    ],
+    "spouseUnions": [
+      "F301"
+    ],
+    "parentLinks": [
+      {
+        "id": 2620,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 1067,
+        "unionId": "F644",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 443,
+        "unionId": "F301",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1138,
+        "unionId": "F301",
+        "type": "biological"
+      },
+      {
+        "id": 1139,
+        "unionId": "F301",
+        "type": "biological"
+      },
+      {
+        "id": 1140,
+        "unionId": "F301",
+        "type": "biological"
+      },
+      {
+        "id": 1141,
+        "unionId": "F301",
+        "type": "biological"
+      },
+      {
+        "id": 1142,
+        "unionId": "F301",
+        "type": "biological"
+      },
+      {
+        "id": 1143,
+        "unionId": "F301",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000176302620849@",
+    "geniId": "6000000176302620849",
+    "rfn": "geni:6000000176302620849",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1137/",
+    "canonical": "https://www.genepedia.org/people/1137/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

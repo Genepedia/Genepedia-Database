@@ -1,0 +1,121 @@
+{
+  "id": 4830,
+  "schema": "genepedia/person@1",
+  "slug": "francina-van-der-walt",
+  "names": {
+    "display": "Francina van der Walt",
+    "given": "Francina",
+    "surname": "van der Walt",
+    "married": "Jansen van Rensburg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1887",
+      "year": 1887,
+      "iso": "1887",
+      "precision": "exact",
+      "display": "1887",
+      "place": null
+    },
+    "death": {
+      "date": "15 SEP 1912",
+      "year": 1912,
+      "iso": "1912-09-15",
+      "precision": "exact",
+      "display": "September 15, 1912",
+      "place": "Doornkuil, Philipstown, NC, South Africa",
+      "location": {
+        "label": "Doornkuil, Philipstown, NC, South Africa",
+        "placeName": "Doornkuil",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1900
+    ],
+    "exSpouses": [],
+    "children": [
+      4831,
+      4832
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1149"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1900,
+        "unionId": "F1149",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4831,
+        "unionId": "F1149",
+        "type": "biological"
+      },
+      {
+        "id": 4832,
+        "unionId": "F1149",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000089811902848@",
+    "geniId": "6000000089811902848",
+    "rfn": "geni:6000000089811902848",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/4830/",
+    "canonical": "https://www.genepedia.org/people/4830/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

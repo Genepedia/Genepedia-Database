@@ -1,0 +1,153 @@
+{
+  "id": 123,
+  "schema": "genepedia/person@1",
+  "slug": "izanne-laubscher",
+  "names": {
+    "display": "Izanne Laubscher",
+    "given": "Izanne",
+    "surname": "Laubscher",
+    "married": "Laubscher",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "17 NOV 1984",
+      "year": 1984,
+      "iso": "1984-11-17",
+      "precision": "exact",
+      "display": "November 17, 1984",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "South Africa",
+  "lastResidenceLocation": {
+    "label": "South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": "Hair Stylist",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b9/2f/41/64/53444866011cccfb/screenshot_2024-06-14_143402_original.jpg?hash=1a82f92b05a138e46142a6507551d16e8f80a0d1866fe0315656fe5112489214.1789455599",
+      "alt": "Izanne Laubscher"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b9/2f/41/64/53444866011cccfb/screenshot_2024-06-14_143402_original.jpg?hash=1a82f92b05a138e46142a6507551d16e8f80a0d1866fe0315656fe5112489214.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      121,
+      37
+    ],
+    "spouses": [
+      320
+    ],
+    "exSpouses": [],
+    "children": [
+      321
+    ],
+    "siblings": [
+      122
+    ],
+    "parentUnions": [
+      "F43"
+    ],
+    "spouseUnions": [
+      "F103"
+    ],
+    "parentLinks": [
+      {
+        "id": 121,
+        "unionId": "F43",
+        "type": "biological"
+      },
+      {
+        "id": 37,
+        "unionId": "F43",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 320,
+        "unionId": "F103",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 321,
+        "unionId": "F103",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204042586830@",
+    "geniId": "6000000204042586830",
+    "rfn": "geni:6000000204042586830",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/123/",
+    "canonical": "https://www.genepedia.org/people/123/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

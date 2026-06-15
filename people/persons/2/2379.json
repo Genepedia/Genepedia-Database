@@ -1,0 +1,111 @@
+{
+  "id": 2379,
+  "schema": "genepedia/person@1",
+  "slug": "gert-cloete",
+  "names": {
+    "display": "Gert Cloete",
+    "given": "Gert",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1860",
+      "year": 1860,
+      "iso": "1860",
+      "precision": "exact",
+      "display": "1860",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/47/ba/f2/9d/53444866e3d6cdfc/image_original.jpg?hash=79b227a06f3f3825f48c964e37cf620fbe07303dc35e9c5736c208b9a87661c3.1789455599",
+      "alt": "Gert Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/47/ba/f2/9d/53444866e3d6cdfc/image_original.jpg?hash=79b227a06f3f3825f48c964e37cf620fbe07303dc35e9c5736c208b9a87661c3.1789455599",
+        "form": "",
+        "title": "record-image_trou 1894  .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2376,
+      2375
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      954,
+      2377,
+      2378,
+      2380,
+      2381,
+      2382
+    ],
+    "parentUnions": [
+      "F600"
+    ],
+    "spouseUnions": [
+      "F1472"
+    ],
+    "parentLinks": [
+      {
+        "id": 2376,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2375,
+        "unionId": "F600",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000210310616822@",
+    "geniId": "6000000210310616822",
+    "rfn": "geni:6000000210310616822",
+    "changed": "27 DEC 2024"
+  },
+  "page": {
+    "route": "people/2379/",
+    "canonical": "https://www.genepedia.org/people/2379/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

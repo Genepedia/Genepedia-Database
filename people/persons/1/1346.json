@@ -1,0 +1,123 @@
+{
+  "id": 1346,
+  "schema": "genepedia/person@1",
+  "slug": "hester-johanna-dorothea-palvie",
+  "names": {
+    "display": "Hester Johanna Dorothea Palvie",
+    "given": "Hester Johanna Dorothea",
+    "surname": "Palvie",
+    "married": "Visser",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 27 JUN 1868",
+      "year": 1868,
+      "iso": "1868-06-27",
+      "precision": "about",
+      "display": "about June 27, 1868",
+      "place": null
+    },
+    "death": {
+      "date": "20 JAN 1928",
+      "year": 1928,
+      "iso": "1928-01-20",
+      "precision": "exact",
+      "display": "January 20, 1928",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1344,
+      1343
+    ],
+    "spouses": [
+      3432
+    ],
+    "exSpouses": [],
+    "children": [
+      3433
+    ],
+    "siblings": [
+      1345,
+      1347,
+      547,
+      1348,
+      1349,
+      1350,
+      1351
+    ],
+    "parentUnions": [
+      "F346"
+    ],
+    "spouseUnions": [
+      "F841"
+    ],
+    "parentLinks": [
+      {
+        "id": 1344,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 1343,
+        "unionId": "F346",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3432,
+        "unionId": "F841",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3433,
+        "unionId": "F841",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000042914935997@",
+    "geniId": "6000000042914935997",
+    "rfn": "geni:6000000042914935997",
+    "changed": "08 OCT 2021"
+  },
+  "page": {
+    "route": "people/1346/",
+    "canonical": "https://www.genepedia.org/people/1346/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

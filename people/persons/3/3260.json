@@ -1,0 +1,140 @@
+{
+  "id": 3260,
+  "schema": "genepedia/person@1",
+  "slug": "anna-louisa-johanna-mouton",
+  "names": {
+    "display": "Anna Louisa Johanna Mouton",
+    "given": "Anna Louisa Johanna",
+    "surname": "Mouton",
+    "married": "Stemmet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 DEC 1919",
+      "year": 1919,
+      "iso": "1919-12-03",
+      "precision": "exact",
+      "display": "December 3, 1919",
+      "place": null
+    },
+    "death": {
+      "date": "19 OCT 1976",
+      "year": 1976,
+      "iso": "1976-10-19",
+      "precision": "exact",
+      "display": "October 19, 1976",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Vredendal, WC, South Africa",
+      "location": {
+        "label": "Vredendal, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vredendal",
+        "postalCode": "8160",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e1/d8/4c/0f/5344484ef6c2868d/anna_louisa_johanna_stemmet_1919_-_1976_original.jpg?hash=1cae701dfdf89cb1b86832ca596b8c6ec1d7082d080fc6c403c75a6ef03008af.1789455599",
+      "alt": "Anna Louisa Johanna Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e1/d8/4c/0f/5344484ef6c2868d/anna_louisa_johanna_stemmet_1919_-_1976_original.jpg?hash=1cae701dfdf89cb1b86832ca596b8c6ec1d7082d080fc6c403c75a6ef03008af.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1296,
+      3257
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3258,
+      3259,
+      3261,
+      3262,
+      3263,
+      3264
+    ],
+    "parentUnions": [
+      "F800"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1296,
+        "unionId": "F800",
+        "type": "biological"
+      },
+      {
+        "id": 3257,
+        "unionId": "F800",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107546807293@",
+    "geniId": "6000000107546807293",
+    "rfn": "geni:6000000107546807293",
+    "changed": "24 SEP 2019"
+  },
+  "page": {
+    "route": "people/3260/",
+    "canonical": "https://www.genepedia.org/people/3260/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

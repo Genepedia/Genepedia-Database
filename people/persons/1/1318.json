@@ -1,0 +1,159 @@
+{
+  "id": 1318,
+  "schema": "genepedia/person@1",
+  "slug": "anna-louisa-jacoba-van-taak",
+  "names": {
+    "display": "Anna Louisa Jacoba van Taak",
+    "given": "Anna Louisa Jacoba",
+    "surname": "van Taak",
+    "married": "van Schalkwyk",
+    "nick": "Ina",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 FEB 1932",
+      "year": 1932,
+      "iso": "1932-02-23",
+      "precision": "exact",
+      "display": "February 23, 1932",
+      "place": "Carnarvon, NC, South Africa",
+      "location": {
+        "label": "Carnarvon, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Carnarvon",
+        "postalCode": "8925",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 NOV 2014",
+      "year": 2014,
+      "iso": "2014-11-11",
+      "precision": "exact",
+      "display": "November 11, 2014",
+      "place": "Langebaan, Western Cape, South Africa",
+      "location": {
+        "label": "Langebaan, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Langebaan",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      540,
+      1317
+    ],
+    "spouses": [
+      3338
+    ],
+    "exSpouses": [],
+    "children": [
+      3339,
+      3340,
+      3341
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F339"
+    ],
+    "spouseUnions": [
+      "F818"
+    ],
+    "parentLinks": [
+      {
+        "id": 540,
+        "unionId": "F339",
+        "type": "biological"
+      },
+      {
+        "id": 1317,
+        "unionId": "F339",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3338,
+        "unionId": "F818",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3339,
+        "unionId": "F818",
+        "type": "biological"
+      },
+      {
+        "id": 3340,
+        "unionId": "F818",
+        "type": "biological"
+      },
+      {
+        "id": 3341,
+        "unionId": "F818",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020384908334@",
+    "geniId": "6000000020384908334",
+    "rfn": "geni:6000000020384908334",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/1318/",
+    "canonical": "https://www.genepedia.org/people/1318/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

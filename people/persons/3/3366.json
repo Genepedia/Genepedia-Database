@@ -1,0 +1,127 @@
+{
+  "id": 3366,
+  "schema": "genepedia/person@1",
+  "slug": "hester-helena-marais",
+  "names": {
+    "display": "Hester Helena Marais",
+    "given": "Hester Helena",
+    "surname": "Marais",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 FEB 1890",
+      "year": 1890,
+      "iso": "1890-02-10",
+      "precision": "exact",
+      "display": "February 10, 1890",
+      "place": "Porterville, Cape Colony, South Africa",
+      "location": {
+        "label": "Porterville, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Porterville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 FEB 1966",
+      "year": 1966,
+      "iso": "1966-02-04",
+      "precision": "exact",
+      "display": "February 4, 1966",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3365
+    ],
+    "exSpouses": [],
+    "children": [
+      1331,
+      3367,
+      3368
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F829"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3365,
+        "unionId": "F829",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1331,
+        "unionId": "F829",
+        "type": "biological"
+      },
+      {
+        "id": 3367,
+        "unionId": "F829",
+        "type": "biological"
+      },
+      {
+        "id": 3368,
+        "unionId": "F829",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000168340068885@",
+    "geniId": "6000000168340068885",
+    "rfn": "geni:6000000168340068885",
+    "changed": "24 DEC 2020"
+  },
+  "page": {
+    "route": "people/3366/",
+    "canonical": "https://www.genepedia.org/people/3366/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

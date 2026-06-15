@@ -1,0 +1,167 @@
+{
+  "id": 636,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-susanna-pretorius",
+  "names": {
+    "display": "Catharina Susanna Pretorius",
+    "given": "Catharina Susanna",
+    "surname": "Pretorius",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": [
+      "Rina Viljoen"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 MAR 1926",
+      "year": 1926,
+      "iso": "1926-03-09",
+      "precision": "exact",
+      "display": "March 9, 1926",
+      "place": null
+    },
+    "death": {
+      "date": "4 JUL 2009",
+      "year": 2009,
+      "iso": "2009-07-04",
+      "precision": "exact",
+      "display": "July 4, 2009",
+      "place": "Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Potchefstroom, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p5/5860/5088/5344483674197add/aunt_rien_original.jpg?hash=2ae1ca641385958a303a46725a188aec162b75bdb3a50f0905961b355910b230.1789455599",
+      "alt": "Catharina Susanna Pretorius"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p5/5860/5088/5344483674197add/aunt_rien_original.jpg?hash=2ae1ca641385958a303a46725a188aec162b75bdb3a50f0905961b355910b230.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      634,
+      241
+    ],
+    "spouses": [
+      1587
+    ],
+    "exSpouses": [],
+    "children": [
+      1588,
+      1589,
+      1590,
+      1591
+    ],
+    "siblings": [
+      635,
+      637,
+      638
+    ],
+    "parentUnions": [
+      "F177"
+    ],
+    "spouseUnions": [
+      "F402"
+    ],
+    "parentLinks": [
+      {
+        "id": 634,
+        "unionId": "F177",
+        "type": "biological"
+      },
+      {
+        "id": 241,
+        "unionId": "F177",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1587,
+        "unionId": "F402",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1588,
+        "unionId": "F402",
+        "type": "biological"
+      },
+      {
+        "id": 1589,
+        "unionId": "F402",
+        "type": "biological"
+      },
+      {
+        "id": 1590,
+        "unionId": "F402",
+        "type": "biological"
+      },
+      {
+        "id": 1591,
+        "unionId": "F402",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000001885938526@",
+    "geniId": "6000000001885938526",
+    "rfn": "geni:6000000001885938526",
+    "changed": "04 MAY 2022"
+  },
+  "page": {
+    "route": "people/636/",
+    "canonical": "https://www.genepedia.org/people/636/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

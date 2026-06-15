@@ -1,0 +1,125 @@
+{
+  "id": 1766,
+  "schema": "genepedia/person@1",
+  "slug": "robert-r-arkoff",
+  "names": {
+    "display": "Robert R. Arkoff",
+    "given": "Robert R.",
+    "surname": "Arkoff",
+    "married": "Arkoff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "ABT 1928",
+      "year": 1928,
+      "iso": "1928",
+      "precision": "about",
+      "display": "about 1928",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1761,
+      730
+    ],
+    "spouses": [
+      4509
+    ],
+    "exSpouses": [],
+    "children": [
+      4510,
+      4511,
+      4512
+    ],
+    "siblings": [
+      1762,
+      1763,
+      1764,
+      1765
+    ],
+    "parentUnions": [
+      "F462"
+    ],
+    "spouseUnions": [
+      "F1072"
+    ],
+    "parentLinks": [
+      {
+        "id": 1761,
+        "unionId": "F462",
+        "type": "biological"
+      },
+      {
+        "id": 730,
+        "unionId": "F462",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4509,
+        "unionId": "F1072",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4510,
+        "unionId": "F1072",
+        "type": "biological"
+      },
+      {
+        "id": 4511,
+        "unionId": "F1072",
+        "type": "biological"
+      },
+      {
+        "id": 4512,
+        "unionId": "F1072",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000000500579688@",
+    "geniId": "6000000000500579688",
+    "rfn": "geni:6000000000500579688",
+    "changed": "22 OCT 2025"
+  },
+  "page": {
+    "route": "people/1766/",
+    "canonical": "https://www.genepedia.org/people/1766/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

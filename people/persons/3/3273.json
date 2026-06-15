@@ -1,0 +1,137 @@
+{
+  "id": 3273,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-mouton",
+  "names": {
+    "display": "Johannes Petrus Mouton",
+    "given": "Johannes Petrus",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 JUN 1928",
+      "year": 1928,
+      "iso": "1928-06-30",
+      "precision": "exact",
+      "display": "June 30, 1928",
+      "place": null
+    },
+    "death": {
+      "date": "14 MAR 1998",
+      "year": 1998,
+      "iso": "1998-03-14",
+      "precision": "exact",
+      "display": "March 14, 1998",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Lambert'S Bay, WC, South Africa",
+      "location": {
+        "label": "Lambert'S Bay, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Lambert'S Bay",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/84/df/13/35/5344484ef7039b55/johannes_petrus_mouton_1928_-_1998_original.jpg?hash=3adec484745fa062460c5097908c56ee32f9576680b760ff9694adc3aab9b694.1789455599",
+      "alt": "Johannes Petrus Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/84/df/13/35/5344484ef7039b55/johannes_petrus_mouton_1928_-_1998_original.jpg?hash=3adec484745fa062460c5097908c56ee32f9576680b760ff9694adc3aab9b694.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1300,
+      3269
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3270,
+      3271,
+      3272
+    ],
+    "parentUnions": [
+      "F804"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1300,
+        "unionId": "F804",
+        "type": "biological"
+      },
+      {
+        "id": 3269,
+        "unionId": "F804",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107553515862@",
+    "geniId": "6000000107553515862",
+    "rfn": "geni:6000000107553515862",
+    "changed": "24 SEP 2019"
+  },
+  "page": {
+    "route": "people/3273/",
+    "canonical": "https://www.genepedia.org/people/3273/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

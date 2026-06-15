@@ -1,0 +1,95 @@
+{
+  "id": 1705,
+  "schema": "genepedia/person@1",
+  "slug": "cornelius-abraham-smit",
+  "names": {
+    "display": "Cornelius Abraham Smit",
+    "given": "Cornelius Abraham",
+    "surname": "Smit",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4369
+    ],
+    "spouses": [
+      1706
+    ],
+    "exSpouses": [],
+    "children": [
+      703
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1033"
+    ],
+    "spouseUnions": [
+      "F446"
+    ],
+    "parentLinks": [
+      {
+        "id": 4369,
+        "unionId": "F1033",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1706,
+        "unionId": "F446",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 703,
+        "unionId": "F446",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207605948929@",
+    "geniId": "6000000207605948929",
+    "rfn": "geni:6000000207605948929",
+    "changed": "26 JUL 2024"
+  },
+  "page": {
+    "route": "people/1705/",
+    "canonical": "https://www.genepedia.org/people/1705/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

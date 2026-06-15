@@ -1,0 +1,137 @@
+{
+  "id": 2120,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-roselt",
+  "names": {
+    "display": "Maria Elizabeth Roselt",
+    "given": "Maria Elizabeth",
+    "surname": "Roselt",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Uitenhage",
+      "location": {
+        "label": "Uitenhage",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Uitenhage",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 SEP 1911",
+      "year": 1911,
+      "iso": "1911-09-08",
+      "precision": "exact",
+      "display": "September 8, 1911",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "House duties",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/a9/94/1f/2a/53444865bc7fd367/image_original.jpg?hash=74a2d522ca33f35e2a27c5cb09fc8ba217379ff2c57c275bac3eb8b81be61158.1789455599",
+      "alt": "Maria Elizabeth Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/a9/94/1f/2a/53444865bc7fd367/image_original.jpg?hash=74a2d522ca33f35e2a27c5cb09fc8ba217379ff2c57c275bac3eb8b81be61158.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2112,
+      2113
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2114,
+      2115,
+      2116,
+      881,
+      2117,
+      2118,
+      2119,
+      2121,
+      2122,
+      2123,
+      2124
+    ],
+    "parentUnions": [
+      "F550"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2112,
+        "unionId": "F550",
+        "type": "biological"
+      },
+      {
+        "id": 2113,
+        "unionId": "F550",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204875461899@",
+    "geniId": "6000000204875461899",
+    "rfn": "geni:6000000204875461899",
+    "changed": "27 APR 2024"
+  },
+  "page": {
+    "route": "people/2120/",
+    "canonical": "https://www.genepedia.org/people/2120/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

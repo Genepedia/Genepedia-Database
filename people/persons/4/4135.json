@@ -1,0 +1,107 @@
+{
+  "id": 4135,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-paulus-strydom",
+  "names": {
+    "display": "Petrus Paulus Strydom",
+    "given": "Petrus Paulus",
+    "surname": "Strydom",
+    "married": "Strydom",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 FEB 1902",
+      "year": 1902,
+      "iso": "1902-02-15",
+      "precision": "exact",
+      "display": "February 15, 1902",
+      "place": null
+    },
+    "death": {
+      "date": "9 FEB 1987",
+      "year": 1987,
+      "iso": "1987-02-09",
+      "precision": "exact",
+      "display": "February 9, 1987",
+      "place": "Parys, FS, South Africa",
+      "location": {
+        "label": "Parys, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Parys",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1560
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F957"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1560,
+        "unionId": "F957",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000176422866889@",
+    "geniId": "6000000176422866889",
+    "rfn": "geni:6000000176422866889",
+    "changed": "17 JUN 2021"
+  },
+  "page": {
+    "route": "people/4135/",
+    "canonical": "https://www.genepedia.org/people/4135/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

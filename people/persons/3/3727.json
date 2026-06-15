@@ -1,0 +1,95 @@
+{
+  "id": 3727,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-willem-heymerik",
+  "names": {
+    "display": "Johannes Willem Heymerik",
+    "given": "Johannes Willem Heymerik",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 OCT 1870",
+      "year": 1870,
+      "iso": "1870-10-09",
+      "precision": "exact",
+      "display": "October 9, 1870",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1426,
+      3723
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3724,
+      3725,
+      3726,
+      3728
+    ],
+    "parentUnions": [
+      "F894"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1426,
+        "unionId": "F894",
+        "type": "biological"
+      },
+      {
+        "id": 3723,
+        "unionId": "F894",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041022314963@",
+    "geniId": "6000000041022314963",
+    "rfn": "geni:6000000041022314963",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3727/",
+    "canonical": "https://www.genepedia.org/people/3727/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

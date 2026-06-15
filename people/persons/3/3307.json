@@ -1,0 +1,200 @@
+{
+  "id": 3307,
+  "schema": "genepedia/person@1",
+  "slug": "gert-sebastiaan-van-taak",
+  "names": {
+    "display": "Gert Sebastiaan van Taak",
+    "given": "Gert Sebastiaan",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "Seb",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JUN 1906",
+      "year": 1906,
+      "iso": "1906-06-23",
+      "precision": "exact",
+      "display": "June 23, 1906",
+      "place": "Vlakfontein, Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Vlakfontein, Clanwilliam, Cape Province, South Africa",
+        "placeName": "Vlakfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 OCT 1963",
+      "year": 1963,
+      "iso": "1963-10-15",
+      "precision": "exact",
+      "display": "October 15, 1963",
+      "place": null
+    },
+    "baptism": {
+      "date": "10 AUG 1906",
+      "year": 1906,
+      "iso": "1906-08-10",
+      "precision": "exact",
+      "display": "August 10, 1906",
+      "place": "Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Clanwilliam, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Stikland Cemetery, Bellville, Cape Province, South Africa",
+      "location": {
+        "label": "Stikland Cemetery, Bellville, Cape Province, South Africa",
+        "placeName": "Stikland Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bellville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/91/71/03/37/5344483c665e641c/jug78pij_original.jpg?hash=7d9ca53fd3a0987740bdaf27e605d4f7fbbdacb3fa3c8f46ff557dc6391453d6.1789455599",
+      "alt": "Gert Sebastiaan van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/91/71/03/37/5344483c665e641c/jug78pij_original.jpg?hash=7d9ca53fd3a0987740bdaf27e605d4f7fbbdacb3fa3c8f46ff557dc6391453d6.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/53/49/a7/40/5344483d254f1033/van_taak_gert_sebastiaan_original.jpg?hash=7b227a2188e353f0221cd74f44ab7a57eb5d49a89fd088b017649b2ca52154f2.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/d0/36/6d/68/5344483abcfbbcb8/gert_van_taak_original.jpg?hash=7c26dd528c05757bf3070e6715c89321d73a999405e02a391a9354327ce1eb2f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/3a/8f/54/49/5344483f6d2cccf0/taak_gert_sebastiaan_1906-1963_original.jpg?hash=5059621f659e529985d8c49c827f331713e3564089abdc18bac5794d30fc7b43.1789455599",
+        "form": "",
+        "title": "TAAK Gert Sebastiaan 1906-1963.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1310,
+      3305
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3306,
+      3308,
+      3309,
+      3310,
+      3311,
+      3312
+    ],
+    "parentUnions": [
+      "F812"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1310,
+        "unionId": "F812",
+        "type": "biological"
+      },
+      {
+        "id": 3305,
+        "unionId": "F812",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020267476761@",
+    "geniId": "6000000020267476761",
+    "rfn": "geni:6000000020267476761",
+    "changed": "28 OCT 2023"
+  },
+  "page": {
+    "route": "people/3307/",
+    "canonical": "https://www.genepedia.org/people/3307/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

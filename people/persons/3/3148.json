@@ -1,0 +1,108 @@
+{
+  "id": 3148,
+  "schema": "genepedia/person@1",
+  "slug": "seun-bosman",
+  "names": {
+    "display": "Seun Bosman",
+    "given": "Seun",
+    "surname": "Bosman",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 FEB 1828",
+      "year": 1828,
+      "iso": "1828-02-23",
+      "precision": "exact",
+      "display": "February 23, 1828",
+      "place": null
+    },
+    "death": {
+      "date": "11 MAR 1828",
+      "year": 1828,
+      "iso": "1828-03-11",
+      "precision": "exact",
+      "display": "March 11, 1828",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3138,
+      3139
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3140,
+      3141,
+      3142,
+      3143,
+      3144,
+      3145,
+      3146,
+      3147,
+      1259,
+      3149
+    ],
+    "parentUnions": [
+      "F774"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3138,
+        "unionId": "F774",
+        "type": "biological"
+      },
+      {
+        "id": 3139,
+        "unionId": "F774",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000097505750170@",
+    "geniId": "6000000097505750170",
+    "rfn": "geni:6000000097505750170",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/3148/",
+    "canonical": "https://www.genepedia.org/people/3148/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

@@ -1,0 +1,230 @@
+{
+  "id": 661,
+  "schema": "genepedia/person@1",
+  "slug": "urban-vernon-smith",
+  "names": {
+    "display": "Urban Vernon Smith",
+    "given": "Urban Vernon",
+    "surname": "Smith",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 SEP 1883",
+      "year": 1883,
+      "iso": "1883-09-08",
+      "precision": "exact",
+      "display": "September 8, 1883",
+      "place": "Mpumalanga, South Africa",
+      "location": {
+        "label": "Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "5 SEP 1955",
+      "year": 1955,
+      "iso": "1955-09-05",
+      "precision": "exact",
+      "display": "September 5, 1955",
+      "place": "Mpumalanga, South Africa",
+      "location": {
+        "label": "Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "17 DEC 1884",
+      "year": 1884,
+      "iso": "1884-12-17",
+      "precision": "exact",
+      "display": "December 17, 1884",
+      "place": "Standerton, Mpumalanga, South Africa",
+      "location": {
+        "label": "Standerton, Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Standerton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Mpumalanga, South Africa",
+      "location": {
+        "label": "Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f7/8c/5b/01/53444839eac57487/img_0281_original.jpg?hash=a8121ce9296564f9129d1f42cbb4221fb818b7ad451254d28b68217a8ca82c8d.1789455599",
+      "alt": "Urban Vernon Smith"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f7/8c/5b/01/53444839eac57487/img_0281_original.jpg?hash=a8121ce9296564f9129d1f42cbb4221fb818b7ad451254d28b68217a8ca82c8d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1629,
+      1630
+    ],
+    "spouses": [
+      662,
+      1627
+    ],
+    "exSpouses": [],
+    "children": [
+      663,
+      256,
+      1628
+    ],
+    "siblings": [
+      1631,
+      1632,
+      1633,
+      1634
+    ],
+    "parentUnions": [
+      "F420"
+    ],
+    "spouseUnions": [
+      "F187",
+      "F419"
+    ],
+    "parentLinks": [
+      {
+        "id": 1629,
+        "unionId": "F420",
+        "type": "biological"
+      },
+      {
+        "id": 1630,
+        "unionId": "F420",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 662,
+        "unionId": "F187",
+        "role": "wife"
+      },
+      {
+        "id": 1627,
+        "unionId": "F419",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 663,
+        "unionId": "F187",
+        "type": "biological"
+      },
+      {
+        "id": 256,
+        "unionId": "F187",
+        "type": "biological"
+      },
+      {
+        "id": 1628,
+        "unionId": "F419",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000015665718405@",
+    "geniId": "6000000015665718405",
+    "rfn": "geni:6000000015665718405",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/661/",
+    "canonical": "https://www.genepedia.org/people/661/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

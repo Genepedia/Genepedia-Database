@@ -1,0 +1,169 @@
+{
+  "id": 1732,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-christina-de-lange",
+  "names": {
+    "display": "Susanna Christina De Lange",
+    "given": "Susanna Christina",
+    "surname": "De Lange",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 NOV 1857",
+      "year": 1857,
+      "iso": "1857-11-26",
+      "precision": "exact",
+      "display": "November 26, 1857",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "Stockenstrom Street",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "7530",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 NOV 1904",
+      "year": 1904,
+      "iso": "1904-11-18",
+      "precision": "exact",
+      "display": "November 18, 1904",
+      "place": "Fort Beaufort, Eastern Cape, South Africa",
+      "location": {
+        "label": "Fort Beaufort, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fort Beaufort",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4424,
+      4425
+    ],
+    "spouses": [
+      1733
+    ],
+    "exSpouses": [],
+    "children": [
+      1734,
+      1735,
+      1736,
+      723
+    ],
+    "siblings": [
+      4426,
+      4427,
+      4428
+    ],
+    "parentUnions": [
+      "F1048"
+    ],
+    "spouseUnions": [
+      "F455"
+    ],
+    "parentLinks": [
+      {
+        "id": 4424,
+        "unionId": "F1048",
+        "type": "biological"
+      },
+      {
+        "id": 4425,
+        "unionId": "F1048",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1733,
+        "unionId": "F455",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1734,
+        "unionId": "F455",
+        "type": "biological"
+      },
+      {
+        "id": 1735,
+        "unionId": "F455",
+        "type": "biological"
+      },
+      {
+        "id": 1736,
+        "unionId": "F455",
+        "type": "biological"
+      },
+      {
+        "id": 723,
+        "unionId": "F455",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000060492415007@",
+    "geniId": "6000000060492415007",
+    "rfn": "geni:6000000060492415007",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/1732/",
+    "canonical": "https://www.genepedia.org/people/1732/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

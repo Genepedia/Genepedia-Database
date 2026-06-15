@@ -1,0 +1,149 @@
+{
+  "id": 603,
+  "schema": "genepedia/person@1",
+  "slug": "susara-susanna-de-beer",
+  "names": {
+    "display": "Susara Susanna de Beer",
+    "given": "Susara Susanna",
+    "surname": "de Beer",
+    "married": "Stead",
+    "nick": "Santie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 MAR 1966",
+      "year": 1966,
+      "iso": "1966-03-03",
+      "precision": "exact",
+      "display": "March 3, 1966",
+      "place": "Johannesburg, South Africa",
+      "location": {
+        "label": "Johannesburg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d1/dc/41/63/534448660769b286/284542303_10158735313550963_1990895157900437494_n_original.jpg?hash=b9a827500d62a3ea89acd5e3e9d63e70e92a719c5d8daf3bb7fa563067415aaa.1789455599",
+      "alt": "Susara Susanna de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d1/dc/41/63/534448660769b286/284542303_10158735313550963_1990895157900437494_n_original.jpg?hash=b9a827500d62a3ea89acd5e3e9d63e70e92a719c5d8daf3bb7fa563067415aaa.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/b8/e2/63/b4/5344486605eaa401/000447_3292395j592bx6e3m8wdr5_v_original.jpg?hash=5d2d1d3e2940ee0b522a6767422781b81e592cd2d2eb76c7cd816f222bf9f9ae.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      221,
+      602
+    ],
+    "spouses": [
+      1501
+    ],
+    "exSpouses": [],
+    "children": [
+      1502,
+      1503
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F169"
+    ],
+    "spouseUnions": [
+      "F384"
+    ],
+    "parentLinks": [
+      {
+        "id": 221,
+        "unionId": "F169",
+        "type": "biological"
+      },
+      {
+        "id": 602,
+        "unionId": "F169",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1501,
+        "unionId": "F384",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1502,
+        "unionId": "F384",
+        "type": "biological"
+      },
+      {
+        "id": 1503,
+        "unionId": "F384",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000205253295827@",
+    "geniId": "6000000205253295827",
+    "rfn": "geni:6000000205253295827",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/603/",
+    "canonical": "https://www.genepedia.org/people/603/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

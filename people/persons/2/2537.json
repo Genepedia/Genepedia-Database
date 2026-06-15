@@ -1,0 +1,170 @@
+{
+  "id": 2537,
+  "schema": "genepedia/person@1",
+  "slug": "jacomina-stoffelina-lamprecht",
+  "names": {
+    "display": "Jacomina Stoffelina Lamprecht",
+    "given": "Jacomina Stoffelina",
+    "surname": "Lamprecht",
+    "married": "Kruger",
+    "nick": "Jakkie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 JAN 1914",
+      "year": 1914,
+      "iso": "1914-01-02",
+      "precision": "exact",
+      "display": "January 2, 1914",
+      "place": "Luckhof, Free State, South Africa",
+      "location": {
+        "label": "Luckhof, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Luckhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "14 MAY 1990",
+      "year": 1990,
+      "iso": "1990-05-14",
+      "precision": "exact",
+      "display": "May 14, 1990",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d0/a4/d7/2a/5344483990ee2c1c/ouma_jakkie2_original.jpg?hash=cf4b9c33bdfe5c181f028d5e98c3fc8615ee0d5fce16d9c6d8a17588634b810c.1789455599",
+      "alt": "Jacomina Stoffelina Lamprecht"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d0/a4/d7/2a/5344483990ee2c1c/ouma_jakkie2_original.jpg?hash=cf4b9c33bdfe5c181f028d5e98c3fc8615ee0d5fce16d9c6d8a17588634b810c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/ac/46/83/c6/53444865c1a285fb/image_original.jpg?hash=dbb1f951d44a60503836ed7ec9726b6d02689e1bbc99029e234c7f5cae333f6f.1789455599",
+        "form": "",
+        "title": "record-image_trou 1935  .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1028
+    ],
+    "exSpouses": [],
+    "children": [
+      2538,
+      2539,
+      2540,
+      2541,
+      2542,
+      2543,
+      2544
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F631"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1028,
+        "unionId": "F631",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2538,
+        "unionId": "F631",
+        "type": "biological"
+      },
+      {
+        "id": 2539,
+        "unionId": "F631",
+        "type": "biological"
+      },
+      {
+        "id": 2540,
+        "unionId": "F631",
+        "type": "biological"
+      },
+      {
+        "id": 2541,
+        "unionId": "F631",
+        "type": "biological"
+      },
+      {
+        "id": 2542,
+        "unionId": "F631",
+        "type": "biological"
+      },
+      {
+        "id": 2543,
+        "unionId": "F631",
+        "type": "biological"
+      },
+      {
+        "id": 2544,
+        "unionId": "F631",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000014388114185@",
+    "geniId": "6000000014388114185",
+    "rfn": "geni:6000000014388114185",
+    "changed": "01 MAY 2024"
+  },
+  "page": {
+    "route": "people/2537/",
+    "canonical": "https://www.genepedia.org/people/2537/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,121 @@
+{
+  "id": 4673,
+  "schema": "genepedia/person@1",
+  "slug": "gerbrecht-isabella-elizabeth-havenga",
+  "names": {
+    "display": "Gerbrecht Isabella Elizabeth Havenga",
+    "given": "Gerbrecht Isabella Elizabeth",
+    "surname": "Havenga",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 MAR 1875",
+      "year": 1875,
+      "iso": "1875-03-18",
+      "precision": "exact",
+      "display": "March 18, 1875",
+      "place": null
+    },
+    "death": {
+      "date": "3 JUN 1945",
+      "year": 1945,
+      "iso": "1945-06-03",
+      "precision": "exact",
+      "display": "June 3, 1945",
+      "place": "Windhoek, Khomas Region, Namibia",
+      "location": {
+        "label": "Windhoek, Khomas Region, Namibia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Windhoek",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Khomas Region",
+        "country": "Namibia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4670,
+      4671
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1863,
+      4672,
+      4674,
+      4675,
+      4676,
+      4677,
+      4678
+    ],
+    "parentUnions": [
+      "F1114"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4670,
+        "unionId": "F1114",
+        "type": "biological"
+      },
+      {
+        "id": 4671,
+        "unionId": "F1114",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000017995406535@",
+    "geniId": "6000000017995406535",
+    "rfn": "geni:6000000017995406535",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/4673/",
+    "canonical": "https://www.genepedia.org/people/4673/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4209,
+  "schema": "genepedia/person@1",
+  "slug": "jaco-le-roux-4209",
+  "names": {
+    "display": "Jaco le Roux",
+    "given": "Jaco",
+    "surname": "le Roux",
+    "married": "le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1597,
+      4208
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4210,
+      4211
+    ],
+    "parentUnions": [
+      "F989"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1597,
+        "unionId": "F989",
+        "type": "biological"
+      },
+      {
+        "id": 4208,
+        "unionId": "F989",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000002781431662@",
+    "geniId": "6000000002781431662",
+    "rfn": "geni:6000000002781431662",
+    "changed": "23 NOV 2014"
+  },
+  "page": {
+    "route": "people/4209/",
+    "canonical": "https://www.genepedia.org/people/4209/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

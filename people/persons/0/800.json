@@ -1,0 +1,127 @@
+{
+  "id": 800,
+  "schema": "genepedia/person@1",
+  "slug": "nigel-brown",
+  "names": {
+    "display": "Nigel Brown",
+    "given": "Nigel",
+    "surname": "Brown",
+    "married": "Brown",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "9 AUG 1974",
+      "year": 1974,
+      "iso": "1974-08-09",
+      "precision": "exact",
+      "display": "August 9, 1974",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c1/2f/81/f6/53444866573ad552/screenshot_2024-08-07_140148_original.jpg?hash=798266baf7e5c561dbf08ab57c7d32f40547d63768aa131e7abd8a4729382b51.1789455599",
+      "alt": "Nigel Brown"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c1/2f/81/f6/53444866573ad552/screenshot_2024-08-07_140148_original.jpg?hash=798266baf7e5c561dbf08ab57c7d32f40547d63768aa131e7abd8a4729382b51.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/a1/00/c6/83/53444866573b8504/screenshot_2024-08-07_135848_original.jpg?hash=ca3fce3b8dbeecec4aaa9a33ba2cfc0b8135b54cf908cda016013c35a4cd270a.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1839
+    ],
+    "spouses": [
+      314
+    ],
+    "exSpouses": [],
+    "children": [
+      801,
+      802
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F489"
+    ],
+    "spouseUnions": [
+      "F223"
+    ],
+    "parentLinks": [
+      {
+        "id": 1839,
+        "unionId": "F489",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 314,
+        "unionId": "F223",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 801,
+        "unionId": "F223",
+        "type": "biological"
+      },
+      {
+        "id": 802,
+        "unionId": "F223",
+        "type": "adopted"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207951654823@",
+    "geniId": "6000000207951654823",
+    "rfn": "geni:6000000207951654823",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/800/",
+    "canonical": "https://www.genepedia.org/people/800/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

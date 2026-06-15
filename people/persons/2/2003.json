@@ -1,0 +1,140 @@
+{
+  "id": 2003,
+  "schema": "genepedia/person@1",
+  "slug": "bernardus-lambertus-mitchell",
+  "names": {
+    "display": "Bernardus Lambertus Mitchell",
+    "given": "Bernardus Lambertus",
+    "surname": "Mitchell",
+    "married": "Mitchell",
+    "nick": "LAMMIE",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 AUG 1892",
+      "year": 1892,
+      "iso": "1892-08-08",
+      "precision": "exact",
+      "display": "August 8, 1892",
+      "place": "Ladysmith, KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Ladysmith, KwaZulu-Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ladysmith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KwaZulu-Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "29 SEP 1966",
+      "year": 1966,
+      "iso": "1966-09-29",
+      "precision": "exact",
+      "display": "September 29, 1966",
+      "place": "Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Pretoria, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "HANDELAAR",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1995,
+      1996
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1997,
+      1998,
+      1999,
+      2000,
+      831,
+      2001,
+      2002,
+      2004
+    ],
+    "parentUnions": [
+      "F518"
+    ],
+    "spouseUnions": [
+      "F1226"
+    ],
+    "parentLinks": [
+      {
+        "id": 1995,
+        "unionId": "F518",
+        "type": "biological"
+      },
+      {
+        "id": 1996,
+        "unionId": "F518",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000005596738678@",
+    "geniId": "6000000005596738678",
+    "rfn": "geni:6000000005596738678",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2003/",
+    "canonical": "https://www.genepedia.org/people/2003/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

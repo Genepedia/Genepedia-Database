@@ -1,0 +1,95 @@
+{
+  "id": 4842,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-jacoba-catharina-grobler",
+  "names": {
+    "display": "Susanna Jacoba Catharina Grobler",
+    "given": "Susanna Jacoba Catharina",
+    "surname": "Grobler",
+    "married": "Venter",
+    "nick": "Susara",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "BEF 1915",
+      "year": 1915,
+      "iso": "1915",
+      "precision": "before",
+      "display": "before 1915",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1903,
+      4837
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4838,
+      4839,
+      4840,
+      4841
+    ],
+    "parentUnions": [
+      "F1152"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1903,
+        "unionId": "F1152",
+        "type": "biological"
+      },
+      {
+        "id": 4837,
+        "unionId": "F1152",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000042196674062@",
+    "geniId": "6000000042196674062",
+    "rfn": "geni:6000000042196674062",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/4842/",
+    "canonical": "https://www.genepedia.org/people/4842/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

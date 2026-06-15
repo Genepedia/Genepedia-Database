@@ -1,0 +1,98 @@
+{
+  "id": 3758,
+  "schema": "genepedia/person@1",
+  "slug": "anna-johanna-catharina-stoman",
+  "names": {
+    "display": "Anna Johanna Catharina Stoman",
+    "given": "Anna Johanna Catharina",
+    "surname": "Stoman",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 JUN 1845",
+      "year": 1845,
+      "iso": "1845-06-09",
+      "precision": "exact",
+      "display": "June 9, 1845",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3755,
+      3754
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3756,
+      3757,
+      1434,
+      3759,
+      3760,
+      3761,
+      3762
+    ],
+    "parentUnions": [
+      "F899"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3755,
+        "unionId": "F899",
+        "type": "biological"
+      },
+      {
+        "id": 3754,
+        "unionId": "F899",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000168821312876@",
+    "geniId": "6000000168821312876",
+    "rfn": "geni:6000000168821312876",
+    "changed": "02 AUG 2023"
+  },
+  "page": {
+    "route": "people/3758/",
+    "canonical": "https://www.genepedia.org/people/3758/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

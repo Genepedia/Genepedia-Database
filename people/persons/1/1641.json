@@ -1,0 +1,94 @@
+{
+  "id": 1641,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-maria-breytenbach",
+  "names": {
+    "display": "Catharina Maria Breytenbach",
+    "given": "Catharina Maria",
+    "surname": "Breytenbach",
+    "married": "Roos",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1636,
+      1635
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1637,
+      662,
+      1638,
+      1639,
+      1640,
+      1642,
+      1643,
+      1644,
+      1645,
+      1646
+    ],
+    "parentUnions": [
+      "F421"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1636,
+        "unionId": "F421",
+        "type": "biological"
+      },
+      {
+        "id": 1635,
+        "unionId": "F421",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204859908828@",
+    "geniId": "6000000204859908828",
+    "rfn": "geni:6000000204859908828",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/1641/",
+    "canonical": "https://www.genepedia.org/people/1641/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

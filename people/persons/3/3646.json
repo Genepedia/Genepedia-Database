@@ -1,0 +1,91 @@
+{
+  "id": 3646,
+  "schema": "genepedia/person@1",
+  "slug": "beatrice-edith-naude",
+  "names": {
+    "display": "Beatrice Edith Naude",
+    "given": "Beatrice Edith",
+    "surname": "Naude",
+    "married": "Naude",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3638,
+      1403
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3639,
+      3640,
+      3641,
+      3642,
+      3643,
+      3644,
+      3645
+    ],
+    "parentUnions": [
+      "F876"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3638,
+        "unionId": "F876",
+        "type": "biological"
+      },
+      {
+        "id": 1403,
+        "unionId": "F876",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000220002848834@",
+    "geniId": "6000000220002848834",
+    "rfn": "geni:6000000220002848834",
+    "changed": "03 OCT 2025"
+  },
+  "page": {
+    "route": "people/3646/",
+    "canonical": "https://www.genepedia.org/people/3646/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

@@ -1,0 +1,100 @@
+{
+  "id": 944,
+  "schema": "genepedia/person@1",
+  "slug": "alexander-campbell",
+  "names": {
+    "display": "Alexander Campbell",
+    "given": "Alexander",
+    "surname": "Campbell",
+    "married": "Campbell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1901",
+      "year": 1901,
+      "iso": "1901",
+      "precision": "exact",
+      "display": "1901",
+      "place": "Scottland",
+      "location": {
+        "label": "Scottland",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Scottland",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      380
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F260"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 380,
+        "unionId": "F260",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028298316898@",
+    "geniId": "6000000028298316898",
+    "rfn": "geni:6000000028298316898",
+    "changed": "13 MAR 2015"
+  },
+  "page": {
+    "route": "people/944/",
+    "canonical": "https://www.genepedia.org/people/944/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

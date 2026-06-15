@@ -1,0 +1,152 @@
+{
+  "id": 2684,
+  "schema": "genepedia/person@1",
+  "slug": "markus-johannes-fourie",
+  "names": {
+    "display": "Markus Johannes Fourie",
+    "given": "Markus Johannes",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 APR 1850",
+      "year": 1850,
+      "iso": "1850-04-09",
+      "precision": "exact",
+      "display": "April 9, 1850",
+      "place": "Potchefstroom, NW, South Africa",
+      "location": {
+        "label": "Potchefstroom, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 SEP 1939",
+      "year": 1939,
+      "iso": "1939-09-10",
+      "precision": "exact",
+      "display": "September 10, 1939",
+      "place": "Kuilenburg, Groot Marico, South Africa",
+      "location": {
+        "label": "Kuilenburg, Groot Marico, South Africa",
+        "placeName": "Kuilenburg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Groot Marico",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "21 OCT 1850",
+      "year": 1850,
+      "iso": "1850-10-21",
+      "precision": "exact",
+      "display": "October 21, 1850",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Markus Johannes Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Family Tree",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Gouws Web Site",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1076
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1657"
+    ],
+    "spouseUnions": [
+      "F656",
+      "F1656"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1076,
+        "unionId": "F656",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000011238823273@",
+    "geniId": "6000000011238823273",
+    "rfn": "geni:6000000011238823273",
+    "changed": "23 SEP 2025"
+  },
+  "page": {
+    "route": "people/2684/",
+    "canonical": "https://www.genepedia.org/people/2684/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

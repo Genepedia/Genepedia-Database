@@ -1,0 +1,167 @@
+{
+  "id": 2,
+  "schema": "genepedia/person@1",
+  "slug": "hanli-marais",
+  "names": {
+    "display": "Hanli Marais",
+    "given": "Hanli",
+    "surname": "Marais",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 NOV 1997",
+      "year": 1997,
+      "iso": "1997-11-15",
+      "precision": "exact",
+      "display": "November 15, 1997",
+      "place": "Caledon, Western Cape, South Africa",
+      "location": {
+        "label": "Caledon, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Caledon",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Bloemfontein, Free State, South Africa",
+  "lastResidenceLocation": {
+    "label": "Bloemfontein, Free State, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Bloemfontein",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Free State",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": "Graphic Designer",
+  "attributes": {
+    "hairColor": "Brown",
+    "eyeColor": "Brown",
+    "height": "5 feet 9 inches",
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ac/d3/32/39/534448656d63a88d/screenshot_2024-03-12_211115_original.jpg?hash=f9ce91d5ba0145ec637b35cf9143fe386078d2e07b4a0055a4c765b69de3f3cb.1789455599",
+      "alt": "Hanli Marais"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ac/d3/32/39/534448656d63a88d/screenshot_2024-03-12_211115_original.jpg?hash=f9ce91d5ba0145ec637b35cf9143fe386078d2e07b4a0055a4c765b69de3f3cb.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/03/bf/11/c9/53444851a2d25762/2016-11-22_10_original.jpg?hash=6bd277ac383cf88f363bca0da36b83c0028de3525193cf1b7eb7d5fc3157e147.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      11,
+      12
+    ],
+    "spouses": [
+      1,
+      10
+    ],
+    "exSpouses": [],
+    "children": [
+      3
+    ],
+    "siblings": [
+      13
+    ],
+    "parentUnions": [
+      "F5"
+    ],
+    "spouseUnions": [
+      "F1",
+      "F4"
+    ],
+    "parentLinks": [
+      {
+        "id": 11,
+        "unionId": "F5",
+        "type": "biological"
+      },
+      {
+        "id": 12,
+        "unionId": "F5",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1,
+        "unionId": "F1",
+        "role": "husband"
+      },
+      {
+        "id": 10,
+        "unionId": "F4",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3,
+        "unionId": "F1",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204013705828@",
+    "geniId": "6000000204013705828",
+    "rfn": "geni:6000000204013705828",
+    "changed": "05 APR 2025"
+  },
+  "page": {
+    "route": "people/2/",
+    "canonical": "https://www.genepedia.org/people/2/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

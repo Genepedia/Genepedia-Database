@@ -1,0 +1,147 @@
+{
+  "id": 788,
+  "schema": "genepedia/person@1",
+  "slug": "faith-mupombwa",
+  "names": {
+    "display": "Faith Mupombwa",
+    "given": "Faith",
+    "surname": "Mupombwa",
+    "married": "Mutekeza",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 NOV 1982",
+      "year": 1982,
+      "iso": "1982-11-29",
+      "precision": "exact",
+      "display": "November 29, 1982",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      785,
+      784
+    ],
+    "spouses": [
+      1816
+    ],
+    "exSpouses": [],
+    "children": [
+      1817,
+      1818,
+      1819,
+      1820
+    ],
+    "siblings": [
+      307,
+      786,
+      787,
+      789
+    ],
+    "parentUnions": [
+      "F218"
+    ],
+    "spouseUnions": [
+      "F480"
+    ],
+    "parentLinks": [
+      {
+        "id": 785,
+        "unionId": "F218",
+        "type": "biological"
+      },
+      {
+        "id": 784,
+        "unionId": "F218",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1816,
+        "unionId": "F480",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1817,
+        "unionId": "F480",
+        "type": "biological"
+      },
+      {
+        "id": 1818,
+        "unionId": "F480",
+        "type": "biological"
+      },
+      {
+        "id": 1819,
+        "unionId": "F480",
+        "type": "biological"
+      },
+      {
+        "id": 1820,
+        "unionId": "F480",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207539652821@",
+    "geniId": "6000000207539652821",
+    "rfn": "geni:6000000207539652821",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/788/",
+    "canonical": "https://www.genepedia.org/people/788/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

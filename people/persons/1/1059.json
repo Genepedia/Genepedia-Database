@@ -1,0 +1,150 @@
+{
+  "id": 1059,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-susanna-van-der-westhuizen",
+  "names": {
+    "display": "Johanna Susanna van der Westhuizen",
+    "given": "Johanna Susanna",
+    "surname": "van der Westhuizen",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": [
+      "Fourie"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1793",
+      "year": 1793,
+      "iso": "1793",
+      "precision": "about",
+      "display": "about 1793",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2561,
+      2562
+    ],
+    "spouses": [
+      1060
+    ],
+    "exSpouses": [],
+    "children": [
+      1061,
+      1062,
+      1063,
+      1064,
+      429
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F637"
+    ],
+    "spouseUnions": [
+      "F285"
+    ],
+    "parentLinks": [
+      {
+        "id": 2561,
+        "unionId": "F637",
+        "type": "biological"
+      },
+      {
+        "id": 2562,
+        "unionId": "F637",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1060,
+        "unionId": "F285",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1061,
+        "unionId": "F285",
+        "type": "biological"
+      },
+      {
+        "id": 1062,
+        "unionId": "F285",
+        "type": "biological"
+      },
+      {
+        "id": 1063,
+        "unionId": "F285",
+        "type": "biological"
+      },
+      {
+        "id": 1064,
+        "unionId": "F285",
+        "type": "biological"
+      },
+      {
+        "id": 429,
+        "unionId": "F285",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000023047948970@",
+    "geniId": "6000000023047948970",
+    "rfn": "geni:6000000023047948970",
+    "changed": "20 JAN 2022"
+  },
+  "page": {
+    "route": "people/1059/",
+    "canonical": "https://www.genepedia.org/people/1059/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

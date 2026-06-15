@@ -1,0 +1,99 @@
+{
+  "id": 1851,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-de-walt-droskie",
+  "names": {
+    "display": "Johannes De Walt Droskie",
+    "given": "Johannes De Walt",
+    "surname": "Droskie",
+    "married": "Droskie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1879",
+      "year": 1879,
+      "iso": "1879",
+      "precision": "about",
+      "display": "about 1879",
+      "place": null
+    },
+    "death": {
+      "date": "ABT 1880",
+      "year": 1880,
+      "iso": "1880",
+      "precision": "about",
+      "display": "about 1880",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1850,
+      811
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1852
+    ],
+    "parentUnions": [
+      "F494"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1850,
+        "unionId": "F494",
+        "type": "biological"
+      },
+      {
+        "id": 811,
+        "unionId": "F494",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066996650862@",
+    "geniId": "6000000066996650862",
+    "rfn": "geni:6000000066996650862",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/1851/",
+    "canonical": "https://www.genepedia.org/people/1851/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

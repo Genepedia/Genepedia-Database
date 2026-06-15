@@ -1,0 +1,177 @@
+{
+  "id": 2189,
+  "schema": "genepedia/person@1",
+  "slug": "john-stephen-sinden",
+  "names": {
+    "display": "John Stephen Sinden",
+    "given": "John Stephen",
+    "surname": "Sinden",
+    "married": "Sinden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 SEP 1903",
+      "year": 1903,
+      "iso": "1903-09-09",
+      "precision": "exact",
+      "display": "September 9, 1903",
+      "place": null
+    },
+    "death": {
+      "date": "17 JUL 1972",
+      "year": 1972,
+      "iso": "1972-07-17",
+      "precision": "exact",
+      "display": "July 17, 1972",
+      "place": "South Africa, Mafikeng,, Transvaal",
+      "location": {
+        "label": "South Africa, Mafikeng,, Transvaal",
+        "placeName": "South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Mafikeng,",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "1 OCT 1903",
+      "year": 1903,
+      "iso": "1903-10-01",
+      "precision": "exact",
+      "display": "October 1, 1903",
+      "place": null
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Main Cemetery, Mafikeng",
+      "location": {
+        "label": "Main Cemetery, Mafikeng",
+        "placeName": "Main Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Mafikeng",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e0/0a/33/c2/53444866efcd1f16/b93c893f373d2c9f887a9081688b604fdf6bfe6f_original.jpg?hash=8b32a6c8e2aca7aa8d409a1e5d24fda95f3aedbd7a13169a967c33c7c68f2f8c.1789455599",
+      "alt": "John Stephen Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e0/0a/33/c2/53444866efcd1f16/b93c893f373d2c9f887a9081688b604fdf6bfe6f_original.jpg?hash=8b32a6c8e2aca7aa8d409a1e5d24fda95f3aedbd7a13169a967c33c7c68f2f8c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/bb/92/82/bf/5344483c93f07717/doop_original.jpg?hash=218f7a1cd22e095845c5b3b677c507026b2c13981bc9d8b1182c3c2f4817198b.1789455599",
+        "form": "",
+        "title": "record-image_ doop .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/ad/b0/58/b5/5344485f3717a176/record-image_1__original.jpg?hash=91443f2d9571a9ea2d6cc2026ad41de09c2f59797edfed4d350e698a08613318.1789455599",
+        "form": "",
+        "title": "record-image_ trou 1926 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      896,
+      2186
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2187,
+      2188,
+      2190
+    ],
+    "parentUnions": [
+      "F558"
+    ],
+    "spouseUnions": [
+      "F1349",
+      "F1350"
+    ],
+    "parentLinks": [
+      {
+        "id": 896,
+        "unionId": "F558",
+        "type": "biological"
+      },
+      {
+        "id": 2186,
+        "unionId": "F558",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028103394415@",
+    "geniId": "6000000028103394415",
+    "rfn": "geni:6000000028103394415",
+    "changed": "01 NOV 2024"
+  },
+  "page": {
+    "route": "people/2189/",
+    "canonical": "https://www.genepedia.org/people/2189/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

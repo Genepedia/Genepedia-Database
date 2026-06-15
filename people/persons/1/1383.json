@@ -1,0 +1,90 @@
+{
+  "id": 1383,
+  "schema": "genepedia/person@1",
+  "slug": "profile-1383",
+  "names": {
+    "display": "?",
+    "given": "?",
+    "surname": "Theron",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BEF 1998",
+      "year": 1998,
+      "iso": "1998",
+      "precision": "before",
+      "display": "before 1998",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      562,
+      1382
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F357"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 562,
+        "unionId": "F357",
+        "type": "biological"
+      },
+      {
+        "id": 1382,
+        "unionId": "F357",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206578382977@",
+    "geniId": "6000000206578382977",
+    "rfn": "geni:6000000206578382977",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/1383/",
+    "canonical": "https://www.genepedia.org/people/1383/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

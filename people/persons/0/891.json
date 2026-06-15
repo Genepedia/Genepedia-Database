@@ -1,0 +1,124 @@
+{
+  "id": 891,
+  "schema": "genepedia/person@1",
+  "slug": "anna-elizabeth-sinden",
+  "names": {
+    "display": "Anna Elizabeth Sinden",
+    "given": "Anna Elizabeth",
+    "surname": "Sinden",
+    "married": "Sinden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 APR 1857",
+      "year": 1857,
+      "iso": "1857-04-10",
+      "precision": "exact",
+      "display": "April 10, 1857",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 SEP 1857",
+      "year": 1857,
+      "iso": "1857-09-06",
+      "precision": "exact",
+      "display": "September 6, 1857",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      887,
+      886
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      888,
+      889,
+      890,
+      892,
+      893,
+      894,
+      895,
+      896,
+      897,
+      369
+    ],
+    "parentUnions": [
+      "F250"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 887,
+        "unionId": "F250",
+        "type": "biological"
+      },
+      {
+        "id": 886,
+        "unionId": "F250",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028064043200@",
+    "geniId": "6000000028064043200",
+    "rfn": "geni:6000000028064043200",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/891/",
+    "canonical": "https://www.genepedia.org/people/891/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 2335,
+  "schema": "genepedia/person@1",
+  "slug": "marguerite",
+  "names": {
+    "display": "Marguerite",
+    "given": "Marguerite",
+    "surname": "Martin",
+    "married": "",
+    "nick": "Margie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Johannesburg, Gauteng, South Africa",
+  "lastResidenceLocation": {
+    "label": "Johannesburg, Gauteng, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Johannesburg",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Gauteng",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/74/eb/41/66/53444841332a2abf/10398863_75090022577_4926325_n_original.jpg?hash=c1a21d05f16cd96eebea39c53dd6358dc01fbd45c061368993e7e3dfa67170a4.1789455599",
+      "alt": "Marguerite"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/74/eb/41/66/53444841332a2abf/10398863_75090022577_4926325_n_original.jpg?hash=c1a21d05f16cd96eebea39c53dd6358dc01fbd45c061368993e7e3dfa67170a4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2331,
+      931
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2332,
+      2333,
+      2334,
+      2336
+    ],
+    "parentUnions": [
+      "F590"
+    ],
+    "spouseUnions": [
+      "F1443"
+    ],
+    "parentLinks": [
+      {
+        "id": 2331,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 931,
+        "unionId": "F590",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000046978140981@",
+    "geniId": "6000000046978140981",
+    "rfn": "geni:6000000046978140981",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2335/",
+    "canonical": "https://www.genepedia.org/people/2335/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

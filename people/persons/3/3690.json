@@ -1,0 +1,134 @@
+{
+  "id": 3690,
+  "schema": "genepedia/person@1",
+  "slug": "albertus-gerhardus-van-bosch",
+  "names": {
+    "display": "Albertus Gerhardus van Bosch",
+    "given": "Albertus Gerhardus",
+    "surname": "van Bosch",
+    "married": "",
+    "nick": "Albert",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 AUG 1893",
+      "year": 1893,
+      "iso": "1893-08-20",
+      "precision": "exact",
+      "display": "August 20, 1893",
+      "place": null
+    },
+    "death": {
+      "date": "5 NOV 1972",
+      "year": 1972,
+      "iso": "1972-11-05",
+      "precision": "exact",
+      "display": "November 5, 1972",
+      "place": null
+    },
+    "baptism": {
+      "date": "14 NOV 1893",
+      "year": 1893,
+      "iso": "1893-11-14",
+      "precision": "exact",
+      "display": "November 14, 1893",
+      "place": "Vryburg, South Africa",
+      "location": {
+        "label": "Vryburg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vryburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3679,
+      3678
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1410,
+      3680,
+      3681,
+      3682,
+      3683,
+      3684,
+      3685,
+      3686,
+      3687,
+      3688,
+      3689,
+      3691,
+      3692
+    ],
+    "parentUnions": [
+      "F883"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3679,
+        "unionId": "F883",
+        "type": "biological"
+      },
+      {
+        "id": 3678,
+        "unionId": "F883",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021196671387@",
+    "geniId": "6000000021196671387",
+    "rfn": "geni:6000000021196671387",
+    "changed": "05 MAY 2022"
+  },
+  "page": {
+    "route": "people/3690/",
+    "canonical": "https://www.genepedia.org/people/3690/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

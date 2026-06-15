@@ -1,0 +1,83 @@
+{
+  "id": 4272,
+  "schema": "genepedia/person@1",
+  "slug": "tobias-johannes-van-heerden",
+  "names": {
+    "display": "Tobias Johannes Van Heerden",
+    "given": "Tobias Johannes",
+    "surname": "Van Heerden",
+    "married": "Van Heerden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4271,
+      1615
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1004"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4271,
+        "unionId": "F1004",
+        "type": "biological"
+      },
+      {
+        "id": 1615,
+        "unionId": "F1004",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000060831067882@",
+    "geniId": "6000000060831067882",
+    "rfn": "geni:6000000060831067882",
+    "changed": "16 JUN 2017"
+  },
+  "page": {
+    "route": "people/4272/",
+    "canonical": "https://www.genepedia.org/people/4272/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

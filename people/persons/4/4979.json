@@ -1,0 +1,157 @@
+{
+  "id": 4979,
+  "schema": "genepedia/person@1",
+  "slug": "hester-jacoba-bester",
+  "names": {
+    "display": "Hester Jacoba Bester",
+    "given": "Hester Jacoba",
+    "surname": "Bester",
+    "married": "Calitz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 AUG 1928",
+      "year": 1928,
+      "iso": "1928-08-16",
+      "precision": "exact",
+      "display": "August 16, 1928",
+      "place": "Postmasburg, NC, South Africa",
+      "location": {
+        "label": "Postmasburg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "8420",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 FEB 1986",
+      "year": 1986,
+      "iso": "1986-02-20",
+      "precision": "exact",
+      "display": "February 20, 1986",
+      "place": "Pretoria, GP, South Africa",
+      "location": {
+        "label": "Pretoria, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zandfontein Cemetery, Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Zandfontein Cemetery, Pretoria, Gauteng, South Africa",
+        "placeName": "Zandfontein Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1936,
+      4975
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4976,
+      4977,
+      4978
+    ],
+    "parentUnions": [
+      "F1181"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1936,
+        "unionId": "F1181",
+        "type": "biological"
+      },
+      {
+        "id": 4975,
+        "unionId": "F1181",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000205272908823@",
+    "geniId": "6000000205272908823",
+    "rfn": "geni:6000000205272908823",
+    "changed": "04 FEB 2025"
+  },
+  "page": {
+    "route": "people/4979/",
+    "canonical": "https://www.genepedia.org/people/4979/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

@@ -1,0 +1,145 @@
+{
+  "id": 4899,
+  "schema": "genepedia/person@1",
+  "slug": "sirliena-frederika-van-der-merwe",
+  "names": {
+    "display": "Sirliena Frederika Van der Merwe",
+    "given": "Sirliena Frederika",
+    "surname": "Van der Merwe",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 NOV 1910",
+      "year": 1910,
+      "iso": "1910-11-17",
+      "precision": "exact",
+      "display": "November 17, 1910",
+      "place": null
+    },
+    "death": {
+      "date": "30 OCT 1945",
+      "year": 1945,
+      "iso": "1945-10-30",
+      "precision": "exact",
+      "display": "October 30, 1945",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1912
+    ],
+    "exSpouses": [],
+    "children": [
+      4900,
+      4901,
+      4902,
+      4903,
+      4904,
+      4905
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1164"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1912,
+        "unionId": "F1164",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4900,
+        "unionId": "F1164",
+        "type": "biological"
+      },
+      {
+        "id": 4901,
+        "unionId": "F1164",
+        "type": "biological"
+      },
+      {
+        "id": 4902,
+        "unionId": "F1164",
+        "type": "biological"
+      },
+      {
+        "id": 4903,
+        "unionId": "F1164",
+        "type": "biological"
+      },
+      {
+        "id": 4904,
+        "unionId": "F1164",
+        "type": "biological"
+      },
+      {
+        "id": 4905,
+        "unionId": "F1164",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066644712984@",
+    "geniId": "6000000066644712984",
+    "rfn": "geni:6000000066644712984",
+    "changed": "07 SEP 2017"
+  },
+  "page": {
+    "route": "people/4899/",
+    "canonical": "https://www.genepedia.org/people/4899/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

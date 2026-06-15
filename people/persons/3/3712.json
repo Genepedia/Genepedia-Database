@@ -1,0 +1,173 @@
+{
+  "id": 3712,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-bartholomeus-smit",
+  "names": {
+    "display": "Daniël Bartholomeus Smit",
+    "given": "Daniël Bartholomeus",
+    "surname": "Smit",
+    "married": "Smit",
+    "nick": "Danneman",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JUL 1926",
+      "year": 1926,
+      "iso": "1926-07-23",
+      "precision": "exact",
+      "display": "July 23, 1926",
+      "place": "Groenfontein, Darling, South Africa",
+      "location": {
+        "label": "Groenfontein, Darling, South Africa",
+        "placeName": "Groenfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Darling",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 MAR 1979",
+      "year": 1979,
+      "iso": "1979-03-02",
+      "precision": "exact",
+      "display": "March 2, 1979",
+      "place": "Langebaan, South Africa",
+      "location": {
+        "label": "Langebaan, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Langebaan",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Darling, South Africa",
+      "location": {
+        "label": "Darling, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Darling",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/a6/49/a4/c1/5344483bf96254c8/jam64yuf_original.jpg?hash=871c575e5feab719d06cf54f9e312706ca109a92ef5b9b13c30ae4e684bca5ba.1789455599",
+      "alt": "Daniël Bartholomeus Smit"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/a6/49/a4/c1/5344483bf96254c8/jam64yuf_original.jpg?hash=871c575e5feab719d06cf54f9e312706ca109a92ef5b9b13c30ae4e684bca5ba.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1419
+    ],
+    "exSpouses": [],
+    "children": [
+      3713,
+      3714
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F891"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1419,
+        "unionId": "F891",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3713,
+        "unionId": "F891",
+        "type": "biological"
+      },
+      {
+        "id": 3714,
+        "unionId": "F891",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000025988367619@",
+    "geniId": "6000000025988367619",
+    "rfn": "geni:6000000025988367619",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/3712/",
+    "canonical": "https://www.genepedia.org/people/3712/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

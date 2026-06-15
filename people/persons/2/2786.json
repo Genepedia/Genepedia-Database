@@ -1,0 +1,121 @@
+{
+  "id": 2786,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-faber",
+  "names": {
+    "display": "Jacobus Johannes Faber",
+    "given": "Jacobus Johannes",
+    "surname": "Faber",
+    "married": "Faber",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "7 FEB 1928",
+      "year": 1928,
+      "iso": "1928-02-07",
+      "precision": "exact",
+      "display": "February 7, 1928",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "13 MAY 1928",
+      "year": 1928,
+      "iso": "1928-05-13",
+      "precision": "exact",
+      "display": "May 13, 1928",
+      "place": "Reivilo, NW, South Africa",
+      "location": {
+        "label": "Reivilo, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Reivilo",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2780,
+      1130
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2781,
+      2782,
+      2783,
+      2784,
+      2785,
+      2787,
+      2788
+    ],
+    "parentUnions": [
+      "F690"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2780,
+        "unionId": "F690",
+        "type": "biological"
+      },
+      {
+        "id": 1130,
+        "unionId": "F690",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000215554150832@",
+    "geniId": "6000000215554150832",
+    "rfn": "geni:6000000215554150832",
+    "changed": "28 MAR 2025"
+  },
+  "page": {
+    "route": "people/2786/",
+    "canonical": "https://www.genepedia.org/people/2786/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

@@ -1,0 +1,143 @@
+{
+  "id": 4228,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-frederik-pelser",
+  "names": {
+    "display": "Johannes Frederik Pelser",
+    "given": "Johannes Frederik",
+    "surname": "Pelser",
+    "married": "Pelser",
+    "nick": "Hendrik",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 OCT 1853",
+      "year": 1853,
+      "iso": "1853-10-15",
+      "precision": "exact",
+      "display": "October 15, 1853",
+      "place": "Boshof, Orange Free State, South Africa",
+      "location": {
+        "label": "Boshof, Orange Free State, South Africa",
+        "placeName": "Boshof, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 MAY 1937",
+      "year": 1937,
+      "iso": "1937-05-20",
+      "precision": "exact",
+      "display": "May 20, 1937",
+      "place": "Rustenburg, Transvaal, South Africa",
+      "location": {
+        "label": "Rustenburg, Transvaal, South Africa",
+        "placeName": "Rustenburg, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1604
+    ],
+    "exSpouses": [],
+    "children": [
+      4229,
+      4230,
+      4231
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F993"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1604,
+        "unionId": "F993",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4229,
+        "unionId": "F993",
+        "type": "biological"
+      },
+      {
+        "id": 4230,
+        "unionId": "F993",
+        "type": "biological"
+      },
+      {
+        "id": 4231,
+        "unionId": "F993",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000149936916882@",
+    "geniId": "6000000149936916882",
+    "rfn": "geni:6000000149936916882",
+    "changed": "03 JUN 2025"
+  },
+  "page": {
+    "route": "people/4228/",
+    "canonical": "https://www.genepedia.org/people/4228/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

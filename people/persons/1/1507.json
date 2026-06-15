@@ -1,0 +1,110 @@
+{
+  "id": 1507,
+  "schema": "genepedia/person@1",
+  "slug": "olga-du-preez",
+  "names": {
+    "display": "Olga du Preez",
+    "given": "Olga",
+    "surname": "du Preez",
+    "married": "du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "12 APR 1973",
+      "year": 1973,
+      "iso": "1973-04-12",
+      "precision": "exact",
+      "display": "April 12, 1973",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/00/3f/73/e0/534448660724e13e/screenshot_2024-06-18_145656_original.jpg?hash=5a0394c2ce0319dae7c9b8bfa6fa8fbf11381a26d120d17455293986609e2362.1789455599",
+      "alt": "Olga du Preez"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/00/3f/73/e0/534448660724e13e/screenshot_2024-06-18_145656_original.jpg?hash=5a0394c2ce0319dae7c9b8bfa6fa8fbf11381a26d120d17455293986609e2362.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      606
+    ],
+    "exSpouses": [],
+    "children": [
+      1508,
+      1509
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F386"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 606,
+        "unionId": "F386",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1508,
+        "unionId": "F386",
+        "type": "biological"
+      },
+      {
+        "id": 1509,
+        "unionId": "F386",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206607951839@",
+    "geniId": "6000000206607951839",
+    "rfn": "geni:6000000206607951839",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1507/",
+    "canonical": "https://www.genepedia.org/people/1507/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

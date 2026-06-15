@@ -1,0 +1,86 @@
+{
+  "id": 2661,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-dorothea-booyens",
+  "names": {
+    "display": "Johanna Dorothea Booyens",
+    "given": "Johanna Dorothea",
+    "surname": "Booyens",
+    "married": "Booyens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2659,
+      1073
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2660,
+      2662
+    ],
+    "parentUnions": [
+      "F651"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2659,
+        "unionId": "F651",
+        "type": "biological"
+      },
+      {
+        "id": 1073,
+        "unionId": "F651",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025873110327@",
+    "geniId": "6000000025873110327",
+    "rfn": "geni:6000000025873110327",
+    "changed": "10 AUG 2022"
+  },
+  "page": {
+    "route": "people/2661/",
+    "canonical": "https://www.genepedia.org/people/2661/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

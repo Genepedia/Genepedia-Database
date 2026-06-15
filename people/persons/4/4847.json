@@ -1,0 +1,125 @@
+{
+  "id": 4847,
+  "schema": "genepedia/person@1",
+  "slug": "nicolaas-johannes-grobler",
+  "names": {
+    "display": "Nicolaas Johannes Grobler",
+    "given": "Nicolaas Johannes",
+    "surname": "Grobler",
+    "married": "Grobler",
+    "nick": "b6c2d4e1",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1813",
+      "year": 1813,
+      "iso": "1813",
+      "precision": "exact",
+      "display": "1813",
+      "place": "EC, South Africa",
+      "location": {
+        "label": "EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1888",
+      "year": 1888,
+      "iso": "1888",
+      "precision": "exact",
+      "display": "1888",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4846,
+      4845
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4848,
+      4849,
+      4850,
+      1903,
+      4851,
+      4852,
+      4853,
+      4854,
+      4855,
+      4856,
+      4857
+    ],
+    "parentUnions": [
+      "F1155"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4846,
+        "unionId": "F1155",
+        "type": "biological"
+      },
+      {
+        "id": 4845,
+        "unionId": "F1155",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020144516090@",
+    "geniId": "6000000020144516090",
+    "rfn": "geni:6000000020144516090",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4847/",
+    "canonical": "https://www.genepedia.org/people/4847/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

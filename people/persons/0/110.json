@@ -1,0 +1,208 @@
+{
+  "id": 110,
+  "schema": "genepedia/person@1",
+  "slug": "mysler-moses-lurie",
+  "names": {
+    "display": "Mysler Moses Lurie",
+    "given": "Mysler Moses",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BET 1910 AND 1936",
+      "year": 1910,
+      "iso": "1936",
+      "precision": "exact",
+      "display": "1936",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "BET 1996 AND 1999",
+      "year": 1996,
+      "iso": "1999",
+      "precision": "exact",
+      "display": "1999",
+      "place": "Lady Grey, Eastern Cape, South Africa",
+      "location": {
+        "label": "Lady Grey, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Lady Grey",
+        "postalCode": "9755",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Aliwal North, Eastern Cape, South Africa",
+      "location": {
+        "label": "Aliwal North, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aliwal North",
+        "postalCode": "9750",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      297,
+      298
+    ],
+    "spouses": [
+      109
+    ],
+    "exSpouses": [],
+    "children": [
+      111,
+      112,
+      35,
+      113,
+      114,
+      115
+    ],
+    "siblings": [
+      299,
+      300,
+      301,
+      302,
+      303,
+      304
+    ],
+    "parentUnions": [
+      "F97"
+    ],
+    "spouseUnions": [
+      "F40"
+    ],
+    "parentLinks": [
+      {
+        "id": 297,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 298,
+        "unionId": "F97",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 109,
+        "unionId": "F40",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 111,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 112,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 35,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 113,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 114,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 115,
+        "unionId": "F40",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204015201833@",
+    "geniId": "6000000204015201833",
+    "rfn": "geni:6000000204015201833",
+    "changed": "11 FEB 2025"
+  },
+  "page": {
+    "route": "people/110/",
+    "canonical": "https://www.genepedia.org/people/110/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

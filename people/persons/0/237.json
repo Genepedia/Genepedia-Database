@@ -1,0 +1,108 @@
+{
+  "id": 237,
+  "schema": "genepedia/person@1",
+  "slug": "esther-nel",
+  "names": {
+    "display": "Esther Nel",
+    "given": "Esther",
+    "surname": "Nel",
+    "married": "Scheepers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 AUG 1946",
+      "year": 1946,
+      "iso": "1946-08-03",
+      "precision": "exact",
+      "display": "August 3, 1946",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      236
+    ],
+    "exSpouses": [],
+    "children": [
+      78
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F76"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 236,
+        "unionId": "F76",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 78,
+        "unionId": "F76",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207417709829@",
+    "geniId": "6000000207417709829",
+    "rfn": "geni:6000000207417709829",
+    "changed": "18 JUL 2024"
+  },
+  "page": {
+    "route": "people/237/",
+    "canonical": "https://www.genepedia.org/people/237/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": 3776,
+  "schema": "genepedia/person@1",
+  "slug": "maria-magdalena-van-reenen",
+  "names": {
+    "display": "Maria Magdalena van Reenen",
+    "given": "Maria Magdalena",
+    "surname": "van Reenen",
+    "married": "Herridge",
+    "nick": "Mary Magdalena van Reenen",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 MAY 1879",
+      "year": 1879,
+      "iso": "1879-05-28",
+      "precision": "exact",
+      "display": "May 28, 1879",
+      "place": null
+    },
+    "death": {
+      "date": "17 MAY 1961",
+      "year": 1961,
+      "iso": "1961-05-17",
+      "precision": "exact",
+      "display": "May 17, 1961",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3775,
+      1436
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3777,
+      3778,
+      3779,
+      3780,
+      3781
+    ],
+    "parentUnions": [
+      "F902"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3775,
+        "unionId": "F902",
+        "type": "biological"
+      },
+      {
+        "id": 1436,
+        "unionId": "F902",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026234037099@",
+    "geniId": "6000000026234037099",
+    "rfn": "geni:6000000026234037099",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/3776/",
+    "canonical": "https://www.genepedia.org/people/3776/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

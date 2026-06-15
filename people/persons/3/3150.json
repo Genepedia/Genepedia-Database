@@ -1,0 +1,123 @@
+{
+  "id": 3150,
+  "schema": "genepedia/person@1",
+  "slug": "wilhelmina-elizabeth-johnson",
+  "names": {
+    "display": "Wilhelmina Elizabeth Johnson",
+    "given": "Wilhelmina Elizabeth",
+    "surname": "Johnson",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1868",
+      "year": 1868,
+      "iso": "1868",
+      "precision": "exact",
+      "display": "1868",
+      "place": null
+    },
+    "death": {
+      "date": "24 MAY 1916",
+      "year": 1916,
+      "iso": "1916-05-24",
+      "precision": "exact",
+      "display": "May 24, 1916",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1262
+    ],
+    "exSpouses": [],
+    "children": [
+      3151,
+      3152,
+      3153,
+      3154,
+      3155
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F775"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1262,
+        "unionId": "F775",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3151,
+        "unionId": "F775",
+        "type": "biological"
+      },
+      {
+        "id": 3152,
+        "unionId": "F775",
+        "type": "biological"
+      },
+      {
+        "id": 3153,
+        "unionId": "F775",
+        "type": "biological"
+      },
+      {
+        "id": 3154,
+        "unionId": "F775",
+        "type": "biological"
+      },
+      {
+        "id": 3155,
+        "unionId": "F775",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000073578027930@",
+    "geniId": "6000000073578027930",
+    "rfn": "geni:6000000073578027930",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/3150/",
+    "canonical": "https://www.genepedia.org/people/3150/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

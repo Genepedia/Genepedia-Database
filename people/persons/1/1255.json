@@ -1,0 +1,136 @@
+{
+  "id": 1255,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-magdalena-marais",
+  "names": {
+    "display": "Rachel Magdalena Marais",
+    "given": "Rachel Magdalena",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 MAY 1887",
+      "year": 1887,
+      "iso": "1887-05-28",
+      "precision": "exact",
+      "display": "May 28, 1887",
+      "place": "Carnarvon, Northern Cape, South Africa",
+      "location": {
+        "label": "Carnarvon, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Carnarvon",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "10 JUL 1887",
+      "year": 1887,
+      "iso": "1887-07-10",
+      "precision": "exact",
+      "display": "July 10, 1887",
+      "place": "Carnarvon, Northern Cape, South Africa",
+      "location": {
+        "label": "Carnarvon, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "NG Kerk",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Carnarvon",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      524,
+      1250
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1251,
+      1252,
+      1253,
+      1254,
+      1256,
+      1257
+    ],
+    "parentUnions": [
+      "F327"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 524,
+        "unionId": "F327",
+        "type": "biological"
+      },
+      {
+        "id": 1250,
+        "unionId": "F327",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052394132821@",
+    "geniId": "6000000052394132821",
+    "rfn": "geni:6000000052394132821",
+    "changed": "10 AUG 2022"
+  },
+  "page": {
+    "route": "people/1255/",
+    "canonical": "https://www.genepedia.org/people/1255/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

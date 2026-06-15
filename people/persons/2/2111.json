@@ -1,0 +1,100 @@
+{
+  "id": 2111,
+  "schema": "genepedia/person@1",
+  "slug": "anna-magdalena-rousseau",
+  "names": {
+    "display": "Anna Magdalena Rousseau",
+    "given": "Anna Magdalena",
+    "surname": "Rousseau",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      881
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F549"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 881,
+        "unionId": "F549",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000046663067511@",
+    "geniId": "6000000046663067511",
+    "rfn": "geni:6000000046663067511",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/2111/",
+    "canonical": "https://www.genepedia.org/people/2111/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

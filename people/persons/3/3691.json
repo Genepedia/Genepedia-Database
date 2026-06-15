@@ -1,0 +1,104 @@
+{
+  "id": 3691,
+  "schema": "genepedia/person@1",
+  "slug": "carel-jacobus-van-bosch",
+  "names": {
+    "display": "Carel Jacobus van Bosch",
+    "given": "Carel Jacobus",
+    "surname": "van Bosch",
+    "married": "van Bosch",
+    "nick": "Kallie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "26 AUG 1981",
+      "year": 1981,
+      "iso": "1981-08-26",
+      "precision": "exact",
+      "display": "August 26, 1981",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3679,
+      3678
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1410,
+      3680,
+      3681,
+      3682,
+      3683,
+      3684,
+      3685,
+      3686,
+      3687,
+      3688,
+      3689,
+      3690,
+      3692
+    ],
+    "parentUnions": [
+      "F883"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3679,
+        "unionId": "F883",
+        "type": "biological"
+      },
+      {
+        "id": 3678,
+        "unionId": "F883",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021196927297@",
+    "geniId": "6000000021196927297",
+    "rfn": "geni:6000000021196927297",
+    "changed": "05 MAY 2022"
+  },
+  "page": {
+    "route": "people/3691/",
+    "canonical": "https://www.genepedia.org/people/3691/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

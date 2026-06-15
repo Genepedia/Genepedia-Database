@@ -1,0 +1,175 @@
+{
+  "id": 2738,
+  "schema": "genepedia/person@1",
+  "slug": "louisa-susanna-magdalena-maritz",
+  "names": {
+    "display": "Louisa Susanna Magdalena Maritz",
+    "given": "Louisa Susanna Magdalena",
+    "surname": "Maritz",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 AUG 1905",
+      "year": 1905,
+      "iso": "1905-08-29",
+      "precision": "exact",
+      "display": "August 29, 1905",
+      "place": "Prieska, Cape Province, South Africa",
+      "location": {
+        "label": "Prieska, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prieska",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 OCT 1976",
+      "year": 1976,
+      "iso": "1976-10-03",
+      "precision": "exact",
+      "display": "October 3, 1976",
+      "place": "Douglas, South Africa",
+      "location": {
+        "label": "Douglas, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Bucklands, Douglas, South Africa",
+      "location": {
+        "label": "Bucklands, Douglas, South Africa",
+        "placeName": "Bucklands",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/30/b3/4f/92/53444869a7514ac1/1_1_83n6-d1mm_original.png?hash=81057d8bbdcf0b12bec4abd42dfa4aaec6e0041cba2cb3b248798f32b38166b6.1789455599",
+      "alt": "Louisa Susanna Magdalena Maritz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/30/b3/4f/92/53444869a7514ac1/1_1_83n6-d1mm_original.png?hash=81057d8bbdcf0b12bec4abd42dfa4aaec6e0041cba2cb3b248798f32b38166b6.1789455599",
+        "form": "",
+        "title": "https://familysearch.org/ark:/61903/1:1:83N6-D1MM",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/80/27/90/66/53444869a7537938/1_1_6p1m-7v4k_original.png?hash=212a499530329cd348fd040a49c4737b930b4fdfbba5856aabf8eeaf60a552ac.1789455599",
+        "form": "",
+        "title": "https://www.familysearch.org/ark:/61903/1:1:6P1M-7V4K?lang=en&cid=fs_copy",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1103
+    ],
+    "exSpouses": [],
+    "children": [
+      2739
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F672",
+      "F1697"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1103,
+        "unionId": "F672",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2739,
+        "unionId": "F672",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222179820908@",
+    "geniId": "6000000222179820908",
+    "rfn": "geni:6000000222179820908",
+    "changed": "10 NOV 2025"
+  },
+  "page": {
+    "route": "people/2738/",
+    "canonical": "https://www.genepedia.org/people/2738/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

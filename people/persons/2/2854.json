@@ -1,0 +1,106 @@
+{
+  "id": 2854,
+  "schema": "genepedia/person@1",
+  "slug": "eliza-foster",
+  "names": {
+    "display": "Eliza Foster",
+    "given": "Eliza",
+    "surname": "Foster",
+    "married": "Davis",
+    "nick": "Eliza",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ab/4e/0e/0c/53444838c5016320/p34_1173_1408_original.jpg?hash=a24b36ce9bbc84fb07c7be88961f16c85c1f077a3c01459c5c7f8795d2172a35.1789455599",
+      "alt": "Eliza Foster"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ab/4e/0e/0c/53444838c5016320/p34_1173_1408_original.jpg?hash=a24b36ce9bbc84fb07c7be88961f16c85c1f077a3c01459c5c7f8795d2172a35.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/50/5a/0e/d1/5344484240d54efc/eliza_foster_original.jpg?hash=a12af0e9991f93da82b9fa4083878d8efbdb43b607463b2613f7bdb26dff0dae.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2853
+    ],
+    "exSpouses": [],
+    "children": [
+      1150
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1773"
+    ],
+    "spouseUnions": [
+      "F704"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2853,
+        "unionId": "F704",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1150,
+        "unionId": "F704",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000012224591070@",
+    "geniId": "6000000012224591070",
+    "rfn": "geni:6000000012224591070",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2854/",
+    "canonical": "https://www.genepedia.org/people/2854/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 3654,
+  "schema": "genepedia/person@1",
+  "slug": "barnabas-meintjes-3654",
+  "names": {
+    "display": "Barnabas Meintjes",
+    "given": "Barnabas",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 MAR 1913",
+      "year": 1913,
+      "iso": "1913-03-20",
+      "precision": "exact",
+      "display": "March 20, 1913",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1404,
+      3650
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3651,
+      3652,
+      3653,
+      3655,
+      3656,
+      3657,
+      3658,
+      3659,
+      3660,
+      3661
+    ],
+    "parentUnions": [
+      "F878"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1404,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3650,
+        "unionId": "F878",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000019880352624@",
+    "geniId": "6000000019880352624",
+    "rfn": "geni:6000000019880352624",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3654/",
+    "canonical": "https://www.genepedia.org/people/3654/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

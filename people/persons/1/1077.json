@@ -1,0 +1,110 @@
+{
+  "id": 1077,
+  "schema": "genepedia/person@1",
+  "slug": "elsje-sophia-frederica-johanna-kotze",
+  "names": {
+    "display": "Elsje Sophia Frederica Johanna Kotze",
+    "given": "Elsje Sophia Frederica Johanna",
+    "surname": "Kotze",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 DEC 1872",
+      "year": 1872,
+      "iso": "1872-12-17",
+      "precision": "exact",
+      "display": "December 17, 1872",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 7 OCT 1919",
+      "year": 1919,
+      "iso": "1919-10-07",
+      "precision": "before",
+      "display": "before October 7, 1919",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1075,
+      431
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1076,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1087,
+      1088
+    ],
+    "parentUnions": [
+      "F287"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1075,
+        "unionId": "F287",
+        "type": "biological"
+      },
+      {
+        "id": 431,
+        "unionId": "F287",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000220976176881@",
+    "geniId": "6000000220976176881",
+    "rfn": "geni:6000000220976176881",
+    "changed": "03 SEP 2025"
+  },
+  "page": {
+    "route": "people/1077/",
+    "canonical": "https://www.genepedia.org/people/1077/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

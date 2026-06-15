@@ -1,0 +1,94 @@
+{
+  "id": 4331,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-petrus-breytenbach",
+  "names": {
+    "display": "Daniel Petrus Breytenbach",
+    "given": "Daniel Petrus",
+    "surname": "Breytenbach",
+    "married": "Breytenbach",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "BEF 1971",
+      "year": 1971,
+      "iso": "1971",
+      "precision": "before",
+      "display": "before 1971",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1637,
+      4329
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4330,
+      4332,
+      4333
+    ],
+    "parentUnions": [
+      "F1017"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1637,
+        "unionId": "F1017",
+        "type": "biological"
+      },
+      {
+        "id": 4329,
+        "unionId": "F1017",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207380470863@",
+    "geniId": "6000000207380470863",
+    "rfn": "geni:6000000207380470863",
+    "changed": "16 JUL 2024"
+  },
+  "page": {
+    "route": "people/4331/",
+    "canonical": "https://www.genepedia.org/people/4331/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

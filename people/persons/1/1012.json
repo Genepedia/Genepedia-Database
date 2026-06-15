@@ -1,0 +1,213 @@
+{
+  "id": 1012,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-helena-johanna-van-der-bank",
+  "names": {
+    "display": "Catharina Helena Johanna van der Bank",
+    "given": "Catharina Helena Johanna",
+    "surname": "van der Bank",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 NOV 1838",
+      "year": 1838,
+      "iso": "1838-11-18",
+      "precision": "exact",
+      "display": "November 18, 1838",
+      "place": "Grahamstown, Eastern Cape, South Africa",
+      "location": {
+        "label": "Grahamstown, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Grahamstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "8 AUG 1839",
+      "year": 1839,
+      "iso": "1839-08-08",
+      "precision": "exact",
+      "display": "August 8, 1839",
+      "place": "NG Church, Riversdal, Cape Of Good Hope, Soth Africa",
+      "location": {
+        "label": "NG Church, Riversdal, Cape Of Good Hope, Soth Africa",
+        "placeName": "NG Church",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Riversdal",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Of Good Hope",
+        "country": "Soth Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/f2/4d/ac/ba/53444861311f2a33/catharina_johanna_helena_mitchell_death_notice_original.jpg?hash=aafceef312760ecc4f0290b94593329e4134a87cf57736d6d03c117333eafa24.1789455599",
+      "alt": "Catharina Helena Johanna van der Bank"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/f2/4d/ac/ba/53444861311f2a33/catharina_johanna_helena_mitchell_death_notice_original.jpg?hash=aafceef312760ecc4f0290b94593329e4134a87cf57736d6d03c117333eafa24.1789455599",
+        "form": "",
+        "title": "Catharina Johanna Helena Mitchell death notice.",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1009,
+      1008
+    ],
+    "spouses": [
+      2473
+    ],
+    "exSpouses": [],
+    "children": [
+      1995,
+      2474,
+      2475,
+      2476,
+      2477,
+      2478,
+      2479,
+      2480
+    ],
+    "siblings": [
+      1010,
+      1011,
+      1013,
+      1014,
+      1015,
+      1016,
+      1017,
+      1018,
+      417,
+      1019,
+      1020
+    ],
+    "parentUnions": [
+      "F278"
+    ],
+    "spouseUnions": [
+      "F622"
+    ],
+    "parentLinks": [
+      {
+        "id": 1009,
+        "unionId": "F278",
+        "type": "biological"
+      },
+      {
+        "id": 1008,
+        "unionId": "F278",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2473,
+        "unionId": "F622",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1995,
+        "unionId": "F622",
+        "type": "biological"
+      },
+      {
+        "id": 2474,
+        "unionId": "F622",
+        "type": "biological"
+      },
+      {
+        "id": 2475,
+        "unionId": "F622",
+        "type": "biological"
+      },
+      {
+        "id": 2476,
+        "unionId": "F622",
+        "type": "biological"
+      },
+      {
+        "id": 2477,
+        "unionId": "F622",
+        "type": "biological"
+      },
+      {
+        "id": 2478,
+        "unionId": "F622",
+        "type": "biological"
+      },
+      {
+        "id": 2479,
+        "unionId": "F622",
+        "type": "biological"
+      },
+      {
+        "id": 2480,
+        "unionId": "F622",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003263976134@",
+    "geniId": "6000000003263976134",
+    "rfn": "geni:6000000003263976134",
+    "changed": "29 AUG 2023"
+  },
+  "page": {
+    "route": "people/1012/",
+    "canonical": "https://www.genepedia.org/people/1012/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

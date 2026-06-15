@@ -1,0 +1,110 @@
+{
+  "id": 4596,
+  "schema": "genepedia/person@1",
+  "slug": "hendrika-johanna-jacoba-bester",
+  "names": {
+    "display": "Hendrika Johanna Jacoba Bester",
+    "given": "Hendrika Johanna Jacoba",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 OCT 1884",
+      "year": 1884,
+      "iso": "1884-10-14",
+      "precision": "exact",
+      "display": "October 14, 1884",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1845,
+      4592
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4593,
+      4594,
+      4595
+    ],
+    "parentUnions": [
+      "F1101"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1845,
+        "unionId": "F1101",
+        "type": "biological"
+      },
+      {
+        "id": 4592,
+        "unionId": "F1101",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066091687851@",
+    "geniId": "6000000066091687851",
+    "rfn": "geni:6000000066091687851",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4596/",
+    "canonical": "https://www.genepedia.org/people/4596/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

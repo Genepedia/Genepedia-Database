@@ -1,0 +1,137 @@
+{
+  "id": 3588,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-magdalena-snyman",
+  "names": {
+    "display": "Catharina Magdalena Snyman",
+    "given": "Catharina Magdalena",
+    "surname": "Snyman",
+    "married": "Ferreira",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 JAN 1879",
+      "year": 1879,
+      "iso": "1879-01-02",
+      "precision": "exact",
+      "display": "January 2, 1879",
+      "place": "Willowmore, EC, South Africa",
+      "location": {
+        "label": "Willowmore, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Willowmore",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 JUN 1970",
+      "year": 1970,
+      "iso": "1970-06-21",
+      "precision": "exact",
+      "display": "June 21, 1970",
+      "place": "Gqeberha, Eastern Cape, South Africa",
+      "location": {
+        "label": "Gqeberha, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Gqeberha",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3583,
+      1398
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3584,
+      3585,
+      3586,
+      3587,
+      3589,
+      3590,
+      3591
+    ],
+    "parentUnions": [
+      "F871"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3583,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 1398,
+        "unionId": "F871",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000037091325183@",
+    "geniId": "6000000037091325183",
+    "rfn": "geni:6000000037091325183",
+    "changed": "11 JUL 2025"
+  },
+  "page": {
+    "route": "people/3588/",
+    "canonical": "https://www.genepedia.org/people/3588/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

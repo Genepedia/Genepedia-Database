@@ -1,0 +1,91 @@
+{
+  "id": 88,
+  "schema": "genepedia/person@1",
+  "slug": "van-niekerk-88",
+  "names": {
+    "display": "? Van Niekerk",
+    "given": "?",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      24
+    ],
+    "exSpouses": [],
+    "children": [
+      89,
+      90
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F32"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 24,
+        "unionId": "F32",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 89,
+        "unionId": "F32",
+        "type": "biological"
+      },
+      {
+        "id": 90,
+        "unionId": "F32",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207558264822@",
+    "geniId": "6000000207558264822",
+    "rfn": "geni:6000000207558264822",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/88/",
+    "canonical": "https://www.genepedia.org/people/88/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

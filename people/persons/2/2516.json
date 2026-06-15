@@ -1,0 +1,247 @@
+{
+  "id": 2516,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-hendrik-burger",
+  "names": {
+    "display": "Jacobus Hendrik Burger",
+    "given": "Jacobus Hendrik",
+    "surname": "Burger",
+    "married": "Burger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 FEB 1847",
+      "year": 1847,
+      "iso": "1847-02-26",
+      "precision": "exact",
+      "display": "February 26, 1847",
+      "place": "Patrysfontein, Cape Town, Cape Colony, South Africa",
+      "location": {
+        "label": "Patrysfontein, Cape Town, Cape Colony, South Africa",
+        "placeName": "Patrysfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 APR 1889",
+      "year": 1889,
+      "iso": "1889-04-18",
+      "precision": "exact",
+      "display": "April 18, 1889",
+      "place": "Boer War Concentration Camp, Douglas, NC, South Africa",
+      "location": {
+        "label": "Boer War Concentration Camp, Douglas, NC, South Africa",
+        "placeName": "Boer War Concentration Camp",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "8730",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "30 AUG 1847",
+      "year": 1847,
+      "iso": "1847-08-30",
+      "precision": "exact",
+      "display": "August 30, 1847",
+      "place": "Gouritz, Cape Province, South Africa",
+      "location": {
+        "label": "Gouritz, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Gouritz",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": "ABT 1889",
+      "year": 1889,
+      "iso": "1889",
+      "precision": "about",
+      "display": "about 1889",
+      "place": "Douglas, Noord Kaap, NC, South Africa",
+      "location": {
+        "label": "Douglas, Noord Kaap, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas, Noord Kaap",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1018,
+      2296
+    ],
+    "exSpouses": [],
+    "children": [
+      2517,
+      2518,
+      2519,
+      2520,
+      2521,
+      2522,
+      2523,
+      2524,
+      2525,
+      2526,
+      2527
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1541"
+    ],
+    "spouseUnions": [
+      "F628",
+      "F1424"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1018,
+        "unionId": "F628",
+        "role": "wife"
+      },
+      {
+        "id": 2296,
+        "unionId": "F1424",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2517,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 2518,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 2519,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 2520,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 2521,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 2522,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 2523,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 2524,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 2525,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 2526,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 2527,
+        "unionId": "F628",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000091976871828@",
+    "geniId": "6000000091976871828",
+    "rfn": "geni:6000000091976871828",
+    "changed": "01 APR 2025"
+  },
+  "page": {
+    "route": "people/2516/",
+    "canonical": "https://www.genepedia.org/people/2516/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

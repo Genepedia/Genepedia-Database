@@ -1,0 +1,142 @@
+{
+  "id": 285,
+  "schema": "genepedia/person@1",
+  "slug": "willem-antonie-van-der-merwe",
+  "names": {
+    "display": "Willem Antonie van der Merwe",
+    "given": "Willem Antonie",
+    "surname": "van der Merwe",
+    "married": "van der Merwe",
+    "nick": "Willie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BET 1910 AND 1920",
+      "year": 1910,
+      "iso": "1920",
+      "precision": "exact",
+      "display": "1920",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      710,
+      711
+    ],
+    "spouses": [
+      286
+    ],
+    "exSpouses": [],
+    "children": [
+      287,
+      288,
+      107,
+      289,
+      290,
+      291
+    ],
+    "siblings": [
+      712,
+      713,
+      714
+    ],
+    "parentUnions": [
+      "F201"
+    ],
+    "spouseUnions": [
+      "F93"
+    ],
+    "parentLinks": [
+      {
+        "id": 710,
+        "unionId": "F201",
+        "type": "biological"
+      },
+      {
+        "id": 711,
+        "unionId": "F201",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 286,
+        "unionId": "F93",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 287,
+        "unionId": "F93",
+        "type": "biological"
+      },
+      {
+        "id": 288,
+        "unionId": "F93",
+        "type": "biological"
+      },
+      {
+        "id": 107,
+        "unionId": "F93",
+        "type": "biological"
+      },
+      {
+        "id": 289,
+        "unionId": "F93",
+        "type": "biological"
+      },
+      {
+        "id": 290,
+        "unionId": "F93",
+        "type": "biological"
+      },
+      {
+        "id": 291,
+        "unionId": "F93",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000041001730892@",
+    "geniId": "6000000041001730892",
+    "rfn": "geni:6000000041001730892",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/285/",
+    "canonical": "https://www.genepedia.org/people/285/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

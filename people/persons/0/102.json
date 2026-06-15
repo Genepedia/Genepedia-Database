@@ -1,0 +1,107 @@
+{
+  "id": 102,
+  "schema": "genepedia/person@1",
+  "slug": "trevor-edwards",
+  "names": {
+    "display": "Trevor Edwards",
+    "given": "Trevor",
+    "surname": "Edwards",
+    "married": "Edwards",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      273
+    ],
+    "spouses": [
+      101
+    ],
+    "exSpouses": [],
+    "children": [
+      31,
+      103,
+      104
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F88"
+    ],
+    "spouseUnions": [
+      "F37"
+    ],
+    "parentLinks": [
+      {
+        "id": 273,
+        "unionId": "F88",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 101,
+        "unionId": "F37",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 31,
+        "unionId": "F37",
+        "type": "biological"
+      },
+      {
+        "id": 103,
+        "unionId": "F37",
+        "type": "biological"
+      },
+      {
+        "id": 104,
+        "unionId": "F37",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204069229822@",
+    "geniId": "6000000204069229822",
+    "rfn": "geni:6000000204069229822",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/102/",
+    "canonical": "https://www.genepedia.org/people/102/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

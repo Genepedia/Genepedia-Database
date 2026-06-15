@@ -1,0 +1,126 @@
+{
+  "id": 1357,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-maria-esterhuyse",
+  "names": {
+    "display": "Elizabeth Maria Esterhuyse",
+    "given": "Elizabeth Maria",
+    "surname": "Janse van Vuuren",
+    "married": "Esterhuyse",
+    "nick": "Elsabe",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "27 MAR 1965",
+      "year": 1965,
+      "iso": "1965-03-27",
+      "precision": "exact",
+      "display": "March 27, 1965",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/7f/f7/04/56/5344486602a567e5/376192580_757873226107530_5927893183759346320_n_original.jpg?hash=92d58fc60ff524be04087863b94283ecfae5711c9b313170eb2ed39a8f1138a9.1789455599",
+      "alt": "Elizabeth Maria Esterhuyse"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/7f/f7/04/56/5344486602a567e5/376192580_757873226107530_5927893183759346320_n_original.jpg?hash=92d58fc60ff524be04087863b94283ecfae5711c9b313170eb2ed39a8f1138a9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3440
+    ],
+    "spouses": [
+      552
+    ],
+    "exSpouses": [],
+    "children": [
+      1358,
+      1359,
+      1360
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F846"
+    ],
+    "spouseUnions": [
+      "F348"
+    ],
+    "parentLinks": [
+      {
+        "id": 3440,
+        "unionId": "F846",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 552,
+        "unionId": "F348",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1358,
+        "unionId": "F348",
+        "type": "biological"
+      },
+      {
+        "id": 1359,
+        "unionId": "F348",
+        "type": "biological"
+      },
+      {
+        "id": 1360,
+        "unionId": "F348",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227373631@",
+    "geniId": "6000000027227373631",
+    "rfn": "geni:6000000027227373631",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1357/",
+    "canonical": "https://www.genepedia.org/people/1357/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

@@ -1,0 +1,93 @@
+{
+  "id": 4988,
+  "schema": "genepedia/person@1",
+  "slug": "hendrina-helena-bester",
+  "names": {
+    "display": "Hendrina Helena Bester",
+    "given": "Hendrina Helena",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 FEB 1927",
+      "year": 1927,
+      "iso": "1927-02-18",
+      "precision": "exact",
+      "display": "February 18, 1927",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1937,
+      4986
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4987,
+      4989
+    ],
+    "parentUnions": [
+      "F1183"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1937,
+        "unionId": "F1183",
+        "type": "biological"
+      },
+      {
+        "id": 4986,
+        "unionId": "F1183",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066964634340@",
+    "geniId": "6000000066964634340",
+    "rfn": "geni:6000000066964634340",
+    "changed": "12 SEP 2017"
+  },
+  "page": {
+    "route": "people/4988/",
+    "canonical": "https://www.genepedia.org/people/4988/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

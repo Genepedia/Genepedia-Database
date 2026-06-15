@@ -1,0 +1,180 @@
+{
+  "id": 3546,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-stephina-de-beer",
+  "names": {
+    "display": "Johanna Stephina de Beer",
+    "given": "Johanna Stephina",
+    "surname": "de Beer",
+    "married": "van der Merwe",
+    "nick": "Tanie Henna",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 NOV 1892",
+      "year": 1892,
+      "iso": "1892-11-24",
+      "precision": "exact",
+      "display": "November 24, 1892",
+      "place": "Graaff-Reinet, Cape Colony, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Colony, South Africa",
+        "placeName": "Graaff-Reinet, Cape Colony, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 JUN 1966",
+      "year": 1966,
+      "iso": "1966-06-02",
+      "precision": "exact",
+      "display": "June 2, 1966",
+      "place": "Belfast, Mpumalanga, South Africa",
+      "location": {
+        "label": "Belfast, Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Belfast",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Old Cemetry, Belfast, Mpumalanga, South Africa",
+      "location": {
+        "label": "Old Cemetry, Belfast, Mpumalanga, South Africa",
+        "placeName": "Old Cemetry",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Belfast",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/c0/4d/6a/3e/53444847fa7ce0b5/0000b_original.jpg?hash=1f21e3e8d3ed00cf436197d897f75a6c162a1ad7c5fe45c1cdb72174288b814e.1789455599",
+      "alt": "Johanna Stephina de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/c0/4d/6a/3e/53444847fa7ce0b5/0000b_original.jpg?hash=1f21e3e8d3ed00cf436197d897f75a6c162a1ad7c5fe45c1cdb72174288b814e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/82/66/d4/50/5344483c69d1c600/cik98baj_original.jpg?hash=864f4f2627b5bf6f4db7cf7e78049af70c8b65d38e84226c334a549a8a038066.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1391,
+      3540
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3541,
+      3542,
+      3543,
+      3544,
+      3545,
+      3547,
+      3548
+    ],
+    "parentUnions": [
+      "F862"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1391,
+        "unionId": "F862",
+        "type": "biological"
+      },
+      {
+        "id": 3540,
+        "unionId": "F862",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000016030095462@",
+    "geniId": "6000000016030095462",
+    "rfn": "geni:6000000016030095462",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3546/",
+    "canonical": "https://www.genepedia.org/people/3546/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

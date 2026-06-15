@@ -1,0 +1,125 @@
+{
+  "id": 590,
+  "schema": "genepedia/person@1",
+  "slug": "koos-de-beer",
+  "names": {
+    "display": "Koos de Beer",
+    "given": "Koos",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "20 NOV 1958",
+      "year": 1958,
+      "iso": "1958-11-20",
+      "precision": "exact",
+      "display": "November 20, 1958",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      216,
+      588
+    ],
+    "spouses": [
+      1466,
+      1469
+    ],
+    "exSpouses": [],
+    "children": [
+      1467,
+      1468
+    ],
+    "siblings": [
+      589,
+      591,
+      592
+    ],
+    "parentUnions": [
+      "F166"
+    ],
+    "spouseUnions": [
+      "F372",
+      "F373"
+    ],
+    "parentLinks": [
+      {
+        "id": 216,
+        "unionId": "F166",
+        "type": "biological"
+      },
+      {
+        "id": 588,
+        "unionId": "F166",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1466,
+        "unionId": "F372",
+        "role": "partner"
+      },
+      {
+        "id": 1469,
+        "unionId": "F373",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1467,
+        "unionId": "F372",
+        "type": "biological"
+      },
+      {
+        "id": 1468,
+        "unionId": "F372",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587716882@",
+    "geniId": "6000000206587716882",
+    "rfn": "geni:6000000206587716882",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/590/",
+    "canonical": "https://www.genepedia.org/people/590/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,146 @@
+{
+  "id": 2142,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-sinden",
+  "names": {
+    "display": "Elizabeth Sinden",
+    "given": "Elizabeth",
+    "surname": "Sinden",
+    "married": "Savage",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1821",
+      "year": 1821,
+      "iso": "1821",
+      "precision": "exact",
+      "display": "1821",
+      "place": "England, United Kingdom",
+      "location": {
+        "label": "England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "AFT 1840",
+      "year": 1840,
+      "iso": "1840",
+      "precision": "after",
+      "display": "after 1840",
+      "place": null
+    },
+    "baptism": {
+      "date": "14 JAN 1821",
+      "year": 1821,
+      "iso": "1821-01-14",
+      "precision": "exact",
+      "display": "January 14, 1821",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/00/bd/5f/ee/53444864057d51ee/download_1__original.png?hash=24ed9e05720a35ab6cf59c8530c4d4012bdf2b0069ecbee5425dfdc0742fa6a4.1789455599",
+      "alt": "Elizabeth Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/00/bd/5f/ee/53444864057d51ee/download_1__original.png?hash=24ed9e05720a35ab6cf59c8530c4d4012bdf2b0069ecbee5425dfdc0742fa6a4.1789455599",
+        "form": "",
+        "title": "record-image_doop .npg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2136,
+      2137
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2138,
+      2139,
+      2140,
+      2141,
+      887,
+      2143,
+      2144,
+      2145,
+      2146,
+      2147,
+      2148
+    ],
+    "parentUnions": [
+      "F554"
+    ],
+    "spouseUnions": [
+      "F1319"
+    ],
+    "parentLinks": [
+      {
+        "id": 2136,
+        "unionId": "F554",
+        "type": "biological"
+      },
+      {
+        "id": 2137,
+        "unionId": "F554",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028063934074@",
+    "geniId": "6000000028063934074",
+    "rfn": "geni:6000000028063934074",
+    "changed": "07 SEP 2023"
+  },
+  "page": {
+    "route": "people/2142/",
+    "canonical": "https://www.genepedia.org/people/2142/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

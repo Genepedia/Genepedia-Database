@@ -1,0 +1,229 @@
+{
+  "id": 215,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-susanna-margaretha-augustyn",
+  "names": {
+    "display": "Gertruida Susanna Margaretha Augustyn",
+    "given": "Gertruida Susanna Margaretha",
+    "surname": "Augustyn",
+    "married": "de Beer",
+    "nick": "Toelie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 AUG 1906",
+      "year": 1906,
+      "iso": "1906-08-27",
+      "precision": "exact",
+      "display": "August 27, 1906",
+      "place": "Middelpos, Cape Colony, South Africa",
+      "location": {
+        "label": "Middelpos, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelpos",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 DEC 1999",
+      "year": 1999,
+      "iso": "1999-12-24",
+      "precision": "exact",
+      "display": "December 24, 1999",
+      "place": "Kroonstad, Orange Free State, South Africa",
+      "location": {
+        "label": "Kroonstad, Orange Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/df/84/54/8a/534448637aef49f3/picture1_original.jpg?hash=e61bcceec7dc9b81f61e99653f7bf6aaacfdcdff1dffefda63fe4680a42aae78.1789455599",
+      "alt": "Gertruida Susanna Margaretha Augustyn"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/df/84/54/8a/534448637aef49f3/picture1_original.jpg?hash=e61bcceec7dc9b81f61e99653f7bf6aaacfdcdff1dffefda63fe4680a42aae78.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      577,
+      578
+    ],
+    "spouses": [
+      214
+    ],
+    "exSpouses": [],
+    "children": [
+      216,
+      217,
+      66,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225
+    ],
+    "siblings": [
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587
+    ],
+    "parentUnions": [
+      "F165"
+    ],
+    "spouseUnions": [
+      "F69"
+    ],
+    "parentLinks": [
+      {
+        "id": 577,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 578,
+        "unionId": "F165",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 214,
+        "unionId": "F69",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 216,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 217,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 66,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 218,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 219,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 220,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 221,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 222,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 223,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 224,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 225,
+        "unionId": "F69",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000119027017914@",
+    "geniId": "6000000119027017914",
+    "rfn": "geni:6000000119027017914",
+    "changed": "23 APR 2024"
+  },
+  "page": {
+    "route": "people/215/",
+    "canonical": "https://www.genepedia.org/people/215/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

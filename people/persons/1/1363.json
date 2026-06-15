@@ -1,0 +1,92 @@
+{
+  "id": 1363,
+  "schema": "genepedia/person@1",
+  "slug": "phillipus-jakobus-robertson",
+  "names": {
+    "display": "Phillipus Jakobus Robertson",
+    "given": "Phillipus Jakobus",
+    "surname": "Robertson",
+    "married": "Robertson",
+    "nick": "Phillip",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "22 MAR 1994",
+      "year": 1994,
+      "iso": "1994-03-22",
+      "precision": "exact",
+      "display": "March 22, 1994",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1361,
+      554
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1362
+    ],
+    "parentUnions": [
+      "F349"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1361,
+        "unionId": "F349",
+        "type": "biological"
+      },
+      {
+        "id": 554,
+        "unionId": "F349",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228598191@",
+    "geniId": "6000000027228598191",
+    "rfn": "geni:6000000027228598191",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1363/",
+    "canonical": "https://www.genepedia.org/people/1363/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

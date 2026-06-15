@@ -1,0 +1,177 @@
+{
+  "id": 2455,
+  "schema": "genepedia/person@1",
+  "slug": "helena-johanna-van-tonder",
+  "names": {
+    "display": "Helena Johanna van Tonder",
+    "given": "Helena Johanna",
+    "surname": "van Tonder",
+    "married": "",
+    "nick": "b7c1d3",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 8 JAN 1791",
+      "year": 1791,
+      "iso": "1791-01-08",
+      "precision": "about",
+      "display": "about January 8, 1791",
+      "place": "Stellenbosch, Western Cape, South Africa",
+      "location": {
+        "label": "Stellenbosch, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Stellenbosch",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 DEC 1853",
+      "year": 1853,
+      "iso": "1853-12-28",
+      "precision": "exact",
+      "display": "December 28, 1853",
+      "place": null
+    },
+    "baptism": {
+      "date": "6 FEB 1791",
+      "year": 1791,
+      "iso": "1791-02-06",
+      "precision": "exact",
+      "display": "February 6, 1791",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/6d/5c/29/9c/53444839ad6b6a79/helena_johanna_van_tonder_6_february_1791_cape_town_baptism_original.jpg?hash=88beff4cc45542eeff3ec2f113c96d959775beb7b52e71edaedfc5ebece8320b.1789455599",
+      "alt": "Helena Johanna van Tonder"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/6d/5c/29/9c/53444839ad6b6a79/helena_johanna_van_tonder_6_february_1791_cape_town_baptism_original.jpg?hash=88beff4cc45542eeff3ec2f113c96d959775beb7b52e71edaedfc5ebece8320b.1789455599",
+        "form": "",
+        "title": "Helena Johanna van Tonder 6 February 1791 Cape Town Baptism.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/d7/4c/0a/66/53444839ad8fa7ca/54_original.pdf?hash=7dfeab35d9452bfba31e67b856580736acb12b90db61820c972e2ff28cbcd5a4.1789455599",
+        "form": "",
+        "title": "Johanna van Wyk MOOC8/54.21a.pdf",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2454
+    ],
+    "exSpouses": [],
+    "children": [
+      1008,
+      2456,
+      2457,
+      2458
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1500"
+    ],
+    "spouseUnions": [
+      "F618"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2454,
+        "unionId": "F618",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1008,
+        "unionId": "F618",
+        "type": "biological"
+      },
+      {
+        "id": 2456,
+        "unionId": "F618",
+        "type": "biological"
+      },
+      {
+        "id": 2457,
+        "unionId": "F618",
+        "type": "biological"
+      },
+      {
+        "id": 2458,
+        "unionId": "F618",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000015352393172@",
+    "geniId": "6000000015352393172",
+    "rfn": "geni:6000000015352393172",
+    "changed": "19 APR 2025"
+  },
+  "page": {
+    "route": "people/2455/",
+    "canonical": "https://www.genepedia.org/people/2455/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

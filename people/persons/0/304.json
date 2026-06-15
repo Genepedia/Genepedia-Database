@@ -1,0 +1,137 @@
+{
+  "id": 304,
+  "schema": "genepedia/person@1",
+  "slug": "david-lurie",
+  "names": {
+    "display": "David Lurie",
+    "given": "David",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      297,
+      298
+    ],
+    "spouses": [
+      776
+    ],
+    "exSpouses": [],
+    "children": [
+      777,
+      778
+    ],
+    "siblings": [
+      110,
+      299,
+      300,
+      301,
+      302,
+      303
+    ],
+    "parentUnions": [
+      "F97"
+    ],
+    "spouseUnions": [
+      "F215"
+    ],
+    "parentLinks": [
+      {
+        "id": 297,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 298,
+        "unionId": "F97",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 776,
+        "unionId": "F215",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 777,
+        "unionId": "F215",
+        "type": "biological"
+      },
+      {
+        "id": 778,
+        "unionId": "F215",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149354821@",
+    "geniId": "6000000204149354821",
+    "rfn": "geni:6000000204149354821",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/304/",
+    "canonical": "https://www.genepedia.org/people/304/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

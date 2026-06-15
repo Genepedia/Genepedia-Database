@@ -1,0 +1,94 @@
+{
+  "id": 712,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-johannes-van-der-merwe",
+  "names": {
+    "display": "Joseph Johannes van der Merwe",
+    "given": "Joseph Johannes",
+    "surname": "van der Merwe",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BET 1910 AND 1920",
+      "year": 1910,
+      "iso": "1920",
+      "precision": "exact",
+      "display": "1920",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      710,
+      711
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      713,
+      285,
+      714
+    ],
+    "parentUnions": [
+      "F201"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 710,
+        "unionId": "F201",
+        "type": "biological"
+      },
+      {
+        "id": 711,
+        "unionId": "F201",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041001703901@",
+    "geniId": "6000000041001703901",
+    "rfn": "geni:6000000041001703901",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/712/",
+    "canonical": "https://www.genepedia.org/people/712/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

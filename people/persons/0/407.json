@@ -1,0 +1,85 @@
+{
+  "id": 407,
+  "schema": "genepedia/person@1",
+  "slug": "marais-407",
+  "names": {
+    "display": "? Marais",
+    "given": "?",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      157
+    ],
+    "exSpouses": [],
+    "children": [
+      408
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F130"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 157,
+        "unionId": "F130",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 408,
+        "unionId": "F130",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207077179834@",
+    "geniId": "6000000207077179834",
+    "rfn": "geni:6000000207077179834",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/407/",
+    "canonical": "https://www.genepedia.org/people/407/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

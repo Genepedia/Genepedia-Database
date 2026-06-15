@@ -1,0 +1,103 @@
+{
+  "id": 2595,
+  "schema": "genepedia/person@1",
+  "slug": "helena-janse-van-vuuren",
+  "names": {
+    "display": "Helena Janse van Vuuren",
+    "given": "Helena",
+    "surname": "Janse van Vuuren",
+    "married": "Janse van Vuuren",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 MAR 1780",
+      "year": 1780,
+      "iso": "1780-03-26",
+      "precision": "exact",
+      "display": "March 26, 1780",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2594,
+      2593
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2596,
+      2597,
+      2598,
+      2599,
+      2600,
+      2601,
+      2602,
+      2603,
+      2604,
+      2605,
+      2606,
+      1065
+    ],
+    "parentUnions": [
+      "F642"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2594,
+        "unionId": "F642",
+        "type": "biological"
+      },
+      {
+        "id": 2593,
+        "unionId": "F642",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000013142880480@",
+    "geniId": "6000000013142880480",
+    "rfn": "geni:6000000013142880480",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2595/",
+    "canonical": "https://www.genepedia.org/people/2595/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

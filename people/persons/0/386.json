@@ -1,0 +1,113 @@
+{
+  "id": 386,
+  "schema": "genepedia/person@1",
+  "slug": "helena-jacoba-roselt",
+  "names": {
+    "display": "Helena Jacoba Roselt",
+    "given": "Helena Jacoba",
+    "surname": "Roselt",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "14 OCT 1941",
+      "year": 1941,
+      "iso": "1941-10-14",
+      "precision": "exact",
+      "display": "October 14, 1941",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "11 NOV 1941",
+      "year": 1941,
+      "iso": "1941-11-11",
+      "precision": "exact",
+      "display": "November 11, 1941",
+      "place": "Stella, Transvaal",
+      "location": {
+        "label": "Stella, Transvaal",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Stella",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      140,
+      385
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F119"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 140,
+        "unionId": "F119",
+        "type": "biological"
+      },
+      {
+        "id": 385,
+        "unionId": "F119",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204057208982@",
+    "geniId": "6000000204057208982",
+    "rfn": "geni:6000000204057208982",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/386/",
+    "canonical": "https://www.genepedia.org/people/386/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

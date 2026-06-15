@@ -1,0 +1,199 @@
+{
+  "id": 1070,
+  "schema": "genepedia/person@1",
+  "slug": "jan-daniel-petrus-de-graaff",
+  "names": {
+    "display": "Jan Daniel Petrus de Graaff",
+    "given": "Jan Daniel Petrus",
+    "surname": "de Graaff",
+    "married": "de Graaff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1844",
+      "year": 1844,
+      "iso": "1844",
+      "precision": "exact",
+      "display": "1844",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 JUL 1878",
+      "year": 1878,
+      "iso": "1878-07-17",
+      "precision": "exact",
+      "display": "July 17, 1878",
+      "place": "Hartebeestpan, Boshof, Free State, South Africa",
+      "location": {
+        "label": "Hartebeestpan, Boshof, Free State, South Africa",
+        "placeName": "Hartebeestpan",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "1878",
+      "year": 1878,
+      "iso": "1878",
+      "precision": "exact",
+      "display": "1878",
+      "place": "Boshof, Free State, South Africa",
+      "location": {
+        "label": "Boshof, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer / Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/6f/b2/02/52/5344483eed1945e5/from-the-archives_original.jpg?hash=bbba20705498f02ed9aca80836d60c5a380daa40faf5af166b3c75dc151c3c84.1789455599",
+      "alt": "Jan Daniel Petrus de Graaff"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/6f/b2/02/52/5344483eed1945e5/from-the-archives_original.jpg?hash=bbba20705498f02ed9aca80836d60c5a380daa40faf5af166b3c75dc151c3c84.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/a9/20/3a/0a/5344484076f3abd3/3_1_3q9m-cs3f-4ztz_original.jpg?hash=7b53db0c8fe1365b7ab279c151abb73d017bbf31cc7035f570830eb2a15f116f.1789455599",
+        "form": "",
+        "title": "Jan Petrus de Graaf 1844-1878",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1066,
+      1065
+    ],
+    "spouses": [
+      2645
+    ],
+    "exSpouses": [],
+    "children": [
+      2646
+    ],
+    "siblings": [
+      430,
+      1067,
+      1068,
+      1069,
+      1071,
+      1072,
+      1073,
+      1074
+    ],
+    "parentUnions": [
+      "F286"
+    ],
+    "spouseUnions": [
+      "F648"
+    ],
+    "parentLinks": [
+      {
+        "id": 1066,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1065,
+        "unionId": "F286",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2645,
+        "unionId": "F648",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2646,
+        "unionId": "F648",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000045274092069@",
+    "geniId": "6000000045274092069",
+    "rfn": "geni:6000000045274092069",
+    "changed": "19 SEP 2022"
+  },
+  "page": {
+    "route": "people/1070/",
+    "canonical": "https://www.genepedia.org/people/1070/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

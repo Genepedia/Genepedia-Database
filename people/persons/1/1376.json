@@ -1,0 +1,128 @@
+{
+  "id": 1376,
+  "schema": "genepedia/person@1",
+  "slug": "tanya-coetzee",
+  "names": {
+    "display": "Tanya Coetzee",
+    "given": "Tanya",
+    "surname": "Bekker",
+    "married": "Coetzee",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b1/a2/6e/31/5344486602b8115d/screenshot_2024-06-15_191105_original.jpg?hash=3f5ca377008ed3efedc14e3ddebca1c7ad28aa11d811050758fd52531cb5493b.1789455599",
+      "alt": "Tanya Coetzee"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b1/a2/6e/31/5344486602b8115d/screenshot_2024-06-15_191105_original.jpg?hash=3f5ca377008ed3efedc14e3ddebca1c7ad28aa11d811050758fd52531cb5493b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1374,
+      560
+    ],
+    "spouses": [
+      3454,
+      3457
+    ],
+    "exSpouses": [],
+    "children": [
+      3455,
+      3456
+    ],
+    "siblings": [
+      1375
+    ],
+    "parentUnions": [
+      "F354"
+    ],
+    "spouseUnions": [
+      "F850",
+      "F851"
+    ],
+    "parentLinks": [
+      {
+        "id": 1374,
+        "unionId": "F354",
+        "type": "biological"
+      },
+      {
+        "id": 560,
+        "unionId": "F354",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3454,
+        "unionId": "F850",
+        "role": "partner"
+      },
+      {
+        "id": 3457,
+        "unionId": "F851",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3455,
+        "unionId": "F850",
+        "type": "biological"
+      },
+      {
+        "id": 3456,
+        "unionId": "F850",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206532326831@",
+    "geniId": "6000000206532326831",
+    "rfn": "geni:6000000206532326831",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1376/",
+    "canonical": "https://www.genepedia.org/people/1376/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

@@ -1,0 +1,132 @@
+{
+  "id": 3291,
+  "schema": "genepedia/person@1",
+  "slug": "helena-catharina-johanna-willemina",
+  "names": {
+    "display": "Helena Catharina Johanna Willemina",
+    "given": "Helena Catharina Johanna Willemina",
+    "surname": "van Zyl",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 OCT 1903",
+      "year": 1903,
+      "iso": "1903-10-15",
+      "precision": "exact",
+      "display": "October 15, 1903",
+      "place": "Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "10 JAN 1904",
+      "year": 1904,
+      "iso": "1904-01-10",
+      "precision": "exact",
+      "display": "January 10, 1904",
+      "place": "Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3288,
+      1304
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3289,
+      3290
+    ],
+    "parentUnions": [
+      "F807"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3288,
+        "unionId": "F807",
+        "type": "biological"
+      },
+      {
+        "id": 1304,
+        "unionId": "F807",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000110633397840@",
+    "geniId": "6000000110633397840",
+    "rfn": "geni:6000000110633397840",
+    "changed": "15 AUG 2021"
+  },
+  "page": {
+    "route": "people/3291/",
+    "canonical": "https://www.genepedia.org/people/3291/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

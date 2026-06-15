@@ -1,0 +1,116 @@
+{
+  "id": 1676,
+  "schema": "genepedia/person@1",
+  "slug": "marie-theresa-letord",
+  "names": {
+    "display": "Marie Theresa Letord",
+    "given": "Marie Theresa",
+    "surname": "Letord",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 MAR 1918",
+      "year": 1918,
+      "iso": "1918-03-20",
+      "precision": "exact",
+      "display": "March 20, 1918",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      676
+    ],
+    "exSpouses": [],
+    "children": [
+      1677,
+      1678,
+      1679,
+      1680,
+      1681
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F436"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 676,
+        "unionId": "F436",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1677,
+        "unionId": "F436",
+        "type": "biological"
+      },
+      {
+        "id": 1678,
+        "unionId": "F436",
+        "type": "biological"
+      },
+      {
+        "id": 1679,
+        "unionId": "F436",
+        "type": "biological"
+      },
+      {
+        "id": 1680,
+        "unionId": "F436",
+        "type": "biological"
+      },
+      {
+        "id": 1681,
+        "unionId": "F436",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000198139688030@",
+    "geniId": "6000000198139688030",
+    "rfn": "geni:6000000198139688030",
+    "changed": "12 MAR 2024"
+  },
+  "page": {
+    "route": "people/1676/",
+    "canonical": "https://www.genepedia.org/people/1676/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

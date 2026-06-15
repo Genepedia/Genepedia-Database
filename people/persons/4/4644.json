@@ -1,0 +1,116 @@
+{
+  "id": 4644,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-jacobus-theron-4644",
+  "names": {
+    "display": "Gabriel Jacobus Theron",
+    "given": "Gabriel Jacobus",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 AUG 1871",
+      "year": 1871,
+      "iso": "1871-08-23",
+      "precision": "exact",
+      "display": "August 23, 1871",
+      "place": null
+    },
+    "death": {
+      "date": "8 NOV 1918",
+      "year": 1918,
+      "iso": "1918-11-08",
+      "precision": "exact",
+      "display": "November 8, 1918",
+      "place": "Edenville, FS, South Africa",
+      "location": {
+        "label": "Edenville, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Edenville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1855,
+      4642
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4643,
+      4645
+    ],
+    "parentUnions": [
+      "F1109"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1855,
+        "unionId": "F1109",
+        "type": "biological"
+      },
+      {
+        "id": 4642,
+        "unionId": "F1109",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000140116369821@",
+    "geniId": "6000000140116369821",
+    "rfn": "geni:6000000140116369821",
+    "changed": "24 JUN 2020"
+  },
+  "page": {
+    "route": "people/4644/",
+    "canonical": "https://www.genepedia.org/people/4644/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

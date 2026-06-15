@@ -1,0 +1,173 @@
+{
+  "id": 2133,
+  "schema": "genepedia/person@1",
+  "slug": "willem-jacobus-van-den-berg",
+  "names": {
+    "display": "Willem Jacobus van den Berg",
+    "given": "Willem Jacobus",
+    "surname": "van den Berg",
+    "married": "van den Berg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 JAN 1812",
+      "year": 1812,
+      "iso": "1812-01-11",
+      "precision": "exact",
+      "display": "January 11, 1812",
+      "place": null
+    },
+    "death": {
+      "date": "13 AUG 1880",
+      "year": 1880,
+      "iso": "1880-08-13",
+      "precision": "exact",
+      "display": "August 13, 1880",
+      "place": "Aberdeen",
+      "location": {
+        "label": "Aberdeen",
+        "placeName": "",
+        "addressLine1": "Uitkyk",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "30 MAR 1812",
+      "year": 1812,
+      "iso": "1812-03-30",
+      "precision": "exact",
+      "display": "March 30, 1812",
+      "place": "Graaff-Reinet",
+      "location": {
+        "label": "Graaff-Reinet",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer / Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/79/e4/d5/e2/534448617d1fd073/record-image__original.jpg?hash=0e95ee6286284507b180e0ae03122e2ffc65664f0a195c1460726655c79d5ef9.1789455599",
+      "alt": "Willem Jacobus van den Berg"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/79/e4/d5/e2/534448617d1fd073/record-image__original.jpg?hash=0e95ee6286284507b180e0ae03122e2ffc65664f0a195c1460726655c79d5ef9.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/8e/2c/9e/9a/534448617d24fca6/record-image__original.jpg?hash=8f36a611936a73d3536840d43f82e9fa383114f7eb253a525f42b03638831fea.1789455599",
+        "form": "",
+        "title": "record-image_name van kinders .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/c4/5b/5a/26/53444863b511141d/record-image__original.jpg?hash=0ae9331a2101e7f9920bb5ca946eb38851ed4254b9c7ce5009baf258b3c28fcf.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2126,
+      2127
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2128,
+      2129,
+      2130,
+      2131,
+      2132,
+      2134,
+      2135,
+      886
+    ],
+    "parentUnions": [
+      "F553"
+    ],
+    "spouseUnions": [
+      "F1313"
+    ],
+    "parentLinks": [
+      {
+        "id": 2126,
+        "unionId": "F553",
+        "type": "biological"
+      },
+      {
+        "id": 2127,
+        "unionId": "F553",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000012670065032@",
+    "geniId": "6000000012670065032",
+    "rfn": "geni:6000000012670065032",
+    "changed": "14 JUN 2025"
+  },
+  "page": {
+    "route": "people/2133/",
+    "canonical": "https://www.genepedia.org/people/2133/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

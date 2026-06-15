@@ -1,0 +1,129 @@
+{
+  "id": 4598,
+  "schema": "genepedia/person@1",
+  "slug": "gerbreght-francina-bester",
+  "names": {
+    "display": "Gerbreght Francina Bester",
+    "given": "Gerbreght Francina",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1868",
+      "year": 1868,
+      "iso": "1868",
+      "precision": "about",
+      "display": "about 1868",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "6 DEC 1868",
+      "year": 1868,
+      "iso": "1868-12-06",
+      "precision": "exact",
+      "display": "December 6, 1868",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1845,
+      4597
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1102"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1845,
+        "unionId": "F1102",
+        "type": "biological"
+      },
+      {
+        "id": 4597,
+        "unionId": "F1102",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065998596833@",
+    "geniId": "6000000065998596833",
+    "rfn": "geni:6000000065998596833",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4598/",
+    "canonical": "https://www.genepedia.org/people/4598/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

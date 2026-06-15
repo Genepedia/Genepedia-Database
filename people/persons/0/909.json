@@ -1,0 +1,97 @@
+{
+  "id": 909,
+  "schema": "genepedia/person@1",
+  "slug": "kenneth-roselt",
+  "names": {
+    "display": "Kenneth Roselt",
+    "given": "Kenneth",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      371,
+      905
+    ],
+    "spouses": [
+      2242
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      906,
+      907,
+      908
+    ],
+    "parentUnions": [
+      "F253"
+    ],
+    "spouseUnions": [
+      "F570"
+    ],
+    "parentLinks": [
+      {
+        "id": 371,
+        "unionId": "F253",
+        "type": "biological"
+      },
+      {
+        "id": 905,
+        "unionId": "F253",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2242,
+        "unionId": "F570",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000054624068050@",
+    "geniId": "6000000054624068050",
+    "rfn": "geni:6000000054624068050",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/909/",
+    "canonical": "https://www.genepedia.org/people/909/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

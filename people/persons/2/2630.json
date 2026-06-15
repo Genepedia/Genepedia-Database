@@ -1,0 +1,93 @@
+{
+  "id": 2630,
+  "schema": "genepedia/person@1",
+  "slug": "jan-adam-petrus-peyper",
+  "names": {
+    "display": "Jan Adam Petrus Peyper",
+    "given": "Jan Adam Petrus",
+    "surname": "Peyper",
+    "married": "Peyper",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2629,
+      1068
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2631,
+      2632,
+      2633,
+      2634,
+      2635,
+      2636,
+      2637,
+      2638,
+      2639
+    ],
+    "parentUnions": [
+      "F645"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2629,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 1068,
+        "unionId": "F645",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000220242728821@",
+    "geniId": "6000000220242728821",
+    "rfn": "geni:6000000220242728821",
+    "changed": "26 JUL 2025"
+  },
+  "page": {
+    "route": "people/2630/",
+    "canonical": "https://www.genepedia.org/people/2630/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

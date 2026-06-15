@@ -1,0 +1,91 @@
+{
+  "id": 1470,
+  "schema": "genepedia/person@1",
+  "slug": "joep-joubert",
+  "names": {
+    "display": "Joep Joubert",
+    "given": "Joep",
+    "surname": "Joubert",
+    "married": "Joubert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      591
+    ],
+    "exSpouses": [],
+    "children": [
+      1471,
+      1472
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F374"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 591,
+        "unionId": "F374",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1471,
+        "unionId": "F374",
+        "type": "biological"
+      },
+      {
+        "id": 1472,
+        "unionId": "F374",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206608073860@",
+    "geniId": "6000000206608073860",
+    "rfn": "geni:6000000206608073860",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1470/",
+    "canonical": "https://www.genepedia.org/people/1470/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

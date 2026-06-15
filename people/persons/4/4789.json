@@ -1,0 +1,77 @@
+{
+  "id": 4789,
+  "schema": "genepedia/person@1",
+  "slug": "unknown-stamp",
+  "names": {
+    "display": "(Unknown) Stamp",
+    "given": "(Unknown)",
+    "surname": "Stamp",
+    "married": "Stamp",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1891
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1140"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1891,
+        "unionId": "F1140",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065527722847@",
+    "geniId": "6000000065527722847",
+    "rfn": "geni:6000000065527722847",
+    "changed": "23 AUG 2017"
+  },
+  "page": {
+    "route": "people/4789/",
+    "canonical": "https://www.genepedia.org/people/4789/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

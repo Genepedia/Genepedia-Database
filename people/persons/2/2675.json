@@ -1,0 +1,210 @@
+{
+  "id": 2675,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-johannes-pretorius",
+  "names": {
+    "display": "Dirk Johannes Pretorius",
+    "given": "Dirk Johannes",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 SEP 1867",
+      "year": 1867,
+      "iso": "1867-09-27",
+      "precision": "exact",
+      "display": "September 27, 1867",
+      "place": "Marico",
+      "location": {
+        "label": "Marico",
+        "placeName": "Marico",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "5 JAN 1917",
+      "year": 1917,
+      "iso": "1917-01-05",
+      "precision": "exact",
+      "display": "January 5, 1917",
+      "place": "Riekertsdam, Marico, North West, South Africa",
+      "location": {
+        "label": "Riekertsdam, Marico, North West, South Africa",
+        "placeName": "Riekertsdam",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Marico",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "3 MAY 1868",
+      "year": 1868,
+      "iso": "1868-05-03",
+      "precision": "exact",
+      "display": "May 3, 1868",
+      "place": "Hervormde kerk, Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Hervormde kerk, Potchefstroom, North West, South Africa",
+        "placeName": "Hervormde kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "boer, Riekertsdam, Marico",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d3/2d/b0/d6/5344483f25c44e11/piq49raw_original.jpg?hash=e9af068e8caa09db3d5103f82bcf1699ae11b6a1bc33abcb24041d98a27752fd.1789455599",
+      "alt": "Dirk Johannes Pretorius"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d3/2d/b0/d6/5344483f25c44e11/piq49raw_original.jpg?hash=e9af068e8caa09db3d5103f82bcf1699ae11b6a1bc33abcb24041d98a27752fd.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1076
+    ],
+    "exSpouses": [],
+    "children": [
+      2676,
+      2677,
+      2678,
+      2679,
+      2680,
+      2681,
+      2682,
+      2683
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1652"
+    ],
+    "spouseUnions": [
+      "F655"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1076,
+        "unionId": "F655",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2676,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2677,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2678,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2679,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2680,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2681,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2682,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2683,
+        "unionId": "F655",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000057261515049@",
+    "geniId": "6000000057261515049",
+    "rfn": "geni:6000000057261515049",
+    "changed": "06 AUG 2025"
+  },
+  "page": {
+    "route": "people/2675/",
+    "canonical": "https://www.genepedia.org/people/2675/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

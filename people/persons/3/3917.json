@@ -1,0 +1,157 @@
+{
+  "id": 3917,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobus-jacobs-3917",
+  "names": {
+    "display": "Johannes Jacobus Jacobs",
+    "given": "Johannes Jacobus",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": [
+      "Jacobs"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "JUL 1792",
+      "year": 1792,
+      "iso": "1792-07",
+      "precision": "exact",
+      "display": "July 1792",
+      "place": "Kogmanskloof, South Africa",
+      "location": {
+        "label": "Kogmanskloof, South Africa",
+        "placeName": "Kogmanskloof",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 AUG 1860",
+      "year": 1860,
+      "iso": "1860-08-09",
+      "precision": "exact",
+      "display": "August 9, 1860",
+      "place": "Boshof, Orange Free State, South Africa",
+      "location": {
+        "label": "Boshof, Orange Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/17/f4/c9/27/5344486a20c5031f/fourie_catharina_maria_1805_x_jacobs_probate_original.pdf?hash=62dd55fcf8eee63d424067be6e6215ed287efbe57113ca493445dab2a0046ae0.1789455599",
+      "alt": "Johannes Jacobus Jacobs"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/17/f4/c9/27/5344486a20c5031f/fourie_catharina_maria_1805_x_jacobs_probate_original.pdf?hash=62dd55fcf8eee63d424067be6e6215ed287efbe57113ca493445dab2a0046ae0.1789455599",
+        "form": "",
+        "title": "Fourie Catharina Maria 1805 x Jacobs PROBATE.pdf",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3918
+    ],
+    "exSpouses": [],
+    "children": [
+      3919,
+      3920,
+      1532
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F924"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3918,
+        "unionId": "F924",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3919,
+        "unionId": "F924",
+        "type": "biological"
+      },
+      {
+        "id": 3920,
+        "unionId": "F924",
+        "type": "biological"
+      },
+      {
+        "id": 1532,
+        "unionId": "F924",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024853760439@",
+    "geniId": "6000000024853760439",
+    "rfn": "geni:6000000024853760439",
+    "changed": "06 MAR 2026"
+  },
+  "page": {
+    "route": "people/3917/",
+    "canonical": "https://www.genepedia.org/people/3917/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

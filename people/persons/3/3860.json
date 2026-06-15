@@ -1,0 +1,163 @@
+{
+  "id": 3860,
+  "schema": "genepedia/person@1",
+  "slug": "helena-albertha-germishuysen",
+  "names": {
+    "display": "Helena Albertha Germishuysen",
+    "given": "Helena Albertha",
+    "surname": "Germishuysen",
+    "married": "Otto / Germishuysen",
+    "nick": "Magdalena Alberta",
+    "aliases": [
+      "Helena Alberta Germishuizen"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 9 DEC 1792",
+      "year": 1792,
+      "iso": "1792-12-09",
+      "precision": "before",
+      "display": "before December 9, 1792",
+      "place": "Cape of Good Hope, South Africa",
+      "location": {
+        "label": "Cape of Good Hope, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape of Good Hope",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "9 DEC 1792",
+      "year": 1792,
+      "iso": "1792-12-09",
+      "precision": "exact",
+      "display": "December 9, 1792",
+      "place": "Cape Town, Cape of Good Hope, South Africa",
+      "location": {
+        "label": "Cape Town, Cape of Good Hope, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape of Good Hope",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3859
+    ],
+    "exSpouses": [],
+    "children": [
+      1522,
+      3861,
+      3862,
+      3863,
+      3864,
+      3865
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F917"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3859,
+        "unionId": "F917",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1522,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3861,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3862,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3863,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3864,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3865,
+        "unionId": "F917",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000021259899714@",
+    "geniId": "6000000021259899714",
+    "rfn": "geni:6000000021259899714",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3860/",
+    "canonical": "https://www.genepedia.org/people/3860/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

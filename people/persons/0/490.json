@@ -1,0 +1,204 @@
+{
+  "id": 490,
+  "schema": "genepedia/person@1",
+  "slug": "philippus-christoffel-steenkamp",
+  "names": {
+    "display": "Philippus Christoffel Steenkamp",
+    "given": "Philippus Christoffel",
+    "surname": "Steenkamp",
+    "married": "Steenkamp",
+    "nick": "Flip",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 DEC 1928",
+      "year": 1928,
+      "iso": "1928-12-07",
+      "precision": "exact",
+      "display": "December 7, 1928",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "14 APR 1990",
+      "year": 1990,
+      "iso": "1990-04-14",
+      "precision": "exact",
+      "display": "April 14, 1990",
+      "place": null
+    },
+    "baptism": {
+      "date": "27 JAN 1929",
+      "year": 1929,
+      "iso": "1929-01-27",
+      "precision": "exact",
+      "display": "January 27, 1929",
+      "place": "Niekerkshoop, Suid-Afrika",
+      "location": {
+        "label": "Niekerkshoop, Suid-Afrika",
+        "placeName": "Niekerkshoop, Suid-Afrika",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/6f/27/f3/62/534448683ffcf2f3/image_original.jpg?hash=b6995a904686d6d39c1de298d3705c9a9dbc1eb2c5201e1e43a46aea4161018f.1789455599",
+      "alt": "Philippus Christoffel Steenkamp"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/6f/27/f3/62/534448683ffcf2f3/image_original.jpg?hash=b6995a904686d6d39c1de298d3705c9a9dbc1eb2c5201e1e43a46aea4161018f.1789455599",
+        "form": "",
+        "title": "image - trou 1949 .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Steenkamp Familie Webtuiste",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Steenkamp Web Site",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      487,
+      174
+    ],
+    "spouses": [
+      1210
+    ],
+    "exSpouses": [],
+    "children": [
+      1211,
+      1212,
+      1213,
+      1214
+    ],
+    "siblings": [
+      488,
+      489,
+      491,
+      492,
+      493
+    ],
+    "parentUnions": [
+      "F142"
+    ],
+    "spouseUnions": [
+      "F313"
+    ],
+    "parentLinks": [
+      {
+        "id": 487,
+        "unionId": "F142",
+        "type": "biological"
+      },
+      {
+        "id": 174,
+        "unionId": "F142",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1210,
+        "unionId": "F313",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1211,
+        "unionId": "F313",
+        "type": "biological"
+      },
+      {
+        "id": 1212,
+        "unionId": "F313",
+        "type": "biological"
+      },
+      {
+        "id": 1213,
+        "unionId": "F313",
+        "type": "biological"
+      },
+      {
+        "id": 1214,
+        "unionId": "F313",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204083205842@",
+    "geniId": "6000000204083205842",
+    "rfn": "geni:6000000204083205842",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/490/",
+    "canonical": "https://www.genepedia.org/people/490/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

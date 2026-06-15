@@ -1,0 +1,103 @@
+{
+  "id": 992,
+  "schema": "genepedia/person@1",
+  "slug": "brenda-seaman",
+  "names": {
+    "display": "Brenda Seaman",
+    "given": "Brenda",
+    "surname": "Seaman",
+    "married": "Van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ac/e0/ef/5b/5344486623236a0d/223029_264646200227779_5948311_n_original.jpg?hash=45a4051ad39c7cc050e6fddb38e8ebc2ac28119ddaa58d5cf23cf2a915887483.1789455599",
+      "alt": "Brenda Seaman"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ac/e0/ef/5b/5344486623236a0d/223029_264646200227779_5948311_n_original.jpg?hash=45a4051ad39c7cc050e6fddb38e8ebc2ac28119ddaa58d5cf23cf2a915887483.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      991
+    ],
+    "exSpouses": [],
+    "children": [
+      406,
+      993
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F272"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 991,
+        "unionId": "F272",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 406,
+        "unionId": "F272",
+        "type": "biological"
+      },
+      {
+        "id": 993,
+        "unionId": "F272",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207077602827@",
+    "geniId": "6000000207077602827",
+    "rfn": "geni:6000000207077602827",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/992/",
+    "canonical": "https://www.genepedia.org/people/992/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

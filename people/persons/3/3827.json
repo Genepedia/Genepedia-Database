@@ -1,0 +1,102 @@
+{
+  "id": 3827,
+  "schema": "genepedia/person@1",
+  "slug": "debora-cornelia-octavia-herbert",
+  "names": {
+    "display": "Debora Cornelia Octavia Herbert",
+    "given": "Debora Cornelia Octavia",
+    "surname": "Herbert",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1875",
+      "year": 1875,
+      "iso": "1875",
+      "precision": "exact",
+      "display": "1875",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3821,
+      3820
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3822,
+      1444,
+      3823,
+      3824,
+      3825,
+      3826,
+      3828,
+      3829,
+      3830,
+      3831,
+      3832
+    ],
+    "parentUnions": [
+      "F908"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3821,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3820,
+        "unionId": "F908",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208992733864@",
+    "geniId": "6000000208992733864",
+    "rfn": "geni:6000000208992733864",
+    "changed": "13 SEP 2024"
+  },
+  "page": {
+    "route": "people/3827/",
+    "canonical": "https://www.genepedia.org/people/3827/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

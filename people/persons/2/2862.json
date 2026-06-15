@@ -1,0 +1,141 @@
+{
+  "id": 2862,
+  "schema": "genepedia/person@1",
+  "slug": "henry-francis-davis",
+  "names": {
+    "display": "Henry Francis Davis",
+    "given": "Henry Francis",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 NOV 1876",
+      "year": 1876,
+      "iso": "1876-11-22",
+      "precision": "exact",
+      "display": "November 22, 1876",
+      "place": null
+    },
+    "death": {
+      "date": "23 MAR 1950",
+      "year": 1950,
+      "iso": "1950-03-23",
+      "precision": "exact",
+      "display": "March 23, 1950",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1152,
+      2861
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2863,
+      2864,
+      2865
+    ],
+    "parentUnions": [
+      "F706"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1152,
+        "unionId": "F706",
+        "type": "biological"
+      },
+      {
+        "id": 2861,
+        "unionId": "F706",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052893799878@",
+    "geniId": "6000000052893799878",
+    "rfn": "geni:6000000052893799878",
+    "changed": "09 APR 2017"
+  },
+  "page": {
+    "route": "people/2862/",
+    "canonical": "https://www.genepedia.org/people/2862/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

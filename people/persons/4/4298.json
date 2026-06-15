@@ -1,0 +1,115 @@
+{
+  "id": 4298,
+  "schema": "genepedia/person@1",
+  "slug": "magel-margeritha-steyn",
+  "names": {
+    "display": "Magel Margeritha Steyn",
+    "given": "Magel Margeritha",
+    "surname": "Steyn",
+    "married": "Diedericks",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1885",
+      "year": 1885,
+      "iso": "1885",
+      "precision": "about",
+      "display": "about 1885",
+      "place": null
+    },
+    "death": {
+      "date": "11 DEC 1939",
+      "year": 1939,
+      "iso": "1939-12-11",
+      "precision": "exact",
+      "display": "December 11, 1939",
+      "place": "Strubenvale, Springs, Transvaal, South Africa",
+      "location": {
+        "label": "Strubenvale, Springs, Transvaal, South Africa",
+        "placeName": "Strubenvale, Springs, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4299
+    ],
+    "exSpouses": [],
+    "children": [
+      1622
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1010"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4299,
+        "unionId": "F1010",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1622,
+        "unionId": "F1010",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000150866168821@",
+    "geniId": "6000000150866168821",
+    "rfn": "geni:6000000150866168821",
+    "changed": "14 JUL 2024"
+  },
+  "page": {
+    "route": "people/4298/",
+    "canonical": "https://www.genepedia.org/people/4298/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

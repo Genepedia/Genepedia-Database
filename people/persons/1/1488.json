@@ -1,0 +1,93 @@
+{
+  "id": 1488,
+  "schema": "genepedia/person@1",
+  "slug": "jaqaline",
+  "names": {
+    "display": "Jaqaline",
+    "given": "Jaqaline",
+    "surname": "Nel",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 APR 1992",
+      "year": 1992,
+      "iso": "1992-04-18",
+      "precision": "exact",
+      "display": "April 18, 1992",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1485,
+      596
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1486,
+      1487
+    ],
+    "parentUnions": [
+      "F380"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1485,
+        "unionId": "F380",
+        "type": "biological"
+      },
+      {
+        "id": 596,
+        "unionId": "F380",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206611710875@",
+    "geniId": "6000000206611710875",
+    "rfn": "geni:6000000206611710875",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1488/",
+    "canonical": "https://www.genepedia.org/people/1488/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

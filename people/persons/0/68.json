@@ -1,0 +1,161 @@
+{
+  "id": 68,
+  "schema": "genepedia/person@1",
+  "slug": "gerhardus-de-beer",
+  "names": {
+    "display": "Gerhardus de Beer",
+    "given": "Gerhardus",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "2 DEC 1969",
+      "year": 1969,
+      "iso": "1969-12-02",
+      "precision": "exact",
+      "display": "December 2, 1969",
+      "place": "Klawer, Western Cape, South Africa",
+      "location": {
+        "label": "Klawer, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klawer",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "1 MAR 1970",
+      "year": 1970,
+      "iso": "1970-03-01",
+      "precision": "exact",
+      "display": "March 1, 1970",
+      "place": "Klawer, Western Cape, South Africa",
+      "location": {
+        "label": "Klawer, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klawer",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/37/12/d6/58/53444851a310cebf/screenshot_2020-01-14-17-48-17-1-1_original.jpg?hash=383a5caa5693daa6d9a8b2c6da677f85877e7068947a090c4a6215f420614774.1789455599",
+      "alt": "Gerhardus de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/37/12/d6/58/53444851a310cebf/screenshot_2020-01-14-17-48-17-1-1_original.jpg?hash=383a5caa5693daa6d9a8b2c6da677f85877e7068947a090c4a6215f420614774.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/f1/14/43/b3/53444851a3072a0e/screenshot_2020-01-14-17-48-17-1-2_original.jpg?hash=05876a124f485c58c268e36db5640424f9d1d3816b68c08279ecde1b0facf398.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      66,
+      65
+    ],
+    "spouses": [
+      229
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      12,
+      67
+    ],
+    "parentUnions": [
+      "F22"
+    ],
+    "spouseUnions": [
+      "F71"
+    ],
+    "parentLinks": [
+      {
+        "id": 66,
+        "unionId": "F22",
+        "type": "biological"
+      },
+      {
+        "id": 65,
+        "unionId": "F22",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 229,
+        "unionId": "F71",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228709205@",
+    "geniId": "6000000027228709205",
+    "rfn": "geni:6000000027228709205",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/68/",
+    "canonical": "https://www.genepedia.org/people/68/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,118 @@
+{
+  "id": 1099,
+  "schema": "genepedia/person@1",
+  "slug": "elsie-susanna-cecilia-fourie",
+  "names": {
+    "display": "Elsie Susanna Cecilia Fourie",
+    "given": "Elsie Susanna Cecilia",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 MAR 1887",
+      "year": 1887,
+      "iso": "1887-03-23",
+      "precision": "exact",
+      "display": "March 23, 1887",
+      "place": null
+    },
+    "death": {
+      "date": "27 AUG 1975",
+      "year": 1975,
+      "iso": "1975-08-27",
+      "precision": "exact",
+      "display": "August 27, 1975",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      435,
+      1095
+    ],
+    "spouses": [
+      1092
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1096,
+      1097,
+      1098,
+      1100,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
+    ],
+    "parentUnions": [
+      "F291"
+    ],
+    "spouseUnions": [
+      "F668"
+    ],
+    "parentLinks": [
+      {
+        "id": 435,
+        "unionId": "F291",
+        "type": "biological"
+      },
+      {
+        "id": 1095,
+        "unionId": "F291",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1092,
+        "unionId": "F668",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026998419733@",
+    "geniId": "6000000026998419733",
+    "rfn": "geni:6000000026998419733",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1099/",
+    "canonical": "https://www.genepedia.org/people/1099/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

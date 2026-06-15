@@ -1,0 +1,190 @@
+{
+  "id": 3482,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elisabeth-magdalena-smith",
+  "names": {
+    "display": "Maria Elisabeth Magdalena Smith",
+    "given": "Maria Elisabeth Magdalena",
+    "surname": "Smith",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 AUG 1812",
+      "year": 1812,
+      "iso": "1812-08-11",
+      "precision": "exact",
+      "display": "August 11, 1812",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 MAR 1897",
+      "year": 1897,
+      "iso": "1897-03-11",
+      "precision": "exact",
+      "display": "March 11, 1897",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "27 DEC 1812",
+      "year": 1812,
+      "iso": "1812-12-27",
+      "precision": "exact",
+      "display": "December 27, 1812",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Adendorp, Main cemetery district, Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Adendorp, Main cemetery district, Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "Adendorp, Main cemetery district",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/cb/64/57/23/5344484867ab30ed/0000a_original.jpg?hash=3939cc2f220b3c18bb167e908cc6978a9c73402b9aaf21c31f39e9e276f80e50.1789455599",
+      "alt": "Maria Elisabeth Magdalena Smith"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/cb/64/57/23/5344484867ab30ed/0000a_original.jpg?hash=3939cc2f220b3c18bb167e908cc6978a9c73402b9aaf21c31f39e9e276f80e50.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1385
+    ],
+    "exSpouses": [],
+    "children": [
+      3483
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F856"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1385,
+        "unionId": "F856",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3483,
+        "unionId": "F856",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000016029834699@",
+    "geniId": "6000000016029834699",
+    "rfn": "geni:6000000016029834699",
+    "changed": "14 JAN 2021"
+  },
+  "page": {
+    "route": "people/3482/",
+    "canonical": "https://www.genepedia.org/people/3482/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

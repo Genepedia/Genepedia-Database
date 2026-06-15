@@ -1,0 +1,115 @@
+{
+  "id": 1195,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-steenkamp",
+  "names": {
+    "display": "Petrus Johannes Steenkamp",
+    "given": "Petrus Johannes",
+    "surname": "Steenkamp",
+    "married": "Steenkamp",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 MAR 1904",
+      "year": 1904,
+      "iso": "1904-03-05",
+      "precision": "exact",
+      "display": "March 5, 1904",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Petrus Johannes Steenkamp"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Botha Web Site",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1194,
+      1091
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      487,
+      1196,
+      1197,
+      1198,
+      1199,
+      1200,
+      1201,
+      1202,
+      1203,
+      1204,
+      1205,
+      1206
+    ],
+    "parentUnions": [
+      "F311"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1194,
+        "unionId": "F311",
+        "type": "biological"
+      },
+      {
+        "id": 1091,
+        "unionId": "F311",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207511073847@",
+    "geniId": "6000000207511073847",
+    "rfn": "geni:6000000207511073847",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1195/",
+    "canonical": "https://www.genepedia.org/people/1195/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

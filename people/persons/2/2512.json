@@ -1,0 +1,115 @@
+{
+  "id": 2512,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-catharina-visser",
+  "names": {
+    "display": "Susanna Catharina Visser",
+    "given": "Susanna Catharina",
+    "surname": "Visser",
+    "married": "Booysen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 JUL 1874",
+      "year": 1874,
+      "iso": "1874-07-31",
+      "precision": "exact",
+      "display": "July 31, 1874",
+      "place": "Carnarvon, Northern Cape, South Africa",
+      "location": {
+        "label": "Carnarvon, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Carnarvon",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2508,
+      1017
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2509,
+      2510,
+      2511,
+      2513,
+      2514,
+      2515
+    ],
+    "parentUnions": [
+      "F627"
+    ],
+    "spouseUnions": [
+      "F1540"
+    ],
+    "parentLinks": [
+      {
+        "id": 2508,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 1017,
+        "unionId": "F627",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000042582355677@",
+    "geniId": "6000000042582355677",
+    "rfn": "geni:6000000042582355677",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2512/",
+    "canonical": "https://www.genepedia.org/people/2512/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

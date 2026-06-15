@@ -1,0 +1,121 @@
+{
+  "id": 2059,
+  "schema": "genepedia/person@1",
+  "slug": "anita-christina-bester",
+  "names": {
+    "display": "Anita Christina Bester",
+    "given": "Anita Christina",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "23 MAR 1950",
+      "year": 1950,
+      "iso": "1950-03-23",
+      "precision": "exact",
+      "display": "March 23, 1950",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "1 MAY 1955",
+      "year": 1955,
+      "iso": "1955-05-01",
+      "precision": "exact",
+      "display": "May 1, 1955",
+      "place": "Kadoma, Mashonaland West Province, Zimbabwe",
+      "location": {
+        "label": "Kadoma, Mashonaland West Province, Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kadoma",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mashonaland West Province",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      845,
+      2054
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2055,
+      2056,
+      2057,
+      2058,
+      2060
+    ],
+    "parentUnions": [
+      "F534"
+    ],
+    "spouseUnions": [
+      "F1270"
+    ],
+    "parentLinks": [
+      {
+        "id": 845,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2054,
+        "unionId": "F534",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066577203853@",
+    "geniId": "6000000066577203853",
+    "rfn": "geni:6000000066577203853",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/2059/",
+    "canonical": "https://www.genepedia.org/people/2059/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

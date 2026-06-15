@@ -1,0 +1,218 @@
+{
+  "id": 1153,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-stephanus-maritz",
+  "names": {
+    "display": "Gerrit Stephanus Maritz",
+    "given": "Gerrit Stephanus",
+    "surname": "Maritz",
+    "married": "Maritz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 FEB 1821",
+      "year": 1821,
+      "iso": "1821-02-17",
+      "precision": "exact",
+      "display": "February 17, 1821",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 OCT 1900",
+      "year": 1900,
+      "iso": "1900-10-15",
+      "precision": "exact",
+      "display": "October 15, 1900",
+      "place": null
+    },
+    "baptism": {
+      "date": "22 SEP 1821",
+      "year": 1821,
+      "iso": "1821-09-22",
+      "precision": "exact",
+      "display": "September 22, 1821",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/88/09/08/83/5344483f169b14db/gerrit_stephanus_maritz_1821-1900_original.jpg?hash=33892485f23cd507dca57d5eadf8f4bc6c5e8933ab23477f97f35fd55f2d0df3.1789455599",
+      "alt": "Gerrit Stephanus Maritz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/88/09/08/83/5344483f169b14db/gerrit_stephanus_maritz_1821-1900_original.jpg?hash=33892485f23cd507dca57d5eadf8f4bc6c5e8933ab23477f97f35fd55f2d0df3.1789455599",
+        "form": "",
+        "title": "Gerrit Stephanus Maritz 1821-1900.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Geneanet Community Trees Index",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2869,
+      2868
+    ],
+    "spouses": [
+      1154,
+      2867
+    ],
+    "exSpouses": [],
+    "children": [
+      1155,
+      1156,
+      1157,
+      448,
+      1093,
+      1158
+    ],
+    "siblings": [
+      2870,
+      2871,
+      2872,
+      2873,
+      2874,
+      2875,
+      2876
+    ],
+    "parentUnions": [
+      "F709"
+    ],
+    "spouseUnions": [
+      "F305",
+      "F708"
+    ],
+    "parentLinks": [
+      {
+        "id": 2869,
+        "unionId": "F709",
+        "type": "biological"
+      },
+      {
+        "id": 2868,
+        "unionId": "F709",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1154,
+        "unionId": "F305",
+        "role": "wife"
+      },
+      {
+        "id": 2867,
+        "unionId": "F708",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1155,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1156,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1157,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 448,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1093,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1158,
+        "unionId": "F305",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000021494596575@",
+    "geniId": "6000000021494596575",
+    "rfn": "geni:6000000021494596575",
+    "changed": "06 DEC 2025"
+  },
+  "page": {
+    "route": "people/1153/",
+    "canonical": "https://www.genepedia.org/people/1153/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

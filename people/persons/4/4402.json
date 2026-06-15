@@ -1,0 +1,176 @@
+{
+  "id": 4402,
+  "schema": "genepedia/person@1",
+  "slug": "samuel-carr",
+  "names": {
+    "display": "Samuel Carr",
+    "given": "Samuel",
+    "surname": "Carr",
+    "married": "Carr",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BET JUL 1871 AND SEP 1871",
+      "year": 1871,
+      "iso": "1871-09",
+      "precision": "exact",
+      "display": "September 1871",
+      "place": "England, United Kingdom",
+      "location": {
+        "label": "England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "5 MAY 1944",
+      "year": 1944,
+      "iso": "1944-05-05",
+      "precision": "exact",
+      "display": "May 5, 1944",
+      "place": "Addington Hospital, Durban, Natal, South Africa",
+      "location": {
+        "label": "Addington Hospital, Durban, Natal, South Africa",
+        "placeName": "Addington Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Durban",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/c7/38/a4/12/5344483f7e8a6026/record-image_33sq-gt7t-3fky_original.jpg?hash=17d079bbce2eb8662093249e5f3f65e4c4e8debb4cd27de56c57e432876997fa.1789455599",
+      "alt": "Samuel Carr"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/c7/38/a4/12/5344483f7e8a6026/record-image_33sq-gt7t-3fky_original.jpg?hash=17d079bbce2eb8662093249e5f3f65e4c4e8debb4cd27de56c57e432876997fa.1789455599",
+        "form": "",
+        "title": "CARR, A.M.D. Baptism",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/e5/da/63/b5/5344483f7df6519a/record-image_33s7-9t7t-3jfk_original.jpg?hash=683b922d05f6682ceffb6521d7a6f84b8309c7667f9e00743b4c4c9680d300ab.1789455599",
+        "form": "",
+        "title": "CARR, T. Baptism",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/fe/86/29/5e/534448408f061625/dsc01378_original.jpg?hash=982eaaa242c1feb49c6ea72d3928f16e5b981d8d2e39f491c81eb674abe9db6b.1789455599",
+        "form": "",
+        "title": "CARR(born CORRIE), M.S. Death Notice",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/59/72/ef/f9/5344484c60a61932/record-image_undefined_21__original.jpg?hash=8970446fabf2ea9c6d58ec00fc8b2cbef6b574a1b20a4c23c16769aca53d7c0a.1789455599",
+        "form": "",
+        "title": "CARR, S. & CORRIE, M.S. Marriage 1910",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1720
+    ],
+    "exSpouses": [],
+    "children": [
+      4403,
+      4404,
+      4405
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1040"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1720,
+        "unionId": "F1040",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4403,
+        "unionId": "F1040",
+        "type": "biological"
+      },
+      {
+        "id": 4404,
+        "unionId": "F1040",
+        "type": "biological"
+      },
+      {
+        "id": 4405,
+        "unionId": "F1040",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000041008344205@",
+    "geniId": "6000000041008344205",
+    "rfn": "geni:6000000041008344205",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/4402/",
+    "canonical": "https://www.genepedia.org/people/4402/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

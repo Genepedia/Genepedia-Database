@@ -1,0 +1,187 @@
+{
+  "id": 4038,
+  "schema": "genepedia/person@1",
+  "slug": "cornelius-gregorius-van-niekerk",
+  "names": {
+    "display": "Cornelius Gregorius van Niekerk",
+    "given": "Cornelius Gregorius",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 OCT 1875",
+      "year": 1875,
+      "iso": "1875-10-15",
+      "precision": "exact",
+      "display": "October 15, 1875",
+      "place": "Bloemhof, North West, South Africa",
+      "location": {
+        "label": "Bloemhof, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "31 AUG 1936",
+      "year": 1936,
+      "iso": "1936-08-31",
+      "precision": "exact",
+      "display": "August 31, 1936",
+      "place": "Hospitaal, Wolmaransstad, North West, South Africa",
+      "location": {
+        "label": "Hospitaal, Wolmaransstad, North West, South Africa",
+        "placeName": "Hospitaal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Farm: Syfergat, Wolmaransstad, North West, South Africa",
+      "location": {
+        "label": "Farm: Syfergat, Wolmaransstad, North West, South Africa",
+        "placeName": "Farm: Syfergat",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e7/9b/77/5f/5344483b1381b154/cornelius_gregorius_van_nikerk_1875-1936_original.jpg?hash=9e036ed094074e16e5bb1621a4c468e3e8b9d50eae8403c8b8e593928ee7ba8b.1789455599",
+      "alt": "Cornelius Gregorius van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e7/9b/77/5f/5344483b1381b154/cornelius_gregorius_van_nikerk_1875-1936_original.jpg?hash=9e036ed094074e16e5bb1621a4c468e3e8b9d50eae8403c8b8e593928ee7ba8b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/bf/b3/71/ee/5344483b1382e0e3/cornelius_gregorius_van_nikerk_1875-1936_original.jpg?hash=19761ac4e9eda5d4391b01430199f8ea6a6cfd965cd350417a5690467959d746.1789455599",
+        "form": "",
+        "title": "Cornelius Gregorius van Nikerk 1875-1936.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/1b/a0/24/7a/5344483b987499eb/cornelius_gregorius_v_niekerk_1875-1936_original.jpg?hash=dc739f6e8ff0d4854ca151d258b92b4f650b7ea98942ad77bdf9c37d8961422d.1789455599",
+        "form": "",
+        "title": "Cornelius Gregorius v Niekerk 1875-1936.JPG",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1543,
+      4031
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4032,
+      4033,
+      4034,
+      4035,
+      4036,
+      4037,
+      4039
+    ],
+    "parentUnions": [
+      "F940"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1543,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4031,
+        "unionId": "F940",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021854610065@",
+    "geniId": "6000000021854610065",
+    "rfn": "geni:6000000021854610065",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/4038/",
+    "canonical": "https://www.genepedia.org/people/4038/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

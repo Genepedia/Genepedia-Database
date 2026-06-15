@@ -1,0 +1,115 @@
+{
+  "id": 4600,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-struwig",
+  "names": {
+    "display": "Daniel Johannes Struwig",
+    "given": "Daniel Johannes",
+    "surname": "Struwig",
+    "married": "Struwig",
+    "nick": "Daniel Johan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 OCT 1841",
+      "year": 1841,
+      "iso": "1841-10-01",
+      "precision": "exact",
+      "display": "October 1, 1841",
+      "place": null
+    },
+    "death": {
+      "date": "21 APR 1919",
+      "year": 1919,
+      "iso": "1919-04-21",
+      "precision": "exact",
+      "display": "April 21, 1919",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4599,
+      1846
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4601
+    ],
+    "parentUnions": [
+      "F1103"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4599,
+        "unionId": "F1103",
+        "type": "biological"
+      },
+      {
+        "id": 1846,
+        "unionId": "F1103",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000105239625091@",
+    "geniId": "6000000105239625091",
+    "rfn": "geni:6000000105239625091",
+    "changed": "15 NOV 2024"
+  },
+  "page": {
+    "route": "people/4600/",
+    "canonical": "https://www.genepedia.org/people/4600/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

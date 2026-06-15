@@ -1,0 +1,89 @@
+{
+  "id": 413,
+  "schema": "genepedia/person@1",
+  "slug": "gideon-johannes-beukus-413",
+  "names": {
+    "display": "Gideon Johannes Beukus",
+    "given": "Gideon Johannes",
+    "surname": "Beukus",
+    "married": "Beukus",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      410,
+      409
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      158,
+      411,
+      412,
+      414,
+      415
+    ],
+    "parentUnions": [
+      "F131"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 410,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 409,
+        "unionId": "F131",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204875671943@",
+    "geniId": "6000000204875671943",
+    "rfn": "geni:6000000204875671943",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/413/",
+    "canonical": "https://www.genepedia.org/people/413/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

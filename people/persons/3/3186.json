@@ -1,0 +1,87 @@
+{
+  "id": 3186,
+  "schema": "genepedia/person@1",
+  "slug": "albert-gloy",
+  "names": {
+    "display": "Albert Gloy",
+    "given": "Albert",
+    "surname": "Gloy",
+    "married": "Gloy",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3182,
+      1277
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3183,
+      3184,
+      3185
+    ],
+    "parentUnions": [
+      "F783"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3182,
+        "unionId": "F783",
+        "type": "biological"
+      },
+      {
+        "id": 1277,
+        "unionId": "F783",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000007782202304@",
+    "geniId": "6000000007782202304",
+    "rfn": "geni:6000000007782202304",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/3186/",
+    "canonical": "https://www.genepedia.org/people/3186/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

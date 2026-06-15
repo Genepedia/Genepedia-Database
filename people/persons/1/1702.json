@@ -1,0 +1,77 @@
+{
+  "id": 1702,
+  "schema": "genepedia/person@1",
+  "slug": "olivier-1702",
+  "names": {
+    "display": "? Olivier",
+    "given": "?",
+    "surname": "Olivier",
+    "married": "Olivier",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      699
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F443"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 699,
+        "unionId": "F443",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207606394850@",
+    "geniId": "6000000207606394850",
+    "rfn": "geni:6000000207606394850",
+    "changed": "25 JUL 2024"
+  },
+  "page": {
+    "route": "people/1702/",
+    "canonical": "https://www.genepedia.org/people/1702/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

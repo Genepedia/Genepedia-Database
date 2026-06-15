@@ -1,0 +1,116 @@
+{
+  "id": 315,
+  "schema": "genepedia/person@1",
+  "slug": "tara-crous",
+  "names": {
+    "display": "Tara Crous",
+    "given": "Tara",
+    "surname": "Crous",
+    "married": "Crous",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/8e/89/23/e0/53444866573376dd/screenshot_2024-08-07_135042_original.jpg?hash=a1f9a7d3a32260f3b13ac588ac6ba23746ec41fb9aa9cac8709e8daba2326cfb.1789455599",
+      "alt": "Tara Crous"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/8e/89/23/e0/53444866573376dd/screenshot_2024-08-07_135042_original.jpg?hash=a1f9a7d3a32260f3b13ac588ac6ba23746ec41fb9aa9cac8709e8daba2326cfb.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      313,
+      115
+    ],
+    "spouses": [
+      803
+    ],
+    "exSpouses": [],
+    "children": [
+      804
+    ],
+    "siblings": [
+      314,
+      316
+    ],
+    "parentUnions": [
+      "F101"
+    ],
+    "spouseUnions": [
+      "F224"
+    ],
+    "parentLinks": [
+      {
+        "id": 313,
+        "unionId": "F101",
+        "type": "biological"
+      },
+      {
+        "id": 115,
+        "unionId": "F101",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 803,
+        "unionId": "F224",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 804,
+        "unionId": "F224",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207951194849@",
+    "geniId": "6000000207951194849",
+    "rfn": "geni:6000000207951194849",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/315/",
+    "canonical": "https://www.genepedia.org/people/315/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

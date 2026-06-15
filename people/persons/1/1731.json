@@ -1,0 +1,97 @@
+{
+  "id": 1731,
+  "schema": "genepedia/person@1",
+  "slug": "adelaide-susanna-mina-de-lange",
+  "names": {
+    "display": "Adelaide Susanna Mina De Lange",
+    "given": "Adelaide Susanna Mina",
+    "surname": "De Lange",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 MAR 1916",
+      "year": 1916,
+      "iso": "1916-03-08",
+      "precision": "exact",
+      "display": "March 8, 1916",
+      "place": null
+    },
+    "death": {
+      "date": "24 NOV 1916",
+      "year": 1916,
+      "iso": "1916-11-24",
+      "precision": "exact",
+      "display": "November 24, 1916",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1730,
+      723
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F454"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1730,
+        "unionId": "F454",
+        "type": "adopted"
+      },
+      {
+        "id": 723,
+        "unionId": "F454",
+        "type": "adopted"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204902144821@",
+    "geniId": "6000000204902144821",
+    "rfn": "geni:6000000204902144821",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/1731/",
+    "canonical": "https://www.genepedia.org/people/1731/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

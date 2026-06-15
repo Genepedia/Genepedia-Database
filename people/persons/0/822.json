@@ -1,0 +1,231 @@
+{
+  "id": 822,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-jacobus-van-der-walt",
+  "names": {
+    "display": "Petrus Jacobus van der Walt",
+    "given": "Petrus Jacobus",
+    "surname": "van der Walt",
+    "married": "van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 JAN 1869",
+      "year": 1869,
+      "iso": "1869-01-09",
+      "precision": "exact",
+      "display": "January 9, 1869",
+      "place": "Philipstown, Cape Province, South Africa",
+      "location": {
+        "label": "Philipstown, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 MAY 1951",
+      "year": 1951,
+      "iso": "1951-05-24",
+      "precision": "exact",
+      "display": "May 24, 1951",
+      "place": "Bethulie, Orange Free State, South Africa",
+      "location": {
+        "label": "Bethulie, Orange Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bethulie",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "North End Cemetery, Port Elizabeth, Cape Province, South Africa",
+      "location": {
+        "label": "North End Cemetery, Port Elizabeth, Cape Province, South Africa",
+        "placeName": "North End Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Elizabeth",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/77/20/67/7c/5344486119473541/walt_p_original.jpg?hash=64bcc7631e66606a82ac469eb61db8d43e8cdf6b30c895eb134d1a8447c85d88.1789455599",
+      "alt": "Petrus Jacobus van der Walt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/77/20/67/7c/5344486119473541/walt_p_original.jpg?hash=64bcc7631e66606a82ac469eb61db8d43e8cdf6b30c895eb134d1a8447c85d88.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      821,
+      820
+    ],
+    "spouses": [
+      1975,
+      1981,
+      1982
+    ],
+    "exSpouses": [],
+    "children": [
+      1976,
+      1977,
+      1978,
+      1979,
+      1980
+    ],
+    "siblings": [
+      332,
+      823,
+      824,
+      825,
+      826,
+      827,
+      828,
+      829,
+      830
+    ],
+    "parentUnions": [
+      "F229"
+    ],
+    "spouseUnions": [
+      "F512",
+      "F513",
+      "F514"
+    ],
+    "parentLinks": [
+      {
+        "id": 821,
+        "unionId": "F229",
+        "type": "biological"
+      },
+      {
+        "id": 820,
+        "unionId": "F229",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1975,
+        "unionId": "F512",
+        "role": "partner"
+      },
+      {
+        "id": 1981,
+        "unionId": "F513",
+        "role": "partner"
+      },
+      {
+        "id": 1982,
+        "unionId": "F514",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1976,
+        "unionId": "F512",
+        "type": "biological"
+      },
+      {
+        "id": 1977,
+        "unionId": "F512",
+        "type": "biological"
+      },
+      {
+        "id": 1978,
+        "unionId": "F512",
+        "type": "biological"
+      },
+      {
+        "id": 1979,
+        "unionId": "F512",
+        "type": "biological"
+      },
+      {
+        "id": 1980,
+        "unionId": "F512",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000185433209183@",
+    "geniId": "6000000185433209183",
+    "rfn": "geni:6000000185433209183",
+    "changed": "16 NOV 2022"
+  },
+  "page": {
+    "route": "people/822/",
+    "canonical": "https://www.genepedia.org/people/822/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

@@ -1,0 +1,116 @@
+{
+  "id": 4752,
+  "schema": "genepedia/person@1",
+  "slug": "stephanus-jansen-van-vuuren-roux",
+  "names": {
+    "display": "Stephanus Jansen van Vuuren Roux",
+    "given": "Stephanus Jansen van Vuuren",
+    "surname": "Roux",
+    "married": "Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 AUG 1896",
+      "year": 1896,
+      "iso": "1896-08-17",
+      "precision": "exact",
+      "display": "August 17, 1896",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1880
+    ],
+    "exSpouses": [],
+    "children": [
+      4753,
+      4754,
+      4755,
+      4756,
+      4757
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1131"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1880,
+        "unionId": "F1131",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4753,
+        "unionId": "F1131",
+        "type": "biological"
+      },
+      {
+        "id": 4754,
+        "unionId": "F1131",
+        "type": "biological"
+      },
+      {
+        "id": 4755,
+        "unionId": "F1131",
+        "type": "biological"
+      },
+      {
+        "id": 4756,
+        "unionId": "F1131",
+        "type": "biological"
+      },
+      {
+        "id": 4757,
+        "unionId": "F1131",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066436974840@",
+    "geniId": "6000000066436974840",
+    "rfn": "geni:6000000066436974840",
+    "changed": "04 SEP 2017"
+  },
+  "page": {
+    "route": "people/4752/",
+    "canonical": "https://www.genepedia.org/people/4752/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

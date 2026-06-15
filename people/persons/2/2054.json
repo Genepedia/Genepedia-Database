@@ -1,0 +1,131 @@
+{
+  "id": 2054,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-magdalena-cronje",
+  "names": {
+    "display": "Anna Maria Magdalena Cronje",
+    "given": "Anna Maria Magdalena",
+    "surname": "Cronje",
+    "married": "Bester",
+    "nick": "",
+    "aliases": [
+      "Anna Maria Magdalena Bester"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1922",
+      "year": 1922,
+      "iso": "1922",
+      "precision": "exact",
+      "display": "1922",
+      "place": null
+    },
+    "death": {
+      "date": "2 JAN 2014",
+      "year": 2014,
+      "iso": "2014-01-02",
+      "precision": "exact",
+      "display": "January 2, 2014",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      845
+    ],
+    "exSpouses": [],
+    "children": [
+      2055,
+      2056,
+      2057,
+      2058,
+      2059,
+      2060
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F534"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 845,
+        "unionId": "F534",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2055,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2056,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2057,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2058,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2059,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2060,
+        "unionId": "F534",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028161940602@",
+    "geniId": "6000000028161940602",
+    "rfn": "geni:6000000028161940602",
+    "changed": "09 SEP 2017"
+  },
+  "page": {
+    "route": "people/2054/",
+    "canonical": "https://www.genepedia.org/people/2054/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

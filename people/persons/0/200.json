@@ -1,0 +1,109 @@
+{
+  "id": 200,
+  "schema": "genepedia/person@1",
+  "slug": "sophie-marais",
+  "names": {
+    "display": "Sophie Marais",
+    "given": "Sophie",
+    "surname": "Marais",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      199,
+      198
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      60,
+      201
+    ],
+    "parentUnions": [
+      "F63"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 199,
+        "unionId": "F63",
+        "type": "biological"
+      },
+      {
+        "id": 198,
+        "unionId": "F63",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207417479821@",
+    "geniId": "6000000207417479821",
+    "rfn": "geni:6000000207417479821",
+    "changed": "18 JUL 2024"
+  },
+  "page": {
+    "route": "people/200/",
+    "canonical": "https://www.genepedia.org/people/200/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

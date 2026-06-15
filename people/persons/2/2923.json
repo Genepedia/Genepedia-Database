@@ -1,0 +1,116 @@
+{
+  "id": 2923,
+  "schema": "genepedia/person@1",
+  "slug": "willem-jacobus-petrus-van-wyk",
+  "names": {
+    "display": "Willem Jacobus Petrus van Wyk",
+    "given": "Willem Jacobus Petrus",
+    "surname": "van Wyk",
+    "married": "van Wyk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 19 JUL 1902",
+      "year": 1902,
+      "iso": "1902-07-19",
+      "precision": "about",
+      "display": "about July 19, 1902",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1172
+    ],
+    "exSpouses": [],
+    "children": [
+      2924,
+      2925,
+      2926,
+      2927,
+      2928
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F720"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1172,
+        "unionId": "F720",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2924,
+        "unionId": "F720",
+        "type": "biological"
+      },
+      {
+        "id": 2925,
+        "unionId": "F720",
+        "type": "biological"
+      },
+      {
+        "id": 2926,
+        "unionId": "F720",
+        "type": "biological"
+      },
+      {
+        "id": 2927,
+        "unionId": "F720",
+        "type": "biological"
+      },
+      {
+        "id": 2928,
+        "unionId": "F720",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000182499767854@",
+    "geniId": "6000000182499767854",
+    "rfn": "geni:6000000182499767854",
+    "changed": "08 MAR 2022"
+  },
+  "page": {
+    "route": "people/2923/",
+    "canonical": "https://www.genepedia.org/people/2923/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

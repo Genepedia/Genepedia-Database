@@ -1,0 +1,187 @@
+{
+  "id": 924,
+  "schema": "genepedia/person@1",
+  "slug": "john-henry-cloete",
+  "names": {
+    "display": "John Henry Cloete",
+    "given": "John Henry",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 MAY 1927",
+      "year": 1927,
+      "iso": "1927-05-15",
+      "precision": "exact",
+      "display": "May 15, 1927",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "11 DEC 1927",
+      "year": 1927,
+      "iso": "1927-12-11",
+      "precision": "exact",
+      "display": "December 11, 1927",
+      "place": "Ned. Geref. Kerk, Griekwastad",
+      "location": {
+        "label": "Ned. Geref. Kerk, Griekwastad",
+        "placeName": "Ned. Geref. Kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/da/cd/81/5a/53444861936922f5/record-image__original.jpg?hash=945e5ca49e5eacb5c9dbbc88f765e4a688e250db1533e6b645ad26b7944ecb87.1789455599",
+      "alt": "John Henry Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/da/cd/81/5a/53444861936922f5/record-image__original.jpg?hash=945e5ca49e5eacb5c9dbbc88f765e4a688e250db1533e6b645ad26b7944ecb87.1789455599",
+        "form": "",
+        "title": "record-image_trou 1950 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      922,
+      374
+    ],
+    "spouses": [
+      2310
+    ],
+    "exSpouses": [],
+    "children": [
+      2311,
+      2312,
+      2313,
+      2314,
+      2315
+    ],
+    "siblings": [
+      923,
+      925,
+      926
+    ],
+    "parentUnions": [
+      "F256"
+    ],
+    "spouseUnions": [
+      "F586"
+    ],
+    "parentLinks": [
+      {
+        "id": 922,
+        "unionId": "F256",
+        "type": "biological"
+      },
+      {
+        "id": 374,
+        "unionId": "F256",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2310,
+        "unionId": "F586",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2311,
+        "unionId": "F586",
+        "type": "biological"
+      },
+      {
+        "id": 2312,
+        "unionId": "F586",
+        "type": "biological"
+      },
+      {
+        "id": 2313,
+        "unionId": "F586",
+        "type": "biological"
+      },
+      {
+        "id": 2314,
+        "unionId": "F586",
+        "type": "biological"
+      },
+      {
+        "id": 2315,
+        "unionId": "F586",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000017182828356@",
+    "geniId": "6000000017182828356",
+    "rfn": "geni:6000000017182828356",
+    "changed": "23 SEP 2022"
+  },
+  "page": {
+    "route": "people/924/",
+    "canonical": "https://www.genepedia.org/people/924/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

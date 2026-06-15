@@ -1,0 +1,145 @@
+{
+  "id": 1413,
+  "schema": "genepedia/person@1",
+  "slug": "sybrand-abraham-de-beer-1413",
+  "names": {
+    "display": "Sybrand Abraham De Beer",
+    "given": "Sybrand Abraham",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 APR 1917",
+      "year": 1917,
+      "iso": "1917-04-08",
+      "precision": "exact",
+      "display": "April 8, 1917",
+      "place": null
+    },
+    "death": {
+      "date": "26 OCT 2006",
+      "year": 2006,
+      "iso": "2006-10-26",
+      "precision": "exact",
+      "display": "October 26, 2006",
+      "place": "Bellville, Western Cape, South Africa",
+      "location": {
+        "label": "Bellville, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bellville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      573,
+      1410
+    ],
+    "spouses": [
+      3696
+    ],
+    "exSpouses": [],
+    "children": [
+      3697
+    ],
+    "siblings": [
+      1411,
+      1412,
+      1414,
+      1415,
+      1416,
+      1417,
+      1418,
+      1419,
+      1420,
+      1421,
+      1422,
+      1423,
+      1424
+    ],
+    "parentUnions": [
+      "F362"
+    ],
+    "spouseUnions": [
+      "F885"
+    ],
+    "parentLinks": [
+      {
+        "id": 573,
+        "unionId": "F362",
+        "type": "biological"
+      },
+      {
+        "id": 1410,
+        "unionId": "F362",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3696,
+        "unionId": "F885",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3697,
+        "unionId": "F885",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000036721843935@",
+    "geniId": "6000000036721843935",
+    "rfn": "geni:6000000036721843935",
+    "changed": "28 SEP 2015"
+  },
+  "page": {
+    "route": "people/1413/",
+    "canonical": "https://www.genepedia.org/people/1413/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

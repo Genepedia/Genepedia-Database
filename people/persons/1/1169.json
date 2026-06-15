@@ -1,0 +1,125 @@
+{
+  "id": 1169,
+  "schema": "genepedia/person@1",
+  "slug": "alexander-frederik-flemming",
+  "names": {
+    "display": "Alexander Frederik Flemming",
+    "given": "Alexander Frederik",
+    "surname": "Flemming",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 JUL 1897",
+      "year": 1897,
+      "iso": "1897-07-26",
+      "precision": "exact",
+      "display": "July 26, 1897",
+      "place": null
+    },
+    "death": {
+      "date": "1965",
+      "year": 1965,
+      "iso": "1965",
+      "precision": "exact",
+      "display": "1965",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1166,
+      1165
+    ],
+    "spouses": [
+      2921
+    ],
+    "exSpouses": [],
+    "children": [
+      2922
+    ],
+    "siblings": [
+      1167,
+      457,
+      1168,
+      1170,
+      1171,
+      1172,
+      1173,
+      1174,
+      1175
+    ],
+    "parentUnions": [
+      "F307"
+    ],
+    "spouseUnions": [
+      "F719"
+    ],
+    "parentLinks": [
+      {
+        "id": 1166,
+        "unionId": "F307",
+        "type": "biological"
+      },
+      {
+        "id": 1165,
+        "unionId": "F307",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2921,
+        "unionId": "F719",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2922,
+        "unionId": "F719",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208747491874@",
+    "geniId": "6000000208747491874",
+    "rfn": "geni:6000000208747491874",
+    "changed": "01 MAY 2025"
+  },
+  "page": {
+    "route": "people/1169/",
+    "canonical": "https://www.genepedia.org/people/1169/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

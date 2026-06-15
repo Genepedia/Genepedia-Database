@@ -1,0 +1,139 @@
+{
+  "id": 2676,
+  "schema": "genepedia/person@1",
+  "slug": "susara-maria-pretorius",
+  "names": {
+    "display": "Susara Maria Pretorius",
+    "given": "Susara Maria",
+    "surname": "Pretorius",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 SEP 1891",
+      "year": 1891,
+      "iso": "1891-09-07",
+      "precision": "exact",
+      "display": "September 7, 1891",
+      "place": "Zeerust, North West, South Africa",
+      "location": {
+        "label": "Zeerust, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Zeerust",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "17 JAN 1892",
+      "year": 1892,
+      "iso": "1892-01-17",
+      "precision": "exact",
+      "display": "January 17, 1892",
+      "place": "Zeerust, South Africa",
+      "location": {
+        "label": "Zeerust, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Zeerust",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2675,
+      1076
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2677,
+      2678,
+      2679,
+      2680,
+      2681,
+      2682,
+      2683
+    ],
+    "parentUnions": [
+      "F655"
+    ],
+    "spouseUnions": [
+      "F1653"
+    ],
+    "parentLinks": [
+      {
+        "id": 2675,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 1076,
+        "unionId": "F655",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057261646850@",
+    "geniId": "6000000057261646850",
+    "rfn": "geni:6000000057261646850",
+    "changed": "06 AUG 2025"
+  },
+  "page": {
+    "route": "people/2676/",
+    "canonical": "https://www.genepedia.org/people/2676/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

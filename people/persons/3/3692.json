@@ -1,0 +1,97 @@
+{
+  "id": 3692,
+  "schema": "genepedia/person@1",
+  "slug": "hester-van-bosch",
+  "names": {
+    "display": "Hester van Bosch",
+    "given": "Hester",
+    "surname": "van Bosch",
+    "married": "van Bosch",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3679,
+      3678
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1410,
+      3680,
+      3681,
+      3682,
+      3683,
+      3684,
+      3685,
+      3686,
+      3687,
+      3688,
+      3689,
+      3690,
+      3691
+    ],
+    "parentUnions": [
+      "F883"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3679,
+        "unionId": "F883",
+        "type": "biological"
+      },
+      {
+        "id": 3678,
+        "unionId": "F883",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021196753188@",
+    "geniId": "6000000021196753188",
+    "rfn": "geni:6000000021196753188",
+    "changed": "05 MAY 2022"
+  },
+  "page": {
+    "route": "people/3692/",
+    "canonical": "https://www.genepedia.org/people/3692/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

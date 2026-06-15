@@ -1,0 +1,96 @@
+{
+  "id": 3006,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-christiaan-brits-3006",
+  "names": {
+    "display": "Hendrik Christiaan Brits",
+    "given": "Hendrik Christiaan",
+    "surname": "Brits",
+    "married": "Brits",
+    "nick": "Hendrie",
+    "aliases": [
+      "Hendrie"
+    ]
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 JUL 1997",
+      "year": 1997,
+      "iso": "1997-07-11",
+      "precision": "exact",
+      "display": "July 11, 1997",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1191,
+      3003
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3004,
+      3005,
+      3007
+    ],
+    "parentUnions": [
+      "F736"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1191,
+        "unionId": "F736",
+        "type": "biological"
+      },
+      {
+        "id": 3003,
+        "unionId": "F736",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024192856535@",
+    "geniId": "6000000024192856535",
+    "rfn": "geni:6000000024192856535",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/3006/",
+    "canonical": "https://www.genepedia.org/people/3006/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

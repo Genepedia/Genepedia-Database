@@ -1,0 +1,27 @@
+{
+  "schema": "genepedia/people-db@1",
+  "generatedAt": "2026-06-15T17:28:09.930Z",
+  "host": "www.genepedia.org",
+  "source": "data/export-Forest.ged",
+  "shardSize": 1000,
+  "reserved": {
+    "15": "Nelson Mandela"
+  },
+  "routes": {
+    "profile": "people/<id>/"
+  },
+  "layout": {
+    "persons": "data/Genepedia-Database/people/persons/<bucket>/<id>.json",
+    "unions": "data/Genepedia-Database/people/unions/<bucket>/<id>.json",
+    "summary": "data/Genepedia-Database/people/index/summary/<bucket>.json",
+    "search": "data/Genepedia-Database/people/index/search/<key>.json"
+  },
+  "counts": {
+    "persons": 5000,
+    "unions": 1922,
+    "withNarrative": 1256,
+    "withMedia": 1593,
+    "living": 1916,
+    "emailsRedacted": 12
+  }
+}

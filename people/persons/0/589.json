@@ -1,0 +1,131 @@
+{
+  "id": 589,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-samuel-de-beer-589",
+  "names": {
+    "display": "Joseph Samuel de Beer",
+    "given": "Joseph Samuel",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "Basie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 NOV 1957",
+      "year": 1957,
+      "iso": "1957-11-24",
+      "precision": "exact",
+      "display": "November 24, 1957",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      216,
+      588
+    ],
+    "spouses": [
+      1461,
+      1463
+    ],
+    "exSpouses": [],
+    "children": [
+      1462,
+      1464,
+      1465
+    ],
+    "siblings": [
+      590,
+      591,
+      592
+    ],
+    "parentUnions": [
+      "F166"
+    ],
+    "spouseUnions": [
+      "F370",
+      "F371"
+    ],
+    "parentLinks": [
+      {
+        "id": 216,
+        "unionId": "F166",
+        "type": "biological"
+      },
+      {
+        "id": 588,
+        "unionId": "F166",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1461,
+        "unionId": "F370",
+        "role": "wife"
+      },
+      {
+        "id": 1463,
+        "unionId": "F371",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1462,
+        "unionId": "F370",
+        "type": "biological"
+      },
+      {
+        "id": 1464,
+        "unionId": "F371",
+        "type": "biological"
+      },
+      {
+        "id": 1465,
+        "unionId": "F371",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587924855@",
+    "geniId": "6000000206587924855",
+    "rfn": "geni:6000000206587924855",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/589/",
+    "canonical": "https://www.genepedia.org/people/589/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

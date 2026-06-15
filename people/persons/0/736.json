@@ -1,0 +1,160 @@
+{
+  "id": 736,
+  "schema": "genepedia/person@1",
+  "slug": "julius-theodor-alexander-malchin",
+  "names": {
+    "display": "Julius Theodor Alexander Malchin",
+    "given": "Julius Theodor Alexander",
+    "surname": "Malchin",
+    "married": "Malchin",
+    "nick": "Machin",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1877",
+      "year": 1877,
+      "iso": "1877",
+      "precision": "exact",
+      "display": "1877",
+      "place": "Russia",
+      "location": {
+        "label": "Russia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Russia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1928",
+      "year": 1928,
+      "iso": "1928",
+      "precision": "exact",
+      "display": "1928",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/54/33/29/c1/53444868aac5c19a/jpg_5__original.jpg?hash=c4e1e826e12ad8f27e1f15eecf5fde96b1411b3b3637721b1181b6f072669706.1789455599",
+      "alt": "Julius Theodor Alexander Malchin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/54/33/29/c1/53444868aac5c19a/jpg_5__original.jpg?hash=c4e1e826e12ad8f27e1f15eecf5fde96b1411b3b3637721b1181b6f072669706.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1774,
+      1775
+    ],
+    "spouses": [
+      737
+    ],
+    "exSpouses": [],
+    "children": [
+      738,
+      298,
+      739
+    ],
+    "siblings": [
+      1776,
+      1777,
+      1778,
+      1779
+    ],
+    "parentUnions": [
+      "F465"
+    ],
+    "spouseUnions": [
+      "F208"
+    ],
+    "parentLinks": [
+      {
+        "id": 1774,
+        "unionId": "F465",
+        "type": "biological"
+      },
+      {
+        "id": 1775,
+        "unionId": "F465",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 737,
+        "unionId": "F208",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 738,
+        "unionId": "F208",
+        "type": "biological"
+      },
+      {
+        "id": 298,
+        "unionId": "F208",
+        "type": "biological"
+      },
+      {
+        "id": 739,
+        "unionId": "F208",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207949850827@",
+    "geniId": "6000000207949850827",
+    "rfn": "geni:6000000207949850827",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/736/",
+    "canonical": "https://www.genepedia.org/people/736/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

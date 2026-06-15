@@ -1,0 +1,93 @@
+{
+  "id": 1359,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-josefus-esterhuyse",
+  "names": {
+    "display": "Johannes Joséfus Esterhuyse",
+    "given": "Johannes Joséfus",
+    "surname": "Esterhuyse",
+    "married": "Esterhuyse",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "20 MAY 1989",
+      "year": 1989,
+      "iso": "1989-05-20",
+      "precision": "exact",
+      "display": "May 20, 1989",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      552,
+      1357
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1358,
+      1360
+    ],
+    "parentUnions": [
+      "F348"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 552,
+        "unionId": "F348",
+        "type": "biological"
+      },
+      {
+        "id": 1357,
+        "unionId": "F348",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227189437@",
+    "geniId": "6000000027227189437",
+    "rfn": "geni:6000000027227189437",
+    "changed": "11 MAR 2015"
+  },
+  "page": {
+    "route": "people/1359/",
+    "canonical": "https://www.genepedia.org/people/1359/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

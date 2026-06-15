@@ -1,0 +1,157 @@
+{
+  "id": 634,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-johannes-pretorius",
+  "names": {
+    "display": "Hendrik Johannes Pretorius",
+    "given": "Hendrik Johannes",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 JUL 1895",
+      "year": 1895,
+      "iso": "1895-07-02",
+      "precision": "exact",
+      "display": "July 2, 1895",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 OCT 1895",
+      "year": 1895,
+      "iso": "1895-10-06",
+      "precision": "exact",
+      "display": "October 6, 1895",
+      "place": "Bloemhof, South Africa",
+      "location": {
+        "label": "Bloemhof, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1575,
+      1576
+    ],
+    "spouses": [
+      241
+    ],
+    "exSpouses": [],
+    "children": [
+      635,
+      636,
+      637,
+      638
+    ],
+    "siblings": [
+      1577,
+      1578,
+      1579,
+      1580,
+      1581,
+      1582,
+      1583
+    ],
+    "parentUnions": [
+      "F400"
+    ],
+    "spouseUnions": [
+      "F177"
+    ],
+    "parentLinks": [
+      {
+        "id": 1575,
+        "unionId": "F400",
+        "type": "biological"
+      },
+      {
+        "id": 1576,
+        "unionId": "F400",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 241,
+        "unionId": "F177",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 635,
+        "unionId": "F177",
+        "type": "biological"
+      },
+      {
+        "id": 636,
+        "unionId": "F177",
+        "type": "biological"
+      },
+      {
+        "id": 637,
+        "unionId": "F177",
+        "type": "biological"
+      },
+      {
+        "id": 638,
+        "unionId": "F177",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002496645263@",
+    "geniId": "6000000002496645263",
+    "rfn": "geni:6000000002496645263",
+    "changed": "08 JUL 2025"
+  },
+  "page": {
+    "route": "people/634/",
+    "canonical": "https://www.genepedia.org/people/634/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

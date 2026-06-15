@@ -1,0 +1,152 @@
+{
+  "id": 1086,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-jacobus-kotze",
+  "names": {
+    "display": "Petrus Jacobus Kotze",
+    "given": "Petrus Jacobus",
+    "surname": "Kotze",
+    "married": "Kotze",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JAN 1889",
+      "year": 1889,
+      "iso": "1889-01-12",
+      "precision": "exact",
+      "display": "January 12, 1889",
+      "place": "Groot Marico, North West, South Africa",
+      "location": {
+        "label": "Groot Marico, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Groot Marico",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 OCT 1919",
+      "year": 1919,
+      "iso": "1919-10-18",
+      "precision": "exact",
+      "display": "October 18, 1919",
+      "place": "Makwassie, North West, South Africa",
+      "location": {
+        "label": "Makwassie, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Makwassie",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1075,
+      431
+    ],
+    "spouses": [
+      2697
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1087,
+      1088
+    ],
+    "parentUnions": [
+      "F287"
+    ],
+    "spouseUnions": [
+      "F663"
+    ],
+    "parentLinks": [
+      {
+        "id": 1075,
+        "unionId": "F287",
+        "type": "biological"
+      },
+      {
+        "id": 431,
+        "unionId": "F287",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2697,
+        "unionId": "F663",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000061385733952@",
+    "geniId": "6000000061385733952",
+    "rfn": "geni:6000000061385733952",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1086/",
+    "canonical": "https://www.genepedia.org/people/1086/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

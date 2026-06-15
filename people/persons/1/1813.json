@@ -1,0 +1,104 @@
+{
+  "id": 1813,
+  "schema": "genepedia/person@1",
+  "slug": "privilege",
+  "names": {
+    "display": "Privilege",
+    "given": "Privilege",
+    "surname": "Mapeno",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1812,
+      787
+    ],
+    "spouses": [
+      4560
+    ],
+    "exSpouses": [],
+    "children": [
+      4561
+    ],
+    "siblings": [
+      1814,
+      1815
+    ],
+    "parentUnions": [
+      "F479"
+    ],
+    "spouseUnions": [
+      "F1092"
+    ],
+    "parentLinks": [
+      {
+        "id": 1812,
+        "unionId": "F479",
+        "type": "biological"
+      },
+      {
+        "id": 787,
+        "unionId": "F479",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4560,
+        "unionId": "F1092",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4561,
+        "unionId": "F1092",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207544822838@",
+    "geniId": "6000000207544822838",
+    "rfn": "geni:6000000207544822838",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1813/",
+    "canonical": "https://www.genepedia.org/people/1813/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

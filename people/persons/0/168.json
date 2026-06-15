@@ -1,0 +1,263 @@
+{
+  "id": 168,
+  "schema": "genepedia/person@1",
+  "slug": "hester-elizabeth-clignet-davis",
+  "names": {
+    "display": "Hester Elizabeth Clignet Davis",
+    "given": "Hester Elizabeth Clignet",
+    "surname": "Davis",
+    "married": "Fourie",
+    "nick": "Hessie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 JAN 1875",
+      "year": 1875,
+      "iso": "1875-01-19",
+      "precision": "exact",
+      "display": "January 19, 1875",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "Hopetown, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "22 DEC 1948",
+      "year": 1948,
+      "iso": "1948-12-22",
+      "precision": "exact",
+      "display": "December 22, 1948",
+      "place": "Hoogfontein, Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Hoogfontein, Griekwastad, Northern Cape, South Africa",
+        "placeName": "Hoogfontein, Griekwastad, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/c8/ce/89/36/5344484240e3e1db/hester_elizabeth_clignet_davis_fourie_original.jpg?hash=bfe5bfd4d5311df37b2197d9d72f4adceea641a69e3523cf673c23a9d2cf2c01.1789455599",
+      "alt": "Hester Elizabeth Clignet Davis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/c8/ce/89/36/5344484240e3e1db/hester_elizabeth_clignet_davis_fourie_original.jpg?hash=bfe5bfd4d5311df37b2197d9d72f4adceea641a69e3523cf673c23a9d2cf2c01.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/8a/a2/21/66/53444868841de5ef/20250401_123711_original.jpg?hash=bbb13112aa688a02d8dca9277917fa38e18a6e6f52e0fe57782d87b745f8dfa1.1789455599",
+        "form": "",
+        "title": "Gravestone",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/b9/51/5d/2c/53444868841f58e0/20250401_123627_original.jpg?hash=eb0d0e8db6f177f809f1162f2d4468015bd09743dc02d046396ddf2b9715ecc5.1789455599",
+        "form": "",
+        "title": "Gravestone",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/51/41/70/d7/5344484292bdd410/hester_elizabeth_clignet_davis_marriage_certificate-crop_original.jpg?hash=27a4a4df6e34b0afd59d2324422d7d652470bb6ebcc1f89b53e375f5565f1038.1789455599",
+        "form": "",
+        "title": "Hester Elizabeth Clignet Davis Marriage Certificate",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Fourie Web Site",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Potgieter Web Site",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      447,
+      448
+    ],
+    "spouses": [
+      167
+    ],
+    "exSpouses": [],
+    "children": [
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      45,
+      178
+    ],
+    "siblings": [
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456
+    ],
+    "parentUnions": [
+      "F136"
+    ],
+    "spouseUnions": [
+      "F52"
+    ],
+    "parentLinks": [
+      {
+        "id": 447,
+        "unionId": "F136",
+        "type": "biological"
+      },
+      {
+        "id": 448,
+        "unionId": "F136",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 167,
+        "unionId": "F52",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 169,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 170,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 171,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 172,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 173,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 174,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 175,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 176,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 177,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 45,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 178,
+        "unionId": "F52",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000052957673403@",
+    "geniId": "6000000052957673403",
+    "rfn": "geni:6000000052957673403",
+    "changed": "10 SEP 2025"
+  },
+  "page": {
+    "route": "people/168/",
+    "canonical": "https://www.genepedia.org/people/168/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

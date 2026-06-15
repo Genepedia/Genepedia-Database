@@ -1,0 +1,247 @@
+{
+  "id": 1178,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-catharina-ras",
+  "names": {
+    "display": "Magdalena Catharina Ras",
+    "given": "Magdalena Catharina",
+    "surname": "Ras",
+    "married": "de Klerk",
+    "nick": "Helena",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 OCT 1864",
+      "year": 1864,
+      "iso": "1864-10-18",
+      "precision": "exact",
+      "display": "October 18, 1864",
+      "place": "Wolwefontein",
+      "location": {
+        "label": "Wolwefontein",
+        "placeName": "Wolwefontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 NOV 1937",
+      "year": 1937,
+      "iso": "1937-11-27",
+      "precision": "exact",
+      "display": "November 27, 1937",
+      "place": "Dieprivier, Niekerkshoop",
+      "location": {
+        "label": "Dieprivier, Niekerkshoop",
+        "placeName": "Dieprivier, Niekerkshoop",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Begrawe Bywater, dist Griekwastad",
+      "location": {
+        "label": "Begrawe Bywater, dist Griekwastad",
+        "placeName": "Begrawe Bywater, dist Griekwastad",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2943,
+      2944
+    ],
+    "spouses": [
+      1177
+    ],
+    "exSpouses": [],
+    "children": [
+      1179,
+      1180,
+      1181,
+      1182,
+      469,
+      1183,
+      1184,
+      1185,
+      1186,
+      1187,
+      1188,
+      1189
+    ],
+    "siblings": [
+      2945,
+      2946,
+      2947,
+      2948,
+      2949,
+      2950,
+      2951,
+      2952,
+      2953
+    ],
+    "parentUnions": [
+      "F723"
+    ],
+    "spouseUnions": [
+      "F309"
+    ],
+    "parentLinks": [
+      {
+        "id": 2943,
+        "unionId": "F723",
+        "type": "biological"
+      },
+      {
+        "id": 2944,
+        "unionId": "F723",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1177,
+        "unionId": "F309",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1179,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1180,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1181,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1182,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 469,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1183,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1184,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1185,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1186,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1187,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1188,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1189,
+        "unionId": "F309",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000019069696897@",
+    "geniId": "6000000019069696897",
+    "rfn": "geni:6000000019069696897",
+    "changed": "24 OCT 2024"
+  },
+  "page": {
+    "route": "people/1178/",
+    "canonical": "https://www.genepedia.org/people/1178/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

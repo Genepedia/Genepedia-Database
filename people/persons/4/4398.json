@@ -1,0 +1,133 @@
+{
+  "id": 4398,
+  "schema": "genepedia/person@1",
+  "slug": "maria-magdalena-corrie",
+  "names": {
+    "display": "Maria Magdalena Corrie",
+    "given": "Maria Magdalena",
+    "surname": "Corrie",
+    "married": "Olivier",
+    "nick": "Meraai",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 JAN 1922",
+      "year": 1922,
+      "iso": "1922-01-08",
+      "precision": "exact",
+      "display": "January 8, 1922",
+      "place": null
+    },
+    "death": {
+      "date": "15 FEB 1985",
+      "year": 1985,
+      "iso": "1985-02-15",
+      "precision": "exact",
+      "display": "February 15, 1985",
+      "place": "Pretoria, Transvaal, South Africa",
+      "location": {
+        "label": "Pretoria, Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/4e/e5/dc/53/5344483af901b6dc/mama_old_family_jpeg_small_large.jpg?hash=904c689377dc5a227b6471e4dee632e647cacb9aff16e9158b999b6601887176.1789455599",
+      "alt": "Maria Magdalena Corrie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/4e/e5/dc/53/5344483af901b6dc/mama_old_family_jpeg_small_large.jpg?hash=904c689377dc5a227b6471e4dee632e647cacb9aff16e9158b999b6601887176.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1719,
+      4393
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4394,
+      4395,
+      4396,
+      4397,
+      4399,
+      4400,
+      4401
+    ],
+    "parentUnions": [
+      "F1039"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1719,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4393,
+        "unionId": "F1039",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020763065109@",
+    "geniId": "6000000020763065109",
+    "rfn": "geni:6000000020763065109",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/4398/",
+    "canonical": "https://www.genepedia.org/people/4398/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

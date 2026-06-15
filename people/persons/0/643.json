@@ -1,0 +1,131 @@
+{
+  "id": 643,
+  "schema": "genepedia/person@1",
+  "slug": "william-christo-stander",
+  "names": {
+    "display": "William Christo Stander",
+    "given": "William Christo",
+    "surname": "Stander",
+    "married": "Stander",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 JUN 1945",
+      "year": 1945,
+      "iso": "1945-06-08",
+      "precision": "exact",
+      "display": "June 8, 1945",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "31 DEC 2002",
+      "year": 2002,
+      "iso": "2002-12-31",
+      "precision": "exact",
+      "display": "December 31, 2002",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      642,
+      244
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      644
+    ],
+    "parentUnions": [
+      "F180"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 642,
+        "unionId": "F180",
+        "type": "biological"
+      },
+      {
+        "id": 244,
+        "unionId": "F180",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207067126886@",
+    "geniId": "6000000207067126886",
+    "rfn": "geni:6000000207067126886",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/643/",
+    "canonical": "https://www.genepedia.org/people/643/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

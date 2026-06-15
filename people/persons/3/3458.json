@@ -1,0 +1,110 @@
+{
+  "id": 3458,
+  "schema": "genepedia/person@1",
+  "slug": "johan-adam-prinsloo",
+  "names": {
+    "display": "Johan Adam Prinsloo",
+    "given": "Johan Adam",
+    "surname": "Prinsloo",
+    "married": "Prinsloo",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "8 JUN 1983",
+      "year": 1983,
+      "iso": "1983-06-08",
+      "precision": "exact",
+      "display": "June 8, 1983",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/28/10/21/5e/5344486602b67724/screenshot_2024-06-15_190038_original.jpg?hash=b6c8ac4beb012c8d6893c28bd1c814347a11ab7ca823d984e26511672e1dffcf.1789455599",
+      "alt": "Johan Adam Prinsloo"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/28/10/21/5e/5344486602b67724/screenshot_2024-06-15_190038_original.jpg?hash=b6c8ac4beb012c8d6893c28bd1c814347a11ab7ca823d984e26511672e1dffcf.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1378
+    ],
+    "exSpouses": [],
+    "children": [
+      3459,
+      3460
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F852"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1378,
+        "unionId": "F852",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3459,
+        "unionId": "F852",
+        "type": "biological"
+      },
+      {
+        "id": 3460,
+        "unionId": "F852",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206533492907@",
+    "geniId": "6000000206533492907",
+    "rfn": "geni:6000000206533492907",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/3458/",
+    "canonical": "https://www.genepedia.org/people/3458/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

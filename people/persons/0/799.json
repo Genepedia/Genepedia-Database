@@ -1,0 +1,88 @@
+{
+  "id": 799,
+  "schema": "genepedia/person@1",
+  "slug": "ellis-799",
+  "names": {
+    "display": "? Ellis",
+    "given": "?",
+    "surname": "Ellis",
+    "married": "Ellis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      794,
+      795
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      313,
+      796,
+      797,
+      798
+    ],
+    "parentUnions": [
+      "F222"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 794,
+        "unionId": "F222",
+        "type": "biological"
+      },
+      {
+        "id": 795,
+        "unionId": "F222",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207953623861@",
+    "geniId": "6000000207953623861",
+    "rfn": "geni:6000000207953623861",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/799/",
+    "canonical": "https://www.genepedia.org/people/799/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

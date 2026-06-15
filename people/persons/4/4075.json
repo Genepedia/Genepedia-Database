@@ -1,0 +1,85 @@
+{
+  "id": 4075,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-adriaan-aggenbach",
+  "names": {
+    "display": "Gerrit Adriaan Aggenbach",
+    "given": "Gerrit Adriaan",
+    "surname": "Aggenbach",
+    "married": "Aggenbach",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4074,
+      1550
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4076
+    ],
+    "parentUnions": [
+      "F946"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4074,
+        "unionId": "F946",
+        "type": "biological"
+      },
+      {
+        "id": 1550,
+        "unionId": "F946",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000140298207845@",
+    "geniId": "6000000140298207845",
+    "rfn": "geni:6000000140298207845",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/4075/",
+    "canonical": "https://www.genepedia.org/people/4075/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

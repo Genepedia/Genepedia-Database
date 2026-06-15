@@ -1,0 +1,122 @@
+{
+  "id": 2441,
+  "schema": "genepedia/person@1",
+  "slug": "hester-johanna-jooste",
+  "names": {
+    "display": "Hester Johanna Jooste",
+    "given": "Hester Johanna",
+    "surname": "Jooste",
+    "married": "Jooste",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 AUG 1803",
+      "year": 1803,
+      "iso": "1803-08-04",
+      "precision": "exact",
+      "display": "August 4, 1803",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "1 OCT 1803",
+      "year": 1803,
+      "iso": "1803-10-01",
+      "precision": "exact",
+      "display": "October 1, 1803",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2438,
+      2437
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2439,
+      2440,
+      2442,
+      2443,
+      2444,
+      2445,
+      2446,
+      1000
+    ],
+    "parentUnions": [
+      "F615"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2438,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2437,
+        "unionId": "F615",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000023180110112@",
+    "geniId": "6000000023180110112",
+    "rfn": "geni:6000000023180110112",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2441/",
+    "canonical": "https://www.genepedia.org/people/2441/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

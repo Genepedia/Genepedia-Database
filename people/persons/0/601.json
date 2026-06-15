@@ -1,0 +1,137 @@
+{
+  "id": 601,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-susanna-margaretha-de-beer-601",
+  "names": {
+    "display": "Gertruida Susanna Margaretha de Beer",
+    "given": "Gertruida Susanna Margaretha",
+    "surname": "de Beer",
+    "married": "Erasmus",
+    "nick": "Trudie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 JUN 1967",
+      "year": 1967,
+      "iso": "1967-06-29",
+      "precision": "exact",
+      "display": "June 29, 1967",
+      "place": null
+    },
+    "death": {
+      "date": "2024",
+      "year": 2024,
+      "iso": "2024",
+      "precision": "exact",
+      "display": "2024",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b9/69/09/3a/53444865b689dec7/de_beer_trudie_original.jpg?hash=605b05f405cd8b515526008f0399c85925321f0d9ee41ca60a5444270533592f.1789455599",
+      "alt": "Gertruida Susanna Margaretha de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b9/69/09/3a/53444865b689dec7/de_beer_trudie_original.jpg?hash=605b05f405cd8b515526008f0399c85925321f0d9ee41ca60a5444270533592f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/69/bc/38/32/534448637b00ab26/picture11_original.jpg?hash=b14c790f7aa83796d53d7c01b9f8ce321962b106b796e4e74b872c3e953bd262.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      220,
+      598
+    ],
+    "spouses": [
+      1492
+    ],
+    "exSpouses": [],
+    "children": [
+      1493
+    ],
+    "siblings": [
+      599,
+      600
+    ],
+    "parentUnions": [
+      "F168"
+    ],
+    "spouseUnions": [
+      "F382"
+    ],
+    "parentLinks": [
+      {
+        "id": 220,
+        "unionId": "F168",
+        "type": "biological"
+      },
+      {
+        "id": 598,
+        "unionId": "F168",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1492,
+        "unionId": "F382",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1493,
+        "unionId": "F382",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000119051137821@",
+    "geniId": "6000000119051137821",
+    "rfn": "geni:6000000119051137821",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/601/",
+    "canonical": "https://www.genepedia.org/people/601/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

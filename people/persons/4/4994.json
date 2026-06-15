@@ -1,0 +1,209 @@
+{
+  "id": 4994,
+  "schema": "genepedia/person@1",
+  "slug": "helena-aletta-sophia-van-der-ryst",
+  "names": {
+    "display": "Helena Aletta Sophia van der Ryst",
+    "given": "Helena Aletta Sophia",
+    "surname": "van der Ryst",
+    "married": "Bester",
+    "nick": "Lenie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 JUL 1912",
+      "year": 1912,
+      "iso": "1912-07-13",
+      "precision": "exact",
+      "display": "July 13, 1912",
+      "place": "Koopmansfontein, Northern Cape, South Africa",
+      "location": {
+        "label": "Koopmansfontein, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Koopmansfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "5 MAY 2001",
+      "year": 2001,
+      "iso": "2001-05-05",
+      "precision": "exact",
+      "display": "May 5, 2001",
+      "place": "Delareyville, North West, South Africa",
+      "location": {
+        "label": "Delareyville, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Delareyville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "1 SEP 1912",
+      "year": 1912,
+      "iso": "1912-09-01",
+      "precision": "exact",
+      "display": "September 1, 1912",
+      "place": "Klein Boshof",
+      "location": {
+        "label": "Klein Boshof",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klein Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Migdol, North West, South Africa",
+      "location": {
+        "label": "Migdol, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Migdol",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/11/dc/b7/2f/53444869e88343b5/image_original.jpg?hash=52fd66f8b3a272b53f6ef4ff9fb7d3ed0ab9fe2ee35264001471ae5726995fc1.1789455599",
+      "alt": "Helena Aletta Sophia van der Ryst"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/11/dc/b7/2f/53444869e88343b5/image_original.jpg?hash=52fd66f8b3a272b53f6ef4ff9fb7d3ed0ab9fe2ee35264001471ae5726995fc1.1789455599",
+        "form": "",
+        "title": "image - trou 1934  .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/75/5e/eb/c1/53444869e494decb/image_original.jpg?hash=ae4cd2ed5f4cc150fc994b04fa520b631166a41b3bdcce14ed84df116c882f10.1789455599",
+        "form": "",
+        "title": "image - doop .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1941
+    ],
+    "exSpouses": [],
+    "children": [
+      4995,
+      4996,
+      4997
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1186"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1941,
+        "unionId": "F1186",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4995,
+        "unionId": "F1186",
+        "type": "biological"
+      },
+      {
+        "id": 4996,
+        "unionId": "F1186",
+        "type": "biological"
+      },
+      {
+        "id": 4997,
+        "unionId": "F1186",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000061171742948@",
+    "geniId": "6000000061171742948",
+    "rfn": "geni:6000000061171742948",
+    "changed": "08 JAN 2026"
+  },
+  "page": {
+    "route": "people/4994/",
+    "canonical": "https://www.genepedia.org/people/4994/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

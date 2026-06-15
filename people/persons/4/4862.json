@@ -1,0 +1,118 @@
+{
+  "id": 4862,
+  "schema": "genepedia/person@1",
+  "slug": "antonie-johannes-botes",
+  "names": {
+    "display": "Antonie Johannes Botes",
+    "given": "Antonie Johannes",
+    "surname": "Botes",
+    "married": "Botes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 OCT 1909",
+      "year": 1909,
+      "iso": "1909-10-05",
+      "precision": "exact",
+      "display": "October 5, 1909",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "21 NOV 1909",
+      "year": 1909,
+      "iso": "1909-11-21",
+      "precision": "exact",
+      "display": "November 21, 1909",
+      "place": "Phillipstown",
+      "location": {
+        "label": "Phillipstown",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Phillipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4861,
+      1906
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4863,
+      4864,
+      4865,
+      4866
+    ],
+    "parentUnions": [
+      "F1157"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4861,
+        "unionId": "F1157",
+        "type": "biological"
+      },
+      {
+        "id": 1906,
+        "unionId": "F1157",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000190826457823@",
+    "geniId": "6000000190826457823",
+    "rfn": "geni:6000000190826457823",
+    "changed": "16 JAN 2023"
+  },
+  "page": {
+    "route": "people/4862/",
+    "canonical": "https://www.genepedia.org/people/4862/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

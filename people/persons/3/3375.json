@@ -1,0 +1,92 @@
+{
+  "id": 3375,
+  "schema": "genepedia/person@1",
+  "slug": "willem-andries-visagie",
+  "names": {
+    "display": "Willem Andries Visagie",
+    "given": "Willem Andries",
+    "surname": "Visagie",
+    "married": "Visagie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3370,
+      3369
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1333,
+      3371,
+      3372,
+      3373,
+      3374,
+      3376,
+      3377,
+      3378
+    ],
+    "parentUnions": [
+      "F830"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3370,
+        "unionId": "F830",
+        "type": "biological"
+      },
+      {
+        "id": 3369,
+        "unionId": "F830",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208124320847@",
+    "geniId": "6000000208124320847",
+    "rfn": "geni:6000000208124320847",
+    "changed": "13 AUG 2024"
+  },
+  "page": {
+    "route": "people/3375/",
+    "canonical": "https://www.genepedia.org/people/3375/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

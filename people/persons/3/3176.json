@@ -1,0 +1,86 @@
+{
+  "id": 3176,
+  "schema": "genepedia/person@1",
+  "slug": "daisy-louise-van-zyl",
+  "names": {
+    "display": "Daisy-Louise Van Zyl",
+    "given": "Daisy-Louise",
+    "surname": "Van Zyl",
+    "married": "Van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3174,
+      1273
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3175,
+      3177
+    ],
+    "parentUnions": [
+      "F779"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3174,
+        "unionId": "F779",
+        "type": "biological"
+      },
+      {
+        "id": 1273,
+        "unionId": "F779",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781406859@",
+    "geniId": "6000000007781406859",
+    "rfn": "geni:6000000007781406859",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/3176/",
+    "canonical": "https://www.genepedia.org/people/3176/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

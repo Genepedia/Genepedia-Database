@@ -1,0 +1,117 @@
+{
+  "id": 3124,
+  "schema": "genepedia/person@1",
+  "slug": "sophia-magdalena-ras",
+  "names": {
+    "display": "Sophia Magdalena Ras",
+    "given": "Sophia Magdalena",
+    "surname": "Swanepoel",
+    "married": "Ras",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "17 SEP 1929",
+      "year": 1929,
+      "iso": "1929-09-17",
+      "precision": "exact",
+      "display": "September 17, 1929",
+      "place": "Botterkraal, Prince Albert, Western Cape, South Africa",
+      "location": {
+        "label": "Botterkraal, Prince Albert, Western Cape, South Africa",
+        "placeName": "Botterkraal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prince Albert",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3115,
+      1257
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3116,
+      3117,
+      3118,
+      3119,
+      3120,
+      3121,
+      3122,
+      3123,
+      3125,
+      3126
+    ],
+    "parentUnions": [
+      "F772"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3115,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 1257,
+        "unionId": "F772",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000045387884412@",
+    "geniId": "6000000045387884412",
+    "rfn": "geni:6000000045387884412",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3124/",
+    "canonical": "https://www.genepedia.org/people/3124/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

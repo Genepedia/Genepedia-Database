@@ -1,0 +1,154 @@
+{
+  "id": 397,
+  "schema": "genepedia/person@1",
+  "slug": "willem-johannes-hermanus-de-koker",
+  "names": {
+    "display": "Willem Johannes Hermanus De Koker",
+    "given": "Willem Johannes Hermanus",
+    "surname": "De Koker",
+    "married": "de Koker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 NOV 1919",
+      "year": 1919,
+      "iso": "1919-11-05",
+      "precision": "exact",
+      "display": "November 5, 1919",
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "5 JUL 1978",
+      "year": 1978,
+      "iso": "1978-07-05",
+      "precision": "exact",
+      "display": "July 5, 1978",
+      "place": null
+    },
+    "baptism": {
+      "date": "4 MAY 1920",
+      "year": 1920,
+      "iso": "1920-05-04",
+      "precision": "exact",
+      "display": "May 4, 1920",
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      974,
+      975
+    ],
+    "spouses": [
+      145
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      976,
+      977,
+      978,
+      979,
+      980,
+      981,
+      982
+    ],
+    "parentUnions": [
+      "F267"
+    ],
+    "spouseUnions": [
+      "F123"
+    ],
+    "parentLinks": [
+      {
+        "id": 974,
+        "unionId": "F267",
+        "type": "biological"
+      },
+      {
+        "id": 975,
+        "unionId": "F267",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 145,
+        "unionId": "F123",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028171040841@",
+    "geniId": "6000000028171040841",
+    "rfn": "geni:6000000028171040841",
+    "changed": "16 OCT 2025"
+  },
+  "page": {
+    "route": "people/397/",
+    "canonical": "https://www.genepedia.org/people/397/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

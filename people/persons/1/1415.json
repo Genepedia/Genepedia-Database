@@ -1,0 +1,181 @@
+{
+  "id": 1415,
+  "schema": "genepedia/person@1",
+  "slug": "jan-antonie-de-beer",
+  "names": {
+    "display": "Jan Antonie de Beer",
+    "given": "Jan Antonie",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 AUG 1922",
+      "year": 1922,
+      "iso": "1922-08-25",
+      "precision": "exact",
+      "display": "August 25, 1922",
+      "place": "Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Calvinia, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "22 DEC 1987",
+      "year": 1987,
+      "iso": "1987-12-22",
+      "precision": "exact",
+      "display": "December 22, 1987",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kuilsrivier, Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Kuilsrivier, Cape Town, Western Cape, South Africa",
+        "placeName": "Kuilsrivier",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      573,
+      1410
+    ],
+    "spouses": [
+      3700
+    ],
+    "exSpouses": [],
+    "children": [
+      3701,
+      3702,
+      3703
+    ],
+    "siblings": [
+      1411,
+      1412,
+      1413,
+      1414,
+      1416,
+      1417,
+      1418,
+      1419,
+      1420,
+      1421,
+      1422,
+      1423,
+      1424
+    ],
+    "parentUnions": [
+      "F362"
+    ],
+    "spouseUnions": [
+      "F887"
+    ],
+    "parentLinks": [
+      {
+        "id": 573,
+        "unionId": "F362",
+        "type": "biological"
+      },
+      {
+        "id": 1410,
+        "unionId": "F362",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3700,
+        "unionId": "F887",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3701,
+        "unionId": "F887",
+        "type": "biological"
+      },
+      {
+        "id": 3702,
+        "unionId": "F887",
+        "type": "biological"
+      },
+      {
+        "id": 3703,
+        "unionId": "F887",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000038285753324@",
+    "geniId": "6000000038285753324",
+    "rfn": "geni:6000000038285753324",
+    "changed": "29 OCT 2023"
+  },
+  "page": {
+    "route": "people/1415/",
+    "canonical": "https://www.genepedia.org/people/1415/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

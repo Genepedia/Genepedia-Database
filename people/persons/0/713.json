@@ -1,0 +1,111 @@
+{
+  "id": 713,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-corrie-van-der-merwe",
+  "names": {
+    "display": "Petrus Corrie van der Merwe",
+    "given": "Petrus Corrie",
+    "surname": "van der Merwe",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BET 1910 AND 1920",
+      "year": 1910,
+      "iso": "1920",
+      "precision": "exact",
+      "display": "1920",
+      "place": null
+    },
+    "death": {
+      "date": "1957",
+      "year": 1957,
+      "iso": "1957",
+      "precision": "exact",
+      "display": "1957",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      710,
+      711
+    ],
+    "spouses": [
+      1726
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      712,
+      285,
+      714
+    ],
+    "parentUnions": [
+      "F201"
+    ],
+    "spouseUnions": [
+      "F452"
+    ],
+    "parentLinks": [
+      {
+        "id": 710,
+        "unionId": "F201",
+        "type": "biological"
+      },
+      {
+        "id": 711,
+        "unionId": "F201",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1726,
+        "unionId": "F452",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041001637045@",
+    "geniId": "6000000041001637045",
+    "rfn": "geni:6000000041001637045",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/713/",
+    "canonical": "https://www.genepedia.org/people/713/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

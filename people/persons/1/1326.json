@@ -1,0 +1,169 @@
+{
+  "id": 1326,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-christina-elizabeth-brynard-herbert",
+  "names": {
+    "display": "Johanna Christina Elizabeth Brynard Herbert",
+    "given": "Johanna Christina Elizabeth Brynard",
+    "surname": "Herbert",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 JUL 1907",
+      "year": 1907,
+      "iso": "1907-07-03",
+      "precision": "exact",
+      "display": "July 3, 1907",
+      "place": null
+    },
+    "death": {
+      "date": "30 NOV 1990",
+      "year": 1990,
+      "iso": "1990-11-30",
+      "precision": "exact",
+      "display": "November 30, 1990",
+      "place": "Kleinmond, Western Cape, South Africa",
+      "location": {
+        "label": "Kleinmond, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kleinmond",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kleinmond, Western Cape, South Africa",
+      "location": {
+        "label": "Kleinmond, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kleinmond",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/79/01/cd/4d/5344483cd827be68/duc92dex_original.jpg?hash=c58ba079c25e30ddff7e24c3c84ba9a0e259f7c2636636ed8f5fa25e2d5646ec.1789455599",
+      "alt": "Johanna Christina Elizabeth Brynard Herbert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/79/01/cd/4d/5344483cd827be68/duc92dex_original.jpg?hash=c58ba079c25e30ddff7e24c3c84ba9a0e259f7c2636636ed8f5fa25e2d5646ec.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      544
+    ],
+    "exSpouses": [],
+    "children": [
+      1327,
+      1328,
+      1329,
+      1330
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F342"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 544,
+        "unionId": "F342",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1327,
+        "unionId": "F342",
+        "type": "biological"
+      },
+      {
+        "id": 1328,
+        "unionId": "F342",
+        "type": "biological"
+      },
+      {
+        "id": 1329,
+        "unionId": "F342",
+        "type": "biological"
+      },
+      {
+        "id": 1330,
+        "unionId": "F342",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020386583099@",
+    "geniId": "6000000020386583099",
+    "rfn": "geni:6000000020386583099",
+    "changed": "27 APR 2020"
+  },
+  "page": {
+    "route": "people/1326/",
+    "canonical": "https://www.genepedia.org/people/1326/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

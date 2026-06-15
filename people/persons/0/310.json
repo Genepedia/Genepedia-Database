@@ -1,0 +1,159 @@
+{
+  "id": 310,
+  "schema": "genepedia/person@1",
+  "slug": "michael-van-bosch",
+  "names": {
+    "display": "Michael van Bosch",
+    "given": "Michael",
+    "surname": "van Bosch",
+    "married": "van Bosch",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 SEP 1979",
+      "year": 1979,
+      "iso": "1979-09-24",
+      "precision": "exact",
+      "display": "September 24, 1979",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 MAY 2017",
+      "year": 2017,
+      "iso": "2017-05-20",
+      "precision": "exact",
+      "display": "May 20, 2017",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Bainsvlei Cemetery, Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bainsvlei Cemetery, Bloemfontein, Free-State, South Africa",
+        "placeName": "Bainsvlei Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/a6/53/19/5f/53444866423ef5fd/18528023_1913193978970060_7851778443259702543_n_original.jpg?hash=474ed221ce692748185adac6ade0925a9400c129a14f48d6daf86d7ec707d39b.1789455599",
+      "alt": "Michael van Bosch"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/a6/53/19/5f/53444866423ef5fd/18528023_1913193978970060_7851778443259702543_n_original.jpg?hash=474ed221ce692748185adac6ade0925a9400c129a14f48d6daf86d7ec707d39b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/56/9b/72/0a/534448664197c152/download_original.jpg?hash=8edeade8bdcc775b6bcbcbb15e7363336fb8341b2eb21db1e12e7b989957987d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      309,
+      114
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      311,
+      312
+    ],
+    "parentUnions": [
+      "F100"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 309,
+        "unionId": "F100",
+        "type": "biological"
+      },
+      {
+        "id": 114,
+        "unionId": "F100",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204050724825@",
+    "geniId": "6000000204050724825",
+    "rfn": "geni:6000000204050724825",
+    "changed": "25 JUL 2024"
+  },
+  "page": {
+    "route": "people/310/",
+    "canonical": "https://www.genepedia.org/people/310/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

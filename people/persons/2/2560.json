@@ -1,0 +1,119 @@
+{
+  "id": 2560,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-johannes-fourie-2560",
+  "names": {
+    "display": "Abraham Johannes Fourie",
+    "given": "Abraham Johannes",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 APR 1913",
+      "year": 1913,
+      "iso": "1913-04-16",
+      "precision": "exact",
+      "display": "April 16, 1913",
+      "place": null
+    },
+    "death": {
+      "date": "3 JUN 2003",
+      "year": 2003,
+      "iso": "2003-06-03",
+      "precision": "exact",
+      "display": "June 3, 2003",
+      "place": "Edenburg, FS, South Africa",
+      "location": {
+        "label": "Edenburg, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Edenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1047,
+      2557
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2558,
+      2559
+    ],
+    "parentUnions": [
+      "F636"
+    ],
+    "spouseUnions": [
+      "F1567",
+      "F1568"
+    ],
+    "parentLinks": [
+      {
+        "id": 1047,
+        "unionId": "F636",
+        "type": "biological"
+      },
+      {
+        "id": 2557,
+        "unionId": "F636",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000174437380343@",
+    "geniId": "6000000174437380343",
+    "rfn": "geni:6000000174437380343",
+    "changed": "11 APR 2021"
+  },
+  "page": {
+    "route": "people/2560/",
+    "canonical": "https://www.genepedia.org/people/2560/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,158 @@
+{
+  "id": 141,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-roselt",
+  "names": {
+    "display": "Pieter Andries Roselt",
+    "given": "Pieter Andries",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 SEP 1917",
+      "year": 1917,
+      "iso": "1917-09-06",
+      "precision": "exact",
+      "display": "September 6, 1917",
+      "place": null
+    },
+    "death": {
+      "date": "23 JUN 1938",
+      "year": 1938,
+      "iso": "1938-06-23",
+      "precision": "exact",
+      "display": "June 23, 1938",
+      "place": "General Hospital, Johannesburg",
+      "location": {
+        "label": "General Hospital, Johannesburg",
+        "placeName": "General Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "14 OCT 1917",
+      "year": 1917,
+      "iso": "1917-10-14",
+      "precision": "exact",
+      "display": "October 14, 1917",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Learner underground miner - Crown Mines",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ce/7e/af/8b/534448656f42a1d6/image_original.jpg?hash=92f51b6eb821c12c87154346175f42cf728697aae9a1158518ee0ee954e2244f.1789455599",
+      "alt": "Pieter Andries Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ce/7e/af/8b/534448656f42a1d6/image_original.jpg?hash=92f51b6eb821c12c87154346175f42cf728697aae9a1158518ee0ee954e2244f.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      138,
+      139
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      140,
+      142,
+      143,
+      144,
+      145,
+      40,
+      146,
+      147,
+      148
+    ],
+    "parentUnions": [
+      "F47"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 138,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 139,
+        "unionId": "F47",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165929850@",
+    "geniId": "6000000028165929850",
+    "rfn": "geni:6000000028165929850",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/141/",
+    "canonical": "https://www.genepedia.org/people/141/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

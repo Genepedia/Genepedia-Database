@@ -1,0 +1,204 @@
+{
+  "id": 1079,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobus-kotze",
+  "names": {
+    "display": "Daniel Jacobus Kotze",
+    "given": "Daniel Jacobus",
+    "surname": "Kotze",
+    "married": "Kotze",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JUL 1875",
+      "year": 1875,
+      "iso": "1875-07-22",
+      "precision": "exact",
+      "display": "July 22, 1875",
+      "place": "Hopetown",
+      "location": {
+        "label": "Hopetown",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "7 NOV 1968",
+      "year": 1968,
+      "iso": "1968-11-07",
+      "precision": "exact",
+      "display": "November 7, 1968",
+      "place": null
+    },
+    "baptism": {
+      "date": "7 APR 1876",
+      "year": 1876,
+      "iso": "1876-04-07",
+      "precision": "exact",
+      "display": "April 7, 1876",
+      "place": "Hopetown",
+      "location": {
+        "label": "Hopetown",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/4a/0a/35/c6/53444862f6db46cd/record-image__original.jpg?hash=ba3d43f0838c9a6e2c6221031ea145bb2196435e73a213e4c4f567d45491e613.1789455599",
+      "alt": "Daniel Jacobus Kotze"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/4a/0a/35/c6/53444862f6db46cd/record-image__original.jpg?hash=ba3d43f0838c9a6e2c6221031ea145bb2196435e73a213e4c4f567d45491e613.1789455599",
+        "form": "",
+        "title": "record-image_trou 1896 .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/e5/74/21/0c/534448695ff3bebc/image_original.jpg?hash=a29de91835d492d7dfb69887552b2d065ef3fe1282f12d4fe5cdaec039a10d18.1789455599",
+        "form": "",
+        "title": "image - doop .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1075,
+      431
+    ],
+    "spouses": [
+      2689
+    ],
+    "exSpouses": [],
+    "children": [
+      2690,
+      2691,
+      2692,
+      2693
+    ],
+    "siblings": [
+      1076,
+      1077,
+      1078,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1087,
+      1088
+    ],
+    "parentUnions": [
+      "F287"
+    ],
+    "spouseUnions": [
+      "F659"
+    ],
+    "parentLinks": [
+      {
+        "id": 1075,
+        "unionId": "F287",
+        "type": "biological"
+      },
+      {
+        "id": 431,
+        "unionId": "F287",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2689,
+        "unionId": "F659",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2690,
+        "unionId": "F659",
+        "type": "biological"
+      },
+      {
+        "id": 2691,
+        "unionId": "F659",
+        "type": "biological"
+      },
+      {
+        "id": 2692,
+        "unionId": "F659",
+        "type": "biological"
+      },
+      {
+        "id": 2693,
+        "unionId": "F659",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000052625816842@",
+    "geniId": "6000000052625816842",
+    "rfn": "geni:6000000052625816842",
+    "changed": "03 SEP 2025"
+  },
+  "page": {
+    "route": "people/1079/",
+    "canonical": "https://www.genepedia.org/people/1079/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

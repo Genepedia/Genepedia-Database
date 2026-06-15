@@ -1,0 +1,145 @@
+{
+  "id": 269,
+  "schema": "genepedia/person@1",
+  "slug": "frank-alan-cooper",
+  "names": {
+    "display": "Frank Alan Cooper",
+    "given": "Frank Alan",
+    "surname": "Cooper",
+    "married": "Cooper",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/1a/69/0a/5c/5344486641a584e8/screenshot_2024-07-24_223718_original.jpg?hash=403ecd1ef62cc788ca0571ec867419254d9a6f2955b5c31a00767db8d832bac8.1789455599",
+      "alt": "Frank Alan Cooper"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/1a/69/0a/5c/5344486641a584e8/screenshot_2024-07-24_223718_original.jpg?hash=403ecd1ef62cc788ca0571ec867419254d9a6f2955b5c31a00767db8d832bac8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/63/4d/e5/b6/53444866dbf26764/meilhon_cooper_marr_20_sept_1941_gladys_mary_19_b1922_frank_alan_24_b_1917_a_firniture_maker_durban_south_africa_original.jpg?hash=db8ef85a905e439b6c5689edd0d6e76bfab10784489c47c6895c398597bcf5b4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/2f/e9/9d/d3/5344486641a3f651/screenshot_2024-07-24_222354_original.jpg?hash=2835434cf1c70b9b0229fa567604c235357257e4969675516b199e71390c6eeb.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      688,
+      687
+    ],
+    "spouses": [
+      268
+    ],
+    "exSpouses": [],
+    "children": [
+      270,
+      271,
+      101,
+      272
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F192"
+    ],
+    "spouseUnions": [
+      "F87"
+    ],
+    "parentLinks": [
+      {
+        "id": 688,
+        "unionId": "F192",
+        "type": "biological"
+      },
+      {
+        "id": 687,
+        "unionId": "F192",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 268,
+        "unionId": "F87",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 270,
+        "unionId": "F87",
+        "type": "biological"
+      },
+      {
+        "id": 271,
+        "unionId": "F87",
+        "type": "biological"
+      },
+      {
+        "id": 101,
+        "unionId": "F87",
+        "type": "biological"
+      },
+      {
+        "id": 272,
+        "unionId": "F87",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207589291840@",
+    "geniId": "6000000207589291840",
+    "rfn": "geni:6000000207589291840",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/269/",
+    "canonical": "https://www.genepedia.org/people/269/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

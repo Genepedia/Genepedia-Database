@@ -1,0 +1,77 @@
+{
+  "id": 3180,
+  "schema": "genepedia/person@1",
+  "slug": "le-roux-3180",
+  "names": {
+    "display": "? Le Roux",
+    "given": "?",
+    "surname": "Le Roux",
+    "married": "Le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      1275
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F781"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 1275,
+        "unionId": "F781",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208126960851@",
+    "geniId": "6000000208126960851",
+    "rfn": "geni:6000000208126960851",
+    "changed": "13 AUG 2024"
+  },
+  "page": {
+    "route": "people/3180/",
+    "canonical": "https://www.genepedia.org/people/3180/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

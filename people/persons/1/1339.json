@@ -1,0 +1,160 @@
+{
+  "id": 1339,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-jacobus-van-niekerk",
+  "names": {
+    "display": "Dirk Jacobus van Niekerk",
+    "given": "Dirk Jacobus",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1866",
+      "year": 1866,
+      "iso": "1866",
+      "precision": "about",
+      "display": "about 1866",
+      "place": "Ceres, WC, South Africa",
+      "location": {
+        "label": "Ceres, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ceres",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 JAN 1901",
+      "year": 1901,
+      "iso": "1901-01-17",
+      "precision": "exact",
+      "display": "January 17, 1901",
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1336,
+      1335
+    ],
+    "spouses": [
+      3406
+    ],
+    "exSpouses": [],
+    "children": [
+      3407,
+      3408
+    ],
+    "siblings": [
+      1337,
+      1338,
+      546,
+      1340,
+      1341,
+      1342
+    ],
+    "parentUnions": [
+      "F345"
+    ],
+    "spouseUnions": [
+      "F835"
+    ],
+    "parentLinks": [
+      {
+        "id": 1336,
+        "unionId": "F345",
+        "type": "biological"
+      },
+      {
+        "id": 1335,
+        "unionId": "F345",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3406,
+        "unionId": "F835",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3407,
+        "unionId": "F835",
+        "type": "biological"
+      },
+      {
+        "id": 3408,
+        "unionId": "F835",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000074401428821@",
+    "geniId": "6000000074401428821",
+    "rfn": "geni:6000000074401428821",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/1339/",
+    "canonical": "https://www.genepedia.org/people/1339/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

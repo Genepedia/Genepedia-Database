@@ -1,0 +1,236 @@
+{
+  "id": 895,
+  "schema": "genepedia/person@1",
+  "slug": "john-gotlieb-sinden",
+  "names": {
+    "display": "John Gotlieb Sinden",
+    "given": "John Gotlieb",
+    "surname": "Sinden",
+    "married": "Sinden",
+    "nick": "Jan Gotliep Sinden",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 SEP 1863",
+      "year": 1863,
+      "iso": "1863-09-01",
+      "precision": "exact",
+      "display": "September 1, 1863",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "20 SEP 1863",
+      "year": 1863,
+      "iso": "1863-09-20",
+      "precision": "exact",
+      "display": "September 20, 1863",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Digger/Delwer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/53/0e/b2/91/5344483ca3792eb4/kun98cag_original.jpg?hash=a681ce6a472611bf6b05d744feef2e9c25bb6b71d17784cb53690697e1d6273b.1789455599",
+      "alt": "John Gotlieb Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/53/0e/b2/91/5344483ca3792eb4/kun98cag_original.jpg?hash=a681ce6a472611bf6b05d744feef2e9c25bb6b71d17784cb53690697e1d6273b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      887,
+      886
+    ],
+    "spouses": [
+      2173
+    ],
+    "exSpouses": [],
+    "children": [
+      2174,
+      2175,
+      2176,
+      2177,
+      2178,
+      2179,
+      2180,
+      2181,
+      2182,
+      2183,
+      2184,
+      2185
+    ],
+    "siblings": [
+      888,
+      889,
+      890,
+      891,
+      892,
+      893,
+      894,
+      896,
+      897,
+      369
+    ],
+    "parentUnions": [
+      "F250"
+    ],
+    "spouseUnions": [
+      "F557"
+    ],
+    "parentLinks": [
+      {
+        "id": 887,
+        "unionId": "F250",
+        "type": "biological"
+      },
+      {
+        "id": 886,
+        "unionId": "F250",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2173,
+        "unionId": "F557",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2174,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2175,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2176,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2177,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2178,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2179,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2180,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2181,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2182,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2183,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2184,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2185,
+        "unionId": "F557",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028063968291@",
+    "geniId": "6000000028063968291",
+    "rfn": "geni:6000000028063968291",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/895/",
+    "canonical": "https://www.genepedia.org/people/895/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

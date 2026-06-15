@@ -1,0 +1,142 @@
+{
+  "id": 1090,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-susanna-fourie-1090",
+  "names": {
+    "display": "Johanna Susanna Fourie",
+    "given": "Johanna Susanna",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 FEB 1880",
+      "year": 1880,
+      "iso": "1880-02-29",
+      "precision": "exact",
+      "display": "February 29, 1880",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "Hopetown, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 AUG 1944",
+      "year": 1944,
+      "iso": "1944-08-23",
+      "precision": "exact",
+      "display": "August 23, 1944",
+      "place": "Nooitgedacht, Niekerkshoop, Northern Cape, South Africa",
+      "location": {
+        "label": "Nooitgedacht, Niekerkshoop, Northern Cape, South Africa",
+        "placeName": "Nooitgedacht, Niekerkshoop, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      432,
+      1089
+    ],
+    "spouses": [
+      2711
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1091,
+      1092
+    ],
+    "parentUnions": [
+      "F288"
+    ],
+    "spouseUnions": [
+      "F667"
+    ],
+    "parentLinks": [
+      {
+        "id": 432,
+        "unionId": "F288",
+        "type": "biological"
+      },
+      {
+        "id": 1089,
+        "unionId": "F288",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2711,
+        "unionId": "F667",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026998196344@",
+    "geniId": "6000000026998196344",
+    "rfn": "geni:6000000026998196344",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/1090/",
+    "canonical": "https://www.genepedia.org/people/1090/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

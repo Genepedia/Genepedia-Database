@@ -1,0 +1,94 @@
+{
+  "id": 2705,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-maria-kotze-2705",
+  "names": {
+    "display": "Susanna Maria Kotze",
+    "given": "Susanna Maria",
+    "surname": "Kotze",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1919",
+      "year": 1919,
+      "iso": "1919",
+      "precision": "exact",
+      "display": "1919",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1088,
+      2704
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2706
+    ],
+    "parentUnions": [
+      "F665"
+    ],
+    "spouseUnions": [
+      "F1673"
+    ],
+    "parentLinks": [
+      {
+        "id": 1088,
+        "unionId": "F665",
+        "type": "biological"
+      },
+      {
+        "id": 2704,
+        "unionId": "F665",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000221031277875@",
+    "geniId": "6000000221031277875",
+    "rfn": "geni:6000000221031277875",
+    "changed": "01 SEP 2025"
+  },
+  "page": {
+    "route": "people/2705/",
+    "canonical": "https://www.genepedia.org/people/2705/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

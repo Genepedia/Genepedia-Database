@@ -1,0 +1,152 @@
+{
+  "id": 3859,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-michiel-germishuysen",
+  "names": {
+    "display": "Johannes Michiel Germishuysen",
+    "given": "Johannes Michiel",
+    "surname": "Germishuysen",
+    "married": "Germushuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1798",
+      "year": 1798,
+      "iso": "1798",
+      "precision": "exact",
+      "display": "1798",
+      "place": null
+    },
+    "death": {
+      "date": "1898",
+      "year": 1898,
+      "iso": "1898",
+      "precision": "exact",
+      "display": "1898",
+      "place": null
+    },
+    "baptism": {
+      "date": "29 APR 1798",
+      "year": 1798,
+      "iso": "1798-04-29",
+      "precision": "exact",
+      "display": "April 29, 1798",
+      "place": "Paarl",
+      "location": {
+        "label": "Paarl",
+        "placeName": "Paarl",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3860
+    ],
+    "exSpouses": [],
+    "children": [
+      1522,
+      3861,
+      3862,
+      3863,
+      3864,
+      3865
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F917"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3860,
+        "unionId": "F917",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1522,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3861,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3862,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3863,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3864,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3865,
+        "unionId": "F917",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000006245305601@",
+    "geniId": "6000000006245305601",
+    "rfn": "geni:6000000006245305601",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3859/",
+    "canonical": "https://www.genepedia.org/people/3859/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

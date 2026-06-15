@@ -1,0 +1,85 @@
+{
+  "id": 3087,
+  "schema": "genepedia/person@1",
+  "slug": "kemp-3087",
+  "names": {
+    "display": "? Kemp",
+    "given": "?",
+    "surname": "Kemp",
+    "married": "Kemp",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3086
+    ],
+    "exSpouses": [],
+    "children": [
+      1234
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F761"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3086,
+        "unionId": "F761",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1234,
+        "unionId": "F761",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222122268853@",
+    "geniId": "6000000222122268853",
+    "rfn": "geni:6000000222122268853",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3087/",
+    "canonical": "https://www.genepedia.org/people/3087/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

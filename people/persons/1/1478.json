@@ -1,0 +1,77 @@
+{
+  "id": 1478,
+  "schema": "genepedia/person@1",
+  "slug": "maartens",
+  "names": {
+    "display": "? Maartens",
+    "given": "?",
+    "surname": "Maartens",
+    "married": "Maartens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      593
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F377"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 593,
+        "unionId": "F377",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587672882@",
+    "geniId": "6000000206587672882",
+    "rfn": "geni:6000000206587672882",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/1478/",
+    "canonical": "https://www.genepedia.org/people/1478/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

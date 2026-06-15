@@ -1,0 +1,144 @@
+{
+  "id": 46,
+  "schema": "genepedia/person@1",
+  "slug": "annalise-fourie",
+  "names": {
+    "display": "Annalise Fourie",
+    "given": "Annalise",
+    "surname": "Fourie",
+    "married": "Engelbrecht",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "ABT 23 MAR 1948",
+      "year": 1948,
+      "iso": "1948-03-23",
+      "precision": "about",
+      "display": "about March 23, 1948",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/80/a6/19/11/534448656e338b4d/1000108615_original.jpg?hash=c65e69caccde5f20095a9117c170216e828f0315a43c5fb0e7de969ec76b1def.1789455599",
+      "alt": "Annalise Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/80/a6/19/11/534448656e338b4d/1000108615_original.jpg?hash=c65e69caccde5f20095a9117c170216e828f0315a43c5fb0e7de969ec76b1def.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      45,
+      44
+    ],
+    "spouses": [
+      179
+    ],
+    "exSpouses": [],
+    "children": [
+      180,
+      181
+    ],
+    "siblings": [
+      7
+    ],
+    "parentUnions": [
+      "F15"
+    ],
+    "spouseUnions": [
+      "F53"
+    ],
+    "parentLinks": [
+      {
+        "id": 45,
+        "unionId": "F15",
+        "type": "biological"
+      },
+      {
+        "id": 44,
+        "unionId": "F15",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 179,
+        "unionId": "F53",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 180,
+        "unionId": "F53",
+        "type": "biological"
+      },
+      {
+        "id": 181,
+        "unionId": "F53",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204032840822@",
+    "geniId": "6000000204032840822",
+    "rfn": "geni:6000000204032840822",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/46/",
+    "canonical": "https://www.genepedia.org/people/46/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

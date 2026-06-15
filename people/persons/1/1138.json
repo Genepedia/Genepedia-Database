@@ -1,0 +1,126 @@
+{
+  "id": 1138,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobus-koekemoer-1138",
+  "names": {
+    "display": "Daniel Jacobus Koekemoer",
+    "given": "Daniel Jacobus",
+    "surname": "Koekemoer",
+    "married": "Koekemoer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 FEB 1935",
+      "year": 1935,
+      "iso": "1935-02-18",
+      "precision": "exact",
+      "display": "February 18, 1935",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Getroud 1961-10-14",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1137,
+      443
+    ],
+    "spouses": [
+      2808
+    ],
+    "exSpouses": [],
+    "children": [
+      2809,
+      2810,
+      2811
+    ],
+    "siblings": [
+      1139,
+      1140,
+      1141,
+      1142,
+      1143
+    ],
+    "parentUnions": [
+      "F301"
+    ],
+    "spouseUnions": [
+      "F695"
+    ],
+    "parentLinks": [
+      {
+        "id": 1137,
+        "unionId": "F301",
+        "type": "biological"
+      },
+      {
+        "id": 443,
+        "unionId": "F301",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2808,
+        "unionId": "F695",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2809,
+        "unionId": "F695",
+        "type": "biological"
+      },
+      {
+        "id": 2810,
+        "unionId": "F695",
+        "type": "biological"
+      },
+      {
+        "id": 2811,
+        "unionId": "F695",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000006862796418@",
+    "geniId": "6000000006862796418",
+    "rfn": "geni:6000000006862796418",
+    "changed": "21 JUN 2016"
+  },
+  "page": {
+    "route": "people/1138/",
+    "canonical": "https://www.genepedia.org/people/1138/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

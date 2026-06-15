@@ -1,0 +1,148 @@
+{
+  "id": 746,
+  "schema": "genepedia/person@1",
+  "slug": "david-lurie-746",
+  "names": {
+    "display": "David Lurie",
+    "given": "David",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BET 7 JUN 1950 AND 27 JUN 1950",
+      "year": 1950,
+      "iso": "1950-06-07",
+      "precision": "exact",
+      "display": "June 7, 1950",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d3/0b/34/d0/534448656fb7cddf/285161654_2187429191426212_2634470981393565824_n_original.jpg?hash=6da6e17b769984a448bb05a865fea817328351b03f9f86b9ef2b7804d500fff3.1789455599",
+      "alt": "David Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d3/0b/34/d0/534448656fb7cddf/285161654_2187429191426212_2634470981393565824_n_original.jpg?hash=6da6e17b769984a448bb05a865fea817328351b03f9f86b9ef2b7804d500fff3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      300,
+      745
+    ],
+    "spouses": [
+      1785
+    ],
+    "exSpouses": [],
+    "children": [
+      1786,
+      1787
+    ],
+    "siblings": [
+      747,
+      748,
+      749,
+      750,
+      751
+    ],
+    "parentUnions": [
+      "F210"
+    ],
+    "spouseUnions": [
+      "F468"
+    ],
+    "parentLinks": [
+      {
+        "id": 300,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 745,
+        "unionId": "F210",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1785,
+        "unionId": "F468",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1786,
+        "unionId": "F468",
+        "type": "biological"
+      },
+      {
+        "id": 1787,
+        "unionId": "F468",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204067128835@",
+    "geniId": "6000000204067128835",
+    "rfn": "geni:6000000204067128835",
+    "changed": "01 OCT 2024"
+  },
+  "page": {
+    "route": "people/746/",
+    "canonical": "https://www.genepedia.org/people/746/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

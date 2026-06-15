@@ -1,0 +1,102 @@
+{
+  "id": 4960,
+  "schema": "genepedia/person@1",
+  "slug": "james-berry-minac-smith",
+  "names": {
+    "display": "James Berry Minac Smith",
+    "given": "James Berry Minac",
+    "surname": "Smith",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1916",
+      "year": 1916,
+      "iso": "1916",
+      "precision": "exact",
+      "display": "1916",
+      "place": null
+    },
+    "death": {
+      "date": "27 OCT 1918",
+      "year": 1918,
+      "iso": "1918-10-27",
+      "precision": "exact",
+      "display": "October 27, 1918",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4955,
+      1925
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4956,
+      4957,
+      4958,
+      4959
+    ],
+    "parentUnions": [
+      "F1176"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4955,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 1925,
+        "unionId": "F1176",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089491764891@",
+    "geniId": "6000000089491764891",
+    "rfn": "geni:6000000089491764891",
+    "changed": "19 MAR 2019"
+  },
+  "page": {
+    "route": "people/4960/",
+    "canonical": "https://www.genepedia.org/people/4960/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

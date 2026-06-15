@@ -1,0 +1,97 @@
+{
+  "id": 4706,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-johannes-burger-4706",
+  "names": {
+    "display": "Hendrik Johannes Burger",
+    "given": "Hendrik Johannes",
+    "surname": "Burger",
+    "married": "Burger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 APR 1923",
+      "year": 1923,
+      "iso": "1923-04-10",
+      "precision": "exact",
+      "display": "April 10, 1923",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4702,
+      1869
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4703,
+      4704,
+      4705,
+      4707,
+      4708,
+      4709
+    ],
+    "parentUnions": [
+      "F1122"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4702,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 1869,
+        "unionId": "F1122",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066267626905@",
+    "geniId": "6000000066267626905",
+    "rfn": "geni:6000000066267626905",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/4706/",
+    "canonical": "https://www.genepedia.org/people/4706/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

@@ -1,0 +1,109 @@
+{
+  "id": 2260,
+  "schema": "genepedia/person@1",
+  "slug": "john-henry-cloete-2260",
+  "names": {
+    "display": "John Henry Cloete",
+    "given": "John Henry",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": [
+      "John"
+    ]
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Rustenburg, North West, South Africa",
+  "lastResidenceLocation": {
+    "label": "Rustenburg, North West, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Rustenburg",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "North West",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2257,
+      914
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2258,
+      2259,
+      2261,
+      2262,
+      2263
+    ],
+    "parentUnions": [
+      "F573"
+    ],
+    "spouseUnions": [
+      "F1403",
+      "F1404"
+    ],
+    "parentLinks": [
+      {
+        "id": 2257,
+        "unionId": "F573",
+        "type": "biological"
+      },
+      {
+        "id": 914,
+        "unionId": "F573",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020803898137@",
+    "geniId": "6000000020803898137",
+    "rfn": "geni:6000000020803898137",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2260/",
+    "canonical": "https://www.genepedia.org/people/2260/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

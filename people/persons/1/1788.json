@@ -1,0 +1,85 @@
+{
+  "id": 1788,
+  "schema": "genepedia/person@1",
+  "slug": "lurie-1788",
+  "names": {
+    "display": "? Lurie",
+    "given": "?",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      747
+    ],
+    "exSpouses": [],
+    "children": [
+      1789
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F469"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 747,
+        "unionId": "F469",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1789,
+        "unionId": "F469",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209506826847@",
+    "geniId": "6000000209506826847",
+    "rfn": "geni:6000000209506826847",
+    "changed": "01 OCT 2024"
+  },
+  "page": {
+    "route": "people/1788/",
+    "canonical": "https://www.genepedia.org/people/1788/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

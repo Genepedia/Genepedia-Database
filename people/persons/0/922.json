@@ -1,0 +1,213 @@
+{
+  "id": 922,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-andries-petrus-cloete",
+  "names": {
+    "display": "Johannes Andries Petrus Cloete",
+    "given": "Johannes Andries Petrus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 JUN 1894",
+      "year": 1894,
+      "iso": "1894-06-05",
+      "precision": "exact",
+      "display": "June 5, 1894",
+      "place": null
+    },
+    "death": {
+      "date": "23 JUN 1980",
+      "year": 1980,
+      "iso": "1980-06-23",
+      "precision": "exact",
+      "display": "June 23, 1980",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "2 SEP 1894",
+      "year": 1894,
+      "iso": "1894-09-02",
+      "precision": "exact",
+      "display": "September 2, 1894",
+      "place": null
+    },
+    "burial": {
+      "date": "1894",
+      "year": 1894,
+      "iso": "1894",
+      "precision": "exact",
+      "display": "1894",
+      "place": "Main Cemetry, Bulklands, Cape, South Africa",
+      "location": {
+        "label": "Main Cemetry, Bulklands, Cape, South Africa",
+        "placeName": "Main Cemetry",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bulklands",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/a6/08/af/ba/5344485da983962f/oupa_cloete_original.jpg?hash=cdf426006c14953c66ddcdcb70dec97f31700b0af26f62bc6fd71b21450336e7.1789455599",
+      "alt": "Johannes Andries Petrus Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/a6/08/af/ba/5344485da983962f/oupa_cloete_original.jpg?hash=cdf426006c14953c66ddcdcb70dec97f31700b0af26f62bc6fd71b21450336e7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/c0/10/f7/36/5344483ae8eb96ff/johannes_andries_petrus_cloete_original.jpg?hash=33aacb71495e2646291598bc942de9148e970b72285aecd30fc1faa41316ef4b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/ce/92/fc/6b/534448636033cc51/record-image__original.jpg?hash=6b1e189736f33e936901642a84f208a9f725b58c44e0061bc2e3bb9266f2de0d.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2297,
+      2296
+    ],
+    "spouses": [
+      374
+    ],
+    "exSpouses": [],
+    "children": [
+      923,
+      924,
+      925,
+      926
+    ],
+    "siblings": [
+      2298,
+      2299,
+      2300,
+      2301,
+      2302,
+      2303
+    ],
+    "parentUnions": [
+      "F584"
+    ],
+    "spouseUnions": [
+      "F256"
+    ],
+    "parentLinks": [
+      {
+        "id": 2297,
+        "unionId": "F584",
+        "type": "biological"
+      },
+      {
+        "id": 2296,
+        "unionId": "F584",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 374,
+        "unionId": "F256",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 923,
+        "unionId": "F256",
+        "type": "biological"
+      },
+      {
+        "id": 924,
+        "unionId": "F256",
+        "type": "biological"
+      },
+      {
+        "id": 925,
+        "unionId": "F256",
+        "type": "biological"
+      },
+      {
+        "id": 926,
+        "unionId": "F256",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002684014082@",
+    "geniId": "6000000002684014082",
+    "rfn": "geni:6000000002684014082",
+    "changed": "06 JUN 2023"
+  },
+  "page": {
+    "route": "people/922/",
+    "canonical": "https://www.genepedia.org/people/922/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

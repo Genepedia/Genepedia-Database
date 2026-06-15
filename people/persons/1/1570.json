@@ -1,0 +1,98 @@
+{
+  "id": 1570,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-johanna-cornelia-van-niekerk",
+  "names": {
+    "display": "Jacoba Johanna Cornelia van Niekerk",
+    "given": "Jacoba Johanna Cornelia",
+    "surname": "van Niekerk",
+    "married": "Vorster",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      631,
+      1567
+    ],
+    "spouses": [
+      4142
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1568,
+      1569,
+      1571,
+      1572
+    ],
+    "parentUnions": [
+      "F398"
+    ],
+    "spouseUnions": [
+      "F963"
+    ],
+    "parentLinks": [
+      {
+        "id": 631,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1567,
+        "unionId": "F398",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4142,
+        "unionId": "F963",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207553088857@",
+    "geniId": "6000000207553088857",
+    "rfn": "geni:6000000207553088857",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1570/",
+    "canonical": "https://www.genepedia.org/people/1570/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

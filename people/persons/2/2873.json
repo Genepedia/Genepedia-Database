@@ -1,0 +1,197 @@
+{
+  "id": 2873,
+  "schema": "genepedia/person@1",
+  "slug": "maria-margaretha-maritz-2873",
+  "names": {
+    "display": "Maria Margaretha Maritz",
+    "given": "Maria Margaretha",
+    "surname": "Maritz",
+    "married": "Kotze",
+    "nick": "Mieta",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 OCT 1826",
+      "year": 1826,
+      "iso": "1826-10-03",
+      "precision": "exact",
+      "display": "October 3, 1826",
+      "place": "Worcester, Cape Province, South Africa",
+      "location": {
+        "label": "Worcester, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 APR 1899",
+      "year": 1899,
+      "iso": "1899-04-23",
+      "precision": "exact",
+      "display": "April 23, 1899",
+      "place": "Warrenton, Cape Province, South Africa",
+      "location": {
+        "label": "Warrenton, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Warrenton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "8 SEP 1828",
+      "year": 1828,
+      "iso": "1828-09-08",
+      "precision": "exact",
+      "display": "September 8, 1828",
+      "place": "Worcester, Cape Province, South Africa",
+      "location": {
+        "label": "Worcester, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/81/8d/1f/12/5344485ef06c6245/famnea_volume_9_edition_2_published_may_1812_original.pdf?hash=8c633b743694a84bcac9226faf90d3cc9632d08291fad57b4d90499ea7f2aa0d.1789455599",
+      "alt": "Maria Margaretha Maritz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/81/8d/1f/12/5344485ef06c6245/famnea_volume_9_edition_2_published_may_1812_original.pdf?hash=8c633b743694a84bcac9226faf90d3cc9632d08291fad57b4d90499ea7f2aa0d.1789455599",
+        "form": "",
+        "title": "Famnea volume 9 Edition 2 published May 1912.pdf",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2869,
+      2868
+    ],
+    "spouses": [
+      1541
+    ],
+    "exSpouses": [],
+    "children": [
+      4028,
+      4029
+    ],
+    "siblings": [
+      2870,
+      1153,
+      2871,
+      2872,
+      2874,
+      2875,
+      2876
+    ],
+    "parentUnions": [
+      "F709"
+    ],
+    "spouseUnions": [
+      "F938",
+      "F1784"
+    ],
+    "parentLinks": [
+      {
+        "id": 2869,
+        "unionId": "F709",
+        "type": "biological"
+      },
+      {
+        "id": 2868,
+        "unionId": "F709",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1541,
+        "unionId": "F938",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4028,
+        "unionId": "F938",
+        "type": "biological"
+      },
+      {
+        "id": 4029,
+        "unionId": "F938",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000021686642021@",
+    "geniId": "6000000021686642021",
+    "rfn": "geni:6000000021686642021",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2873/",
+    "canonical": "https://www.genepedia.org/people/2873/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

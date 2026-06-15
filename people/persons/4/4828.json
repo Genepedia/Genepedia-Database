@@ -1,0 +1,85 @@
+{
+  "id": 4828,
+  "schema": "genepedia/person@1",
+  "slug": "willem-alwyn-jansen-van-rensburg",
+  "names": {
+    "display": "Willem Alwyn Jansen van Rensburg",
+    "given": "Willem Alwyn",
+    "surname": "Jansen van Rensburg",
+    "married": "Jansen van Rensburg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4829
+    ],
+    "exSpouses": [],
+    "children": [
+      1898
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1148"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4829,
+        "unionId": "F1148",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1898,
+        "unionId": "F1148",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000201956274833@",
+    "geniId": "6000000201956274833",
+    "rfn": "geni:6000000201956274833",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/4828/",
+    "canonical": "https://www.genepedia.org/people/4828/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

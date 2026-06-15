@@ -1,0 +1,89 @@
+{
+  "id": 1499,
+  "schema": "genepedia/person@1",
+  "slug": "van-zyl-1499",
+  "names": {
+    "display": "? van Zyl",
+    "given": "?",
+    "surname": "van Zyl",
+    "married": "van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1494,
+      1495
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      602,
+      1496,
+      1497,
+      1498,
+      1500
+    ],
+    "parentUnions": [
+      "F383"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1494,
+        "unionId": "F383",
+        "type": "biological"
+      },
+      {
+        "id": 1495,
+        "unionId": "F383",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587450876@",
+    "geniId": "6000000206587450876",
+    "rfn": "geni:6000000206587450876",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/1499/",
+    "canonical": "https://www.genepedia.org/people/1499/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

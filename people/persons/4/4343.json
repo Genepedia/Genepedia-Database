@@ -1,0 +1,86 @@
+{
+  "id": 4343,
+  "schema": "genepedia/person@1",
+  "slug": "john-edgar-edgar-nicholas",
+  "names": {
+    "display": "John Edgar Edgar Nicholas",
+    "given": "John Edgar Edgar",
+    "surname": "Nicholas",
+    "married": "Nicholas",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1670,
+      4342
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4344,
+      4345
+    ],
+    "parentUnions": [
+      "F1025"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1670,
+        "unionId": "F1025",
+        "type": "biological"
+      },
+      {
+        "id": 4342,
+        "unionId": "F1025",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I3944048649880043077@",
+    "geniId": "3944048649880043077",
+    "rfn": "geni:3944048649880043077",
+    "changed": "12 APR 2023"
+  },
+  "page": {
+    "route": "people/4343/",
+    "canonical": "https://www.genepedia.org/people/4343/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

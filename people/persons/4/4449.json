@@ -1,0 +1,115 @@
+{
+  "id": 4449,
+  "schema": "genepedia/person@1",
+  "slug": "rafel-abram-lurie",
+  "names": {
+    "display": "Rafel Abram Lurie",
+    "given": "Rafel Abram",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "Raphael",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1843",
+      "year": 1843,
+      "iso": "1843",
+      "precision": "about",
+      "display": "about 1843",
+      "place": "Lithuania",
+      "location": {
+        "label": "Lithuania",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "AFT 27 MAY 1858",
+      "year": 1858,
+      "iso": "1858-05-27",
+      "precision": "after",
+      "display": "after May 27, 1858",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4447,
+      4448
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1742
+    ],
+    "parentUnions": [
+      "F1054"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4447,
+        "unionId": "F1054",
+        "type": "biological"
+      },
+      {
+        "id": 4448,
+        "unionId": "F1054",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000209312596824@",
+    "geniId": "6000000209312596824",
+    "rfn": "geni:6000000209312596824",
+    "changed": "06 FEB 2025"
+  },
+  "page": {
+    "route": "people/4449/",
+    "canonical": "https://www.genepedia.org/people/4449/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

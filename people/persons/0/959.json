@@ -1,0 +1,117 @@
+{
+  "id": 959,
+  "schema": "genepedia/person@1",
+  "slug": "lea-sophia-cloete",
+  "names": {
+    "display": "Lea Sophia Cloete",
+    "given": "Lea Sophia",
+    "surname": "Cloete",
+    "married": "de Klerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1871",
+      "year": 1871,
+      "iso": "1871",
+      "precision": "exact",
+      "display": "1871",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      954,
+      955
+    ],
+    "spouses": [
+      2397
+    ],
+    "exSpouses": [],
+    "children": [
+      2398
+    ],
+    "siblings": [
+      382,
+      956,
+      957,
+      958,
+      960,
+      961,
+      962,
+      963
+    ],
+    "parentUnions": [
+      "F262"
+    ],
+    "spouseUnions": [
+      "F604"
+    ],
+    "parentLinks": [
+      {
+        "id": 954,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 955,
+        "unionId": "F262",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2397,
+        "unionId": "F604",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2398,
+        "unionId": "F604",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000186790293825@",
+    "geniId": "6000000186790293825",
+    "rfn": "geni:6000000186790293825",
+    "changed": "27 AUG 2022"
+  },
+  "page": {
+    "route": "people/959/",
+    "canonical": "https://www.genepedia.org/people/959/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

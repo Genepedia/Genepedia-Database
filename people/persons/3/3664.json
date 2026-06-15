@@ -1,0 +1,127 @@
+{
+  "id": 3664,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-hendrik-steyn",
+  "names": {
+    "display": "Gabriel Hendrik Steyn",
+    "given": "Gabriel Hendrik",
+    "surname": "Steyn",
+    "married": "Steyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 APR 1906",
+      "year": 1906,
+      "iso": "1906-04-10",
+      "precision": "exact",
+      "display": "April 10, 1906",
+      "place": null
+    },
+    "death": {
+      "date": "19 APR 1987",
+      "year": 1987,
+      "iso": "1987-04-19",
+      "precision": "exact",
+      "display": "April 19, 1987",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Malmesbury, Western Cape, South Africa",
+      "location": {
+        "label": "Malmesbury, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Malmesbury",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/2e/7a/a3/8f/5344483ed5e783ff/steyn_gabriel_hendrik_en_johanna_e_original.jpg?hash=1b0aefc3efbfd137b06a8ca75371150df433f7da080b769d500737898a43a887.1789455599",
+      "alt": "Gabriel Hendrik Steyn"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/2e/7a/a3/8f/5344483ed5e783ff/steyn_gabriel_hendrik_en_johanna_e_original.jpg?hash=1b0aefc3efbfd137b06a8ca75371150df433f7da080b769d500737898a43a887.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1408
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F881"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1408,
+        "unionId": "F881",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000038278251044@",
+    "geniId": "6000000038278251044",
+    "rfn": "geni:6000000038278251044",
+    "changed": "30 NOV 2015"
+  },
+  "page": {
+    "route": "people/3664/",
+    "canonical": "https://www.genepedia.org/people/3664/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

@@ -1,0 +1,134 @@
+{
+  "id": 2146,
+  "schema": "genepedia/person@1",
+  "slug": "sarah-johanna-sinden",
+  "names": {
+    "display": "Sarah Johanna Sinden",
+    "given": "Sarah Johanna",
+    "surname": "Sinden",
+    "married": "Balie",
+    "nick": "Susara",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 MAR 1829",
+      "year": 1829,
+      "iso": "1829-03-31",
+      "precision": "exact",
+      "display": "March 31, 1829",
+      "place": null
+    },
+    "death": {
+      "date": "13 SEP 1874",
+      "year": 1874,
+      "iso": "1874-09-13",
+      "precision": "exact",
+      "display": "September 13, 1874",
+      "place": null
+    },
+    "baptism": {
+      "date": "3 MAY 1829",
+      "year": 1829,
+      "iso": "1829-05-03",
+      "precision": "exact",
+      "display": "May 3, 1829",
+      "place": "Paarl, Cape Colony, South Africa",
+      "location": {
+        "label": "Paarl, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2136,
+      2137
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2138,
+      2139,
+      2140,
+      2141,
+      2142,
+      887,
+      2143,
+      2144,
+      2145,
+      2147,
+      2148
+    ],
+    "parentUnions": [
+      "F554"
+    ],
+    "spouseUnions": [
+      "F1322"
+    ],
+    "parentLinks": [
+      {
+        "id": 2136,
+        "unionId": "F554",
+        "type": "biological"
+      },
+      {
+        "id": 2137,
+        "unionId": "F554",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028063841511@",
+    "geniId": "6000000028063841511",
+    "rfn": "geni:6000000028063841511",
+    "changed": "07 SEP 2023"
+  },
+  "page": {
+    "route": "people/2146/",
+    "canonical": "https://www.genepedia.org/people/2146/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

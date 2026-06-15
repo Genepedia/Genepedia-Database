@@ -1,0 +1,127 @@
+{
+  "id": 149,
+  "schema": "genepedia/person@1",
+  "slug": "ronel-barnard",
+  "names": {
+    "display": "Ronel Barnard",
+    "given": "Ronel",
+    "surname": "Barnard",
+    "married": "Barnard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/80/85/21/79/5344486859cf3988/67879042_2536254536384637_8788106663665074176_n_original.jpg?hash=95c9cd0234d6706fdc04b002dbc0b80c70a15d9dc600bb30fb36aaaef05d465c.1789455599",
+      "alt": "Ronel Barnard"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/80/85/21/79/5344486859cf3988/67879042_2536254536384637_8788106663665074176_n_original.jpg?hash=95c9cd0234d6706fdc04b002dbc0b80c70a15d9dc600bb30fb36aaaef05d465c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      400,
+      401
+    ],
+    "spouses": [
+      41
+    ],
+    "exSpouses": [],
+    "children": [
+      150,
+      151,
+      152
+    ],
+    "siblings": [
+      402
+    ],
+    "parentUnions": [
+      "F126"
+    ],
+    "spouseUnions": [
+      "F48"
+    ],
+    "parentLinks": [
+      {
+        "id": 400,
+        "unionId": "F126",
+        "type": "biological"
+      },
+      {
+        "id": 401,
+        "unionId": "F126",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 41,
+        "unionId": "F48",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 150,
+        "unionId": "F48",
+        "type": "biological"
+      },
+      {
+        "id": 151,
+        "unionId": "F48",
+        "type": "biological"
+      },
+      {
+        "id": 152,
+        "unionId": "F48",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204902894857@",
+    "geniId": "6000000204902894857",
+    "rfn": "geni:6000000204902894857",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/149/",
+    "canonical": "https://www.genepedia.org/people/149/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

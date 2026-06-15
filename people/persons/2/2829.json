@@ -1,0 +1,122 @@
+{
+  "id": 2829,
+  "schema": "genepedia/person@1",
+  "slug": "stefanus-marthinus-naude",
+  "names": {
+    "display": "Stefanus Marthinus Naudé",
+    "given": "Stefanus Marthinus",
+    "surname": "Naudé",
+    "married": "Naudé",
+    "nick": "Fanie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 MAY 1929",
+      "year": 1929,
+      "iso": "1929-05-19",
+      "precision": "exact",
+      "display": "May 19, 1929",
+      "place": null
+    },
+    "death": {
+      "date": "1 OCT 2012",
+      "year": 2012,
+      "iso": "2012-10-01",
+      "precision": "exact",
+      "display": "October 1, 2012",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2827,
+      1145
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2828,
+      2830,
+      2831,
+      2832,
+      2833,
+      2834
+    ],
+    "parentUnions": [
+      "F700"
+    ],
+    "spouseUnions": [
+      "F1752"
+    ],
+    "parentLinks": [
+      {
+        "id": 2827,
+        "unionId": "F700",
+        "type": "biological"
+      },
+      {
+        "id": 1145,
+        "unionId": "F700",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024816091917@",
+    "geniId": "6000000024816091917",
+    "rfn": "geni:6000000024816091917",
+    "changed": "16 JUN 2024"
+  },
+  "page": {
+    "route": "people/2829/",
+    "canonical": "https://www.genepedia.org/people/2829/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

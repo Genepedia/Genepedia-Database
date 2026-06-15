@@ -1,0 +1,89 @@
+{
+  "id": 987,
+  "schema": "genepedia/person@1",
+  "slug": "ettiene-schutte",
+  "names": {
+    "display": "Ettiene Schutte",
+    "given": "Ettiene",
+    "surname": "Schutte",
+    "married": "Schutte",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/7c/c9/9d/fb/5344486624355328/16251947_1279940742082489_7955401048720141981_o_original.jpg?hash=a386a9edf4574aaeadc6a3c21c4c79f7461d7b33bc355d1c91037336998854d0.1789455599",
+      "alt": "Ettiene Schutte"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/7c/c9/9d/fb/5344486624355328/16251947_1279940742082489_7955401048720141981_o_original.jpg?hash=a386a9edf4574aaeadc6a3c21c4c79f7461d7b33bc355d1c91037336998854d0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      403
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F269"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 403,
+        "unionId": "F269",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207095769835@",
+    "geniId": "6000000207095769835",
+    "rfn": "geni:6000000207095769835",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/987/",
+    "canonical": "https://www.genepedia.org/people/987/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

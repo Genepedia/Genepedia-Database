@@ -1,0 +1,186 @@
+{
+  "id": 817,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-bester",
+  "names": {
+    "display": "Anna Maria Bester",
+    "given": "Anna Maria",
+    "surname": "Bester",
+    "married": "Droskie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1866",
+      "year": 1866,
+      "iso": "1866",
+      "precision": "exact",
+      "display": "1866",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "7 FEB 1941",
+      "year": 1941,
+      "iso": "1941-02-07",
+      "precision": "exact",
+      "display": "February 7, 1941",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      810,
+      811
+    ],
+    "spouses": [
+      1916
+    ],
+    "exSpouses": [],
+    "children": [
+      1917,
+      1918,
+      1919,
+      1920,
+      1921,
+      1922
+    ],
+    "siblings": [
+      812,
+      813,
+      814,
+      815,
+      331,
+      816,
+      818,
+      819
+    ],
+    "parentUnions": [
+      "F228"
+    ],
+    "spouseUnions": [
+      "F506"
+    ],
+    "parentLinks": [
+      {
+        "id": 810,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 811,
+        "unionId": "F228",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1916,
+        "unionId": "F506",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1917,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 1918,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 1919,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 1920,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 1921,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 1922,
+        "unionId": "F506",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000112556577021@",
+    "geniId": "6000000112556577021",
+    "rfn": "geni:6000000112556577021",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/817/",
+    "canonical": "https://www.genepedia.org/people/817/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

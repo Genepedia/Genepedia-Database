@@ -1,0 +1,95 @@
+{
+  "id": 4964,
+  "schema": "genepedia/person@1",
+  "slug": "anna-catharina-van-wyk",
+  "names": {
+    "display": "Anna Catharina Van Wyk",
+    "given": "Anna Catharina",
+    "surname": "Van Wyk",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 SEP 1925",
+      "year": 1925,
+      "iso": "1925-09-08",
+      "precision": "exact",
+      "display": "September 8, 1925",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4962,
+      1926
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4963,
+      4965,
+      4966,
+      4967
+    ],
+    "parentUnions": [
+      "F1178"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4962,
+        "unionId": "F1178",
+        "type": "biological"
+      },
+      {
+        "id": 1926,
+        "unionId": "F1178",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089490238980@",
+    "geniId": "6000000089490238980",
+    "rfn": "geni:6000000089490238980",
+    "changed": "18 MAR 2019"
+  },
+  "page": {
+    "route": "people/4964/",
+    "canonical": "https://www.genepedia.org/people/4964/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

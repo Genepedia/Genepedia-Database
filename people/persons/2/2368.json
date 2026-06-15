@@ -1,0 +1,103 @@
+{
+  "id": 2368,
+  "schema": "genepedia/person@1",
+  "slug": "francois-alwyn-van-niekerk",
+  "names": {
+    "display": "Francois Alwyn Van Niekerk",
+    "given": "Francois Alwyn",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 JUN 1908",
+      "year": 1908,
+      "iso": "1908-06-10",
+      "precision": "exact",
+      "display": "June 10, 1908",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2360,
+      947
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2361,
+      2362,
+      2363,
+      2364,
+      2365,
+      2366,
+      2367,
+      2369,
+      2370,
+      2371,
+      2372,
+      2373
+    ],
+    "parentUnions": [
+      "F598"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2360,
+        "unionId": "F598",
+        "type": "biological"
+      },
+      {
+        "id": 947,
+        "unionId": "F598",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208126648846@",
+    "geniId": "6000000208126648846",
+    "rfn": "geni:6000000208126648846",
+    "changed": "13 AUG 2024"
+  },
+  "page": {
+    "route": "people/2368/",
+    "canonical": "https://www.genepedia.org/people/2368/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

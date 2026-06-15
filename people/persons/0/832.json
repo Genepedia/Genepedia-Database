@@ -1,0 +1,115 @@
+{
+  "id": 832,
+  "schema": "genepedia/person@1",
+  "slug": "cecilia-margaretha-mitchell",
+  "names": {
+    "display": "Cecilia Margaretha Mitchell",
+    "given": "Cecilia Margaretha",
+    "surname": "Mitchell",
+    "married": "Kleynhans",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 MAY 1905",
+      "year": 1905,
+      "iso": "1905-05-30",
+      "precision": "exact",
+      "display": "May 30, 1905",
+      "place": null
+    },
+    "death": {
+      "date": "17 SEP 1975",
+      "year": 1975,
+      "iso": "1975-09-17",
+      "precision": "exact",
+      "display": "September 17, 1975",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      831,
+      333
+    ],
+    "spouses": [
+      2005
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      833,
+      834,
+      835,
+      836,
+      837,
+      838,
+      839
+    ],
+    "parentUnions": [
+      "F230"
+    ],
+    "spouseUnions": [
+      "F519"
+    ],
+    "parentLinks": [
+      {
+        "id": 831,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 333,
+        "unionId": "F230",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2005,
+        "unionId": "F519",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066537566903@",
+    "geniId": "6000000066537566903",
+    "rfn": "geni:6000000066537566903",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/832/",
+    "canonical": "https://www.genepedia.org/people/832/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

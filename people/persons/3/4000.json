@@ -1,0 +1,77 @@
+{
+  "id": 4000,
+  "schema": "genepedia/person@1",
+  "slug": "hester-magdalena-jacoba-van-niekerk",
+  "names": {
+    "display": "Hester Magdalena Jacoba van Niekerk",
+    "given": "Hester Magdalena Jacoba",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1539
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F935"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1539,
+        "unionId": "F935",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000022105565511@",
+    "geniId": "6000000022105565511",
+    "rfn": "geni:6000000022105565511",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/4000/",
+    "canonical": "https://www.genepedia.org/people/4000/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

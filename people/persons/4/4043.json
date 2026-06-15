@@ -1,0 +1,98 @@
+{
+  "id": 4043,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-francois-van-niekerk-4043",
+  "names": {
+    "display": "Hendrik Francois van Niekerk",
+    "given": "Hendrik Francois",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 SEP 1876",
+      "year": 1876,
+      "iso": "1876-09-02",
+      "precision": "exact",
+      "display": "September 2, 1876",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1545,
+      1552
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4041,
+      4042,
+      4044,
+      4045,
+      4046,
+      4047,
+      4048
+    ],
+    "parentUnions": [
+      "F942"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1545,
+        "unionId": "F942",
+        "type": "biological"
+      },
+      {
+        "id": 1552,
+        "unionId": "F942",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000063155029905@",
+    "geniId": "6000000063155029905",
+    "rfn": "geni:6000000063155029905",
+    "changed": "24 FEB 2026"
+  },
+  "page": {
+    "route": "people/4043/",
+    "canonical": "https://www.genepedia.org/people/4043/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

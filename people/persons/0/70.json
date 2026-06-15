@@ -1,0 +1,85 @@
+{
+  "id": 70,
+  "schema": "genepedia/person@1",
+  "slug": "profile-70",
+  "names": {
+    "display": "? ?",
+    "given": "?",
+    "surname": "?",
+    "married": "?",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      16
+    ],
+    "exSpouses": [],
+    "children": [
+      14
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F24"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 16,
+        "unionId": "F24",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 14,
+        "unionId": "F24",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206512005911@",
+    "geniId": "6000000206512005911",
+    "rfn": "geni:6000000206512005911",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/70/",
+    "canonical": "https://www.genepedia.org/people/70/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

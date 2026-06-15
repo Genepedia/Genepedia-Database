@@ -1,0 +1,156 @@
+{
+  "id": 898,
+  "schema": "genepedia/person@1",
+  "slug": "george-ernest-longley-taylor",
+  "names": {
+    "display": "George Ernest Longley Taylor",
+    "given": "George Ernest Longley",
+    "surname": "Taylor",
+    "married": "Taylor",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1887",
+      "year": 1887,
+      "iso": "1887",
+      "precision": "exact",
+      "display": "1887",
+      "place": "Birkenhead, England",
+      "location": {
+        "label": "Birkenhead, England",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Birkenhead",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "England",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "England",
+      "location": {
+        "label": "England",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "England",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f4/ad/a8/ce/5344485f3c63c170/record-image_1__original.jpg?hash=f9b4d28b2c45549322dc0e4638af24468d157d3e62efe2a2c3733b3f1183d77f.1789455599",
+      "alt": "George Ernest Longley Taylor"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f4/ad/a8/ce/5344485f3c63c170/record-image_1__original.jpg?hash=f9b4d28b2c45549322dc0e4638af24468d157d3e62efe2a2c3733b3f1183d77f.1789455599",
+        "form": "",
+        "title": "record-image_ trou 1911  .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/f9/46/a9/5b/5344486362071963/record-image__original.jpg?hash=ba8aecd5f91fcb397347e8806f3d3d913aefb6d5c8a600bf4596cdf893b203f5.1789455599",
+        "form": "",
+        "title": "record-image_immigration .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      370
+    ],
+    "exSpouses": [],
+    "children": [
+      899,
+      900
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F251"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 370,
+        "unionId": "F251",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 899,
+        "unionId": "F251",
+        "type": "biological"
+      },
+      {
+        "id": 900,
+        "unionId": "F251",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165212426@",
+    "geniId": "6000000028165212426",
+    "rfn": "geni:6000000028165212426",
+    "changed": "26 APR 2024"
+  },
+  "page": {
+    "route": "people/898/",
+    "canonical": "https://www.genepedia.org/people/898/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

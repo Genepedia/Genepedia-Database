@@ -1,0 +1,156 @@
+{
+  "id": 4133,
+  "schema": "genepedia/person@1",
+  "slug": "matthys-johannes-wilhelm-du-plessis",
+  "names": {
+    "display": "Matthys Johannes Wilhelm du Plessis",
+    "given": "Matthys Johannes Wilhelm",
+    "surname": "du Plessis",
+    "married": "du Plessis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 AUG 1893",
+      "year": 1893,
+      "iso": "1893-08-18",
+      "precision": "exact",
+      "display": "August 18, 1893",
+      "place": null
+    },
+    "death": {
+      "date": "3 NOV 1918",
+      "year": 1918,
+      "iso": "1918-11-03",
+      "precision": "exact",
+      "display": "November 3, 1918",
+      "place": "Winburg, Free State, South Africa",
+      "location": {
+        "label": "Winburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "Theunissen",
+        "city": "Winburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Old Main Cemetery, Theunissen, Free State, South Africa",
+      "location": {
+        "label": "Old Main Cemetery, Theunissen, Free State, South Africa",
+        "placeName": "Old Main Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Theunissen",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/29/e3/51/69/534448628a24581a/mjw_du_plessis18930818_amp_f_truter_18950516_grafsteenfoto_theunissenbegraafplaas_original.jpg?hash=20810e5078ba3e7c7e0cd2525ad1c0a60ae3d9d86f4980941fe11abf55b116ca.1789455599",
+      "alt": "Matthys Johannes Wilhelm du Plessis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/29/e3/51/69/534448628a24581a/mjw_du_plessis18930818_amp_f_truter_18950516_grafsteenfoto_theunissenbegraafplaas_original.jpg?hash=20810e5078ba3e7c7e0cd2525ad1c0a60ae3d9d86f4980941fe11abf55b116ca.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4127,
+      4126
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4128,
+      4129,
+      4130,
+      4131,
+      1559,
+      4132
+    ],
+    "parentUnions": [
+      "F955"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4127,
+        "unionId": "F955",
+        "type": "biological"
+      },
+      {
+        "id": 4126,
+        "unionId": "F955",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000134808830851@",
+    "geniId": "6000000134808830851",
+    "rfn": "geni:6000000134808830851",
+    "changed": "08 FEB 2023"
+  },
+  "page": {
+    "route": "people/4133/",
+    "canonical": "https://www.genepedia.org/people/4133/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

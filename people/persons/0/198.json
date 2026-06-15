@@ -1,0 +1,195 @@
+{
+  "id": 198,
+  "schema": "genepedia/person@1",
+  "slug": "maria-magdalena-swanepoel",
+  "names": {
+    "display": "Maria Magdalena Swanepoel",
+    "given": "Maria Magdalena",
+    "surname": "Swanepoel",
+    "married": "Marais",
+    "nick": "Miemmie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1914",
+      "year": 1914,
+      "iso": "1914",
+      "precision": "exact",
+      "display": "1914",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 SEP 1989",
+      "year": 1989,
+      "iso": "1989-09-21",
+      "precision": "exact",
+      "display": "September 21, 1989",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b6/0c/27/72/534448659f0fb52e/screenshot_2024-04-06_182410_original.jpg?hash=b653408349b052f2ba8a7d3075f39f37b27f145409ae47df3b811a8fa5784b90.1789455599",
+      "alt": "Maria Magdalena Swanepoel"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b6/0c/27/72/534448659f0fb52e/screenshot_2024-04-06_182410_original.jpg?hash=b653408349b052f2ba8a7d3075f39f37b27f145409ae47df3b811a8fa5784b90.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      523,
+      522
+    ],
+    "spouses": [
+      199
+    ],
+    "exSpouses": [],
+    "children": [
+      60,
+      200,
+      201
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F153"
+    ],
+    "spouseUnions": [
+      "F63"
+    ],
+    "parentLinks": [
+      {
+        "id": 523,
+        "unionId": "F153",
+        "type": "biological"
+      },
+      {
+        "id": 522,
+        "unionId": "F153",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 199,
+        "unionId": "F63",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 60,
+        "unionId": "F63",
+        "type": "biological"
+      },
+      {
+        "id": 200,
+        "unionId": "F63",
+        "type": "biological"
+      },
+      {
+        "id": 201,
+        "unionId": "F63",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204861785853@",
+    "geniId": "6000000204861785853",
+    "rfn": "geni:6000000204861785853",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/198/",
+    "canonical": "https://www.genepedia.org/people/198/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

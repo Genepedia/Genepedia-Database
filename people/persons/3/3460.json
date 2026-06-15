@@ -1,0 +1,104 @@
+{
+  "id": 3460,
+  "schema": "genepedia/person@1",
+  "slug": "jp-prinsloo",
+  "names": {
+    "display": "JP Prinsloo",
+    "given": "JP",
+    "surname": "Prinsloo",
+    "married": "Prinsloo",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 APR 2012",
+      "year": 2012,
+      "iso": "2012-04-29",
+      "precision": "exact",
+      "display": "April 29, 2012",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/25/79/d3/0f/5344486602b6b5bf/screenshot_2024-06-15_190057_original.jpg?hash=4f1658a1ebb1953808e4767495e2596facc78a99647525fef9d5c8e7df8aa950.1789455599",
+      "alt": "JP Prinsloo"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/25/79/d3/0f/5344486602b6b5bf/screenshot_2024-06-15_190057_original.jpg?hash=4f1658a1ebb1953808e4767495e2596facc78a99647525fef9d5c8e7df8aa950.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3458,
+      1378
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3459
+    ],
+    "parentUnions": [
+      "F852"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3458,
+        "unionId": "F852",
+        "type": "biological"
+      },
+      {
+        "id": 1378,
+        "unionId": "F852",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206533688859@",
+    "geniId": "6000000206533688859",
+    "rfn": "geni:6000000206533688859",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/3460/",
+    "canonical": "https://www.genepedia.org/people/3460/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

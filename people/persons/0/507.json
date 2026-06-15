@@ -1,0 +1,91 @@
+{
+  "id": 507,
+  "schema": "genepedia/person@1",
+  "slug": "jan-hendrik-steenkamp",
+  "names": {
+    "display": "Jan Hendrik Steenkamp",
+    "given": "Jan Hendrik",
+    "surname": "Steenkamp",
+    "married": "Steenkamp",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      177
+    ],
+    "exSpouses": [],
+    "children": [
+      508,
+      509
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F145"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 177,
+        "unionId": "F145",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 508,
+        "unionId": "F145",
+        "type": "biological"
+      },
+      {
+        "id": 509,
+        "unionId": "F145",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000054087646021@",
+    "geniId": "6000000054087646021",
+    "rfn": "geni:6000000054087646021",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/507/",
+    "canonical": "https://www.genepedia.org/people/507/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

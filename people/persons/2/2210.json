@@ -1,0 +1,150 @@
+{
+  "id": 2210,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-johanna-cornelia-elizabeth-olivier",
+  "names": {
+    "display": "Susanna Johanna Cornelia Elizabeth Olivier",
+    "given": "Susanna Johanna Cornelia Elizabeth",
+    "surname": "Olivier",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 JAN 1857",
+      "year": 1857,
+      "iso": "1857-01-08",
+      "precision": "exact",
+      "display": "January 8, 1857",
+      "place": null
+    },
+    "death": {
+      "date": "19 JUN 1929",
+      "year": 1929,
+      "iso": "1929-06-19",
+      "precision": "exact",
+      "display": "June 19, 1929",
+      "place": null
+    },
+    "baptism": {
+      "date": "22 FEB 1857",
+      "year": 1857,
+      "iso": "1857-02-22",
+      "precision": "exact",
+      "display": "February 22, 1857",
+      "place": "Fauresmith, Free State, South Africa",
+      "location": {
+        "label": "Fauresmith, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fauresmith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f5/ef/58/e9/5344484743512684/se_olivier_doop_original.jpg?hash=27f48a474ecd2a22dec9788a44bd665dcc94188e785788c3d69a0769adc7b30b.1789455599",
+      "alt": "Susanna Johanna Cornelia Elizabeth Olivier"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f5/ef/58/e9/5344484743512684/se_olivier_doop_original.jpg?hash=27f48a474ecd2a22dec9788a44bd665dcc94188e785788c3d69a0769adc7b30b.1789455599",
+        "form": "",
+        "title": "SE Olivier Doop.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/0c/1b/19/8c/5344486175480c0c/1_1_6zhb-77b6_original.png?hash=57e1369fbd54df5bdf828c2b81762a8291dd761818550cd1a61f8b66065332d8.1789455599",
+        "form": "",
+        "title": "https://www.familysearch.org/ark:/61903/1:1:6ZHB-77B6?from=lynx1UIV8",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/0f/54/a8/9f/53444861753952aa/3_1_3q9m-c91v-m3ry-1_original.png?hash=8d594964925229e3274be0d19d55ea3d7404311b6162f8270b4288ac025e1a15.1789455599",
+        "form": "",
+        "title": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91V-M3RY-1?cc=1779109",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2211
+    ],
+    "exSpouses": [],
+    "children": [
+      901
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1364"
+    ],
+    "spouseUnions": [
+      "F562"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2211,
+        "unionId": "F562",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 901,
+        "unionId": "F562",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000046228194418@",
+    "geniId": "6000000046228194418",
+    "rfn": "geni:6000000046228194418",
+    "changed": "31 OCT 2022"
+  },
+  "page": {
+    "route": "people/2210/",
+    "canonical": "https://www.genepedia.org/people/2210/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

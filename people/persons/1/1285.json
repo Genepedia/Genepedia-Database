@@ -1,0 +1,145 @@
+{
+  "id": 1285,
+  "schema": "genepedia/person@1",
+  "slug": "anna-magrieta-marx",
+  "names": {
+    "display": "Anna Magrieta Marx",
+    "given": "Anna Magrieta",
+    "surname": "Marx",
+    "married": "Vorster",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1886",
+      "year": 1886,
+      "iso": "1886",
+      "precision": "exact",
+      "display": "1886",
+      "place": null
+    },
+    "death": {
+      "date": "1924",
+      "year": 1924,
+      "iso": "1924",
+      "precision": "exact",
+      "display": "1924",
+      "place": "Vredefort, South Africa",
+      "location": {
+        "label": "Vredefort, South Africa",
+        "placeName": "Vredefort",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1284
+    ],
+    "exSpouses": [],
+    "children": [
+      536,
+      1286,
+      1287,
+      1288,
+      1289,
+      1290
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F335"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1284,
+        "unionId": "F335",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 536,
+        "unionId": "F335",
+        "type": "biological"
+      },
+      {
+        "id": 1286,
+        "unionId": "F335",
+        "type": "biological"
+      },
+      {
+        "id": 1287,
+        "unionId": "F335",
+        "type": "biological"
+      },
+      {
+        "id": 1288,
+        "unionId": "F335",
+        "type": "biological"
+      },
+      {
+        "id": 1289,
+        "unionId": "F335",
+        "type": "biological"
+      },
+      {
+        "id": 1290,
+        "unionId": "F335",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000060892846900@",
+    "geniId": "6000000060892846900",
+    "rfn": "geni:6000000060892846900",
+    "changed": "07 NOV 2022"
+  },
+  "page": {
+    "route": "people/1285/",
+    "canonical": "https://www.genepedia.org/people/1285/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

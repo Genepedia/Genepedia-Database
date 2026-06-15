@@ -1,0 +1,207 @@
+{
+  "id": 673,
+  "schema": "genepedia/person@1",
+  "slug": "annie-marie-noel-meilhon",
+  "names": {
+    "display": "Annie Marie Noel Meilhon",
+    "given": "Annie Marie Noel",
+    "surname": "Meilhon",
+    "married": "Nicholas",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1906",
+      "year": 1906,
+      "iso": "1906",
+      "precision": "exact",
+      "display": "1906",
+      "place": "Umzinto, KZN, South Africa",
+      "location": {
+        "label": "Umzinto, KZN, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Umzinto",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KZN",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "31 JAN 1976",
+      "year": 1976,
+      "iso": "1976-01-31",
+      "precision": "exact",
+      "display": "January 31, 1976",
+      "place": "Durban, Natal, South Africa",
+      "location": {
+        "label": "Durban, Natal, South Africa",
+        "placeName": "Durban, Natal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/7e/f3/8f/56/53444866dbe0df0a/meilhon_marr_5_oct_1929_ann_marie_22_yrs_olf_born_umzinto_s_coast_natal_511_umgeni_rd_durban_marr_john_william_nicholas_22_yrs_old_mike_copeland_step_father_original.jpg?hash=1c0a2638b83c5de8ca56d2a4a0ef97ab0cafe2f50eb9bd39af9eab64db61e83f.1789455599",
+      "alt": "Annie Marie Noel Meilhon"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/7e/f3/8f/56/53444866dbe0df0a/meilhon_marr_5_oct_1929_ann_marie_22_yrs_olf_born_umzinto_s_coast_natal_511_umgeni_rd_durban_marr_john_william_nicholas_22_yrs_old_mike_copeland_step_father_original.jpg?hash=1c0a2638b83c5de8ca56d2a4a0ef97ab0cafe2f50eb9bd39af9eab64db61e83f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Graham Web Site",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Family Tree",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      671,
+      670
+    ],
+    "spouses": [
+      1669
+    ],
+    "exSpouses": [],
+    "children": [
+      1670,
+      1671,
+      1672,
+      1673
+    ],
+    "siblings": [
+      672,
+      674,
+      675,
+      676,
+      268,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686
+    ],
+    "parentUnions": [
+      "F191"
+    ],
+    "spouseUnions": [
+      "F433"
+    ],
+    "parentLinks": [
+      {
+        "id": 671,
+        "unionId": "F191",
+        "type": "biological"
+      },
+      {
+        "id": 670,
+        "unionId": "F191",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1669,
+        "unionId": "F433",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1670,
+        "unionId": "F433",
+        "type": "biological"
+      },
+      {
+        "id": 1671,
+        "unionId": "F433",
+        "type": "biological"
+      },
+      {
+        "id": 1672,
+        "unionId": "F433",
+        "type": "biological"
+      },
+      {
+        "id": 1673,
+        "unionId": "F433",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003274571669@",
+    "geniId": "6000000003274571669",
+    "rfn": "geni:6000000003274571669",
+    "changed": "22 OCT 2024"
+  },
+  "page": {
+    "route": "people/673/",
+    "canonical": "https://www.genepedia.org/people/673/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

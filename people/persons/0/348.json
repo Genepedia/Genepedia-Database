@@ -1,0 +1,87 @@
+{
+  "id": 348,
+  "schema": "genepedia/person@1",
+  "slug": "heleen-bester-bester",
+  "names": {
+    "display": "Heleen Bester Bester",
+    "given": "Heleen Bester",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      131,
+      346
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      347,
+      349,
+      350
+    ],
+    "parentUnions": [
+      "F109"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 131,
+        "unionId": "F109",
+        "type": "biological"
+      },
+      {
+        "id": 346,
+        "unionId": "F109",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066596621104@",
+    "geniId": "6000000066596621104",
+    "rfn": "geni:6000000066596621104",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/348/",
+    "canonical": "https://www.genepedia.org/people/348/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

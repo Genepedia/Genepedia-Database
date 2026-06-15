@@ -1,0 +1,103 @@
+{
+  "id": 1794,
+  "schema": "genepedia/person@1",
+  "slug": "lurie-1794",
+  "names": {
+    "display": "? Lurie",
+    "given": "?",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      758
+    ],
+    "exSpouses": [],
+    "children": [
+      1795,
+      1796,
+      1797,
+      1798
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F472"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 758,
+        "unionId": "F472",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1795,
+        "unionId": "F472",
+        "type": "biological"
+      },
+      {
+        "id": 1796,
+        "unionId": "F472",
+        "type": "biological"
+      },
+      {
+        "id": 1797,
+        "unionId": "F472",
+        "type": "biological"
+      },
+      {
+        "id": 1798,
+        "unionId": "F472",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209506893834@",
+    "geniId": "6000000209506893834",
+    "rfn": "geni:6000000209506893834",
+    "changed": "01 OCT 2024"
+  },
+  "page": {
+    "route": "people/1794/",
+    "canonical": "https://www.genepedia.org/people/1794/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

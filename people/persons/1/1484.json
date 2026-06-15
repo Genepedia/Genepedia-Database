@@ -1,0 +1,92 @@
+{
+  "id": 1484,
+  "schema": "genepedia/person@1",
+  "slug": "yolandi",
+  "names": {
+    "display": "Yolandi",
+    "given": "Yolandi",
+    "surname": "Smit",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "25 JUL 1995",
+      "year": 1995,
+      "iso": "1995-07-25",
+      "precision": "exact",
+      "display": "July 25, 1995",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1482,
+      595
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1483
+    ],
+    "parentUnions": [
+      "F379"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1482,
+        "unionId": "F379",
+        "type": "biological"
+      },
+      {
+        "id": 595,
+        "unionId": "F379",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206611680852@",
+    "geniId": "6000000206611680852",
+    "rfn": "geni:6000000206611680852",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1484/",
+    "canonical": "https://www.genepedia.org/people/1484/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

@@ -1,0 +1,122 @@
+{
+  "id": 2329,
+  "schema": "genepedia/person@1",
+  "slug": "donovan-smit",
+  "names": {
+    "display": "Donovan Smit",
+    "given": "Donovan",
+    "surname": "Smit",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 DEC 1959",
+      "year": 1959,
+      "iso": "1959-12-18",
+      "precision": "exact",
+      "display": "December 18, 1959",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Fourways, Sandton, Gauteng, South Africa",
+  "lastResidenceLocation": {
+    "label": "Fourways, Sandton, Gauteng, South Africa",
+    "placeName": "Fourways",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Sandton",
+    "postalCode": "2055",
+    "county": "",
+    "stateProvince": "Gauteng",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/24/17/80/90/534448413336504d/vuv76jup_original.jpg?hash=62f33f930052405b9621a6b896af089ca3fa8faf15130269cdc8b563ba45d363.1789455599",
+      "alt": "Donovan Smit"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/24/17/80/90/534448413336504d/vuv76jup_original.jpg?hash=62f33f930052405b9621a6b896af089ca3fa8faf15130269cdc8b563ba45d363.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2327,
+      930
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2328,
+      2330
+    ],
+    "parentUnions": [
+      "F589"
+    ],
+    "spouseUnions": [
+      "F1438"
+    ],
+    "parentLinks": [
+      {
+        "id": 2327,
+        "unionId": "F589",
+        "type": "biological"
+      },
+      {
+        "id": 930,
+        "unionId": "F589",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000048433621941@",
+    "geniId": "6000000048433621941",
+    "rfn": "geni:6000000048433621941",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2329/",
+    "canonical": "https://www.genepedia.org/people/2329/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

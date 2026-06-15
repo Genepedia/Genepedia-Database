@@ -1,0 +1,91 @@
+{
+  "id": 1592,
+  "schema": "genepedia/person@1",
+  "slug": "coenraad-johannes-bezuidenhout",
+  "names": {
+    "display": "Coenraad Johannes Bezuidenhout",
+    "given": "Coenraad Johannes",
+    "surname": "Bezuidenhout",
+    "married": "Bezuidenhout",
+    "nick": "Coen",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      637
+    ],
+    "exSpouses": [],
+    "children": [
+      1593,
+      1594
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F403"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 637,
+        "unionId": "F403",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1593,
+        "unionId": "F403",
+        "type": "biological"
+      },
+      {
+        "id": 1594,
+        "unionId": "F403",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002432905759@",
+    "geniId": "6000000002432905759",
+    "rfn": "geni:6000000002432905759",
+    "changed": "28 JUL 2024"
+  },
+  "page": {
+    "route": "people/1592/",
+    "canonical": "https://www.genepedia.org/people/1592/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

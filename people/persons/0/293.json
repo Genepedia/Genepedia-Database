@@ -1,0 +1,101 @@
+{
+  "id": 293,
+  "schema": "genepedia/person@1",
+  "slug": "tom-flynn",
+  "names": {
+    "display": "Tom Flynn",
+    "given": "Tom",
+    "surname": "Flynn",
+    "married": "Flynn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "AFT 1860",
+      "year": 1860,
+      "iso": "1860",
+      "precision": "after",
+      "display": "after 1860",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 1980",
+      "year": 1980,
+      "iso": "1980",
+      "precision": "before",
+      "display": "before 1980",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      722
+    ],
+    "spouses": [
+      109
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F204"
+    ],
+    "spouseUnions": [
+      "F95"
+    ],
+    "parentLinks": [
+      {
+        "id": 722,
+        "unionId": "F204",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 109,
+        "unionId": "F95",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207948923881@",
+    "geniId": "6000000207948923881",
+    "rfn": "geni:6000000207948923881",
+    "changed": "30 SEP 2024"
+  },
+  "page": {
+    "route": "people/293/",
+    "canonical": "https://www.genepedia.org/people/293/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,102 @@
+{
+  "id": 3114,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-de-villiers",
+  "names": {
+    "display": "Jacobus Johannes de Villiers",
+    "given": "Jacobus Johannes",
+    "surname": "de Villiers",
+    "married": "de Villiers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 MAR 1921",
+      "year": 1921,
+      "iso": "1921-03-25",
+      "precision": "exact",
+      "display": "March 25, 1921",
+      "place": null
+    },
+    "death": {
+      "date": "15 NOV 2003",
+      "year": 2003,
+      "iso": "2003-11-15",
+      "precision": "exact",
+      "display": "November 15, 2003",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3109,
+      1254
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3110,
+      3111,
+      3112,
+      3113
+    ],
+    "parentUnions": [
+      "F771"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3109,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 1254,
+        "unionId": "F771",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026466380462@",
+    "geniId": "6000000026466380462",
+    "rfn": "geni:6000000026466380462",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3114/",
+    "canonical": "https://www.genepedia.org/people/3114/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

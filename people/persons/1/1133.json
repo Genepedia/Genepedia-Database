@@ -1,0 +1,214 @@
+{
+  "id": 1133,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-petronella-brits",
+  "names": {
+    "display": "Jacoba Petronella Brits",
+    "given": "Jacoba Petronella",
+    "surname": "Brits",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 NOV 1873",
+      "year": 1873,
+      "iso": "1873-11-14",
+      "precision": "exact",
+      "display": "November 14, 1873",
+      "place": "Britstown, NC, South Africa",
+      "location": {
+        "label": "Britstown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Britstown",
+        "postalCode": "8782",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 OCT 1926",
+      "year": 1926,
+      "iso": "1926-10-16",
+      "precision": "exact",
+      "display": "October 16, 1926",
+      "place": "Taungs, Cape Province, South Africa",
+      "location": {
+        "label": "Taungs, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Taungs",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "8 FEB 1874",
+      "year": 1874,
+      "iso": "1874-02-08",
+      "precision": "exact",
+      "display": "February 8, 1874",
+      "place": "Richmond, NC, South Africa",
+      "location": {
+        "label": "Richmond, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Richmond",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/02/b1/b0/d1/5344485f4f5ca184/archives_original.jpg?hash=28a57ea3bfcfa89bc45c60aa3a39ea7ed96694eb00ee003c9468f816c9056ce8.1789455599",
+      "alt": "Jacoba Petronella Brits"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/02/b1/b0/d1/5344485f4f5ca184/archives_original.jpg?hash=28a57ea3bfcfa89bc45c60aa3a39ea7ed96694eb00ee003c9468f816c9056ce8.1789455599",
+        "form": "",
+        "title": "Archives.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2794,
+      2793
+    ],
+    "spouses": [
+      441,
+      2790
+    ],
+    "exSpouses": [],
+    "children": [
+      1134,
+      1135,
+      2791,
+      2792
+    ],
+    "siblings": [
+      2795,
+      2796,
+      2797,
+      2798,
+      2799,
+      2800
+    ],
+    "parentUnions": [
+      "F693"
+    ],
+    "spouseUnions": [
+      "F299",
+      "F692"
+    ],
+    "parentLinks": [
+      {
+        "id": 2794,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2793,
+        "unionId": "F693",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 441,
+        "unionId": "F299",
+        "role": "husband"
+      },
+      {
+        "id": 2790,
+        "unionId": "F692",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1134,
+        "unionId": "F299",
+        "type": "biological"
+      },
+      {
+        "id": 1135,
+        "unionId": "F299",
+        "type": "biological"
+      },
+      {
+        "id": 2791,
+        "unionId": "F692",
+        "type": "biological"
+      },
+      {
+        "id": 2792,
+        "unionId": "F692",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000045293994285@",
+    "geniId": "6000000045293994285",
+    "rfn": "geni:6000000045293994285",
+    "changed": "03 JUN 2023"
+  },
+  "page": {
+    "route": "people/1133/",
+    "canonical": "https://www.genepedia.org/people/1133/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

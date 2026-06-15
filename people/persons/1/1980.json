@@ -1,0 +1,88 @@
+{
+  "id": 1980,
+  "schema": "genepedia/person@1",
+  "slug": "stephanus-johannes-roelof-van-der-walt",
+  "names": {
+    "display": "Stephanus Johannes Roelof van der Walt",
+    "given": "Stephanus Johannes Roelof",
+    "surname": "van der Walt",
+    "married": "van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      822,
+      1975
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1976,
+      1977,
+      1978,
+      1979
+    ],
+    "parentUnions": [
+      "F512"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 822,
+        "unionId": "F512",
+        "type": "biological"
+      },
+      {
+        "id": 1975,
+        "unionId": "F512",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000185436554108@",
+    "geniId": "6000000185436554108",
+    "rfn": "geni:6000000185436554108",
+    "changed": "08 JUN 2022"
+  },
+  "page": {
+    "route": "people/1980/",
+    "canonical": "https://www.genepedia.org/people/1980/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

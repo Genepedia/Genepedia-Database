@@ -1,0 +1,143 @@
+{
+  "id": 222,
+  "schema": "genepedia/person@1",
+  "slug": "alida-jacoba-de-beer",
+  "names": {
+    "display": "Alida Jacoba de Beer",
+    "given": "Alida Jacoba",
+    "surname": "de Beer",
+    "married": "du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "5 JAN 1946",
+      "year": 1946,
+      "iso": "1946-01-05",
+      "precision": "exact",
+      "display": "January 5, 1946",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/30/92/4d/7a/53444866071fb913/11265169_496915980484848_4198407053027478835_o_original.jpg?hash=e62d6e2391e5927f028346333da14889f0dcf2c65a6100dfb41346e23cae7322.1789455599",
+      "alt": "Alida Jacoba de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/30/92/4d/7a/53444866071fb913/11265169_496915980484848_4198407053027478835_o_original.jpg?hash=e62d6e2391e5927f028346333da14889f0dcf2c65a6100dfb41346e23cae7322.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      214,
+      215
+    ],
+    "spouses": [
+      604
+    ],
+    "exSpouses": [],
+    "children": [
+      605,
+      606,
+      607
+    ],
+    "siblings": [
+      216,
+      217,
+      66,
+      218,
+      219,
+      220,
+      221,
+      223,
+      224,
+      225
+    ],
+    "parentUnions": [
+      "F69"
+    ],
+    "spouseUnions": [
+      "F170"
+    ],
+    "parentLinks": [
+      {
+        "id": 214,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 215,
+        "unionId": "F69",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 604,
+        "unionId": "F170",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 605,
+        "unionId": "F170",
+        "type": "biological"
+      },
+      {
+        "id": 606,
+        "unionId": "F170",
+        "type": "biological"
+      },
+      {
+        "id": 607,
+        "unionId": "F170",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000205253209827@",
+    "geniId": "6000000205253209827",
+    "rfn": "geni:6000000205253209827",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/222/",
+    "canonical": "https://www.genepedia.org/people/222/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

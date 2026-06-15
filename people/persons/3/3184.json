@@ -1,0 +1,87 @@
+{
+  "id": 3184,
+  "schema": "genepedia/person@1",
+  "slug": "ilze-lamprechts",
+  "names": {
+    "display": "Ilze Lamprechts",
+    "given": "Ilze",
+    "surname": "Gloy",
+    "married": "Lamprechts",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3182,
+      1277
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3183,
+      3185,
+      3186
+    ],
+    "parentUnions": [
+      "F783"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3182,
+        "unionId": "F783",
+        "type": "biological"
+      },
+      {
+        "id": 1277,
+        "unionId": "F783",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781717541@",
+    "geniId": "6000000007781717541",
+    "rfn": "geni:6000000007781717541",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/3184/",
+    "canonical": "https://www.genepedia.org/people/3184/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

@@ -1,0 +1,165 @@
+{
+  "id": 906,
+  "schema": "genepedia/person@1",
+  "slug": "richard-john-roselt",
+  "names": {
+    "display": "Richard John Roselt",
+    "given": "Richard John",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 JAN 1927",
+      "year": 1927,
+      "iso": "1927-01-14",
+      "precision": "exact",
+      "display": "January 14, 1927",
+      "place": null
+    },
+    "death": {
+      "date": "15 OCT 2009",
+      "year": 2009,
+      "iso": "2009-10-15",
+      "precision": "exact",
+      "display": "October 15, 2009",
+      "place": "Klerksdorp, North West, South Africa",
+      "location": {
+        "label": "Klerksdorp, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ef/45/b4/b6/534448558317e62d/rjr_original.jpg?hash=9e3324778e9f0827ad9546429cc8780de13f17a4c22ee68ca9dadb8a748ed7ab.1789455599",
+      "alt": "Richard John Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ef/45/b4/b6/534448558317e62d/rjr_original.jpg?hash=9e3324778e9f0827ad9546429cc8780de13f17a4c22ee68ca9dadb8a748ed7ab.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      371,
+      905
+    ],
+    "spouses": [
+      2230
+    ],
+    "exSpouses": [],
+    "children": [
+      2231,
+      2232,
+      2233,
+      2234
+    ],
+    "siblings": [
+      907,
+      908,
+      909
+    ],
+    "parentUnions": [
+      "F253"
+    ],
+    "spouseUnions": [
+      "F566"
+    ],
+    "parentLinks": [
+      {
+        "id": 371,
+        "unionId": "F253",
+        "type": "biological"
+      },
+      {
+        "id": 905,
+        "unionId": "F253",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2230,
+        "unionId": "F566",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2231,
+        "unionId": "F566",
+        "type": "biological"
+      },
+      {
+        "id": 2232,
+        "unionId": "F566",
+        "type": "biological"
+      },
+      {
+        "id": 2233,
+        "unionId": "F566",
+        "type": "biological"
+      },
+      {
+        "id": 2234,
+        "unionId": "F566",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000049790923931@",
+    "geniId": "6000000049790923931",
+    "rfn": "geni:6000000049790923931",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/906/",
+    "canonical": "https://www.genepedia.org/people/906/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

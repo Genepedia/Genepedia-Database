@@ -1,0 +1,121 @@
+{
+  "id": 3444,
+  "schema": "genepedia/person@1",
+  "slug": "private-3444",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3445
+    ],
+    "exSpouses": [],
+    "children": [
+      3446,
+      1364,
+      3447,
+      3448,
+      3449,
+      3450,
+      3451
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F848"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3445,
+        "unionId": "F848",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3446,
+        "unionId": "F848",
+        "type": "biological"
+      },
+      {
+        "id": 1364,
+        "unionId": "F848",
+        "type": "biological"
+      },
+      {
+        "id": 3447,
+        "unionId": "F848",
+        "type": "biological"
+      },
+      {
+        "id": 3448,
+        "unionId": "F848",
+        "type": "biological"
+      },
+      {
+        "id": 3449,
+        "unionId": "F848",
+        "type": "biological"
+      },
+      {
+        "id": 3450,
+        "unionId": "F848",
+        "type": "biological"
+      },
+      {
+        "id": 3451,
+        "unionId": "F848",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228074489@",
+    "geniId": "6000000027228074489",
+    "rfn": "geni:6000000027228074489",
+    "changed": "11 MAR 2015"
+  },
+  "page": {
+    "route": "people/3444/",
+    "canonical": "https://www.genepedia.org/people/3444/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

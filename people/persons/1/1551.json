@@ -1,0 +1,181 @@
+{
+  "id": 1551,
+  "schema": "genepedia/person@1",
+  "slug": "aletta-sophia-frederika-mellet",
+  "names": {
+    "display": "Aletta Sophia Frederika Mellet",
+    "given": "Aletta Sophia Frederika",
+    "surname": "Mellet",
+    "married": "van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 JUN 1849",
+      "year": 1849,
+      "iso": "1849-06-24",
+      "precision": "exact",
+      "display": "June 24, 1849",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/07/92/e1/87/53444842da2a0616/img_6227_original.jpg?hash=4c469087fbce27867fb4ea4d1734a266b4c01979d924750a646c4f889143dd25.1789455599",
+      "alt": "Aletta Sophia Frederika Mellet"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/07/92/e1/87/53444842da2a0616/img_6227_original.jpg?hash=4c469087fbce27867fb4ea4d1734a266b4c01979d924750a646c4f889143dd25.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/c9/ee/93/9a/534448422cefae80/img_5879_original.jpg?hash=e7fb4d593782ba78104cd04a5deed923cdd5887914b840320f2d35dda4a2de8d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/bf/6c/2d/ce/534448422cf176f5/img_5872_original.jpg?hash=96543b838fbbd1dbedbc153e52791fbb17488f54face1db436f541f58398e485.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/76/30/f9/55/534448422ce9e1e5/img_5870_original.jpg?hash=ef533d53177bd8a1c4005d99bdabe7dc8aada67c5067b8eb31087fabad16d2f9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/5b/ca/d2/c1/534448422ce9e187/img_5871_original.jpg?hash=d29c0fbd054c46d9c1869f149f9482923baa3383d46a232b94a5a93556b01e3a.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1549,
+      1550
+    ],
+    "spouses": [
+      4090
+    ],
+    "exSpouses": [],
+    "children": [
+      4091,
+      4092,
+      4093,
+      4094,
+      4095
+    ],
+    "siblings": [
+      1552,
+      629,
+      1553,
+      1554,
+      1555,
+      1556,
+      1557,
+      1558
+    ],
+    "parentUnions": [
+      "F396"
+    ],
+    "spouseUnions": [
+      "F948"
+    ],
+    "parentLinks": [
+      {
+        "id": 1549,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1550,
+        "unionId": "F396",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4090,
+        "unionId": "F948",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4091,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 4092,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 4093,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 4094,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 4095,
+        "unionId": "F948",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000052614942853@",
+    "geniId": "6000000052614942853",
+    "rfn": "geni:6000000052614942853",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1551/",
+    "canonical": "https://www.genepedia.org/people/1551/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

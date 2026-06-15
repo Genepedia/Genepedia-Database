@@ -1,0 +1,122 @@
+{
+  "id": 2445,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-thomas-jooste",
+  "names": {
+    "display": "Johannes Petrus Thomas Jooste",
+    "given": "Johannes Petrus Thomas",
+    "surname": "Jooste",
+    "married": "Jooste",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 JUL 1812",
+      "year": 1812,
+      "iso": "1812-07-28",
+      "precision": "exact",
+      "display": "July 28, 1812",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "20 SEP 1812",
+      "year": 1812,
+      "iso": "1812-09-20",
+      "precision": "exact",
+      "display": "September 20, 1812",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2438,
+      2437
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2439,
+      2440,
+      2441,
+      2442,
+      2443,
+      2444,
+      2446,
+      1000
+    ],
+    "parentUnions": [
+      "F615"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2438,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2437,
+        "unionId": "F615",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000023180907821@",
+    "geniId": "6000000023180907821",
+    "rfn": "geni:6000000023180907821",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2445/",
+    "canonical": "https://www.genepedia.org/people/2445/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

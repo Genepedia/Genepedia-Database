@@ -1,0 +1,87 @@
+{
+  "id": 2706,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-maria-kotze",
+  "names": {
+    "display": "Cornelia Maria Kotze",
+    "given": "Cornelia Maria",
+    "surname": "Kotze",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1088,
+      2704
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2705
+    ],
+    "parentUnions": [
+      "F665"
+    ],
+    "spouseUnions": [
+      "F1674"
+    ],
+    "parentLinks": [
+      {
+        "id": 1088,
+        "unionId": "F665",
+        "type": "biological"
+      },
+      {
+        "id": 2704,
+        "unionId": "F665",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000221031480859@",
+    "geniId": "6000000221031480859",
+    "rfn": "geni:6000000221031480859",
+    "changed": "01 SEP 2025"
+  },
+  "page": {
+    "route": "people/2706/",
+    "canonical": "https://www.genepedia.org/people/2706/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

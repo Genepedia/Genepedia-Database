@@ -1,0 +1,182 @@
+{
+  "id": 2044,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-jacoba-herholdt",
+  "names": {
+    "display": "Catharina Jacoba Herholdt",
+    "given": "Catharina Jacoba",
+    "surname": "Herholdt",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 NOV 1852",
+      "year": 1852,
+      "iso": "1852-11-25",
+      "precision": "exact",
+      "display": "November 25, 1852",
+      "place": "Philipstown, South Africa",
+      "location": {
+        "label": "Philipstown, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 APR 1934",
+      "year": 1934,
+      "iso": "1934-04-09",
+      "precision": "exact",
+      "display": "April 9, 1934",
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2043
+    ],
+    "exSpouses": [],
+    "children": [
+      2045,
+      842,
+      2046,
+      2047,
+      2048,
+      2049,
+      2050,
+      2051,
+      2052
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1262"
+    ],
+    "spouseUnions": [
+      "F532",
+      "F1261"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2043,
+        "unionId": "F532",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2045,
+        "unionId": "F532",
+        "type": "biological"
+      },
+      {
+        "id": 842,
+        "unionId": "F532",
+        "type": "biological"
+      },
+      {
+        "id": 2046,
+        "unionId": "F532",
+        "type": "biological"
+      },
+      {
+        "id": 2047,
+        "unionId": "F532",
+        "type": "biological"
+      },
+      {
+        "id": 2048,
+        "unionId": "F532",
+        "type": "biological"
+      },
+      {
+        "id": 2049,
+        "unionId": "F532",
+        "type": "biological"
+      },
+      {
+        "id": 2050,
+        "unionId": "F532",
+        "type": "biological"
+      },
+      {
+        "id": 2051,
+        "unionId": "F532",
+        "type": "biological"
+      },
+      {
+        "id": 2052,
+        "unionId": "F532",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000037883802094@",
+    "geniId": "6000000037883802094",
+    "rfn": "geni:6000000037883802094",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/2044/",
+    "canonical": "https://www.genepedia.org/people/2044/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

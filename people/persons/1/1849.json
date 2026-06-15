@@ -1,0 +1,145 @@
+{
+  "id": 1849,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-bester-1849",
+  "names": {
+    "display": "Jacobus Marthinus Bester",
+    "given": "Jacobus Marthinus",
+    "surname": "Bester",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 NOV 1819",
+      "year": 1819,
+      "iso": "1819-11-19",
+      "precision": "exact",
+      "display": "November 19, 1819",
+      "place": "Swellendam, WC, South Africa",
+      "location": {
+        "label": "Swellendam, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "6740",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "5 NOV 1891",
+      "year": 1891,
+      "iso": "1891-11-05",
+      "precision": "exact",
+      "display": "November 5, 1891",
+      "place": "Philipstown, NC, South Africa",
+      "location": {
+        "label": "Philipstown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1844,
+      1843
+    ],
+    "spouses": [
+      4612
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1845,
+      1846,
+      1847,
+      810,
+      1848
+    ],
+    "parentUnions": [
+      "F493"
+    ],
+    "spouseUnions": [
+      "F1105"
+    ],
+    "parentLinks": [
+      {
+        "id": 1844,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1843,
+        "unionId": "F493",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4612,
+        "unionId": "F1105",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000225227014887@",
+    "geniId": "6000000225227014887",
+    "rfn": "geni:6000000225227014887",
+    "changed": "02 MAY 2026"
+  },
+  "page": {
+    "route": "people/1849/",
+    "canonical": "https://www.genepedia.org/people/1849/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

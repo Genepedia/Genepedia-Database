@@ -1,0 +1,152 @@
+{
+  "id": 1416,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-de-beer-1416",
+  "names": {
+    "display": "Daniel Johannes de Beer",
+    "given": "Daniel Johannes",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 APR 1927",
+      "year": 1927,
+      "iso": "1927-04-22",
+      "precision": "exact",
+      "display": "April 22, 1927",
+      "place": null
+    },
+    "death": {
+      "date": "27 JUN 1989",
+      "year": 1989,
+      "iso": "1989-06-27",
+      "precision": "exact",
+      "display": "June 27, 1989",
+      "place": null
+    },
+    "baptism": {
+      "date": "29 JUL 1928",
+      "year": 1928,
+      "iso": "1928-07-29",
+      "precision": "exact",
+      "display": "July 29, 1928",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      573,
+      1410
+    ],
+    "spouses": [
+      3704
+    ],
+    "exSpouses": [],
+    "children": [
+      3705
+    ],
+    "siblings": [
+      1411,
+      1412,
+      1413,
+      1414,
+      1415,
+      1417,
+      1418,
+      1419,
+      1420,
+      1421,
+      1422,
+      1423,
+      1424
+    ],
+    "parentUnions": [
+      "F362"
+    ],
+    "spouseUnions": [
+      "F888"
+    ],
+    "parentLinks": [
+      {
+        "id": 573,
+        "unionId": "F362",
+        "type": "biological"
+      },
+      {
+        "id": 1410,
+        "unionId": "F362",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3704,
+        "unionId": "F888",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3705,
+        "unionId": "F888",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000038287530865@",
+    "geniId": "6000000038287530865",
+    "rfn": "geni:6000000038287530865",
+    "changed": "29 OCT 2023"
+  },
+  "page": {
+    "route": "people/1416/",
+    "canonical": "https://www.genepedia.org/people/1416/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

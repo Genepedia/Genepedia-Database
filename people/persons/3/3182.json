@@ -1,0 +1,103 @@
+{
+  "id": 3182,
+  "schema": "genepedia/person@1",
+  "slug": "johan-gloy",
+  "names": {
+    "display": "Johan Gloy",
+    "given": "Johan",
+    "surname": "Gloy",
+    "married": "Gloy",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1277
+    ],
+    "exSpouses": [],
+    "children": [
+      3183,
+      3184,
+      3185,
+      3186
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F783"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1277,
+        "unionId": "F783",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3183,
+        "unionId": "F783",
+        "type": "biological"
+      },
+      {
+        "id": 3184,
+        "unionId": "F783",
+        "type": "biological"
+      },
+      {
+        "id": 3185,
+        "unionId": "F783",
+        "type": "biological"
+      },
+      {
+        "id": 3186,
+        "unionId": "F783",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781456765@",
+    "geniId": "6000000007781456765",
+    "rfn": "geni:6000000007781456765",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/3182/",
+    "canonical": "https://www.genepedia.org/people/3182/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

@@ -1,0 +1,119 @@
+{
+  "id": 56,
+  "schema": "genepedia/person@1",
+  "slug": "tiaan-smit-56",
+  "names": {
+    "display": "Tiaan Smit",
+    "given": "Tiaan",
+    "surname": "Smit",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/98/21/6e/1d/534448666482896d/screenshot_2024-08-15_104407_original.jpg?hash=b4418d17feaab682f06a0d6e6006e4f5664b002c2a2b3b08df26874533dce291.1789455599",
+      "alt": "Tiaan Smit"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/98/21/6e/1d/534448666482896d/screenshot_2024-08-15_104407_original.jpg?hash=b4418d17feaab682f06a0d6e6006e4f5664b002c2a2b3b08df26874533dce291.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      195
+    ],
+    "spouses": [
+      57
+    ],
+    "exSpouses": [],
+    "children": [
+      58,
+      10,
+      59
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F60"
+    ],
+    "spouseUnions": [
+      "F20"
+    ],
+    "parentLinks": [
+      {
+        "id": 195,
+        "unionId": "F60",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 57,
+        "unionId": "F20",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 58,
+        "unionId": "F20",
+        "type": "biological"
+      },
+      {
+        "id": 10,
+        "unionId": "F20",
+        "type": "biological"
+      },
+      {
+        "id": 59,
+        "unionId": "F20",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208173790837@",
+    "geniId": "6000000208173790837",
+    "rfn": "geni:6000000208173790837",
+    "changed": "15 AUG 2024"
+  },
+  "page": {
+    "route": "people/56/",
+    "canonical": "https://www.genepedia.org/people/56/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

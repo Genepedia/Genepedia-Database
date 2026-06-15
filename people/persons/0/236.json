@@ -1,0 +1,131 @@
+{
+  "id": 236,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-johannes-scheepers",
+  "names": {
+    "display": "Marthinus Johannes Scheepers",
+    "given": "Marthinus Johannes",
+    "surname": "Scheepers",
+    "married": "Scheepers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 SEP 1945",
+      "year": 1945,
+      "iso": "1945-09-27",
+      "precision": "exact",
+      "display": "September 27, 1945",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 JUN 2007",
+      "year": 2007,
+      "iso": "2007-06-28",
+      "precision": "exact",
+      "display": "June 28, 2007",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      237
+    ],
+    "exSpouses": [],
+    "children": [
+      78
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F76"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 237,
+        "unionId": "F76",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 78,
+        "unionId": "F76",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207417549870@",
+    "geniId": "6000000207417549870",
+    "rfn": "geni:6000000207417549870",
+    "changed": "18 JUL 2024"
+  },
+  "page": {
+    "route": "people/236/",
+    "canonical": "https://www.genepedia.org/people/236/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

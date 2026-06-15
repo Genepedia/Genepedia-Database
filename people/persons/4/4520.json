@@ -1,0 +1,99 @@
+{
+  "id": 4520,
+  "schema": "genepedia/person@1",
+  "slug": "dimitry-bernstein",
+  "names": {
+    "display": "Dimitry Bernstein",
+    "given": "Dimitry",
+    "surname": "Bernstein",
+    "married": "Bernstein",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BET 1 JAN 1837 AND 1 JAN 1839",
+      "year": 1837,
+      "iso": "1839-01-01",
+      "precision": "exact",
+      "display": "January 1, 1839",
+      "place": null
+    },
+    "death": {
+      "date": "AFT 1866",
+      "year": 1866,
+      "iso": "1866",
+      "precision": "after",
+      "display": "after 1866",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Speculator",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4521
+    ],
+    "exSpouses": [],
+    "children": [
+      1775
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1075"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4521,
+        "unionId": "F1075",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1775,
+        "unionId": "F1075",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217944012823@",
+    "geniId": "6000000217944012823",
+    "rfn": "geni:6000000217944012823",
+    "changed": "14 JUN 2025"
+  },
+  "page": {
+    "route": "people/4520/",
+    "canonical": "https://www.genepedia.org/people/4520/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

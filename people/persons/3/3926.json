@@ -1,0 +1,129 @@
+{
+  "id": 3926,
+  "schema": "genepedia/person@1",
+  "slug": "maria-gertruida-vermeulen",
+  "names": {
+    "display": "Maria Gertruida Vermeulen",
+    "given": "Maria Gertruida",
+    "surname": "Vermeulen",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 FEB 1872",
+      "year": 1872,
+      "iso": "1872-02-23",
+      "precision": "exact",
+      "display": "February 23, 1872",
+      "place": null
+    },
+    "death": {
+      "date": "29 NOV 1939",
+      "year": 1939,
+      "iso": "1939-11-29",
+      "precision": "exact",
+      "display": "November 29, 1939",
+      "place": "Claremont, Pretoria, Transvaal, South Africa",
+      "location": {
+        "label": "Claremont, Pretoria, Transvaal, South Africa",
+        "placeName": "Claremont, Pretoria, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3921,
+      1533
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3922,
+      3923,
+      3924,
+      3925,
+      3927,
+      3928,
+      3929,
+      3930,
+      3931,
+      3932,
+      3933,
+      3934,
+      3935,
+      3936,
+      3937
+    ],
+    "parentUnions": [
+      "F925"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3921,
+        "unionId": "F925",
+        "type": "biological"
+      },
+      {
+        "id": 1533,
+        "unionId": "F925",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024928802801@",
+    "geniId": "6000000024928802801",
+    "rfn": "geni:6000000024928802801",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3926/",
+    "canonical": "https://www.genepedia.org/people/3926/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

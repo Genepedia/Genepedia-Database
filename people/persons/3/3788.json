@@ -1,0 +1,127 @@
+{
+  "id": 3788,
+  "schema": "genepedia/person@1",
+  "slug": "talitha-kumi-brynard",
+  "names": {
+    "display": "Talitha Kumi Brynard",
+    "given": "Talitha Kumi",
+    "surname": "Brynard",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 APR 1902",
+      "year": 1902,
+      "iso": "1902-04-13",
+      "precision": "exact",
+      "display": "April 13, 1902",
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "8190",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 APR 1982",
+      "year": 1982,
+      "iso": "1982-04-21",
+      "precision": "exact",
+      "display": "April 21, 1982",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1437,
+      3782
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3783,
+      3784,
+      3785,
+      3786,
+      3787,
+      3789,
+      3790,
+      3791,
+      3792,
+      3793,
+      3794,
+      3795,
+      3796
+    ],
+    "parentUnions": [
+      "F903"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1437,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3782,
+        "unionId": "F903",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000223365781855@",
+    "geniId": "6000000223365781855",
+    "rfn": "geni:6000000223365781855",
+    "changed": "16 JAN 2026"
+  },
+  "page": {
+    "route": "people/3788/",
+    "canonical": "https://www.genepedia.org/people/3788/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

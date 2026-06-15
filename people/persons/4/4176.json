@@ -1,0 +1,77 @@
+{
+  "id": 4176,
+  "schema": "genepedia/person@1",
+  "slug": "p-j-botes",
+  "names": {
+    "display": "P J Botes",
+    "given": "P J",
+    "surname": "Botes",
+    "married": "Botes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      1584
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F977"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 1584,
+        "unionId": "F977",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000143830520847@",
+    "geniId": "6000000143830520847",
+    "rfn": "geni:6000000143830520847",
+    "changed": "21 JUL 2020"
+  },
+  "page": {
+    "route": "people/4176/",
+    "canonical": "https://www.genepedia.org/people/4176/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

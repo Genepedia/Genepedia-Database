@@ -1,0 +1,99 @@
+{
+  "id": 2229,
+  "schema": "genepedia/person@1",
+  "slug": "barbara-kingsley",
+  "names": {
+    "display": "Barbara Kingsley",
+    "given": "Barbara",
+    "surname": "Kingsley",
+    "married": "Holloway",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "1970",
+      "year": 1970,
+      "iso": "1970",
+      "precision": "exact",
+      "display": "1970",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2222,
+      2223
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      905,
+      2224,
+      2225,
+      2226,
+      2227,
+      2228
+    ],
+    "parentUnions": [
+      "F565"
+    ],
+    "spouseUnions": [
+      "F1380"
+    ],
+    "parentLinks": [
+      {
+        "id": 2222,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2223,
+        "unionId": "F565",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000061376878929@",
+    "geniId": "6000000061376878929",
+    "rfn": "geni:6000000061376878929",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2229/",
+    "canonical": "https://www.genepedia.org/people/2229/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

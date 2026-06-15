@@ -1,0 +1,154 @@
+{
+  "id": 4790,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-louisa-gertruida-nienaber",
+  "names": {
+    "display": "Elizabeth Louisa Gertruida Nienaber",
+    "given": "Elizabeth Louisa Gertruida",
+    "surname": "Nienaber",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 AUG 1898",
+      "year": 1898,
+      "iso": "1898-08-15",
+      "precision": "exact",
+      "display": "August 15, 1898",
+      "place": "Wilde Alspoort, Koffiefontein, Free State, South Africa",
+      "location": {
+        "label": "Wilde Alspoort, Koffiefontein, Free State, South Africa",
+        "placeName": "Wilde Alspoort",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Koffiefontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 OCT 1918",
+      "year": 1918,
+      "iso": "1918-10-20",
+      "precision": "exact",
+      "display": "October 20, 1918",
+      "place": "Koffiefontein, Free State, South Africa",
+      "location": {
+        "label": "Koffiefontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Koffiefontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "25 SEP 1898",
+      "year": 1898,
+      "iso": "1898-09-25",
+      "precision": "exact",
+      "display": "September 25, 1898",
+      "place": "Fauresmith, Free State, South Africa",
+      "location": {
+        "label": "Fauresmith, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fauresmith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1894
+    ],
+    "exSpouses": [],
+    "children": [
+      4791
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1141"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1894,
+        "unionId": "F1141",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4791,
+        "unionId": "F1141",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065527916874@",
+    "geniId": "6000000065527916874",
+    "rfn": "geni:6000000065527916874",
+    "changed": "23 AUG 2017"
+  },
+  "page": {
+    "route": "people/4790/",
+    "canonical": "https://www.genepedia.org/people/4790/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

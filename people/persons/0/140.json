@@ -1,0 +1,190 @@
+{
+  "id": 140,
+  "schema": "genepedia/person@1",
+  "slug": "john-henry-roselt",
+  "names": {
+    "display": "John Henry Roselt",
+    "given": "John Henry",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 MAY 1916",
+      "year": 1916,
+      "iso": "1916-05-27",
+      "precision": "exact",
+      "display": "May 27, 1916",
+      "place": null
+    },
+    "death": {
+      "date": "12 APR 2006",
+      "year": 2006,
+      "iso": "2006-04-12",
+      "precision": "exact",
+      "display": "April 12, 2006",
+      "place": "Middelburg, South Africa",
+      "location": {
+        "label": "Middelburg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "27 AUG 1916",
+      "year": 1916,
+      "iso": "1916-08-27",
+      "precision": "exact",
+      "display": "August 27, 1916",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/6e/d9/86/8f/53444840c04ea4bb/foto_11_troue_bruid_se_familie_saam_met_bruidspaar_jane_roselt_pienaar_original.jpg?hash=32a18329ca0fd0e22297d249e37f7f123c622f3642ff10a5a9cb3d276f996694.1789455599",
+      "alt": "John Henry Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/6e/d9/86/8f/53444840c04ea4bb/foto_11_troue_bruid_se_familie_saam_met_bruidspaar_jane_roselt_pienaar_original.jpg?hash=32a18329ca0fd0e22297d249e37f7f123c622f3642ff10a5a9cb3d276f996694.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/f4/d8/a0/13/53444840f655b059/record-image_3qsq-g9sw-q9x7-8_original.jpg?hash=0b95f1eacad241f88797d2ecd03168f600ef01ed8c9c12112c3bb0aabf587f59.1789455599",
+        "form": "",
+        "title": "record-image_trou 1940  .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      138,
+      139
+    ],
+    "spouses": [
+      385,
+      387
+    ],
+    "exSpouses": [],
+    "children": [
+      386
+    ],
+    "siblings": [
+      141,
+      142,
+      143,
+      144,
+      145,
+      40,
+      146,
+      147,
+      148
+    ],
+    "parentUnions": [
+      "F47"
+    ],
+    "spouseUnions": [
+      "F119",
+      "F120"
+    ],
+    "parentLinks": [
+      {
+        "id": 138,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 139,
+        "unionId": "F47",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 385,
+        "unionId": "F119",
+        "role": "wife"
+      },
+      {
+        "id": 387,
+        "unionId": "F120",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 386,
+        "unionId": "F119",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165813849@",
+    "geniId": "6000000028165813849",
+    "rfn": "geni:6000000028165813849",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/140/",
+    "canonical": "https://www.genepedia.org/people/140/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

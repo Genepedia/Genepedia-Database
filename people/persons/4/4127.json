@@ -1,0 +1,202 @@
+{
+  "id": 4127,
+  "schema": "genepedia/person@1",
+  "slug": "matthys-johannes-wilhelmus-du-plessis",
+  "names": {
+    "display": "Matthys Johannes Wilhelmus du Plessis",
+    "given": "Matthys Johannes Wilhelmus",
+    "surname": "du Plessis",
+    "married": "du Plessis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 MAY 1854",
+      "year": 1854,
+      "iso": "1854-05-13",
+      "precision": "exact",
+      "display": "May 13, 1854",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 OCT 1934",
+      "year": 1934,
+      "iso": "1934-10-18",
+      "precision": "exact",
+      "display": "October 18, 1934",
+      "place": "Zandvlei, Winburg, Orange Free State, South Africa",
+      "location": {
+        "label": "Zandvlei, Winburg, Orange Free State, South Africa",
+        "placeName": "Zandvlei",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Winburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "3 JUL 1854",
+      "year": 1854,
+      "iso": "1854-07-03",
+      "precision": "exact",
+      "display": "July 3, 1854",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ea/5f/f7/54/534448554fa66394/vab_23617_1934_matthys_jw_du_plessis_sk_original.jpg?hash=502f676b6a624045bb47e4e2aa1845e06357a0a21ebfc35442a93c395fec9c2e.1789455599",
+      "alt": "Matthys Johannes Wilhelmus du Plessis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ea/5f/f7/54/534448554fa66394/vab_23617_1934_matthys_jw_du_plessis_sk_original.jpg?hash=502f676b6a624045bb47e4e2aa1845e06357a0a21ebfc35442a93c395fec9c2e.1789455599",
+        "form": "",
+        "title": "VAB 23617 1934 Matthys JW du Plessis SK.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4126
+    ],
+    "exSpouses": [],
+    "children": [
+      4128,
+      4129,
+      4130,
+      4131,
+      1559,
+      4132,
+      4133
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F955"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4126,
+        "unionId": "F955",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4128,
+        "unionId": "F955",
+        "type": "biological"
+      },
+      {
+        "id": 4129,
+        "unionId": "F955",
+        "type": "biological"
+      },
+      {
+        "id": 4130,
+        "unionId": "F955",
+        "type": "biological"
+      },
+      {
+        "id": 4131,
+        "unionId": "F955",
+        "type": "biological"
+      },
+      {
+        "id": 1559,
+        "unionId": "F955",
+        "type": "biological"
+      },
+      {
+        "id": 4132,
+        "unionId": "F955",
+        "type": "biological"
+      },
+      {
+        "id": 4133,
+        "unionId": "F955",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000173901159849@",
+    "geniId": "6000000173901159849",
+    "rfn": "geni:6000000173901159849",
+    "changed": "07 FEB 2023"
+  },
+  "page": {
+    "route": "people/4127/",
+    "canonical": "https://www.genepedia.org/people/4127/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

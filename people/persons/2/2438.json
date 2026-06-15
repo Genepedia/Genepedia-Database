@@ -1,0 +1,198 @@
+{
+  "id": 2438,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-joosten-jooste",
+  "names": {
+    "display": "Jacobus Joosten (Jooste)",
+    "given": "Jacobus",
+    "surname": "Joosten (Jooste)",
+    "married": "Joosten (Jooste)",
+    "nick": "Jacobus Joosten (As per his Baptism Record)",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1780",
+      "year": 1780,
+      "iso": "1780",
+      "precision": "exact",
+      "display": "1780",
+      "place": null
+    },
+    "death": {
+      "date": "14 AUG 1834",
+      "year": 1834,
+      "iso": "1834-08-14",
+      "precision": "exact",
+      "display": "August 14, 1834",
+      "place": null
+    },
+    "baptism": {
+      "date": "27 AUG 1780",
+      "year": 1780,
+      "iso": "1780-08-27",
+      "precision": "exact",
+      "display": "August 27, 1780",
+      "place": "NGK Tulbagh",
+      "location": {
+        "label": "NGK Tulbagh",
+        "placeName": "NGK Tulbagh",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Burger Stellenbosch",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/43/5d/7d/2b/5344485eaeac3762/baptism_records_5__original.jpg?hash=4518e14c2878e957ddca229ce986a84d079b8a9bc0d30919e2210c58d2dcbbe0.1789455599",
+      "alt": "Jacobus Joosten (Jooste)"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/43/5d/7d/2b/5344485eaeac3762/baptism_records_5__original.jpg?hash=4518e14c2878e957ddca229ce986a84d079b8a9bc0d30919e2210c58d2dcbbe0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/4e/ca/e9/22/5344483f231c5b5e/record-image_3q9m-csqj-67cp_original.jpg?hash=66d6c57887dedd411b03393fedc9059aebdda7d1b27b38c1b342b9ea3d56d1bf.1789455599",
+        "form": "",
+        "title": "record-image_3Q9M-CSQJ-67CP.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/27/de/63/38/5344485eaea9c25e/baptism_records_5__original.jpg?hash=626521ee9c9aa4d9bd857770c93f624d9fb1927e49a2b1c5100d99b7472e0d6c.1789455599",
+        "form": "",
+        "title": "Baptism Records (5).jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2437
+    ],
+    "exSpouses": [],
+    "children": [
+      2439,
+      2440,
+      2441,
+      2442,
+      2443,
+      2444,
+      2445,
+      2446,
+      1000
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1488"
+    ],
+    "spouseUnions": [
+      "F615"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2437,
+        "unionId": "F615",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2439,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2440,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2441,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2442,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2443,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2444,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2445,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2446,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 1000,
+        "unionId": "F615",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000022279268870@",
+    "geniId": "6000000022279268870",
+    "rfn": "geni:6000000022279268870",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2438/",
+    "canonical": "https://www.genepedia.org/people/2438/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,107 @@
+{
+  "id": 3077,
+  "schema": "genepedia/person@1",
+  "slug": "marie-gouws",
+  "names": {
+    "display": "Marie Gouws",
+    "given": "Marie",
+    "surname": "Meyer",
+    "married": "Gouws",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 JUN 1946",
+      "year": 1946,
+      "iso": "1946-06-24",
+      "precision": "exact",
+      "display": "June 24, 1946",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/23/dc/9d/e9/534448674b90c278/452533155_3438017646491570_2714528129154415003_n_original.jpg?hash=236efb029c94ba64bf20890252fcc453247dd45cd7f95a603f0ddd5ea79a27bf.1789455599",
+      "alt": "Marie Gouws"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/23/dc/9d/e9/534448674b90c278/452533155_3438017646491570_2714528129154415003_n_original.jpg?hash=236efb029c94ba64bf20890252fcc453247dd45cd7f95a603f0ddd5ea79a27bf.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3075,
+      3076
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1231,
+      3078
+    ],
+    "parentUnions": [
+      "F757"
+    ],
+    "spouseUnions": [
+      "F1906"
+    ],
+    "parentLinks": [
+      {
+        "id": 3075,
+        "unionId": "F757",
+        "type": "biological"
+      },
+      {
+        "id": 3076,
+        "unionId": "F757",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207508473835@",
+    "geniId": "6000000207508473835",
+    "rfn": "geni:6000000207508473835",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/3077/",
+    "canonical": "https://www.genepedia.org/people/3077/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

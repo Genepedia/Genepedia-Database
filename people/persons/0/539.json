@@ -1,0 +1,196 @@
+{
+  "id": 539,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-van-taak",
+  "names": {
+    "display": "Pieter Andries van Taak",
+    "given": "Pieter Andries",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 DEC 1900",
+      "year": 1900,
+      "iso": "1900-12-23",
+      "precision": "exact",
+      "display": "December 23, 1900",
+      "place": "Brakfontein, Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Brakfontein, Clanwilliam, Cape Province, South Africa",
+        "placeName": "Brakfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "26 NOV 1960",
+      "year": 1960,
+      "iso": "1960-11-26",
+      "precision": "exact",
+      "display": "November 26, 1960",
+      "place": "General Hospital, Pretoria, Transvaal, South Africa",
+      "location": {
+        "label": "General Hospital, Pretoria, Transvaal, South Africa",
+        "placeName": "General Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "18 APR 1901",
+      "year": 1901,
+      "iso": "1901-04-18",
+      "precision": "exact",
+      "display": "April 18, 1901",
+      "place": "Biedouw, Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Biedouw, Clanwilliam, Cape Province, South Africa",
+        "placeName": "Biedouw",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      538,
+      537
+    ],
+    "spouses": [
+      1312
+    ],
+    "exSpouses": [],
+    "children": [
+      1313,
+      1314,
+      1315,
+      1316
+    ],
+    "siblings": [
+      540,
+      541,
+      210,
+      542,
+      543,
+      544,
+      545
+    ],
+    "parentUnions": [
+      "F159"
+    ],
+    "spouseUnions": [
+      "F338"
+    ],
+    "parentLinks": [
+      {
+        "id": 538,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 537,
+        "unionId": "F159",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1312,
+        "unionId": "F338",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1313,
+        "unionId": "F338",
+        "type": "biological"
+      },
+      {
+        "id": 1314,
+        "unionId": "F338",
+        "type": "biological"
+      },
+      {
+        "id": 1315,
+        "unionId": "F338",
+        "type": "biological"
+      },
+      {
+        "id": 1316,
+        "unionId": "F338",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020382470713@",
+    "geniId": "6000000020382470713",
+    "rfn": "geni:6000000020382470713",
+    "changed": "24 AUG 2022"
+  },
+  "page": {
+    "route": "people/539/",
+    "canonical": "https://www.genepedia.org/people/539/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

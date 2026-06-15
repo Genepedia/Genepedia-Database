@@ -1,0 +1,183 @@
+{
+  "id": 4182,
+  "schema": "genepedia/person@1",
+  "slug": "gezina-maria-janse-van-rensburg",
+  "names": {
+    "display": "Gezina Maria Janse Van Rensburg",
+    "given": "Gezina Maria",
+    "surname": "Janse Van Rensburg",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": [
+      "Gesina Maria (Sina) Viljoen"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JUN 1888",
+      "year": 1888,
+      "iso": "1888-06-12",
+      "precision": "exact",
+      "display": "June 12, 1888",
+      "place": null
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Schweizer Reneke, Wes Transvaal, South Africa",
+      "location": {
+        "label": "Schweizer Reneke, Wes Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Schweizer Reneke",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Wes Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Schweiser Reneke, Wes Transvaal, South Africa",
+      "location": {
+        "label": "Schweiser Reneke, Wes Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Schweiser Reneke",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Wes Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boervrou",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p5/5860/5088/534448368ff2a5c9/gesina_original.jpg?hash=154864b601031eb6918de582803f516134dc66da3849f1466754579dbfa38477.1789455599",
+      "alt": "Gezina Maria Janse Van Rensburg"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p5/5860/5088/534448368ff2a5c9/gesina_original.jpg?hash=154864b601031eb6918de582803f516134dc66da3849f1466754579dbfa38477.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4183
+    ],
+    "exSpouses": [],
+    "children": [
+      4184,
+      4185,
+      1587,
+      4186,
+      4187,
+      4188
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F980"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4183,
+        "unionId": "F980",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4184,
+        "unionId": "F980",
+        "type": "biological"
+      },
+      {
+        "id": 4185,
+        "unionId": "F980",
+        "type": "biological"
+      },
+      {
+        "id": 1587,
+        "unionId": "F980",
+        "type": "biological"
+      },
+      {
+        "id": 4186,
+        "unionId": "F980",
+        "type": "biological"
+      },
+      {
+        "id": 4187,
+        "unionId": "F980",
+        "type": "biological"
+      },
+      {
+        "id": 4188,
+        "unionId": "F980",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000001785867986@",
+    "geniId": "6000000001785867986",
+    "rfn": "geni:6000000001785867986",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/4182/",
+    "canonical": "https://www.genepedia.org/people/4182/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

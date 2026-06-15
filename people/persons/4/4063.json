@@ -1,0 +1,214 @@
+{
+  "id": 4063,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-christina-de-villiers",
+  "names": {
+    "display": "Rachel Christina de Villiers",
+    "given": "Rachel Christina",
+    "surname": "de Villiers",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 21 MAR 1779",
+      "year": 1779,
+      "iso": "1779-03-21",
+      "precision": "before",
+      "display": "before March 21, 1779",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 SEP 1839",
+      "year": 1839,
+      "iso": "1839-09-17",
+      "precision": "exact",
+      "display": "September 17, 1839",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "21 MAR 1779",
+      "year": 1779,
+      "iso": "1779-03-21",
+      "precision": "exact",
+      "display": "March 21, 1779",
+      "place": "Paarl, Caep de Goede Hoop, South Africa",
+      "location": {
+        "label": "Paarl, Caep de Goede Hoop, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Caep de Goede Hoop",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4062
+    ],
+    "exSpouses": [],
+    "children": [
+      4064,
+      4065,
+      4066,
+      4067,
+      1549,
+      4068,
+      4069,
+      4070,
+      4071,
+      4072,
+      4073
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F945"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4062,
+        "unionId": "F945",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4064,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4065,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4066,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4067,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 1549,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4068,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4069,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4070,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4071,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4072,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4073,
+        "unionId": "F945",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003356202848@",
+    "geniId": "6000000003356202848",
+    "rfn": "geni:6000000003356202848",
+    "changed": "31 MAY 2024"
+  },
+  "page": {
+    "route": "people/4063/",
+    "canonical": "https://www.genepedia.org/people/4063/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

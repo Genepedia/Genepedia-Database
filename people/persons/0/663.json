@@ -1,0 +1,156 @@
+{
+  "id": 663,
+  "schema": "genepedia/person@1",
+  "slug": "urban-xenophon-smith",
+  "names": {
+    "display": "Urban Xenophon Smith",
+    "given": "Urban Xenophon",
+    "surname": "Smith",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 JAN 1927",
+      "year": 1927,
+      "iso": "1927-01-05",
+      "precision": "exact",
+      "display": "January 5, 1927",
+      "place": "Val, Standerton, Mpumalanga, South Africa",
+      "location": {
+        "label": "Val, Standerton, Mpumalanga, South Africa",
+        "placeName": "Val",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Standerton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 AUG 2008",
+      "year": 2008,
+      "iso": "2008-08-12",
+      "precision": "exact",
+      "display": "August 12, 2008",
+      "place": "Benoni, Gauteng, South Africa",
+      "location": {
+        "label": "Benoni, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Benoni",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      661,
+      662
+    ],
+    "spouses": [
+      1647,
+      1649
+    ],
+    "exSpouses": [],
+    "children": [
+      1648
+    ],
+    "siblings": [
+      256
+    ],
+    "parentUnions": [
+      "F187"
+    ],
+    "spouseUnions": [
+      "F422",
+      "F423"
+    ],
+    "parentLinks": [
+      {
+        "id": 661,
+        "unionId": "F187",
+        "type": "biological"
+      },
+      {
+        "id": 662,
+        "unionId": "F187",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1647,
+        "unionId": "F422",
+        "role": "partner"
+      },
+      {
+        "id": 1649,
+        "unionId": "F423",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1648,
+        "unionId": "F422",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000015665577447@",
+    "geniId": "6000000015665577447",
+    "rfn": "geni:6000000015665577447",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/663/",
+    "canonical": "https://www.genepedia.org/people/663/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,152 @@
+{
+  "id": 62,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-andre-marais",
+  "names": {
+    "display": "Johannes Andre Marais",
+    "given": "Johannes Andre",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "Johan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 MAR 1966",
+      "year": 1966,
+      "iso": "1966-03-22",
+      "precision": "exact",
+      "display": "March 22, 1966",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 JUL 1985",
+      "year": 1985,
+      "iso": "1985-07-16",
+      "precision": "exact",
+      "display": "July 16, 1985",
+      "place": "Caledon, South Africa",
+      "location": {
+        "label": "Caledon, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Caledon",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/a8/49/0d/c7/534448659f2e8bd3/whatsapp_image_2024-04-06_at_19_original.jpg?hash=d233646e62fae4d67dc5a1f2394fe5332ac144b330eac73f34a19366b2a752d3.1789455599",
+      "alt": "Johannes Andre Marais"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/a8/49/0d/c7/534448659f2e8bd3/whatsapp_image_2024-04-06_at_19_original.jpg?hash=d233646e62fae4d67dc5a1f2394fe5332ac144b330eac73f34a19366b2a752d3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/90/9d/3c/82/534448659f28f644/whatsapp_image_2024-04-06_at_19_original.jpg?hash=4359c8ff0694fe7d42dede0c42ecd4ac52741362a5e788885460df768991d7bf.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      60,
+      61
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      11,
+      63,
+      64
+    ],
+    "parentUnions": [
+      "F21"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 60,
+        "unionId": "F21",
+        "type": "biological"
+      },
+      {
+        "id": 61,
+        "unionId": "F21",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000110818158966@",
+    "geniId": "6000000110818158966",
+    "rfn": "geni:6000000110818158966",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/62/",
+    "canonical": "https://www.genepedia.org/people/62/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

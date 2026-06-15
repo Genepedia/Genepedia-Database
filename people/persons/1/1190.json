@@ -1,0 +1,120 @@
+{
+  "id": 1190,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobus-brits",
+  "names": {
+    "display": "Johannes Jacobus Brits",
+    "given": "Johannes Jacobus",
+    "surname": "Brits",
+    "married": "Brits",
+    "nick": "Johan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "9 DEC 1942",
+      "year": 1942,
+      "iso": "1942-12-09",
+      "precision": "exact",
+      "display": "December 9, 1942",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3000,
+      3001
+    ],
+    "spouses": [
+      483
+    ],
+    "exSpouses": [],
+    "children": [
+      1191,
+      1192,
+      1193
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F734"
+    ],
+    "spouseUnions": [
+      "F310"
+    ],
+    "parentLinks": [
+      {
+        "id": 3000,
+        "unionId": "F734",
+        "type": "biological"
+      },
+      {
+        "id": 3001,
+        "unionId": "F734",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 483,
+        "unionId": "F310",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1191,
+        "unionId": "F310",
+        "type": "biological"
+      },
+      {
+        "id": 1192,
+        "unionId": "F310",
+        "type": "biological"
+      },
+      {
+        "id": 1193,
+        "unionId": "F310",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024192856506@",
+    "geniId": "6000000024192856506",
+    "rfn": "geni:6000000024192856506",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1190/",
+    "canonical": "https://www.genepedia.org/people/1190/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

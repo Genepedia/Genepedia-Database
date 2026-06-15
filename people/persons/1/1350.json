@@ -1,0 +1,101 @@
+{
+  "id": 1350,
+  "schema": "genepedia/person@1",
+  "slug": "sophia-christina-johanna-palvie",
+  "names": {
+    "display": "Sophia Christina Johanna Palvie",
+    "given": "Sophia Christina Johanna",
+    "surname": "Palvie",
+    "married": "Maritz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1344,
+      1343
+    ],
+    "spouses": [
+      3438
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1345,
+      1346,
+      1347,
+      547,
+      1348,
+      1349,
+      1351
+    ],
+    "parentUnions": [
+      "F346"
+    ],
+    "spouseUnions": [
+      "F844"
+    ],
+    "parentLinks": [
+      {
+        "id": 1344,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 1343,
+        "unionId": "F346",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3438,
+        "unionId": "F844",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204870099856@",
+    "geniId": "6000000204870099856",
+    "rfn": "geni:6000000204870099856",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/1350/",
+    "canonical": "https://www.genepedia.org/people/1350/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

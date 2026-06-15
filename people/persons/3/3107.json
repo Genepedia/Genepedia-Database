@@ -1,0 +1,115 @@
+{
+  "id": 3107,
+  "schema": "genepedia/person@1",
+  "slug": "willem-francois-gouws",
+  "names": {
+    "display": "Willem Francois Gouws",
+    "given": "Willem Francois",
+    "surname": "Gouws",
+    "married": "Gouws",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 OCT 1833",
+      "year": 1833,
+      "iso": "1833-10-06",
+      "precision": "exact",
+      "display": "October 6, 1833",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "26 DEC 1833",
+      "year": 1833,
+      "iso": "1833-12-26",
+      "precision": "exact",
+      "display": "December 26, 1833",
+      "place": "Nederduitsch Gereformeerde Kerk, Beaufort-Wes, Kaapkolonie",
+      "location": {
+        "label": "Nederduitsch Gereformeerde Kerk, Beaufort-Wes, Kaapkolonie",
+        "placeName": "Nederduitsch Gereformeerde Kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort-Wes",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Kaapkolonie",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3108
+    ],
+    "exSpouses": [],
+    "children": [
+      1250
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F770"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3108,
+        "unionId": "F770",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1250,
+        "unionId": "F770",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000015983469217@",
+    "geniId": "6000000015983469217",
+    "rfn": "geni:6000000015983469217",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/3107/",
+    "canonical": "https://www.genepedia.org/people/3107/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

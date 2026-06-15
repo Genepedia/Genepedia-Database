@@ -1,0 +1,159 @@
+{
+  "id": 2627,
+  "schema": "genepedia/person@1",
+  "slug": "elsie-susanna-cecilia-koekemoer-2627",
+  "names": {
+    "display": "Elsie Susanna Cecilia Koekemoer",
+    "given": "Elsie Susanna Cecilia",
+    "surname": "Koekemoer",
+    "married": "du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1868",
+      "year": 1868,
+      "iso": "1868",
+      "precision": "exact",
+      "display": "1868",
+      "place": null
+    },
+    "death": {
+      "date": "ABT 9 OCT 1953",
+      "year": 1953,
+      "iso": "1953-10-09",
+      "precision": "about",
+      "display": "about October 9, 1953",
+      "place": "Augrabies, NC, South Africa",
+      "location": {
+        "label": "Augrabies, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Augrabies",
+        "postalCode": "8874",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/23/c8/94/98/5344485f1f0cffa5/_koekemoer_ellie_susanna_cecilia_geb_de_graaff_1875-1953_augrabies_original.jpg?hash=745da9ec67076abccd90782eaca60d477897785ae598e329b82881e92bf222b6.1789455599",
+      "alt": "Elsie Susanna Cecilia Koekemoer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/23/c8/94/98/5344485f1f0cffa5/_koekemoer_ellie_susanna_cecilia_geb_de_graaff_1875-1953_augrabies_original.jpg?hash=745da9ec67076abccd90782eaca60d477897785ae598e329b82881e92bf222b6.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/22/47/e1/e2/5344485ef8b270d2/koekemoer_anna_ceciela_1858-1928_bucklands_main_cemetery_original.jpg?hash=73688e5ba0e60d9716cf6117104a46f3ae43cc90af1147b7260323d066be1b74.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/65/f3/80/1c/5344485ef62a4746/koekemoer_abraham_johannes_gerhardus_1854-1940_bucklands_main_cemetery_original.jpg?hash=4c1ad8627164fee3a9d65312a3acdb098b228ac83c7bf0da38e5546e97b031d7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2620,
+      1067
+    ],
+    "spouses": [
+      2628
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2621,
+      2622,
+      2623,
+      2624,
+      2625,
+      1095,
+      1137,
+      2626,
+      2628
+    ],
+    "parentUnions": [
+      "F644"
+    ],
+    "spouseUnions": [
+      "F1624"
+    ],
+    "parentLinks": [
+      {
+        "id": 2620,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 1067,
+        "unionId": "F644",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2628,
+        "unionId": "F1624",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000058255394835@",
+    "geniId": "6000000058255394835",
+    "rfn": "geni:6000000058255394835",
+    "changed": "13 JUL 2024"
+  },
+  "page": {
+    "route": "people/2627/",
+    "canonical": "https://www.genepedia.org/people/2627/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

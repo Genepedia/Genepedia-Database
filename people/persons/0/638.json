@@ -1,0 +1,125 @@
+{
+  "id": 638,
+  "schema": "genepedia/person@1",
+  "slug": "hester-catharina-pretorius",
+  "names": {
+    "display": "Hester Catharina Pretorius",
+    "given": "Hester Catharina",
+    "surname": "Pretorius",
+    "married": "le Roux",
+    "nick": "",
+    "aliases": [
+      "Hester Catharina le Roux (Pretorius)"
+    ]
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p6/5860/5088/53444836a4537417/hester_le_roux_original.jpg?hash=1db10d3a6dbe631d35e25d41b524250c449f41f6e2815654032e9d54a2b826f0.1789455599",
+      "alt": "Hester Catharina Pretorius"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p6/5860/5088/53444836a4537417/hester_le_roux_original.jpg?hash=1db10d3a6dbe631d35e25d41b524250c449f41f6e2815654032e9d54a2b826f0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      634,
+      241
+    ],
+    "spouses": [
+      1595
+    ],
+    "exSpouses": [],
+    "children": [
+      1596,
+      1597
+    ],
+    "siblings": [
+      635,
+      636,
+      637
+    ],
+    "parentUnions": [
+      "F177"
+    ],
+    "spouseUnions": [
+      "F404"
+    ],
+    "parentLinks": [
+      {
+        "id": 634,
+        "unionId": "F177",
+        "type": "biological"
+      },
+      {
+        "id": 241,
+        "unionId": "F177",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1595,
+        "unionId": "F404",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1596,
+        "unionId": "F404",
+        "type": "biological"
+      },
+      {
+        "id": 1597,
+        "unionId": "F404",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002432908101@",
+    "geniId": "6000000002432908101",
+    "rfn": "geni:6000000002432908101",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/638/",
+    "canonical": "https://www.genepedia.org/people/638/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

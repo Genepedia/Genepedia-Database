@@ -1,0 +1,120 @@
+{
+  "id": 1787,
+  "schema": "genepedia/person@1",
+  "slug": "leanne-katherine",
+  "names": {
+    "display": "Leanne Katherine",
+    "given": "Leanne Katherine",
+    "surname": "Lurie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/5b/20/5e/59/534448656fbb5048/66220808_10157459182164637_1172514307892576256_n_original.jpg?hash=1e8417233e63cabd7914b4e63969c57051da843cbbd5088102983fd60dc14b87.1789455599",
+      "alt": "Leanne Katherine"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/5b/20/5e/59/534448656fbb5048/66220808_10157459182164637_1172514307892576256_n_original.jpg?hash=1e8417233e63cabd7914b4e63969c57051da843cbbd5088102983fd60dc14b87.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      746,
+      1785
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1786
+    ],
+    "parentUnions": [
+      "F468"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 746,
+        "unionId": "F468",
+        "type": "biological"
+      },
+      {
+        "id": 1785,
+        "unionId": "F468",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204066960842@",
+    "geniId": "6000000204066960842",
+    "rfn": "geni:6000000204066960842",
+    "changed": "10 JUN 2024"
+  },
+  "page": {
+    "route": "people/1787/",
+    "canonical": "https://www.genepedia.org/people/1787/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

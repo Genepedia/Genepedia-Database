@@ -1,0 +1,120 @@
+{
+  "id": 703,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-theodoris-smit",
+  "names": {
+    "display": "Jacobus Theodoris Smit",
+    "given": "Jacobus Theodoris",
+    "surname": "Smit",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 FEB 1932",
+      "year": 1932,
+      "iso": "1932-02-11",
+      "precision": "exact",
+      "display": "February 11, 1932",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1705,
+      1706
+    ],
+    "spouses": [
+      704
+    ],
+    "exSpouses": [],
+    "children": [
+      282,
+      705,
+      706
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F446"
+    ],
+    "spouseUnions": [
+      "F198"
+    ],
+    "parentLinks": [
+      {
+        "id": 1705,
+        "unionId": "F446",
+        "type": "biological"
+      },
+      {
+        "id": 1706,
+        "unionId": "F446",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 704,
+        "unionId": "F198",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 282,
+        "unionId": "F198",
+        "type": "biological"
+      },
+      {
+        "id": 705,
+        "unionId": "F198",
+        "type": "biological"
+      },
+      {
+        "id": 706,
+        "unionId": "F198",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207590564822@",
+    "geniId": "6000000207590564822",
+    "rfn": "geni:6000000207590564822",
+    "changed": "25 JUL 2024"
+  },
+  "page": {
+    "route": "people/703/",
+    "canonical": "https://www.genepedia.org/people/703/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

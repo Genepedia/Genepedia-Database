@@ -1,0 +1,118 @@
+{
+  "id": 2617,
+  "schema": "genepedia/person@1",
+  "slug": "anna-sophia-graaff",
+  "names": {
+    "display": "Anna Sophia Graaff",
+    "given": "Anna Sophia",
+    "surname": "Graaff",
+    "married": "Graaff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1792",
+      "year": 1792,
+      "iso": "1792",
+      "precision": "about",
+      "display": "about 1792",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 1822",
+      "year": 1822,
+      "iso": "1822",
+      "precision": "before",
+      "display": "before 1822",
+      "place": null
+    },
+    "baptism": {
+      "date": "25 NOV 1792",
+      "year": 1792,
+      "iso": "1792-11-25",
+      "precision": "exact",
+      "display": "November 25, 1792",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2608,
+      2607
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2609,
+      2610,
+      2611,
+      2612,
+      2613,
+      2614,
+      2615,
+      1066,
+      2616,
+      2618,
+      2619
+    ],
+    "parentUnions": [
+      "F643"
+    ],
+    "spouseUnions": [
+      "F1616"
+    ],
+    "parentLinks": [
+      {
+        "id": 2608,
+        "unionId": "F643",
+        "type": "biological"
+      },
+      {
+        "id": 2607,
+        "unionId": "F643",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000023984488608@",
+    "geniId": "6000000023984488608",
+    "rfn": "geni:6000000023984488608",
+    "changed": "03 FEB 2020"
+  },
+  "page": {
+    "route": "people/2617/",
+    "canonical": "https://www.genepedia.org/people/2617/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

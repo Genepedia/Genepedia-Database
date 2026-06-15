@@ -1,0 +1,143 @@
+{
+  "id": 4165,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-stephanus-coetzee",
+  "names": {
+    "display": "Johannes Stephanus Coetzee",
+    "given": "Johannes Stephanus",
+    "surname": "Coetzee",
+    "married": "Coetzee",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 MAY 1891",
+      "year": 1891,
+      "iso": "1891-05-07",
+      "precision": "exact",
+      "display": "May 7, 1891",
+      "place": "Bloemhof, North West, South Africa",
+      "location": {
+        "label": "Bloemhof, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "26 OCT 1918",
+      "year": 1918,
+      "iso": "1918-10-26",
+      "precision": "exact",
+      "display": "October 26, 1918",
+      "place": "Kareepan, Bloemhof, South Africa",
+      "location": {
+        "label": "Kareepan, Bloemhof, South Africa",
+        "placeName": "Kareepan",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1578
+    ],
+    "exSpouses": [],
+    "children": [
+      4166,
+      4167,
+      4168
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F973"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1578,
+        "unionId": "F973",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4166,
+        "unionId": "F973",
+        "type": "biological"
+      },
+      {
+        "id": 4167,
+        "unionId": "F973",
+        "type": "biological"
+      },
+      {
+        "id": 4168,
+        "unionId": "F973",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000030394567576@",
+    "geniId": "6000000030394567576",
+    "rfn": "geni:6000000030394567576",
+    "changed": "12 APR 2026"
+  },
+  "page": {
+    "route": "people/4165/",
+    "canonical": "https://www.genepedia.org/people/4165/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

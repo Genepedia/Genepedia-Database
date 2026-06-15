@@ -1,0 +1,128 @@
+{
+  "id": 1589,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-elizabeth-van-der-merwe",
+  "names": {
+    "display": "Johanna Elizabeth van der Merwe",
+    "given": "Johanna Elizabeth",
+    "surname": "van der Merwe",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": [
+      "Elsa van der Merwe"
+    ]
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Jeffreysbaai",
+  "lastResidenceLocation": {
+    "label": "Jeffreysbaai",
+    "placeName": "Jeffreysbaai",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "",
+    "country": "",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1587,
+      636
+    ],
+    "spouses": [
+      4189
+    ],
+    "exSpouses": [],
+    "children": [
+      4190,
+      4191
+    ],
+    "siblings": [
+      1588,
+      1590,
+      1591
+    ],
+    "parentUnions": [
+      "F402"
+    ],
+    "spouseUnions": [
+      "F981"
+    ],
+    "parentLinks": [
+      {
+        "id": 1587,
+        "unionId": "F402",
+        "type": "biological"
+      },
+      {
+        "id": 636,
+        "unionId": "F402",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4189,
+        "unionId": "F981",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4190,
+        "unionId": "F981",
+        "type": "biological"
+      },
+      {
+        "id": 4191,
+        "unionId": "F981",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000001893681110@",
+    "geniId": "6000000001893681110",
+    "rfn": "geni:6000000001893681110",
+    "changed": "30 AUG 2022"
+  },
+  "page": {
+    "route": "people/1589/",
+    "canonical": "https://www.genepedia.org/people/1589/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

@@ -1,0 +1,96 @@
+{
+  "id": 701,
+  "schema": "genepedia/person@1",
+  "slug": "tilla-olivier",
+  "names": {
+    "display": "Tilla Olivier",
+    "given": "Tilla",
+    "surname": "Olivier",
+    "married": "Jordaan",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      699,
+      700
+    ],
+    "spouses": [
+      1704
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      281,
+      702
+    ],
+    "parentUnions": [
+      "F197"
+    ],
+    "spouseUnions": [
+      "F445"
+    ],
+    "parentLinks": [
+      {
+        "id": 699,
+        "unionId": "F197",
+        "type": "biological"
+      },
+      {
+        "id": 700,
+        "unionId": "F197",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1704,
+        "unionId": "F445",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204892990840@",
+    "geniId": "6000000204892990840",
+    "rfn": "geni:6000000204892990840",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/701/",
+    "canonical": "https://www.genepedia.org/people/701/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

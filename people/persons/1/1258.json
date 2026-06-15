@@ -1,0 +1,177 @@
+{
+  "id": 1258,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-marais-1258",
+  "names": {
+    "display": "Jacobus Johannes Marais",
+    "given": "Jacobus Johannes",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 OCT 1835",
+      "year": 1835,
+      "iso": "1835-10-24",
+      "precision": "exact",
+      "display": "October 24, 1835",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "27 DEC 1835",
+      "year": 1835,
+      "iso": "1835-12-27",
+      "precision": "exact",
+      "display": "December 27, 1835",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3127,
+      3128
+    ],
+    "spouses": [
+      1259
+    ],
+    "exSpouses": [],
+    "children": [
+      1260,
+      1261,
+      524,
+      1262,
+      1263,
+      1264,
+      1265
+    ],
+    "siblings": [
+      3129,
+      3130,
+      3131,
+      3132,
+      3133,
+      3134,
+      3135,
+      3136,
+      3137
+    ],
+    "parentUnions": [
+      "F773"
+    ],
+    "spouseUnions": [
+      "F328"
+    ],
+    "parentLinks": [
+      {
+        "id": 3127,
+        "unionId": "F773",
+        "type": "biological"
+      },
+      {
+        "id": 3128,
+        "unionId": "F773",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1259,
+        "unionId": "F328",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1260,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1261,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 524,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1262,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1263,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1264,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1265,
+        "unionId": "F328",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000034305980114@",
+    "geniId": "6000000034305980114",
+    "rfn": "geni:6000000034305980114",
+    "changed": "15 SEP 2025"
+  },
+  "page": {
+    "route": "people/1258/",
+    "canonical": "https://www.genepedia.org/people/1258/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

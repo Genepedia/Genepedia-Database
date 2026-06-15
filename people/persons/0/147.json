@@ -1,0 +1,149 @@
+{
+  "id": 147,
+  "schema": "genepedia/person@1",
+  "slug": "thomas-henry-roselt-147",
+  "names": {
+    "display": "Thomas Henry Roselt",
+    "given": "Thomas Henry",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 AUG 1919",
+      "year": 1919,
+      "iso": "1919-08-17",
+      "precision": "exact",
+      "display": "August 17, 1919",
+      "place": null
+    },
+    "death": {
+      "date": "30 MAR 1920",
+      "year": 1920,
+      "iso": "1920-03-30",
+      "precision": "exact",
+      "display": "March 30, 1920",
+      "place": "Bucklands, Northern Cape, South Africa",
+      "location": {
+        "label": "Bucklands, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "Hooghfontein",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bucklands",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "28 DEC 1919",
+      "year": 1919,
+      "iso": "1919-12-28",
+      "precision": "exact",
+      "display": "December 28, 1919",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/36/f1/4b/3a/534448636214b1f6/died_young_original.jpg?hash=64219b5f0a532939bc562be1206676aec184b0a39484e7fc6f5b6ba51ef47bbe.1789455599",
+      "alt": "Thomas Henry Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/36/f1/4b/3a/534448636214b1f6/died_young_original.jpg?hash=64219b5f0a532939bc562be1206676aec184b0a39484e7fc6f5b6ba51ef47bbe.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/ed/98/69/5a/534448636219074b/record-image__original.jpg?hash=7527860897ec2f0ec96a0dc274fe6035f39a8f639a4b336ee1a52fc6c7b1726b.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      138,
+      139
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      40,
+      146,
+      148
+    ],
+    "parentUnions": [
+      "F47"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 138,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 139,
+        "unionId": "F47",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165930372@",
+    "geniId": "6000000028165930372",
+    "rfn": "geni:6000000028165930372",
+    "changed": "07 JUN 2023"
+  },
+  "page": {
+    "route": "people/147/",
+    "canonical": "https://www.genepedia.org/people/147/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

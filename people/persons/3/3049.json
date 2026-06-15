@@ -1,0 +1,142 @@
+{
+  "id": 3049,
+  "schema": "genepedia/person@1",
+  "slug": "marthella-steenkamp",
+  "names": {
+    "display": "Marthella Steenkamp",
+    "given": "Marthella",
+    "surname": "Steenkamp",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 DEC 1997",
+      "year": 1997,
+      "iso": "1997-12-11",
+      "precision": "exact",
+      "display": "December 11, 1997",
+      "place": null
+    },
+    "death": {
+      "date": "6 APR 2012",
+      "year": 2012,
+      "iso": "2012-04-06",
+      "precision": "exact",
+      "display": "April 6, 2012",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kimberley, NC, South Africa",
+      "location": {
+        "label": "Kimberley, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "8301",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/40/a8/c2/d2/534448669d11a9e5/jpg_29__original.jpg?hash=838d84883486de9f559346664f2deddeb7ead0eedd2e1578bdb7502306bf4e6f.1789455599",
+      "alt": "Marthella Steenkamp"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/40/a8/c2/d2/534448669d11a9e5/jpg_29__original.jpg?hash=838d84883486de9f559346664f2deddeb7ead0eedd2e1578bdb7502306bf4e6f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/b8/7e/2e/56/534448684025a8d2/9054261_original.jpg?hash=4cef93cdf10477a58833186cff7a71184dcf66bd357898b1a1d19ab52c1fa926.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1218,
+      3047
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3048
+    ],
+    "parentUnions": [
+      "F747"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1218,
+        "unionId": "F747",
+        "type": "biological"
+      },
+      {
+        "id": 3047,
+        "unionId": "F747",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000209123401841@",
+    "geniId": "6000000209123401841",
+    "rfn": "geni:6000000209123401841",
+    "changed": "02 MAR 2025"
+  },
+  "page": {
+    "route": "people/3049/",
+    "canonical": "https://www.genepedia.org/people/3049/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

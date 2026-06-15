@@ -1,0 +1,120 @@
+{
+  "id": 4060,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-albertiena-meyer",
+  "names": {
+    "display": "Elizabeth Albertiena Meyer",
+    "given": "Elizabeth Albertiena",
+    "surname": "Meyer",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 AUG 1841",
+      "year": 1841,
+      "iso": "1841-08-05",
+      "precision": "exact",
+      "display": "August 5, 1841",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "10 APR 1842",
+      "year": 1842,
+      "iso": "1842-04-10",
+      "precision": "exact",
+      "display": "April 10, 1842",
+      "place": "Winburg, FS, South Africa",
+      "location": {
+        "label": "Winburg, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Winburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4055,
+      4054
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4056,
+      1548,
+      4057,
+      4058,
+      4059,
+      4061
+    ],
+    "parentUnions": [
+      "F944"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4055,
+        "unionId": "F944",
+        "type": "biological"
+      },
+      {
+        "id": 4054,
+        "unionId": "F944",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000179752978828@",
+    "geniId": "6000000179752978828",
+    "rfn": "geni:6000000179752978828",
+    "changed": "01 NOV 2021"
+  },
+  "page": {
+    "route": "people/4060/",
+    "canonical": "https://www.genepedia.org/people/4060/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

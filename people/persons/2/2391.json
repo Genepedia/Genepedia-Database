@@ -1,0 +1,101 @@
+{
+  "id": 2391,
+  "schema": "genepedia/person@1",
+  "slug": "dina-maria",
+  "names": {
+    "display": "Dina Maria",
+    "given": "Dina Maria",
+    "surname": "Cloete",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 APR 1898",
+      "year": 1898,
+      "iso": "1898-04-09",
+      "precision": "exact",
+      "display": "April 9, 1898",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      958,
+      2387
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2388,
+      2389,
+      2390,
+      2392,
+      2393,
+      2394,
+      2395,
+      2396
+    ],
+    "parentUnions": [
+      "F603"
+    ],
+    "spouseUnions": [
+      "F1478"
+    ],
+    "parentLinks": [
+      {
+        "id": 958,
+        "unionId": "F603",
+        "type": "biological"
+      },
+      {
+        "id": 2387,
+        "unionId": "F603",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000134959237834@",
+    "geniId": "6000000134959237834",
+    "rfn": "geni:6000000134959237834",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/2391/",
+    "canonical": "https://www.genepedia.org/people/2391/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

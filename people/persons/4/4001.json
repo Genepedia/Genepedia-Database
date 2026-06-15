@@ -1,0 +1,191 @@
+{
+  "id": 4001,
+  "schema": "genepedia/person@1",
+  "slug": "maria-adriana-tas",
+  "names": {
+    "display": "Maria Adriana Tas",
+    "given": "Maria Adriana",
+    "surname": "Tas",
+    "married": "van Niekerk",
+    "nick": "Maria Adriana van Niekerk",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "21 FEB 1779",
+      "year": 1779,
+      "iso": "1779-02-21",
+      "precision": "exact",
+      "display": "February 21, 1779",
+      "place": "NGK Stellenbosch",
+      "location": {
+        "label": "NGK Stellenbosch",
+        "placeName": "NGK Stellenbosch",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4002
+    ],
+    "exSpouses": [],
+    "children": [
+      4003,
+      4004,
+      4005,
+      4006,
+      1539,
+      4007,
+      4008,
+      4009,
+      4010,
+      4011,
+      4012
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F936"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4002,
+        "unionId": "F936",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4003,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4004,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4005,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4006,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 1539,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4007,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4008,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4009,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4010,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4011,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4012,
+        "unionId": "F936",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000018763145114@",
+    "geniId": "6000000018763145114",
+    "rfn": "geni:6000000018763145114",
+    "changed": "18 JUN 2023"
+  },
+  "page": {
+    "route": "people/4001/",
+    "canonical": "https://www.genepedia.org/people/4001/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

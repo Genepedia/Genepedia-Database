@@ -1,0 +1,103 @@
+{
+  "id": 73,
+  "schema": "genepedia/person@1",
+  "slug": "susan-venter",
+  "names": {
+    "display": "Susan Venter",
+    "given": "Susan",
+    "surname": "Venter",
+    "married": "Roets",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "23 FEB 1964",
+      "year": 1964,
+      "iso": "1964-02-23",
+      "precision": "exact",
+      "display": "February 23, 1964",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      71,
+      72
+    ],
+    "spouses": [
+      231
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      16,
+      74
+    ],
+    "parentUnions": [
+      "F25"
+    ],
+    "spouseUnions": [
+      "F73"
+    ],
+    "parentLinks": [
+      {
+        "id": 71,
+        "unionId": "F25",
+        "type": "biological"
+      },
+      {
+        "id": 72,
+        "unionId": "F25",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 231,
+        "unionId": "F73",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207418891822@",
+    "geniId": "6000000207418891822",
+    "rfn": "geni:6000000207418891822",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/73/",
+    "canonical": "https://www.genepedia.org/people/73/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

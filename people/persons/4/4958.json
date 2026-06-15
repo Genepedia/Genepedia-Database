@@ -1,0 +1,118 @@
+{
+  "id": 4958,
+  "schema": "genepedia/person@1",
+  "slug": "anna-petronella-christina-smith",
+  "names": {
+    "display": "Anna Petronella Christina Smith",
+    "given": "Anna Petronella Christina",
+    "surname": "Smith",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 SEP 1910",
+      "year": 1910,
+      "iso": "1910-09-13",
+      "precision": "exact",
+      "display": "September 13, 1910",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "8 OCT 1910",
+      "year": 1910,
+      "iso": "1910-10-08",
+      "precision": "exact",
+      "display": "October 8, 1910",
+      "place": "Trompsburg, Free State, South Africa",
+      "location": {
+        "label": "Trompsburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Trompsburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4955,
+      1925
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4956,
+      4957,
+      4959,
+      4960
+    ],
+    "parentUnions": [
+      "F1176"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4955,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 1925,
+        "unionId": "F1176",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089491609863@",
+    "geniId": "6000000089491609863",
+    "rfn": "geni:6000000089491609863",
+    "changed": "19 MAR 2019"
+  },
+  "page": {
+    "route": "people/4958/",
+    "canonical": "https://www.genepedia.org/people/4958/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

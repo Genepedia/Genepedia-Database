@@ -1,0 +1,197 @@
+{
+  "id": 4,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-johannes-van-niekerk",
+  "names": {
+    "display": "Dirk Johannes Van Niekerk",
+    "given": "Dirk Johannes",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 MAY 1971",
+      "year": 1971,
+      "iso": "1971-05-29",
+      "precision": "exact",
+      "display": "May 29, 1971",
+      "place": "Klerksdorp, North West, South Africa",
+      "location": {
+        "label": "Klerksdorp, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Bloemfontein, Free-State, South Africa",
+  "lastResidenceLocation": {
+    "label": "Bloemfontein, Free-State, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Bloemfontein",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Free-State",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/bc/27/bc/96/534448656e4eef52/screenshot_2024-03-13_113103_original.jpg?hash=226fc6006036a0db1b00ae00d9b291ffeb34ec47a9b024602f0111aa3ce5be69.1789455599",
+      "alt": "Dirk Johannes Van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/bc/27/bc/96/534448656e4eef52/screenshot_2024-03-13_113103_original.jpg?hash=226fc6006036a0db1b00ae00d9b291ffeb34ec47a9b024602f0111aa3ce5be69.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      21,
+      22
+    ],
+    "spouses": [
+      5,
+      16,
+      19
+    ],
+    "exSpouses": [],
+    "children": [
+      1,
+      14,
+      17,
+      18,
+      20
+    ],
+    "siblings": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "parentUnions": [
+      "F9"
+    ],
+    "spouseUnions": [
+      "F2",
+      "F6",
+      "F7",
+      "F8"
+    ],
+    "parentLinks": [
+      {
+        "id": 21,
+        "unionId": "F9",
+        "type": "biological"
+      },
+      {
+        "id": 22,
+        "unionId": "F9",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 5,
+        "unionId": "F2",
+        "role": "partner"
+      },
+      {
+        "id": 16,
+        "unionId": "F7",
+        "role": "partner"
+      },
+      {
+        "id": 19,
+        "unionId": "F8",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1,
+        "unionId": "F2",
+        "type": "biological"
+      },
+      {
+        "id": 14,
+        "unionId": "F6",
+        "type": "adopted"
+      },
+      {
+        "id": 17,
+        "unionId": "F7",
+        "type": "biological"
+      },
+      {
+        "id": 18,
+        "unionId": "F7",
+        "type": "biological"
+      },
+      {
+        "id": 20,
+        "unionId": "F8",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204013666848@",
+    "geniId": "6000000204013666848",
+    "rfn": "geni:6000000204013666848",
+    "changed": "18 JUL 2024"
+  },
+  "page": {
+    "route": "people/4/",
+    "canonical": "https://www.genepedia.org/people/4/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

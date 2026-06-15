@@ -1,0 +1,127 @@
+{
+  "id": 757,
+  "schema": "genepedia/person@1",
+  "slug": "lurie-757",
+  "names": {
+    "display": "? Lurie",
+    "given": "?",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      302
+    ],
+    "exSpouses": [],
+    "children": [
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F212"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 302,
+        "unionId": "F212",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 758,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 759,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 760,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 761,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 762,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 763,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 764,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 765,
+        "unionId": "F212",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209506880826@",
+    "geniId": "6000000209506880826",
+    "rfn": "geni:6000000209506880826",
+    "changed": "01 OCT 2024"
+  },
+  "page": {
+    "route": "people/757/",
+    "canonical": "https://www.genepedia.org/people/757/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

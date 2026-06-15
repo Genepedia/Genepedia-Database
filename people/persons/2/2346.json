@@ -1,0 +1,99 @@
+{
+  "id": 2346,
+  "schema": "genepedia/person@1",
+  "slug": "hester-helena-styger",
+  "names": {
+    "display": "Hester Helena Styger",
+    "given": "Hester Helena",
+    "surname": "Venter",
+    "married": "Styger",
+    "nick": "Hettie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      938
+    ],
+    "exSpouses": [],
+    "children": [
+      2347,
+      2348,
+      2349
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1451"
+    ],
+    "spouseUnions": [
+      "F593"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 938,
+        "unionId": "F593",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2347,
+        "unionId": "F593",
+        "type": "biological"
+      },
+      {
+        "id": 2348,
+        "unionId": "F593",
+        "type": "biological"
+      },
+      {
+        "id": 2349,
+        "unionId": "F593",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002138573588@",
+    "geniId": "6000000002138573588",
+    "rfn": "geni:6000000002138573588",
+    "changed": "18 NOV 2024"
+  },
+  "page": {
+    "route": "people/2346/",
+    "canonical": "https://www.genepedia.org/people/2346/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

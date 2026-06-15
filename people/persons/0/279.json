@@ -1,0 +1,115 @@
+{
+  "id": 279,
+  "schema": "genepedia/person@1",
+  "slug": "charlene-edwards",
+  "names": {
+    "display": "Charlene Edwards",
+    "given": "Charlene",
+    "surname": "Edwards",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/df/b5/18/33/534448660ed33438/screenshot_2024-06-23_182127_original.jpg?hash=78c6954a6a5c442f1096722c3e5fffbad842c64329a4632f062bfe7d7ce560d0.1789455599",
+      "alt": "Charlene Edwards"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/df/b5/18/33/534448660ed33438/screenshot_2024-06-23_182127_original.jpg?hash=78c6954a6a5c442f1096722c3e5fffbad842c64329a4632f062bfe7d7ce560d0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      277,
+      104
+    ],
+    "spouses": [
+      697
+    ],
+    "exSpouses": [],
+    "children": [
+      698
+    ],
+    "siblings": [
+      278
+    ],
+    "parentUnions": [
+      "F90"
+    ],
+    "spouseUnions": [
+      "F196"
+    ],
+    "parentLinks": [
+      {
+        "id": 277,
+        "unionId": "F90",
+        "type": "biological"
+      },
+      {
+        "id": 104,
+        "unionId": "F90",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 697,
+        "unionId": "F196",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 698,
+        "unionId": "F196",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206736617822@",
+    "geniId": "6000000206736617822",
+    "rfn": "geni:6000000206736617822",
+    "changed": "23 JUN 2024"
+  },
+  "page": {
+    "route": "people/279/",
+    "canonical": "https://www.genepedia.org/people/279/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

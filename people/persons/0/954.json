@@ -1,0 +1,221 @@
+{
+  "id": 954,
+  "schema": "genepedia/person@1",
+  "slug": "frederick-petrus-cloete",
+  "names": {
+    "display": "Frederick Petrus Cloete",
+    "given": "Frederick Petrus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1840",
+      "year": 1840,
+      "iso": "1840",
+      "precision": "exact",
+      "display": "1840",
+      "place": "Bloemfontein, Orange Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Orange Free State, South Africa",
+        "placeName": "Bloemfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 FEB 1908",
+      "year": 1908,
+      "iso": "1908-02-15",
+      "precision": "exact",
+      "display": "February 15, 1908",
+      "place": "Driefontein, Northern Cape, South Africa",
+      "location": {
+        "label": "Driefontein, Northern Cape, South Africa",
+        "placeName": "Driefontein",
+        "addressLine1": "Hay",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/da/cc/cc/7b/53444861674d1915/frederik_petrus_cloete_death_notice_15_feb_1908_driefontein_hay_original.jpg?hash=9970ae0b1a23bde9f9562ea2bc1b8266fc58fef762a2c3cd02fa16a60bb1d57a.1789455599",
+      "alt": "Frederick Petrus Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/da/cc/cc/7b/53444861674d1915/frederik_petrus_cloete_death_notice_15_feb_1908_driefontein_hay_original.jpg?hash=9970ae0b1a23bde9f9562ea2bc1b8266fc58fef762a2c3cd02fa16a60bb1d57a.1789455599",
+        "form": "",
+        "title": "Frederik Petrus Cloete Death Notice 15 Feb 1908 Driefontein Hay.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/42/82/54/ec/534448616741559f/frederik_petrus_cloete_information_of_a_death_15_feb_1908_driefontein_hay_original.jpg?hash=27b38cd92dceb8c7d650d0ff3741ac69098588cb233acb9a716be98fb467dc1d.1789455599",
+        "form": "",
+        "title": "Frederik Petrus Cloete Information of a death 15 Feb 1908 Driefontein Hay.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2376,
+      2375
+    ],
+    "spouses": [
+      955
+    ],
+    "exSpouses": [],
+    "children": [
+      382,
+      956,
+      957,
+      958,
+      959,
+      960,
+      961,
+      962,
+      963
+    ],
+    "siblings": [
+      2377,
+      2378,
+      2379,
+      2380,
+      2381,
+      2382
+    ],
+    "parentUnions": [
+      "F600"
+    ],
+    "spouseUnions": [
+      "F262"
+    ],
+    "parentLinks": [
+      {
+        "id": 2376,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2375,
+        "unionId": "F600",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 955,
+        "unionId": "F262",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 382,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 956,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 957,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 958,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 959,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 960,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 961,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 962,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 963,
+        "unionId": "F262",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000136293621964@",
+    "geniId": "6000000136293621964",
+    "rfn": "geni:6000000136293621964",
+    "changed": "26 AUG 2022"
+  },
+  "page": {
+    "route": "people/954/",
+    "canonical": "https://www.genepedia.org/people/954/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

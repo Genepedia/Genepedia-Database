@@ -1,0 +1,108 @@
+{
+  "id": 4266,
+  "schema": "genepedia/person@1",
+  "slug": "christiaan-ernst-fourie",
+  "names": {
+    "display": "Christiaan Ernst Fourie",
+    "given": "Christiaan Ernst",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "1921",
+      "year": 1921,
+      "iso": "1921",
+      "precision": "exact",
+      "display": "1921",
+      "place": "New Primrose, Gauteng, South Africa",
+      "location": {
+        "label": "New Primrose, Gauteng, South Africa",
+        "placeName": "New Primrose, Gauteng, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1613
+    ],
+    "exSpouses": [],
+    "children": [
+      4267
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1002"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1613,
+        "unionId": "F1002",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4267,
+        "unionId": "F1002",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000060706256184@",
+    "geniId": "6000000060706256184",
+    "rfn": "geni:6000000060706256184",
+    "changed": "13 JUN 2017"
+  },
+  "page": {
+    "route": "people/4266/",
+    "canonical": "https://www.genepedia.org/people/4266/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

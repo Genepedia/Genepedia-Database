@@ -1,0 +1,99 @@
+{
+  "id": 2998,
+  "schema": "genepedia/person@1",
+  "slug": "stephanus-abraham-abraham-celliers",
+  "names": {
+    "display": "Stephanus Abraham Abraham Celliers",
+    "given": "Stephanus Abraham Abraham",
+    "surname": "Celliers",
+    "married": "Celliers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1904",
+      "year": 1904,
+      "iso": "1904",
+      "precision": "exact",
+      "display": "1904",
+      "place": null
+    },
+    "death": {
+      "date": "1976",
+      "year": 1976,
+      "iso": "1976",
+      "precision": "exact",
+      "display": "1976",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1189
+    ],
+    "exSpouses": [],
+    "children": [
+      2999
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F733"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1189,
+        "unionId": "F733",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2999,
+        "unionId": "F733",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027854814840@",
+    "geniId": "6000000027854814840",
+    "rfn": "geni:6000000027854814840",
+    "changed": "07 APR 2025"
+  },
+  "page": {
+    "route": "people/2998/",
+    "canonical": "https://www.genepedia.org/people/2998/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

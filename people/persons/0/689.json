@@ -1,0 +1,104 @@
+{
+  "id": 689,
+  "schema": "genepedia/person@1",
+  "slug": "peter-bicanovsky",
+  "names": {
+    "display": "Peter Bicanovsky",
+    "given": "Peter",
+    "surname": "Bicanovsky",
+    "married": "Bicanovsky",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "29 NOV 2019",
+      "year": 2019,
+      "iso": "2019-11-29",
+      "precision": "exact",
+      "display": "November 29, 2019",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c2/8e/d1/3c/5344486641a657c9/screenshot_2024-07-24_223651_original.jpg?hash=3d090ae9cd8b4423d8e4e31cdce676fc32430eb5097df477c6c051eb3360f040.1789455599",
+      "alt": "Peter Bicanovsky"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c2/8e/d1/3c/5344486641a657c9/screenshot_2024-07-24_223651_original.jpg?hash=3d090ae9cd8b4423d8e4e31cdce676fc32430eb5097df477c6c051eb3360f040.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      270
+    ],
+    "exSpouses": [],
+    "children": [
+      690
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F193"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 270,
+        "unionId": "F193",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 690,
+        "unionId": "F193",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207589677824@",
+    "geniId": "6000000207589677824",
+    "rfn": "geni:6000000207589677824",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/689/",
+    "canonical": "https://www.genepedia.org/people/689/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

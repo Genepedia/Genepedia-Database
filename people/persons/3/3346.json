@@ -1,0 +1,153 @@
+{
+  "id": 3346,
+  "schema": "genepedia/person@1",
+  "slug": "herculaas-stefanus-viljoen",
+  "names": {
+    "display": "Herculaas Stefanus Viljoen",
+    "given": "Herculaas  Stefanus",
+    "surname": "Viljoen",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 FEB 1931",
+      "year": 1931,
+      "iso": "1931-02-03",
+      "precision": "exact",
+      "display": "February 3, 1931",
+      "place": null
+    },
+    "death": {
+      "date": "19 DEC 1991",
+      "year": 1991,
+      "iso": "1991-12-19",
+      "precision": "exact",
+      "display": "December 19, 1991",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Memorial Wall, Western Cape, South Africa",
+      "location": {
+        "label": "Memorial Wall, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Memorial Wall",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/5f/d5/ff/3c/5344483d17e5a828/viljoen_herculaas_stefanus_1931-1991_original.jpg?hash=be94d195f318e599ce0f909baa17b4be536ab8bce3fa597e0a445b8fe13f1b9b.1789455599",
+      "alt": "Herculaas Stefanus Viljoen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/5f/d5/ff/3c/5344483d17e5a828/viljoen_herculaas_stefanus_1931-1991_original.jpg?hash=be94d195f318e599ce0f909baa17b4be536ab8bce3fa597e0a445b8fe13f1b9b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1321
+    ],
+    "exSpouses": [],
+    "children": [
+      3347,
+      3348,
+      3349,
+      3350
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F821"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1321,
+        "unionId": "F821",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3347,
+        "unionId": "F821",
+        "type": "biological"
+      },
+      {
+        "id": 3348,
+        "unionId": "F821",
+        "type": "biological"
+      },
+      {
+        "id": 3349,
+        "unionId": "F821",
+        "type": "biological"
+      },
+      {
+        "id": 3350,
+        "unionId": "F821",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020385182335@",
+    "geniId": "6000000020385182335",
+    "rfn": "geni:6000000020385182335",
+    "changed": "28 FEB 2015"
+  },
+  "page": {
+    "route": "people/3346/",
+    "canonical": "https://www.genepedia.org/people/3346/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

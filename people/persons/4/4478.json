@@ -1,0 +1,92 @@
+{
+  "id": 4478,
+  "schema": "genepedia/person@1",
+  "slug": "phillip-feivel-lurie",
+  "names": {
+    "display": "Phillip Feivel Lurie",
+    "given": "Phillip / Feivel",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1900",
+      "year": 1900,
+      "iso": "1900",
+      "precision": "about",
+      "display": "about 1900",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1746,
+      4476
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4477
+    ],
+    "parentUnions": [
+      "F1060"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1746,
+        "unionId": "F1060",
+        "type": "biological"
+      },
+      {
+        "id": 4476,
+        "unionId": "F1060",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291159@",
+    "geniId": "6000000003658291159",
+    "rfn": "geni:6000000003658291159",
+    "changed": "17 DEC 2022"
+  },
+  "page": {
+    "route": "people/4478/",
+    "canonical": "https://www.genepedia.org/people/4478/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

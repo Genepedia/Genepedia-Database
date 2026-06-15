@@ -1,0 +1,137 @@
+{
+  "id": 494,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-hendrina-myburg",
+  "names": {
+    "display": "Johanna Hendrina Myburg",
+    "given": "Johanna Hendrina",
+    "surname": "Myburg",
+    "married": "Fourie",
+    "nick": "Hannie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1219,
+      1220
+    ],
+    "spouses": [
+      175
+    ],
+    "exSpouses": [],
+    "children": [
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F315"
+    ],
+    "spouseUnions": [
+      "F143"
+    ],
+    "parentLinks": [
+      {
+        "id": 1219,
+        "unionId": "F315",
+        "type": "biological"
+      },
+      {
+        "id": 1220,
+        "unionId": "F315",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 175,
+        "unionId": "F143",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 495,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 496,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 497,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 498,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 499,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 500,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 501,
+        "unionId": "F143",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204144115890@",
+    "geniId": "6000000204144115890",
+    "rfn": "geni:6000000204144115890",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/494/",
+    "canonical": "https://www.genepedia.org/people/494/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,184 @@
+{
+  "id": 4579,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-bester-4579",
+  "names": {
+    "display": "Jacobus Marthinus Bester",
+    "given": "Jacobus Marthinus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 30 SEP 1764",
+      "year": 1764,
+      "iso": "1764-09-30",
+      "precision": "before",
+      "display": "before September 30, 1764",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1838",
+      "year": 1838,
+      "iso": "1838",
+      "precision": "exact",
+      "display": "1838",
+      "place": "Victoria West, Northern Cape, South Africa",
+      "location": {
+        "label": "Victoria West, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "30 SEP 1764",
+      "year": 1764,
+      "iso": "1764-09-30",
+      "precision": "exact",
+      "display": "September 30, 1764",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4580
+    ],
+    "exSpouses": [],
+    "children": [
+      4581,
+      4582,
+      4583,
+      4584,
+      4585,
+      1844
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1099"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4580,
+        "unionId": "F1099",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4581,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4582,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4583,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4584,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4585,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 1844,
+        "unionId": "F1099",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003864159918@",
+    "geniId": "6000000003864159918",
+    "rfn": "geni:6000000003864159918",
+    "changed": "19 NOV 2022"
+  },
+  "page": {
+    "route": "people/4579/",
+    "canonical": "https://www.genepedia.org/people/4579/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

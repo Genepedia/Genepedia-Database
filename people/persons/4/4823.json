@@ -1,0 +1,106 @@
+{
+  "id": 4823,
+  "schema": "genepedia/person@1",
+  "slug": "janlina-christoffelina-visagie",
+  "names": {
+    "display": "Janlina Christoffelina Visagie",
+    "given": "Janlina Christoffelina",
+    "surname": "Visagie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1860",
+      "year": 1860,
+      "iso": "1860",
+      "precision": "exact",
+      "display": "1860",
+      "place": null
+    },
+    "death": {
+      "date": "27 APR 1894",
+      "year": 1894,
+      "iso": "1894-04-27",
+      "precision": "exact",
+      "display": "April 27, 1894",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4818,
+      4819
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4820,
+      1897,
+      4821,
+      4822,
+      4824,
+      4825,
+      4826,
+      4827
+    ],
+    "parentUnions": [
+      "F1147"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4818,
+        "unionId": "F1147",
+        "type": "biological"
+      },
+      {
+        "id": 4819,
+        "unionId": "F1147",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041491143129@",
+    "geniId": "6000000041491143129",
+    "rfn": "geni:6000000041491143129",
+    "changed": "02 OCT 2021"
+  },
+  "page": {
+    "route": "people/4823/",
+    "canonical": "https://www.genepedia.org/people/4823/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

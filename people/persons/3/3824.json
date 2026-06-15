@@ -1,0 +1,102 @@
+{
+  "id": 3824,
+  "schema": "genepedia/person@1",
+  "slug": "johan-chriatiaan-david-herbert",
+  "names": {
+    "display": "Johan Chriatiaan David Herbert",
+    "given": "Johan Chriatiaan David",
+    "surname": "Herbert",
+    "married": "Herbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1887",
+      "year": 1887,
+      "iso": "1887",
+      "precision": "exact",
+      "display": "1887",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3821,
+      3820
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3822,
+      1444,
+      3823,
+      3825,
+      3826,
+      3827,
+      3828,
+      3829,
+      3830,
+      3831,
+      3832
+    ],
+    "parentUnions": [
+      "F908"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3821,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3820,
+        "unionId": "F908",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000084046748164@",
+    "geniId": "6000000084046748164",
+    "rfn": "geni:6000000084046748164",
+    "changed": "08 OCT 2024"
+  },
+  "page": {
+    "route": "people/3824/",
+    "canonical": "https://www.genepedia.org/people/3824/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

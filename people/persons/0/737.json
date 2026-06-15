@@ -1,0 +1,155 @@
+{
+  "id": 737,
+  "schema": "genepedia/person@1",
+  "slug": "alvine-marie-caroline-steinberg",
+  "names": {
+    "display": "Alvine Marie Caroline Steinberg",
+    "given": "Alvine Marie Caroline",
+    "surname": "Steinberg",
+    "married": "Malchin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1881",
+      "year": 1881,
+      "iso": "1881",
+      "precision": "exact",
+      "display": "1881",
+      "place": "Russia",
+      "location": {
+        "label": "Russia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Russia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "AFT 1 JUN 1902",
+      "year": 1902,
+      "iso": "1902-06-01",
+      "precision": "after",
+      "display": "after June 1, 1902",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/91/88/36/dd/53444868aacffead/jpg_8__original.jpg?hash=c9801a4a271e803db4112f7256932dc3f18e76df851fc78d7c44905b19de67f0.1789455599",
+      "alt": "Alvine Marie Caroline Steinberg"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/91/88/36/dd/53444868aacffead/jpg_8__original.jpg?hash=c9801a4a271e803db4112f7256932dc3f18e76df851fc78d7c44905b19de67f0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1780,
+      1781
+    ],
+    "spouses": [
+      736
+    ],
+    "exSpouses": [],
+    "children": [
+      738,
+      298,
+      739
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F466"
+    ],
+    "spouseUnions": [
+      "F208"
+    ],
+    "parentLinks": [
+      {
+        "id": 1780,
+        "unionId": "F466",
+        "type": "biological"
+      },
+      {
+        "id": 1781,
+        "unionId": "F466",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 736,
+        "unionId": "F208",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 738,
+        "unionId": "F208",
+        "type": "biological"
+      },
+      {
+        "id": 298,
+        "unionId": "F208",
+        "type": "biological"
+      },
+      {
+        "id": 739,
+        "unionId": "F208",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209271169869@",
+    "geniId": "6000000209271169869",
+    "rfn": "geni:6000000209271169869",
+    "changed": "12 FEB 2026"
+  },
+  "page": {
+    "route": "people/737/",
+    "canonical": "https://www.genepedia.org/people/737/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,175 @@
+{
+  "id": 4003,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-jacobus-van-niekerk-4003",
+  "names": {
+    "display": "Gerrit Jacobus van Niekerk",
+    "given": "Gerrit Jacobus",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 24 MAY 1795",
+      "year": 1795,
+      "iso": "1795-05-24",
+      "precision": "before",
+      "display": "before May 24, 1795",
+      "place": "Rhenosterberg, Graaff-Reinet, Cape, South Africa",
+      "location": {
+        "label": "Rhenosterberg, Graaff-Reinet, Cape, South Africa",
+        "placeName": "Rhenosterberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 DEC 1857",
+      "year": 1857,
+      "iso": "1857-12-20",
+      "precision": "exact",
+      "display": "December 20, 1857",
+      "place": "Damfontein, Suid Afrika",
+      "location": {
+        "label": "Damfontein, Suid Afrika",
+        "placeName": "Damfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Suid Afrika",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "24 MAY 1795",
+      "year": 1795,
+      "iso": "1795-05-24",
+      "precision": "exact",
+      "display": "May 24, 1795",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/dc/24/d2/cc/5344484261875918/gj_v_ns1857_original.jpg?hash=b830e66cb166cbd3639a8aba4f7bbf723842500873c2df73c5d29584c7dd67ef.1789455599",
+      "alt": "Gerrit Jacobus van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/dc/24/d2/cc/5344484261875918/gj_v_ns1857_original.jpg?hash=b830e66cb166cbd3639a8aba4f7bbf723842500873c2df73c5d29584c7dd67ef.1789455599",
+        "form": "",
+        "title": "GJ v NS1857.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4002,
+      4001
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4004,
+      4005,
+      4006,
+      1539,
+      4007,
+      4008,
+      4009,
+      4010,
+      4011,
+      4012
+    ],
+    "parentUnions": [
+      "F936"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4002,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4001,
+        "unionId": "F936",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000018769122732@",
+    "geniId": "6000000018769122732",
+    "rfn": "geni:6000000018769122732",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4003/",
+    "canonical": "https://www.genepedia.org/people/4003/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

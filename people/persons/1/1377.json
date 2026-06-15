@@ -1,0 +1,103 @@
+{
+  "id": 1377,
+  "schema": "genepedia/person@1",
+  "slug": "lenard-haasbroek",
+  "names": {
+    "display": "Lenard Haasbroek",
+    "given": "Lenard",
+    "surname": "Haasbroek",
+    "married": "Haasbroek",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c7/21/df/6a/5344486602b74dec/screenshot_2024-06-15_185956_original.jpg?hash=a32e15a174651cc605c9ae493496f9beb95439f57910c4689bf53494dce3a997.1789455599",
+      "alt": "Lenard Haasbroek"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c7/21/df/6a/5344486602b74dec/screenshot_2024-06-15_185956_original.jpg?hash=a32e15a174651cc605c9ae493496f9beb95439f57910c4689bf53494dce3a997.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      561
+    ],
+    "exSpouses": [],
+    "children": [
+      1378,
+      1379
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F355"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 561,
+        "unionId": "F355",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1378,
+        "unionId": "F355",
+        "type": "biological"
+      },
+      {
+        "id": 1379,
+        "unionId": "F355",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027226549335@",
+    "geniId": "6000000027226549335",
+    "rfn": "geni:6000000027226549335",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1377/",
+    "canonical": "https://www.genepedia.org/people/1377/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

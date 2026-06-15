@@ -1,0 +1,91 @@
+{
+  "id": 4456,
+  "schema": "genepedia/person@1",
+  "slug": "isaac-solomon",
+  "names": {
+    "display": "Isaac Solomon",
+    "given": "Isaac",
+    "surname": "Solomon",
+    "married": "Strimling",
+    "nick": "",
+    "aliases": [
+      "Isaac Solomon"
+    ]
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4453,
+      1744
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4454,
+      4455,
+      4457,
+      4458,
+      4459
+    ],
+    "parentUnions": [
+      "F1056"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4453,
+        "unionId": "F1056",
+        "type": "biological"
+      },
+      {
+        "id": 1744,
+        "unionId": "F1056",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291201@",
+    "geniId": "6000000003658291201",
+    "rfn": "geni:6000000003658291201",
+    "changed": "15 NOV 2021"
+  },
+  "page": {
+    "route": "people/4456/",
+    "canonical": "https://www.genepedia.org/people/4456/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,143 @@
+{
+  "id": 4900,
+  "schema": "genepedia/person@1",
+  "slug": "jan-frederik-bester-4900",
+  "names": {
+    "display": "Jan Frederik Bester",
+    "given": "Jan Frederik",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 JAN 1929",
+      "year": 1929,
+      "iso": "1929-01-29",
+      "precision": "exact",
+      "display": "January 29, 1929",
+      "place": null
+    },
+    "death": {
+      "date": "2 FEB 1987",
+      "year": 1987,
+      "iso": "1987-02-02",
+      "precision": "exact",
+      "display": "February 2, 1987",
+      "place": "Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Pretoria, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zandfontein Cemetery, Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Zandfontein Cemetery, Pretoria, Gauteng, South Africa",
+        "placeName": "Zandfontein Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1912,
+      4899
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4901,
+      4902,
+      4903,
+      4904,
+      4905
+    ],
+    "parentUnions": [
+      "F1164"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1912,
+        "unionId": "F1164",
+        "type": "biological"
+      },
+      {
+        "id": 4899,
+        "unionId": "F1164",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066644840018@",
+    "geniId": "6000000066644840018",
+    "rfn": "geni:6000000066644840018",
+    "changed": "07 SEP 2017"
+  },
+  "page": {
+    "route": "people/4900/",
+    "canonical": "https://www.genepedia.org/people/4900/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

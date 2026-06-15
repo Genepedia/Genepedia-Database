@@ -1,0 +1,125 @@
+{
+  "id": 866,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-maria-kruger",
+  "names": {
+    "display": "Johanna Maria Kruger",
+    "given": "Johanna Maria",
+    "surname": "Kruger",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 JUL 1916",
+      "year": 1916,
+      "iso": "1916-07-01",
+      "precision": "exact",
+      "display": "July 1, 1916",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2097,
+      2096
+    ],
+    "spouses": [
+      342
+    ],
+    "exSpouses": [],
+    "children": [
+      867,
+      868,
+      869
+    ],
+    "siblings": [
+      2098,
+      2099,
+      2100,
+      2101
+    ],
+    "parentUnions": [
+      "F546"
+    ],
+    "spouseUnions": [
+      "F241"
+    ],
+    "parentLinks": [
+      {
+        "id": 2097,
+        "unionId": "F546",
+        "type": "biological"
+      },
+      {
+        "id": 2096,
+        "unionId": "F546",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 342,
+        "unionId": "F241",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 867,
+        "unionId": "F241",
+        "type": "biological"
+      },
+      {
+        "id": 868,
+        "unionId": "F241",
+        "type": "biological"
+      },
+      {
+        "id": 869,
+        "unionId": "F241",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066637505847@",
+    "geniId": "6000000066637505847",
+    "rfn": "geni:6000000066637505847",
+    "changed": "25 MAY 2018"
+  },
+  "page": {
+    "route": "people/866/",
+    "canonical": "https://www.genepedia.org/people/866/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

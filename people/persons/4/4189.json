@@ -1,0 +1,141 @@
+{
+  "id": 4189,
+  "schema": "genepedia/person@1",
+  "slug": "francois-johannes-van-der-merwe",
+  "names": {
+    "display": "Francois Johannes van der Merwe",
+    "given": "Francois Johannes",
+    "surname": "van der Merwe",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "26 FEB 1947",
+      "year": 1947,
+      "iso": "1947-02-26",
+      "precision": "exact",
+      "display": "February 26, 1947",
+      "place": "Vryburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Vryburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vryburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Cullinan, Gauteng, South Africa",
+  "lastResidenceLocation": {
+    "label": "Cullinan, Gauteng, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Cullinan",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Gauteng",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p2/5860/5088/53444836654ed81c/frans_original.jpg?hash=bba1f64d69ca4da80d1c04c9b1555cb71fbd33fde7330a01fcca43cb7dfd13a3.1789455599",
+      "alt": "Francois Johannes van der Merwe"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p2/5860/5088/53444836654ed81c/frans_original.jpg?hash=bba1f64d69ca4da80d1c04c9b1555cb71fbd33fde7330a01fcca43cb7dfd13a3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1589
+    ],
+    "exSpouses": [],
+    "children": [
+      4190,
+      4191
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F981"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1589,
+        "unionId": "F981",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4190,
+        "unionId": "F981",
+        "type": "biological"
+      },
+      {
+        "id": 4191,
+        "unionId": "F981",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000001893612595@",
+    "geniId": "6000000001893612595",
+    "rfn": "geni:6000000001893612595",
+    "changed": "25 MAY 2018"
+  },
+  "page": {
+    "route": "people/4189/",
+    "canonical": "https://www.genepedia.org/people/4189/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4607,
+  "schema": "genepedia/person@1",
+  "slug": "adriana-susanna-johanna-strauss",
+  "names": {
+    "display": "Adriana Susanna Johanna Strauss",
+    "given": "Adriana Susanna Johanna",
+    "surname": "Strauss",
+    "married": "Ebersohn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1863",
+      "year": 1863,
+      "iso": "1863",
+      "precision": "exact",
+      "display": "1863",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4602,
+      1848
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4603,
+      4604,
+      4605,
+      4606,
+      4608,
+      4609,
+      4610,
+      4611
+    ],
+    "parentUnions": [
+      "F1104"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4602,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 1848,
+        "unionId": "F1104",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000076032240926@",
+    "geniId": "6000000076032240926",
+    "rfn": "geni:6000000076032240926",
+    "changed": "09 NOV 2024"
+  },
+  "page": {
+    "route": "people/4607/",
+    "canonical": "https://www.genepedia.org/people/4607/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

@@ -1,0 +1,151 @@
+{
+  "id": 2275,
+  "schema": "genepedia/person@1",
+  "slug": "romeo-eric-mentasti",
+  "names": {
+    "display": "Romeo Eric Mentasti",
+    "given": "Romeo Eric",
+    "surname": "Mentasti",
+    "married": "Mentasti",
+    "nick": "Robert",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1874",
+      "year": 1874,
+      "iso": "1874",
+      "precision": "exact",
+      "display": "1874",
+      "place": "Italy",
+      "location": {
+        "label": "Italy",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Italy",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1954",
+      "year": 1954,
+      "iso": "1954",
+      "precision": "exact",
+      "display": "1954",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Engineer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2276
+    ],
+    "exSpouses": [],
+    "children": [
+      917,
+      2277,
+      2278,
+      2279,
+      2280,
+      2281,
+      2282
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F577"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2276,
+        "unionId": "F577",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 917,
+        "unionId": "F577",
+        "type": "biological"
+      },
+      {
+        "id": 2277,
+        "unionId": "F577",
+        "type": "biological"
+      },
+      {
+        "id": 2278,
+        "unionId": "F577",
+        "type": "biological"
+      },
+      {
+        "id": 2279,
+        "unionId": "F577",
+        "type": "biological"
+      },
+      {
+        "id": 2280,
+        "unionId": "F577",
+        "type": "biological"
+      },
+      {
+        "id": 2281,
+        "unionId": "F577",
+        "type": "biological"
+      },
+      {
+        "id": 2282,
+        "unionId": "F577",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000054173795945@",
+    "geniId": "6000000054173795945",
+    "rfn": "geni:6000000054173795945",
+    "changed": "16 JUL 2022"
+  },
+  "page": {
+    "route": "people/2275/",
+    "canonical": "https://www.genepedia.org/people/2275/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

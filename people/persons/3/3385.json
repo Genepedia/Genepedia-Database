@@ -1,0 +1,120 @@
+{
+  "id": 3385,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-johanna-jacoba-prins",
+  "names": {
+    "display": "Catharina Johanna Jacoba Prins",
+    "given": "Catharina Johanna Jacoba",
+    "surname": "Prins",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 MAY 1836",
+      "year": 1836,
+      "iso": "1836-05-04",
+      "precision": "exact",
+      "display": "May 4, 1836",
+      "place": null
+    },
+    "death": {
+      "date": "27 AUG 1908",
+      "year": 1908,
+      "iso": "1908-08-27",
+      "precision": "exact",
+      "display": "August 27, 1908",
+      "place": "Malmesbury, WC, South Africa",
+      "location": {
+        "label": "Malmesbury, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Malmesbury",
+        "postalCode": "7300",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3383,
+      3384
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1335,
+      3386,
+      3387,
+      3388,
+      3389,
+      3390
+    ],
+    "parentUnions": [
+      "F832"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3383,
+        "unionId": "F832",
+        "type": "biological"
+      },
+      {
+        "id": 3384,
+        "unionId": "F832",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036621760977@",
+    "geniId": "6000000036621760977",
+    "rfn": "geni:6000000036621760977",
+    "changed": "15 APR 2024"
+  },
+  "page": {
+    "route": "people/3385/",
+    "canonical": "https://www.genepedia.org/people/3385/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

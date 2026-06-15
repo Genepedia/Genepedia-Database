@@ -1,0 +1,206 @@
+{
+  "id": 1158,
+  "schema": "genepedia/person@1",
+  "slug": "jacob-johannes-maritz",
+  "names": {
+    "display": "Jacob Johannes Maritz",
+    "given": "Jacob Johannes",
+    "surname": "Maritz",
+    "married": "Maritz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 DEC 1859",
+      "year": 1859,
+      "iso": "1859-12-02",
+      "precision": "exact",
+      "display": "December 2, 1859",
+      "place": "Fraserburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Fraserburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fraserburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 AUG 1953",
+      "year": 1953,
+      "iso": "1953-08-20",
+      "precision": "exact",
+      "display": "August 20, 1953",
+      "place": "Prieska, Northern Cape, South Africa",
+      "location": {
+        "label": "Prieska, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prieska",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "27 MAR 1860",
+      "year": 1860,
+      "iso": "1860-03-27",
+      "precision": "exact",
+      "display": "March 27, 1860",
+      "place": "Fraserburg, NC, South Africa",
+      "location": {
+        "label": "Fraserburg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fraserburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": "AFT 20 AUG 1953",
+      "year": 1953,
+      "iso": "1953-08-20",
+      "precision": "after",
+      "display": "after August 20, 1953",
+      "place": "Prieska, Northern Cape, South Africa",
+      "location": {
+        "label": "Prieska, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prieska",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1153,
+      1154
+    ],
+    "spouses": [
+      2896
+    ],
+    "exSpouses": [],
+    "children": [
+      2897,
+      2898
+    ],
+    "siblings": [
+      1155,
+      1156,
+      1157,
+      448,
+      1093
+    ],
+    "parentUnions": [
+      "F305"
+    ],
+    "spouseUnions": [
+      "F713"
+    ],
+    "parentLinks": [
+      {
+        "id": 1153,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1154,
+        "unionId": "F305",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2896,
+        "unionId": "F713",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2897,
+        "unionId": "F713",
+        "type": "biological"
+      },
+      {
+        "id": 2898,
+        "unionId": "F713",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000039363635158@",
+    "geniId": "6000000039363635158",
+    "rfn": "geni:6000000039363635158",
+    "changed": "23 SEP 2025"
+  },
+  "page": {
+    "route": "people/1158/",
+    "canonical": "https://www.genepedia.org/people/1158/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

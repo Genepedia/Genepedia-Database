@@ -1,0 +1,136 @@
+{
+  "id": 3552,
+  "schema": "genepedia/person@1",
+  "slug": "frederick-jacobus-pretorius",
+  "names": {
+    "display": "Frederick Jacobus Pretorius",
+    "given": "Frederick Jacobus",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 MAR 1896",
+      "year": 1896,
+      "iso": "1896-03-25",
+      "precision": "exact",
+      "display": "March 25, 1896",
+      "place": null
+    },
+    "death": {
+      "date": "12 OCT 1918",
+      "year": 1918,
+      "iso": "1918-10-12",
+      "precision": "exact",
+      "display": "October 12, 1918",
+      "place": "Graaff Reinet, South Africa",
+      "location": {
+        "label": "Graaff Reinet, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "5 JUL 1896",
+      "year": 1896,
+      "iso": "1896-07-05",
+      "precision": "exact",
+      "display": "July 5, 1896",
+      "place": "Graaff Reinet, South Africa",
+      "location": {
+        "label": "Graaff Reinet, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3551,
+      1394
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F865"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3551,
+        "unionId": "F865",
+        "type": "biological"
+      },
+      {
+        "id": 1394,
+        "unionId": "F865",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000141978296836@",
+    "geniId": "6000000141978296836",
+    "rfn": "geni:6000000141978296836",
+    "changed": "07 AUG 2025"
+  },
+  "page": {
+    "route": "people/3552/",
+    "canonical": "https://www.genepedia.org/people/3552/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

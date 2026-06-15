@@ -1,0 +1,79 @@
+{
+  "id": 2555,
+  "schema": "genepedia/person@1",
+  "slug": "private-2555",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1038
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F634"
+    ],
+    "spouseUnions": [
+      "F1565"
+    ],
+    "parentLinks": [
+      {
+        "id": 1038,
+        "unionId": "F634",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040063860837@",
+    "geniId": "6000000040063860837",
+    "rfn": "geni:6000000040063860837",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2555/",
+    "canonical": "https://www.genepedia.org/people/2555/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

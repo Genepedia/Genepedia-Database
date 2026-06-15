@@ -1,0 +1,118 @@
+{
+  "id": 1280,
+  "schema": "genepedia/person@1",
+  "slug": "deon-le-roux-1280",
+  "names": {
+    "display": "Deon Le Roux",
+    "given": "Deon",
+    "surname": "Le Roux",
+    "married": "Le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/80/e6/ee/2d/534448663cb098fd/1174866_518747551533996_1073222068_n_original.jpg?hash=df8a6c169998c6c2e033897e57e77ad35814a3a451b08a2423c404e3b747960b.1789455599",
+      "alt": "Deon Le Roux"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/80/e6/ee/2d/534448663cb098fd/1174866_518747551533996_1073222068_n_original.jpg?hash=df8a6c169998c6c2e033897e57e77ad35814a3a451b08a2423c404e3b747960b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1275,
+      1276
+    ],
+    "spouses": [
+      3193
+    ],
+    "exSpouses": [],
+    "children": [
+      3194
+    ],
+    "siblings": [
+      533,
+      1277,
+      1278,
+      1279
+    ],
+    "parentUnions": [
+      "F332"
+    ],
+    "spouseUnions": [
+      "F786"
+    ],
+    "parentLinks": [
+      {
+        "id": 1275,
+        "unionId": "F332",
+        "type": "biological"
+      },
+      {
+        "id": 1276,
+        "unionId": "F332",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3193,
+        "unionId": "F786",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3194,
+        "unionId": "F786",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207504040831@",
+    "geniId": "6000000207504040831",
+    "rfn": "geni:6000000207504040831",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/1280/",
+    "canonical": "https://www.genepedia.org/people/1280/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

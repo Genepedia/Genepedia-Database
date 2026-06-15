@@ -1,0 +1,115 @@
+{
+  "id": 4299,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-willem-diedericks",
+  "names": {
+    "display": "Gabriel Willem Diedericks",
+    "given": "Gabriel Willem",
+    "surname": "Diedericks",
+    "married": "Diedericks",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1878",
+      "year": 1878,
+      "iso": "1878",
+      "precision": "about",
+      "display": "about 1878",
+      "place": null
+    },
+    "death": {
+      "date": "7 DEC 1943",
+      "year": 1943,
+      "iso": "1943-12-07",
+      "precision": "exact",
+      "display": "December 7, 1943",
+      "place": "Bethal, Transvaal, South Africa",
+      "location": {
+        "label": "Bethal, Transvaal, South Africa",
+        "placeName": "Bethal, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4298
+    ],
+    "exSpouses": [],
+    "children": [
+      1622
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1010"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4298,
+        "unionId": "F1010",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1622,
+        "unionId": "F1010",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207324057911@",
+    "geniId": "6000000207324057911",
+    "rfn": "geni:6000000207324057911",
+    "changed": "14 JUL 2024"
+  },
+  "page": {
+    "route": "people/4299/",
+    "canonical": "https://www.genepedia.org/people/4299/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

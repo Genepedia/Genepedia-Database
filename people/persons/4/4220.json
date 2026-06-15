@@ -1,0 +1,144 @@
+{
+  "id": 4220,
+  "schema": "genepedia/person@1",
+  "slug": "casper-jan-hendrik-du-plooy",
+  "names": {
+    "display": "Casper Jan Hendrik du Plooy",
+    "given": "Casper Jan Hendrik",
+    "surname": "du Plooy",
+    "married": "du Plooy",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 NOV 1837",
+      "year": 1837,
+      "iso": "1837-11-07",
+      "precision": "exact",
+      "display": "November 7, 1837",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 JAN 1901",
+      "year": 1901,
+      "iso": "1901-01-01",
+      "precision": "exact",
+      "display": "January 1, 1901",
+      "place": "St Helena",
+      "location": {
+        "label": "St Helena",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "St Helena",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "24 DEC 1837",
+      "year": 1837,
+      "iso": "1837-12-24",
+      "precision": "exact",
+      "display": "December 24, 1837",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4212,
+      4213
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4214,
+      4215,
+      4216,
+      4217,
+      1601,
+      4218,
+      4219
+    ],
+    "parentUnions": [
+      "F990"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4212,
+        "unionId": "F990",
+        "type": "biological"
+      },
+      {
+        "id": 4213,
+        "unionId": "F990",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000013471227843@",
+    "geniId": "6000000013471227843",
+    "rfn": "geni:6000000013471227843",
+    "changed": "19 JUL 2022"
+  },
+  "page": {
+    "route": "people/4220/",
+    "canonical": "https://www.genepedia.org/people/4220/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

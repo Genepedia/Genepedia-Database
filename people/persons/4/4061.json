@@ -1,0 +1,97 @@
+{
+  "id": 4061,
+  "schema": "genepedia/person@1",
+  "slug": "cornelius-petrus-lourens-meyer",
+  "names": {
+    "display": "Cornelius Petrus Lourens Meyer",
+    "given": "Cornelius Petrus Lourens",
+    "surname": "Meyer",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1884",
+      "year": 1884,
+      "iso": "1884",
+      "precision": "about",
+      "display": "about 1884",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4055,
+      4054
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4056,
+      1548,
+      4057,
+      4058,
+      4059,
+      4060
+    ],
+    "parentUnions": [
+      "F944"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4055,
+        "unionId": "F944",
+        "type": "biological"
+      },
+      {
+        "id": 4054,
+        "unionId": "F944",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206843768845@",
+    "geniId": "6000000206843768845",
+    "rfn": "geni:6000000206843768845",
+    "changed": "27 JUN 2024"
+  },
+  "page": {
+    "route": "people/4061/",
+    "canonical": "https://www.genepedia.org/people/4061/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

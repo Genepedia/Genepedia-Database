@@ -1,0 +1,108 @@
+{
+  "id": 836,
+  "schema": "genepedia/person@1",
+  "slug": "francina-johanna-mitchell",
+  "names": {
+    "display": "Francina Johanna Mitchell",
+    "given": "Francina Johanna",
+    "surname": "Mitchell",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 DEC 1911",
+      "year": 1911,
+      "iso": "1911-12-06",
+      "precision": "exact",
+      "display": "December 6, 1911",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      831,
+      333
+    ],
+    "spouses": [
+      2009
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      832,
+      833,
+      834,
+      835,
+      837,
+      838,
+      839
+    ],
+    "parentUnions": [
+      "F230"
+    ],
+    "spouseUnions": [
+      "F523"
+    ],
+    "parentLinks": [
+      {
+        "id": 831,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 333,
+        "unionId": "F230",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2009,
+        "unionId": "F523",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066538122935@",
+    "geniId": "6000000066538122935",
+    "rfn": "geni:6000000066538122935",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/836/",
+    "canonical": "https://www.genepedia.org/people/836/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

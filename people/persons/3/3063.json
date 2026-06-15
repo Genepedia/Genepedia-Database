@@ -1,0 +1,85 @@
+{
+  "id": 3063,
+  "schema": "genepedia/person@1",
+  "slug": "esterhuizen",
+  "names": {
+    "display": "? Esterhuizen",
+    "given": "?",
+    "surname": "Esterhuizen",
+    "married": "Esterhuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3064
+    ],
+    "exSpouses": [],
+    "children": [
+      1225
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F752"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3064,
+        "unionId": "F752",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1225,
+        "unionId": "F752",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222131029870@",
+    "geniId": "6000000222131029870",
+    "rfn": "geni:6000000222131029870",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3063/",
+    "canonical": "https://www.genepedia.org/people/3063/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

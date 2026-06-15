@@ -1,0 +1,170 @@
+{
+  "id": 2230,
+  "schema": "genepedia/person@1",
+  "slug": "norma-koekemoer",
+  "names": {
+    "display": "Norma Koekemoer",
+    "given": "Norma",
+    "surname": "Koekemoer",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 NOV 1935",
+      "year": 1935,
+      "iso": "1935-11-01",
+      "precision": "exact",
+      "display": "November 1, 1935",
+      "place": "Kimberley, NC, South Africa",
+      "location": {
+        "label": "Kimberley, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 JAN 2018",
+      "year": 2018,
+      "iso": "2018-01-01",
+      "precision": "exact",
+      "display": "January 1, 2018",
+      "place": "Matlosana, NW, South Africa",
+      "location": {
+        "label": "Matlosana, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Matlosana",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/cf/c5/77/0a/53444869c1b5652f/img-20251206-wa0033_original.jpg?hash=d976907462ed6fffc01f71e20e8545248aa7f10f47e8e2643f2557b43d6ea0a0.1789455599",
+      "alt": "Norma Koekemoer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/cf/c5/77/0a/53444869c1b5652f/img-20251206-wa0033_original.jpg?hash=d976907462ed6fffc01f71e20e8545248aa7f10f47e8e2643f2557b43d6ea0a0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/1f/3d/b6/26/534448664bbee435/norma_roselt_original.jpg?hash=187b93dc2e8ac8745932ff5707bb1c3532bdeaf53372ba02b517eaab8ea2a36e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      906
+    ],
+    "exSpouses": [],
+    "children": [
+      2231,
+      2232,
+      2233,
+      2234
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1381"
+    ],
+    "spouseUnions": [
+      "F566"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 906,
+        "unionId": "F566",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2231,
+        "unionId": "F566",
+        "type": "biological"
+      },
+      {
+        "id": 2232,
+        "unionId": "F566",
+        "type": "biological"
+      },
+      {
+        "id": 2233,
+        "unionId": "F566",
+        "type": "biological"
+      },
+      {
+        "id": 2234,
+        "unionId": "F566",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000054792097871@",
+    "geniId": "6000000054792097871",
+    "rfn": "geni:6000000054792097871",
+    "changed": "30 DEC 2025"
+  },
+  "page": {
+    "route": "people/2230/",
+    "canonical": "https://www.genepedia.org/people/2230/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

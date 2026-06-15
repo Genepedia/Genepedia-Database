@@ -1,0 +1,181 @@
+{
+  "id": 2468,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-cornelia-oosthuizen",
+  "names": {
+    "display": "Jacoba Cornelia Oosthuizen",
+    "given": "Jacoba Cornelia",
+    "surname": "Oosthuizen",
+    "married": "van der Bank",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 7 SEP 1777",
+      "year": 1777,
+      "iso": "1777-09-07",
+      "precision": "before",
+      "display": "before September 7, 1777",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "6740",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1805",
+      "year": 1805,
+      "iso": "1805",
+      "precision": "exact",
+      "display": "1805",
+      "place": "Kaap",
+      "location": {
+        "label": "Kaap",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaap",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "12 SEP 1777",
+      "year": 1777,
+      "iso": "1777-09-12",
+      "precision": "exact",
+      "display": "September 12, 1777",
+      "place": "Swellendam, Kaap",
+      "location": {
+        "label": "Swellendam, Kaap",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaap",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Housewife",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2467
+    ],
+    "exSpouses": [],
+    "children": [
+      1009,
+      2469,
+      2470,
+      2471,
+      2472
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1516"
+    ],
+    "spouseUnions": [
+      "F621",
+      "F1515"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2467,
+        "unionId": "F621",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1009,
+        "unionId": "F621",
+        "type": "biological"
+      },
+      {
+        "id": 2469,
+        "unionId": "F621",
+        "type": "biological"
+      },
+      {
+        "id": 2470,
+        "unionId": "F621",
+        "type": "biological"
+      },
+      {
+        "id": 2471,
+        "unionId": "F621",
+        "type": "biological"
+      },
+      {
+        "id": 2472,
+        "unionId": "F621",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003356247927@",
+    "geniId": "6000000003356247927",
+    "rfn": "geni:6000000003356247927",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/2468/",
+    "canonical": "https://www.genepedia.org/people/2468/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

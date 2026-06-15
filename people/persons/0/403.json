@@ -1,0 +1,107 @@
+{
+  "id": 403,
+  "schema": "genepedia/person@1",
+  "slug": "ryno-schutte",
+  "names": {
+    "display": "Ryno Schutte",
+    "given": "Ryno",
+    "surname": "Schutte",
+    "married": "Schutte",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/44/af/c0/0c/534448656e93200d/screenshot_2024-03-13_132953_original.jpg?hash=3a332d4a2c42af02d031f22f8cb5f18d9c19938b9e795dd304bc3129aaa2f427.1789455599",
+      "alt": "Ryno Schutte"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/44/af/c0/0c/534448656e93200d/screenshot_2024-03-13_132953_original.jpg?hash=3a332d4a2c42af02d031f22f8cb5f18d9c19938b9e795dd304bc3129aaa2f427.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      987
+    ],
+    "spouses": [
+      152
+    ],
+    "exSpouses": [],
+    "children": [
+      404
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F269"
+    ],
+    "spouseUnions": [
+      "F127"
+    ],
+    "parentLinks": [
+      {
+        "id": 987,
+        "unionId": "F269",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 152,
+        "unionId": "F127",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 404,
+        "unionId": "F127",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204048064846@",
+    "geniId": "6000000204048064846",
+    "rfn": "geni:6000000204048064846",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/403/",
+    "canonical": "https://www.genepedia.org/people/403/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

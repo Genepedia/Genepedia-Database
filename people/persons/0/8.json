@@ -1,0 +1,189 @@
+{
+  "id": 8,
+  "schema": "genepedia/person@1",
+  "slug": "gerhard-jacobus-roselt",
+  "names": {
+    "display": "Gerhard Jacobus Roselt",
+    "given": "Gerhard Jacobus",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "Gert",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "19 JUN 1976",
+      "year": 1976,
+      "iso": "1976-06-19",
+      "precision": "exact",
+      "display": "June 19, 1976",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "3 OCT 1976",
+      "year": 1976,
+      "iso": "1976-10-03",
+      "precision": "exact",
+      "display": "October 3, 1976",
+      "place": "Kimberley, Northen Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northen Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "Du Toitspan Road",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "8300",
+        "county": "",
+        "stateProvince": "Northen Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": "London, England, United Kingdom",
+  "lastResidenceLocation": {
+    "label": "London, England, United Kingdom",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "London",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "England",
+    "country": "United Kingdom",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": "Software Engineer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ca/0e/3b/73/53444840f0bb83be/11035681_10206408705237661_3661672654425916359_o_original.jpg?hash=8460c17a53d7aca985f32aeac26f78990830d0505eceb3c9ba0b35c709bd861a.1789455599",
+      "alt": "Gerhard Jacobus Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ca/0e/3b/73/53444840f0bb83be/11035681_10206408705237661_3661672654425916359_o_original.jpg?hash=8460c17a53d7aca985f32aeac26f78990830d0505eceb3c9ba0b35c709bd861a.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      6,
+      7
+    ],
+    "spouses": [
+      47
+    ],
+    "exSpouses": [],
+    "children": [
+      48,
+      49,
+      50
+    ],
+    "siblings": [
+      9,
+      1
+    ],
+    "parentUnions": [
+      "F3"
+    ],
+    "spouseUnions": [
+      "F16"
+    ],
+    "parentLinks": [
+      {
+        "id": 6,
+        "unionId": "F3",
+        "type": "biological"
+      },
+      {
+        "id": 7,
+        "unionId": "F3",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 47,
+        "unionId": "F16",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 48,
+        "unionId": "F16",
+        "type": "biological"
+      },
+      {
+        "id": 49,
+        "unionId": "F16",
+        "type": "biological"
+      },
+      {
+        "id": 50,
+        "unionId": "F16",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000046549481969@",
+    "geniId": "6000000046549481969",
+    "rfn": "geni:6000000046549481969",
+    "changed": "07 JAN 2025"
+  },
+  "page": {
+    "route": "people/8/",
+    "canonical": "https://www.genepedia.org/people/8/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

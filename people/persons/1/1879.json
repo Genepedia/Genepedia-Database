@@ -1,0 +1,212 @@
+{
+  "id": 1879,
+  "schema": "genepedia/person@1",
+  "slug": "gerbrecht-jacoba-bester",
+  "names": {
+    "display": "Gerbrecht Jacoba Bester",
+    "given": "Gerbrecht Jacoba",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 SEP 1898",
+      "year": 1898,
+      "iso": "1898-09-19",
+      "precision": "exact",
+      "display": "September 19, 1898",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1983",
+      "year": 1983,
+      "iso": "1983",
+      "precision": "about",
+      "display": "about 1983",
+      "place": null
+    },
+    "baptism": {
+      "date": "4 DEC 1898",
+      "year": 1898,
+      "iso": "1898-12-04",
+      "precision": "exact",
+      "display": "December 4, 1898",
+      "place": "Edenburg, Free State, South Africa",
+      "location": {
+        "label": "Edenburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Edenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      813,
+      1872
+    ],
+    "spouses": [
+      4742
+    ],
+    "exSpouses": [],
+    "children": [
+      4743,
+      4744,
+      4745,
+      4746,
+      4747,
+      4748,
+      4749,
+      4750,
+      4751
+    ],
+    "siblings": [
+      1873,
+      1874,
+      1875,
+      1876,
+      1877,
+      1878,
+      1880,
+      1881,
+      1882
+    ],
+    "parentUnions": [
+      "F497"
+    ],
+    "spouseUnions": [
+      "F1130"
+    ],
+    "parentLinks": [
+      {
+        "id": 813,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1872,
+        "unionId": "F497",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4742,
+        "unionId": "F1130",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4743,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 4744,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 4745,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 4746,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 4747,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 4748,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 4749,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 4750,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 4751,
+        "unionId": "F1130",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065936180854@",
+    "geniId": "6000000065936180854",
+    "rfn": "geni:6000000065936180854",
+    "changed": "03 SEP 2017"
+  },
+  "page": {
+    "route": "people/1879/",
+    "canonical": "https://www.genepedia.org/people/1879/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

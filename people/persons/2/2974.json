@@ -1,0 +1,169 @@
+{
+  "id": 2974,
+  "schema": "genepedia/person@1",
+  "slug": "maria-sophia-maraai-bean",
+  "names": {
+    "display": "Maria Sophia (Maraai) Bean",
+    "given": "Maria Sophia (Maraai)",
+    "surname": "Bean",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 SEP 1898",
+      "year": 1898,
+      "iso": "1898-09-26",
+      "precision": "exact",
+      "display": "September 26, 1898",
+      "place": null
+    },
+    "death": {
+      "date": "5 JAN 1993",
+      "year": 1993,
+      "iso": "1993-01-05",
+      "precision": "exact",
+      "display": "January 5, 1993",
+      "place": "Kuruman, NC, South Africa",
+      "location": {
+        "label": "Kuruman, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kuruman",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/05/e6/d8/1b/5344485e5d29af38/maria_sophia_bean_maraai_b1898_s_original.jpg?hash=19c24ec1f8c2e9f861d19b0ac08e68e49606e7b25f0424cc7aa3dfda0de958e3.1789455599",
+      "alt": "Maria Sophia (Maraai) Bean"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/05/e6/d8/1b/5344485e5d29af38/maria_sophia_bean_maraai_b1898_s_original.jpg?hash=19c24ec1f8c2e9f861d19b0ac08e68e49606e7b25f0424cc7aa3dfda0de958e3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1182
+    ],
+    "exSpouses": [],
+    "children": [
+      2975,
+      2976,
+      2977,
+      2978,
+      2979,
+      2980,
+      2981,
+      2982
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F727"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1182,
+        "unionId": "F727",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2975,
+        "unionId": "F727",
+        "type": "biological"
+      },
+      {
+        "id": 2976,
+        "unionId": "F727",
+        "type": "biological"
+      },
+      {
+        "id": 2977,
+        "unionId": "F727",
+        "type": "biological"
+      },
+      {
+        "id": 2978,
+        "unionId": "F727",
+        "type": "biological"
+      },
+      {
+        "id": 2979,
+        "unionId": "F727",
+        "type": "biological"
+      },
+      {
+        "id": 2980,
+        "unionId": "F727",
+        "type": "biological"
+      },
+      {
+        "id": 2981,
+        "unionId": "F727",
+        "type": "biological"
+      },
+      {
+        "id": 2982,
+        "unionId": "F727",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027853698766@",
+    "geniId": "6000000027853698766",
+    "rfn": "geni:6000000027853698766",
+    "changed": "15 JUL 2023"
+  },
+  "page": {
+    "route": "people/2974/",
+    "canonical": "https://www.genepedia.org/people/2974/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

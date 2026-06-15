@@ -1,0 +1,92 @@
+{
+  "id": 2741,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-maritz",
+  "names": {
+    "display": "Anna Maria Maritz",
+    "given": "Anna Maria",
+    "surname": "Maritz",
+    "married": "Faber",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 AUG 1923",
+      "year": 1923,
+      "iso": "1923-08-23",
+      "precision": "exact",
+      "display": "August 23, 1923",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2713,
+      1110
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F674"
+    ],
+    "spouseUnions": [
+      "F1698"
+    ],
+    "parentLinks": [
+      {
+        "id": 2713,
+        "unionId": "F674",
+        "type": "biological"
+      },
+      {
+        "id": 1110,
+        "unionId": "F674",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000071816635095@",
+    "geniId": "6000000071816635095",
+    "rfn": "geni:6000000071816635095",
+    "changed": "09 JUN 2026"
+  },
+  "page": {
+    "route": "people/2741/",
+    "canonical": "https://www.genepedia.org/people/2741/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

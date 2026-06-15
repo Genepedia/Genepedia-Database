@@ -1,0 +1,86 @@
+{
+  "id": 1831,
+  "schema": "genepedia/person@1",
+  "slug": "martin-turck-ellis",
+  "names": {
+    "display": "Martin Turck Ellis",
+    "given": "Martin Turck",
+    "surname": "Ellis",
+    "married": "Ellis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1829,
+      1830
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      794,
+      1832
+    ],
+    "parentUnions": [
+      "F484"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1829,
+        "unionId": "F484",
+        "type": "biological"
+      },
+      {
+        "id": 1830,
+        "unionId": "F484",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000215282449838@",
+    "geniId": "6000000215282449838",
+    "rfn": "geni:6000000215282449838",
+    "changed": "11 FEB 2025"
+  },
+  "page": {
+    "route": "people/1831/",
+    "canonical": "https://www.genepedia.org/people/1831/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

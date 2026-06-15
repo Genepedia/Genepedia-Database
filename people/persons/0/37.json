@@ -1,0 +1,141 @@
+{
+  "id": 37,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-berhens",
+  "names": {
+    "display": "Maria Elizabeth Berhens",
+    "given": "Maria Elizabeth",
+    "surname": "Berhens",
+    "married": "Roselt",
+    "nick": "Lizette",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "28 JAN 1952",
+      "year": 1952,
+      "iso": "1952-01-28",
+      "precision": "exact",
+      "display": "January 28, 1952",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/0e/e1/f0/86/534448656e991f39/screenshot_2024-03-13_134535_original.jpg?hash=c62d4f464f3016d1fe33780b0032882a62a52816017a3cd8a837387f4e34643c.1789455599",
+      "alt": "Maria Elizabeth Berhens"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/0e/e1/f0/86/534448656e991f39/screenshot_2024-03-13_134535_original.jpg?hash=c62d4f464f3016d1fe33780b0032882a62a52816017a3cd8a837387f4e34643c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      125,
+      124
+    ],
+    "spouses": [
+      6,
+      121
+    ],
+    "exSpouses": [],
+    "children": [
+      38,
+      122,
+      123
+    ],
+    "siblings": [
+      126
+    ],
+    "parentUnions": [
+      "F44"
+    ],
+    "spouseUnions": [
+      "F13",
+      "F43"
+    ],
+    "parentLinks": [
+      {
+        "id": 125,
+        "unionId": "F44",
+        "type": "biological"
+      },
+      {
+        "id": 124,
+        "unionId": "F44",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 6,
+        "unionId": "F13",
+        "role": "husband"
+      },
+      {
+        "id": 121,
+        "unionId": "F43",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 38,
+        "unionId": "F13",
+        "type": "foster"
+      },
+      {
+        "id": 122,
+        "unionId": "F43",
+        "type": "biological"
+      },
+      {
+        "id": 123,
+        "unionId": "F43",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204014325821@",
+    "geniId": "6000000204014325821",
+    "rfn": "geni:6000000204014325821",
+    "changed": "10 JUN 2024"
+  },
+  "page": {
+    "route": "people/37/",
+    "canonical": "https://www.genepedia.org/people/37/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

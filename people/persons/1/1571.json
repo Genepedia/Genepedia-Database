@@ -1,0 +1,98 @@
+{
+  "id": 1571,
+  "schema": "genepedia/person@1",
+  "slug": "judith-susara-van-niekerk",
+  "names": {
+    "display": "Judith Susara van Niekerk",
+    "given": "Judith Susara",
+    "surname": "van Niekerk",
+    "married": "Coetsee",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      631,
+      1567
+    ],
+    "spouses": [
+      4143
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1568,
+      1569,
+      1570,
+      1572
+    ],
+    "parentUnions": [
+      "F398"
+    ],
+    "spouseUnions": [
+      "F964"
+    ],
+    "parentLinks": [
+      {
+        "id": 631,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1567,
+        "unionId": "F398",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4143,
+        "unionId": "F964",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207553146844@",
+    "geniId": "6000000207553146844",
+    "rfn": "geni:6000000207553146844",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1571/",
+    "canonical": "https://www.genepedia.org/people/1571/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

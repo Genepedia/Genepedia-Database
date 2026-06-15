@@ -1,0 +1,110 @@
+{
+  "id": 2645,
+  "schema": "genepedia/person@1",
+  "slug": "sophia-magdalena-aletta-booysen",
+  "names": {
+    "display": "Sophia Magdalena Aletta Booysen",
+    "given": "Sophia Magdalena Aletta",
+    "surname": "Booysen",
+    "married": "Fouche",
+    "nick": "Sophia Magdalena Aletta de Graaf",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1840",
+      "year": 1840,
+      "iso": "1840",
+      "precision": "about",
+      "display": "about 1840",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1070
+    ],
+    "exSpouses": [],
+    "children": [
+      2646
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F648",
+      "F1628",
+      "F1629"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1070,
+        "unionId": "F648",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2646,
+        "unionId": "F648",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000045273940879@",
+    "geniId": "6000000045273940879",
+    "rfn": "geni:6000000045273940879",
+    "changed": "19 SEP 2022"
+  },
+  "page": {
+    "route": "people/2645/",
+    "canonical": "https://www.genepedia.org/people/2645/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

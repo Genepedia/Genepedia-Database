@@ -1,0 +1,170 @@
+{
+  "id": 220,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-de-beer",
+  "names": {
+    "display": "Daniel Johannes de Beer",
+    "given": "Daniel Johannes",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "Daantjie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 MAY 1940",
+      "year": 1940,
+      "iso": "1940-05-10",
+      "precision": "exact",
+      "display": "May 10, 1940",
+      "place": "Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Calvinia, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 AUG 1967",
+      "year": 1967,
+      "iso": "1967-08-03",
+      "precision": "exact",
+      "display": "August 3, 1967",
+      "place": "Bloemfontein, Orange Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Orange Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      214,
+      215
+    ],
+    "spouses": [
+      598
+    ],
+    "exSpouses": [],
+    "children": [
+      599,
+      600,
+      601
+    ],
+    "siblings": [
+      216,
+      217,
+      66,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225
+    ],
+    "parentUnions": [
+      "F69"
+    ],
+    "spouseUnions": [
+      "F168"
+    ],
+    "parentLinks": [
+      {
+        "id": 214,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 215,
+        "unionId": "F69",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 598,
+        "unionId": "F168",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 599,
+        "unionId": "F168",
+        "type": "biological"
+      },
+      {
+        "id": 600,
+        "unionId": "F168",
+        "type": "biological"
+      },
+      {
+        "id": 601,
+        "unionId": "F168",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000119027334831@",
+    "geniId": "6000000119027334831",
+    "rfn": "geni:6000000119027334831",
+    "changed": "23 APR 2024"
+  },
+  "page": {
+    "route": "people/220/",
+    "canonical": "https://www.genepedia.org/people/220/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

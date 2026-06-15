@@ -1,0 +1,150 @@
+{
+  "id": 243,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-lakkie-christina-van-niekerk",
+  "names": {
+    "display": "Rachel (Lakkie) Christina van Niekerk",
+    "given": "Rachel (Lakkie) Christina",
+    "surname": "van Niekerk",
+    "married": "Labuschagne",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JAN 1911",
+      "year": 1911,
+      "iso": "1911-01-18",
+      "precision": "exact",
+      "display": "January 18, 1911",
+      "place": null
+    },
+    "death": {
+      "date": "11 FEB 1964",
+      "year": 1964,
+      "iso": "1964-02-11",
+      "precision": "exact",
+      "display": "February 11, 1964",
+      "place": "Francistown, North-East, Botswana",
+      "location": {
+        "label": "Francistown, North-East, Botswana",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Francistown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North-East",
+        "country": "Botswana",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d2/35/4a/f6/53444867e4c0afe6/rachel_christina_van_niekerk_1911_1964__original.jpg?hash=e431806726a93901b651c1e33d4ee1c22df2160d845d07006b0eddd0a88ed8cf.1789455599",
+      "alt": "Rachel (Lakkie) Christina van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d2/35/4a/f6/53444867e4c0afe6/rachel_christina_van_niekerk_1911_1964__original.jpg?hash=e431806726a93901b651c1e33d4ee1c22df2160d845d07006b0eddd0a88ed8cf.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/fc/cd/ae/cb/5344483bb4ccbd5c/v_niekerk_pieter_johannes_65271_8__original.jpg?hash=96c98bec0418330e8242211a103de94756316aaec8505d2283dddc8605722d6b.1789455599",
+        "form": "",
+        "title": "v Niekerk Pieter Johannes 65271 (8).jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      239,
+      238
+    ],
+    "spouses": [
+      641
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      240,
+      241,
+      242,
+      244,
+      79,
+      245,
+      246
+    ],
+    "parentUnions": [
+      "F77"
+    ],
+    "spouseUnions": [
+      "F179"
+    ],
+    "parentLinks": [
+      {
+        "id": 239,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 238,
+        "unionId": "F77",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 641,
+        "unionId": "F179",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024838317959@",
+    "geniId": "6000000024838317959",
+    "rfn": "geni:6000000024838317959",
+    "changed": "29 JAN 2025"
+  },
+  "page": {
+    "route": "people/243/",
+    "canonical": "https://www.genepedia.org/people/243/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

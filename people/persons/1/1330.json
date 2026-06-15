@@ -1,0 +1,104 @@
+{
+  "id": 1330,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-elias-van-taak",
+  "names": {
+    "display": "Hendrik Elias van Taak",
+    "given": "Hendrik Elias",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 MAR 1950",
+      "year": 1950,
+      "iso": "1950-03-03",
+      "precision": "exact",
+      "display": "March 3, 1950",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      544,
+      1326
+    ],
+    "spouses": [
+      3364
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1327,
+      1328,
+      1329
+    ],
+    "parentUnions": [
+      "F342"
+    ],
+    "spouseUnions": [
+      "F828"
+    ],
+    "parentLinks": [
+      {
+        "id": 544,
+        "unionId": "F342",
+        "type": "biological"
+      },
+      {
+        "id": 1326,
+        "unionId": "F342",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3364,
+        "unionId": "F828",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020386920723@",
+    "geniId": "6000000020386920723",
+    "rfn": "geni:6000000020386920723",
+    "changed": "19 JUN 2020"
+  },
+  "page": {
+    "route": "people/1330/",
+    "canonical": "https://www.genepedia.org/people/1330/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

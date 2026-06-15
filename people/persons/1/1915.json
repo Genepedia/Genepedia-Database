@@ -1,0 +1,132 @@
+{
+  "id": 1915,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-bester-1915",
+  "names": {
+    "display": "Jacobus Marthinus Bester",
+    "given": "Jacobus Marthinus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      816,
+      1908
+    ],
+    "spouses": [
+      4919
+    ],
+    "exSpouses": [],
+    "children": [
+      4920,
+      4921,
+      4922,
+      4923,
+      4924
+    ],
+    "siblings": [
+      1909,
+      1910,
+      1911,
+      1912,
+      1913,
+      1914
+    ],
+    "parentUnions": [
+      "F505"
+    ],
+    "spouseUnions": [
+      "F1167"
+    ],
+    "parentLinks": [
+      {
+        "id": 816,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1908,
+        "unionId": "F505",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4919,
+        "unionId": "F1167",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4920,
+        "unionId": "F1167",
+        "type": "biological"
+      },
+      {
+        "id": 4921,
+        "unionId": "F1167",
+        "type": "biological"
+      },
+      {
+        "id": 4922,
+        "unionId": "F1167",
+        "type": "biological"
+      },
+      {
+        "id": 4923,
+        "unionId": "F1167",
+        "type": "biological"
+      },
+      {
+        "id": 4924,
+        "unionId": "F1167",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066760285939@",
+    "geniId": "6000000066760285939",
+    "rfn": "geni:6000000066760285939",
+    "changed": "09 SEP 2017"
+  },
+  "page": {
+    "route": "people/1915/",
+    "canonical": "https://www.genepedia.org/people/1915/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

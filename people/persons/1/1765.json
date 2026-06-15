@@ -1,0 +1,126 @@
+{
+  "id": 1765,
+  "schema": "genepedia/person@1",
+  "slug": "harold-arkoff",
+  "names": {
+    "display": "Harold Arkoff",
+    "given": "Harold",
+    "surname": "Arkoff",
+    "married": "Arkoff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1925",
+      "year": 1925,
+      "iso": "1925",
+      "precision": "exact",
+      "display": "1925",
+      "place": null
+    },
+    "death": {
+      "date": "2021",
+      "year": 2021,
+      "iso": "2021",
+      "precision": "exact",
+      "display": "2021",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1761,
+      730
+    ],
+    "spouses": [
+      4506
+    ],
+    "exSpouses": [],
+    "children": [
+      4507,
+      4508
+    ],
+    "siblings": [
+      1762,
+      1763,
+      1764,
+      1766
+    ],
+    "parentUnions": [
+      "F462"
+    ],
+    "spouseUnions": [
+      "F1071"
+    ],
+    "parentLinks": [
+      {
+        "id": 1761,
+        "unionId": "F462",
+        "type": "biological"
+      },
+      {
+        "id": 730,
+        "unionId": "F462",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4506,
+        "unionId": "F1071",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4507,
+        "unionId": "F1071",
+        "type": "biological"
+      },
+      {
+        "id": 4508,
+        "unionId": "F1071",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000000500667992@",
+    "geniId": "6000000000500667992",
+    "rfn": "geni:6000000000500667992",
+    "changed": "07 NOV 2024"
+  },
+  "page": {
+    "route": "people/1765/",
+    "canonical": "https://www.genepedia.org/people/1765/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

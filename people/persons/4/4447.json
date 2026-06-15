@@ -1,0 +1,123 @@
+{
+  "id": 4447,
+  "schema": "genepedia/person@1",
+  "slug": "leyb-lurie",
+  "names": {
+    "display": "Leyb Lurie",
+    "given": "Leyb",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "Leib",
+    "aliases": [
+      "לייב לוריא"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1809",
+      "year": 1809,
+      "iso": "1809",
+      "precision": "about",
+      "display": "about 1809",
+      "place": "Kuršėnai, Šiauliai County, Lithuania",
+      "location": {
+        "label": "Kuršėnai, Šiauliai County, Lithuania",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kuršėnai",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Šiauliai County",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "BET 1858 AND 1900",
+      "year": 1858,
+      "iso": "1900",
+      "precision": "exact",
+      "display": "1900",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4448
+    ],
+    "exSpouses": [],
+    "children": [
+      1742,
+      4449
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1054"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4448,
+        "unionId": "F1054",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1742,
+        "unionId": "F1054",
+        "type": "biological"
+      },
+      {
+        "id": 4449,
+        "unionId": "F1054",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000123749450821@",
+    "geniId": "6000000123749450821",
+    "rfn": "geni:6000000123749450821",
+    "changed": "21 APR 2025"
+  },
+  "page": {
+    "route": "people/4447/",
+    "canonical": "https://www.genepedia.org/people/4447/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

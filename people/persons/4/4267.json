@@ -1,0 +1,83 @@
+{
+  "id": 4267,
+  "schema": "genepedia/person@1",
+  "slug": "jeremias-andries-fourie",
+  "names": {
+    "display": "Jeremias Andries Fourie",
+    "given": "Jeremias Andries",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4266,
+      1613
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1002"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4266,
+        "unionId": "F1002",
+        "type": "biological"
+      },
+      {
+        "id": 1613,
+        "unionId": "F1002",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000060706465089@",
+    "geniId": "6000000060706465089",
+    "rfn": "geni:6000000060706465089",
+    "changed": "13 JUN 2017"
+  },
+  "page": {
+    "route": "people/4267/",
+    "canonical": "https://www.genepedia.org/people/4267/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

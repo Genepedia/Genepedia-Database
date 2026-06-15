@@ -1,0 +1,120 @@
+{
+  "id": 3593,
+  "schema": "genepedia/person@1",
+  "slug": "hester-christina-joubert",
+  "names": {
+    "display": "Hester Christina Joubert",
+    "given": "Hester Christina",
+    "surname": "Joubert",
+    "married": "Swanepoel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1874",
+      "year": 1874,
+      "iso": "1874",
+      "precision": "about",
+      "display": "about 1874",
+      "place": null
+    },
+    "death": {
+      "date": "25 OCT 1918",
+      "year": 1918,
+      "iso": "1918-10-25",
+      "precision": "exact",
+      "display": "October 25, 1918",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3592,
+      1399
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3594,
+      3595,
+      3596,
+      3597,
+      3598,
+      3599
+    ],
+    "parentUnions": [
+      "F872"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3592,
+        "unionId": "F872",
+        "type": "biological"
+      },
+      {
+        "id": 1399,
+        "unionId": "F872",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000050772290849@",
+    "geniId": "6000000050772290849",
+    "rfn": "geni:6000000050772290849",
+    "changed": "09 APR 2017"
+  },
+  "page": {
+    "route": "people/3593/",
+    "canonical": "https://www.genepedia.org/people/3593/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

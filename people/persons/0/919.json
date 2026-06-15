@@ -1,0 +1,116 @@
+{
+  "id": 919,
+  "schema": "genepedia/person@1",
+  "slug": "ruth-evelyn-mentasti",
+  "names": {
+    "display": "Ruth Evelyn Mentasti",
+    "given": "Ruth Evelyn",
+    "surname": "Mentasti",
+    "married": "Berry",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 FEB 1925",
+      "year": 1925,
+      "iso": "1925-02-20",
+      "precision": "exact",
+      "display": "February 20, 1925",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/aa/eb/bd/9f/534448613c58b2fa/record-image__original.jpg?hash=c25c126f87144d1a3328fb269f4a7fc2611aa2986661b69efbd35afef241e215.1789455599",
+      "alt": "Ruth Evelyn Mentasti"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/aa/eb/bd/9f/534448613c58b2fa/record-image__original.jpg?hash=c25c126f87144d1a3328fb269f4a7fc2611aa2986661b69efbd35afef241e215.1789455599",
+        "form": "",
+        "title": "record-image_trou 1948 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      917,
+      373
+    ],
+    "spouses": [
+      2288
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      918,
+      920,
+      921
+    ],
+    "parentUnions": [
+      "F255"
+    ],
+    "spouseUnions": [
+      "F579"
+    ],
+    "parentLinks": [
+      {
+        "id": 917,
+        "unionId": "F255",
+        "type": "biological"
+      },
+      {
+        "id": 373,
+        "unionId": "F255",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2288,
+        "unionId": "F579",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165418379@",
+    "geniId": "6000000028165418379",
+    "rfn": "geni:6000000028165418379",
+    "changed": "26 FEB 2017"
+  },
+  "page": {
+    "route": "people/919/",
+    "canonical": "https://www.genepedia.org/people/919/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

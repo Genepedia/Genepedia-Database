@@ -1,0 +1,126 @@
+{
+  "id": 2259,
+  "schema": "genepedia/person@1",
+  "slug": "henry-stephen-cloete",
+  "names": {
+    "display": "Henry Stephen Cloete",
+    "given": "Henry Stephen",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "23 MAY 1951",
+      "year": 1951,
+      "iso": "1951-05-23",
+      "precision": "exact",
+      "display": "May 23, 1951",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "25 Letaba Street",
+        "addressLine2": "",
+        "addressLine3": "South Hills",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/c3/9d/25/cf/5344484211e3fd05/000264_262337y542ayq9027361yc_p_96x128_original.jpg?hash=fedda1669689bfd12df7c9f6f97d761e2ff47ef9a33958fbc24d849c1dd752c4.1789455599",
+      "alt": "Henry Stephen Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/c3/9d/25/cf/5344484211e3fd05/000264_262337y542ayq9027361yc_p_96x128_original.jpg?hash=fedda1669689bfd12df7c9f6f97d761e2ff47ef9a33958fbc24d849c1dd752c4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2257,
+      914
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2258,
+      2260,
+      2261,
+      2262,
+      2263
+    ],
+    "parentUnions": [
+      "F573"
+    ],
+    "spouseUnions": [
+      "F1402"
+    ],
+    "parentLinks": [
+      {
+        "id": 2257,
+        "unionId": "F573",
+        "type": "biological"
+      },
+      {
+        "id": 914,
+        "unionId": "F573",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000045842280844@",
+    "geniId": "6000000045842280844",
+    "rfn": "geni:6000000045842280844",
+    "changed": "17 FEB 2017"
+  },
+  "page": {
+    "route": "people/2259/",
+    "canonical": "https://www.genepedia.org/people/2259/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

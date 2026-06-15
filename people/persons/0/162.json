@@ -1,0 +1,91 @@
+{
+  "id": 162,
+  "schema": "genepedia/person@1",
+  "slug": "gideon-van-der-bank",
+  "names": {
+    "display": "Gideon Van Der Bank",
+    "given": "Gideon",
+    "surname": "Van Der Bank",
+    "married": "Van Der Bank",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      159,
+      158
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      160,
+      44,
+      161,
+      163,
+      164,
+      165,
+      166
+    ],
+    "parentUnions": [
+      "F51"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 159,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 158,
+        "unionId": "F51",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204083457842@",
+    "geniId": "6000000204083457842",
+    "rfn": "geni:6000000204083457842",
+    "changed": "14 MAR 2024"
+  },
+  "page": {
+    "route": "people/162/",
+    "canonical": "https://www.genepedia.org/people/162/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

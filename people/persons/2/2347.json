@@ -1,0 +1,126 @@
+{
+  "id": 2347,
+  "schema": "genepedia/person@1",
+  "slug": "amanda-voges",
+  "names": {
+    "display": "Amanda Voges",
+    "given": "Amanda",
+    "surname": "Styger",
+    "married": "Voges",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "14 JUL 1957",
+      "year": 1957,
+      "iso": "1957-07-14",
+      "precision": "exact",
+      "display": "July 14, 1957",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Struisbaai, Overberg, South Africa",
+  "lastResidenceLocation": {
+    "label": "Struisbaai, Overberg, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Struisbaai",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Overberg",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      938,
+      2346
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2348,
+      2349
+    ],
+    "parentUnions": [
+      "F593"
+    ],
+    "spouseUnions": [
+      "F1452"
+    ],
+    "parentLinks": [
+      {
+        "id": 938,
+        "unionId": "F593",
+        "type": "biological"
+      },
+      {
+        "id": 2346,
+        "unionId": "F593",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000000625336465@",
+    "geniId": "6000000000625336465",
+    "rfn": "geni:6000000000625336465",
+    "changed": "10 NOV 2014"
+  },
+  "page": {
+    "route": "people/2347/",
+    "canonical": "https://www.genepedia.org/people/2347/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

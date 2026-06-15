@@ -1,0 +1,142 @@
+{
+  "id": 1764,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-nathan-arkoff",
+  "names": {
+    "display": "Abraham Nathan Arkoff",
+    "given": "Abraham Nathan",
+    "surname": "Arkoff",
+    "married": "Arkoff",
+    "nick": "Abe",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1922",
+      "year": 1922,
+      "iso": "1922",
+      "precision": "exact",
+      "display": "1922",
+      "place": "Fort Dodge, IA, United States",
+      "location": {
+        "label": "Fort Dodge, IA, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fort Dodge",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "IA",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2009",
+      "year": 2009,
+      "iso": "2009",
+      "precision": "exact",
+      "display": "2009",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1761,
+      730
+    ],
+    "spouses": [
+      4503
+    ],
+    "exSpouses": [],
+    "children": [
+      4504,
+      4505
+    ],
+    "siblings": [
+      1762,
+      1763,
+      1765,
+      1766
+    ],
+    "parentUnions": [
+      "F462"
+    ],
+    "spouseUnions": [
+      "F1070"
+    ],
+    "parentLinks": [
+      {
+        "id": 1761,
+        "unionId": "F462",
+        "type": "biological"
+      },
+      {
+        "id": 730,
+        "unionId": "F462",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4503,
+        "unionId": "F1070",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4504,
+        "unionId": "F1070",
+        "type": "biological"
+      },
+      {
+        "id": 4505,
+        "unionId": "F1070",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000000500401979@",
+    "geniId": "6000000000500401979",
+    "rfn": "geni:6000000000500401979",
+    "changed": "07 NOV 2024"
+  },
+  "page": {
+    "route": "people/1764/",
+    "canonical": "https://www.genepedia.org/people/1764/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

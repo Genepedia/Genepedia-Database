@@ -1,0 +1,129 @@
+{
+  "id": 1231,
+  "schema": "genepedia/person@1",
+  "slug": "marika-fourie",
+  "names": {
+    "display": "Marika Fourie",
+    "given": "Marika",
+    "surname": "Meyer",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "14 MAR 1951",
+      "year": 1951,
+      "iso": "1951-03-14",
+      "precision": "exact",
+      "display": "March 14, 1951",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/6c/83/12/79/534448663cc7e5e9/screenshot_2024-07-21_222837_original.jpg?hash=a1c6b71731ccc7f471eb37e76718a7da3cedf670b8d9c6c7f5a05aeee0ac585a.1789455599",
+      "alt": "Marika Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/6c/83/12/79/534448663cc7e5e9/screenshot_2024-07-21_222837_original.jpg?hash=a1c6b71731ccc7f471eb37e76718a7da3cedf670b8d9c6c7f5a05aeee0ac585a.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3075,
+      3076
+    ],
+    "spouses": [
+      498
+    ],
+    "exSpouses": [],
+    "children": [
+      1232,
+      1233
+    ],
+    "siblings": [
+      3077,
+      3078
+    ],
+    "parentUnions": [
+      "F757"
+    ],
+    "spouseUnions": [
+      "F319"
+    ],
+    "parentLinks": [
+      {
+        "id": 3075,
+        "unionId": "F757",
+        "type": "biological"
+      },
+      {
+        "id": 3076,
+        "unionId": "F757",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 498,
+        "unionId": "F319",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1232,
+        "unionId": "F319",
+        "type": "biological"
+      },
+      {
+        "id": 1233,
+        "unionId": "F319",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204078414851@",
+    "geniId": "6000000204078414851",
+    "rfn": "geni:6000000204078414851",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/1231/",
+    "canonical": "https://www.genepedia.org/people/1231/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

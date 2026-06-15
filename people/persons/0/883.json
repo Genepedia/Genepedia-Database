@@ -1,0 +1,186 @@
+{
+  "id": 883,
+  "schema": "genepedia/person@1",
+  "slug": "jane-roselt",
+  "names": {
+    "display": "Jane Roselt",
+    "given": "Jane",
+    "surname": "Roselt",
+    "married": "Marks",
+    "nick": "",
+    "aliases": [
+      "Jane Roselt"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 MAY 1866",
+      "year": 1866,
+      "iso": "1866-05-12",
+      "precision": "exact",
+      "display": "May 12, 1866",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 MAY 1955",
+      "year": 1955,
+      "iso": "1955-05-27",
+      "precision": "exact",
+      "display": "May 27, 1955",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "20 FEB 1890",
+      "year": 1890,
+      "iso": "1890-02-20",
+      "precision": "exact",
+      "display": "February 20, 1890",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/3f/61/db/e9/5344483e4032cb06/3510-55_a_original.jpg?hash=e3a7f8fcc84ac68a8f260b488f1432dcd862078c2dd0ec3c04f8759cca0a6bc4.1789455599",
+      "alt": "Jane Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/3f/61/db/e9/5344483e4032cb06/3510-55_a_original.jpg?hash=e3a7f8fcc84ac68a8f260b488f1432dcd862078c2dd0ec3c04f8759cca0a6bc4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/e4/1b/0c/98/5344483e4032cb07/96ed2022-616f-4533-b8b8-df8e2c860c00_original.jpg?hash=b5392dc1fe6fa14c25df6445e18ea276bf6f856bfd62bd969b90251650b4c9da.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/02/1e/a6/f7/5344484f52903c5d/record-image_undefined_2__original.jpg?hash=088328fb13133bfcb8f9791e32b6a1f507dfac6cbd0caf7978d1c4c2b94e1bb0.1789455599",
+        "form": "",
+        "title": "record-image_doop jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/79/4e/5f/b5/5344484b00a5e30a/jane_marks_original.jpg?hash=6d4b1c47060dadce21d5c65b5749a7a6e65f8ca655865c7c3a8cd4f48a93e652.1789455599",
+        "form": "",
+        "title": "Jane Marks.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      881,
+      880
+    ],
+    "spouses": [
+      2125
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      368,
+      882,
+      884,
+      885
+    ],
+    "parentUnions": [
+      "F249"
+    ],
+    "spouseUnions": [
+      "F551"
+    ],
+    "parentLinks": [
+      {
+        "id": 881,
+        "unionId": "F249",
+        "type": "biological"
+      },
+      {
+        "id": 880,
+        "unionId": "F249",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2125,
+        "unionId": "F551",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026552451320@",
+    "geniId": "6000000026552451320",
+    "rfn": "geni:6000000026552451320",
+    "changed": "16 MAY 2023"
+  },
+  "page": {
+    "route": "people/883/",
+    "canonical": "https://www.genepedia.org/people/883/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

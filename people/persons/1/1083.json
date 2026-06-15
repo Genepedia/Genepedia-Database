@@ -1,0 +1,113 @@
+{
+  "id": 1083,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-sophia-kotze",
+  "names": {
+    "display": "Johanna Sophia Kotze",
+    "given": "Johanna Sophia",
+    "surname": "Kotze",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1891",
+      "year": 1891,
+      "iso": "1891",
+      "precision": "exact",
+      "display": "1891",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1075,
+      431
+    ],
+    "spouses": [
+      2696
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1084,
+      1085,
+      1086,
+      1087,
+      1088
+    ],
+    "parentUnions": [
+      "F287"
+    ],
+    "spouseUnions": [
+      "F662"
+    ],
+    "parentLinks": [
+      {
+        "id": 1075,
+        "unionId": "F287",
+        "type": "biological"
+      },
+      {
+        "id": 431,
+        "unionId": "F287",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2696,
+        "unionId": "F662",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052142122908@",
+    "geniId": "6000000052142122908",
+    "rfn": "geni:6000000052142122908",
+    "changed": "03 SEP 2025"
+  },
+  "page": {
+    "route": "people/1083/",
+    "canonical": "https://www.genepedia.org/people/1083/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,206 @@
+{
+  "id": 543,
+  "schema": "genepedia/person@1",
+  "slug": "andries-louis-van-taak",
+  "names": {
+    "display": "Andries Louis van Taak",
+    "given": "Andries Louis",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 AUG 1910",
+      "year": 1910,
+      "iso": "1910-08-05",
+      "precision": "exact",
+      "display": "August 5, 1910",
+      "place": null
+    },
+    "death": {
+      "date": "12 NOV 1985",
+      "year": 1985,
+      "iso": "1985-11-12",
+      "precision": "exact",
+      "display": "November 12, 1985",
+      "place": null
+    },
+    "baptism": {
+      "date": "22 JAN 1911",
+      "year": 1911,
+      "iso": "1911-01-22",
+      "precision": "exact",
+      "display": "January 22, 1911",
+      "place": "Nieuwoudville",
+      "location": {
+        "label": "Nieuwoudville",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nieuwoudville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Hermanus, Western Cape, South Africa",
+      "location": {
+        "label": "Hermanus, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hermanus",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ca/8f/bb/8a/5344483ae88d24d8/taak_andries_louis_van_1910-1985_gerty_visagie_1913-1998_-_hermanus_original.jpg?hash=47a6538c2b997c7710b5473fad4d98929cc4fc4cf4095f641c01db99846da462.1789455599",
+      "alt": "Andries Louis van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ca/8f/bb/8a/5344483ae88d24d8/taak_andries_louis_van_1910-1985_gerty_visagie_1913-1998_-_hermanus_original.jpg?hash=47a6538c2b997c7710b5473fad4d98929cc4fc4cf4095f641c01db99846da462.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      538,
+      537
+    ],
+    "spouses": [
+      1320
+    ],
+    "exSpouses": [],
+    "children": [
+      1321,
+      1322,
+      1323,
+      1324,
+      1325
+    ],
+    "siblings": [
+      539,
+      540,
+      541,
+      210,
+      542,
+      544,
+      545
+    ],
+    "parentUnions": [
+      "F159"
+    ],
+    "spouseUnions": [
+      "F341"
+    ],
+    "parentLinks": [
+      {
+        "id": 538,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 537,
+        "unionId": "F159",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1320,
+        "unionId": "F341",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1321,
+        "unionId": "F341",
+        "type": "biological"
+      },
+      {
+        "id": 1322,
+        "unionId": "F341",
+        "type": "biological"
+      },
+      {
+        "id": 1323,
+        "unionId": "F341",
+        "type": "biological"
+      },
+      {
+        "id": 1324,
+        "unionId": "F341",
+        "type": "biological"
+      },
+      {
+        "id": 1325,
+        "unionId": "F341",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020386240899@",
+    "geniId": "6000000020386240899",
+    "rfn": "geni:6000000020386240899",
+    "changed": "19 JUN 2020"
+  },
+  "page": {
+    "route": "people/543/",
+    "canonical": "https://www.genepedia.org/people/543/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

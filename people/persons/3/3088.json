@@ -1,0 +1,100 @@
+{
+  "id": 3088,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-pool",
+  "names": {
+    "display": "Jacobus Johannes Pool",
+    "given": "Jacobus Johannes",
+    "surname": "Pool",
+    "married": "Pool",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 OCT 1973",
+      "year": 1973,
+      "iso": "1973-10-03",
+      "precision": "exact",
+      "display": "October 3, 1973",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1235
+    ],
+    "exSpouses": [],
+    "children": [
+      3089,
+      3090
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1911"
+    ],
+    "spouseUnions": [
+      "F762"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1235,
+        "unionId": "F762",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3089,
+        "unionId": "F762",
+        "type": "biological"
+      },
+      {
+        "id": 3090,
+        "unionId": "F762",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222121782013@",
+    "geniId": "6000000222121782013",
+    "rfn": "geni:6000000222121782013",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3088/",
+    "canonical": "https://www.genepedia.org/people/3088/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

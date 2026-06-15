@@ -1,0 +1,126 @@
+{
+  "id": 1816,
+  "schema": "genepedia/person@1",
+  "slug": "time-mutekeza",
+  "names": {
+    "display": "Time Mutekeza",
+    "given": "Time",
+    "surname": "Mutekeza",
+    "married": "Mutekeza",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      788
+    ],
+    "exSpouses": [],
+    "children": [
+      1817,
+      1818,
+      1819,
+      1820
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F480"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 788,
+        "unionId": "F480",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1817,
+        "unionId": "F480",
+        "type": "biological"
+      },
+      {
+        "id": 1818,
+        "unionId": "F480",
+        "type": "biological"
+      },
+      {
+        "id": 1819,
+        "unionId": "F480",
+        "type": "biological"
+      },
+      {
+        "id": 1820,
+        "unionId": "F480",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207544633864@",
+    "geniId": "6000000207544633864",
+    "rfn": "geni:6000000207544633864",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1816/",
+    "canonical": "https://www.genepedia.org/people/1816/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

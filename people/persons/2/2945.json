@@ -1,0 +1,139 @@
+{
+  "id": 2945,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-david-ras",
+  "names": {
+    "display": "Marthinus David Ras",
+    "given": "Marthinus David",
+    "surname": "Ras",
+    "married": "Ras",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 NOV 1860",
+      "year": 1860,
+      "iso": "1860-11-14",
+      "precision": "exact",
+      "display": "November 14, 1860",
+      "place": "Victoria West, Cape Of Good Hope, Victoria West, Northern Cape, South Africa",
+      "location": {
+        "label": "Victoria West, Cape Of Good Hope, Victoria West, Northern Cape, South Africa",
+        "placeName": "Victoria West, Cape Of Good Hope",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "3 MAR 1861",
+      "year": 1861,
+      "iso": "1861-03-03",
+      "precision": "exact",
+      "display": "March 3, 1861",
+      "place": "Victoria West, South Africa",
+      "location": {
+        "label": "Victoria West, South Africa",
+        "placeName": "Victoria West, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2943,
+      2944
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2946,
+      2947,
+      1178,
+      2948,
+      2949,
+      2950,
+      2951,
+      2952,
+      2953
+    ],
+    "parentUnions": [
+      "F723"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2943,
+        "unionId": "F723",
+        "type": "biological"
+      },
+      {
+        "id": 2944,
+        "unionId": "F723",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065231579876@",
+    "geniId": "6000000065231579876",
+    "rfn": "geni:6000000065231579876",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2945/",
+    "canonical": "https://www.genepedia.org/people/2945/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

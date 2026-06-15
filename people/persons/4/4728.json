@@ -1,0 +1,130 @@
+{
+  "id": 4728,
+  "schema": "genepedia/person@1",
+  "slug": "anna-sophia-bester",
+  "names": {
+    "display": "Anna Sophia Bester",
+    "given": "Anna Sophia",
+    "surname": "Bester",
+    "married": "Noeth",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "26 MAR 1931",
+      "year": 1931,
+      "iso": "1931-03-26",
+      "precision": "exact",
+      "display": "March 26, 1931",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "11 JUL 1931",
+      "year": 1931,
+      "iso": "1931-07-11",
+      "precision": "exact",
+      "display": "July 11, 1931",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/4c/55/42/8b/5344484749a5387f/anna_sophia_and_jan_bester_daughter_anna_sophia_1931_original.jpg?hash=b6450c3900f76357efd81bddb45391b595ecf1cfa22392b120cfe7c77cf94697.1789455599",
+      "alt": "Anna Sophia Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/4c/55/42/8b/5344484749a5387f/anna_sophia_and_jan_bester_daughter_anna_sophia_1931_original.jpg?hash=b6450c3900f76357efd81bddb45391b595ecf1cfa22392b120cfe7c77cf94697.1789455599",
+        "form": "",
+        "title": "anna sophia and jan bester daughter anna sophia 1931.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1874,
+      4723
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4724,
+      4725,
+      4726,
+      4727
+    ],
+    "parentUnions": [
+      "F1125"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1874,
+        "unionId": "F1125",
+        "type": "biological"
+      },
+      {
+        "id": 4723,
+        "unionId": "F1125",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000074579608865@",
+    "geniId": "6000000074579608865",
+    "rfn": "geni:6000000074579608865",
+    "changed": "07 NOV 2022"
+  },
+  "page": {
+    "route": "people/4728/",
+    "canonical": "https://www.genepedia.org/people/4728/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

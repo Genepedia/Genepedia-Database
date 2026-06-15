@@ -1,0 +1,121 @@
+{
+  "id": 3589,
+  "schema": "genepedia/person@1",
+  "slug": "alida-francina-snyman",
+  "names": {
+    "display": "Alida Francina Snyman",
+    "given": "Alida Francina",
+    "surname": "Snyman",
+    "married": "Van Rooÿen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 JUL 1880",
+      "year": 1880,
+      "iso": "1880-07-21",
+      "precision": "exact",
+      "display": "July 21, 1880",
+      "place": "Willowmore, EC, South Africa",
+      "location": {
+        "label": "Willowmore, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Willowmore",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 JUL 1964",
+      "year": 1964,
+      "iso": "1964-07-12",
+      "precision": "exact",
+      "display": "July 12, 1964",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3583,
+      1398
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3584,
+      3585,
+      3586,
+      3587,
+      3588,
+      3590,
+      3591
+    ],
+    "parentUnions": [
+      "F871"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3583,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 1398,
+        "unionId": "F871",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000219804763893@",
+    "geniId": "6000000219804763893",
+    "rfn": "geni:6000000219804763893",
+    "changed": "02 JAN 2026"
+  },
+  "page": {
+    "route": "people/3589/",
+    "canonical": "https://www.genepedia.org/people/3589/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

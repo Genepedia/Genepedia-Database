@@ -1,0 +1,181 @@
+{
+  "id": 2910,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-christiaan-weideman",
+  "names": {
+    "display": "Pieter Andries Christiaan Weideman",
+    "given": "Pieter Andries Christiaan",
+    "surname": "Weideman",
+    "married": "Weideman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 JUL 1842",
+      "year": 1842,
+      "iso": "1842-07-11",
+      "precision": "exact",
+      "display": "July 11, 1842",
+      "place": "Cape Colony",
+      "location": {
+        "label": "Cape Colony",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "26 MAY 1916",
+      "year": 1916,
+      "iso": "1916-05-26",
+      "precision": "exact",
+      "display": "May 26, 1916",
+      "place": "\"Blaaukrantz\", Cape Province, South Africa",
+      "location": {
+        "label": "\"Blaaukrantz\", Cape Province, South Africa",
+        "placeName": "\"Blaaukrantz\"",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "3 OCT 1842",
+      "year": 1842,
+      "iso": "1842-10-03",
+      "precision": "exact",
+      "display": "October 3, 1842",
+      "place": "Colesberg, South Africa",
+      "location": {
+        "label": "Colesberg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2911
+    ],
+    "exSpouses": [],
+    "children": [
+      2912,
+      1165,
+      2913,
+      2914,
+      2915
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1817"
+    ],
+    "spouseUnions": [
+      "F717",
+      "F1816"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2911,
+        "unionId": "F717",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2912,
+        "unionId": "F717",
+        "type": "biological"
+      },
+      {
+        "id": 1165,
+        "unionId": "F717",
+        "type": "biological"
+      },
+      {
+        "id": 2913,
+        "unionId": "F717",
+        "type": "biological"
+      },
+      {
+        "id": 2914,
+        "unionId": "F717",
+        "type": "biological"
+      },
+      {
+        "id": 2915,
+        "unionId": "F717",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000026301474489@",
+    "geniId": "6000000026301474489",
+    "rfn": "geni:6000000026301474489",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2910/",
+    "canonical": "https://www.genepedia.org/people/2910/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

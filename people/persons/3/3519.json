@@ -1,0 +1,104 @@
+{
+  "id": 3519,
+  "schema": "genepedia/person@1",
+  "slug": "sybrand-abraham-de-beer-3519",
+  "names": {
+    "display": "Sybrand Abraham de Beer",
+    "given": "Sybrand Abraham",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 AUG 1870",
+      "year": 1870,
+      "iso": "1870-08-09",
+      "precision": "exact",
+      "display": "August 9, 1870",
+      "place": null
+    },
+    "death": {
+      "date": "21 JUN 1963",
+      "year": 1963,
+      "iso": "1963-06-21",
+      "precision": "exact",
+      "display": "June 21, 1963",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1388,
+      3517
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3518,
+      3520,
+      3521,
+      3522,
+      3523,
+      3524
+    ],
+    "parentUnions": [
+      "F860"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1388,
+        "unionId": "F860",
+        "type": "biological"
+      },
+      {
+        "id": 3517,
+        "unionId": "F860",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000042429747936@",
+    "geniId": "6000000042429747936",
+    "rfn": "geni:6000000042429747936",
+    "changed": "20 MAY 2016"
+  },
+  "page": {
+    "route": "people/3519/",
+    "canonical": "https://www.genepedia.org/people/3519/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

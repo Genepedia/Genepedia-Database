@@ -1,0 +1,77 @@
+{
+  "id": 2399,
+  "schema": "genepedia/person@1",
+  "slug": "grobler",
+  "names": {
+    "display": "? Grobler",
+    "given": "?",
+    "surname": "Grobler",
+    "married": "Grobler",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      965
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F605"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 965,
+        "unionId": "F605",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206588580821@",
+    "geniId": "6000000206588580821",
+    "rfn": "geni:6000000206588580821",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/2399/",
+    "canonical": "https://www.genepedia.org/people/2399/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

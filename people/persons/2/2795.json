@@ -1,0 +1,113 @@
+{
+  "id": 2795,
+  "schema": "genepedia/person@1",
+  "slug": "maria-geertruida-brits",
+  "names": {
+    "display": "Maria Geertruida Brits",
+    "given": "Maria Geertruida",
+    "surname": "Brits",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 SEP 1881",
+      "year": 1881,
+      "iso": "1881-09-12",
+      "precision": "exact",
+      "display": "September 12, 1881",
+      "place": "Britstown, NC, South Africa",
+      "location": {
+        "label": "Britstown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Britstown",
+        "postalCode": "8782",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2794,
+      2793
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1133,
+      2796,
+      2797,
+      2798,
+      2799,
+      2800
+    ],
+    "parentUnions": [
+      "F693"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2794,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2793,
+        "unionId": "F693",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000192091146821@",
+    "geniId": "6000000192091146821",
+    "rfn": "geni:6000000192091146821",
+    "changed": "21 FEB 2023"
+  },
+  "page": {
+    "route": "people/2795/",
+    "canonical": "https://www.genepedia.org/people/2795/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

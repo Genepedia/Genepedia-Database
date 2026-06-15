@@ -1,0 +1,120 @@
+{
+  "id": 1366,
+  "schema": "genepedia/person@1",
+  "slug": "lihanie-franken",
+  "names": {
+    "display": "Lihanie Franken",
+    "given": "Lihanie",
+    "surname": "Franken",
+    "married": "Franken",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 DEC 1999",
+      "year": 1999,
+      "iso": "1999-12-03",
+      "precision": "exact",
+      "display": "December 3, 1999",
+      "place": "Paarl, Western Cape, South Africa",
+      "location": {
+        "label": "Paarl, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/44/33/d6/19/5344486602aed602/screenshot_2024-06-15_182909_original.jpg?hash=e8fcb9520e6efe7ec3ada091db560b136a926b0853f98185aaa1b73ef028c164.1789455599",
+      "alt": "Lihanie Franken"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/44/33/d6/19/5344486602aed602/screenshot_2024-06-15_182909_original.jpg?hash=e8fcb9520e6efe7ec3ada091db560b136a926b0853f98185aaa1b73ef028c164.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1364,
+      555
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1365
+    ],
+    "parentUnions": [
+      "F350"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1364,
+        "unionId": "F350",
+        "type": "biological"
+      },
+      {
+        "id": 555,
+        "unionId": "F350",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228041574@",
+    "geniId": "6000000027228041574",
+    "rfn": "geni:6000000027228041574",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1366/",
+    "canonical": "https://www.genepedia.org/people/1366/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

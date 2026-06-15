@@ -1,0 +1,90 @@
+{
+  "id": 2077,
+  "schema": "genepedia/person@1",
+  "slug": "private6-pretorius",
+  "names": {
+    "display": "<Private6> Pretorius",
+    "given": "<Private6>",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2073,
+      858
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2074,
+      2075,
+      2076,
+      2078,
+      2079,
+      2080
+    ],
+    "parentUnions": [
+      "F542"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2073,
+        "unionId": "F542",
+        "type": "biological"
+      },
+      {
+        "id": 858,
+        "unionId": "F542",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066616864855@",
+    "geniId": "6000000066616864855",
+    "rfn": "geni:6000000066616864855",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2077/",
+    "canonical": "https://www.genepedia.org/people/2077/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

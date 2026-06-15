@@ -1,0 +1,95 @@
+{
+  "id": 688,
+  "schema": "genepedia/person@1",
+  "slug": "frank-cooper",
+  "names": {
+    "display": "Frank Cooper",
+    "given": "Frank",
+    "surname": "Cooper",
+    "married": "Cooper",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1698
+    ],
+    "spouses": [
+      687
+    ],
+    "exSpouses": [],
+    "children": [
+      269
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F441"
+    ],
+    "spouseUnions": [
+      "F192"
+    ],
+    "parentLinks": [
+      {
+        "id": 1698,
+        "unionId": "F441",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 687,
+        "unionId": "F192",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 269,
+        "unionId": "F192",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207589744846@",
+    "geniId": "6000000207589744846",
+    "rfn": "geni:6000000207589744846",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/688/",
+    "canonical": "https://www.genepedia.org/people/688/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

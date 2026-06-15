@@ -1,0 +1,123 @@
+{
+  "id": 1222,
+  "schema": "genepedia/person@1",
+  "slug": "phillippus-christoffel-fourie",
+  "names": {
+    "display": "Phillippus Christoffel Fourie",
+    "given": "Phillippus Christoffel",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "27 SEP 1956",
+      "year": 1956,
+      "iso": "1956-09-27",
+      "precision": "exact",
+      "display": "September 27, 1956",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      495,
+      1221
+    ],
+    "spouses": [
+      3052
+    ],
+    "exSpouses": [],
+    "children": [
+      3053,
+      3054,
+      3055
+    ],
+    "siblings": [
+      1223,
+      1224
+    ],
+    "parentUnions": [
+      "F316"
+    ],
+    "spouseUnions": [
+      "F749"
+    ],
+    "parentLinks": [
+      {
+        "id": 495,
+        "unionId": "F316",
+        "type": "biological"
+      },
+      {
+        "id": 1221,
+        "unionId": "F316",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3052,
+        "unionId": "F749",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3053,
+        "unionId": "F749",
+        "type": "biological"
+      },
+      {
+        "id": 3054,
+        "unionId": "F749",
+        "type": "biological"
+      },
+      {
+        "id": 3055,
+        "unionId": "F749",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222063608921@",
+    "geniId": "6000000222063608921",
+    "rfn": "geni:6000000222063608921",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/1222/",
+    "canonical": "https://www.genepedia.org/people/1222/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

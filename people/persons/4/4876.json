@@ -1,0 +1,172 @@
+{
+  "id": 4876,
+  "schema": "genepedia/person@1",
+  "slug": "antonie-johannes-botes-4876",
+  "names": {
+    "display": "Antonie Johannes Botes",
+    "given": "Antonie Johannes",
+    "surname": "Botes",
+    "married": "Botes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 MAR 1920",
+      "year": 1920,
+      "iso": "1920-03-11",
+      "precision": "exact",
+      "display": "March 11, 1920",
+      "place": "Kaap",
+      "location": {
+        "label": "Kaap",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaap",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 OCT 1982",
+      "year": 1982,
+      "iso": "1982-10-23",
+      "precision": "exact",
+      "display": "October 23, 1982",
+      "place": null
+    },
+    "baptism": {
+      "date": "4 APR 1920",
+      "year": 1920,
+      "iso": "1920-04-04",
+      "precision": "exact",
+      "display": "April 4, 1920",
+      "place": "Philipstown",
+      "location": {
+        "label": "Philipstown",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "myner, SAS&H",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4874,
+      1910
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4875,
+      4877,
+      4878,
+      4879,
+      4880,
+      4881,
+      4882,
+      4883,
+      4884,
+      4885,
+      4886
+    ],
+    "parentUnions": [
+      "F1161"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4874,
+        "unionId": "F1161",
+        "type": "biological"
+      },
+      {
+        "id": 1910,
+        "unionId": "F1161",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000085351100352@",
+    "geniId": "6000000085351100352",
+    "rfn": "geni:6000000085351100352",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4876/",
+    "canonical": "https://www.genepedia.org/people/4876/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

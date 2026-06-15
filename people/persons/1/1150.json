@@ -1,0 +1,178 @@
+{
+  "id": 1150,
+  "schema": "genepedia/person@1",
+  "slug": "john-henry-davis-1150",
+  "names": {
+    "display": "John Henry Davis",
+    "given": "John Henry",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Cardiff, South Wales, England",
+      "location": {
+        "label": "Cardiff, South Wales, England",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cardiff",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "South Wales",
+        "country": "England",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Uitenhage, EC, South Africa",
+      "location": {
+        "label": "Uitenhage, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Uitenhage",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "unknown",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/54/ec/17/32/53444838c4ff09b0/16072010025_original.jpg?hash=f64bf3fa9119d74c918a543c30f3f82e67564813989721a14764ccc68f34cc0d.1789455599",
+      "alt": "John Henry Davis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/54/ec/17/32/53444838c4ff09b0/16072010025_original.jpg?hash=f64bf3fa9119d74c918a543c30f3f82e67564813989721a14764ccc68f34cc0d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/6c/72/6c/56/5344484240ce955b/john_henry_davis_cardiff_wales_original.jpg?hash=2c572c26f7c21918aeda31136fe52888f171135f8af3803d78c0bb8fd5f76051.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2853,
+      2854
+    ],
+    "spouses": [
+      1149
+    ],
+    "exSpouses": [],
+    "children": [
+      1151,
+      447,
+      1152
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F704"
+    ],
+    "spouseUnions": [
+      "F304"
+    ],
+    "parentLinks": [
+      {
+        "id": 2853,
+        "unionId": "F704",
+        "type": "biological"
+      },
+      {
+        "id": 2854,
+        "unionId": "F704",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1149,
+        "unionId": "F304",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1151,
+        "unionId": "F304",
+        "type": "biological"
+      },
+      {
+        "id": 447,
+        "unionId": "F304",
+        "type": "biological"
+      },
+      {
+        "id": 1152,
+        "unionId": "F304",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000009159373437@",
+    "geniId": "6000000009159373437",
+    "rfn": "geni:6000000009159373437",
+    "changed": "12 FEB 2026"
+  },
+  "page": {
+    "route": "people/1150/",
+    "canonical": "https://www.genepedia.org/people/1150/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

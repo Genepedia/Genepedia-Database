@@ -1,0 +1,93 @@
+{
+  "id": 965,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-cloete",
+  "names": {
+    "display": "Martha Maria Cloete",
+    "given": "Martha Maria",
+    "surname": "Cloete",
+    "married": "Grobler",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      383,
+      964
+    ],
+    "spouses": [
+      2399
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F263"
+    ],
+    "spouseUnions": [
+      "F605"
+    ],
+    "parentLinks": [
+      {
+        "id": 383,
+        "unionId": "F263",
+        "type": "biological"
+      },
+      {
+        "id": 964,
+        "unionId": "F263",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2399,
+        "unionId": "F605",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206588568821@",
+    "geniId": "6000000206588568821",
+    "rfn": "geni:6000000206588568821",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/965/",
+    "canonical": "https://www.genepedia.org/people/965/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

@@ -1,0 +1,170 @@
+{
+  "id": 2861,
+  "schema": "genepedia/person@1",
+  "slug": "margaret-helena-keyter",
+  "names": {
+    "display": "Margaret Helena Keyter",
+    "given": "Margaret Helena",
+    "surname": "Keyter",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1843",
+      "year": 1843,
+      "iso": "1843",
+      "precision": "exact",
+      "display": "1843",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "30 OCT 1893",
+      "year": 1893,
+      "iso": "1893-10-30",
+      "precision": "exact",
+      "display": "October 30, 1893",
+      "place": "Beaconsfield, Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Beaconsfield, Kimberley, Northern Cape, South Africa",
+        "placeName": "Beaconsfield",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/87/91/3d/76/534448423d0ed4ae/davis_keyter-crop_original.jpg?hash=edffde4ab4f6fe4ab2536075385523608242cf23e5779669d7b02f9db150894e.1789455599",
+      "alt": "Margaret Helena Keyter"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/87/91/3d/76/534448423d0ed4ae/davis_keyter-crop_original.jpg?hash=edffde4ab4f6fe4ab2536075385523608242cf23e5779669d7b02f9db150894e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/19/d5/d7/17/534448423d0b759f/davis_keyter-crop_original.jpg?hash=7be8fa6113fd4a5f6ebdcf1ac32644a789bb4a1c40da50cd8590e8592d6fbea0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1152
+    ],
+    "exSpouses": [],
+    "children": [
+      2862,
+      2863,
+      2864,
+      2865
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1778"
+    ],
+    "spouseUnions": [
+      "F706"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1152,
+        "unionId": "F706",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2862,
+        "unionId": "F706",
+        "type": "biological"
+      },
+      {
+        "id": 2863,
+        "unionId": "F706",
+        "type": "biological"
+      },
+      {
+        "id": 2864,
+        "unionId": "F706",
+        "type": "biological"
+      },
+      {
+        "id": 2865,
+        "unionId": "F706",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000052893340830@",
+    "geniId": "6000000052893340830",
+    "rfn": "geni:6000000052893340830",
+    "changed": "19 JAN 2017"
+  },
+  "page": {
+    "route": "people/2861/",
+    "canonical": "https://www.genepedia.org/people/2861/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": 659,
+  "schema": "genepedia/person@1",
+  "slug": "fouche",
+  "names": {
+    "display": "? Fouche",
+    "given": "?",
+    "surname": "Fouche",
+    "married": "Fouche",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      252
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F185"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 252,
+        "unionId": "F185",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207080802828@",
+    "geniId": "6000000207080802828",
+    "rfn": "geni:6000000207080802828",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/659/",
+    "canonical": "https://www.genepedia.org/people/659/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

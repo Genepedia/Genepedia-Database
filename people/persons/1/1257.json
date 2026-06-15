@@ -1,0 +1,226 @@
+{
+  "id": 1257,
+  "schema": "genepedia/person@1",
+  "slug": "mienie-johanna-marais",
+  "names": {
+    "display": "Mienie Johanna Marais",
+    "given": "Mienie Johanna",
+    "surname": "Marais",
+    "married": "Swanepoel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 JAN 1892",
+      "year": 1892,
+      "iso": "1892-01-19",
+      "precision": "exact",
+      "display": "January 19, 1892",
+      "place": "Fraserburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Fraserburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fraserburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "25 JAN 1973",
+      "year": 1973,
+      "iso": "1973-01-25",
+      "precision": "exact",
+      "display": "January 25, 1973",
+      "place": "Prince Albert, Western Cape, South Africa",
+      "location": {
+        "label": "Prince Albert, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prince Albert",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/3a/03/93/25/534448486e7578d3/mienie_marais_swanepoel_original.jpg?hash=9b095f213b5a72c5fef06b4cc7d828d4bff35308c36d83069e3cdbc90152091f.1789455599",
+      "alt": "Mienie Johanna Marais"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/3a/03/93/25/534448486e7578d3/mienie_marais_swanepoel_original.jpg?hash=9b095f213b5a72c5fef06b4cc7d828d4bff35308c36d83069e3cdbc90152091f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      524,
+      1250
+    ],
+    "spouses": [
+      3115
+    ],
+    "exSpouses": [],
+    "children": [
+      3116,
+      3117,
+      3118,
+      3119,
+      3120,
+      3121,
+      3122,
+      3123,
+      3124,
+      3125,
+      3126
+    ],
+    "siblings": [
+      1251,
+      1252,
+      1253,
+      1254,
+      1255,
+      1256
+    ],
+    "parentUnions": [
+      "F327"
+    ],
+    "spouseUnions": [
+      "F772"
+    ],
+    "parentLinks": [
+      {
+        "id": 524,
+        "unionId": "F327",
+        "type": "biological"
+      },
+      {
+        "id": 1250,
+        "unionId": "F327",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3115,
+        "unionId": "F772",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3116,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 3117,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 3118,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 3119,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 3120,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 3121,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 3122,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 3123,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 3124,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 3125,
+        "unionId": "F772",
+        "type": "biological"
+      },
+      {
+        "id": 3126,
+        "unionId": "F772",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000014823726886@",
+    "geniId": "6000000014823726886",
+    "rfn": "geni:6000000014823726886",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/1257/",
+    "canonical": "https://www.genepedia.org/people/1257/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

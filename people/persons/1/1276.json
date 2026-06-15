@@ -1,0 +1,119 @@
+{
+  "id": 1276,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-cloaberry-swart",
+  "names": {
+    "display": "Elizabeth Cloaberry Swart",
+    "given": "Elizabeth Cloaberry",
+    "surname": "Swart",
+    "married": "Le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3181
+    ],
+    "spouses": [
+      1275
+    ],
+    "exSpouses": [],
+    "children": [
+      533,
+      1277,
+      1278,
+      1279,
+      1280
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F782"
+    ],
+    "spouseUnions": [
+      "F332"
+    ],
+    "parentLinks": [
+      {
+        "id": 3181,
+        "unionId": "F782",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1275,
+        "unionId": "F332",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 533,
+        "unionId": "F332",
+        "type": "biological"
+      },
+      {
+        "id": 1277,
+        "unionId": "F332",
+        "type": "biological"
+      },
+      {
+        "id": 1278,
+        "unionId": "F332",
+        "type": "biological"
+      },
+      {
+        "id": 1279,
+        "unionId": "F332",
+        "type": "biological"
+      },
+      {
+        "id": 1280,
+        "unionId": "F332",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781755268@",
+    "geniId": "6000000007781755268",
+    "rfn": "geni:6000000007781755268",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1276/",
+    "canonical": "https://www.genepedia.org/people/1276/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

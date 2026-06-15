@@ -1,0 +1,126 @@
+{
+  "id": 1323,
+  "schema": "genepedia/person@1",
+  "slug": "gert-johannes-van-taak-1323",
+  "names": {
+    "display": "Gert Johannes van Taak",
+    "given": "Gert Johannes",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "Gerhard",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 OCT 1941",
+      "year": 1941,
+      "iso": "1941-10-22",
+      "precision": "exact",
+      "display": "October 22, 1941",
+      "place": null
+    },
+    "death": {
+      "date": "8 JAN 2015",
+      "year": 2015,
+      "iso": "2015-01-08",
+      "precision": "exact",
+      "display": "January 8, 2015",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      543,
+      1320
+    ],
+    "spouses": [
+      3351
+    ],
+    "exSpouses": [],
+    "children": [
+      3352,
+      3353
+    ],
+    "siblings": [
+      1321,
+      1322,
+      1324,
+      1325
+    ],
+    "parentUnions": [
+      "F341"
+    ],
+    "spouseUnions": [
+      "F822"
+    ],
+    "parentLinks": [
+      {
+        "id": 543,
+        "unionId": "F341",
+        "type": "biological"
+      },
+      {
+        "id": 1320,
+        "unionId": "F341",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3351,
+        "unionId": "F822",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3352,
+        "unionId": "F822",
+        "type": "biological"
+      },
+      {
+        "id": 3353,
+        "unionId": "F822",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020385947140@",
+    "geniId": "6000000020385947140",
+    "rfn": "geni:6000000020385947140",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1323/",
+    "canonical": "https://www.genepedia.org/people/1323/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

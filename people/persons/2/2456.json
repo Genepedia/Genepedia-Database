@@ -1,0 +1,135 @@
+{
+  "id": 2456,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-maria-oosthuizen",
+  "names": {
+    "display": "Elizabeth Maria Oosthuizen",
+    "given": "Elizabeth Maria",
+    "surname": "Oosthuizen",
+    "married": "van Tonder",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT AUG 1820",
+      "year": 1820,
+      "iso": "1820-08",
+      "precision": "about",
+      "display": "about August 1820",
+      "place": "Assegaaibosch, Ladismith, Cape Colony, South Africa",
+      "location": {
+        "label": "Assegaaibosch, Ladismith, Cape Colony, South Africa",
+        "placeName": "Assegaaibosch",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ladismith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "19 JAN 1872",
+      "year": 1872,
+      "iso": "1872-01-19",
+      "precision": "exact",
+      "display": "January 19, 1872",
+      "place": "Rietbosjesfontein, Ladismith, Cape Colony, South Africa",
+      "location": {
+        "label": "Rietbosjesfontein, Ladismith, Cape Colony, South Africa",
+        "placeName": "Rietbosjesfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ladismith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2454,
+      2455
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1008,
+      2457,
+      2458
+    ],
+    "parentUnions": [
+      "F618"
+    ],
+    "spouseUnions": [
+      "F1501"
+    ],
+    "parentLinks": [
+      {
+        "id": 2454,
+        "unionId": "F618",
+        "type": "biological"
+      },
+      {
+        "id": 2455,
+        "unionId": "F618",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000203815902823@",
+    "geniId": "6000000203815902823",
+    "rfn": "geni:6000000203815902823",
+    "changed": "05 MAR 2024"
+  },
+  "page": {
+    "route": "people/2456/",
+    "canonical": "https://www.genepedia.org/people/2456/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

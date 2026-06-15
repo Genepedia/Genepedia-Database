@@ -1,0 +1,99 @@
+{
+  "id": 2769,
+  "schema": "genepedia/person@1",
+  "slug": "anna-susanna-piek",
+  "names": {
+    "display": "Anna Susanna Piek",
+    "given": "Anna Susanna",
+    "surname": "Piek",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 AUG 1928",
+      "year": 1928,
+      "iso": "1928-08-13",
+      "precision": "exact",
+      "display": "August 13, 1928",
+      "place": null
+    },
+    "death": {
+      "date": "27 JUL 2007",
+      "year": 2007,
+      "iso": "2007-07-27",
+      "precision": "exact",
+      "display": "July 27, 2007",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2768,
+      1122
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F685"
+    ],
+    "spouseUnions": [
+      "F1716"
+    ],
+    "parentLinks": [
+      {
+        "id": 2768,
+        "unionId": "F685",
+        "type": "biological"
+      },
+      {
+        "id": 1122,
+        "unionId": "F685",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000202417399830@",
+    "geniId": "6000000202417399830",
+    "rfn": "geni:6000000202417399830",
+    "changed": "25 JAN 2024"
+  },
+  "page": {
+    "route": "people/2769/",
+    "canonical": "https://www.genepedia.org/people/2769/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

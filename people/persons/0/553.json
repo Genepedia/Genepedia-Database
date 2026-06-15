@@ -1,0 +1,111 @@
+{
+  "id": 553,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-hendrika-jakoba-esterhuyse",
+  "names": {
+    "display": "Johanna Hendrika Jakoba Esterhuyse",
+    "given": "Johanna Hendrika Jakoba",
+    "surname": "Esterhuyse",
+    "married": "Esterhuyse",
+    "nick": "Rika",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "28 FEB 1964",
+      "year": 1964,
+      "iso": "1964-02-28",
+      "precision": "exact",
+      "display": "February 28, 1964",
+      "place": "Calvinia, South Africa",
+      "location": {
+        "label": "Calvinia, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      551,
+      212
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      552,
+      554,
+      555,
+      556
+    ],
+    "parentUnions": [
+      "F161"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 551,
+        "unionId": "F161",
+        "type": "biological"
+      },
+      {
+        "id": 212,
+        "unionId": "F161",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027226625480@",
+    "geniId": "6000000027226625480",
+    "rfn": "geni:6000000027226625480",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/553/",
+    "canonical": "https://www.genepedia.org/people/553/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,130 @@
+{
+  "id": 530,
+  "schema": "genepedia/person@1",
+  "slug": "adriaan-van-deventer",
+  "names": {
+    "display": "Adriaan Van Deventer",
+    "given": "Adriaan",
+    "surname": "Van Deventer",
+    "married": "Van Deventer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BEF 1970",
+      "year": 1970,
+      "iso": "1970",
+      "precision": "before",
+      "display": "before 1970",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/dc/52/52/a3/534448659f2623c6/screenshot_2024-04-06_195224_original.jpg?hash=c73041dee4cff39374c392284902175d3b0a4809f3d70280c0280acbb542763f.1789455599",
+      "alt": "Adriaan Van Deventer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/dc/52/52/a3/534448659f2623c6/screenshot_2024-04-06_195224_original.jpg?hash=c73041dee4cff39374c392284902175d3b0a4809f3d70280c0280acbb542763f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/3f/c5/4b/56/534448659f299274/screenshot_2024-04-06_195218_original.jpg?hash=659309fdc5c2611ada42cb5ce32c6dd926b226558d359327acb4d72a40829f92.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      528,
+      529
+    ],
+    "spouses": [
+      1266
+    ],
+    "exSpouses": [],
+    "children": [
+      1267
+    ],
+    "siblings": [
+      531,
+      205
+    ],
+    "parentUnions": [
+      "F156"
+    ],
+    "spouseUnions": [
+      "F329"
+    ],
+    "parentLinks": [
+      {
+        "id": 528,
+        "unionId": "F156",
+        "type": "biological"
+      },
+      {
+        "id": 529,
+        "unionId": "F156",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1266,
+        "unionId": "F329",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1267,
+        "unionId": "F329",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204862317876@",
+    "geniId": "6000000204862317876",
+    "rfn": "geni:6000000204862317876",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/530/",
+    "canonical": "https://www.genepedia.org/people/530/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

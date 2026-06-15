@@ -1,0 +1,92 @@
+{
+  "id": 3352,
+  "schema": "genepedia/person@1",
+  "slug": "renette-rietoff",
+  "names": {
+    "display": "Renette Rietoff",
+    "given": "Renette",
+    "surname": "van Taak",
+    "married": "Rietoff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1 JUL 1974",
+      "year": 1974,
+      "iso": "1974-07-01",
+      "precision": "exact",
+      "display": "July 1, 1974",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1323,
+      3351
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3353
+    ],
+    "parentUnions": [
+      "F822"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1323,
+        "unionId": "F822",
+        "type": "biological"
+      },
+      {
+        "id": 3351,
+        "unionId": "F822",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020385608038@",
+    "geniId": "6000000020385608038",
+    "rfn": "geni:6000000020385608038",
+    "changed": "19 JUN 2020"
+  },
+  "page": {
+    "route": "people/3352/",
+    "canonical": "https://www.genepedia.org/people/3352/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

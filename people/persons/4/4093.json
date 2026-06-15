@@ -1,0 +1,111 @@
+{
+  "id": 4093,
+  "schema": "genepedia/person@1",
+  "slug": "heletje-maria-van-zyl",
+  "names": {
+    "display": "Heletje Maria van Zyl",
+    "given": "Heletje Maria",
+    "surname": "van Zyl",
+    "married": "Swart",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 AUG 1875",
+      "year": 1875,
+      "iso": "1875-08-27",
+      "precision": "exact",
+      "display": "August 27, 1875",
+      "place": "Doornhoek, Bloemhof, Transvaal, South Africa",
+      "location": {
+        "label": "Doornhoek, Bloemhof, Transvaal, South Africa",
+        "placeName": "Doornhoek, Bloemhof, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4090,
+      1551
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4091,
+      4092,
+      4094,
+      4095
+    ],
+    "parentUnions": [
+      "F948"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4090,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 1551,
+        "unionId": "F948",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000187844415853@",
+    "geniId": "6000000187844415853",
+    "rfn": "geni:6000000187844415853",
+    "changed": "07 OCT 2022"
+  },
+  "page": {
+    "route": "people/4093/",
+    "canonical": "https://www.genepedia.org/people/4093/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

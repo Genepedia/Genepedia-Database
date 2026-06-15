@@ -1,0 +1,117 @@
+{
+  "id": 2336,
+  "schema": "genepedia/person@1",
+  "slug": "melanie-greek",
+  "names": {
+    "display": "Melanie Greek",
+    "given": "Melanie",
+    "surname": "Martin",
+    "married": "Greek",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Cape Town, Western Cape, South Africa",
+  "lastResidenceLocation": {
+    "label": "Cape Town, Western Cape, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Cape Town",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Western Cape",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/bb/7c/5e/94/53444840dc7472c0/169723_192735790737320_8362433_o_original.jpg?hash=510d256d52bc67f45b2d1bdd4290ed84d3a966412cc4e2fba0e2886321e80875.1789455599",
+      "alt": "Melanie Greek"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/bb/7c/5e/94/53444840dc7472c0/169723_192735790737320_8362433_o_original.jpg?hash=510d256d52bc67f45b2d1bdd4290ed84d3a966412cc4e2fba0e2886321e80875.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2331,
+      931
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2332,
+      2333,
+      2334,
+      2335
+    ],
+    "parentUnions": [
+      "F590"
+    ],
+    "spouseUnions": [
+      "F1444"
+    ],
+    "parentLinks": [
+      {
+        "id": 2331,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 931,
+        "unionId": "F590",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000046978344821@",
+    "geniId": "6000000046978344821",
+    "rfn": "geni:6000000046978344821",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/2336/",
+    "canonical": "https://www.genepedia.org/people/2336/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

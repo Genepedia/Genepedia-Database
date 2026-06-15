@@ -1,0 +1,86 @@
+{
+  "id": 1759,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-w-lurie",
+  "names": {
+    "display": "Abraham W Lurie",
+    "given": "Abraham W",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      729,
+      1757
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1758,
+      1760
+    ],
+    "parentUnions": [
+      "F461"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 729,
+        "unionId": "F461",
+        "type": "biological"
+      },
+      {
+        "id": 1757,
+        "unionId": "F461",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208588644838@",
+    "geniId": "6000000208588644838",
+    "rfn": "geni:6000000208588644838",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/1759/",
+    "canonical": "https://www.genepedia.org/people/1759/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

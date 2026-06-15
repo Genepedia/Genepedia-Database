@@ -1,0 +1,121 @@
+{
+  "id": 600,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-schalk-de-beer",
+  "names": {
+    "display": "Petrus Johannes Schalk de Beer",
+    "given": "Petrus Johannes Schalk",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "Pietie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 MAY 1966",
+      "year": 1966,
+      "iso": "1966-05-11",
+      "precision": "exact",
+      "display": "May 11, 1966",
+      "place": "Lindley, South Africa",
+      "location": {
+        "label": "Lindley, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Lindley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/cd/00/cb/55/53444865b68717f0/de_beer_petrus_original.jpg?hash=9da3d73b978ebff758688cf80b385ec1b6f77fbef50c0998a72dc4517c1cc084.1789455599",
+      "alt": "Petrus Johannes Schalk de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/cd/00/cb/55/53444865b68717f0/de_beer_petrus_original.jpg?hash=9da3d73b978ebff758688cf80b385ec1b6f77fbef50c0998a72dc4517c1cc084.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      220,
+      598
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      599,
+      601
+    ],
+    "parentUnions": [
+      "F168"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 220,
+        "unionId": "F168",
+        "type": "biological"
+      },
+      {
+        "id": 598,
+        "unionId": "F168",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000119050699855@",
+    "geniId": "6000000119050699855",
+    "rfn": "geni:6000000119050699855",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/600/",
+    "canonical": "https://www.genepedia.org/people/600/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

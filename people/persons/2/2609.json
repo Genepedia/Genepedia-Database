@@ -1,0 +1,109 @@
+{
+  "id": 2609,
+  "schema": "genepedia/person@1",
+  "slug": "willem-graaff",
+  "names": {
+    "display": "Willem Graaff",
+    "given": "Willem",
+    "surname": "Graaff",
+    "married": "Graaff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 13 JUN 1779",
+      "year": 1779,
+      "iso": "1779-06-13",
+      "precision": "before",
+      "display": "before June 13, 1779",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 1822",
+      "year": 1822,
+      "iso": "1822",
+      "precision": "before",
+      "display": "before 1822",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2608,
+      2607
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2610,
+      2611,
+      2612,
+      2613,
+      2614,
+      2615,
+      1066,
+      2616,
+      2617,
+      2618,
+      2619
+    ],
+    "parentUnions": [
+      "F643"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2608,
+        "unionId": "F643",
+        "type": "biological"
+      },
+      {
+        "id": 2607,
+        "unionId": "F643",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003356173546@",
+    "geniId": "6000000003356173546",
+    "rfn": "geni:6000000003356173546",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/2609/",
+    "canonical": "https://www.genepedia.org/people/2609/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

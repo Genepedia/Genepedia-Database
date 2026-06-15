@@ -1,0 +1,139 @@
+{
+  "id": 750,
+  "schema": "genepedia/person@1",
+  "slug": "valerie-lurie",
+  "names": {
+    "display": "Valerie Lurie",
+    "given": "Valerie",
+    "surname": "Lurie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "South Africa",
+  "lastResidenceLocation": {
+    "label": "South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/78/17/56/87/534448656fb702c9/336720482_3394096117469608_6616969423825031676_n_original.jpg?hash=720814787c2db1da0519b2c7080ee48e74227e460273d2afa3148cf20ce24f58.1789455599",
+      "alt": "Valerie Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/78/17/56/87/534448656fb702c9/336720482_3394096117469608_6616969423825031676_n_original.jpg?hash=720814787c2db1da0519b2c7080ee48e74227e460273d2afa3148cf20ce24f58.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      300,
+      745
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      746,
+      747,
+      748,
+      749,
+      751
+    ],
+    "parentUnions": [
+      "F210"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 300,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 745,
+        "unionId": "F210",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204066128930@",
+    "geniId": "6000000204066128930",
+    "rfn": "geni:6000000204066128930",
+    "changed": "20 JUL 2024"
+  },
+  "page": {
+    "route": "people/750/",
+    "canonical": "https://www.genepedia.org/people/750/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

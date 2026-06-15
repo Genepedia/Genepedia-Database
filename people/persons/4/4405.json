@@ -1,0 +1,142 @@
+{
+  "id": 4405,
+  "schema": "genepedia/person@1",
+  "slug": "thomas-carr",
+  "names": {
+    "display": "Thomas Carr",
+    "given": "Thomas",
+    "surname": "Carr",
+    "married": "Carr",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 MAR 1918",
+      "year": 1918,
+      "iso": "1918-03-28",
+      "precision": "exact",
+      "display": "March 28, 1918",
+      "place": null
+    },
+    "death": {
+      "date": "3 SEP 2006",
+      "year": 2006,
+      "iso": "2006-09-03",
+      "precision": "exact",
+      "display": "September 3, 2006",
+      "place": null
+    },
+    "baptism": {
+      "date": "30 JUN 1918",
+      "year": 1918,
+      "iso": "1918-06-30",
+      "precision": "exact",
+      "display": "June 30, 1918",
+      "place": "Holy Trinity Turffontein, Pretoria, Transvaal, South Africa",
+      "location": {
+        "label": "Holy Trinity Turffontein, Pretoria, Transvaal, South Africa",
+        "placeName": "Holy Trinity Turffontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e5/da/63/b5/5344483f7df6519a/record-image_33s7-9t7t-3jfk_original.jpg?hash=683b922d05f6682ceffb6521d7a6f84b8309c7667f9e00743b4c4c9680d300ab.1789455599",
+      "alt": "Thomas Carr"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e5/da/63/b5/5344483f7df6519a/record-image_33s7-9t7t-3jfk_original.jpg?hash=683b922d05f6682ceffb6521d7a6f84b8309c7667f9e00743b4c4c9680d300ab.1789455599",
+        "form": "",
+        "title": "CARR, T. Baptism",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/fe/86/29/5e/534448408f061625/dsc01378_original.jpg?hash=982eaaa242c1feb49c6ea72d3928f16e5b981d8d2e39f491c81eb674abe9db6b.1789455599",
+        "form": "",
+        "title": "CARR(born CORRIE), M.S. Death Notice",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4402,
+      1720
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4403,
+      4404
+    ],
+    "parentUnions": [
+      "F1040"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4402,
+        "unionId": "F1040",
+        "type": "biological"
+      },
+      {
+        "id": 1720,
+        "unionId": "F1040",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041007058744@",
+    "geniId": "6000000041007058744",
+    "rfn": "geni:6000000041007058744",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/4405/",
+    "canonical": "https://www.genepedia.org/people/4405/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

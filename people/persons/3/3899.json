@@ -1,0 +1,86 @@
+{
+  "id": 3899,
+  "schema": "genepedia/person@1",
+  "slug": "willem-andries-cornelis-strydom",
+  "names": {
+    "display": "Willem Andries Cornelis Strydom",
+    "given": "Willem Andries Cornelis",
+    "surname": "Strydom",
+    "married": "Strydom",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3897,
+      1528
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3898,
+      3900
+    ],
+    "parentUnions": [
+      "F921"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3897,
+        "unionId": "F921",
+        "type": "biological"
+      },
+      {
+        "id": 1528,
+        "unionId": "F921",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000017249569450@",
+    "geniId": "6000000017249569450",
+    "rfn": "geni:6000000017249569450",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/3899/",
+    "canonical": "https://www.genepedia.org/people/3899/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

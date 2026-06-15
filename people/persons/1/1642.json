@@ -1,0 +1,140 @@
+{
+  "id": 1642,
+  "schema": "genepedia/person@1",
+  "slug": "louis-lourens-breytenbach",
+  "names": {
+    "display": "Louis Lourens Breytenbach",
+    "given": "Louis Lourens",
+    "surname": "Breytenbach",
+    "married": "Breytenbach",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Standerton, South Africa",
+      "location": {
+        "label": "Standerton, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Standerton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "30 JUL 1971",
+      "year": 1971,
+      "iso": "1971-07-30",
+      "precision": "exact",
+      "display": "July 30, 1971",
+      "place": "Springs, Gauteng, South Africa",
+      "location": {
+        "label": "Springs, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Springs",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1636,
+      1635
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1637,
+      662,
+      1638,
+      1639,
+      1640,
+      1641,
+      1643,
+      1644,
+      1645,
+      1646
+    ],
+    "parentUnions": [
+      "F421"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1636,
+        "unionId": "F421",
+        "type": "biological"
+      },
+      {
+        "id": 1635,
+        "unionId": "F421",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204859842852@",
+    "geniId": "6000000204859842852",
+    "rfn": "geni:6000000204859842852",
+    "changed": "16 JUL 2024"
+  },
+  "page": {
+    "route": "people/1642/",
+    "canonical": "https://www.genepedia.org/people/1642/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

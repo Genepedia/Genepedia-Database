@@ -1,0 +1,159 @@
+{
+  "id": 38,
+  "schema": "genepedia/person@1",
+  "slug": "renaldo-martins",
+  "names": {
+    "display": "Renaldo Martins",
+    "given": "Renaldo",
+    "surname": "Martins",
+    "married": "Martins",
+    "nick": "Renaldo Roselt",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 FEB 1996",
+      "year": 1996,
+      "iso": "1996-02-16",
+      "precision": "exact",
+      "display": "February 16, 1996",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 MAR 2025",
+      "year": 2025,
+      "iso": "2025-03-10",
+      "precision": "exact",
+      "display": "March 10, 2025",
+      "place": "Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free-State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/88/62/fa/a7/534448656effbcd7/screenshot_2024-03-13_173723_original.jpg?hash=4efc18ba6065596066bf66b95972ffcface4c696d251667b0c5732fed1d3bf84.1789455599",
+      "alt": "Renaldo Martins"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/88/62/fa/a7/534448656effbcd7/screenshot_2024-03-13_173723_original.jpg?hash=4efc18ba6065596066bf66b95972ffcface4c696d251667b0c5732fed1d3bf84.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      6,
+      37
+    ],
+    "spouses": [
+      127
+    ],
+    "exSpouses": [],
+    "children": [
+      128
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F13"
+    ],
+    "spouseUnions": [
+      "F45"
+    ],
+    "parentLinks": [
+      {
+        "id": 6,
+        "unionId": "F13",
+        "type": "foster"
+      },
+      {
+        "id": 37,
+        "unionId": "F13",
+        "type": "foster"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 127,
+        "unionId": "F45",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 128,
+        "unionId": "F45",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204013251902@",
+    "geniId": "6000000204013251902",
+    "rfn": "geni:6000000204013251902",
+    "changed": "10 MAR 2025"
+  },
+  "page": {
+    "route": "people/38/",
+    "canonical": "https://www.genepedia.org/people/38/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

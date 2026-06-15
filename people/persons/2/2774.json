@@ -1,0 +1,85 @@
+{
+  "id": 2774,
+  "schema": "genepedia/person@1",
+  "slug": "thomas-william",
+  "names": {
+    "display": "Thomas William",
+    "given": "Thomas William",
+    "surname": "Stevens",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2772,
+      1124
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2773
+    ],
+    "parentUnions": [
+      "F687"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2772,
+        "unionId": "F687",
+        "type": "biological"
+      },
+      {
+        "id": 1124,
+        "unionId": "F687",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000199418961843@",
+    "geniId": "6000000199418961843",
+    "rfn": "geni:6000000199418961843",
+    "changed": "23 OCT 2023"
+  },
+  "page": {
+    "route": "people/2774/",
+    "canonical": "https://www.genepedia.org/people/2774/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

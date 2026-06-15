@@ -1,0 +1,192 @@
+{
+  "id": 1713,
+  "schema": "genepedia/person@1",
+  "slug": "johan-willem-jurgens-morgendal-botha",
+  "names": {
+    "display": "Johan Willem Jurgens Morgendal Botha",
+    "given": "Johan Willem Jurgens Morgendal",
+    "surname": "Botha",
+    "married": "Botha",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JUN 1890",
+      "year": 1890,
+      "iso": "1890-06-22",
+      "precision": "exact",
+      "display": "June 22, 1890",
+      "place": "Middelburg, Cape, South Africa",
+      "location": {
+        "label": "Middelburg, Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 MAY 1951",
+      "year": 1951,
+      "iso": "1951-05-27",
+      "precision": "exact",
+      "display": "May 27, 1951",
+      "place": "21 Fourth Street, Johannesburg, Transvaal, South Africa",
+      "location": {
+        "label": "21 Fourth Street, Johannesburg, Transvaal, South Africa",
+        "placeName": "21 Fourth Street",
+        "addressLine1": "Greymont",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "18 JAN 1891",
+      "year": 1891,
+      "iso": "1891-01-18",
+      "precision": "exact",
+      "display": "January 18, 1891",
+      "place": "Nederduitse Gereformeerde Kerk, Middelburg, Cape, South Africa",
+      "location": {
+        "label": "Nederduitse Gereformeerde Kerk, Middelburg, Cape, South Africa",
+        "placeName": "Nederduitse Gereformeerde Kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/71/52/68/39/53444848a8f8a882/record-image_3q9m-c9bk-r7k9-f_original.jpg?hash=83d4d8713d5516000172e9e99ac5caeb9721be9f3c47b4167c4aa523d5980059.1789455599",
+      "alt": "Johan Willem Jurgens Morgendal Botha"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/71/52/68/39/53444848a8f8a882/record-image_3q9m-c9bk-r7k9-f_original.jpg?hash=83d4d8713d5516000172e9e99ac5caeb9721be9f3c47b4167c4aa523d5980059.1789455599",
+        "form": "",
+        "title": "BOTHA, J.W.J.M. Death Notice 1951",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/59/70/6b/13/53444848ad840676/record-image_3q9m-csk6-m9gd-d_original.jpg?hash=aff21e2ef4fd299f179c07188be58a472722ed34d180ed3769ecb8ca96710fbb.1789455599",
+        "form": "",
+        "title": "BOTHA, J.W.J.M. Baptism 1891",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/ff/e3/46/bf/5344485f16e8c1af/record-image_90__original.jpg?hash=93201cdf4e1b588d3ee5681212dbd4ad62666b96f93256058f66ac15951b3d92.1789455599",
+        "form": "",
+        "title": "BOTHA, J.W.J.M. & VAN DER MERWE (born CORRIE), A.P. Marriage 1923",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      711
+    ],
+    "exSpouses": [],
+    "children": [
+      1714,
+      1715,
+      1716
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F450"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 711,
+        "unionId": "F450",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1714,
+        "unionId": "F450",
+        "type": "biological"
+      },
+      {
+        "id": 1715,
+        "unionId": "F450",
+        "type": "biological"
+      },
+      {
+        "id": 1716,
+        "unionId": "F450",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000040031091917@",
+    "geniId": "6000000040031091917",
+    "rfn": "geni:6000000040031091917",
+    "changed": "24 APR 2024"
+  },
+  "page": {
+    "route": "people/1713/",
+    "canonical": "https://www.genepedia.org/people/1713/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3066,
+  "schema": "genepedia/person@1",
+  "slug": "carika",
+  "names": {
+    "display": "Carika",
+    "given": "Carika",
+    "surname": "Wepener",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "7 SEP 2006",
+      "year": 2006,
+      "iso": "2006-09-07",
+      "precision": "exact",
+      "display": "September 7, 2006",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3065,
+      1226
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F753"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3065,
+        "unionId": "F753",
+        "type": "biological"
+      },
+      {
+        "id": 1226,
+        "unionId": "F753",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000222130747048@",
+    "geniId": "6000000222130747048",
+    "rfn": "geni:6000000222130747048",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3066/",
+    "canonical": "https://www.genepedia.org/people/3066/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

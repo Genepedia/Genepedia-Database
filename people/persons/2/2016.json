@@ -1,0 +1,110 @@
+{
+  "id": 2016,
+  "schema": "genepedia/person@1",
+  "slug": "johan-christiaan-abraham-naude",
+  "names": {
+    "display": "Johan Christiaan Abraham Naudé",
+    "given": "Johan Christiaan Abraham",
+    "surname": "Naudé",
+    "married": "Naudé",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 MAR 1951",
+      "year": 1951,
+      "iso": "1951-03-29",
+      "precision": "exact",
+      "display": "March 29, 1951",
+      "place": "Beaconsfield, Kimberley, Cape Province, South Africa",
+      "location": {
+        "label": "Beaconsfield, Kimberley, Cape Province, South Africa",
+        "placeName": "Beaconsfield",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2014,
+      839
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2015
+    ],
+    "parentUnions": [
+      "F526"
+    ],
+    "spouseUnions": [
+      "F1234"
+    ],
+    "parentLinks": [
+      {
+        "id": 2014,
+        "unionId": "F526",
+        "type": "biological"
+      },
+      {
+        "id": 839,
+        "unionId": "F526",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000022525296287@",
+    "geniId": "6000000022525296287",
+    "rfn": "geni:6000000022525296287",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2016/",
+    "canonical": "https://www.genepedia.org/people/2016/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

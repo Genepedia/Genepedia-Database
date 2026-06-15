@@ -1,0 +1,109 @@
+{
+  "id": 1069,
+  "schema": "genepedia/person@1",
+  "slug": "adriana-damina-petronella-graaff",
+  "names": {
+    "display": "Adriana Damina Petronella Graaff",
+    "given": "Adriana Damina Petronella",
+    "surname": "Graaff",
+    "married": "Mentz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 NOV 1842",
+      "year": 1842,
+      "iso": "1842-11-19",
+      "precision": "exact",
+      "display": "November 19, 1842",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1066,
+      1065
+    ],
+    "spouses": [
+      2644
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      430,
+      1067,
+      1068,
+      1070,
+      1071,
+      1072,
+      1073,
+      1074
+    ],
+    "parentUnions": [
+      "F286"
+    ],
+    "spouseUnions": [
+      "F647"
+    ],
+    "parentLinks": [
+      {
+        "id": 1066,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1065,
+        "unionId": "F286",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2644,
+        "unionId": "F647",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027014711904@",
+    "geniId": "6000000027014711904",
+    "rfn": "geni:6000000027014711904",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/1069/",
+    "canonical": "https://www.genepedia.org/people/1069/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,244 @@
+{
+  "id": 1262,
+  "schema": "genepedia/person@1",
+  "slug": "sarel-francois-marais",
+  "names": {
+    "display": "Sarel Francois Marais",
+    "given": "Sarel Francois",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "Charl",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 SEP 1865",
+      "year": 1865,
+      "iso": "1865-09-01",
+      "precision": "exact",
+      "display": "September 1, 1865",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 JUL 1937",
+      "year": 1937,
+      "iso": "1937-07-27",
+      "precision": "exact",
+      "display": "July 27, 1937",
+      "place": "Heilbron, Free State, South Africa",
+      "location": {
+        "label": "Heilbron, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Heilbron",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "15 OCT 1865",
+      "year": 1865,
+      "iso": "1865-10-15",
+      "precision": "exact",
+      "display": "October 15, 1865",
+      "place": "Fraserburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Fraserburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fraserburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1258,
+      1259
+    ],
+    "spouses": [
+      3150,
+      3156
+    ],
+    "exSpouses": [],
+    "children": [
+      3151,
+      3152,
+      3153,
+      3154,
+      3155,
+      3157,
+      3158,
+      3159,
+      3160,
+      3161,
+      3162
+    ],
+    "siblings": [
+      1260,
+      1261,
+      524,
+      1263,
+      1264,
+      1265
+    ],
+    "parentUnions": [
+      "F328"
+    ],
+    "spouseUnions": [
+      "F775",
+      "F776"
+    ],
+    "parentLinks": [
+      {
+        "id": 1258,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1259,
+        "unionId": "F328",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3150,
+        "unionId": "F775",
+        "role": "partner"
+      },
+      {
+        "id": 3156,
+        "unionId": "F776",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3151,
+        "unionId": "F775",
+        "type": "biological"
+      },
+      {
+        "id": 3152,
+        "unionId": "F775",
+        "type": "biological"
+      },
+      {
+        "id": 3153,
+        "unionId": "F775",
+        "type": "biological"
+      },
+      {
+        "id": 3154,
+        "unionId": "F775",
+        "type": "biological"
+      },
+      {
+        "id": 3155,
+        "unionId": "F775",
+        "type": "biological"
+      },
+      {
+        "id": 3157,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3158,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3159,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3160,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3161,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3162,
+        "unionId": "F776",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000073577423367@",
+    "geniId": "6000000073577423367",
+    "rfn": "geni:6000000073577423367",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1262/",
+    "canonical": "https://www.genepedia.org/people/1262/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,140 @@
+{
+  "id": 4167,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-stefanus-john-coetzee",
+  "names": {
+    "display": "Johannes Stefanus (John) Coetzee",
+    "given": "Johannes Stefanus (John)",
+    "surname": "Coetzee",
+    "married": "Coetzee",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1915",
+      "year": 1915,
+      "iso": "1915",
+      "precision": "about",
+      "display": "about 1915",
+      "place": null
+    },
+    "death": {
+      "date": "8 OCT 2009",
+      "year": 2009,
+      "iso": "2009-10-08",
+      "precision": "exact",
+      "display": "October 8, 2009",
+      "place": "Klerksdorp, North West, South Africa",
+      "location": {
+        "label": "Klerksdorp, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Klerksdorp, Transvaal, South Africa",
+      "location": {
+        "label": "Klerksdorp, Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4165,
+      1578
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4166,
+      4168
+    ],
+    "parentUnions": [
+      "F973"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4165,
+        "unionId": "F973",
+        "type": "biological"
+      },
+      {
+        "id": 1578,
+        "unionId": "F973",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000001937095502@",
+    "geniId": "6000000001937095502",
+    "rfn": "geni:6000000001937095502",
+    "changed": "18 NOV 2014"
+  },
+  "page": {
+    "route": "people/4167/",
+    "canonical": "https://www.genepedia.org/people/4167/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

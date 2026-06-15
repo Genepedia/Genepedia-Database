@@ -1,0 +1,117 @@
+{
+  "id": 4954,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-hendrina-jansen-van-rensburg",
+  "names": {
+    "display": "Rachel Hendrina Jansen Van Rensburg",
+    "given": "Rachel Hendrina",
+    "surname": "Jansen Van Rensburg",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "1 MAR 1905",
+      "year": 1905,
+      "iso": "1905-03-01",
+      "precision": "exact",
+      "display": "March 1, 1905",
+      "place": null
+    },
+    "baptism": {
+      "date": "2 APR 1905",
+      "year": 1905,
+      "iso": "1905-04-02",
+      "precision": "exact",
+      "display": "April 2, 1905",
+      "place": "Trompsburg, Free State, South Africa",
+      "location": {
+        "label": "Trompsburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Trompsburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4950,
+      1924
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4951,
+      4952,
+      4953
+    ],
+    "parentUnions": [
+      "F1175"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4950,
+        "unionId": "F1175",
+        "type": "biological"
+      },
+      {
+        "id": 1924,
+        "unionId": "F1175",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089445152931@",
+    "geniId": "6000000089445152931",
+    "rfn": "geni:6000000089445152931",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/4954/",
+    "canonical": "https://www.genepedia.org/people/4954/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

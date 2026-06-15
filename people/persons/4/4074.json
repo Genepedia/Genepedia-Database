@@ -1,0 +1,137 @@
+{
+  "id": 4074,
+  "schema": "genepedia/person@1",
+  "slug": "willem-jacobus-aggenbach",
+  "names": {
+    "display": "Willem Jacobus Aggenbach",
+    "given": "Willem Jacobus",
+    "surname": "Aggenbach",
+    "married": "Aggenbach",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT OCT 1792",
+      "year": 1792,
+      "iso": "1792-10",
+      "precision": "about",
+      "display": "about October 1792",
+      "place": "Caep de Goede Hoop, South Africa",
+      "location": {
+        "label": "Caep de Goede Hoop, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Caep de Goede Hoop",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 JUL 1889",
+      "year": 1889,
+      "iso": "1889-07-24",
+      "precision": "exact",
+      "display": "July 24, 1889",
+      "place": "Hart River, South Africa",
+      "location": {
+        "label": "Hart River, South Africa",
+        "placeName": "Hart River",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Livestock farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1550
+    ],
+    "exSpouses": [],
+    "children": [
+      4075,
+      4076
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F946"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1550,
+        "unionId": "F946",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4075,
+        "unionId": "F946",
+        "type": "biological"
+      },
+      {
+        "id": 4076,
+        "unionId": "F946",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000140297173914@",
+    "geniId": "6000000140297173914",
+    "rfn": "geni:6000000140297173914",
+    "changed": "17 NOV 2022"
+  },
+  "page": {
+    "route": "people/4074/",
+    "canonical": "https://www.genepedia.org/people/4074/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 151,
+  "schema": "genepedia/person@1",
+  "slug": "jaco-roselt",
+  "names": {
+    "display": "Jaco Roselt",
+    "given": "Jaco",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BET 1978 AND 1996",
+      "year": 1978,
+      "iso": "1996",
+      "precision": "exact",
+      "display": "1996",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/f5/a9/37/dc/534448656e917a55/screenshot_2024-03-13_133520_original.jpg?hash=7b5007f9748a857f36014eae187537e368257ad31cdfe167de55bbba78d4bf87.1789455599",
+      "alt": "Jaco Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/f5/a9/37/dc/534448656e917a55/screenshot_2024-03-13_133520_original.jpg?hash=7b5007f9748a857f36014eae187537e368257ad31cdfe167de55bbba78d4bf87.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      41,
+      149
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      150,
+      152
+    ],
+    "parentUnions": [
+      "F48"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 41,
+        "unionId": "F48",
+        "type": "biological"
+      },
+      {
+        "id": 149,
+        "unionId": "F48",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204043767823@",
+    "geniId": "6000000204043767823",
+    "rfn": "geni:6000000204043767823",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/151/",
+    "canonical": "https://www.genepedia.org/people/151/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

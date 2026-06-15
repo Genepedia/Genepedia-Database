@@ -1,0 +1,92 @@
+{
+  "id": 3296,
+  "schema": "genepedia/person@1",
+  "slug": "severes-marthinus-cerff",
+  "names": {
+    "display": "Severes Marthinus Cerff",
+    "given": "Severes Marthinus",
+    "surname": "Cerff",
+    "married": "Cerff",
+    "nick": "Swerus",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1885",
+      "year": 1885,
+      "iso": "1885",
+      "precision": "about",
+      "display": "about 1885",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1308
+    ],
+    "exSpouses": [],
+    "children": [
+      3297
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F810"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1308,
+        "unionId": "F810",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3297,
+        "unionId": "F810",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020482802460@",
+    "geniId": "6000000020482802460",
+    "rfn": "geni:6000000020482802460",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/3296/",
+    "canonical": "https://www.genepedia.org/people/3296/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

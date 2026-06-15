@@ -1,0 +1,127 @@
+{
+  "id": 1621,
+  "schema": "genepedia/person@1",
+  "slug": "levina-catharina-de-beer-1621",
+  "names": {
+    "display": "Levina Catharina de Beer",
+    "given": "Levina Catharina",
+    "surname": "de Beer",
+    "married": "Grib",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 JUL 1923",
+      "year": 1923,
+      "iso": "1923-07-09",
+      "precision": "exact",
+      "display": "July 9, 1923",
+      "place": null
+    },
+    "death": {
+      "date": "19 FEB 1969",
+      "year": 1969,
+      "iso": "1969-02-19",
+      "precision": "exact",
+      "display": "February 19, 1969",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      650,
+      1620
+    ],
+    "spouses": [
+      4294
+    ],
+    "exSpouses": [],
+    "children": [
+      4295,
+      4296,
+      4297
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F413"
+    ],
+    "spouseUnions": [
+      "F1009"
+    ],
+    "parentLinks": [
+      {
+        "id": 650,
+        "unionId": "F413",
+        "type": "biological"
+      },
+      {
+        "id": 1620,
+        "unionId": "F413",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4294,
+        "unionId": "F1009",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4295,
+        "unionId": "F1009",
+        "type": "biological"
+      },
+      {
+        "id": 4296,
+        "unionId": "F1009",
+        "type": "biological"
+      },
+      {
+        "id": 4297,
+        "unionId": "F1009",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206926712826@",
+    "geniId": "6000000206926712826",
+    "rfn": "geni:6000000206926712826",
+    "changed": "14 JUL 2024"
+  },
+  "page": {
+    "route": "people/1621/",
+    "canonical": "https://www.genepedia.org/people/1621/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

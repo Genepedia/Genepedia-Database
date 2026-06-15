@@ -1,0 +1,96 @@
+{
+  "id": 2244,
+  "schema": "genepedia/person@1",
+  "slug": "peter-andrew-roselt",
+  "names": {
+    "display": "Peter Andrew Roselt",
+    "given": "Peter Andrew",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "13 FEB 1960",
+      "year": 1960,
+      "iso": "1960-02-13",
+      "precision": "exact",
+      "display": "February 13, 1960",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      912,
+      2243
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2245,
+      2246,
+      2247,
+      2248,
+      2249
+    ],
+    "parentUnions": [
+      "F571"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 912,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2243,
+        "unionId": "F571",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036072744831@",
+    "geniId": "6000000036072744831",
+    "rfn": "geni:6000000036072744831",
+    "changed": "24 JUN 2020"
+  },
+  "page": {
+    "route": "people/2244/",
+    "canonical": "https://www.genepedia.org/people/2244/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

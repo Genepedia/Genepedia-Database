@@ -1,0 +1,103 @@
+{
+  "id": 4582,
+  "schema": "genepedia/person@1",
+  "slug": "huibrecht-bester",
+  "names": {
+    "display": "Huibrecht Bester",
+    "given": "Huibrecht",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1787",
+      "year": 1787,
+      "iso": "1787",
+      "precision": "about",
+      "display": "about 1787",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 JAN 1787",
+      "year": 1787,
+      "iso": "1787-01-07",
+      "precision": "exact",
+      "display": "January 7, 1787",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4579,
+      4580
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4581,
+      4583,
+      4584,
+      4585,
+      1844
+    ],
+    "parentUnions": [
+      "F1099"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4579,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4580,
+        "unionId": "F1099",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000004235412661@",
+    "geniId": "6000000004235412661",
+    "rfn": "geni:6000000004235412661",
+    "changed": "28 FEB 2025"
+  },
+  "page": {
+    "route": "people/4582/",
+    "canonical": "https://www.genepedia.org/people/4582/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

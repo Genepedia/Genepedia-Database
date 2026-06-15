@@ -1,0 +1,190 @@
+{
+  "id": 1855,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-johannes-hendrik-theron",
+  "names": {
+    "display": "Marthinus Johannes Hendrik Theron",
+    "given": "Marthinus Johannes Hendrik",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 JUL 1838",
+      "year": 1838,
+      "iso": "1838-07-08",
+      "precision": "exact",
+      "display": "July 8, 1838",
+      "place": "Colesberg",
+      "location": {
+        "label": "Colesberg",
+        "placeName": "Colesberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 OCT 1905",
+      "year": 1905,
+      "iso": "1905-10-28",
+      "precision": "exact",
+      "display": "October 28, 1905",
+      "place": null
+    },
+    "baptism": {
+      "date": "2 SEP 1838",
+      "year": 1838,
+      "iso": "1838-09-02",
+      "precision": "exact",
+      "display": "September 2, 1838",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1853,
+      1854
+    ],
+    "spouses": [
+      4637,
+      4642
+    ],
+    "exSpouses": [],
+    "children": [
+      4638,
+      4639,
+      4640,
+      4641,
+      4643,
+      4644,
+      4645
+    ],
+    "siblings": [
+      811,
+      1856,
+      1857,
+      1858,
+      1859,
+      1860,
+      1861,
+      1862
+    ],
+    "parentUnions": [
+      "F495"
+    ],
+    "spouseUnions": [
+      "F1108",
+      "F1109"
+    ],
+    "parentLinks": [
+      {
+        "id": 1853,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1854,
+        "unionId": "F495",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4637,
+        "unionId": "F1108",
+        "role": "wife"
+      },
+      {
+        "id": 4642,
+        "unionId": "F1109",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4638,
+        "unionId": "F1108",
+        "type": "biological"
+      },
+      {
+        "id": 4639,
+        "unionId": "F1108",
+        "type": "biological"
+      },
+      {
+        "id": 4640,
+        "unionId": "F1108",
+        "type": "biological"
+      },
+      {
+        "id": 4641,
+        "unionId": "F1108",
+        "type": "biological"
+      },
+      {
+        "id": 4643,
+        "unionId": "F1109",
+        "type": "biological"
+      },
+      {
+        "id": 4644,
+        "unionId": "F1109",
+        "type": "biological"
+      },
+      {
+        "id": 4645,
+        "unionId": "F1109",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000022497728016@",
+    "geniId": "6000000022497728016",
+    "rfn": "geni:6000000022497728016",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1855/",
+    "canonical": "https://www.genepedia.org/people/1855/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

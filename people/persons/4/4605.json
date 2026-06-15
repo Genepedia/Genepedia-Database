@@ -1,0 +1,99 @@
+{
+  "id": 4605,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-strauss",
+  "names": {
+    "display": "Anna Maria Strauss",
+    "given": "Anna Maria",
+    "surname": "Strauss",
+    "married": "Conradie",
+    "nick": "Straus",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1856",
+      "year": 1856,
+      "iso": "1856",
+      "precision": "exact",
+      "display": "1856",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4602,
+      1848
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4603,
+      4604,
+      4606,
+      4607,
+      4608,
+      4609,
+      4610,
+      4611
+    ],
+    "parentUnions": [
+      "F1104"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4602,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 1848,
+        "unionId": "F1104",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000076031916993@",
+    "geniId": "6000000076031916993",
+    "rfn": "geni:6000000076031916993",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/4605/",
+    "canonical": "https://www.genepedia.org/people/4605/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

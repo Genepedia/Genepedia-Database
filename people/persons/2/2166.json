@@ -1,0 +1,199 @@
+{
+  "id": 2166,
+  "schema": "genepedia/person@1",
+  "slug": "william-daniel-hibbert",
+  "names": {
+    "display": "William Daniel Hibbert",
+    "given": "William Daniel",
+    "surname": "Hibbert",
+    "married": "Hibbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 OCT 1886",
+      "year": 1886,
+      "iso": "1886-10-12",
+      "precision": "exact",
+      "display": "October 12, 1886",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "Griekwastad",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "30 AUG 1958",
+      "year": 1958,
+      "iso": "1958-08-30",
+      "precision": "exact",
+      "display": "August 30, 1958",
+      "place": "Nylstoom, Transvaal, South Africa",
+      "location": {
+        "label": "Nylstoom, Transvaal, South Africa",
+        "placeName": "Nylstoom",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "New Cemetery, Nylstroom",
+      "location": {
+        "label": "New Cemetery, Nylstroom",
+        "placeName": "New Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nylstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Teacher, Stoorman",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/48/d9/d4/05/53444865c86c454e/sv300043_001_original.jpg?hash=39bd6f039b49f432b250bbbbd3b949918318ad7704c0b9ce77b59aa41885dafb.1789455599",
+      "alt": "William Daniel Hibbert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/48/d9/d4/05/53444865c86c454e/sv300043_001_original.jpg?hash=39bd6f039b49f432b250bbbbd3b949918318ad7704c0b9ce77b59aa41885dafb.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/ee/79/b7/4f/53444865c84c97e5/image_original.jpg?hash=260442969eebc4c15dbb4f25bd0b870dfda971a6799cd96ae71b5774972b5723.1789455599",
+        "form": "",
+        "title": "record-image_trou 1935  .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/eb/c4/6a/1c/53444865c863e4b6/image_original.jpg?hash=482901e2c3cc9b890449106985ddf2868d25faf327162497b05542ad4f3b43f2.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/fd/79/00/76/53444865c9480eaf/image_original.jpg?hash=5e29b609d42fea8b4d7ab77e1ee8d2e68c182997445ec93a09d50431145529ae.1789455599",
+        "form": "",
+        "title": "record-image_trou 1913  .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2162,
+      893
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2163,
+      2164,
+      2165,
+      2167,
+      2168,
+      2169,
+      2170,
+      2171,
+      2172
+    ],
+    "parentUnions": [
+      "F556"
+    ],
+    "spouseUnions": [
+      "F1330",
+      "F1331"
+    ],
+    "parentLinks": [
+      {
+        "id": 2162,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 893,
+        "unionId": "F556",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028101528715@",
+    "geniId": "6000000028101528715",
+    "rfn": "geni:6000000028101528715",
+    "changed": "06 MAY 2024"
+  },
+  "page": {
+    "route": "people/2166/",
+    "canonical": "https://www.genepedia.org/people/2166/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,156 @@
+{
+  "id": 1072,
+  "schema": "genepedia/person@1",
+  "slug": "adriana-cornelia-johanna-petronella-graaff",
+  "names": {
+    "display": "Adriana Cornelia Johanna Petronella Graaff",
+    "given": "Adriana Cornelia Johanna Petronella",
+    "surname": "Graaff",
+    "married": "Maritz",
+    "nick": "de Graaf",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1846",
+      "year": 1846,
+      "iso": "1846",
+      "precision": "exact",
+      "display": "1846",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 OCT 1895",
+      "year": 1895,
+      "iso": "1895-10-10",
+      "precision": "exact",
+      "display": "October 10, 1895",
+      "place": "Klerksdorp, North West, South Africa",
+      "location": {
+        "label": "Klerksdorp, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1066,
+      1065
+    ],
+    "spouses": [
+      2647
+    ],
+    "exSpouses": [],
+    "children": [
+      2648
+    ],
+    "siblings": [
+      430,
+      1067,
+      1068,
+      1069,
+      1070,
+      1071,
+      1073,
+      1074
+    ],
+    "parentUnions": [
+      "F286"
+    ],
+    "spouseUnions": [
+      "F649"
+    ],
+    "parentLinks": [
+      {
+        "id": 1066,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1065,
+        "unionId": "F286",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2647,
+        "unionId": "F649",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2648,
+        "unionId": "F649",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000021496468989@",
+    "geniId": "6000000021496468989",
+    "rfn": "geni:6000000021496468989",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1072/",
+    "canonical": "https://www.genepedia.org/people/1072/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

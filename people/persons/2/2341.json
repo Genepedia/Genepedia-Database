@@ -1,0 +1,149 @@
+{
+  "id": 2341,
+  "schema": "genepedia/person@1",
+  "slug": "koop-de-vries-styger-2341",
+  "names": {
+    "display": "Koop De Vries Styger",
+    "given": "Koop De Vries",
+    "surname": "Styger",
+    "married": "Styger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 APR 1869",
+      "year": 1869,
+      "iso": "1869-04-08",
+      "precision": "exact",
+      "display": "April 8, 1869",
+      "place": null
+    },
+    "death": {
+      "date": "27 OCT 1926",
+      "year": 1926,
+      "iso": "1926-10-27",
+      "precision": "exact",
+      "display": "October 27, 1926",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Memoriam, Bloemfontein",
+      "location": {
+        "label": "Memoriam, Bloemfontein",
+        "placeName": "Memoriam",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Algemene boer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2340
+    ],
+    "exSpouses": [],
+    "children": [
+      2342,
+      934,
+      2343,
+      2344,
+      2345
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1447"
+    ],
+    "spouseUnions": [
+      "F592"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2340,
+        "unionId": "F592",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2342,
+        "unionId": "F592",
+        "type": "biological"
+      },
+      {
+        "id": 934,
+        "unionId": "F592",
+        "type": "biological"
+      },
+      {
+        "id": 2343,
+        "unionId": "F592",
+        "type": "biological"
+      },
+      {
+        "id": 2344,
+        "unionId": "F592",
+        "type": "biological"
+      },
+      {
+        "id": 2345,
+        "unionId": "F592",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000120834282964@",
+    "geniId": "6000000120834282964",
+    "rfn": "geni:6000000120834282964",
+    "changed": "09 FEB 2024"
+  },
+  "page": {
+    "route": "people/2341/",
+    "canonical": "https://www.genepedia.org/people/2341/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

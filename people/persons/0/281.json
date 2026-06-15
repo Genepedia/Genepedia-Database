@@ -1,0 +1,116 @@
+{
+  "id": 281,
+  "schema": "genepedia/person@1",
+  "slug": "carel-olivier",
+  "names": {
+    "display": "Carel Olivier",
+    "given": "Carel",
+    "surname": "Olivier",
+    "married": "Olivier",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      699,
+      700
+    ],
+    "spouses": [
+      282
+    ],
+    "exSpouses": [],
+    "children": [
+      105,
+      283,
+      284
+    ],
+    "siblings": [
+      701,
+      702
+    ],
+    "parentUnions": [
+      "F197"
+    ],
+    "spouseUnions": [
+      "F92"
+    ],
+    "parentLinks": [
+      {
+        "id": 699,
+        "unionId": "F197",
+        "type": "biological"
+      },
+      {
+        "id": 700,
+        "unionId": "F197",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 282,
+        "unionId": "F92",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 105,
+        "unionId": "F92",
+        "type": "biological"
+      },
+      {
+        "id": 283,
+        "unionId": "F92",
+        "type": "biological"
+      },
+      {
+        "id": 284,
+        "unionId": "F92",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204068950823@",
+    "geniId": "6000000204068950823",
+    "rfn": "geni:6000000204068950823",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/281/",
+    "canonical": "https://www.genepedia.org/people/281/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

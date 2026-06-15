@@ -1,0 +1,172 @@
+{
+  "id": 216,
+  "schema": "genepedia/person@1",
+  "slug": "sybrand-abram-de-beer",
+  "names": {
+    "display": "Sybrand Abram De Beer",
+    "given": "Sybrand Abram",
+    "surname": "De Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 MAR 1931",
+      "year": 1931,
+      "iso": "1931-03-06",
+      "precision": "exact",
+      "display": "March 6, 1931",
+      "place": null
+    },
+    "death": {
+      "date": "30 MAY 2009",
+      "year": 2009,
+      "iso": "2009-05-30",
+      "precision": "exact",
+      "display": "May 30, 2009",
+      "place": "Kroonstad, Orange Free State, South Africa",
+      "location": {
+        "label": "Kroonstad, Orange Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/38/5f/33/b6/5344486018727d01/oom_sybrand_original.jpg?hash=d4f85be6cf09b7a42649bd4d8bb3f90e3c4df7a91b7c2614186b28b169bb59c9.1789455599",
+      "alt": "Sybrand Abram De Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/38/5f/33/b6/5344486018727d01/oom_sybrand_original.jpg?hash=d4f85be6cf09b7a42649bd4d8bb3f90e3c4df7a91b7c2614186b28b169bb59c9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      214,
+      215
+    ],
+    "spouses": [
+      588
+    ],
+    "exSpouses": [],
+    "children": [
+      589,
+      590,
+      591,
+      592
+    ],
+    "siblings": [
+      217,
+      66,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225
+    ],
+    "parentUnions": [
+      "F69"
+    ],
+    "spouseUnions": [
+      "F166"
+    ],
+    "parentLinks": [
+      {
+        "id": 214,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 215,
+        "unionId": "F69",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 588,
+        "unionId": "F166",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 589,
+        "unionId": "F166",
+        "type": "biological"
+      },
+      {
+        "id": 590,
+        "unionId": "F166",
+        "type": "biological"
+      },
+      {
+        "id": 591,
+        "unionId": "F166",
+        "type": "biological"
+      },
+      {
+        "id": 592,
+        "unionId": "F166",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000178918546867@",
+    "geniId": "6000000178918546867",
+    "rfn": "geni:6000000178918546867",
+    "changed": "24 APR 2024"
+  },
+  "page": {
+    "route": "people/216/",
+    "canonical": "https://www.genepedia.org/people/216/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

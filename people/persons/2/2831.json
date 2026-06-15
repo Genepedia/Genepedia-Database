@@ -1,0 +1,124 @@
+{
+  "id": 2831,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-magdalena-alida-naude",
+  "names": {
+    "display": "Elizabeth Magdalena Alida Naudé",
+    "given": "Elizabeth Magdalena Alida",
+    "surname": "Naudé",
+    "married": "D'Amico",
+    "nick": "",
+    "aliases": [
+      "Bessie Sussie"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 NOV 1927",
+      "year": 1927,
+      "iso": "1927-11-06",
+      "precision": "exact",
+      "display": "November 6, 1927",
+      "place": null
+    },
+    "death": {
+      "date": "4 SEP 2011",
+      "year": 2011,
+      "iso": "2011-09-04",
+      "precision": "exact",
+      "display": "September 4, 2011",
+      "place": "Sandton, Gauteng, South Africa",
+      "location": {
+        "label": "Sandton, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Sandton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2827,
+      1145
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2828,
+      2829,
+      2830,
+      2832,
+      2833,
+      2834
+    ],
+    "parentUnions": [
+      "F700"
+    ],
+    "spouseUnions": [
+      "F1754"
+    ],
+    "parentLinks": [
+      {
+        "id": 2827,
+        "unionId": "F700",
+        "type": "biological"
+      },
+      {
+        "id": 1145,
+        "unionId": "F700",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024762665430@",
+    "geniId": "6000000024762665430",
+    "rfn": "geni:6000000024762665430",
+    "changed": "16 JUN 2024"
+  },
+  "page": {
+    "route": "people/2831/",
+    "canonical": "https://www.genepedia.org/people/2831/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

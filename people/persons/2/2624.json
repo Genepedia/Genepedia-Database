@@ -1,0 +1,149 @@
+{
+  "id": 2624,
+  "schema": "genepedia/person@1",
+  "slug": "stephanus-hermanus-koekemoer",
+  "names": {
+    "display": "Stephanus Hermanus Koekemoer",
+    "given": "Stephanus Hermanus",
+    "surname": "Koekemoer",
+    "married": "Koekemoer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 MAY 1860",
+      "year": 1860,
+      "iso": "1860-05-13",
+      "precision": "exact",
+      "display": "May 13, 1860",
+      "place": null
+    },
+    "death": {
+      "date": "1934",
+      "year": 1934,
+      "iso": "1934",
+      "precision": "exact",
+      "display": "1934",
+      "place": "Kuruman, Northern Cape, South Africa",
+      "location": {
+        "label": "Kuruman, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kuruman",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kuruman, Northern Cape, South Africa",
+      "location": {
+        "label": "Kuruman, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kuruman",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2620,
+      1067
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2621,
+      2622,
+      2623,
+      2625,
+      1095,
+      1137,
+      2626,
+      2627,
+      2628
+    ],
+    "parentUnions": [
+      "F644"
+    ],
+    "spouseUnions": [
+      "F1622"
+    ],
+    "parentLinks": [
+      {
+        "id": 2620,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 1067,
+        "unionId": "F644",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000176302389835@",
+    "geniId": "6000000176302389835",
+    "rfn": "geni:6000000176302389835",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2624/",
+    "canonical": "https://www.genepedia.org/people/2624/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

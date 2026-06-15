@@ -1,0 +1,91 @@
+{
+  "id": 1708,
+  "schema": "genepedia/person@1",
+  "slug": "joubert",
+  "names": {
+    "display": "? Joubert",
+    "given": "?",
+    "surname": "Joubert",
+    "married": "Joubert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      705
+    ],
+    "exSpouses": [],
+    "children": [
+      1709,
+      1710
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F448"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 705,
+        "unionId": "F448",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1709,
+        "unionId": "F448",
+        "type": "biological"
+      },
+      {
+        "id": 1710,
+        "unionId": "F448",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207590433849@",
+    "geniId": "6000000207590433849",
+    "rfn": "geni:6000000207590433849",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/1708/",
+    "canonical": "https://www.genepedia.org/people/1708/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

@@ -1,0 +1,177 @@
+{
+  "id": 4417,
+  "schema": "genepedia/person@1",
+  "slug": "hester-theunissina-botha",
+  "names": {
+    "display": "Hester Theunissina Botha",
+    "given": "Hester Theunissina",
+    "surname": "Botha",
+    "married": "Corrie",
+    "nick": "",
+    "aliases": [
+      "Hester Theunissina Cecilia Corrie (Botha)"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 MAY 1898",
+      "year": 1898,
+      "iso": "1898-05-14",
+      "precision": "exact",
+      "display": "May 14, 1898",
+      "place": "Johannesburg, Transvaal, South Africa",
+      "location": {
+        "label": "Johannesburg, Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 JUN 1923",
+      "year": 1923,
+      "iso": "1923-06-03",
+      "precision": "exact",
+      "display": "June 3, 1923",
+      "place": "76 Derby Avenue, Brakpan, Gauteng, South Africa",
+      "location": {
+        "label": "76 Derby Avenue, Brakpan, Gauteng, South Africa",
+        "placeName": "76 Derby Avenue",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Brakpan",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ac/0f/8b/b0/5344483feb1ba955/record-image_3qs7-99z5-f9ms-g_original.jpg?hash=b10a2d636b1d0f2dce73e86473f32390dbaf273e96f87c0d059b2907d2af3639.1789455599",
+      "alt": "Hester Theunissina Botha"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ac/0f/8b/b0/5344483feb1ba955/record-image_3qs7-99z5-f9ms-g_original.jpg?hash=b10a2d636b1d0f2dce73e86473f32390dbaf273e96f87c0d059b2907d2af3639.1789455599",
+        "form": "",
+        "title": "CORRIE, C. G. Baptism",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/54/ff/9a/9a/5344483af04a8497/51671_botha_x_corrie_hester_theunisssen_cecilia_original.jpg?hash=cefa0c4aa9f572f252a1de103ac8119d000ea0f039d2214a9067c69cc11cda61.1789455599",
+        "form": "",
+        "title": "DEATH NOTICE Hester Theunisina Cecilia Corrie née Botha",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/81/a9/9b/8d/5344484035b29de3/corrie_jhb027_original.jpg?hash=bca5e20aa223eee941e7760ffd58ca87b8930d99eccdff22448635da36421bfa.1789455599",
+        "form": "",
+        "title": "CORRIE, E.L. & CORRIE (born BOTHA), H.T. Marriage",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1723
+    ],
+    "exSpouses": [],
+    "children": [
+      4418,
+      4419,
+      4420,
+      4421
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1045"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1723,
+        "unionId": "F1045",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4418,
+        "unionId": "F1045",
+        "type": "biological"
+      },
+      {
+        "id": 4419,
+        "unionId": "F1045",
+        "type": "biological"
+      },
+      {
+        "id": 4420,
+        "unionId": "F1045",
+        "type": "biological"
+      },
+      {
+        "id": 4421,
+        "unionId": "F1045",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000021367682276@",
+    "geniId": "6000000021367682276",
+    "rfn": "geni:6000000021367682276",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/4417/",
+    "canonical": "https://www.genepedia.org/people/4417/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

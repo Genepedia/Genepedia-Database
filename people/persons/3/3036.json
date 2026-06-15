@@ -1,0 +1,116 @@
+{
+  "id": 3036,
+  "schema": "genepedia/person@1",
+  "slug": "ockert-johannes-swanevelder",
+  "names": {
+    "display": "Ockert Johannes Swanevelder",
+    "given": "Ockert Johannes",
+    "surname": "Swanevelder",
+    "married": "Swanevelder",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "9 AUG 1977",
+      "year": 1977,
+      "iso": "1977-08-09",
+      "precision": "exact",
+      "display": "August 9, 1977",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 NOV 1977",
+      "year": 1977,
+      "iso": "1977-11-06",
+      "precision": "exact",
+      "display": "November 6, 1977",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3034,
+      1208
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3035,
+      3037
+    ],
+    "parentUnions": [
+      "F743"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3034,
+        "unionId": "F743",
+        "type": "biological"
+      },
+      {
+        "id": 1208,
+        "unionId": "F743",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216930272824@",
+    "geniId": "6000000216930272824",
+    "rfn": "geni:6000000216930272824",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/3036/",
+    "canonical": "https://www.genepedia.org/people/3036/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

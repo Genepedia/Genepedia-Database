@@ -1,0 +1,169 @@
+{
+  "id": 2243,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-opperman",
+  "names": {
+    "display": "Martha Maria Opperman",
+    "given": "Martha Maria",
+    "surname": "Opperman",
+    "married": "Roselt",
+    "nick": "Martie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 MAY 1930",
+      "year": 1930,
+      "iso": "1930-05-16",
+      "precision": "exact",
+      "display": "May 16, 1930",
+      "place": null
+    },
+    "death": {
+      "date": "21 JUL 2011",
+      "year": 2011,
+      "iso": "2011-07-21",
+      "precision": "exact",
+      "display": "July 21, 2011",
+      "place": "Rustenburg, North West, South Africa",
+      "location": {
+        "label": "Rustenburg, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Rustenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Donkershoek Cementery, Rustenburg, South Africa",
+      "location": {
+        "label": "Donkershoek Cementery, Rustenburg, South Africa",
+        "placeName": "Donkershoek Cementery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Rustenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      912
+    ],
+    "exSpouses": [],
+    "children": [
+      2244,
+      2245,
+      2246,
+      2247,
+      2248,
+      2249
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F571"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 912,
+        "unionId": "F571",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2244,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2245,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2246,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2247,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2248,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2249,
+        "unionId": "F571",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028171601232@",
+    "geniId": "6000000028171601232",
+    "rfn": "geni:6000000028171601232",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2243/",
+    "canonical": "https://www.genepedia.org/people/2243/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

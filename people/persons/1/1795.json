@@ -1,0 +1,117 @@
+{
+  "id": 1795,
+  "schema": "genepedia/person@1",
+  "slug": "johnny-boy-lurie",
+  "names": {
+    "display": "Johnny-boy Lurie",
+    "given": "Johnny-boy",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      758,
+      1794
+    ],
+    "spouses": [
+      4547
+    ],
+    "exSpouses": [],
+    "children": [
+      4548,
+      4549,
+      4550
+    ],
+    "siblings": [
+      1796,
+      1797,
+      1798
+    ],
+    "parentUnions": [
+      "F472"
+    ],
+    "spouseUnions": [
+      "F1085"
+    ],
+    "parentLinks": [
+      {
+        "id": 758,
+        "unionId": "F472",
+        "type": "biological"
+      },
+      {
+        "id": 1794,
+        "unionId": "F472",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4547,
+        "unionId": "F1085",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4548,
+        "unionId": "F1085",
+        "type": "biological"
+      },
+      {
+        "id": 4549,
+        "unionId": "F1085",
+        "type": "biological"
+      },
+      {
+        "id": 4550,
+        "unionId": "F1085",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149375823@",
+    "geniId": "6000000204149375823",
+    "rfn": "geni:6000000204149375823",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/1795/",
+    "canonical": "https://www.genepedia.org/people/1795/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

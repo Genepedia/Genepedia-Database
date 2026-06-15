@@ -1,0 +1,93 @@
+{
+  "id": 2844,
+  "schema": "genepedia/person@1",
+  "slug": "private-2844",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2672,
+      2836
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2837,
+      1148,
+      2838,
+      2775,
+      2839,
+      2840,
+      2841,
+      2842,
+      2843
+    ],
+    "parentUnions": [
+      "F702"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2672,
+        "unionId": "F702",
+        "type": "biological"
+      },
+      {
+        "id": 2836,
+        "unionId": "F702",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020794197753@",
+    "geniId": "6000000020794197753",
+    "rfn": "geni:6000000020794197753",
+    "changed": "26 DEC 2019"
+  },
+  "page": {
+    "route": "people/2844/",
+    "canonical": "https://www.genepedia.org/people/2844/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

@@ -1,0 +1,98 @@
+{
+  "id": 798,
+  "schema": "genepedia/person@1",
+  "slug": "ellis",
+  "names": {
+    "display": "? Ellis",
+    "given": "?",
+    "surname": "Ellis",
+    "married": "De Villiers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      794,
+      795
+    ],
+    "spouses": [
+      1838
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      313,
+      796,
+      797,
+      799
+    ],
+    "parentUnions": [
+      "F222"
+    ],
+    "spouseUnions": [
+      "F488"
+    ],
+    "parentLinks": [
+      {
+        "id": 794,
+        "unionId": "F222",
+        "type": "biological"
+      },
+      {
+        "id": 795,
+        "unionId": "F222",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1838,
+        "unionId": "F488",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207953602851@",
+    "geniId": "6000000207953602851",
+    "rfn": "geni:6000000207953602851",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/798/",
+    "canonical": "https://www.genepedia.org/people/798/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

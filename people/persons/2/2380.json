@@ -1,0 +1,90 @@
+{
+  "id": 2380,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-cornelis-cloete",
+  "names": {
+    "display": "Johannes Cornelis Cloete",
+    "given": "Johannes Cornelis",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2376,
+      2375
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      954,
+      2377,
+      2378,
+      2379,
+      2381,
+      2382
+    ],
+    "parentUnions": [
+      "F600"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2376,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2375,
+        "unionId": "F600",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052173721026@",
+    "geniId": "6000000052173721026",
+    "rfn": "geni:6000000052173721026",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2380/",
+    "canonical": "https://www.genepedia.org/people/2380/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

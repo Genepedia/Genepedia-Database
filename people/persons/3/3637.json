@@ -1,0 +1,143 @@
+{
+  "id": 3637,
+  "schema": "genepedia/person@1",
+  "slug": "hester-meintjes",
+  "names": {
+    "display": "Hester Meintjes",
+    "given": "Hester",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 MAR 1912",
+      "year": 1912,
+      "iso": "1912-03-31",
+      "precision": "exact",
+      "display": "March 31, 1912",
+      "place": "Klerksdorp, NW, South Africa",
+      "location": {
+        "label": "Klerksdorp, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1914",
+      "year": 1914,
+      "iso": "1914",
+      "precision": "about",
+      "display": "about 1914",
+      "place": "Soutpansberg",
+      "location": {
+        "label": "Soutpansberg",
+        "placeName": "Soutpansberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1402,
+      3623
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3624,
+      3625,
+      3626,
+      3627,
+      3628,
+      3629,
+      3630,
+      3631,
+      3632,
+      3633,
+      3634,
+      3635,
+      3636
+    ],
+    "parentUnions": [
+      "F875"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1402,
+        "unionId": "F875",
+        "type": "biological"
+      },
+      {
+        "id": 3623,
+        "unionId": "F875",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000019880187873@",
+    "geniId": "6000000019880187873",
+    "rfn": "geni:6000000019880187873",
+    "changed": "27 FEB 2015"
+  },
+  "page": {
+    "route": "people/3637/",
+    "canonical": "https://www.genepedia.org/people/3637/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

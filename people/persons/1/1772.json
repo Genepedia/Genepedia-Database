@@ -1,0 +1,101 @@
+{
+  "id": 1772,
+  "schema": "genepedia/person@1",
+  "slug": "zamuels-dirikis",
+  "names": {
+    "display": "Zāmuels Dīriķis",
+    "given": "Zāmuels",
+    "surname": "Dīriķis",
+    "married": "Dīriķis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4513,
+      4514
+    ],
+    "spouses": [
+      1773
+    ],
+    "exSpouses": [],
+    "children": [
+      735
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1073"
+    ],
+    "spouseUnions": [
+      "F464"
+    ],
+    "parentLinks": [
+      {
+        "id": 4513,
+        "unionId": "F1073",
+        "type": "biological"
+      },
+      {
+        "id": 4514,
+        "unionId": "F1073",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1773,
+        "unionId": "F464",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 735,
+        "unionId": "F464",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000223839296940@",
+    "geniId": "6000000223839296940",
+    "rfn": "geni:6000000223839296940",
+    "changed": "12 FEB 2026"
+  },
+  "page": {
+    "route": "people/1772/",
+    "canonical": "https://www.genepedia.org/people/1772/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

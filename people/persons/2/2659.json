@@ -1,0 +1,171 @@
+{
+  "id": 2659,
+  "schema": "genepedia/person@1",
+  "slug": "jan-hendrik-zacharias-booyens",
+  "names": {
+    "display": "Jan Hendrik Zacharias Booyens",
+    "given": "Jan Hendrik Zacharias",
+    "surname": "Booyens",
+    "married": "Booyens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1844",
+      "year": 1844,
+      "iso": "1844",
+      "precision": "exact",
+      "display": "1844",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "25 OCT 1897",
+      "year": 1897,
+      "iso": "1897-10-25",
+      "precision": "exact",
+      "display": "October 25, 1897",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/fd/17/1e/14/5344483bf286b53e/booyens_jan_hendrik_zacharias_b1456_1_1__original.jpg?hash=8edcdeb5592dd7f0399ba0460e6dba69cd5f61fecff28cb4a13a44d1289cbd97.1789455599",
+      "alt": "Jan Hendrik Zacharias Booyens"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/fd/17/1e/14/5344483bf286b53e/booyens_jan_hendrik_zacharias_b1456_1_1__original.jpg?hash=8edcdeb5592dd7f0399ba0460e6dba69cd5f61fecff28cb4a13a44d1289cbd97.1789455599",
+        "form": "",
+        "title": "Booyens Jan Hendrik Zacharias_B1456 (1) (1).jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/03/c8/9e/e0/5344483bf286b540/booyens_jan_hendrik_zacharias_b1456_1_2__original.jpg?hash=6861265ccd805bc3be194bf802962234207e916070664cb8481f4bde800e5e7b.1789455599",
+        "form": "",
+        "title": "Booyens Jan Hendrik Zacharias_B1456 (1) (2).jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/a1/6a/cb/f4/534448418f7f154e/record-image_3qs7-99qg-tpq9_original.jpg?hash=1dc895fac9a506f0cadaad4315f26798ef39ab83b84c98900429cc51b3c2fbb8.1789455599",
+        "form": "",
+        "title": "BOOISEN, A. S. Baptism",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1073
+    ],
+    "exSpouses": [],
+    "children": [
+      2660,
+      2661,
+      2662
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1642"
+    ],
+    "spouseUnions": [
+      "F651"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1073,
+        "unionId": "F651",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2660,
+        "unionId": "F651",
+        "type": "biological"
+      },
+      {
+        "id": 2661,
+        "unionId": "F651",
+        "type": "biological"
+      },
+      {
+        "id": 2662,
+        "unionId": "F651",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000025873598970@",
+    "geniId": "6000000025873598970",
+    "rfn": "geni:6000000025873598970",
+    "changed": "18 FEB 2026"
+  },
+  "page": {
+    "route": "people/2659/",
+    "canonical": "https://www.genepedia.org/people/2659/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

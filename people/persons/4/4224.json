@@ -1,0 +1,158 @@
+{
+  "id": 4224,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-botha-4224",
+  "names": {
+    "display": "Johannes Petrus Botha",
+    "given": "Johannes Petrus",
+    "surname": "Botha",
+    "married": "Botha",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 NOV 1813",
+      "year": 1813,
+      "iso": "1813-11-13",
+      "precision": "exact",
+      "display": "November 13, 1813",
+      "place": "George, WC, South Africa",
+      "location": {
+        "label": "George, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "George",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 MAR 1879",
+      "year": 1879,
+      "iso": "1879-03-21",
+      "precision": "exact",
+      "display": "March 21, 1879",
+      "place": "Jacobsdal, Orange Free State, South Africa",
+      "location": {
+        "label": "Jacobsdal, Orange Free State, South Africa",
+        "placeName": "Jacobsdal, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "13 FEB 1814",
+      "year": 1814,
+      "iso": "1814-02-13",
+      "precision": "exact",
+      "display": "February 13, 1814",
+      "place": "George, WC, South Africa",
+      "location": {
+        "label": "George, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "NG Kerk",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "George",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4221,
+      4222
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4223,
+      2563,
+      4225,
+      4226,
+      1602
+    ],
+    "parentUnions": [
+      "F991"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4221,
+        "unionId": "F991",
+        "type": "biological"
+      },
+      {
+        "id": 4222,
+        "unionId": "F991",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000014582174527@",
+    "geniId": "6000000014582174527",
+    "rfn": "geni:6000000014582174527",
+    "changed": "02 SEP 2025"
+  },
+  "page": {
+    "route": "people/4224/",
+    "canonical": "https://www.genepedia.org/people/4224/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

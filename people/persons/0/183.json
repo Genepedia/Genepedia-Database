@@ -1,0 +1,91 @@
+{
+  "id": 183,
+  "schema": "genepedia/person@1",
+  "slug": "le-roux-183",
+  "names": {
+    "display": "? Le Roux",
+    "given": "?",
+    "surname": "Le Roux",
+    "married": "Le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      182
+    ],
+    "exSpouses": [],
+    "children": [
+      184,
+      47
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F54"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 182,
+        "unionId": "F54",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 184,
+        "unionId": "F54",
+        "type": "biological"
+      },
+      {
+        "id": 47,
+        "unionId": "F54",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207189034834@",
+    "geniId": "6000000207189034834",
+    "rfn": "geni:6000000207189034834",
+    "changed": "09 JUL 2024"
+  },
+  "page": {
+    "route": "people/183/",
+    "canonical": "https://www.genepedia.org/people/183/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

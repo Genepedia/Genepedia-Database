@@ -1,0 +1,155 @@
+{
+  "id": 393,
+  "schema": "genepedia/person@1",
+  "slug": "jan-lodewikus-diedricks",
+  "names": {
+    "display": "Jan Lodewikus Diedricks",
+    "given": "Jan Lodewikus",
+    "surname": "Diedricks",
+    "married": "Diedricks",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 JUL 1918",
+      "year": 1918,
+      "iso": "1918-07-11",
+      "precision": "exact",
+      "display": "July 11, 1918",
+      "place": "Richmond, Cape Province, South Africa",
+      "location": {
+        "label": "Richmond, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Richmond",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 OCT 1982",
+      "year": 1982,
+      "iso": "1982-10-24",
+      "precision": "exact",
+      "display": "October 24, 1982",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/75/00/1f/db/5344484366aa03ad/record-image_33s7-lbqw-cq_original.jpg?hash=7aefdea0cdac0eb45ea60dc19994ca1395b6cc9b05a55dcf03fa4fc78cde9daa.1789455599",
+      "alt": "Jan Lodewikus Diedricks"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/75/00/1f/db/5344484366aa03ad/record-image_33s7-lbqw-cq_original.jpg?hash=7aefdea0cdac0eb45ea60dc19994ca1395b6cc9b05a55dcf03fa4fc78cde9daa.1789455599",
+        "form": "",
+        "title": "record-image_33S7-LBQW-CQ.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      144
+    ],
+    "exSpouses": [],
+    "children": [
+      394,
+      395,
+      396
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F122"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 144,
+        "unionId": "F122",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 394,
+        "unionId": "F122",
+        "type": "biological"
+      },
+      {
+        "id": 395,
+        "unionId": "F122",
+        "type": "biological"
+      },
+      {
+        "id": 396,
+        "unionId": "F122",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028170683782@",
+    "geniId": "6000000028170683782",
+    "rfn": "geni:6000000028170683782",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/393/",
+    "canonical": "https://www.genepedia.org/people/393/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

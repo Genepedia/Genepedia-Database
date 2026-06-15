@@ -1,0 +1,161 @@
+{
+  "id": 3097,
+  "schema": "genepedia/person@1",
+  "slug": "engela-johanna-de-waal",
+  "names": {
+    "display": "Engela Johanna de Waal",
+    "given": "Engela Johanna",
+    "surname": "de Waal",
+    "married": "Botes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 AUG 1906",
+      "year": 1906,
+      "iso": "1906-08-21",
+      "precision": "exact",
+      "display": "August 21, 1906",
+      "place": null
+    },
+    "death": {
+      "date": "22 SEP 1981",
+      "year": 1981,
+      "iso": "1981-09-22",
+      "precision": "exact",
+      "display": "September 22, 1981",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Merweville",
+      "location": {
+        "label": "Merweville",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Merweville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/8e/5c/8b/5f/53444850197f2d35/img_9241_original.jpg?hash=9149de2fc0fa8e67ff2be910e9b0399e782c748e6a90cd05e9fe51057b4f1779.1789455599",
+      "alt": "Engela Johanna de Waal"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/8e/5c/8b/5f/53444850197f2d35/img_9241_original.jpg?hash=9149de2fc0fa8e67ff2be910e9b0399e782c748e6a90cd05e9fe51057b4f1779.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3098
+    ],
+    "exSpouses": [],
+    "children": [
+      3099,
+      3100,
+      1240,
+      3101,
+      3102
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1913"
+    ],
+    "spouseUnions": [
+      "F767"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3098,
+        "unionId": "F767",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3099,
+        "unionId": "F767",
+        "type": "biological"
+      },
+      {
+        "id": 3100,
+        "unionId": "F767",
+        "type": "biological"
+      },
+      {
+        "id": 1240,
+        "unionId": "F767",
+        "type": "biological"
+      },
+      {
+        "id": 3101,
+        "unionId": "F767",
+        "type": "biological"
+      },
+      {
+        "id": 3102,
+        "unionId": "F767",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000082948537950@",
+    "geniId": "6000000082948537950",
+    "rfn": "geni:6000000082948537950",
+    "changed": "13 NOV 2022"
+  },
+  "page": {
+    "route": "people/3097/",
+    "canonical": "https://www.genepedia.org/people/3097/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

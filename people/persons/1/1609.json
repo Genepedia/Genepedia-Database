@@ -1,0 +1,176 @@
+{
+  "id": 1609,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-matthys-de-beer-1609",
+  "names": {
+    "display": "Johannes Matthys de Beer",
+    "given": "Johannes Matthys",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 SEP 1843",
+      "year": 1843,
+      "iso": "1843-09-24",
+      "precision": "exact",
+      "display": "September 24, 1843",
+      "place": "Smithfield",
+      "location": {
+        "label": "Smithfield",
+        "placeName": "Smithfield",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 AUG 1919",
+      "year": 1919,
+      "iso": "1919-08-03",
+      "precision": "exact",
+      "display": "August 3, 1919",
+      "place": "Rietspruit",
+      "location": {
+        "label": "Rietspruit",
+        "placeName": "Rietspruit",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1606,
+      1605
+    ],
+    "spouses": [
+      2574
+    ],
+    "exSpouses": [],
+    "children": [
+      4253,
+      4254,
+      4255,
+      4256,
+      4257
+    ],
+    "siblings": [
+      1607,
+      1608,
+      646,
+      1610
+    ],
+    "parentUnions": [
+      "F409"
+    ],
+    "spouseUnions": [
+      "F997"
+    ],
+    "parentLinks": [
+      {
+        "id": 1606,
+        "unionId": "F409",
+        "type": "biological"
+      },
+      {
+        "id": 1605,
+        "unionId": "F409",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2574,
+        "unionId": "F997",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4253,
+        "unionId": "F997",
+        "type": "biological"
+      },
+      {
+        "id": 4254,
+        "unionId": "F997",
+        "type": "biological"
+      },
+      {
+        "id": 4255,
+        "unionId": "F997",
+        "type": "biological"
+      },
+      {
+        "id": 4256,
+        "unionId": "F997",
+        "type": "biological"
+      },
+      {
+        "id": 4257,
+        "unionId": "F997",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000034532087405@",
+    "geniId": "6000000034532087405",
+    "rfn": "geni:6000000034532087405",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/1609/",
+    "canonical": "https://www.genepedia.org/people/1609/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

@@ -1,0 +1,109 @@
+{
+  "id": 2824,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-magdalena",
+  "names": {
+    "display": "Cornelia Magdalena",
+    "given": "Cornelia Magdalena",
+    "surname": "Du Preez",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 NOV 1920",
+      "year": 1920,
+      "iso": "1920-11-20",
+      "precision": "exact",
+      "display": "November 20, 1920",
+      "place": "Potgietersrust",
+      "location": {
+        "label": "Potgietersrust",
+        "placeName": "Potgietersrust",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2823,
+      1143
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2825,
+      2826
+    ],
+    "parentUnions": [
+      "F699"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2823,
+        "unionId": "F699",
+        "type": "biological"
+      },
+      {
+        "id": 1143,
+        "unionId": "F699",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216116269830@",
+    "geniId": "6000000216116269830",
+    "rfn": "geni:6000000216116269830",
+    "changed": "28 FEB 2025"
+  },
+  "page": {
+    "route": "people/2824/",
+    "canonical": "https://www.genepedia.org/people/2824/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

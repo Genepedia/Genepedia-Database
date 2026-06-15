@@ -1,0 +1,220 @@
+{
+  "id": 1863,
+  "schema": "genepedia/person@1",
+  "slug": "dorothea-johanna-susanna-havenga",
+  "names": {
+    "display": "Dorothea Johanna Susanna Havenga",
+    "given": "Dorothea Johanna Susanna",
+    "surname": "Havenga",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 AUG 1859",
+      "year": 1859,
+      "iso": "1859-08-29",
+      "precision": "exact",
+      "display": "August 29, 1859",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 DEC 1923",
+      "year": 1923,
+      "iso": "1923-12-23",
+      "precision": "exact",
+      "display": "December 23, 1923",
+      "place": "Springs, Gauteng, South Africa",
+      "location": {
+        "label": "Springs, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Springs",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "5 DEC 1859",
+      "year": 1859,
+      "iso": "1859-12-05",
+      "precision": "exact",
+      "display": "December 5, 1859",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4670,
+      4671
+    ],
+    "spouses": [
+      812
+    ],
+    "exSpouses": [],
+    "children": [
+      1864,
+      1865,
+      1866,
+      1867,
+      1868,
+      1869,
+      1870,
+      1871
+    ],
+    "siblings": [
+      4672,
+      4673,
+      4674,
+      4675,
+      4676,
+      4677,
+      4678
+    ],
+    "parentUnions": [
+      "F1114"
+    ],
+    "spouseUnions": [
+      "F496"
+    ],
+    "parentLinks": [
+      {
+        "id": 4670,
+        "unionId": "F1114",
+        "type": "biological"
+      },
+      {
+        "id": 4671,
+        "unionId": "F1114",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 812,
+        "unionId": "F496",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1864,
+        "unionId": "F496",
+        "type": "biological"
+      },
+      {
+        "id": 1865,
+        "unionId": "F496",
+        "type": "biological"
+      },
+      {
+        "id": 1866,
+        "unionId": "F496",
+        "type": "biological"
+      },
+      {
+        "id": 1867,
+        "unionId": "F496",
+        "type": "biological"
+      },
+      {
+        "id": 1868,
+        "unionId": "F496",
+        "type": "biological"
+      },
+      {
+        "id": 1869,
+        "unionId": "F496",
+        "type": "biological"
+      },
+      {
+        "id": 1870,
+        "unionId": "F496",
+        "type": "biological"
+      },
+      {
+        "id": 1871,
+        "unionId": "F496",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000043716189246@",
+    "geniId": "6000000043716189246",
+    "rfn": "geni:6000000043716189246",
+    "changed": "05 MAY 2026"
+  },
+  "page": {
+    "route": "people/1863/",
+    "canonical": "https://www.genepedia.org/people/1863/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

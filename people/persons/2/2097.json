@@ -1,0 +1,184 @@
+{
+  "id": 2097,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-hendrik-kruger",
+  "names": {
+    "display": "Johannes Hendrik Kruger",
+    "given": "Johannes Hendrik",
+    "surname": "Kruger",
+    "married": "Kruger",
+    "nick": "Jan Hendrik",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 SEP 1878",
+      "year": 1878,
+      "iso": "1878-09-10",
+      "precision": "exact",
+      "display": "September 10, 1878",
+      "place": "Vernterstad, Cape Colony, South Africa",
+      "location": {
+        "label": "Vernterstad, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vernterstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 SEP 1963",
+      "year": 1963,
+      "iso": "1963-09-03",
+      "precision": "exact",
+      "display": "September 3, 1963",
+      "place": "Postmasburg, Cape Province, South Africa",
+      "location": {
+        "label": "Postmasburg, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/38/91/93/aa/5344484b469cac6f/jan_hendrik_kruger_original.jpg?hash=c3f94672381326ba1999937db08696789075381b49adbd7ddb1ff3864077fcc4.1789455599",
+      "alt": "Johannes Hendrik Kruger"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/38/91/93/aa/5344484b469cac6f/jan_hendrik_kruger_original.jpg?hash=c3f94672381326ba1999937db08696789075381b49adbd7ddb1ff3864077fcc4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/53/e7/e4/26/53444868aa038eeb/abw_pow_ceylon_original.jpg?hash=6d303da640e69c1469852d9b67c7635e502c5f2f9c7673a35ae0cc56a69b0a10.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/35/9e/d2/54/5344484b46b23a97/johannes_hendrik_kruger_1878-1963_and_christina_susanna_bingle_1892-1972_original.jpg?hash=f64ce4c9cba94e303ea323c96be36757570a09659abaa67f4d592837f4fd5546.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2096
+    ],
+    "exSpouses": [],
+    "children": [
+      2098,
+      2099,
+      2100,
+      866,
+      2101
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1291"
+    ],
+    "spouseUnions": [
+      "F546",
+      "F1290"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2096,
+        "unionId": "F546",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2098,
+        "unionId": "F546",
+        "type": "biological"
+      },
+      {
+        "id": 2099,
+        "unionId": "F546",
+        "type": "biological"
+      },
+      {
+        "id": 2100,
+        "unionId": "F546",
+        "type": "biological"
+      },
+      {
+        "id": 866,
+        "unionId": "F546",
+        "type": "biological"
+      },
+      {
+        "id": 2101,
+        "unionId": "F546",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000088410274821@",
+    "geniId": "6000000088410274821",
+    "rfn": "geni:6000000088410274821",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2097/",
+    "canonical": "https://www.genepedia.org/people/2097/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

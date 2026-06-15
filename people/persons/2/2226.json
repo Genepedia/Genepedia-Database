@@ -1,0 +1,211 @@
+{
+  "id": 2226,
+  "schema": "genepedia/person@1",
+  "slug": "alice-thelma-kingsley",
+  "names": {
+    "display": "Alice Thelma Kingsley",
+    "given": "Alice Thelma",
+    "surname": "Kingsley",
+    "married": "Moutsatsos",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 JUL 1911",
+      "year": 1911,
+      "iso": "1911-07-11",
+      "precision": "exact",
+      "display": "July 11, 1911",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 MAR 1983",
+      "year": 1983,
+      "iso": "1983-03-28",
+      "precision": "exact",
+      "display": "March 28, 1983",
+      "place": "Alberton, Gauteng, South Africa",
+      "location": {
+        "label": "Alberton, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Alberton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "10 SEP 1911",
+      "year": 1911,
+      "iso": "1911-09-10",
+      "precision": "exact",
+      "display": "September 10, 1911",
+      "place": "Beaconsfield, Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Beaconsfield, Kimberley, Northern Cape, South Africa",
+        "placeName": "Beaconsfield",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Alberton, Gauteng, South Africa",
+      "location": {
+        "label": "Alberton, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Alberton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/82/0c/d5/4c/53444845920bc296/basil_and_alice_original.jpg?hash=e68a5c13b1a8158a50c041bb4c612f0cbc83040dc22b63506a2970f00752bd27.1789455599",
+      "alt": "Alice Thelma Kingsley"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/82/0c/d5/4c/53444845920bc296/basil_and_alice_original.jpg?hash=e68a5c13b1a8158a50c041bb4c612f0cbc83040dc22b63506a2970f00752bd27.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/b1/f9/9c/da/534448485c53a91c/alice_moutsatsos_death_certficatel_original.jpg?hash=931ce0042c3973a8c4595b872000798ae72fc9a43b620b55bf2e8806c9ad4476.1789455599",
+        "form": "",
+        "title": "alice moutsatsos death certficatel.JPG",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/59/2a/f4/bd/534448485c571f43/alice_kingsley_doopseel_original.jpg?hash=ae365a3f7aab9a0eca183ab647acd3d6caabe00c7968d99c9f0331f97f0c4802.1789455599",
+        "form": "",
+        "title": "Alice Kingsley Doopseel.JPG",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2222,
+      2223
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      905,
+      2224,
+      2225,
+      2227,
+      2228,
+      2229
+    ],
+    "parentUnions": [
+      "F565"
+    ],
+    "spouseUnions": [
+      "F1378"
+    ],
+    "parentLinks": [
+      {
+        "id": 2222,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2223,
+        "unionId": "F565",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000061376313839@",
+    "geniId": "6000000061376313839",
+    "rfn": "geni:6000000061376313839",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2226/",
+    "canonical": "https://www.genepedia.org/people/2226/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,118 @@
+{
+  "id": 3572,
+  "schema": "genepedia/person@1",
+  "slug": "alida-jacoba-meintjes-3572",
+  "names": {
+    "display": "Alida Jacoba Meintjes",
+    "given": "Alida Jacoba",
+    "surname": "Meintjes",
+    "married": "Coetzee",
+    "nick": "Meintjies",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 JUL 1819",
+      "year": 1819,
+      "iso": "1819-07-16",
+      "precision": "exact",
+      "display": "July 16, 1819",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3571,
+      3570
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1396,
+      3573,
+      3574,
+      3575,
+      3576,
+      3577,
+      3578,
+      3579,
+      3580,
+      3581,
+      3582
+    ],
+    "parentUnions": [
+      "F869"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3571,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3570,
+        "unionId": "F869",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000010565972734@",
+    "geniId": "6000000010565972734",
+    "rfn": "geni:6000000010565972734",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3572/",
+    "canonical": "https://www.genepedia.org/people/3572/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

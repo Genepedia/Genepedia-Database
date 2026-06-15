@@ -1,0 +1,137 @@
+{
+  "id": 1749,
+  "schema": "genepedia/person@1",
+  "slug": "rose-mary-scharon",
+  "names": {
+    "display": "Rose Mary Scharon",
+    "given": "Rose Mary",
+    "surname": "Scharon",
+    "married": "Greenspoon",
+    "nick": "Rachel",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1830",
+      "year": 1830,
+      "iso": "1830",
+      "precision": "about",
+      "display": "about 1830",
+      "place": "Lithuania",
+      "location": {
+        "label": "Lithuania",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1900",
+      "year": 1900,
+      "iso": "1900",
+      "precision": "about",
+      "display": "about 1900",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4486,
+      4485
+    ],
+    "spouses": [
+      1748
+    ],
+    "exSpouses": [],
+    "children": [
+      726,
+      1750
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1063"
+    ],
+    "spouseUnions": [
+      "F458"
+    ],
+    "parentLinks": [
+      {
+        "id": 4486,
+        "unionId": "F1063",
+        "type": "biological"
+      },
+      {
+        "id": 4485,
+        "unionId": "F1063",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1748,
+        "unionId": "F458",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 726,
+        "unionId": "F458",
+        "type": "biological"
+      },
+      {
+        "id": 1750,
+        "unionId": "F458",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000011615895440@",
+    "geniId": "6000000011615895440",
+    "rfn": "geni:6000000011615895440",
+    "changed": "19 FEB 2025"
+  },
+  "page": {
+    "route": "people/1749/",
+    "canonical": "https://www.genepedia.org/people/1749/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

@@ -1,0 +1,104 @@
+{
+  "id": 3518,
+  "schema": "genepedia/person@1",
+  "slug": "isabella-frederica-de-beer",
+  "names": {
+    "display": "Isabella Frederica de Beer",
+    "given": "Isabella Frederica",
+    "surname": "de Beer",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 NOV 1868",
+      "year": 1868,
+      "iso": "1868-11-10",
+      "precision": "exact",
+      "display": "November 10, 1868",
+      "place": null
+    },
+    "death": {
+      "date": "25 DEC 1869",
+      "year": 1869,
+      "iso": "1869-12-25",
+      "precision": "exact",
+      "display": "December 25, 1869",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1388,
+      3517
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3519,
+      3520,
+      3521,
+      3522,
+      3523,
+      3524
+    ],
+    "parentUnions": [
+      "F860"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1388,
+        "unionId": "F860",
+        "type": "biological"
+      },
+      {
+        "id": 3517,
+        "unionId": "F860",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000042433135957@",
+    "geniId": "6000000042433135957",
+    "rfn": "geni:6000000042433135957",
+    "changed": "20 MAY 2016"
+  },
+  "page": {
+    "route": "people/3518/",
+    "canonical": "https://www.genepedia.org/people/3518/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

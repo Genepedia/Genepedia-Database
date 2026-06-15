@@ -1,0 +1,172 @@
+{
+  "id": 144,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-catharina-adriana-magdalena-roselt",
+  "names": {
+    "display": "Johanna Catharina Adriana Magdalena Roselt",
+    "given": "Johanna Catharina Adriana Magdalena",
+    "surname": "Roselt",
+    "married": "Diedricks",
+    "nick": "Joey",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 JAN 1923",
+      "year": 1923,
+      "iso": "1923-01-26",
+      "precision": "exact",
+      "display": "January 26, 1923",
+      "place": null
+    },
+    "death": {
+      "date": "2 JAN 2000",
+      "year": 2000,
+      "iso": "2000-01-02",
+      "precision": "exact",
+      "display": "January 2, 2000",
+      "place": null
+    },
+    "baptism": {
+      "date": "1 APR 1923",
+      "year": 1923,
+      "iso": "1923-04-01",
+      "precision": "exact",
+      "display": "April 1, 1923",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/6e/d9/86/8f/53444840c04ea4bb/foto_11_troue_bruid_se_familie_saam_met_bruidspaar_jane_roselt_pienaar_original.jpg?hash=32a18329ca0fd0e22297d249e37f7f123c622f3642ff10a5a9cb3d276f996694.1789455599",
+      "alt": "Johanna Catharina Adriana Magdalena Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/6e/d9/86/8f/53444840c04ea4bb/foto_11_troue_bruid_se_familie_saam_met_bruidspaar_jane_roselt_pienaar_original.jpg?hash=32a18329ca0fd0e22297d249e37f7f123c622f3642ff10a5a9cb3d276f996694.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      138,
+      139
+    ],
+    "spouses": [
+      393
+    ],
+    "exSpouses": [],
+    "children": [
+      394,
+      395,
+      396
+    ],
+    "siblings": [
+      140,
+      141,
+      142,
+      143,
+      145,
+      40,
+      146,
+      147,
+      148
+    ],
+    "parentUnions": [
+      "F47"
+    ],
+    "spouseUnions": [
+      "F122"
+    ],
+    "parentLinks": [
+      {
+        "id": 138,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 139,
+        "unionId": "F47",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 393,
+        "unionId": "F122",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 394,
+        "unionId": "F122",
+        "type": "biological"
+      },
+      {
+        "id": 395,
+        "unionId": "F122",
+        "type": "biological"
+      },
+      {
+        "id": 396,
+        "unionId": "F122",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028170832465@",
+    "geniId": "6000000028170832465",
+    "rfn": "geni:6000000028170832465",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/144/",
+    "canonical": "https://www.genepedia.org/people/144/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

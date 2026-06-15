@@ -1,0 +1,110 @@
+{
+  "id": 1367,
+  "schema": "genepedia/person@1",
+  "slug": "andries-petrus-dippenaar",
+  "names": {
+    "display": "Andries Petrus Dippenaar",
+    "given": "Andries Petrus",
+    "surname": "Dippenaar",
+    "married": "Dippenaar",
+    "nick": "Pieter",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "25 APR 1969",
+      "year": 1969,
+      "iso": "1969-04-25",
+      "precision": "exact",
+      "display": "April 25, 1969",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/0f/39/8d/d3/5344486602ad0533/screenshot_2024-06-15_182534_original.jpg?hash=68079fe07bc4bd64dbc2a544c7b68dfb428761ede48ba0c5adfae9c22e9bd506.1789455599",
+      "alt": "Andries Petrus Dippenaar"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/0f/39/8d/d3/5344486602ad0533/screenshot_2024-06-15_182534_original.jpg?hash=68079fe07bc4bd64dbc2a544c7b68dfb428761ede48ba0c5adfae9c22e9bd506.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      556
+    ],
+    "exSpouses": [],
+    "children": [
+      1368,
+      1369
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F351"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 556,
+        "unionId": "F351",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1368,
+        "unionId": "F351",
+        "type": "biological"
+      },
+      {
+        "id": 1369,
+        "unionId": "F351",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027229597887@",
+    "geniId": "6000000027229597887",
+    "rfn": "geni:6000000027229597887",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1367/",
+    "canonical": "https://www.genepedia.org/people/1367/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

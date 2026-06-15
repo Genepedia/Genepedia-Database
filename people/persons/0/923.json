@@ -1,0 +1,178 @@
+{
+  "id": 923,
+  "schema": "genepedia/person@1",
+  "slug": "ellen-jane-cloete",
+  "names": {
+    "display": "Ellen Jane Cloete",
+    "given": "Ellen Jane",
+    "surname": "Cloete",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 MAR 1922",
+      "year": 1922,
+      "iso": "1922-03-05",
+      "precision": "exact",
+      "display": "March 5, 1922",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "16 APR 1922",
+      "year": 1922,
+      "iso": "1922-04-16",
+      "precision": "exact",
+      "display": "April 16, 1922",
+      "place": "Douglas, Cape, South Africa",
+      "location": {
+        "label": "Douglas, Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p5/1276/8835/53444836918e6b3c/Picture_11844-11_original.jpg?hash=c20eee5b7ab4662132d154ef649303e89d0355b0d26d4e5f47878d79b57d4a73.1789455599",
+      "alt": "Ellen Jane Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p5/1276/8835/53444836918e6b3c/Picture_11844-11_original.jpg?hash=c20eee5b7ab4662132d154ef649303e89d0355b0d26d4e5f47878d79b57d4a73.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/ae/5d/23/cf/534448507a1d2f5c/record-image__original.jpg?hash=11ba9aa20b58ee270977632a770667fa165e66cd3315e81b771c10c464d5ac77.1789455599",
+        "form": "",
+        "title": "record-image trou_1942 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      922,
+      374
+    ],
+    "spouses": [
+      2304
+    ],
+    "exSpouses": [],
+    "children": [
+      2305,
+      2306,
+      2307,
+      2308,
+      2309
+    ],
+    "siblings": [
+      924,
+      925,
+      926
+    ],
+    "parentUnions": [
+      "F256"
+    ],
+    "spouseUnions": [
+      "F585"
+    ],
+    "parentLinks": [
+      {
+        "id": 922,
+        "unionId": "F256",
+        "type": "biological"
+      },
+      {
+        "id": 374,
+        "unionId": "F256",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2304,
+        "unionId": "F585",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2305,
+        "unionId": "F585",
+        "type": "biological"
+      },
+      {
+        "id": 2306,
+        "unionId": "F585",
+        "type": "biological"
+      },
+      {
+        "id": 2307,
+        "unionId": "F585",
+        "type": "biological"
+      },
+      {
+        "id": 2308,
+        "unionId": "F585",
+        "type": "biological"
+      },
+      {
+        "id": 2309,
+        "unionId": "F585",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002683714863@",
+    "geniId": "6000000002683714863",
+    "rfn": "geni:6000000002683714863",
+    "changed": "23 SEP 2022"
+  },
+  "page": {
+    "route": "people/923/",
+    "canonical": "https://www.genepedia.org/people/923/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

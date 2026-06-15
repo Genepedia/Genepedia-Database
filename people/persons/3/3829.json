@@ -1,0 +1,102 @@
+{
+  "id": 3829,
+  "schema": "genepedia/person@1",
+  "slug": "willem-jacobus-herbert-3829",
+  "names": {
+    "display": "Willem Jacobus Herbert",
+    "given": "Willem Jacobus",
+    "surname": "Herbert",
+    "married": "Herbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1883",
+      "year": 1883,
+      "iso": "1883",
+      "precision": "exact",
+      "display": "1883",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3821,
+      3820
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3822,
+      1444,
+      3823,
+      3824,
+      3825,
+      3826,
+      3827,
+      3828,
+      3830,
+      3831,
+      3832
+    ],
+    "parentUnions": [
+      "F908"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3821,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3820,
+        "unionId": "F908",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208992917825@",
+    "geniId": "6000000208992917825",
+    "rfn": "geni:6000000208992917825",
+    "changed": "13 SEP 2024"
+  },
+  "page": {
+    "route": "people/3829/",
+    "canonical": "https://www.genepedia.org/people/3829/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 3849,
+  "schema": "genepedia/person@1",
+  "slug": "john-william-andrew-stead",
+  "names": {
+    "display": "John William Andrew Stead",
+    "given": "John William Andrew",
+    "surname": "Stead",
+    "married": "Stead",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3848
+    ],
+    "exSpouses": [],
+    "children": [
+      1501
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F914"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3848,
+        "unionId": "F914",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1501,
+        "unionId": "F914",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206612328824@",
+    "geniId": "6000000206612328824",
+    "rfn": "geni:6000000206612328824",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/3849/",
+    "canonical": "https://www.genepedia.org/people/3849/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 2768,
+  "schema": "genepedia/person@1",
+  "slug": "christoffel-johannes-piek",
+  "names": {
+    "display": "Christoffel Johannes Piek",
+    "given": "Christoffel Johannes",
+    "surname": "Piek",
+    "married": "Piek",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 JUL 1891",
+      "year": 1891,
+      "iso": "1891-07-29",
+      "precision": "exact",
+      "display": "July 29, 1891",
+      "place": null
+    },
+    "death": {
+      "date": "1 NOV 1932",
+      "year": 1932,
+      "iso": "1932-11-01",
+      "precision": "exact",
+      "display": "November 1, 1932",
+      "place": "Benoni, Transvaal, South Africa",
+      "location": {
+        "label": "Benoni, Transvaal, South Africa",
+        "placeName": "Benoni, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1122
+    ],
+    "exSpouses": [],
+    "children": [
+      2769
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1715"
+    ],
+    "spouseUnions": [
+      "F685"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1122,
+        "unionId": "F685",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2769,
+        "unionId": "F685",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000202417240827@",
+    "geniId": "6000000202417240827",
+    "rfn": "geni:6000000202417240827",
+    "changed": "25 JAN 2024"
+  },
+  "page": {
+    "route": "people/2768/",
+    "canonical": "https://www.genepedia.org/people/2768/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

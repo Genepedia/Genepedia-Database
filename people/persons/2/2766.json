@@ -1,0 +1,133 @@
+{
+  "id": 2766,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobus-janse-van-vuuren",
+  "names": {
+    "display": "Daniel Jacobus Janse van Vuuren",
+    "given": "Daniel Jacobus Janse",
+    "surname": "van Vuuren",
+    "married": "van Vuuren",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 JAN 1895",
+      "year": 1895,
+      "iso": "1895-01-10",
+      "precision": "exact",
+      "display": "January 10, 1895",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 FEB 1975",
+      "year": 1975,
+      "iso": "1975-02-08",
+      "precision": "exact",
+      "display": "February 8, 1975",
+      "place": "Klerksdorp, North West, South Africa",
+      "location": {
+        "label": "Klerksdorp, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1121
+    ],
+    "exSpouses": [],
+    "children": [
+      2767
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1713"
+    ],
+    "spouseUnions": [
+      "F684"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1121,
+        "unionId": "F684",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2767,
+        "unionId": "F684",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000055520597893@",
+    "geniId": "6000000055520597893",
+    "rfn": "geni:6000000055520597893",
+    "changed": "22 JAN 2021"
+  },
+  "page": {
+    "route": "people/2766/",
+    "canonical": "https://www.genepedia.org/people/2766/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

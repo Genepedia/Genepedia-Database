@@ -1,0 +1,108 @@
+{
+  "id": 4729,
+  "schema": "genepedia/person@1",
+  "slug": "christoffel-wynand-langeveldt",
+  "names": {
+    "display": "Christoffel Wynand Langeveldt",
+    "given": "Christoffel Wynand",
+    "surname": "Langeveldt",
+    "married": "Langeveldt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 MAR 1881",
+      "year": 1881,
+      "iso": "1881-03-21",
+      "precision": "exact",
+      "display": "March 21, 1881",
+      "place": "Nooitgedacht, Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Nooitgedacht, Smithfield, Free State, South Africa",
+        "placeName": "Nooitgedacht",
+        "addressLine1": "District",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1875
+    ],
+    "exSpouses": [],
+    "children": [
+      4730
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1126"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1875,
+        "unionId": "F1126",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4730,
+        "unionId": "F1126",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066274722058@",
+    "geniId": "6000000066274722058",
+    "rfn": "geni:6000000066274722058",
+    "changed": "16 MAR 2019"
+  },
+  "page": {
+    "route": "people/4729/",
+    "canonical": "https://www.genepedia.org/people/4729/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

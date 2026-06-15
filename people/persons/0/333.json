@@ -1,0 +1,243 @@
+{
+  "id": 333,
+  "schema": "genepedia/person@1",
+  "slug": "cecilia-margaretha-bester-333",
+  "names": {
+    "display": "Cecilia Margaretha Bester",
+    "given": "Cecilia Margaretha",
+    "surname": "Bester",
+    "married": "Kleynhans",
+    "nick": "Ousus",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 MAY 1885",
+      "year": 1885,
+      "iso": "1885-05-23",
+      "precision": "exact",
+      "display": "May 23, 1885",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 MAY 1968",
+      "year": 1968,
+      "iso": "1968-05-23",
+      "precision": "exact",
+      "display": "May 23, 1968",
+      "place": "Nooitverwag, Northern Cape, South Africa",
+      "location": {
+        "label": "Nooitverwag, Northern Cape, South Africa",
+        "placeName": "Nooitverwag",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Olifantshoek, Northern Cape, South Africa",
+      "location": {
+        "label": "Olifantshoek, Northern Cape, South Africa",
+        "placeName": "Olifantshoek",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/3c/55/1a/58/534448622f2e8fef/cecilia_margaretha_bester_1885_original.jpg?hash=5b94c188b50c700f29bc3540d68460fa63473d945526add8535184c4d46fad96.1789455599",
+      "alt": "Cecilia Margaretha Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/3c/55/1a/58/534448622f2e8fef/cecilia_margaretha_bester_1885_original.jpg?hash=5b94c188b50c700f29bc3540d68460fa63473d945526add8535184c4d46fad96.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      331,
+      332
+    ],
+    "spouses": [
+      831,
+      840
+    ],
+    "exSpouses": [],
+    "children": [
+      832,
+      833,
+      834,
+      835,
+      836,
+      837,
+      838,
+      839
+    ],
+    "siblings": [
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      129,
+      341,
+      342
+    ],
+    "parentUnions": [
+      "F107"
+    ],
+    "spouseUnions": [
+      "F230",
+      "F231"
+    ],
+    "parentLinks": [
+      {
+        "id": 331,
+        "unionId": "F107",
+        "type": "biological"
+      },
+      {
+        "id": 332,
+        "unionId": "F107",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 831,
+        "unionId": "F230",
+        "role": "husband"
+      },
+      {
+        "id": 840,
+        "unionId": "F231",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 832,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 833,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 834,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 835,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 836,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 837,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 838,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 839,
+        "unionId": "F230",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065161572887@",
+    "geniId": "6000000065161572887",
+    "rfn": "geni:6000000065161572887",
+    "changed": "29 MAY 2025"
+  },
+  "page": {
+    "route": "people/333/",
+    "canonical": "https://www.genepedia.org/people/333/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

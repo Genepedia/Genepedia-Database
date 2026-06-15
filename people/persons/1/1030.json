@@ -1,0 +1,143 @@
+{
+  "id": 1030,
+  "schema": "genepedia/person@1",
+  "slug": "erasmus-stephanus-jacobs-1030",
+  "names": {
+    "display": "Erasmus Stephanus Jacobs",
+    "given": "Erasmus Stephanus",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "Ras",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 APR 1914",
+      "year": 1914,
+      "iso": "1914-04-11",
+      "precision": "exact",
+      "display": "April 11, 1914",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 NOV 1914",
+      "year": 1914,
+      "iso": "1914-11-06",
+      "precision": "exact",
+      "display": "November 6, 1914",
+      "place": "Kimberley",
+      "location": {
+        "label": "Kimberley",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/13/a1/95/8d/53444865c1a1bab9/image_original.jpg?hash=16ec5b3a3d6705d2f3593c07d7d724e98b40489427d5e75bf33dacb342920c3c.1789455599",
+      "alt": "Erasmus Stephanus Jacobs"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/13/a1/95/8d/53444865c1a1bab9/image_original.jpg?hash=16ec5b3a3d6705d2f3593c07d7d724e98b40489427d5e75bf33dacb342920c3c.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1026,
+      1027
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1028,
+      1029,
+      1031,
+      1032,
+      1033,
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      424
+    ],
+    "parentUnions": [
+      "F281"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1026,
+        "unionId": "F281",
+        "type": "biological"
+      },
+      {
+        "id": 1027,
+        "unionId": "F281",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000014387820782@",
+    "geniId": "6000000014387820782",
+    "rfn": "geni:6000000014387820782",
+    "changed": "01 MAY 2024"
+  },
+  "page": {
+    "route": "people/1030/",
+    "canonical": "https://www.genepedia.org/people/1030/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

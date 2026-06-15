@@ -1,0 +1,98 @@
+{
+  "id": 1489,
+  "schema": "genepedia/person@1",
+  "slug": "lezanne-de-beer",
+  "names": {
+    "display": "Lezanne de Beer",
+    "given": "Lezanne",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "2 AUG 1969",
+      "year": 1969,
+      "iso": "1969-08-02",
+      "precision": "exact",
+      "display": "August 2, 1969",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      597
+    ],
+    "exSpouses": [],
+    "children": [
+      1490,
+      1491
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F381"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 597,
+        "unionId": "F381",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1490,
+        "unionId": "F381",
+        "type": "biological"
+      },
+      {
+        "id": 1491,
+        "unionId": "F381",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206611932840@",
+    "geniId": "6000000206611932840",
+    "rfn": "geni:6000000206611932840",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1489/",
+    "canonical": "https://www.genepedia.org/people/1489/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 2263,
+  "schema": "genepedia/person@1",
+  "slug": "a-beyers",
+  "names": {
+    "display": "A Beyers",
+    "given": "A",
+    "surname": "Cloete",
+    "married": "Beyers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2257,
+      914
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2258,
+      2259,
+      2260,
+      2261,
+      2262
+    ],
+    "parentUnions": [
+      "F573"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2257,
+        "unionId": "F573",
+        "type": "biological"
+      },
+      {
+        "id": 914,
+        "unionId": "F573",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052168953056@",
+    "geniId": "6000000052168953056",
+    "rfn": "geni:6000000052168953056",
+    "changed": "20 JUL 2020"
+  },
+  "page": {
+    "route": "people/2263/",
+    "canonical": "https://www.genepedia.org/people/2263/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

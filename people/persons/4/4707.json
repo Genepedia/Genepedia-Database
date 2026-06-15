@@ -1,0 +1,120 @@
+{
+  "id": 4707,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-elizabeth-burger",
+  "names": {
+    "display": "Magdalena Elizabeth Burger",
+    "given": "Magdalena Elizabeth",
+    "surname": "Burger",
+    "married": "Burger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 DEC 1925",
+      "year": 1925,
+      "iso": "1925-12-07",
+      "precision": "exact",
+      "display": "December 7, 1925",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 FEB 1926",
+      "year": 1926,
+      "iso": "1926-02-07",
+      "precision": "exact",
+      "display": "February 7, 1926",
+      "place": "Springfontein, Free State, South Africa",
+      "location": {
+        "label": "Springfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Springfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4702,
+      1869
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4703,
+      4704,
+      4705,
+      4706,
+      4708,
+      4709
+    ],
+    "parentUnions": [
+      "F1122"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4702,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 1869,
+        "unionId": "F1122",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066267044164@",
+    "geniId": "6000000066267044164",
+    "rfn": "geni:6000000066267044164",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/4707/",
+    "canonical": "https://www.genepedia.org/people/4707/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

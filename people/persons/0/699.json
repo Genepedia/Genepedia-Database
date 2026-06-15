@@ -1,0 +1,114 @@
+{
+  "id": 699,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-cornelius-olivier",
+  "names": {
+    "display": "Gerrit Cornelius Olivier",
+    "given": "Gerrit Cornelius",
+    "surname": "Olivier",
+    "married": "Olivier",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "BEF 2000",
+      "year": 2000,
+      "iso": "2000",
+      "precision": "before",
+      "display": "before 2000",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1702
+    ],
+    "spouses": [
+      700
+    ],
+    "exSpouses": [],
+    "children": [
+      281,
+      701,
+      702
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F443"
+    ],
+    "spouseUnions": [
+      "F197"
+    ],
+    "parentLinks": [
+      {
+        "id": 1702,
+        "unionId": "F443",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 700,
+        "unionId": "F197",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 281,
+        "unionId": "F197",
+        "type": "biological"
+      },
+      {
+        "id": 701,
+        "unionId": "F197",
+        "type": "biological"
+      },
+      {
+        "id": 702,
+        "unionId": "F197",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204890920122@",
+    "geniId": "6000000204890920122",
+    "rfn": "geni:6000000204890920122",
+    "changed": "26 JUL 2024"
+  },
+  "page": {
+    "route": "people/699/",
+    "canonical": "https://www.genepedia.org/people/699/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

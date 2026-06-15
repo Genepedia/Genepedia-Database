@@ -1,0 +1,116 @@
+{
+  "id": 1174,
+  "schema": "genepedia/person@1",
+  "slug": "piet-andries-christian-flemming",
+  "names": {
+    "display": "Piet Andries Christian Flemming",
+    "given": "Piet Andries Christian",
+    "surname": "Flemming",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 MAR 1895",
+      "year": 1895,
+      "iso": "1895-03-10",
+      "precision": "exact",
+      "display": "March 10, 1895",
+      "place": "Cape Colony",
+      "location": {
+        "label": "Cape Colony",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1166,
+      1165
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1167,
+      457,
+      1168,
+      1169,
+      1170,
+      1171,
+      1172,
+      1173,
+      1175
+    ],
+    "parentUnions": [
+      "F307"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1166,
+        "unionId": "F307",
+        "type": "biological"
+      },
+      {
+        "id": 1165,
+        "unionId": "F307",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000196492072943@",
+    "geniId": "6000000196492072943",
+    "rfn": "geni:6000000196492072943",
+    "changed": "01 MAY 2025"
+  },
+  "page": {
+    "route": "people/1174/",
+    "canonical": "https://www.genepedia.org/people/1174/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

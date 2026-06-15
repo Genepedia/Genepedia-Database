@@ -1,0 +1,110 @@
+{
+  "id": 574,
+  "schema": "genepedia/person@1",
+  "slug": "adina-margaretha-de-beer",
+  "names": {
+    "display": "Adina Margaretha de Beer",
+    "given": "Adina Margaretha",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 APR 1892",
+      "year": 1892,
+      "iso": "1892-04-02",
+      "precision": "exact",
+      "display": "April 2, 1892",
+      "place": null
+    },
+    "death": {
+      "date": "23 APR 1980",
+      "year": 1980,
+      "iso": "1980-04-23",
+      "precision": "exact",
+      "display": "April 23, 1980",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      563,
+      564
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      214,
+      575,
+      576
+    ],
+    "parentUnions": [
+      "F164"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 563,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 564,
+        "unionId": "F164",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028797907624@",
+    "geniId": "6000000028797907624",
+    "rfn": "geni:6000000028797907624",
+    "changed": "04 JUL 2023"
+  },
+  "page": {
+    "route": "people/574/",
+    "canonical": "https://www.genepedia.org/people/574/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

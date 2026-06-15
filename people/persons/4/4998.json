@@ -1,0 +1,84 @@
+{
+  "id": 4998,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-jacobus-venter-4998",
+  "names": {
+    "display": "Petrus Jacobus Venter",
+    "given": "Petrus Jacobus",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 SEP 1905",
+      "year": 1905,
+      "iso": "1905-09-09",
+      "precision": "exact",
+      "display": "September 9, 1905",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1942
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1187"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1942,
+        "unionId": "F1187",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066995963835@",
+    "geniId": "6000000066995963835",
+    "rfn": "geni:6000000066995963835",
+    "changed": "13 SEP 2017"
+  },
+  "page": {
+    "route": "people/4998/",
+    "canonical": "https://www.genepedia.org/people/4998/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

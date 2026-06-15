@@ -1,0 +1,77 @@
+{
+  "id": 973,
+  "schema": "genepedia/person@1",
+  "slug": "delport",
+  "names": {
+    "display": "? Delport",
+    "given": "?",
+    "surname": "Delport",
+    "married": "Delport",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      396
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F266"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 396,
+        "unionId": "F266",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206588685822@",
+    "geniId": "6000000206588685822",
+    "rfn": "geni:6000000206588685822",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/973/",
+    "canonical": "https://www.genepedia.org/people/973/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

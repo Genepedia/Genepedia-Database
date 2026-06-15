@@ -1,0 +1,121 @@
+{
+  "id": 1245,
+  "schema": "genepedia/person@1",
+  "slug": "erich-engelbrecht",
+  "names": {
+    "display": "Erich Engelbrecht",
+    "given": "Erich",
+    "surname": "Engelbrecht",
+    "married": "Engelbrecht",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/34/1e/fc/8f/5344486629b466f0/screenshot_2024-07-09_151755_original.jpg?hash=f5853840c7d7520a74e28c9e44df3eff066103e8d811cf5b298ee40c736dc0fd.1789455599",
+      "alt": "Erich Engelbrecht"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/34/1e/fc/8f/5344486629b466f0/screenshot_2024-07-09_151755_original.jpg?hash=f5853840c7d7520a74e28c9e44df3eff066103e8d811cf5b298ee40c736dc0fd.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1244,
+      511
+    ],
+    "spouses": [
+      3104
+    ],
+    "exSpouses": [],
+    "children": [
+      3105,
+      3106
+    ],
+    "siblings": [
+      1246
+    ],
+    "parentUnions": [
+      "F325"
+    ],
+    "spouseUnions": [
+      "F769"
+    ],
+    "parentLinks": [
+      {
+        "id": 1244,
+        "unionId": "F325",
+        "type": "biological"
+      },
+      {
+        "id": 511,
+        "unionId": "F325",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3104,
+        "unionId": "F769",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3105,
+        "unionId": "F769",
+        "type": "biological"
+      },
+      {
+        "id": 3106,
+        "unionId": "F769",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207188823822@",
+    "geniId": "6000000207188823822",
+    "rfn": "geni:6000000207188823822",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/1245/",
+    "canonical": "https://www.genepedia.org/people/1245/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

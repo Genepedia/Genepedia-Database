@@ -1,0 +1,151 @@
+{
+  "id": 2167,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-johanna-hibbert",
+  "names": {
+    "display": "Martha Maria Johanna Hibbert",
+    "given": "Martha Maria Johanna",
+    "surname": "Hibbert",
+    "married": "Kirk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 MAY 1889",
+      "year": 1889,
+      "iso": "1889-05-21",
+      "precision": "exact",
+      "display": "May 21, 1889",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "23 JUN 1889",
+      "year": 1889,
+      "iso": "1889-06-23",
+      "precision": "exact",
+      "display": "June 23, 1889",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "Griekwastad",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d9/f3/17/df/534448417807e585/record-image_3qs7-l9sv-l994-3_original.jpg?hash=9d63f4cdf6200e1131a55d6ead7f8733d38167a0997a62dd2457befe42b2c5bd.1789455599",
+      "alt": "Martha Maria Johanna Hibbert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d9/f3/17/df/534448417807e585/record-image_3qs7-l9sv-l994-3_original.jpg?hash=9d63f4cdf6200e1131a55d6ead7f8733d38167a0997a62dd2457befe42b2c5bd.1789455599",
+        "form": "",
+        "title": "record-image_marriage licence .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/39/92/39/3e/53444862b57acbce/record-image__original.jpg?hash=d79851d96eb6cb512813c372d3f66f66928419ea2c7ac65410da1574fa417ff2.1789455599",
+        "form": "",
+        "title": "record-image_doop  .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/7f/e1/02/a6/5344486a0ddc0618/image_original.jpg?hash=47f22e53ed3b333e672b58965f922659851f2c865493e40f031861d59d37c0c4.1789455599",
+        "form": "",
+        "title": "image - trou 1909 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2162,
+      893
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2163,
+      2164,
+      2165,
+      2166,
+      2168,
+      2169,
+      2170,
+      2171,
+      2172
+    ],
+    "parentUnions": [
+      "F556"
+    ],
+    "spouseUnions": [
+      "F1332"
+    ],
+    "parentLinks": [
+      {
+        "id": 2162,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 893,
+        "unionId": "F556",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029612149098@",
+    "geniId": "6000000029612149098",
+    "rfn": "geni:6000000029612149098",
+    "changed": "02 MAR 2023"
+  },
+  "page": {
+    "route": "people/2167/",
+    "canonical": "https://www.genepedia.org/people/2167/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

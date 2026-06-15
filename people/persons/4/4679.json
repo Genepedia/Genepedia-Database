@@ -1,0 +1,178 @@
+{
+  "id": 4679,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-cornelius-pretorius",
+  "names": {
+    "display": "Michiel Cornelius Pretorius",
+    "given": "Michiel Cornelius",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "Michiel Cornelis",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JUL 1878",
+      "year": 1878,
+      "iso": "1878-07-23",
+      "precision": "exact",
+      "display": "July 23, 1878",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 SEP 1954",
+      "year": 1954,
+      "iso": "1954-09-20",
+      "precision": "exact",
+      "display": "September 20, 1954",
+      "place": "Colesberg, South Africa",
+      "location": {
+        "label": "Colesberg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "29 SEP 1878",
+      "year": 1878,
+      "iso": "1878-09-29",
+      "precision": "exact",
+      "display": "September 29, 1878",
+      "place": "Colesberg, South Africa",
+      "location": {
+        "label": "Colesberg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1864
+    ],
+    "exSpouses": [],
+    "children": [
+      4680,
+      4681,
+      4682,
+      4683,
+      4684
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1115"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1864,
+        "unionId": "F1115",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4680,
+        "unionId": "F1115",
+        "type": "biological"
+      },
+      {
+        "id": 4681,
+        "unionId": "F1115",
+        "type": "biological"
+      },
+      {
+        "id": 4682,
+        "unionId": "F1115",
+        "type": "biological"
+      },
+      {
+        "id": 4683,
+        "unionId": "F1115",
+        "type": "biological"
+      },
+      {
+        "id": 4684,
+        "unionId": "F1115",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000040337348911@",
+    "geniId": "6000000040337348911",
+    "rfn": "geni:6000000040337348911",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/4679/",
+    "canonical": "https://www.genepedia.org/people/4679/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

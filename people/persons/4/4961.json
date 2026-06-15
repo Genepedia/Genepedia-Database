@@ -1,0 +1,84 @@
+{
+  "id": 4961,
+  "schema": "genepedia/person@1",
+  "slug": "engelbertus-leonardus-van-der-ryst",
+  "names": {
+    "display": "Engelbertus Leonardus Van Der Ryst",
+    "given": "Engelbertus Leonardus",
+    "surname": "Van Der Ryst",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1881",
+      "year": 1881,
+      "iso": "1881",
+      "precision": "exact",
+      "display": "1881",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1926
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1177"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1926,
+        "unionId": "F1177",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089489035921@",
+    "geniId": "6000000089489035921",
+    "rfn": "geni:6000000089489035921",
+    "changed": "18 MAR 2019"
+  },
+  "page": {
+    "route": "people/4961/",
+    "canonical": "https://www.genepedia.org/people/4961/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

@@ -1,0 +1,119 @@
+{
+  "id": 2337,
+  "schema": "genepedia/person@1",
+  "slug": "leonora-sinden",
+  "names": {
+    "display": "Leonora Sinden",
+    "given": "Leonora",
+    "surname": "Whitlock",
+    "married": "Sinden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/24/17/80/90/534448413336504d/vuv76jup_original.jpg?hash=62f33f930052405b9621a6b896af089ca3fa8faf15130269cdc8b563ba45d363.1789455599",
+      "alt": "Leonora Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/24/17/80/90/534448413336504d/vuv76jup_original.jpg?hash=62f33f930052405b9621a6b896af089ca3fa8faf15130269cdc8b563ba45d363.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/9f/05/01/2d/534448413331c83d/743_46956422577_8959_n_original.jpg?hash=9dd477c3508bb0ee271bac01ec1673865c39325a9be1de1c78dc5fd25dbe3357.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/1f/a0/74/03/5344484133176b65/475786_10151407191197578_2136174462_o_original.jpg?hash=049435573d5c22639aae461258058aa6b8775818d4516e15914000c528eea42b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      932
+    ],
+    "exSpouses": [],
+    "children": [
+      2338,
+      2339
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1445"
+    ],
+    "spouseUnions": [
+      "F591"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 932,
+        "unionId": "F591",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2338,
+        "unionId": "F591",
+        "type": "biological"
+      },
+      {
+        "id": 2339,
+        "unionId": "F591",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028162772306@",
+    "geniId": "6000000028162772306",
+    "rfn": "geni:6000000028162772306",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2337/",
+    "canonical": "https://www.genepedia.org/people/2337/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

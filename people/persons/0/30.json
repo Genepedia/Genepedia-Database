@@ -1,0 +1,125 @@
+{
+  "id": 30,
+  "schema": "genepedia/person@1",
+  "slug": "lelanie-abigail-els",
+  "names": {
+    "display": "Lelanie Abigail Els",
+    "given": "Lelanie Abigail",
+    "surname": "Els",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "AFT 2021",
+      "year": 2021,
+      "iso": "2021",
+      "precision": "after",
+      "display": "after 2021",
+      "place": "Standerton Hospital, Standerton, Mpumalanga, South Africa",
+      "location": {
+        "label": "Standerton Hospital, Standerton, Mpumalanga, South Africa",
+        "placeName": "Standerton Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Standerton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c3/69/64/a5/5344486a105cec6f/screenshot_20260219_000601_original.jpg?hash=819dd74cc2dd4cb56686820fa4cbef0a0ba0c070a84736813f042631097da320.1789455599",
+      "alt": "Lelanie Abigail Els"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c3/69/64/a5/5344486a105cec6f/screenshot_20260219_000601_original.jpg?hash=819dd74cc2dd4cb56686820fa4cbef0a0ba0c070a84736813f042631097da320.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/6a/25/e9/e6/5344486570e28a6f/screenshot_2024-03-14_160537_original.jpg?hash=ef7dd19202013b54c82ceea9e8a747fc4983314d958ad7ad504a314e63b02ed9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      29,
+      5
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F10"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 29,
+        "unionId": "F10",
+        "type": "biological"
+      },
+      {
+        "id": 5,
+        "unionId": "F10",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204062630836@",
+    "geniId": "6000000204062630836",
+    "rfn": "geni:6000000204062630836",
+    "changed": "18 FEB 2026"
+  },
+  "page": {
+    "route": "people/30/",
+    "canonical": "https://www.genepedia.org/people/30/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1238,
+  "schema": "genepedia/person@1",
+  "slug": "visser",
+  "names": {
+    "display": "? Visser",
+    "given": "?",
+    "surname": "Visser",
+    "married": "Visser",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3095
+    ],
+    "spouses": [
+      500
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F765"
+    ],
+    "spouseUnions": [
+      "F321"
+    ],
+    "parentLinks": [
+      {
+        "id": 3095,
+        "unionId": "F765",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 500,
+        "unionId": "F321",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207508567856@",
+    "geniId": "6000000207508567856",
+    "rfn": "geni:6000000207508567856",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/1238/",
+    "canonical": "https://www.genepedia.org/people/1238/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 2350,
+  "schema": "genepedia/person@1",
+  "slug": "may-isabel-fourie",
+  "names": {
+    "display": "May Isabel Fourie",
+    "given": "May Isabel",
+    "surname": "Fourie",
+    "married": "Styger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "13 MAY 1943",
+      "year": 1943,
+      "iso": "1943-05-13",
+      "precision": "exact",
+      "display": "May 13, 1943",
+      "place": "Germiston",
+      "location": {
+        "label": "Germiston",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Germiston",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/4c/73/c1/64/534448671fcc42e5/image_original.jpg?hash=941c611e44826b3a9f449c67af649cec899e68dfdd01dc03ce7806cef7e1bf4f.1789455599",
+      "alt": "May Isabel Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/4c/73/c1/64/534448671fcc42e5/image_original.jpg?hash=941c611e44826b3a9f449c67af649cec899e68dfdd01dc03ce7806cef7e1bf4f.1789455599",
+        "form": "",
+        "title": "record-image_trou 1960  .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      939
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F594"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 939,
+        "unionId": "F594",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000211313832826@",
+    "geniId": "6000000211313832826",
+    "rfn": "geni:6000000211313832826",
+    "changed": "19 NOV 2024"
+  },
+  "page": {
+    "route": "people/2350/",
+    "canonical": "https://www.genepedia.org/people/2350/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

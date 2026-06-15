@@ -1,0 +1,104 @@
+{
+  "id": 2903,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-elizabeth-havenga",
+  "names": {
+    "display": "Johanna Elizabeth Havenga",
+    "given": "Johanna Elizabeth",
+    "surname": "Havenga",
+    "married": "Mead",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 SEP 1895",
+      "year": 1895,
+      "iso": "1895-09-22",
+      "precision": "exact",
+      "display": "September 22, 1895",
+      "place": null
+    },
+    "death": {
+      "date": "29 MAR 1947",
+      "year": 1947,
+      "iso": "1947-03-29",
+      "precision": "exact",
+      "display": "March 29, 1947",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2899,
+      2900
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1159,
+      2901,
+      2902,
+      2904
+    ],
+    "parentUnions": [
+      "F714"
+    ],
+    "spouseUnions": [
+      "F1812"
+    ],
+    "parentLinks": [
+      {
+        "id": 2899,
+        "unionId": "F714",
+        "type": "biological"
+      },
+      {
+        "id": 2900,
+        "unionId": "F714",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052762195902@",
+    "geniId": "6000000052762195902",
+    "rfn": "geni:6000000052762195902",
+    "changed": "18 JAN 2024"
+  },
+  "page": {
+    "route": "people/2903/",
+    "canonical": "https://www.genepedia.org/people/2903/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

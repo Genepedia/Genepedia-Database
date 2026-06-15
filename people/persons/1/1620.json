@@ -1,0 +1,177 @@
+{
+  "id": 1620,
+  "schema": "genepedia/person@1",
+  "slug": "anna-margarietha-griesel",
+  "names": {
+    "display": "Anna Margarietha Griesel",
+    "given": "Anna Margarietha",
+    "surname": "Griesel",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 MAY 1887",
+      "year": 1887,
+      "iso": "1887-05-26",
+      "precision": "exact",
+      "display": "May 26, 1887",
+      "place": "Germiston, Transvaal, South Africa",
+      "location": {
+        "label": "Germiston, Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Germiston",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "6 AUG 1926",
+      "year": 1926,
+      "iso": "1926-08-06",
+      "precision": "exact",
+      "display": "August 6, 1926",
+      "place": "Alberton, Transvaal, South Africa",
+      "location": {
+        "label": "Alberton, Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Alberton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Germiston, Transvaal, South Africa",
+      "location": {
+        "label": "Germiston, Transvaal, South Africa",
+        "placeName": "Germiston, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4288,
+      4287
+    ],
+    "spouses": [
+      650
+    ],
+    "exSpouses": [],
+    "children": [
+      1621
+    ],
+    "siblings": [
+      4289,
+      4290,
+      4291,
+      4292,
+      4293
+    ],
+    "parentUnions": [
+      "F1008"
+    ],
+    "spouseUnions": [
+      "F413"
+    ],
+    "parentLinks": [
+      {
+        "id": 4288,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 4287,
+        "unionId": "F1008",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 650,
+        "unionId": "F413",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1621,
+        "unionId": "F413",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000194474756844@",
+    "geniId": "6000000194474756844",
+    "rfn": "geni:6000000194474756844",
+    "changed": "10 MAY 2023"
+  },
+  "page": {
+    "route": "people/1620/",
+    "canonical": "https://www.genepedia.org/people/1620/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

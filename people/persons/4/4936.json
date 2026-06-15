@@ -1,0 +1,77 @@
+{
+  "id": 4936,
+  "schema": "genepedia/person@1",
+  "slug": "nicolaas-smit",
+  "names": {
+    "display": "Nicolaas Smit",
+    "given": "Nicolaas",
+    "surname": "Smit",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1919
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1171"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1919,
+        "unionId": "F1171",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000112940672166@",
+    "geniId": "6000000112940672166",
+    "rfn": "geni:6000000112940672166",
+    "changed": "20 NOV 2019"
+  },
+  "page": {
+    "route": "people/4936/",
+    "canonical": "https://www.genepedia.org/people/4936/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

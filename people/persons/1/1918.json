@@ -1,0 +1,106 @@
+{
+  "id": 1918,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-magdalena-drotskie",
+  "names": {
+    "display": "Gertruida Magdalena Drotskie",
+    "given": "Gertruida Magdalena",
+    "surname": "Drotskie",
+    "married": "Drotskie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1885",
+      "year": 1885,
+      "iso": "1885",
+      "precision": "about",
+      "display": "about 1885",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1916,
+      817
+    ],
+    "spouses": [
+      4935
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1917,
+      1919,
+      1920,
+      1921,
+      1922
+    ],
+    "parentUnions": [
+      "F506"
+    ],
+    "spouseUnions": [
+      "F1170"
+    ],
+    "parentLinks": [
+      {
+        "id": 1916,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 817,
+        "unionId": "F506",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4935,
+        "unionId": "F1170",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066760906858@",
+    "geniId": "6000000066760906858",
+    "rfn": "geni:6000000066760906858",
+    "changed": "20 NOV 2019"
+  },
+  "page": {
+    "route": "people/1918/",
+    "canonical": "https://www.genepedia.org/people/1918/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

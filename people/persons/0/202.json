@@ -1,0 +1,91 @@
+{
+  "id": 202,
+  "schema": "genepedia/person@1",
+  "slug": "nel-202",
+  "names": {
+    "display": "? Nel",
+    "given": "?",
+    "surname": "Nel",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      203
+    ],
+    "exSpouses": [],
+    "children": [
+      61,
+      204
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F64"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 203,
+        "unionId": "F64",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 61,
+        "unionId": "F64",
+        "type": "biological"
+      },
+      {
+        "id": 204,
+        "unionId": "F64",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207190267846@",
+    "geniId": "6000000207190267846",
+    "rfn": "geni:6000000207190267846",
+    "changed": "09 JUL 2024"
+  },
+  "page": {
+    "route": "people/202/",
+    "canonical": "https://www.genepedia.org/people/202/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

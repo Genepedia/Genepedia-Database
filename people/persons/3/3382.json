@@ -1,0 +1,132 @@
+{
+  "id": 3382,
+  "schema": "genepedia/person@1",
+  "slug": "sophia-marelize",
+  "names": {
+    "display": "Sophia Marelize",
+    "given": "Sophia Marelize",
+    "surname": "Van Taak",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 OCT 1980",
+      "year": 1980,
+      "iso": "1980-10-18",
+      "precision": "exact",
+      "display": "October 18, 1980",
+      "place": "Paarl",
+      "location": {
+        "label": "Paarl",
+        "placeName": "Paarl",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Drakenstein, Paarl",
+      "location": {
+        "label": "Drakenstein, Paarl",
+        "placeName": "Drakenstein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1334,
+      3379
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3380,
+      3381
+    ],
+    "parentUnions": [
+      "F831"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1334,
+        "unionId": "F831",
+        "type": "biological"
+      },
+      {
+        "id": 3379,
+        "unionId": "F831",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020387135497@",
+    "geniId": "6000000020387135497",
+    "rfn": "geni:6000000020387135497",
+    "changed": "19 JUL 2020"
+  },
+  "page": {
+    "route": "people/3382/",
+    "canonical": "https://www.genepedia.org/people/3382/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

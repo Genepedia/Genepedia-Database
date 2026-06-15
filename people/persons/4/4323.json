@@ -1,0 +1,138 @@
+{
+  "id": 4323,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-maria-elizabeth-breytenbach",
+  "names": {
+    "display": "Catharina Maria Elizabeth Breytenbach",
+    "given": "Catharina Maria Elizabeth",
+    "surname": "Breytenbach",
+    "married": "Gouws",
+    "nick": "Gouws",
+    "aliases": [
+      "Catharina Maria Elizabeth Breytenbach"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1869",
+      "year": 1869,
+      "iso": "1869",
+      "precision": "exact",
+      "display": "1869",
+      "place": null
+    },
+    "death": {
+      "date": "21 JUN 1910",
+      "year": 1910,
+      "iso": "1910-06-21",
+      "precision": "exact",
+      "display": "June 21, 1910",
+      "place": "Bethal, South Africa",
+      "location": {
+        "label": "Bethal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bethal",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/7c/0d/25/5d/53444848c952b41a/from-the-archives_medium_original_original.jpg?hash=cfe2c10fa0d02858d7100f2ecbd09578e864fa4e96f5d5b03f55a177fda795b3.1789455599",
+      "alt": "Catharina Maria Elizabeth Breytenbach"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/7c/0d/25/5d/53444848c952b41a/from-the-archives_medium_original_original.jpg?hash=cfe2c10fa0d02858d7100f2ecbd09578e864fa4e96f5d5b03f55a177fda795b3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4318,
+      4317
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4319,
+      4320,
+      4321,
+      4322,
+      1636,
+      4324,
+      4325,
+      4326,
+      4327,
+      4328
+    ],
+    "parentUnions": [
+      "F1016"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4318,
+        "unionId": "F1016",
+        "type": "biological"
+      },
+      {
+        "id": 4317,
+        "unionId": "F1016",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000081014976075@",
+    "geniId": "6000000081014976075",
+    "rfn": "geni:6000000081014976075",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/4323/",
+    "canonical": "https://www.genepedia.org/people/4323/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

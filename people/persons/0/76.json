@@ -1,0 +1,133 @@
+{
+  "id": 76,
+  "schema": "genepedia/person@1",
+  "slug": "jj-van-niekerk",
+  "names": {
+    "display": "JJ Van Niekerk",
+    "given": "JJ",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "21 MAY 2023",
+      "year": 2023,
+      "iso": "2023-05-21",
+      "precision": "exact",
+      "display": "May 21, 2023",
+      "place": "Bloemfontein, FS, South Africa",
+      "location": {
+        "label": "Bloemfontein, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Bloemfontein, Free-State, South Africa",
+  "lastResidenceLocation": {
+    "label": "Bloemfontein, Free-State, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Bloemfontein",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Free-State",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/93/89/ed/63/534448656fcb26f5/screenshot_2024-03-14_011808_original.jpg?hash=a213db2a339ce02c72629bd432d0562a2a9ac103713ae311714819c3daf98301.1789455599",
+      "alt": "JJ Van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/93/89/ed/63/534448656fcb26f5/screenshot_2024-03-14_011808_original.jpg?hash=a213db2a339ce02c72629bd432d0562a2a9ac103713ae311714819c3daf98301.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      18,
+      75
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F26"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 18,
+        "unionId": "F26",
+        "type": "biological"
+      },
+      {
+        "id": 75,
+        "unionId": "F26",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204062240821@",
+    "geniId": "6000000204062240821",
+    "rfn": "geni:6000000204062240821",
+    "changed": "18 JUL 2024"
+  },
+  "page": {
+    "route": "people/76/",
+    "canonical": "https://www.genepedia.org/people/76/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

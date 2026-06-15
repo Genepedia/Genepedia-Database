@@ -1,0 +1,99 @@
+{
+  "id": 3042,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-stefanus-vermaak-twin",
+  "names": {
+    "display": "Petrus Stefanus Vermaak Twin",
+    "given": "Petrus Stefanus",
+    "surname": "Vermaak",
+    "married": "Vermaak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 JAN 1982",
+      "year": 1982,
+      "iso": "1982-01-18",
+      "precision": "exact",
+      "display": "January 18, 1982",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 FEB 1982",
+      "year": 1982,
+      "iso": "1982-02-07",
+      "precision": "exact",
+      "display": "February 7, 1982",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3041,
+      1216
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3043
+    ],
+    "parentUnions": [
+      "F745"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3041,
+        "unionId": "F745",
+        "type": "biological"
+      },
+      {
+        "id": 1216,
+        "unionId": "F745",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216152911867@",
+    "geniId": "6000000216152911867",
+    "rfn": "geni:6000000216152911867",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/3042/",
+    "canonical": "https://www.genepedia.org/people/3042/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

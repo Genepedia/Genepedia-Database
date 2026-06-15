@@ -1,0 +1,133 @@
+{
+  "id": 498,
+  "schema": "genepedia/person@1",
+  "slug": "lambertus-fourie",
+  "names": {
+    "display": "Lambertus Fourie",
+    "given": "Lambertus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "Lambert",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 APR 1949",
+      "year": 1949,
+      "iso": "1949-04-18",
+      "precision": "exact",
+      "display": "April 18, 1949",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e0/58/92/a1/534448663cc45014/61146562_103074060947999_897978924590432256_n_original.jpg?hash=b87721b0c0fee6226228c13ba6afe1165928a34e43ae083f8c564bbfb844c190.1789455599",
+      "alt": "Lambertus Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e0/58/92/a1/534448663cc45014/61146562_103074060947999_897978924590432256_n_original.jpg?hash=b87721b0c0fee6226228c13ba6afe1165928a34e43ae083f8c564bbfb844c190.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      175,
+      494
+    ],
+    "spouses": [
+      1231
+    ],
+    "exSpouses": [],
+    "children": [
+      1232,
+      1233
+    ],
+    "siblings": [
+      495,
+      496,
+      497,
+      499,
+      500,
+      501
+    ],
+    "parentUnions": [
+      "F143"
+    ],
+    "spouseUnions": [
+      "F319"
+    ],
+    "parentLinks": [
+      {
+        "id": 175,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 494,
+        "unionId": "F143",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1231,
+        "unionId": "F319",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1232,
+        "unionId": "F319",
+        "type": "biological"
+      },
+      {
+        "id": 1233,
+        "unionId": "F319",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204078176858@",
+    "geniId": "6000000204078176858",
+    "rfn": "geni:6000000204078176858",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/498/",
+    "canonical": "https://www.genepedia.org/people/498/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 841,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-gerhardus-kruger",
+  "names": {
+    "display": "Petrus Gerhardus Kruger",
+    "given": "Petrus Gerhardus",
+    "surname": "Kruger",
+    "married": "Kruger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 MAY 1887",
+      "year": 1887,
+      "iso": "1887-05-27",
+      "precision": "exact",
+      "display": "May 27, 1887",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      334,
+      1933
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F232",
+      "F531"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 334,
+        "unionId": "F232",
+        "role": "partner"
+      },
+      {
+        "id": 1933,
+        "unionId": "F531",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066838223919@",
+    "geniId": "6000000066838223919",
+    "rfn": "geni:6000000066838223919",
+    "changed": "10 SEP 2017"
+  },
+  "page": {
+    "route": "people/841/",
+    "canonical": "https://www.genepedia.org/people/841/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

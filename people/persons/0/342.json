@@ -1,0 +1,138 @@
+{
+  "id": 342,
+  "schema": "genepedia/person@1",
+  "slug": "jan-frederick-bester",
+  "names": {
+    "display": "Jan Frederick Bester",
+    "given": "Jan Frederick",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JAN 1910",
+      "year": 1910,
+      "iso": "1910-01-23",
+      "precision": "exact",
+      "display": "January 23, 1910",
+      "place": null
+    },
+    "death": {
+      "date": "4 JAN 1970",
+      "year": 1970,
+      "iso": "1970-01-04",
+      "precision": "exact",
+      "display": "January 4, 1970",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      331,
+      332
+    ],
+    "spouses": [
+      866
+    ],
+    "exSpouses": [],
+    "children": [
+      867,
+      868,
+      869
+    ],
+    "siblings": [
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      129,
+      341
+    ],
+    "parentUnions": [
+      "F107"
+    ],
+    "spouseUnions": [
+      "F241"
+    ],
+    "parentLinks": [
+      {
+        "id": 331,
+        "unionId": "F107",
+        "type": "biological"
+      },
+      {
+        "id": 332,
+        "unionId": "F107",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 866,
+        "unionId": "F241",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 867,
+        "unionId": "F241",
+        "type": "biological"
+      },
+      {
+        "id": 868,
+        "unionId": "F241",
+        "type": "biological"
+      },
+      {
+        "id": 869,
+        "unionId": "F241",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065161540950@",
+    "geniId": "6000000065161540950",
+    "rfn": "geni:6000000065161540950",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/342/",
+    "canonical": "https://www.genepedia.org/people/342/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

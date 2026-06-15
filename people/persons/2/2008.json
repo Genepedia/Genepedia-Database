@@ -1,0 +1,77 @@
+{
+  "id": 2008,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-gerber",
+  "names": {
+    "display": "Maria Elizabeth Gerber",
+    "given": "Maria Elizabeth",
+    "surname": "Gerber",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      835
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F522"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 835,
+        "unionId": "F522",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066539402821@",
+    "geniId": "6000000066539402821",
+    "rfn": "geni:6000000066539402821",
+    "changed": "05 SEP 2017"
+  },
+  "page": {
+    "route": "people/2008/",
+    "canonical": "https://www.genepedia.org/people/2008/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

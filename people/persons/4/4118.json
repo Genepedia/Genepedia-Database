@@ -1,0 +1,156 @@
+{
+  "id": 4118,
+  "schema": "genepedia/person@1",
+  "slug": "jan-daniel-mellet-4118",
+  "names": {
+    "display": "Jan Daniel Mellet",
+    "given": "Jan Daniel",
+    "surname": "Mellet",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 APR 1896",
+      "year": 1896,
+      "iso": "1896-04-16",
+      "precision": "exact",
+      "display": "April 16, 1896",
+      "place": null
+    },
+    "death": {
+      "date": "26 JUN 1949",
+      "year": 1949,
+      "iso": "1949-06-26",
+      "precision": "exact",
+      "display": "June 26, 1949",
+      "place": null
+    },
+    "baptism": {
+      "date": "31 MAY 1896",
+      "year": 1896,
+      "iso": "1896-05-31",
+      "precision": "exact",
+      "display": "May 31, 1896",
+      "place": "Klein Boetsap, Witputs, Northern Cape, South Africa",
+      "location": {
+        "label": "Klein Boetsap, Witputs, Northern Cape, South Africa",
+        "placeName": "Klein Boetsap",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Witputs",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Fabersput, Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Fabersput, Douglas, Northern Cape, South Africa",
+        "placeName": "Fabersput",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/0f/fa/08/97/534448468d2e7bbf/r2g12_jd_mellet_original.jpg?hash=71bbad1ef9f9472ce0254854f7db96c2f8beaeb260abdad135a383fca7e90912.1789455599",
+      "alt": "Jan Daniel Mellet"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/0f/fa/08/97/534448468d2e7bbf/r2g12_jd_mellet_original.jpg?hash=71bbad1ef9f9472ce0254854f7db96c2f8beaeb260abdad135a383fca7e90912.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1556,
+      4117
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F952"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1556,
+        "unionId": "F952",
+        "type": "biological"
+      },
+      {
+        "id": 4117,
+        "unionId": "F952",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000071418645914@",
+    "geniId": "6000000071418645914",
+    "rfn": "geni:6000000071418645914",
+    "changed": "14 FEB 2025"
+  },
+  "page": {
+    "route": "people/4118/",
+    "canonical": "https://www.genepedia.org/people/4118/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

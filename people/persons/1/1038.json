@@ -1,0 +1,111 @@
+{
+  "id": 1038,
+  "schema": "genepedia/person@1",
+  "slug": "magriet-jacobs",
+  "names": {
+    "display": "Magriet Jacobs",
+    "given": "Magriet",
+    "surname": "Jacobs",
+    "married": "Cook",
+    "nick": "Oudste kind",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1026,
+      1027
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      2555
+    ],
+    "siblings": [
+      1028,
+      1029,
+      1030,
+      1031,
+      1032,
+      1033,
+      1034,
+      1035,
+      1036,
+      1037,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      424
+    ],
+    "parentUnions": [
+      "F281"
+    ],
+    "spouseUnions": [
+      "F634"
+    ],
+    "parentLinks": [
+      {
+        "id": 1026,
+        "unionId": "F281",
+        "type": "biological"
+      },
+      {
+        "id": 1027,
+        "unionId": "F281",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 2555,
+        "unionId": "F634",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000014388072794@",
+    "geniId": "6000000014388072794",
+    "rfn": "geni:6000000014388072794",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1038/",
+    "canonical": "https://www.genepedia.org/people/1038/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

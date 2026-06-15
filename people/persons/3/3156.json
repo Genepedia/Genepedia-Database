@@ -1,0 +1,122 @@
+{
+  "id": 3156,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-catharina-cilliers",
+  "names": {
+    "display": "Susanna Catharina Cilliers",
+    "given": "Susanna Catharina",
+    "surname": "Cilliers",
+    "married": "Brits",
+    "nick": "Marais",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1897",
+      "year": 1897,
+      "iso": "1897",
+      "precision": "exact",
+      "display": "1897",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1262
+    ],
+    "exSpouses": [],
+    "children": [
+      3157,
+      3158,
+      3159,
+      3160,
+      3161,
+      3162
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F776"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1262,
+        "unionId": "F776",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3157,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3158,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3159,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3160,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3161,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3162,
+        "unionId": "F776",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000073577983916@",
+    "geniId": "6000000073577983916",
+    "rfn": "geni:6000000073577983916",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3156/",
+    "canonical": "https://www.genepedia.org/people/3156/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

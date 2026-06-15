@@ -1,0 +1,125 @@
+{
+  "id": 223,
+  "schema": "genepedia/person@1",
+  "slug": "samuel-ebenaeser-de-beer",
+  "names": {
+    "display": "Samuel Ebenaeser de Beer",
+    "given": "Samuel Ebenaeser",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "Eben",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "22 MAY 1948",
+      "year": 1948,
+      "iso": "1948-05-22",
+      "precision": "exact",
+      "display": "May 22, 1948",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      214,
+      215
+    ],
+    "spouses": [
+      608
+    ],
+    "exSpouses": [],
+    "children": [
+      609,
+      610
+    ],
+    "siblings": [
+      216,
+      217,
+      66,
+      218,
+      219,
+      220,
+      221,
+      222,
+      224,
+      225
+    ],
+    "parentUnions": [
+      "F69"
+    ],
+    "spouseUnions": [
+      "F171"
+    ],
+    "parentLinks": [
+      {
+        "id": 214,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 215,
+        "unionId": "F69",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 608,
+        "unionId": "F171",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 609,
+        "unionId": "F171",
+        "type": "biological"
+      },
+      {
+        "id": 610,
+        "unionId": "F171",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000205252562880@",
+    "geniId": "6000000205252562880",
+    "rfn": "geni:6000000205252562880",
+    "changed": "23 APR 2024"
+  },
+  "page": {
+    "route": "people/223/",
+    "canonical": "https://www.genepedia.org/people/223/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

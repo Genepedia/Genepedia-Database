@@ -1,0 +1,109 @@
+{
+  "id": 4996,
+  "schema": "genepedia/person@1",
+  "slug": "hester-catharina-bester",
+  "names": {
+    "display": "Hester Catharina Bester",
+    "given": "Hester Catharina",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "16 AUG 1935",
+      "year": 1935,
+      "iso": "1935-08-16",
+      "precision": "exact",
+      "display": "August 16, 1935",
+      "place": "Migdol, North West, South Africa",
+      "location": {
+        "label": "Migdol, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Migdol",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1941,
+      4994
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4995,
+      4997
+    ],
+    "parentUnions": [
+      "F1186"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1941,
+        "unionId": "F1186",
+        "type": "biological"
+      },
+      {
+        "id": 4994,
+        "unionId": "F1186",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066993910894@",
+    "geniId": "6000000066993910894",
+    "rfn": "geni:6000000066993910894",
+    "changed": "13 SEP 2017"
+  },
+  "page": {
+    "route": "people/4996/",
+    "canonical": "https://www.genepedia.org/people/4996/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

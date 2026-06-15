@@ -1,0 +1,101 @@
+{
+  "id": 2395,
+  "schema": "genepedia/person@1",
+  "slug": "jan-jacobus-cloete",
+  "names": {
+    "display": "Jan Jacobus Cloete",
+    "given": "Jan Jacobus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JUN 1907",
+      "year": 1907,
+      "iso": "1907-06-12",
+      "precision": "exact",
+      "display": "June 12, 1907",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      958,
+      2387
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2388,
+      2389,
+      2390,
+      2391,
+      2392,
+      2393,
+      2394,
+      2396
+    ],
+    "parentUnions": [
+      "F603"
+    ],
+    "spouseUnions": [
+      "F1480"
+    ],
+    "parentLinks": [
+      {
+        "id": 958,
+        "unionId": "F603",
+        "type": "biological"
+      },
+      {
+        "id": 2387,
+        "unionId": "F603",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000134959804830@",
+    "geniId": "6000000134959804830",
+    "rfn": "geni:6000000134959804830",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/2395/",
+    "canonical": "https://www.genepedia.org/people/2395/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

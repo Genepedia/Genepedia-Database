@@ -1,0 +1,98 @@
+{
+  "id": 4218,
+  "schema": "genepedia/person@1",
+  "slug": "willem-jacobus-du-plooy",
+  "names": {
+    "display": "Willem Jacobus du Plooy",
+    "given": "Willem Jacobus",
+    "surname": "du Plooy",
+    "married": "du Plooy",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 MAR 1832",
+      "year": 1832,
+      "iso": "1832-03-04",
+      "precision": "exact",
+      "display": "March 4, 1832",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4212,
+      4213
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4214,
+      4215,
+      4216,
+      4217,
+      1601,
+      4219,
+      4220
+    ],
+    "parentUnions": [
+      "F990"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4212,
+        "unionId": "F990",
+        "type": "biological"
+      },
+      {
+        "id": 4213,
+        "unionId": "F990",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000013471392059@",
+    "geniId": "6000000013471392059",
+    "rfn": "geni:6000000013471392059",
+    "changed": "04 MAY 2022"
+  },
+  "page": {
+    "route": "people/4218/",
+    "canonical": "https://www.genepedia.org/people/4218/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

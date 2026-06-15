@@ -1,0 +1,92 @@
+{
+  "id": 2500,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-adriaan-van-der-bank-2500",
+  "names": {
+    "display": "Dirk Adriaan van der Bank",
+    "given": "Dirk Adriaan",
+    "surname": "van der Bank",
+    "married": "van der Bank",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1014,
+      2493
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2494,
+      2495,
+      2496,
+      2497,
+      2498,
+      2499,
+      2501,
+      2502
+    ],
+    "parentUnions": [
+      "F624"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1014,
+        "unionId": "F624",
+        "type": "biological"
+      },
+      {
+        "id": 2493,
+        "unionId": "F624",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000075411618245@",
+    "geniId": "6000000075411618245",
+    "rfn": "geni:6000000075411618245",
+    "changed": "04 FEB 2018"
+  },
+  "page": {
+    "route": "people/2500/",
+    "canonical": "https://www.genepedia.org/people/2500/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

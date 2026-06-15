@@ -1,0 +1,122 @@
+{
+  "id": 2446,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-daniel-jooste",
+  "names": {
+    "display": "Jacobus Daniel Jooste",
+    "given": "Jacobus Daniel",
+    "surname": "Jooste",
+    "married": "Jooste",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 JUL 1814",
+      "year": 1814,
+      "iso": "1814-07-26",
+      "precision": "exact",
+      "display": "July 26, 1814",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "22 NOV 1814",
+      "year": 1814,
+      "iso": "1814-11-22",
+      "precision": "exact",
+      "display": "November 22, 1814",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2438,
+      2437
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2439,
+      2440,
+      2441,
+      2442,
+      2443,
+      2444,
+      2445,
+      1000
+    ],
+    "parentUnions": [
+      "F615"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2438,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2437,
+        "unionId": "F615",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000023180952821@",
+    "geniId": "6000000023180952821",
+    "rfn": "geni:6000000023180952821",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2446/",
+    "canonical": "https://www.genepedia.org/people/2446/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

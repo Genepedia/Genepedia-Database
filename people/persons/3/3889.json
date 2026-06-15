@@ -1,0 +1,121 @@
+{
+  "id": 3889,
+  "schema": "genepedia/person@1",
+  "slug": "schalk-willem-jacobus-lubbe",
+  "names": {
+    "display": "Schalk Willem Jacobus Lubbe",
+    "given": "Schalk Willem Jacobus",
+    "surname": "Lubbe",
+    "married": "Lubbe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 AUG 1869",
+      "year": 1869,
+      "iso": "1869-08-05",
+      "precision": "exact",
+      "display": "August 5, 1869",
+      "place": "Jacobsdal, Orange Free State, South Africa",
+      "location": {
+        "label": "Jacobsdal, Orange Free State, South Africa",
+        "placeName": "Jacobsdal, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 NOV 1940",
+      "year": 1940,
+      "iso": "1940-11-09",
+      "precision": "exact",
+      "display": "November 9, 1940",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Stock Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3888,
+      1524
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3890,
+      3891,
+      3892,
+      3893,
+      3894,
+      3895,
+      3896
+    ],
+    "parentUnions": [
+      "F920"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3888,
+        "unionId": "F920",
+        "type": "biological"
+      },
+      {
+        "id": 1524,
+        "unionId": "F920",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021836381608@",
+    "geniId": "6000000021836381608",
+    "rfn": "geni:6000000021836381608",
+    "changed": "11 MAR 2024"
+  },
+  "page": {
+    "route": "people/3889/",
+    "canonical": "https://www.genepedia.org/people/3889/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

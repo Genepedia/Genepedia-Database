@@ -1,0 +1,203 @@
+{
+  "id": 1088,
+  "schema": "genepedia/person@1",
+  "slug": "frederik-johannes-kotze-1088",
+  "names": {
+    "display": "Frederik Johannes Kotze",
+    "given": "Frederik Johannes",
+    "surname": "Kotze",
+    "married": "Kotze",
+    "nick": "Frederick Johannes",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 OCT 1880",
+      "year": 1880,
+      "iso": "1880-10-06",
+      "precision": "exact",
+      "display": "October 6, 1880",
+      "place": "KIMBERLEY, South Africa",
+      "location": {
+        "label": "KIMBERLEY, South Africa",
+        "placeName": "KIMBERLEY, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 JUL 1966",
+      "year": 1966,
+      "iso": "1966-07-28",
+      "precision": "exact",
+      "display": "July 28, 1966",
+      "place": "Potgietersrus",
+      "location": {
+        "label": "Potgietersrus",
+        "placeName": "Potgietersrus",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1075,
+      431
+    ],
+    "spouses": [
+      2698,
+      2704
+    ],
+    "exSpouses": [],
+    "children": [
+      2699,
+      2700,
+      2701,
+      2702,
+      2703,
+      2705,
+      2706
+    ],
+    "siblings": [
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1087
+    ],
+    "parentUnions": [
+      "F287"
+    ],
+    "spouseUnions": [
+      "F664",
+      "F665"
+    ],
+    "parentLinks": [
+      {
+        "id": 1075,
+        "unionId": "F287",
+        "type": "adopted"
+      },
+      {
+        "id": 431,
+        "unionId": "F287",
+        "type": "adopted"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2698,
+        "unionId": "F664",
+        "role": "partner"
+      },
+      {
+        "id": 2704,
+        "unionId": "F665",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2699,
+        "unionId": "F664",
+        "type": "biological"
+      },
+      {
+        "id": 2700,
+        "unionId": "F664",
+        "type": "biological"
+      },
+      {
+        "id": 2701,
+        "unionId": "F664",
+        "type": "biological"
+      },
+      {
+        "id": 2702,
+        "unionId": "F664",
+        "type": "biological"
+      },
+      {
+        "id": 2703,
+        "unionId": "F664",
+        "type": "biological"
+      },
+      {
+        "id": 2705,
+        "unionId": "F665",
+        "type": "biological"
+      },
+      {
+        "id": 2706,
+        "unionId": "F665",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000069215889823@",
+    "geniId": "6000000069215889823",
+    "rfn": "geni:6000000069215889823",
+    "changed": "02 SEP 2025"
+  },
+  "page": {
+    "route": "people/1088/",
+    "canonical": "https://www.genepedia.org/people/1088/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

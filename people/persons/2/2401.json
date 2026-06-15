@@ -1,0 +1,91 @@
+{
+  "id": 2401,
+  "schema": "genepedia/person@1",
+  "slug": "anna-sucilia-jansen-van-vuuren",
+  "names": {
+    "display": "Anna Sucilia Jansen Van Vuuren",
+    "given": "Anna Sucilia Jansen",
+    "surname": "Van Vuuren",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      974
+    ],
+    "exSpouses": [],
+    "children": [
+      2402,
+      2403
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F607"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 974,
+        "unionId": "F607",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2402,
+        "unionId": "F607",
+        "type": "biological"
+      },
+      {
+        "id": 2403,
+        "unionId": "F607",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000221780700931@",
+    "geniId": "6000000221780700931",
+    "rfn": "geni:6000000221780700931",
+    "changed": "17 OCT 2025"
+  },
+  "page": {
+    "route": "people/2401/",
+    "canonical": "https://www.genepedia.org/people/2401/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": 4115,
+  "schema": "genepedia/person@1",
+  "slug": "profile-4115",
+  "names": {
+    "display": "",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1555,
+      4109
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4110,
+      4111,
+      4112,
+      4113,
+      4114,
+      4116
+    ],
+    "parentUnions": [
+      "F951"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1555,
+        "unionId": "F951",
+        "type": "biological"
+      },
+      {
+        "id": 4109,
+        "unionId": "F951",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000140295964821@",
+    "geniId": "6000000140295964821",
+    "rfn": "geni:6000000140295964821",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/4115/",
+    "canonical": "https://www.genepedia.org/people/4115/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

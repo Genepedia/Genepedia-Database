@@ -1,0 +1,84 @@
+{
+  "id": 1045,
+  "schema": "genepedia/person@1",
+  "slug": "mellet-1045",
+  "names": {
+    "display": "? Mellet",
+    "given": "?",
+    "surname": "Mellet",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BEF 1976",
+      "year": 1976,
+      "iso": "1976",
+      "precision": "before",
+      "display": "before 1976",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      427
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F282"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 427,
+        "unionId": "F282",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000209122377836@",
+    "geniId": "6000000209122377836",
+    "rfn": "geni:6000000209122377836",
+    "changed": "17 SEP 2024"
+  },
+  "page": {
+    "route": "people/1045/",
+    "canonical": "https://www.genepedia.org/people/1045/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": 4265,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-stephanus-henning-4265",
+  "names": {
+    "display": "Hendrik Stephanus Henning",
+    "given": "Hendrik Stephanus",
+    "surname": "Henning",
+    "married": "Henning",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "8 AUG 1930",
+      "year": 1930,
+      "iso": "1930-08-08",
+      "precision": "exact",
+      "display": "August 8, 1930",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4264,
+      1613
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1001"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4264,
+        "unionId": "F1001",
+        "type": "biological"
+      },
+      {
+        "id": 1613,
+        "unionId": "F1001",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000060706023223@",
+    "geniId": "6000000060706023223",
+    "rfn": "geni:6000000060706023223",
+    "changed": "13 JUN 2017"
+  },
+  "page": {
+    "route": "people/4265/",
+    "canonical": "https://www.genepedia.org/people/4265/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

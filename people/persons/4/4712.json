@@ -1,0 +1,191 @@
+{
+  "id": 4712,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-johanna-elizabeth-kruger",
+  "names": {
+    "display": "Cornelia Johanna Elizabeth Kruger",
+    "given": "Cornelia Johanna Elizabeth",
+    "surname": "Kruger",
+    "married": "Duvenhage",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 DEC 1831",
+      "year": 1831,
+      "iso": "1831-12-30",
+      "precision": "exact",
+      "display": "December 30, 1831",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "22 SEP 1889",
+      "year": 1889,
+      "iso": "1889-09-22",
+      "precision": "exact",
+      "display": "September 22, 1889",
+      "place": "Colesberg, South Africa",
+      "location": {
+        "label": "Colesberg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4711
+    ],
+    "exSpouses": [],
+    "children": [
+      4713,
+      4714,
+      1872,
+      4715,
+      4716,
+      4717,
+      4718,
+      4719,
+      4720,
+      4721,
+      4722
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1124"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4711,
+        "unionId": "F1124",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4713,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 4714,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 1872,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 4715,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 4716,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 4717,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 4718,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 4719,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 4720,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 4721,
+        "unionId": "F1124",
+        "type": "biological"
+      },
+      {
+        "id": 4722,
+        "unionId": "F1124",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000019521493041@",
+    "geniId": "6000000019521493041",
+    "rfn": "geni:6000000019521493041",
+    "changed": "11 JUN 2025"
+  },
+  "page": {
+    "route": "people/4712/",
+    "canonical": "https://www.genepedia.org/people/4712/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

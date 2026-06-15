@@ -1,0 +1,178 @@
+{
+  "id": 946,
+  "schema": "genepedia/person@1",
+  "slug": "gert-jacobus-cloete-946",
+  "names": {
+    "display": "Gert Jacobus Cloete",
+    "given": "Gert Jacobus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 JAN 1842",
+      "year": 1842,
+      "iso": "1842-01-11",
+      "precision": "exact",
+      "display": "January 11, 1842",
+      "place": null
+    },
+    "death": {
+      "date": "25 AUG 1930",
+      "year": 1930,
+      "iso": "1930-08-25",
+      "precision": "exact",
+      "display": "August 25, 1930",
+      "place": "Kuruman, Northern Cape, South Africa",
+      "location": {
+        "label": "Kuruman, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kuruman",
+        "postalCode": "8460",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2354,
+      2355
+    ],
+    "spouses": [
+      945
+    ],
+    "exSpouses": [],
+    "children": [
+      947,
+      381,
+      948,
+      949,
+      950,
+      951,
+      952,
+      953
+    ],
+    "siblings": [
+      2356,
+      2357,
+      2358,
+      2359
+    ],
+    "parentUnions": [
+      "F597"
+    ],
+    "spouseUnions": [
+      "F261"
+    ],
+    "parentLinks": [
+      {
+        "id": 2354,
+        "unionId": "F597",
+        "type": "biological"
+      },
+      {
+        "id": 2355,
+        "unionId": "F597",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 945,
+        "unionId": "F261",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 947,
+        "unionId": "F261",
+        "type": "biological"
+      },
+      {
+        "id": 381,
+        "unionId": "F261",
+        "type": "biological"
+      },
+      {
+        "id": 948,
+        "unionId": "F261",
+        "type": "biological"
+      },
+      {
+        "id": 949,
+        "unionId": "F261",
+        "type": "biological"
+      },
+      {
+        "id": 950,
+        "unionId": "F261",
+        "type": "biological"
+      },
+      {
+        "id": 951,
+        "unionId": "F261",
+        "type": "biological"
+      },
+      {
+        "id": 952,
+        "unionId": "F261",
+        "type": "biological"
+      },
+      {
+        "id": 953,
+        "unionId": "F261",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204869400865@",
+    "geniId": "6000000204869400865",
+    "rfn": "geni:6000000204869400865",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/946/",
+    "canonical": "https://www.genepedia.org/people/946/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

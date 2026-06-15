@@ -1,0 +1,125 @@
+{
+  "id": 4617,
+  "schema": "genepedia/person@1",
+  "slug": "jan-louis-theron",
+  "names": {
+    "display": "Jan Louis Theron",
+    "given": "Jan Louis",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1786",
+      "year": 1786,
+      "iso": "1786",
+      "precision": "about",
+      "display": "about 1786",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "6820",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "30 JUL 1786",
+      "year": 1786,
+      "iso": "1786-07-30",
+      "precision": "exact",
+      "display": "July 30, 1786",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4614,
+      4613
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4615,
+      4616,
+      4618,
+      4619,
+      4620,
+      1853,
+      4621,
+      4622,
+      4623,
+      4624,
+      4625
+    ],
+    "parentUnions": [
+      "F1106"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4614,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4613,
+        "unionId": "F1106",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000000728021215@",
+    "geniId": "6000000000728021215",
+    "rfn": "geni:6000000000728021215",
+    "changed": "05 DEC 2018"
+  },
+  "page": {
+    "route": "people/4617/",
+    "canonical": "https://www.genepedia.org/people/4617/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

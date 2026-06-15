@@ -1,0 +1,180 @@
+{
+  "id": 3292,
+  "schema": "genepedia/person@1",
+  "slug": "willem-petrus-lubbe",
+  "names": {
+    "display": "Willem Petrus Lubbe",
+    "given": "Willem Petrus",
+    "surname": "Lubbe",
+    "married": "Lubbe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 OCT 1863",
+      "year": 1863,
+      "iso": "1863-10-05",
+      "precision": "exact",
+      "display": "October 5, 1863",
+      "place": "Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Clanwilliam, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "19 MAR 1950",
+      "year": 1950,
+      "iso": "1950-03-19",
+      "precision": "exact",
+      "display": "March 19, 1950",
+      "place": null
+    },
+    "baptism": {
+      "date": "22 DEC 1863",
+      "year": 1863,
+      "iso": "1863-12-22",
+      "precision": "exact",
+      "display": "December 22, 1863",
+      "place": "Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Clanwilliam, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Main Cemetery, Stellenbosch, Cape Province, South Africa",
+      "location": {
+        "label": "Main Cemetery, Stellenbosch, Cape Province, South Africa",
+        "placeName": "Main Cemetery",
+        "addressLine1": "Onderpapagaai",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Stellenbosch",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/a7/91/7b/6e/5344483ae52be735/2_original.jpg?hash=f3d8c4163404aadb7e6f80848b94c30a7a8a9d60e60c812e6dc8ccdf1053618f.1789455599",
+      "alt": "Willem Petrus Lubbe"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/a7/91/7b/6e/5344483ae52be735/2_original.jpg?hash=f3d8c4163404aadb7e6f80848b94c30a7a8a9d60e60c812e6dc8ccdf1053618f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1305
+    ],
+    "exSpouses": [],
+    "children": [
+      3293,
+      3294
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F808"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1305,
+        "unionId": "F808",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3293,
+        "unionId": "F808",
+        "type": "biological"
+      },
+      {
+        "id": 3294,
+        "unionId": "F808",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020384847051@",
+    "geniId": "6000000020384847051",
+    "rfn": "geni:6000000020384847051",
+    "changed": "30 AUG 2022"
+  },
+  "page": {
+    "route": "people/3292/",
+    "canonical": "https://www.genepedia.org/people/3292/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

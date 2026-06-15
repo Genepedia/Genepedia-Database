@@ -1,0 +1,156 @@
+{
+  "id": 1900,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-johan-bester-jansen-van-rensburg",
+  "names": {
+    "display": "Michiel Johan Bester Jansen van Rensburg",
+    "given": "Michiel Johan Bester",
+    "surname": "Jansen van Rensburg",
+    "married": "Jansen van Rensburg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 JUL 1883",
+      "year": 1883,
+      "iso": "1883-07-28",
+      "precision": "exact",
+      "display": "July 28, 1883",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "2 SEP 1883",
+      "year": 1883,
+      "iso": "1883-09-02",
+      "precision": "exact",
+      "display": "September 2, 1883",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1898,
+      815
+    ],
+    "spouses": [
+      4830
+    ],
+    "exSpouses": [],
+    "children": [
+      4831,
+      4832
+    ],
+    "siblings": [
+      1899,
+      1901
+    ],
+    "parentUnions": [
+      "F501"
+    ],
+    "spouseUnions": [
+      "F1149"
+    ],
+    "parentLinks": [
+      {
+        "id": 1898,
+        "unionId": "F501",
+        "type": "biological"
+      },
+      {
+        "id": 815,
+        "unionId": "F501",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4830,
+        "unionId": "F1149",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4831,
+        "unionId": "F1149",
+        "type": "biological"
+      },
+      {
+        "id": 4832,
+        "unionId": "F1149",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000077407519152@",
+    "geniId": "6000000077407519152",
+    "rfn": "geni:6000000077407519152",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/1900/",
+    "canonical": "https://www.genepedia.org/people/1900/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

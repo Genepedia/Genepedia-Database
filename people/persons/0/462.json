@@ -1,0 +1,103 @@
+{
+  "id": 462,
+  "schema": "genepedia/person@1",
+  "slug": "maria-magdalena-fourie",
+  "names": {
+    "display": "Maria Magdalena Fourie",
+    "given": "Maria Magdalena",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 MAY 1914",
+      "year": 1914,
+      "iso": "1914-05-19",
+      "precision": "exact",
+      "display": "May 19, 1914",
+      "place": null
+    },
+    "death": {
+      "date": "30 JUN 2001",
+      "year": 2001,
+      "iso": "2001-06-30",
+      "precision": "exact",
+      "display": "June 30, 2001",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/a8/b1/75/c6/5344484292d41f8b/daniel_jacobus_fourie_headstone_original.jpg?hash=ed1ccaf96634ba9256acfa18a3829a6d99a367d23f69d832adc55b7dca56e220.1789455599",
+      "alt": "Maria Magdalena Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/a8/b1/75/c6/5344484292d41f8b/daniel_jacobus_fourie_headstone_original.jpg?hash=ed1ccaf96634ba9256acfa18a3829a6d99a367d23f69d832adc55b7dca56e220.1789455599",
+        "form": "",
+        "title": "Daniel Jacobus Fourie",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      170
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F138"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 170,
+        "unionId": "F138",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000054332918838@",
+    "geniId": "6000000054332918838",
+    "rfn": "geni:6000000054332918838",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/462/",
+    "canonical": "https://www.genepedia.org/people/462/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

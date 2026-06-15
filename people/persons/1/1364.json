@@ -1,0 +1,163 @@
+{
+  "id": 1364,
+  "schema": "genepedia/person@1",
+  "slug": "pattre-franken",
+  "names": {
+    "display": "Pattré Franken",
+    "given": "Pattré",
+    "surname": "Franken",
+    "married": "Franken",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 MAR 1966",
+      "year": 1966,
+      "iso": "1966-03-10",
+      "precision": "exact",
+      "display": "March 10, 1966",
+      "place": "Robertson, Western Cape, South Africa",
+      "location": {
+        "label": "Robertson, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Robertson",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "AFT 2000",
+      "year": 2000,
+      "iso": "2000",
+      "precision": "after",
+      "display": "after 2000",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/5e/d2/ca/17/5344486602acb31f/screenshot_2024-06-15_182227_original.jpg?hash=b14fc6dc536991878072b998770fe416d4db1850f979666739153c23b4578378.1789455599",
+      "alt": "Pattré Franken"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/5e/d2/ca/17/5344486602acb31f/screenshot_2024-06-15_182227_original.jpg?hash=b14fc6dc536991878072b998770fe416d4db1850f979666739153c23b4578378.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/5d/64/0b/cd/5344486602abc8c2/screenshot_2024-06-15_182118_original.jpg?hash=c7b2782fbc43e0afa9d11000a9643bdfe9b68c30e8e845db769484e03b9206f7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3444,
+      3445
+    ],
+    "spouses": [
+      555
+    ],
+    "exSpouses": [],
+    "children": [
+      1365,
+      1366
+    ],
+    "siblings": [
+      3446,
+      3447,
+      3448,
+      3449,
+      3450,
+      3451
+    ],
+    "parentUnions": [
+      "F848"
+    ],
+    "spouseUnions": [
+      "F350"
+    ],
+    "parentLinks": [
+      {
+        "id": 3444,
+        "unionId": "F848",
+        "type": "biological"
+      },
+      {
+        "id": 3445,
+        "unionId": "F848",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 555,
+        "unionId": "F350",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1365,
+        "unionId": "F350",
+        "type": "biological"
+      },
+      {
+        "id": 1366,
+        "unionId": "F350",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228050533@",
+    "geniId": "6000000027228050533",
+    "rfn": "geni:6000000027228050533",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1364/",
+    "canonical": "https://www.genepedia.org/people/1364/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

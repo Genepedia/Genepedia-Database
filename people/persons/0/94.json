@@ -1,0 +1,154 @@
+{
+  "id": 94,
+  "schema": "genepedia/person@1",
+  "slug": "dorathia-smith",
+  "names": {
+    "display": "Dorathia Smith",
+    "given": "Dorathia",
+    "surname": "Smith",
+    "married": "Van Der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "22 JAN 1961",
+      "year": 1961,
+      "iso": "1961-01-22",
+      "precision": "exact",
+      "display": "January 22, 1961",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e1/6f/ef/95/53444865766f7847/screenshot_2024-03-17_130807_original.jpg?hash=afd54ba632cf29821f586f305ec56de167dd4d66369e906d374d9680eb037d31.1789455599",
+      "alt": "Dorathia Smith"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e1/6f/ef/95/53444865766f7847/screenshot_2024-03-17_130807_original.jpg?hash=afd54ba632cf29821f586f305ec56de167dd4d66369e906d374d9680eb037d31.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      256,
+      257
+    ],
+    "spouses": [
+      95,
+      96,
+      254
+    ],
+    "exSpouses": [],
+    "children": [
+      29,
+      97,
+      255
+    ],
+    "siblings": [
+      258,
+      259
+    ],
+    "parentUnions": [
+      "F81"
+    ],
+    "spouseUnions": [
+      "F34",
+      "F35",
+      "F80"
+    ],
+    "parentLinks": [
+      {
+        "id": 256,
+        "unionId": "F81",
+        "type": "biological"
+      },
+      {
+        "id": 257,
+        "unionId": "F81",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 95,
+        "unionId": "F34",
+        "role": "partner"
+      },
+      {
+        "id": 96,
+        "unionId": "F35",
+        "role": "partner"
+      },
+      {
+        "id": 254,
+        "unionId": "F80",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 29,
+        "unionId": "F34",
+        "type": "biological"
+      },
+      {
+        "id": 97,
+        "unionId": "F35",
+        "type": "biological"
+      },
+      {
+        "id": 29,
+        "unionId": "F35",
+        "type": "adopted"
+      },
+      {
+        "id": 255,
+        "unionId": "F80",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204178063821@",
+    "geniId": "6000000204178063821",
+    "rfn": "geni:6000000204178063821",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/94/",
+    "canonical": "https://www.genepedia.org/people/94/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

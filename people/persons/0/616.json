@@ -1,0 +1,103 @@
+{
+  "id": 616,
+  "schema": "genepedia/person@1",
+  "slug": "bertie-goodwin",
+  "names": {
+    "display": "Bertie Goodwin",
+    "given": "Bertie",
+    "surname": "Goodwin",
+    "married": "Goodwin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/62/7d/20/1d/534448659f05be91/21765009_149018405699131_142137496751249998_n_original.jpg?hash=8bb974c44f68549c4629f5c36512b643c799b01e045f05510fc6bd350804125f.1789455599",
+      "alt": "Bertie Goodwin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/62/7d/20/1d/534448659f05be91/21765009_149018405699131_142137496751249998_n_original.jpg?hash=8bb974c44f68549c4629f5c36512b643c799b01e045f05510fc6bd350804125f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      617
+    ],
+    "exSpouses": [],
+    "children": [
+      226,
+      618
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F173"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 617,
+        "unionId": "F173",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 226,
+        "unionId": "F173",
+        "type": "biological"
+      },
+      {
+        "id": 618,
+        "unionId": "F173",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204861350836@",
+    "geniId": "6000000204861350836",
+    "rfn": "geni:6000000204861350836",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/616/",
+    "canonical": "https://www.genepedia.org/people/616/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

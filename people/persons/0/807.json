@@ -1,0 +1,115 @@
+{
+  "id": 807,
+  "schema": "genepedia/person@1",
+  "slug": "roelf-du-toit",
+  "names": {
+    "display": "Roelf Du Toit",
+    "given": "Roelf",
+    "surname": "Du Toit",
+    "married": "Du Toit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 JUL 1957",
+      "year": 1957,
+      "iso": "1957-07-09",
+      "precision": "exact",
+      "display": "July 9, 1957",
+      "place": null
+    },
+    "death": {
+      "date": "29 MAR 2024",
+      "year": 2024,
+      "iso": "2024-03-29",
+      "precision": "exact",
+      "display": "March 29, 2024",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1842
+    ],
+    "spouses": [
+      808
+    ],
+    "exSpouses": [],
+    "children": [
+      328,
+      809
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F492"
+    ],
+    "spouseUnions": [
+      "F227"
+    ],
+    "parentLinks": [
+      {
+        "id": 1842,
+        "unionId": "F492",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 808,
+        "unionId": "F227",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 328,
+        "unionId": "F227",
+        "type": "biological"
+      },
+      {
+        "id": 809,
+        "unionId": "F227",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208367931847@",
+    "geniId": "6000000208367931847",
+    "rfn": "geni:6000000208367931847",
+    "changed": "21 AUG 2024"
+  },
+  "page": {
+    "route": "people/807/",
+    "canonical": "https://www.genepedia.org/people/807/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

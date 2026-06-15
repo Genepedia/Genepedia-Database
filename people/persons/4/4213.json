@@ -1,0 +1,196 @@
+{
+  "id": 4213,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-margrita-pelser",
+  "names": {
+    "display": "Anna Maria Margrita Pelser",
+    "given": "Anna Maria Margrita",
+    "surname": "Pelser",
+    "married": "du Plooy",
+    "nick": "Anna Maria Margrieta PELSER",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 MAR 1801",
+      "year": 1801,
+      "iso": "1801-03-04",
+      "precision": "exact",
+      "display": "March 4, 1801",
+      "place": "Cradock, South Africa",
+      "location": {
+        "label": "Cradock, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cradock",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "7 NOV 1864",
+      "year": 1864,
+      "iso": "1864-11-07",
+      "precision": "exact",
+      "display": "November 7, 1864",
+      "place": "Rietpoort, District Albert, South Africa",
+      "location": {
+        "label": "Rietpoort, District Albert, South Africa",
+        "placeName": "Rietpoort, District Albert",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "27 SEP 1801",
+      "year": 1801,
+      "iso": "1801-09-27",
+      "precision": "exact",
+      "display": "September 27, 1801",
+      "place": "Tulbagh, Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4212
+    ],
+    "exSpouses": [],
+    "children": [
+      4214,
+      4215,
+      4216,
+      4217,
+      1601,
+      4218,
+      4219,
+      4220
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F990"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4212,
+        "unionId": "F990",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4214,
+        "unionId": "F990",
+        "type": "biological"
+      },
+      {
+        "id": 4215,
+        "unionId": "F990",
+        "type": "biological"
+      },
+      {
+        "id": 4216,
+        "unionId": "F990",
+        "type": "biological"
+      },
+      {
+        "id": 4217,
+        "unionId": "F990",
+        "type": "biological"
+      },
+      {
+        "id": 1601,
+        "unionId": "F990",
+        "type": "biological"
+      },
+      {
+        "id": 4218,
+        "unionId": "F990",
+        "type": "biological"
+      },
+      {
+        "id": 4219,
+        "unionId": "F990",
+        "type": "biological"
+      },
+      {
+        "id": 4220,
+        "unionId": "F990",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000013471141383@",
+    "geniId": "6000000013471141383",
+    "rfn": "geni:6000000013471141383",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/4213/",
+    "canonical": "https://www.genepedia.org/people/4213/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

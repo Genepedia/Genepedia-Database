@@ -1,0 +1,85 @@
+{
+  "id": 3067,
+  "schema": "genepedia/person@1",
+  "slug": "reichert",
+  "names": {
+    "display": "? Reichert",
+    "given": "?",
+    "surname": "Reichert",
+    "married": "Reichert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3068
+    ],
+    "exSpouses": [],
+    "children": [
+      1227
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F754"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3068,
+        "unionId": "F754",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1227,
+        "unionId": "F754",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222126266994@",
+    "geniId": "6000000222126266994",
+    "rfn": "geni:6000000222126266994",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3067/",
+    "canonical": "https://www.genepedia.org/people/3067/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

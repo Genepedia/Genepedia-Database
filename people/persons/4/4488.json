@@ -1,0 +1,134 @@
+{
+  "id": 4488,
+  "schema": "genepedia/person@1",
+  "slug": "solomon-isaac-sattenstein",
+  "names": {
+    "display": "Solomon Isaac Sattenstein",
+    "given": "Solomon Isaac",
+    "surname": "Sattenstein",
+    "married": "Sattenstein",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 DEC 1889",
+      "year": 1889,
+      "iso": "1889-12-31",
+      "precision": "exact",
+      "display": "December 31, 1889",
+      "place": "Židikai, Telšiai County, Lithuania",
+      "location": {
+        "label": "Židikai, Telšiai County, Lithuania",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Židikai",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Telšiai County",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 NOV 1975",
+      "year": 1975,
+      "iso": "1975-11-20",
+      "precision": "exact",
+      "display": "November 20, 1975",
+      "place": "Montreal, Quebec, Canada",
+      "location": {
+        "label": "Montreal, Quebec, Canada",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Montreal",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Quebec",
+        "country": "Canada",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4487,
+      1750
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4489,
+      4490,
+      4491,
+      4492
+    ],
+    "parentUnions": [
+      "F1064"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4487,
+        "unionId": "F1064",
+        "type": "biological"
+      },
+      {
+        "id": 1750,
+        "unionId": "F1064",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000214982793836@",
+    "geniId": "6000000214982793836",
+    "rfn": "geni:6000000214982793836",
+    "changed": "05 FEB 2025"
+  },
+  "page": {
+    "route": "people/4488/",
+    "canonical": "https://www.genepedia.org/people/4488/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

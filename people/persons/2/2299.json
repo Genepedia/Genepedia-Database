@@ -1,0 +1,132 @@
+{
+  "id": 2299,
+  "schema": "genepedia/person@1",
+  "slug": "philippus-jacobus-cloete",
+  "names": {
+    "display": "Philippus Jacobus Cloete",
+    "given": "Philippus Jacobus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 JUN 1891",
+      "year": 1891,
+      "iso": "1891-06-01",
+      "precision": "exact",
+      "display": "June 1, 1891",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "12 JUL 1891",
+      "year": 1891,
+      "iso": "1891-07-12",
+      "precision": "exact",
+      "display": "July 12, 1891",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/a4/36/01/5b/534448636034bac9/record-image__original.jpg?hash=03f469de3d1241b3c70cfe5ce991b1d5004836a3aeb56aa5df72c7a82a29e933.1789455599",
+      "alt": "Philippus Jacobus Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/a4/36/01/5b/534448636034bac9/record-image__original.jpg?hash=03f469de3d1241b3c70cfe5ce991b1d5004836a3aeb56aa5df72c7a82a29e933.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2297,
+      2296
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2298,
+      2300,
+      922,
+      2301,
+      2302,
+      2303
+    ],
+    "parentUnions": [
+      "F584"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2297,
+        "unionId": "F584",
+        "type": "biological"
+      },
+      {
+        "id": 2296,
+        "unionId": "F584",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000179324252985@",
+    "geniId": "6000000179324252985",
+    "rfn": "geni:6000000179324252985",
+    "changed": "06 JUN 2023"
+  },
+  "page": {
+    "route": "people/2299/",
+    "canonical": "https://www.genepedia.org/people/2299/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

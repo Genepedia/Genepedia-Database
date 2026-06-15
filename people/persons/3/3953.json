@@ -1,0 +1,145 @@
+{
+  "id": 3953,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-susanna-jacobs",
+  "names": {
+    "display": "Johanna Susanna Jacobs",
+    "given": "Johanna Susanna",
+    "surname": "Jacobs",
+    "married": "Barkhuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 DEC 1882",
+      "year": 1882,
+      "iso": "1882-12-26",
+      "precision": "exact",
+      "display": "December 26, 1882",
+      "place": "Orange Free State",
+      "location": {
+        "label": "Orange Free State",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 JAN 1940",
+      "year": 1940,
+      "iso": "1940-01-08",
+      "precision": "exact",
+      "display": "January 8, 1940",
+      "place": "Hospital, Johannesburg, Transvaal, South Africa",
+      "location": {
+        "label": "Hospital, Johannesburg, Transvaal, South Africa",
+        "placeName": "Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1535,
+      3951
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3952,
+      3954,
+      3955,
+      3956,
+      3957,
+      3958,
+      3959,
+      3960,
+      3961,
+      3962,
+      3963,
+      3964,
+      3965,
+      3966,
+      3967
+    ],
+    "parentUnions": [
+      "F930"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1535,
+        "unionId": "F930",
+        "type": "biological"
+      },
+      {
+        "id": 3951,
+        "unionId": "F930",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000175393842554@",
+    "geniId": "6000000175393842554",
+    "rfn": "geni:6000000175393842554",
+    "changed": "09 MAY 2021"
+  },
+  "page": {
+    "route": "people/3953/",
+    "canonical": "https://www.genepedia.org/people/3953/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

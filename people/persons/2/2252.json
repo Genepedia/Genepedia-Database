@@ -1,0 +1,124 @@
+{
+  "id": 2252,
+  "schema": "genepedia/person@1",
+  "slug": "gert-jacobus-roselt-2252",
+  "names": {
+    "display": "Gert Jacobus Roselt",
+    "given": "Gert Jacobus",
+    "surname": "Roselt",
+    "married": "",
+    "nick": "Gert",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 FEB 1956",
+      "year": 1956,
+      "iso": "1956-02-28",
+      "precision": "exact",
+      "display": "February 28, 1956",
+      "place": null
+    },
+    "death": {
+      "date": "9 JUL 1997",
+      "year": 1997,
+      "iso": "1997-07-09",
+      "precision": "exact",
+      "display": "July 9, 1997",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d0/0b/79/86/5344484027d90c45/gert_roselt_original.jpg?hash=718124b5f4686b09b7c4f0d7f9ccb6d34ffea65d9ac7c7281f92b4cc790b71db.1789455599",
+      "alt": "Gert Jacobus Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d0/0b/79/86/5344484027d90c45/gert_roselt_original.jpg?hash=718124b5f4686b09b7c4f0d7f9ccb6d34ffea65d9ac7c7281f92b4cc790b71db.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/20/06/58/16/5344484027f590b8/gert_2_original.jpg?hash=d84613735a5665a0c819e8fe20269f2b9c70fa960fd5733917b190f509f9d153.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      913,
+      2250
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2251,
+      2253,
+      2254,
+      2255,
+      2256
+    ],
+    "parentUnions": [
+      "F572"
+    ],
+    "spouseUnions": [
+      "F1394"
+    ],
+    "parentLinks": [
+      {
+        "id": 913,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2250,
+        "unionId": "F572",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029217721249@",
+    "geniId": "6000000029217721249",
+    "rfn": "geni:6000000029217721249",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2252/",
+    "canonical": "https://www.genepedia.org/people/2252/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

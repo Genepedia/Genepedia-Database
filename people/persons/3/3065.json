@@ -1,0 +1,94 @@
+{
+  "id": 3065,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-wepener",
+  "names": {
+    "display": "Daniel Johannes Wepener",
+    "given": "Daniel Johannes",
+    "surname": "Wepener",
+    "married": "Wepener",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 MAY 1966",
+      "year": 1966,
+      "iso": "1966-05-15",
+      "precision": "exact",
+      "display": "May 15, 1966",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1226
+    ],
+    "exSpouses": [],
+    "children": [
+      3066
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1901"
+    ],
+    "spouseUnions": [
+      "F753"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1226,
+        "unionId": "F753",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3066,
+        "unionId": "F753",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222130976891@",
+    "geniId": "6000000222130976891",
+    "rfn": "geni:6000000222130976891",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3065/",
+    "canonical": "https://www.genepedia.org/people/3065/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

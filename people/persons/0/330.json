@@ -1,0 +1,85 @@
+{
+  "id": 330,
+  "schema": "genepedia/person@1",
+  "slug": "reinhardt-du-toit",
+  "names": {
+    "display": "Reinhardt Du Toit",
+    "given": "Reinhardt",
+    "surname": "Du Toit",
+    "married": "Du Toit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      328,
+      329
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      127
+    ],
+    "parentUnions": [
+      "F106"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 328,
+        "unionId": "F106",
+        "type": "biological"
+      },
+      {
+        "id": 329,
+        "unionId": "F106",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206466334832@",
+    "geniId": "6000000206466334832",
+    "rfn": "geni:6000000206466334832",
+    "changed": "12 JUN 2024"
+  },
+  "page": {
+    "route": "people/330/",
+    "canonical": "https://www.genepedia.org/people/330/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

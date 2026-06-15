@@ -1,0 +1,92 @@
+{
+  "id": 3355,
+  "schema": "genepedia/person@1",
+  "slug": "surene-grobler",
+  "names": {
+    "display": "Surene Grobler",
+    "given": "Surene",
+    "surname": "Van Taak",
+    "married": "Grobler",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 DEC 1977",
+      "year": 1977,
+      "iso": "1977-12-29",
+      "precision": "exact",
+      "display": "December 29, 1977",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1324,
+      3354
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3356
+    ],
+    "parentUnions": [
+      "F823"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1324,
+        "unionId": "F823",
+        "type": "biological"
+      },
+      {
+        "id": 3354,
+        "unionId": "F823",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020384972679@",
+    "geniId": "6000000020384972679",
+    "rfn": "geni:6000000020384972679",
+    "changed": "19 JUN 2020"
+  },
+  "page": {
+    "route": "people/3355/",
+    "canonical": "https://www.genepedia.org/people/3355/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

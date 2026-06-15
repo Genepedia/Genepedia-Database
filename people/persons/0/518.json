@@ -1,0 +1,85 @@
+{
+  "id": 518,
+  "schema": "genepedia/person@1",
+  "slug": "booyens-518",
+  "names": {
+    "display": "? Booyens",
+    "given": "?",
+    "surname": "Booyens",
+    "married": "Booyens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      519
+    ],
+    "exSpouses": [],
+    "children": [
+      188
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F150"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 519,
+        "unionId": "F150",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 188,
+        "unionId": "F150",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000212050240857@",
+    "geniId": "6000000212050240857",
+    "rfn": "geni:6000000212050240857",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/518/",
+    "canonical": "https://www.genepedia.org/people/518/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 4534,
+  "schema": "genepedia/person@1",
+  "slug": "steinberg-4534",
+  "names": {
+    "display": "? Steinberg",
+    "given": "?",
+    "surname": "Steinberg",
+    "married": "Steinberg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4533
+    ],
+    "exSpouses": [],
+    "children": [
+      1780
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1079"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4533,
+        "unionId": "F1079",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1780,
+        "unionId": "F1079",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000223839391826@",
+    "geniId": "6000000223839391826",
+    "rfn": "geni:6000000223839391826",
+    "changed": "12 FEB 2026"
+  },
+  "page": {
+    "route": "people/4534/",
+    "canonical": "https://www.genepedia.org/people/4534/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

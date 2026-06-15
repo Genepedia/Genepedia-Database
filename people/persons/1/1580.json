@@ -1,0 +1,121 @@
+{
+  "id": 1580,
+  "schema": "genepedia/person@1",
+  "slug": "hester-catharina-pretorius-1580",
+  "names": {
+    "display": "Hester Catharina Pretorius",
+    "given": "Hester Catharina",
+    "surname": "Pretorius",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 OCT 1899",
+      "year": 1899,
+      "iso": "1899-10-14",
+      "precision": "exact",
+      "display": "October 14, 1899",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "11 FEB 1900",
+      "year": 1900,
+      "iso": "1900-02-11",
+      "precision": "exact",
+      "display": "February 11, 1900",
+      "place": "Schweizer-Reneke, North West, South Africa",
+      "location": {
+        "label": "Schweizer-Reneke, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Schweizer-Reneke",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1575,
+      1576
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1577,
+      1578,
+      634,
+      1579,
+      1581,
+      1582,
+      1583
+    ],
+    "parentUnions": [
+      "F400"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1575,
+        "unionId": "F400",
+        "type": "biological"
+      },
+      {
+        "id": 1576,
+        "unionId": "F400",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000002781462577@",
+    "geniId": "6000000002781462577",
+    "rfn": "geni:6000000002781462577",
+    "changed": "08 JUL 2025"
+  },
+  "page": {
+    "route": "people/1580/",
+    "canonical": "https://www.genepedia.org/people/1580/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

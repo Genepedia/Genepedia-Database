@@ -1,0 +1,218 @@
+{
+  "id": 1882,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-johanna-elizabeth-bester",
+  "names": {
+    "display": "Cornelia Johanna Elizabeth Bester",
+    "given": "Cornelia Johanna Elizabeth",
+    "surname": "Bester",
+    "married": "De Meillon",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 JAN 1883",
+      "year": 1883,
+      "iso": "1883-01-19",
+      "precision": "exact",
+      "display": "January 19, 1883",
+      "place": null
+    },
+    "death": {
+      "date": "11 SEP 1953",
+      "year": 1953,
+      "iso": "1953-09-11",
+      "precision": "exact",
+      "display": "September 11, 1953",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "1 APR 1883",
+      "year": 1883,
+      "iso": "1883-04-01",
+      "precision": "exact",
+      "display": "April 1, 1883",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/dc/09/9c/5d/534448455c335a23/de_meillon_cornelia_johanna_elizabeth_1883_original.jpg?hash=9ecec292a6be04e4be5f8dec428a672cbe1932ca1b76fbf6371693ea5dc98d8d.1789455599",
+      "alt": "Cornelia Johanna Elizabeth Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/dc/09/9c/5d/534448455c335a23/de_meillon_cornelia_johanna_elizabeth_1883_original.jpg?hash=9ecec292a6be04e4be5f8dec428a672cbe1932ca1b76fbf6371693ea5dc98d8d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      813,
+      1872
+    ],
+    "spouses": [
+      4763
+    ],
+    "exSpouses": [],
+    "children": [
+      4764,
+      4765,
+      4766,
+      4767
+    ],
+    "siblings": [
+      1873,
+      1874,
+      1875,
+      1876,
+      1877,
+      1878,
+      1879,
+      1880,
+      1881
+    ],
+    "parentUnions": [
+      "F497"
+    ],
+    "spouseUnions": [
+      "F1133"
+    ],
+    "parentLinks": [
+      {
+        "id": 813,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1872,
+        "unionId": "F497",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4763,
+        "unionId": "F1133",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4764,
+        "unionId": "F1133",
+        "type": "biological"
+      },
+      {
+        "id": 4765,
+        "unionId": "F1133",
+        "type": "biological"
+      },
+      {
+        "id": 4766,
+        "unionId": "F1133",
+        "type": "biological"
+      },
+      {
+        "id": 4767,
+        "unionId": "F1133",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007385939485@",
+    "geniId": "6000000007385939485",
+    "rfn": "geni:6000000007385939485",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1882/",
+    "canonical": "https://www.genepedia.org/people/1882/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

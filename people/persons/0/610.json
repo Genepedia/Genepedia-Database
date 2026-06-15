@@ -1,0 +1,92 @@
+{
+  "id": 610,
+  "schema": "genepedia/person@1",
+  "slug": "juan-de-beer",
+  "names": {
+    "display": "Juan de Beer",
+    "given": "Juan",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "22 FEB 1982",
+      "year": 1982,
+      "iso": "1982-02-22",
+      "precision": "exact",
+      "display": "February 22, 1982",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      223,
+      608
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      609
+    ],
+    "parentUnions": [
+      "F171"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 223,
+        "unionId": "F171",
+        "type": "biological"
+      },
+      {
+        "id": 608,
+        "unionId": "F171",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206586878911@",
+    "geniId": "6000000206586878911",
+    "rfn": "geni:6000000206586878911",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/610/",
+    "canonical": "https://www.genepedia.org/people/610/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

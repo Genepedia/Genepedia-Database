@@ -1,0 +1,116 @@
+{
+  "id": 1390,
+  "schema": "genepedia/person@1",
+  "slug": "anna-wilhelmina-dorothea-de-beer",
+  "names": {
+    "display": "Anna Wilhelmina Dorothea de Beer",
+    "given": "Anna Wilhelmina Dorothea",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "a2b6c14d11e",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 MAY 1846",
+      "year": 1846,
+      "iso": "1846-05-07",
+      "precision": "exact",
+      "display": "May 7, 1846",
+      "place": "Adendorp, Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Adendorp, Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Adendorp, Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1385,
+      1384
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1386,
+      1387,
+      1388,
+      1389,
+      563,
+      1391,
+      1392,
+      1393,
+      1394
+    ],
+    "parentUnions": [
+      "F358"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1385,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1384,
+        "unionId": "F358",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028574475534@",
+    "geniId": "6000000028574475534",
+    "rfn": "geni:6000000028574475534",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1390/",
+    "canonical": "https://www.genepedia.org/people/1390/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

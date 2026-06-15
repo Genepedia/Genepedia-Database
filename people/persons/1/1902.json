@@ -1,0 +1,100 @@
+{
+  "id": 1902,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-willem-vorster",
+  "names": {
+    "display": "Pieter Willem Vorster",
+    "given": "Pieter Willem",
+    "surname": "Vorster",
+    "married": "Vorster",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "1914",
+      "year": 1914,
+      "iso": "1914",
+      "precision": "exact",
+      "display": "1914",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      815
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F502"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 815,
+        "unionId": "F502",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000201952366875@",
+    "geniId": "6000000201952366875",
+    "rfn": "geni:6000000201952366875",
+    "changed": "21 FEB 2024"
+  },
+  "page": {
+    "route": "people/1902/",
+    "canonical": "https://www.genepedia.org/people/1902/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

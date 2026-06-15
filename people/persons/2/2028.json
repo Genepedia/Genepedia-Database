@@ -1,0 +1,99 @@
+{
+  "id": 2028,
+  "schema": "genepedia/person@1",
+  "slug": "carel-johannes-kleynhans",
+  "names": {
+    "display": "Carel Johannes Kleynhans",
+    "given": "Carel Johannes",
+    "surname": "Kleynhans",
+    "married": "Kleynhans",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 JUN 1896",
+      "year": 1896,
+      "iso": "1896-06-20",
+      "precision": "exact",
+      "display": "June 20, 1896",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      840,
+      2019
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026,
+      2027
+    ],
+    "parentUnions": [
+      "F529"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 840,
+        "unionId": "F529",
+        "type": "biological"
+      },
+      {
+        "id": 2019,
+        "unionId": "F529",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056307800879@",
+    "geniId": "6000000056307800879",
+    "rfn": "geni:6000000056307800879",
+    "changed": "26 MAR 2026"
+  },
+  "page": {
+    "route": "people/2028/",
+    "canonical": "https://www.genepedia.org/people/2028/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

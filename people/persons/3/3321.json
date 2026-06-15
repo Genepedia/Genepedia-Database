@@ -1,0 +1,203 @@
+{
+  "id": 3321,
+  "schema": "genepedia/person@1",
+  "slug": "martha-sophia-maritz",
+  "names": {
+    "display": "Martha Sophia Maritz",
+    "given": "Martha Sophia",
+    "surname": "Maritz",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 AUG 1890",
+      "year": 1890,
+      "iso": "1890-08-20",
+      "precision": "exact",
+      "display": "August 20, 1890",
+      "place": "Brandvlei, Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Brandvlei, Calvinia, Northern Cape, South Africa",
+        "placeName": "Brandvlei",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 OCT 1959",
+      "year": 1959,
+      "iso": "1959-10-08",
+      "precision": "exact",
+      "display": "October 8, 1959",
+      "place": "Aranos, South West Africa",
+      "location": {
+        "label": "Aranos, South West Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aranos",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South West Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Aranos, Hardap, Namibia",
+      "location": {
+        "label": "Aranos, Hardap, Namibia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aranos",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Hardap",
+        "country": "Namibia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d5/ac/34/33/5344483cb3ae0e7b/pat75van_original.jpg?hash=724628ea0a24320c488a88ed0f6fd6446dd205c2f0040b957dc249fcd274a162.1789455599",
+      "alt": "Martha Sophia Maritz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d5/ac/34/33/5344483cb3ae0e7b/pat75van_original.jpg?hash=724628ea0a24320c488a88ed0f6fd6446dd205c2f0040b957dc249fcd274a162.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1311
+    ],
+    "exSpouses": [],
+    "children": [
+      3322,
+      3323,
+      3324,
+      3325,
+      3326,
+      3327,
+      3328
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F814"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1311,
+        "unionId": "F814",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3322,
+        "unionId": "F814",
+        "type": "biological"
+      },
+      {
+        "id": 3323,
+        "unionId": "F814",
+        "type": "biological"
+      },
+      {
+        "id": 3324,
+        "unionId": "F814",
+        "type": "biological"
+      },
+      {
+        "id": 3325,
+        "unionId": "F814",
+        "type": "biological"
+      },
+      {
+        "id": 3326,
+        "unionId": "F814",
+        "type": "biological"
+      },
+      {
+        "id": 3327,
+        "unionId": "F814",
+        "type": "biological"
+      },
+      {
+        "id": 3328,
+        "unionId": "F814",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020483054418@",
+    "geniId": "6000000020483054418",
+    "rfn": "geni:6000000020483054418",
+    "changed": "25 AUG 2022"
+  },
+  "page": {
+    "route": "people/3321/",
+    "canonical": "https://www.genepedia.org/people/3321/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

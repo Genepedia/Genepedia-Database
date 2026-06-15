@@ -1,0 +1,95 @@
+{
+  "id": 2703,
+  "schema": "genepedia/person@1",
+  "slug": "albertus-thomas-kotze",
+  "names": {
+    "display": "Albertus Thomas Kotze",
+    "given": "Albertus Thomas",
+    "surname": "Kotze",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 SEP 1916",
+      "year": 1916,
+      "iso": "1916-09-02",
+      "precision": "exact",
+      "display": "September 2, 1916",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1088,
+      2698
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2699,
+      2700,
+      2701,
+      2702
+    ],
+    "parentUnions": [
+      "F664"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1088,
+        "unionId": "F664",
+        "type": "biological"
+      },
+      {
+        "id": 2698,
+        "unionId": "F664",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000221031262016@",
+    "geniId": "6000000221031262016",
+    "rfn": "geni:6000000221031262016",
+    "changed": "01 SEP 2025"
+  },
+  "page": {
+    "route": "people/2703/",
+    "canonical": "https://www.genepedia.org/people/2703/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

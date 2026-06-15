@@ -1,0 +1,91 @@
+{
+  "id": 163,
+  "schema": "genepedia/person@1",
+  "slug": "andries-van-der-bank",
+  "names": {
+    "display": "Andries Van Der Bank",
+    "given": "Andries",
+    "surname": "Van Der Bank",
+    "married": "Van Der Bank",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      159,
+      158
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      160,
+      44,
+      161,
+      162,
+      164,
+      165,
+      166
+    ],
+    "parentUnions": [
+      "F51"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 159,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 158,
+        "unionId": "F51",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204083587821@",
+    "geniId": "6000000204083587821",
+    "rfn": "geni:6000000204083587821",
+    "changed": "14 MAR 2024"
+  },
+  "page": {
+    "route": "people/163/",
+    "canonical": "https://www.genepedia.org/people/163/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

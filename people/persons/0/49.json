@@ -1,0 +1,120 @@
+{
+  "id": 49,
+  "schema": "genepedia/person@1",
+  "slug": "esmari-roselt",
+  "names": {
+    "display": "Esmari Roselt",
+    "given": "Esmari",
+    "surname": "Roselt",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "21 NOV 2009",
+      "year": 2009,
+      "iso": "2009-11-21",
+      "precision": "exact",
+      "display": "November 21, 2009",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "London, England, United Kingdom",
+  "lastResidenceLocation": {
+    "label": "London, England, United Kingdom",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "London",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "England",
+    "country": "United Kingdom",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ca/0e/3b/73/53444840f0bb83be/11035681_10206408705237661_3661672654425916359_o_original.jpg?hash=8460c17a53d7aca985f32aeac26f78990830d0505eceb3c9ba0b35c709bd861a.1789455599",
+      "alt": "Esmari Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ca/0e/3b/73/53444840f0bb83be/11035681_10206408705237661_3661672654425916359_o_original.jpg?hash=8460c17a53d7aca985f32aeac26f78990830d0505eceb3c9ba0b35c709bd861a.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      8,
+      47
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      48,
+      50
+    ],
+    "parentUnions": [
+      "F16"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 8,
+        "unionId": "F16",
+        "type": "biological"
+      },
+      {
+        "id": 47,
+        "unionId": "F16",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000047318990834@",
+    "geniId": "6000000047318990834",
+    "rfn": "geni:6000000047318990834",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/49/",
+    "canonical": "https://www.genepedia.org/people/49/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,126 @@
+{
+  "id": 2975,
+  "schema": "genepedia/person@1",
+  "slug": "hester-sophia-de-klerk",
+  "names": {
+    "display": "Hester Sophia de Klerk",
+    "given": "Hester Sophia",
+    "surname": "de Klerk",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 OCT 1920",
+      "year": 1920,
+      "iso": "1920-10-21",
+      "precision": "exact",
+      "display": "October 21, 1920",
+      "place": "Niekerkshoop",
+      "location": {
+        "label": "Niekerkshoop",
+        "placeName": "Niekerkshoop",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 JUN 2001",
+      "year": 2001,
+      "iso": "2001-06-09",
+      "precision": "exact",
+      "display": "June 9, 2001",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1182,
+      2974
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2976,
+      2977,
+      2978,
+      2979,
+      2980,
+      2981,
+      2982
+    ],
+    "parentUnions": [
+      "F727"
+    ],
+    "spouseUnions": [
+      "F1862",
+      "F1863",
+      "F1864",
+      "F1865"
+    ],
+    "parentLinks": [
+      {
+        "id": 1182,
+        "unionId": "F727",
+        "type": "biological"
+      },
+      {
+        "id": 2974,
+        "unionId": "F727",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000168646490913@",
+    "geniId": "6000000168646490913",
+    "rfn": "geni:6000000168646490913",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/2975/",
+    "canonical": "https://www.genepedia.org/people/2975/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

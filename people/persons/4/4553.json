@@ -1,0 +1,85 @@
+{
+  "id": 4553,
+  "schema": "genepedia/person@1",
+  "slug": "lurie-4553",
+  "names": {
+    "display": "? Lurie",
+    "given": "?",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1797
+    ],
+    "exSpouses": [],
+    "children": [
+      4554
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1087"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1797,
+        "unionId": "F1087",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4554,
+        "unionId": "F1087",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209506449915@",
+    "geniId": "6000000209506449915",
+    "rfn": "geni:6000000209506449915",
+    "changed": "01 OCT 2024"
+  },
+  "page": {
+    "route": "people/4553/",
+    "canonical": "https://www.genepedia.org/people/4553/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

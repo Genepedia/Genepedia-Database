@@ -1,0 +1,212 @@
+{
+  "id": 1916,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-drotzkie",
+  "names": {
+    "display": "Petrus Johannes Drotzkie",
+    "given": "Petrus Johannes",
+    "surname": "Drotzkie",
+    "married": "Droskie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1863",
+      "year": 1863,
+      "iso": "1863",
+      "precision": "exact",
+      "display": "1863",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "9966",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "13 MAR 1931",
+      "year": 1931,
+      "iso": "1931-03-13",
+      "precision": "exact",
+      "display": "March 13, 1931",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4931,
+      4930
+    ],
+    "spouses": [
+      817
+    ],
+    "exSpouses": [],
+    "children": [
+      1917,
+      1918,
+      1919,
+      1920,
+      1921,
+      1922,
+      4925,
+      4926,
+      4927,
+      4928,
+      4929
+    ],
+    "siblings": [
+      4932,
+      4933,
+      4934
+    ],
+    "parentUnions": [
+      "F1169"
+    ],
+    "spouseUnions": [
+      "F506",
+      "F1168"
+    ],
+    "parentLinks": [
+      {
+        "id": 4931,
+        "unionId": "F1169",
+        "type": "biological"
+      },
+      {
+        "id": 4930,
+        "unionId": "F1169",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 817,
+        "unionId": "F506",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1917,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 1918,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 1919,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 1920,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 1921,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 1922,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 4925,
+        "unionId": "F1168",
+        "type": "biological"
+      },
+      {
+        "id": 4926,
+        "unionId": "F1168",
+        "type": "biological"
+      },
+      {
+        "id": 4927,
+        "unionId": "F1168",
+        "type": "biological"
+      },
+      {
+        "id": 4928,
+        "unionId": "F1168",
+        "type": "biological"
+      },
+      {
+        "id": 4929,
+        "unionId": "F1168",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066760794880@",
+    "geniId": "6000000066760794880",
+    "rfn": "geni:6000000066760794880",
+    "changed": "16 NOV 2019"
+  },
+  "page": {
+    "route": "people/1916/",
+    "canonical": "https://www.genepedia.org/people/1916/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

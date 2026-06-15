@@ -1,0 +1,142 @@
+{
+  "id": 2517,
+  "schema": "genepedia/person@1",
+  "slug": "andries-petrus-burger",
+  "names": {
+    "display": "Andries Petrus Burger",
+    "given": "Andries Petrus",
+    "surname": "Burger",
+    "married": "Burger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 JAN 1868",
+      "year": 1868,
+      "iso": "1868-01-27",
+      "precision": "exact",
+      "display": "January 27, 1868",
+      "place": "Cape Town, Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Town, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 JUN 1914",
+      "year": 1914,
+      "iso": "1914-06-17",
+      "precision": "exact",
+      "display": "June 17, 1914",
+      "place": "Sallomonsfontein, Cape Province, South Africa",
+      "location": {
+        "label": "Sallomonsfontein, Cape Province, South Africa",
+        "placeName": "Sallomonsfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Builder",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2516,
+      1018
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2518,
+      2519,
+      2520,
+      2521,
+      2522,
+      2523,
+      2524,
+      2525,
+      2526,
+      2527
+    ],
+    "parentUnions": [
+      "F628"
+    ],
+    "spouseUnions": [
+      "F1542"
+    ],
+    "parentLinks": [
+      {
+        "id": 2516,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 1018,
+        "unionId": "F628",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000172859103409@",
+    "geniId": "6000000172859103409",
+    "rfn": "geni:6000000172859103409",
+    "changed": "13 NOV 2024"
+  },
+  "page": {
+    "route": "people/2517/",
+    "canonical": "https://www.genepedia.org/people/2517/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

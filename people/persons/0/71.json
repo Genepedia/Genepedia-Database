@@ -1,0 +1,114 @@
+{
+  "id": 71,
+  "schema": "genepedia/person@1",
+  "slug": "ben-venter",
+  "names": {
+    "display": "Ben Venter",
+    "given": "Ben",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "BEF 17 JUN 2017",
+      "year": 2017,
+      "iso": "2017-06-17",
+      "precision": "before",
+      "display": "before June 17, 2017",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      230
+    ],
+    "spouses": [
+      72
+    ],
+    "exSpouses": [],
+    "children": [
+      73,
+      16,
+      74
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F72"
+    ],
+    "spouseUnions": [
+      "F25"
+    ],
+    "parentLinks": [
+      {
+        "id": 230,
+        "unionId": "F72",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 72,
+        "unionId": "F25",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 73,
+        "unionId": "F25",
+        "type": "biological"
+      },
+      {
+        "id": 16,
+        "unionId": "F25",
+        "type": "biological"
+      },
+      {
+        "id": 74,
+        "unionId": "F25",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204891378829@",
+    "geniId": "6000000204891378829",
+    "rfn": "geni:6000000204891378829",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/71/",
+    "canonical": "https://www.genepedia.org/people/71/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

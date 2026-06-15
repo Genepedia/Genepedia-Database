@@ -1,0 +1,128 @@
+{
+  "id": 1763,
+  "schema": "genepedia/person@1",
+  "slug": "edith-louise-arkoff",
+  "names": {
+    "display": "Edith Louise Arkoff",
+    "given": "Edith Louise",
+    "surname": "Arkoff",
+    "married": "Highman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 NOV 1919",
+      "year": 1919,
+      "iso": "1919-11-28",
+      "precision": "exact",
+      "display": "November 28, 1919",
+      "place": "Fort Dodge, IA, United States",
+      "location": {
+        "label": "Fort Dodge, IA, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fort Dodge",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "IA",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 APR 1998",
+      "year": 1998,
+      "iso": "1998-04-16",
+      "precision": "exact",
+      "display": "April 16, 1998",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1761,
+      730
+    ],
+    "spouses": [
+      4502
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1762,
+      1764,
+      1765,
+      1766
+    ],
+    "parentUnions": [
+      "F462"
+    ],
+    "spouseUnions": [
+      "F1069"
+    ],
+    "parentLinks": [
+      {
+        "id": 1761,
+        "unionId": "F462",
+        "type": "biological"
+      },
+      {
+        "id": 730,
+        "unionId": "F462",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4502,
+        "unionId": "F1069",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000011615571652@",
+    "geniId": "6000000011615571652",
+    "rfn": "geni:6000000011615571652",
+    "changed": "07 NOV 2024"
+  },
+  "page": {
+    "route": "people/1763/",
+    "canonical": "https://www.genepedia.org/people/1763/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

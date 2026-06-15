@@ -1,0 +1,97 @@
+{
+  "id": 1650,
+  "schema": "genepedia/person@1",
+  "slug": "deborah-scholly",
+  "names": {
+    "display": "Deborah Scholly",
+    "given": "Deborah",
+    "surname": "Scholly",
+    "married": "Scholly",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/74/de/3d/d4/534448663524702d/screenshot_2024-07-16_221933_original.jpg?hash=f159863f45402eabc193c1584c71c4d65784f7b990af2c283977debc0839e2b5.1789455599",
+      "alt": "Deborah Scholly"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/74/de/3d/d4/534448663524702d/screenshot_2024-07-16_221933_original.jpg?hash=f159863f45402eabc193c1584c71c4d65784f7b990af2c283977debc0839e2b5.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      665
+    ],
+    "exSpouses": [],
+    "children": [
+      1651
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F424"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 665,
+        "unionId": "F424",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1651,
+        "unionId": "F424",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204180690822@",
+    "geniId": "6000000204180690822",
+    "rfn": "geni:6000000204180690822",
+    "changed": "16 JUL 2024"
+  },
+  "page": {
+    "route": "people/1650/",
+    "canonical": "https://www.genepedia.org/people/1650/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

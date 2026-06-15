@@ -1,0 +1,134 @@
+{
+  "id": 3514,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-verheem",
+  "names": {
+    "display": "Catharina Verheem",
+    "given": "Catharina",
+    "surname": "Verheem",
+    "married": "De Bruyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 DEC 1870",
+      "year": 1870,
+      "iso": "1870-12-22",
+      "precision": "exact",
+      "display": "December 22, 1870",
+      "place": "Middelburg, Cape Colony",
+      "location": {
+        "label": "Middelburg, Cape Colony",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Cape Colony",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "12 MAR 1871",
+      "year": 1871,
+      "iso": "1871-03-12",
+      "precision": "exact",
+      "display": "March 12, 1871",
+      "place": "NG Kerk, Middelburg, Cape Colony",
+      "location": {
+        "label": "NG Kerk, Middelburg, Cape Colony",
+        "placeName": "NG Kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Cape Colony",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3511,
+      1387
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3512,
+      3513,
+      3515,
+      3516
+    ],
+    "parentUnions": [
+      "F859"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3511,
+        "unionId": "F859",
+        "type": "biological"
+      },
+      {
+        "id": 1387,
+        "unionId": "F859",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000077487375510@",
+    "geniId": "6000000077487375510",
+    "rfn": "geni:6000000077487375510",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3514/",
+    "canonical": "https://www.genepedia.org/people/3514/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1667,
+  "schema": "genepedia/person@1",
+  "slug": "stanley-john-wright",
+  "names": {
+    "display": "Stanley John Wright",
+    "given": "Stanley John",
+    "surname": "Wright",
+    "married": "Wright",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1903",
+      "year": 1903,
+      "iso": "1903",
+      "precision": "exact",
+      "display": "1903",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Cleaner SAR Durban",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/39/5f/7d/c4/53444866d98ad594/meilhon_wright_marr_25_nov_1924_josephine_mary_theresa_21_b1903_nab_stanley_john_21_b_1903_a_cleaner_sar_at_durban_south_africa_original.jpg?hash=f7c93e8d3dd0ceae0ef7736e9cfa3e316e4029e1de870e04ab50efe8d4ec683f.1789455599",
+      "alt": "Stanley John Wright"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/39/5f/7d/c4/53444866d98ad594/meilhon_wright_marr_25_nov_1924_josephine_mary_theresa_21_b1903_nab_stanley_john_21_b_1903_a_cleaner_sar_at_durban_south_africa_original.jpg?hash=f7c93e8d3dd0ceae0ef7736e9cfa3e316e4029e1de870e04ab50efe8d4ec683f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      672
+    ],
+    "exSpouses": [],
+    "children": [
+      1668
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F432"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 672,
+        "unionId": "F432",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1668,
+        "unionId": "F432",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000059041323413@",
+    "geniId": "6000000059041323413",
+    "rfn": "geni:6000000059041323413",
+    "changed": "21 OCT 2024"
+  },
+  "page": {
+    "route": "people/1667/",
+    "canonical": "https://www.genepedia.org/people/1667/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

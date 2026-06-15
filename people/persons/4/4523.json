@@ -1,0 +1,105 @@
+{
+  "id": 4523,
+  "schema": "genepedia/person@1",
+  "slug": "marie-sophie-auguste-malchin",
+  "names": {
+    "display": "Marie Sophie Auguste Malchin",
+    "given": "Marie Sophie Auguste",
+    "surname": "Malchin",
+    "married": "Krečmanis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1899",
+      "year": 1899,
+      "iso": "1899",
+      "precision": "exact",
+      "display": "1899",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/3f/cb/49/a3/53444868aac5d170/jpg_6__original.jpg?hash=8f7786e913e8154949b2447adfa9f8de54210f99a486662caff65439a763fd5b.1789455599",
+      "alt": "Marie Sophie Auguste Malchin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/3f/cb/49/a3/53444868aac5d170/jpg_6__original.jpg?hash=8f7786e913e8154949b2447adfa9f8de54210f99a486662caff65439a763fd5b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1776,
+      4522
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4524,
+      4525
+    ],
+    "parentUnions": [
+      "F1076"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1776,
+        "unionId": "F1076",
+        "type": "biological"
+      },
+      {
+        "id": 4522,
+        "unionId": "F1076",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000217943285843@",
+    "geniId": "6000000217943285843",
+    "rfn": "geni:6000000217943285843",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/4523/",
+    "canonical": "https://www.genepedia.org/people/4523/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

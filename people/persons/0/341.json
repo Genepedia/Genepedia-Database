@@ -1,0 +1,140 @@
+{
+  "id": 341,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-jacobus-van-der-walt-bester",
+  "names": {
+    "display": "Petrus Jacobus Van der Walt Bester",
+    "given": "Petrus Jacobus Van der Walt",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "Pieter",
+    "aliases": [
+      "Petrus Jacobus Van der Walt Bester"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 APR 1906",
+      "year": 1906,
+      "iso": "1906-04-17",
+      "precision": "exact",
+      "display": "April 17, 1906",
+      "place": null
+    },
+    "death": {
+      "date": "10 JUN 1979",
+      "year": 1979,
+      "iso": "1979-06-10",
+      "precision": "exact",
+      "display": "June 10, 1979",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      331,
+      332
+    ],
+    "spouses": [
+      862
+    ],
+    "exSpouses": [],
+    "children": [
+      863,
+      864,
+      865
+    ],
+    "siblings": [
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      129,
+      342
+    ],
+    "parentUnions": [
+      "F107"
+    ],
+    "spouseUnions": [
+      "F240"
+    ],
+    "parentLinks": [
+      {
+        "id": 331,
+        "unionId": "F107",
+        "type": "biological"
+      },
+      {
+        "id": 332,
+        "unionId": "F107",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 862,
+        "unionId": "F240",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 863,
+        "unionId": "F240",
+        "type": "biological"
+      },
+      {
+        "id": 864,
+        "unionId": "F240",
+        "type": "biological"
+      },
+      {
+        "id": 865,
+        "unionId": "F240",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065160628532@",
+    "geniId": "6000000065160628532",
+    "rfn": "geni:6000000065160628532",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/341/",
+    "canonical": "https://www.genepedia.org/people/341/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

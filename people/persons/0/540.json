@@ -1,0 +1,162 @@
+{
+  "id": 540,
+  "schema": "genepedia/person@1",
+  "slug": "willem-johannes-van-taak",
+  "names": {
+    "display": "Willem Johannes van Taak",
+    "given": "Willem Johannes",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 APR 1902",
+      "year": 1902,
+      "iso": "1902-04-03",
+      "precision": "exact",
+      "display": "April 3, 1902",
+      "place": "Brakfontein, Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Brakfontein, Clanwilliam, Western Cape, South Africa",
+        "placeName": "Brakfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "25 OCT 1977",
+      "year": 1977,
+      "iso": "1977-10-25",
+      "precision": "exact",
+      "display": "October 25, 1977",
+      "place": null
+    },
+    "baptism": {
+      "date": "18 SEP 1902",
+      "year": 1902,
+      "iso": "1902-09-18",
+      "precision": "exact",
+      "display": "September 18, 1902",
+      "place": "Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      538,
+      537
+    ],
+    "spouses": [
+      1317
+    ],
+    "exSpouses": [],
+    "children": [
+      1318
+    ],
+    "siblings": [
+      539,
+      541,
+      210,
+      542,
+      543,
+      544,
+      545
+    ],
+    "parentUnions": [
+      "F159"
+    ],
+    "spouseUnions": [
+      "F339"
+    ],
+    "parentLinks": [
+      {
+        "id": 538,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 537,
+        "unionId": "F159",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1317,
+        "unionId": "F339",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1318,
+        "unionId": "F339",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000049079131191@",
+    "geniId": "6000000049079131191",
+    "rfn": "geni:6000000049079131191",
+    "changed": "13 JAN 2022"
+  },
+  "page": {
+    "route": "people/540/",
+    "canonical": "https://www.genepedia.org/people/540/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

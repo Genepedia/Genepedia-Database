@@ -1,0 +1,141 @@
+{
+  "id": 2130,
+  "schema": "genepedia/person@1",
+  "slug": "phillip-wilhelmus-van-den-berg",
+  "names": {
+    "display": "Phillip Wilhelmus van den Berg",
+    "given": "Phillip Wilhelmus",
+    "surname": "van den Berg",
+    "married": "van den Berg",
+    "nick": "Pieter Willem",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 JUN 1806",
+      "year": 1806,
+      "iso": "1806-06-09",
+      "precision": "exact",
+      "display": "June 9, 1806",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 7 NOV 1850",
+      "year": 1850,
+      "iso": "1850-11-07",
+      "precision": "before",
+      "display": "before November 7, 1850",
+      "place": null
+    },
+    "baptism": {
+      "date": "14 SEP 1806",
+      "year": 1806,
+      "iso": "1806-09-14",
+      "precision": "exact",
+      "display": "September 14, 1806",
+      "place": "Graaff-Reinet, Cape",
+      "location": {
+        "label": "Graaff-Reinet, Cape",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/90/19/96/7a/53444863b50f108d/record-image__original.jpg?hash=a187cf379e0eb2b15e98dfaf4f8698d5337c302357994b509076b00a4f546563.1789455599",
+      "alt": "Phillip Wilhelmus van den Berg"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/90/19/96/7a/53444863b50f108d/record-image__original.jpg?hash=a187cf379e0eb2b15e98dfaf4f8698d5337c302357994b509076b00a4f546563.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2126,
+      2127
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2128,
+      2129,
+      2131,
+      2132,
+      2133,
+      2134,
+      2135,
+      886
+    ],
+    "parentUnions": [
+      "F553"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2126,
+        "unionId": "F553",
+        "type": "biological"
+      },
+      {
+        "id": 2127,
+        "unionId": "F553",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000012669888604@",
+    "geniId": "6000000012669888604",
+    "rfn": "geni:6000000012669888604",
+    "changed": "25 JUL 2023"
+  },
+  "page": {
+    "route": "people/2130/",
+    "canonical": "https://www.genepedia.org/people/2130/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

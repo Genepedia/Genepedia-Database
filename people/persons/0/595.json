@@ -1,0 +1,118 @@
+{
+  "id": 595,
+  "schema": "genepedia/person@1",
+  "slug": "louise-de-beer",
+  "names": {
+    "display": "Louise de Beer",
+    "given": "Louise",
+    "surname": "de Beer",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "22 AUG 1962",
+      "year": 1962,
+      "iso": "1962-08-22",
+      "precision": "exact",
+      "display": "August 22, 1962",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      218,
+      593
+    ],
+    "spouses": [
+      1482
+    ],
+    "exSpouses": [],
+    "children": [
+      1483,
+      1484
+    ],
+    "siblings": [
+      594,
+      596,
+      597
+    ],
+    "parentUnions": [
+      "F167"
+    ],
+    "spouseUnions": [
+      "F379"
+    ],
+    "parentLinks": [
+      {
+        "id": 218,
+        "unionId": "F167",
+        "type": "biological"
+      },
+      {
+        "id": 593,
+        "unionId": "F167",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1482,
+        "unionId": "F379",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1483,
+        "unionId": "F379",
+        "type": "biological"
+      },
+      {
+        "id": 1484,
+        "unionId": "F379",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587835835@",
+    "geniId": "6000000206587835835",
+    "rfn": "geni:6000000206587835835",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/595/",
+    "canonical": "https://www.genepedia.org/people/595/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

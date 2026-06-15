@@ -1,0 +1,200 @@
+{
+  "id": 1531,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-susanna-botha",
+  "names": {
+    "display": "Catharina Susanna Botha",
+    "given": "Catharina Susanna",
+    "surname": "Botha",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 APR 1822",
+      "year": 1822,
+      "iso": "1822-04-15",
+      "precision": "exact",
+      "display": "April 15, 1822",
+      "place": "Cape, Cape Province, South Africa",
+      "location": {
+        "label": "Cape, Cape Province, South Africa",
+        "placeName": "Cape, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "30 NOV 1822",
+      "year": 1822,
+      "iso": "1822-11-30",
+      "precision": "exact",
+      "display": "November 30, 1822",
+      "place": "Uitenhage, Eastern Cape, South Africa",
+      "location": {
+        "label": "Uitenhage, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Uitenhage",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Catharina Susanna Botha"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Family Tree",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3911,
+      3912
+    ],
+    "spouses": [
+      1532
+    ],
+    "exSpouses": [],
+    "children": [
+      1533,
+      1534,
+      1535,
+      1536,
+      1537,
+      1538,
+      623
+    ],
+    "siblings": [
+      3913,
+      3914,
+      3915,
+      3916
+    ],
+    "parentUnions": [
+      "F923"
+    ],
+    "spouseUnions": [
+      "F393"
+    ],
+    "parentLinks": [
+      {
+        "id": 3911,
+        "unionId": "F923",
+        "type": "biological"
+      },
+      {
+        "id": 3912,
+        "unionId": "F923",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1532,
+        "unionId": "F393",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1533,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1534,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1535,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1536,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1537,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1538,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 623,
+        "unionId": "F393",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000014650262259@",
+    "geniId": "6000000014650262259",
+    "rfn": "geni:6000000014650262259",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1531/",
+    "canonical": "https://www.genepedia.org/people/1531/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

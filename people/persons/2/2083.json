@@ -1,0 +1,94 @@
+{
+  "id": 2083,
+  "schema": "genepedia/person@1",
+  "slug": "erica-bester",
+  "names": {
+    "display": "Erica Bester",
+    "given": "Erica",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "12 JAN 1971",
+      "year": 1971,
+      "iso": "1971-01-12",
+      "precision": "exact",
+      "display": "January 12, 1971",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      859,
+      2081
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2082
+    ],
+    "parentUnions": [
+      "F543"
+    ],
+    "spouseUnions": [
+      "F1281"
+    ],
+    "parentLinks": [
+      {
+        "id": 859,
+        "unionId": "F543",
+        "type": "biological"
+      },
+      {
+        "id": 2081,
+        "unionId": "F543",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066591580062@",
+    "geniId": "6000000066591580062",
+    "rfn": "geni:6000000066591580062",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/2083/",
+    "canonical": "https://www.genepedia.org/people/2083/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

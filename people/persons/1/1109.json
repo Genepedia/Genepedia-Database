@@ -1,0 +1,84 @@
+{
+  "id": 1109,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-theron",
+  "names": {
+    "display": "Jacobus Johannes Theron",
+    "given": "Jacobus Johannes",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1856",
+      "year": 1856,
+      "iso": "1856",
+      "precision": "exact",
+      "display": "1856",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      437
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F294"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 437,
+        "unionId": "F294",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027004037617@",
+    "geniId": "6000000027004037617",
+    "rfn": "geni:6000000027004037617",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1109/",
+    "canonical": "https://www.genepedia.org/people/1109/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

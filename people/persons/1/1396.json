@@ -1,0 +1,225 @@
+{
+  "id": 1396,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-jacobus-meintjes",
+  "names": {
+    "display": "Johannes Petrus Jacobus Meintjes",
+    "given": "Johannes Petrus Jacobus",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 OCT 1817",
+      "year": 1817,
+      "iso": "1817-10-14",
+      "precision": "exact",
+      "display": "October 14, 1817",
+      "place": "Cradock, Eastern Cape, South Africa",
+      "location": {
+        "label": "Cradock, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cradock",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "22 NOV 1899",
+      "year": 1899,
+      "iso": "1899-11-22",
+      "precision": "exact",
+      "display": "November 22, 1899",
+      "place": "Aberdeen, Eastern Cape, South Africa",
+      "location": {
+        "label": "Aberdeen, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/01/0f/8d/4f/53444863bdad3db5/meintjes_cecilia_anna_1858_original.jpg?hash=b1107d0c14d05af9f9587132bd4294fda4e91e2c84b3f778fbae16393fd4c453.1789455599",
+      "alt": "Johannes Petrus Jacobus Meintjes"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/01/0f/8d/4f/53444863bdad3db5/meintjes_cecilia_anna_1858_original.jpg?hash=b1107d0c14d05af9f9587132bd4294fda4e91e2c84b3f778fbae16393fd4c453.1789455599",
+        "form": "",
+        "title": "MEINTJES Cecilia Anna 1858.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3571,
+      3570
+    ],
+    "spouses": [
+      1395
+    ],
+    "exSpouses": [],
+    "children": [
+      1397,
+      1398,
+      1399,
+      1400,
+      564,
+      1401,
+      1402,
+      1403,
+      1404,
+      1405
+    ],
+    "siblings": [
+      3572,
+      3573,
+      3574,
+      3575,
+      3576,
+      3577,
+      3578,
+      3579,
+      3580,
+      3581,
+      3582
+    ],
+    "parentUnions": [
+      "F869"
+    ],
+    "spouseUnions": [
+      "F359"
+    ],
+    "parentLinks": [
+      {
+        "id": 3571,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3570,
+        "unionId": "F869",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1395,
+        "unionId": "F359",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1397,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1398,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1399,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1400,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 564,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1401,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1402,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1403,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1404,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1405,
+        "unionId": "F359",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000010556922064@",
+    "geniId": "6000000010556922064",
+    "rfn": "geni:6000000010556922064",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1396/",
+    "canonical": "https://www.genepedia.org/people/1396/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

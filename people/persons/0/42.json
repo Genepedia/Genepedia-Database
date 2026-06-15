@@ -1,0 +1,153 @@
+{
+  "id": 42,
+  "schema": "genepedia/person@1",
+  "slug": "gert-jacobus-roselt-42",
+  "names": {
+    "display": "Gert Jacobus Roselt",
+    "given": "Gert Jacobus",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "Gerrie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 AUG 1960",
+      "year": 1960,
+      "iso": "1960-08-29",
+      "precision": "exact",
+      "display": "August 29, 1960",
+      "place": null
+    },
+    "death": {
+      "date": "5 AUG 2010",
+      "year": 2010,
+      "iso": "2010-08-05",
+      "precision": "exact",
+      "display": "August 5, 2010",
+      "place": "Kuruman, Northern Cape, South Africa",
+      "location": {
+        "label": "Kuruman, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kuruman",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/0c/1e/9a/ee/534448656e9e0526/screenshot_2024-03-13_135953_original.jpg?hash=d5d575384148ca44000b70d88a6c5529302e765433777b502ca460161f11f0c5.1789455599",
+      "alt": "Gert Jacobus Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/0c/1e/9a/ee/534448656e9e0526/screenshot_2024-03-13_135953_original.jpg?hash=d5d575384148ca44000b70d88a6c5529302e765433777b502ca460161f11f0c5.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      40,
+      39
+    ],
+    "spouses": [
+      153
+    ],
+    "exSpouses": [],
+    "children": [
+      154,
+      155
+    ],
+    "siblings": [
+      6,
+      41,
+      43
+    ],
+    "parentUnions": [
+      "F14"
+    ],
+    "spouseUnions": [
+      "F49"
+    ],
+    "parentLinks": [
+      {
+        "id": 40,
+        "unionId": "F14",
+        "type": "biological"
+      },
+      {
+        "id": 39,
+        "unionId": "F14",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 153,
+        "unionId": "F49",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 154,
+        "unionId": "F49",
+        "type": "biological"
+      },
+      {
+        "id": 155,
+        "unionId": "F49",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000046503668746@",
+    "geniId": "6000000046503668746",
+    "rfn": "geni:6000000046503668746",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/42/",
+    "canonical": "https://www.genepedia.org/people/42/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

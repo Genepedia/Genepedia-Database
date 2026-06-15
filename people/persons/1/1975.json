@@ -1,0 +1,193 @@
+{
+  "id": 1975,
+  "schema": "genepedia/person@1",
+  "slug": "hendrina-francina-vorster",
+  "names": {
+    "display": "Hendrina Francina Vorster",
+    "given": "Hendrina Francina",
+    "surname": "Vorster",
+    "married": "van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 JAN 1870",
+      "year": 1870,
+      "iso": "1870-01-20",
+      "precision": "exact",
+      "display": "January 20, 1870",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 JUN 1928",
+      "year": 1928,
+      "iso": "1928-06-08",
+      "precision": "exact",
+      "display": "June 8, 1928",
+      "place": "Redhouse, Eastern Cape, South Africa",
+      "location": {
+        "label": "Redhouse, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Redhouse",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "North End Cemetery, Port Elizabeth, Eastern Cape, South Africa",
+      "location": {
+        "label": "North End Cemetery, Port Elizabeth, Eastern Cape, South Africa",
+        "placeName": "North End Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Elizabeth",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d7/3d/db/67/53444861193f03d8/van_der_walt_hendrina_francina_vorster_1870-1928_amp_h_r_dirkie_1906-1937_original.jpg?hash=7951940043a3110ab50a534ac05f90026280983cec8c0ec717c55866871a1372.1789455599",
+      "alt": "Hendrina Francina Vorster"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d7/3d/db/67/53444861193f03d8/van_der_walt_hendrina_francina_vorster_1870-1928_amp_h_r_dirkie_1906-1937_original.jpg?hash=7951940043a3110ab50a534ac05f90026280983cec8c0ec717c55866871a1372.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      822
+    ],
+    "exSpouses": [],
+    "children": [
+      1976,
+      1977,
+      1978,
+      1979,
+      1980
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1210"
+    ],
+    "spouseUnions": [
+      "F512"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 822,
+        "unionId": "F512",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1976,
+        "unionId": "F512",
+        "type": "biological"
+      },
+      {
+        "id": 1977,
+        "unionId": "F512",
+        "type": "biological"
+      },
+      {
+        "id": 1978,
+        "unionId": "F512",
+        "type": "biological"
+      },
+      {
+        "id": 1979,
+        "unionId": "F512",
+        "type": "biological"
+      },
+      {
+        "id": 1980,
+        "unionId": "F512",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000185438406821@",
+    "geniId": "6000000185438406821",
+    "rfn": "geni:6000000185438406821",
+    "changed": "14 NOV 2022"
+  },
+  "page": {
+    "route": "people/1975/",
+    "canonical": "https://www.genepedia.org/people/1975/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

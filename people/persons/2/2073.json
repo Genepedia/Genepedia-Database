@@ -1,0 +1,142 @@
+{
+  "id": 2073,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-christoffel-pretorius",
+  "names": {
+    "display": "Jacobus Johannes Christoffel Pretorius",
+    "given": "Jacobus Johannes Christoffel",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1925",
+      "year": 1925,
+      "iso": "1925",
+      "precision": "about",
+      "display": "about 1925",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ac/b4/da/dd/534448456f02b8ff/pretorius_jacobus_johannes_christoffel_original.jpg?hash=ac42ea9e4d58fc80609f5e0bf308409ff31fb35327e2644f1c262bf7ff3d64fb.1789455599",
+      "alt": "Jacobus Johannes Christoffel Pretorius"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ac/b4/da/dd/534448456f02b8ff/pretorius_jacobus_johannes_christoffel_original.jpg?hash=ac42ea9e4d58fc80609f5e0bf308409ff31fb35327e2644f1c262bf7ff3d64fb.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      858
+    ],
+    "exSpouses": [],
+    "children": [
+      2074,
+      2075,
+      2076,
+      2077,
+      2078,
+      2079,
+      2080
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1278"
+    ],
+    "spouseUnions": [
+      "F542"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 858,
+        "unionId": "F542",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2074,
+        "unionId": "F542",
+        "type": "biological"
+      },
+      {
+        "id": 2075,
+        "unionId": "F542",
+        "type": "biological"
+      },
+      {
+        "id": 2076,
+        "unionId": "F542",
+        "type": "biological"
+      },
+      {
+        "id": 2077,
+        "unionId": "F542",
+        "type": "biological"
+      },
+      {
+        "id": 2078,
+        "unionId": "F542",
+        "type": "biological"
+      },
+      {
+        "id": 2079,
+        "unionId": "F542",
+        "type": "biological"
+      },
+      {
+        "id": 2080,
+        "unionId": "F542",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066590112960@",
+    "geniId": "6000000066590112960",
+    "rfn": "geni:6000000066590112960",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2073/",
+    "canonical": "https://www.genepedia.org/people/2073/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

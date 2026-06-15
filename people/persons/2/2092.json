@@ -1,0 +1,108 @@
+{
+  "id": 2092,
+  "schema": "genepedia/person@1",
+  "slug": "anna-catharina-van-der-walt",
+  "names": {
+    "display": "Anna Catharina van der Walt",
+    "given": "Anna Catharina",
+    "surname": "van der Walt",
+    "married": "Bowker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1898",
+      "year": 1898,
+      "iso": "1898",
+      "precision": "exact",
+      "display": "1898",
+      "place": null
+    },
+    "death": {
+      "date": "1974",
+      "year": 1974,
+      "iso": "1974",
+      "precision": "exact",
+      "display": "1974",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2086,
+      2087
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2088,
+      2089,
+      2090,
+      2091,
+      2093,
+      2094,
+      862,
+      2095
+    ],
+    "parentUnions": [
+      "F545"
+    ],
+    "spouseUnions": [
+      "F1287"
+    ],
+    "parentLinks": [
+      {
+        "id": 2086,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 2087,
+        "unionId": "F545",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025578780559@",
+    "geniId": "6000000025578780559",
+    "rfn": "geni:6000000025578780559",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2092/",
+    "canonical": "https://www.genepedia.org/people/2092/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

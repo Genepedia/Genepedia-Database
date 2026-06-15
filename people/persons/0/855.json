@@ -1,0 +1,136 @@
+{
+  "id": 855,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-w-van-zyl-bester",
+  "names": {
+    "display": "Johannes W. Van Zyl Bester",
+    "given": "Johannes W. Van Zyl",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 JAN 1943",
+      "year": 1943,
+      "iso": "1943-01-31",
+      "precision": "exact",
+      "display": "January 31, 1943",
+      "place": null
+    },
+    "death": {
+      "date": "7 AUG 1979",
+      "year": 1979,
+      "iso": "1979-08-07",
+      "precision": "exact",
+      "display": "August 7, 1979",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/52/2e/7f/48/534448456d68da9a/bester_johannes_w_original.jpg?hash=467a0ea95adad31bb52b5278bda1ef84e7110deed2bc0fc392389b49469ad283.1789455599",
+      "alt": "Johannes W. Van Zyl Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/52/2e/7f/48/534448456d68da9a/bester_johannes_w_original.jpg?hash=467a0ea95adad31bb52b5278bda1ef84e7110deed2bc0fc392389b49469ad283.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      338,
+      852
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      853,
+      854
+    ],
+    "parentUnions": [
+      "F236"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 338,
+        "unionId": "F236",
+        "type": "biological"
+      },
+      {
+        "id": 852,
+        "unionId": "F236",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066588510874@",
+    "geniId": "6000000066588510874",
+    "rfn": "geni:6000000066588510874",
+    "changed": "25 MAY 2018"
+  },
+  "page": {
+    "route": "people/855/",
+    "canonical": "https://www.genepedia.org/people/855/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

@@ -1,0 +1,131 @@
+{
+  "id": 4029,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-johannes-van-niekerk-4029",
+  "names": {
+    "display": "Pieter Johannes van Niekerk",
+    "given": "Pieter Johannes",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 APR 1870",
+      "year": 1870,
+      "iso": "1870-04-27",
+      "precision": "exact",
+      "display": "April 27, 1870",
+      "place": "Bloemhof, NW, South Africa",
+      "location": {
+        "label": "Bloemhof, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "17 JUL 1870",
+      "year": 1870,
+      "iso": "1870-07-17",
+      "precision": "exact",
+      "display": "July 17, 1870",
+      "place": "Potchefstroom, Transvaal, South Africa",
+      "location": {
+        "label": "Potchefstroom, Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1541,
+      2873
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4028
+    ],
+    "parentUnions": [
+      "F938"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1541,
+        "unionId": "F938",
+        "type": "biological"
+      },
+      {
+        "id": 2873,
+        "unionId": "F938",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000079616703674@",
+    "geniId": "6000000079616703674",
+    "rfn": "geni:6000000079616703674",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/4029/",
+    "canonical": "https://www.genepedia.org/people/4029/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

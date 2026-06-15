@@ -1,0 +1,130 @@
+{
+  "id": 582,
+  "schema": "genepedia/person@1",
+  "slug": "jan-willem-heimrik-augustyn",
+  "names": {
+    "display": "Jan Willem Heimrik Augustyn",
+    "given": "Jan Willem Heimrik",
+    "surname": "Augustyn",
+    "married": "Augustyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 OCT 1893",
+      "year": 1893,
+      "iso": "1893-10-19",
+      "precision": "exact",
+      "display": "October 19, 1893",
+      "place": null
+    },
+    "death": {
+      "date": "9 AUG 1980",
+      "year": 1980,
+      "iso": "1980-08-09",
+      "precision": "exact",
+      "display": "August 9, 1980",
+      "place": null
+    },
+    "baptism": {
+      "date": "27 MAY 1894",
+      "year": 1894,
+      "iso": "1894-05-27",
+      "precision": "exact",
+      "display": "May 27, 1894",
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      577,
+      578
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      579,
+      580,
+      581,
+      583,
+      584,
+      585,
+      586,
+      587,
+      215
+    ],
+    "parentUnions": [
+      "F165"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 577,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 578,
+        "unionId": "F165",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000076304788988@",
+    "geniId": "6000000076304788988",
+    "rfn": "geni:6000000076304788988",
+    "changed": "06 SEP 2020"
+  },
+  "page": {
+    "route": "people/582/",
+    "canonical": "https://www.genepedia.org/people/582/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

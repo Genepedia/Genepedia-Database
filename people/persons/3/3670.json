@@ -1,0 +1,121 @@
+{
+  "id": 3670,
+  "schema": "genepedia/person@1",
+  "slug": "nicolaas-johannes-stoman",
+  "names": {
+    "display": "Nicolaas Johannes Stoman",
+    "given": "Nicolaas Johannes",
+    "surname": "Stoman",
+    "married": "Stoman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 MAR 1895",
+      "year": 1895,
+      "iso": "1895-03-09",
+      "precision": "exact",
+      "display": "March 9, 1895",
+      "place": null
+    },
+    "death": {
+      "date": "19 JUL 1978",
+      "year": 1978,
+      "iso": "1978-07-19",
+      "precision": "exact",
+      "display": "July 19, 1978",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/4a/1f/9b/e5/53444843b5abfe92/nicolaas_johanes_stoman_original.jpg?hash=e7efae66d3ba166248f77f55ce647eb55c53d1ef167c5b8c85621914a8bb285b.1789455599",
+      "alt": "Nicolaas Johannes Stoman"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/4a/1f/9b/e5/53444843b5abfe92/nicolaas_johanes_stoman_original.jpg?hash=e7efae66d3ba166248f77f55ce647eb55c53d1ef167c5b8c85621914a8bb285b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3666,
+      3665
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3667,
+      3668,
+      3669,
+      1409,
+      3671,
+      3672,
+      3673,
+      3674,
+      3675,
+      3676,
+      3677
+    ],
+    "parentUnions": [
+      "F882"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3666,
+        "unionId": "F882",
+        "type": "biological"
+      },
+      {
+        "id": 3665,
+        "unionId": "F882",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057956703162@",
+    "geniId": "6000000057956703162",
+    "rfn": "geni:6000000057956703162",
+    "changed": "23 DEC 2023"
+  },
+  "page": {
+    "route": "people/3670/",
+    "canonical": "https://www.genepedia.org/people/3670/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

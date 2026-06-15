@@ -1,0 +1,96 @@
+{
+  "id": 3238,
+  "schema": "genepedia/person@1",
+  "slug": "maria-magdalena",
+  "names": {
+    "display": "Maria Magdalena",
+    "given": "Maria Magdalena",
+    "surname": "Mouton",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 APR 1919",
+      "year": 1919,
+      "iso": "1919-04-03",
+      "precision": "exact",
+      "display": "April 3, 1919",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1293,
+      3236
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3237,
+      3239,
+      3240,
+      3241,
+      3242
+    ],
+    "parentUnions": [
+      "F796"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1293,
+        "unionId": "F796",
+        "type": "biological"
+      },
+      {
+        "id": 3236,
+        "unionId": "F796",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107532755957@",
+    "geniId": "6000000107532755957",
+    "rfn": "geni:6000000107532755957",
+    "changed": "24 SEP 2019"
+  },
+  "page": {
+    "route": "people/3238/",
+    "canonical": "https://www.genepedia.org/people/3238/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

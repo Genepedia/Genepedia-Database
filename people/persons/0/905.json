@@ -1,0 +1,205 @@
+{
+  "id": 905,
+  "schema": "genepedia/person@1",
+  "slug": "frances-martha-kingsley",
+  "names": {
+    "display": "Frances Martha Kingsley",
+    "given": "Frances Martha",
+    "surname": "Kingsley",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 MAR 1905",
+      "year": 1905,
+      "iso": "1905-03-27",
+      "precision": "exact",
+      "display": "March 27, 1905",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 APR 1975",
+      "year": 1975,
+      "iso": "1975-04-23",
+      "precision": "exact",
+      "display": "April 23, 1975",
+      "place": "Klerksdorp, South Africa",
+      "location": {
+        "label": "Klerksdorp, South Africa",
+        "placeName": "",
+        "addressLine1": "77 Connie Street",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/2c/8c/d0/12/53444869c1a9e3ff/img-20240728-wa0006_original.jpg?hash=09a98f5e0661ae4b847e5f50f38640bcad44b2dc00ced28c3e777c6921cee1e8.1789455599",
+      "alt": "Frances Martha Kingsley"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/2c/8c/d0/12/53444869c1a9e3ff/img-20240728-wa0006_original.jpg?hash=09a98f5e0661ae4b847e5f50f38640bcad44b2dc00ced28c3e777c6921cee1e8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/a8/91/63/89/53444842a432655b/francis_roselt_original.jpg?hash=74f7e9459df0fed4996dbb6f52b1c0436956dc476098fbcbb9d71797753cc973.1789455599",
+        "form": "",
+        "title": "francis roselt.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/10/a7/f6/07/53444842a43111b1/5256-75_roselt_frances_martha_a__original.jpg?hash=3d01e274df761d24010037500cb47f379417341da8a7504f6993a846d6649484.1789455599",
+        "form": "",
+        "title": "5256-75 ROSELT Frances Martha a .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/6a/99/24/c4/53444841847ee80e/record-image_3qsq-g9sw-7hc9_original.jpg?hash=cc5efea19983e31bc7da53c9e2c0c970a1b6fbc065107a417195d55f81df91a6.1789455599",
+        "form": "",
+        "title": "record-image_trou Frances.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2222,
+      2223
+    ],
+    "spouses": [
+      371
+    ],
+    "exSpouses": [],
+    "children": [
+      906,
+      907,
+      908,
+      909
+    ],
+    "siblings": [
+      2224,
+      2225,
+      2226,
+      2227,
+      2228,
+      2229
+    ],
+    "parentUnions": [
+      "F565"
+    ],
+    "spouseUnions": [
+      "F253"
+    ],
+    "parentLinks": [
+      {
+        "id": 2222,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2223,
+        "unionId": "F565",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 371,
+        "unionId": "F253",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 906,
+        "unionId": "F253",
+        "type": "biological"
+      },
+      {
+        "id": 907,
+        "unionId": "F253",
+        "type": "biological"
+      },
+      {
+        "id": 908,
+        "unionId": "F253",
+        "type": "biological"
+      },
+      {
+        "id": 909,
+        "unionId": "F253",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028171514959@",
+    "geniId": "6000000028171514959",
+    "rfn": "geni:6000000028171514959",
+    "changed": "06 DEC 2025"
+  },
+  "page": {
+    "route": "people/905/",
+    "canonical": "https://www.genepedia.org/people/905/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

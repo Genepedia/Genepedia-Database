@@ -1,0 +1,151 @@
+{
+  "id": 3222,
+  "schema": "genepedia/person@1",
+  "slug": "anna-louisa-van-der-merwe",
+  "names": {
+    "display": "Anna Louisa Van der Merwe",
+    "given": "Anna Louisa",
+    "surname": "Van der Merwe",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 SEP 1833",
+      "year": 1833,
+      "iso": "1833-09-02",
+      "precision": "exact",
+      "display": "September 2, 1833",
+      "place": null
+    },
+    "death": {
+      "date": "12 SEP 1881",
+      "year": 1881,
+      "iso": "1881-09-12",
+      "precision": "exact",
+      "display": "September 12, 1881",
+      "place": "Langkuil, WC, South Africa",
+      "location": {
+        "label": "Langkuil, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Langkuil",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3223
+    ],
+    "exSpouses": [],
+    "children": [
+      3224,
+      1292,
+      3225,
+      3226,
+      3227,
+      3228,
+      3229
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F794"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3223,
+        "unionId": "F794",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3224,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 1292,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3225,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3226,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3227,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3228,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3229,
+        "unionId": "F794",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020743217928@",
+    "geniId": "6000000020743217928",
+    "rfn": "geni:6000000020743217928",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/3222/",
+    "canonical": "https://www.genepedia.org/people/3222/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

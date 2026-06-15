@@ -1,0 +1,99 @@
+{
+  "id": 2721,
+  "schema": "genepedia/person@1",
+  "slug": "aletta-catharina-de-beer",
+  "names": {
+    "display": "Aletta Catharina de Beer",
+    "given": "Aletta Catharina",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1842",
+      "year": 1842,
+      "iso": "1842",
+      "precision": "exact",
+      "display": "1842",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2715,
+      2714
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2716,
+      2717,
+      2718,
+      2719,
+      2720,
+      2722,
+      2723,
+      1094
+    ],
+    "parentUnions": [
+      "F670"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2715,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2714,
+        "unionId": "F670",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000011811690214@",
+    "geniId": "6000000011811690214",
+    "rfn": "geni:6000000011811690214",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/2721/",
+    "canonical": "https://www.genepedia.org/people/2721/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

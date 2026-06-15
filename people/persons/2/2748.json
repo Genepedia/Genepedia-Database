@@ -1,0 +1,116 @@
+{
+  "id": 2748,
+  "schema": "genepedia/person@1",
+  "slug": "hester-magdalena",
+  "names": {
+    "display": "Hester Magdalena",
+    "given": "Hester Magdalena",
+    "surname": "Fourie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "13 MAR 1931",
+      "year": 1931,
+      "iso": "1931-03-13",
+      "precision": "exact",
+      "display": "March 13, 1931",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1111,
+      2742
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2743,
+      2744,
+      2745,
+      2746,
+      2747,
+      2749,
+      2750
+    ],
+    "parentUnions": [
+      "F675"
+    ],
+    "spouseUnions": [
+      "F1704"
+    ],
+    "parentLinks": [
+      {
+        "id": 1111,
+        "unionId": "F675",
+        "type": "biological"
+      },
+      {
+        "id": 2742,
+        "unionId": "F675",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056967705126@",
+    "geniId": "6000000056967705126",
+    "rfn": "geni:6000000056967705126",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2748/",
+    "canonical": "https://www.genepedia.org/people/2748/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

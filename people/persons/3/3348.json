@@ -1,0 +1,94 @@
+{
+  "id": 3348,
+  "schema": "genepedia/person@1",
+  "slug": "stefan-daniel-viljoen",
+  "names": {
+    "display": "Stefan Daniël Viljoen",
+    "given": "Stefan Daniël",
+    "surname": "Viljoen",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 DEC 1970",
+      "year": 1970,
+      "iso": "1970-12-03",
+      "precision": "exact",
+      "display": "December 3, 1970",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3346,
+      1321
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3347,
+      3349,
+      3350
+    ],
+    "parentUnions": [
+      "F821"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3346,
+        "unionId": "F821",
+        "type": "biological"
+      },
+      {
+        "id": 1321,
+        "unionId": "F821",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027179817886@",
+    "geniId": "6000000027179817886",
+    "rfn": "geni:6000000027179817886",
+    "changed": "11 MAR 2015"
+  },
+  "page": {
+    "route": "people/3348/",
+    "canonical": "https://www.genepedia.org/people/3348/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

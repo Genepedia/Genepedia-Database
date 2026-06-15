@@ -1,0 +1,140 @@
+{
+  "id": 3,
+  "schema": "genepedia/person@1",
+  "slug": "json-gert-niklaus-roselt",
+  "names": {
+    "display": "Json Gert Niklaus Roselt",
+    "given": "Json Gert Niklaus",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 DEC 2024",
+      "year": 2024,
+      "iso": "2024-12-18",
+      "precision": "exact",
+      "display": "December 18, 2024",
+      "place": "Medi Clinic Hospital, Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Medi Clinic Hospital, Bloemfontein, Free-State, South Africa",
+        "placeName": "Medi Clinic Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "South Africa",
+  "lastResidenceLocation": {
+    "label": "South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/29/d4/63/e4/5344486a8a522cfd/364124b9-deaa-4ca6-9005-1ca8c83a4e20_original.jpg?hash=74fe7abe4abea7a98fd425dca8afb76636d4441546e2570afefc0de9e665efb0.1789455599",
+      "alt": "Json Gert Niklaus Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/29/d4/63/e4/5344486a8a522cfd/364124b9-deaa-4ca6-9005-1ca8c83a4e20_original.jpg?hash=74fe7abe4abea7a98fd425dca8afb76636d4441546e2570afefc0de9e665efb0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/f4/61/03/46/534448676abd36da/1000244914_original.jpg?hash=f6bb0c53971d60a8d790202376759c18ed4134b4b2364ad345c9663771e94c8d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1,
+      2
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1,
+        "unionId": "F1",
+        "type": "biological"
+      },
+      {
+        "id": 2,
+        "unionId": "F1",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000212574058823@",
+    "geniId": "6000000212574058823",
+    "rfn": "geni:6000000212574058823",
+    "changed": "10 JUN 2026"
+  },
+  "page": {
+    "route": "people/3/",
+    "canonical": "https://www.genepedia.org/people/3/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

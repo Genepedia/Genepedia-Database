@@ -1,0 +1,128 @@
+{
+  "id": 33,
+  "schema": "genepedia/person@1",
+  "slug": "kyle-brandon-trevor-edwards",
+  "names": {
+    "display": "Kyle Brandon Trevor Edwards",
+    "given": "Kyle Brandon Trevor",
+    "surname": "Edwards",
+    "married": "Edwards",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 NOV 2002",
+      "year": 2002,
+      "iso": "2002-11-15",
+      "precision": "exact",
+      "display": "November 15, 2002",
+      "place": "National District Hospital, Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "National District Hospital, Bloemfontein, Free-State, South Africa",
+        "placeName": "National District Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/19/01/eb/54/534448656f6a36ab/screenshot_2024-03-13_213649_original.jpg?hash=e1dd538d912d14099c53d67960d42cb0c4024fbf91e1c88079018c8dc8d7e3a9.1789455599",
+      "alt": "Kyle Brandon Trevor Edwards"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/19/01/eb/54/534448656f6a36ab/screenshot_2024-03-13_213649_original.jpg?hash=e1dd538d912d14099c53d67960d42cb0c4024fbf91e1c88079018c8dc8d7e3a9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/da/3b/65/b4/534448656f6a36ac/screenshot_2024-03-13_213600_original.jpg?hash=c7f24d562b0ff3aab86e9b1c0a06bce002e1a8f8f64bfb25c24019ba985ccb83.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      31,
+      5
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      32,
+      34
+    ],
+    "parentUnions": [
+      "F11"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 31,
+        "unionId": "F11",
+        "type": "biological"
+      },
+      {
+        "id": 5,
+        "unionId": "F11",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204013999847@",
+    "geniId": "6000000204013999847",
+    "rfn": "geni:6000000204013999847",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/33/",
+    "canonical": "https://www.genepedia.org/people/33/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

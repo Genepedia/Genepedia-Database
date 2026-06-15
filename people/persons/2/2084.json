@@ -1,0 +1,85 @@
+{
+  "id": 2084,
+  "schema": "genepedia/person@1",
+  "slug": "stephanus-nicolaas-venter-2084",
+  "names": {
+    "display": "Stephanus Nicolaas Venter",
+    "given": "Stephanus Nicolaas",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2085
+    ],
+    "exSpouses": [],
+    "children": [
+      861
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F544"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2085,
+        "unionId": "F544",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 861,
+        "unionId": "F544",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066591875079@",
+    "geniId": "6000000066591875079",
+    "rfn": "geni:6000000066591875079",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/2084/",
+    "canonical": "https://www.genepedia.org/people/2084/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

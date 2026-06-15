@@ -1,0 +1,93 @@
+{
+  "id": 4297,
+  "schema": "genepedia/person@1",
+  "slug": "cecilia-susanna",
+  "names": {
+    "display": "Cecilia Susanna",
+    "given": "Cecilia Susanna",
+    "surname": "Grib",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "23 MAR 1953",
+      "year": 1953,
+      "iso": "1953-03-23",
+      "precision": "exact",
+      "display": "March 23, 1953",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4294,
+      1621
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4295,
+      4296
+    ],
+    "parentUnions": [
+      "F1009"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4294,
+        "unionId": "F1009",
+        "type": "biological"
+      },
+      {
+        "id": 1621,
+        "unionId": "F1009",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206927222836@",
+    "geniId": "6000000206927222836",
+    "rfn": "geni:6000000206927222836",
+    "changed": "14 JUL 2024"
+  },
+  "page": {
+    "route": "people/4297/",
+    "canonical": "https://www.genepedia.org/people/4297/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

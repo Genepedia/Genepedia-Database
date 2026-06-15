@@ -1,0 +1,91 @@
+{
+  "id": 1595,
+  "schema": "genepedia/person@1",
+  "slug": "lambert-petrus-le-roux",
+  "names": {
+    "display": "Lambert Petrus le Roux",
+    "given": "Lambert Petrus",
+    "surname": "le Roux",
+    "married": "le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      638
+    ],
+    "exSpouses": [],
+    "children": [
+      1596,
+      1597
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F404"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 638,
+        "unionId": "F404",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1596,
+        "unionId": "F404",
+        "type": "biological"
+      },
+      {
+        "id": 1597,
+        "unionId": "F404",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002432961223@",
+    "geniId": "6000000002432961223",
+    "rfn": "geni:6000000002432961223",
+    "changed": "21 NOV 2014"
+  },
+  "page": {
+    "route": "people/1595/",
+    "canonical": "https://www.genepedia.org/people/1595/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

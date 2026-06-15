@@ -1,0 +1,109 @@
+{
+  "id": 1586,
+  "schema": "genepedia/person@1",
+  "slug": "maria-christina-riana-badenhorst",
+  "names": {
+    "display": "Maria Christina (Riana) Badenhorst",
+    "given": "Maria Christina (Riana)",
+    "surname": "Pretorius",
+    "married": "Badenhorst",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      635,
+      1584
+    ],
+    "spouses": [
+      4179
+    ],
+    "exSpouses": [],
+    "children": [
+      4180,
+      4181
+    ],
+    "siblings": [
+      1585
+    ],
+    "parentUnions": [
+      "F401"
+    ],
+    "spouseUnions": [
+      "F979"
+    ],
+    "parentLinks": [
+      {
+        "id": 635,
+        "unionId": "F401",
+        "type": "biological"
+      },
+      {
+        "id": 1584,
+        "unionId": "F401",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4179,
+        "unionId": "F979",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4180,
+        "unionId": "F979",
+        "type": "biological"
+      },
+      {
+        "id": 4181,
+        "unionId": "F979",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002631139297@",
+    "geniId": "6000000002631139297",
+    "rfn": "geni:6000000002631139297",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/1586/",
+    "canonical": "https://www.genepedia.org/people/1586/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

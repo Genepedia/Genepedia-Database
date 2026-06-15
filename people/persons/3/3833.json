@@ -1,0 +1,178 @@
+{
+  "id": 3833,
+  "schema": "genepedia/person@1",
+  "slug": "joachim-paulus-kotze",
+  "names": {
+    "display": "Joachim Paulus Kotze",
+    "given": "Joachim Paulus",
+    "surname": "Kotze",
+    "married": "Kotze",
+    "nick": "Kotzee",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 SEP 1905",
+      "year": 1905,
+      "iso": "1905-09-23",
+      "precision": "exact",
+      "display": "September 23, 1905",
+      "place": "Vredenburg, Cape Colony, South Africa",
+      "location": {
+        "label": "Vredenburg, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vredenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "13 MAR 1961",
+      "year": 1961,
+      "iso": "1961-03-13",
+      "precision": "exact",
+      "display": "March 13, 1961",
+      "place": "Eaton Convolesent House, Plumstead, Cape Province, South Africa",
+      "location": {
+        "label": "Eaton Convolesent House, Plumstead, Cape Province, South Africa",
+        "placeName": "Eaton Convolesent House",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Plumstead",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "12 NOV 1905",
+      "year": 1905,
+      "iso": "1905-11-12",
+      "precision": "exact",
+      "display": "November 12, 1905",
+      "place": "Vredenburg, Cape Colony, South Africa",
+      "location": {
+        "label": "Vredenburg, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vredenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1445
+    ],
+    "exSpouses": [],
+    "children": [
+      3834,
+      3835,
+      3836,
+      3837,
+      3838
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F909"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1445,
+        "unionId": "F909",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3834,
+        "unionId": "F909",
+        "type": "biological"
+      },
+      {
+        "id": 3835,
+        "unionId": "F909",
+        "type": "biological"
+      },
+      {
+        "id": 3836,
+        "unionId": "F909",
+        "type": "biological"
+      },
+      {
+        "id": 3837,
+        "unionId": "F909",
+        "type": "biological"
+      },
+      {
+        "id": 3838,
+        "unionId": "F909",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000075764144858@",
+    "geniId": "6000000075764144858",
+    "rfn": "geni:6000000075764144858",
+    "changed": "18 JUN 2025"
+  },
+  "page": {
+    "route": "people/3833/",
+    "canonical": "https://www.genepedia.org/people/3833/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

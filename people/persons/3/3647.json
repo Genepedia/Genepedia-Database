@@ -1,0 +1,160 @@
+{
+  "id": 3647,
+  "schema": "genepedia/person@1",
+  "slug": "catherina-elizabeth-snyman",
+  "names": {
+    "display": "Catherina Elizabeth Snyman",
+    "given": "Catherina Elizabeth",
+    "surname": "Snyman",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 JUL 1869",
+      "year": 1869,
+      "iso": "1869-07-27",
+      "precision": "exact",
+      "display": "July 27, 1869",
+      "place": "Aberdeen, Eastern Cape, South Africa",
+      "location": {
+        "label": "Aberdeen, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "29 APR 1911",
+      "year": 1911,
+      "iso": "1911-04-29",
+      "precision": "exact",
+      "display": "April 29, 1911",
+      "place": "Aberdeen, Eastern Cape, South Africa",
+      "location": {
+        "label": "Aberdeen, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "22 AUG 1869",
+      "year": 1869,
+      "iso": "1869-08-22",
+      "precision": "exact",
+      "display": "August 22, 1869",
+      "place": "Willowmore, Eastern Cape, South Africa",
+      "location": {
+        "label": "Willowmore, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Willowmore",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1404
+    ],
+    "exSpouses": [],
+    "children": [
+      3648,
+      3649
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F877"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1404,
+        "unionId": "F877",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3648,
+        "unionId": "F877",
+        "type": "biological"
+      },
+      {
+        "id": 3649,
+        "unionId": "F877",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000034996395887@",
+    "geniId": "6000000034996395887",
+    "rfn": "geni:6000000034996395887",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3647/",
+    "canonical": "https://www.genepedia.org/people/3647/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

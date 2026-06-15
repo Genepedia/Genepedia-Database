@@ -1,0 +1,98 @@
+{
+  "id": 3693,
+  "schema": "genepedia/person@1",
+  "slug": "louisa-susanna-burger",
+  "names": {
+    "display": "Louisa Susanna Burger",
+    "given": "Louisa Susanna",
+    "surname": "Burger",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 MAY 1916",
+      "year": 1916,
+      "iso": "1916-05-22",
+      "precision": "exact",
+      "display": "May 22, 1916",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1412
+    ],
+    "exSpouses": [],
+    "children": [
+      3694,
+      3695
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F884"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1412,
+        "unionId": "F884",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3694,
+        "unionId": "F884",
+        "type": "biological"
+      },
+      {
+        "id": 3695,
+        "unionId": "F884",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000199631866828@",
+    "geniId": "6000000199631866828",
+    "rfn": "geni:6000000199631866828",
+    "changed": "30 OCT 2023"
+  },
+  "page": {
+    "route": "people/3693/",
+    "canonical": "https://www.genepedia.org/people/3693/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

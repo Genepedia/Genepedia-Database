@@ -1,0 +1,113 @@
+{
+  "id": 4732,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-jacobus-bester-4732",
+  "names": {
+    "display": "Gabriel Jacobus Bester",
+    "given": "Gabriel Jacobus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 JUN 1930",
+      "year": 1930,
+      "iso": "1930-06-24",
+      "precision": "exact",
+      "display": "June 24, 1930",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "18 SEP 1930",
+      "year": 1930,
+      "iso": "1930-09-18",
+      "precision": "exact",
+      "display": "September 18, 1930",
+      "place": "Edenburg, Free State, South Africa",
+      "location": {
+        "label": "Edenburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Edenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1876,
+      4731
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1127"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1876,
+        "unionId": "F1127",
+        "type": "biological"
+      },
+      {
+        "id": 4731,
+        "unionId": "F1127",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066331035821@",
+    "geniId": "6000000066331035821",
+    "rfn": "geni:6000000066331035821",
+    "changed": "03 SEP 2017"
+  },
+  "page": {
+    "route": "people/4732/",
+    "canonical": "https://www.genepedia.org/people/4732/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

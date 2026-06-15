@@ -1,0 +1,98 @@
+{
+  "id": 3255,
+  "schema": "genepedia/person@1",
+  "slug": "adriaan-willem-mouton",
+  "names": {
+    "display": "Adriaan Willem Mouton",
+    "given": "Adriaan Willem",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 JUN 1918",
+      "year": 1918,
+      "iso": "1918-06-29",
+      "precision": "exact",
+      "display": "June 29, 1918",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1295,
+      1306
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3249,
+      3250,
+      3251,
+      3252,
+      3253,
+      3254,
+      3256
+    ],
+    "parentUnions": [
+      "F799"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1295,
+        "unionId": "F799",
+        "type": "biological"
+      },
+      {
+        "id": 1306,
+        "unionId": "F799",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107287887049@",
+    "geniId": "6000000107287887049",
+    "rfn": "geni:6000000107287887049",
+    "changed": "31 JAN 2025"
+  },
+  "page": {
+    "route": "people/3255/",
+    "canonical": "https://www.genepedia.org/people/3255/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

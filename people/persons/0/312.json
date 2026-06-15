@@ -1,0 +1,108 @@
+{
+  "id": 312,
+  "schema": "genepedia/person@1",
+  "slug": "jacqueline-van-bosch",
+  "names": {
+    "display": "Jacqueline van Bosch",
+    "given": "Jacqueline",
+    "surname": "van Bosch",
+    "married": "Ackerman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/eb/f6/84/f1/5344486570e201ba/wtzkxpzp_original.jpg?hash=6a5fa039ed129298e2a911f9ad1e7f47d8178037b818dee7efc38c398ffe852b.1789455599",
+      "alt": "Jacqueline van Bosch"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/eb/f6/84/f1/5344486570e201ba/wtzkxpzp_original.jpg?hash=6a5fa039ed129298e2a911f9ad1e7f47d8178037b818dee7efc38c398ffe852b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      309,
+      114
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      793
+    ],
+    "siblings": [
+      310,
+      311
+    ],
+    "parentUnions": [
+      "F100"
+    ],
+    "spouseUnions": [
+      "F221"
+    ],
+    "parentLinks": [
+      {
+        "id": 309,
+        "unionId": "F100",
+        "type": "biological"
+      },
+      {
+        "id": 114,
+        "unionId": "F100",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 793,
+        "unionId": "F221",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204050870822@",
+    "geniId": "6000000204050870822",
+    "rfn": "geni:6000000204050870822",
+    "changed": "14 MAR 2024"
+  },
+  "page": {
+    "route": "people/312/",
+    "canonical": "https://www.genepedia.org/people/312/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

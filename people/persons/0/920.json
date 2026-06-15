@@ -1,0 +1,137 @@
+{
+  "id": 920,
+  "schema": "genepedia/person@1",
+  "slug": "john-douglas-mentasti",
+  "names": {
+    "display": "John Douglas Mentasti",
+    "given": "John Douglas",
+    "surname": "Mentasti",
+    "married": "Mentasti",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 FEB 1928",
+      "year": 1928,
+      "iso": "1928-02-24",
+      "precision": "exact",
+      "display": "February 24, 1928",
+      "place": null
+    },
+    "death": {
+      "date": "2006",
+      "year": 2006,
+      "iso": "2006",
+      "precision": "exact",
+      "display": "2006",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/7a/15/13/17/534448613c4d36c4/record-image__original.jpg?hash=026f324b72b1ccb7b8264ebbdc66c1c544d4b9e0dc7976d7aa9b3d9bfda6cd6e.1789455599",
+      "alt": "John Douglas Mentasti"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/7a/15/13/17/534448613c4d36c4/record-image__original.jpg?hash=026f324b72b1ccb7b8264ebbdc66c1c544d4b9e0dc7976d7aa9b3d9bfda6cd6e.1789455599",
+        "form": "",
+        "title": "record-image_trou 1955 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      917,
+      373
+    ],
+    "spouses": [
+      2289,
+      2290,
+      2291
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      918,
+      919,
+      921
+    ],
+    "parentUnions": [
+      "F255"
+    ],
+    "spouseUnions": [
+      "F580",
+      "F581",
+      "F582"
+    ],
+    "parentLinks": [
+      {
+        "id": 917,
+        "unionId": "F255",
+        "type": "biological"
+      },
+      {
+        "id": 373,
+        "unionId": "F255",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2289,
+        "unionId": "F580",
+        "role": "wife"
+      },
+      {
+        "id": 2290,
+        "unionId": "F581",
+        "role": "wife"
+      },
+      {
+        "id": 2291,
+        "unionId": "F582",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028298092349@",
+    "geniId": "6000000028298092349",
+    "rfn": "geni:6000000028298092349",
+    "changed": "19 AUG 2018"
+  },
+  "page": {
+    "route": "people/920/",
+    "canonical": "https://www.genepedia.org/people/920/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

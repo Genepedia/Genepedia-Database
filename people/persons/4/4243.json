@@ -1,0 +1,208 @@
+{
+  "id": 4243,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-francina-carolina-van-der-merwe",
+  "names": {
+    "display": "Jacoba Francina Carolina van der Merwe",
+    "given": "Jacoba Francina Carolina",
+    "surname": "van der Merwe",
+    "married": "de Beer",
+    "nick": "de Beer",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 MAR 1787",
+      "year": 1787,
+      "iso": "1787-03-03",
+      "precision": "exact",
+      "display": "March 3, 1787",
+      "place": "Swellendam, Cape Province, South Africa",
+      "location": {
+        "label": "Swellendam, Cape Province, South Africa",
+        "placeName": "Swellendam, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 NOV 1867",
+      "year": 1867,
+      "iso": "1867-11-15",
+      "precision": "exact",
+      "display": "November 15, 1867",
+      "place": "Bethulie, Free State, South Africa",
+      "location": {
+        "label": "Bethulie, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bethulie",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "4 MAR 1787",
+      "year": 1787,
+      "iso": "1787-03-04",
+      "precision": "exact",
+      "display": "March 4, 1787",
+      "place": "Cape Town, Cape of Good Hope, South Africa",
+      "location": {
+        "label": "Cape Town, Cape of Good Hope, South Africa",
+        "placeName": "Cape Town, Cape of Good Hope, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4242
+    ],
+    "exSpouses": [],
+    "children": [
+      4244,
+      4245,
+      1606,
+      4246,
+      4247,
+      4248,
+      4249,
+      4250,
+      4251,
+      4252
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F996"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4242,
+        "unionId": "F996",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4244,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4245,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 1606,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4246,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4247,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4248,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4249,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4250,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4251,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4252,
+        "unionId": "F996",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020990554625@",
+    "geniId": "6000000020990554625",
+    "rfn": "geni:6000000020990554625",
+    "changed": "20 JUN 2022"
+  },
+  "page": {
+    "route": "people/4243/",
+    "canonical": "https://www.genepedia.org/people/4243/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

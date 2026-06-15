@@ -1,0 +1,77 @@
+{
+  "id": 351,
+  "schema": "genepedia/person@1",
+  "slug": "jan-frederick-peens-fouche",
+  "names": {
+    "display": "Jan Frederick Peens Fouche",
+    "given": "Jan Frederick Peens",
+    "surname": "Fouche",
+    "married": "Fouche",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      132
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F110"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 132,
+        "unionId": "F110",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066596986897@",
+    "geniId": "6000000066596986897",
+    "rfn": "geni:6000000066596986897",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/351/",
+    "canonical": "https://www.genepedia.org/people/351/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

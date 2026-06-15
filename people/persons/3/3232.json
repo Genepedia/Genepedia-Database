@@ -1,0 +1,130 @@
+{
+  "id": 3232,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-martinus-jakobus-mouton",
+  "names": {
+    "display": "Hendrik Martinus Jakobus Mouton",
+    "given": "Hendrik Martinus Jakobus",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 DEC 1907",
+      "year": 1907,
+      "iso": "1907-12-27",
+      "precision": "exact",
+      "display": "December 27, 1907",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "2 FEB 1908",
+      "year": 1908,
+      "iso": "1908-02-02",
+      "precision": "exact",
+      "display": "February 2, 1908",
+      "place": "Vanrhynsdorp, WC, South Africa",
+      "location": {
+        "label": "Vanrhynsdorp, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vanrhynsdorp",
+        "postalCode": "8170",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/91/a8/13/2b/534448514070227d/mouton_hendrik_martinus_jakobus_1908_vanrhynsdorp_729_-_008149448_original.jpg?hash=57fac8e46911288b3b46b0e4cf74c89918247b6a47948a6d18e07f16645bce40.1789455599",
+      "alt": "Hendrik Martinus Jakobus Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/91/a8/13/2b/534448514070227d/mouton_hendrik_martinus_jakobus_1908_vanrhynsdorp_729_-_008149448_original.jpg?hash=57fac8e46911288b3b46b0e4cf74c89918247b6a47948a6d18e07f16645bce40.1789455599",
+        "form": "",
+        "title": "Mouton Hendrik Martinus Jakobus 1908 Vanrhynsdorp 729 - 008149448.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1293,
+      3230
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3231,
+      3233,
+      3234,
+      3235
+    ],
+    "parentUnions": [
+      "F795"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1293,
+        "unionId": "F795",
+        "type": "biological"
+      },
+      {
+        "id": 3230,
+        "unionId": "F795",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000117374546833@",
+    "geniId": "6000000117374546833",
+    "rfn": "geni:6000000117374546833",
+    "changed": "05 JAN 2020"
+  },
+  "page": {
+    "route": "people/3232/",
+    "canonical": "https://www.genepedia.org/people/3232/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

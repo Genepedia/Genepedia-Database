@@ -1,0 +1,239 @@
+{
+  "id": 4614,
+  "schema": "genepedia/person@1",
+  "slug": "jan-theron",
+  "names": {
+    "display": "Jan Theron",
+    "given": "Jan",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 DEC 1741",
+      "year": 1741,
+      "iso": "1741-12-29",
+      "precision": "exact",
+      "display": "December 29, 1741",
+      "place": "Tulbagh, Caap de Goede Hoop, Suid Afrika",
+      "location": {
+        "label": "Tulbagh, Caap de Goede Hoop, Suid Afrika",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Caap de Goede Hoop",
+        "country": "Suid Afrika",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1814",
+      "year": 1814,
+      "iso": "1814",
+      "precision": "about",
+      "display": "about 1814",
+      "place": "Plaas Montpellier in die Land van Waveren, Tulbagh, Kaapkolonie",
+      "location": {
+        "label": "Plaas Montpellier in die Land van Waveren, Tulbagh, Kaapkolonie",
+        "placeName": "Plaas Montpellier in die Land van Waveren",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaapkolonie",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "29 DEC 1741",
+      "year": 1741,
+      "iso": "1741-12-29",
+      "precision": "exact",
+      "display": "December 29, 1741",
+      "place": "Stellenbosch, Caap de Goede Hoop",
+      "location": {
+        "label": "Stellenbosch, Caap de Goede Hoop",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Stellenbosch",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Caap de Goede Hoop",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Jan Theron"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4613
+    ],
+    "exSpouses": [],
+    "children": [
+      4615,
+      4616,
+      4617,
+      4618,
+      4619,
+      4620,
+      1853,
+      4621,
+      4622,
+      4623,
+      4624,
+      4625
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1106"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4613,
+        "unionId": "F1106",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4615,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4616,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4617,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4618,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4619,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4620,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 1853,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4621,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4622,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4623,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4624,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4625,
+        "unionId": "F1106",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007721526693@",
+    "geniId": "6000000007721526693",
+    "rfn": "geni:6000000007721526693",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/4614/",
+    "canonical": "https://www.genepedia.org/people/4614/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

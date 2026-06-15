@@ -1,0 +1,191 @@
+{
+  "id": 1537,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobs",
+  "names": {
+    "display": "Daniel Jacobs",
+    "given": "Daniel",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1857",
+      "year": 1857,
+      "iso": "1857",
+      "precision": "exact",
+      "display": "1857",
+      "place": "Boshof, Orange Free State",
+      "location": {
+        "label": "Boshof, Orange Free State",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 JUL 1907",
+      "year": 1907,
+      "iso": "1907-07-23",
+      "precision": "exact",
+      "display": "July 23, 1907",
+      "place": "Slypklip, Kimberley, Kaapkolonie, Suid-Afrika",
+      "location": {
+        "label": "Slypklip, Kimberley, Kaapkolonie, Suid-Afrika",
+        "placeName": "Slypklip",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaapkolonie",
+        "country": "Suid-Afrika",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1532,
+      1531
+    ],
+    "spouses": [
+      3979,
+      3984
+    ],
+    "exSpouses": [],
+    "children": [
+      3980,
+      3981,
+      3982,
+      3983,
+      3985,
+      3986
+    ],
+    "siblings": [
+      1533,
+      1534,
+      1535,
+      1536,
+      1538,
+      623
+    ],
+    "parentUnions": [
+      "F393"
+    ],
+    "spouseUnions": [
+      "F932",
+      "F933"
+    ],
+    "parentLinks": [
+      {
+        "id": 1532,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1531,
+        "unionId": "F393",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3979,
+        "unionId": "F932",
+        "role": "partner"
+      },
+      {
+        "id": 3984,
+        "unionId": "F933",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3980,
+        "unionId": "F932",
+        "type": "biological"
+      },
+      {
+        "id": 3981,
+        "unionId": "F932",
+        "type": "biological"
+      },
+      {
+        "id": 3982,
+        "unionId": "F932",
+        "type": "biological"
+      },
+      {
+        "id": 3983,
+        "unionId": "F932",
+        "type": "biological"
+      },
+      {
+        "id": 3985,
+        "unionId": "F933",
+        "type": "biological"
+      },
+      {
+        "id": 3986,
+        "unionId": "F933",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000140298970841@",
+    "geniId": "6000000140298970841",
+    "rfn": "geni:6000000140298970841",
+    "changed": "08 JAN 2024"
+  },
+  "page": {
+    "route": "people/1537/",
+    "canonical": "https://www.genepedia.org/people/1537/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

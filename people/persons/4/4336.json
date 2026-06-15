@@ -1,0 +1,87 @@
+{
+  "id": 4336,
+  "schema": "genepedia/person@1",
+  "slug": "juliana-postma",
+  "names": {
+    "display": "Juliana Postma",
+    "given": "Juliana",
+    "surname": "Postma",
+    "married": "Van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4334,
+      1640
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4335,
+      4337,
+      4338
+    ],
+    "parentUnions": [
+      "F1018"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4334,
+        "unionId": "F1018",
+        "type": "biological"
+      },
+      {
+        "id": 1640,
+        "unionId": "F1018",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207380767825@",
+    "geniId": "6000000207380767825",
+    "rfn": "geni:6000000207380767825",
+    "changed": "16 JUL 2024"
+  },
+  "page": {
+    "route": "people/4336/",
+    "canonical": "https://www.genepedia.org/people/4336/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 4030,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-jacobus-de-beer",
+  "names": {
+    "display": "Petrus Jacobus de Beer",
+    "given": "Petrus Jacobus",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1839",
+      "year": 1839,
+      "iso": "1839",
+      "precision": "about",
+      "display": "about 1839",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1542
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F939"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1542,
+        "unionId": "F939",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029377689167@",
+    "geniId": "6000000029377689167",
+    "rfn": "geni:6000000029377689167",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/4030/",
+    "canonical": "https://www.genepedia.org/people/4030/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

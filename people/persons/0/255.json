@@ -1,0 +1,95 @@
+{
+  "id": 255,
+  "schema": "genepedia/person@1",
+  "slug": "gideon-van-der-merwe",
+  "names": {
+    "display": "Gideon Van Der Merwe",
+    "given": "Gideon",
+    "surname": "Van Der Merwe",
+    "married": "Van Der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/5c/a4/98/f5/534448657668e0db/screenshot_2024-03-17_130703_original.jpg?hash=7b6e5cd27ec75fb92a0301148a2015e4ee362a4b602b8baff970cd01abac7e14.1789455599",
+      "alt": "Gideon Van Der Merwe"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/5c/a4/98/f5/534448657668e0db/screenshot_2024-03-17_130703_original.jpg?hash=7b6e5cd27ec75fb92a0301148a2015e4ee362a4b602b8baff970cd01abac7e14.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      254,
+      94
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F80"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 254,
+        "unionId": "F80",
+        "type": "biological"
+      },
+      {
+        "id": 94,
+        "unionId": "F80",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204177868824@",
+    "geniId": "6000000204177868824",
+    "rfn": "geni:6000000204177868824",
+    "changed": "17 MAR 2024"
+  },
+  "page": {
+    "route": "people/255/",
+    "canonical": "https://www.genepedia.org/people/255/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

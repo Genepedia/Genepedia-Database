@@ -1,0 +1,181 @@
+{
+  "id": 2222,
+  "schema": "genepedia/person@1",
+  "slug": "frank-henry-silver-kingsley",
+  "names": {
+    "display": "Frank Henry Silver Kingsley",
+    "given": "Frank Henry Silver",
+    "surname": "Kingsley",
+    "married": "Kingsley",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 OCT 1885",
+      "year": 1885,
+      "iso": "1885-10-29",
+      "precision": "exact",
+      "display": "October 29, 1885",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 OCT 1918",
+      "year": 1918,
+      "iso": "1918-10-10",
+      "precision": "exact",
+      "display": "October 10, 1918",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/20/9b/6e/35/5344484572ed8af6/wedding_frank_martha_-_copy_-_copy_original.jpg?hash=a11b8d2c8109ddde6db2c0f8e476731f17384678f4333c5b43fb48067106283e.1789455599&version=1",
+      "alt": "Frank Henry Silver Kingsley"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/20/9b/6e/35/5344484572ed8af6/wedding_frank_martha_-_copy_-_copy_original.jpg?hash=a11b8d2c8109ddde6db2c0f8e476731f17384678f4333c5b43fb48067106283e.1789455599&version=1",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2223
+    ],
+    "exSpouses": [],
+    "children": [
+      905,
+      2224,
+      2225,
+      2226,
+      2227,
+      2228,
+      2229
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1375"
+    ],
+    "spouseUnions": [
+      "F565"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2223,
+        "unionId": "F565",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 905,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2224,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2225,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2226,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2227,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2228,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2229,
+        "unionId": "F565",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000061376396841@",
+    "geniId": "6000000061376396841",
+    "rfn": "geni:6000000061376396841",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2222/",
+    "canonical": "https://www.genepedia.org/people/2222/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

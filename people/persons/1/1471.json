@@ -1,0 +1,92 @@
+{
+  "id": 1471,
+  "schema": "genepedia/person@1",
+  "slug": "mc-joubert",
+  "names": {
+    "display": "MC Joubert",
+    "given": "MC",
+    "surname": "Joubert",
+    "married": "Joubert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "26 FEB 1985",
+      "year": 1985,
+      "iso": "1985-02-26",
+      "precision": "exact",
+      "display": "February 26, 1985",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1470,
+      591
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1472
+    ],
+    "parentUnions": [
+      "F374"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1470,
+        "unionId": "F374",
+        "type": "biological"
+      },
+      {
+        "id": 591,
+        "unionId": "F374",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206608342831@",
+    "geniId": "6000000206608342831",
+    "rfn": "geni:6000000206608342831",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1471/",
+    "canonical": "https://www.genepedia.org/people/1471/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

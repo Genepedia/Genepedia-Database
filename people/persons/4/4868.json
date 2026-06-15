@@ -1,0 +1,98 @@
+{
+  "id": 4868,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-elizabeth-beetge",
+  "names": {
+    "display": "Susanna Elizabeth Beetge",
+    "given": "Susanna Elizabeth",
+    "surname": "Beetge",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 JAN 1854",
+      "year": 1854,
+      "iso": "1854-01-16",
+      "precision": "exact",
+      "display": "January 16, 1854",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4867
+    ],
+    "exSpouses": [],
+    "children": [
+      1908,
+      4869
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1158"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4867,
+        "unionId": "F1158",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1908,
+        "unionId": "F1158",
+        "type": "biological"
+      },
+      {
+        "id": 4869,
+        "unionId": "F1158",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000010281057487@",
+    "geniId": "6000000010281057487",
+    "rfn": "geni:6000000010281057487",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/4868/",
+    "canonical": "https://www.genepedia.org/people/4868/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

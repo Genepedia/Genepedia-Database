@@ -1,0 +1,129 @@
+{
+  "id": 606,
+  "schema": "genepedia/person@1",
+  "slug": "johan-du-preez",
+  "names": {
+    "display": "Johan du Preez",
+    "given": "Johan",
+    "surname": "du Preez",
+    "married": "du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "21 JUN 1972",
+      "year": 1972,
+      "iso": "1972-06-21",
+      "precision": "exact",
+      "display": "June 21, 1972",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/30/a4/1c/9c/534448660724d197/1910332_1034498778584_2933_n_original.jpg?hash=28c16d528d8e011863dae456123d45dbbd9ad7a1eb73f5645f82fe05f5a0902d.1789455599",
+      "alt": "Johan du Preez"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/30/a4/1c/9c/534448660724d197/1910332_1034498778584_2933_n_original.jpg?hash=28c16d528d8e011863dae456123d45dbbd9ad7a1eb73f5645f82fe05f5a0902d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      604,
+      222
+    ],
+    "spouses": [
+      1507
+    ],
+    "exSpouses": [],
+    "children": [
+      1508,
+      1509
+    ],
+    "siblings": [
+      605,
+      607
+    ],
+    "parentUnions": [
+      "F170"
+    ],
+    "spouseUnions": [
+      "F386"
+    ],
+    "parentLinks": [
+      {
+        "id": 604,
+        "unionId": "F170",
+        "type": "biological"
+      },
+      {
+        "id": 222,
+        "unionId": "F170",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1507,
+        "unionId": "F386",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1508,
+        "unionId": "F386",
+        "type": "biological"
+      },
+      {
+        "id": 1509,
+        "unionId": "F386",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587391839@",
+    "geniId": "6000000206587391839",
+    "rfn": "geni:6000000206587391839",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/606/",
+    "canonical": "https://www.genepedia.org/people/606/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

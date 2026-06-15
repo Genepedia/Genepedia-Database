@@ -1,0 +1,114 @@
+{
+  "id": 155,
+  "schema": "genepedia/person@1",
+  "slug": "martin-roselt",
+  "names": {
+    "display": "Martin Roselt",
+    "given": "Martin",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BET 1980 AND 1996",
+      "year": 1980,
+      "iso": "1996",
+      "precision": "exact",
+      "display": "1996",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/0d/1b/7c/ab/534448656e99a01f/screenshot_2024-03-13_134828_original.jpg?hash=fd7e56b5ea50301baa7691721b1ba5771d9e0ea6cfa6550497d677f13bd2862b.1789455599",
+      "alt": "Martin Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/0d/1b/7c/ab/534448656e99a01f/screenshot_2024-03-13_134828_original.jpg?hash=fd7e56b5ea50301baa7691721b1ba5771d9e0ea6cfa6550497d677f13bd2862b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      42,
+      153
+    ],
+    "spouses": [
+      406
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      154
+    ],
+    "parentUnions": [
+      "F49"
+    ],
+    "spouseUnions": [
+      "F129"
+    ],
+    "parentLinks": [
+      {
+        "id": 42,
+        "unionId": "F49",
+        "type": "biological"
+      },
+      {
+        "id": 153,
+        "unionId": "F49",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 406,
+        "unionId": "F129",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204043553835@",
+    "geniId": "6000000204043553835",
+    "rfn": "geni:6000000204043553835",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/155/",
+    "canonical": "https://www.genepedia.org/people/155/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

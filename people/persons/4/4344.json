@@ -1,0 +1,86 @@
+{
+  "id": 4344,
+  "schema": "genepedia/person@1",
+  "slug": "maria-anne-van-staden",
+  "names": {
+    "display": "Maria Anne Van Staden",
+    "given": "Maria Anne",
+    "surname": "Van Staden",
+    "married": "Van Staden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1670,
+      4342
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4343,
+      4345
+    ],
+    "parentUnions": [
+      "F1025"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1670,
+        "unionId": "F1025",
+        "type": "biological"
+      },
+      {
+        "id": 4342,
+        "unionId": "F1025",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I3944061237600020967@",
+    "geniId": "3944061237600020967",
+    "rfn": "geni:3944061237600020967",
+    "changed": "12 APR 2023"
+  },
+  "page": {
+    "route": "people/4344/",
+    "canonical": "https://www.genepedia.org/people/4344/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

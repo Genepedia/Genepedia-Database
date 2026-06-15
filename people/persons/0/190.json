@@ -1,0 +1,85 @@
+{
+  "id": 190,
+  "schema": "genepedia/person@1",
+  "slug": "booyens-190",
+  "names": {
+    "display": "? Booyens",
+    "given": "?",
+    "surname": "Booyens",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      188,
+      189
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      52
+    ],
+    "parentUnions": [
+      "F57"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 188,
+        "unionId": "F57",
+        "type": "biological"
+      },
+      {
+        "id": 189,
+        "unionId": "F57",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000213832612824@",
+    "geniId": "6000000213832612824",
+    "rfn": "geni:6000000213832612824",
+    "changed": "13 JAN 2025"
+  },
+  "page": {
+    "route": "people/190/",
+    "canonical": "https://www.genepedia.org/people/190/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

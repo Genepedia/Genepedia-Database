@@ -1,0 +1,169 @@
+{
+  "id": 2793,
+  "schema": "genepedia/person@1",
+  "slug": "maria-gertruida-liebenberg",
+  "names": {
+    "display": "Maria Gertruida Liebenberg",
+    "given": "Maria Gertruida",
+    "surname": "Liebenberg",
+    "married": "Brits",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 JAN 1850",
+      "year": 1850,
+      "iso": "1850-01-31",
+      "precision": "exact",
+      "display": "January 31, 1850",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 MAY 1914",
+      "year": 1914,
+      "iso": "1914-05-03",
+      "precision": "exact",
+      "display": "May 3, 1914",
+      "place": "Wildealslaagte, Cape Province, South Africa",
+      "location": {
+        "label": "Wildealslaagte, Cape Province, South Africa",
+        "placeName": "Wildealslaagte",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2794
+    ],
+    "exSpouses": [],
+    "children": [
+      1133,
+      2795,
+      2796,
+      2797,
+      2798,
+      2799,
+      2800
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1733"
+    ],
+    "spouseUnions": [
+      "F693"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2794,
+        "unionId": "F693",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1133,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2795,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2796,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2797,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2798,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2799,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2800,
+        "unionId": "F693",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000023921834671@",
+    "geniId": "6000000023921834671",
+    "rfn": "geni:6000000023921834671",
+    "changed": "03 JUN 2023"
+  },
+  "page": {
+    "route": "people/2793/",
+    "canonical": "https://www.genepedia.org/people/2793/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

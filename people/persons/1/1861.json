@@ -1,0 +1,182 @@
+{
+  "id": 1861,
+  "schema": "genepedia/person@1",
+  "slug": "jan-gabriel-theron",
+  "names": {
+    "display": "Jan Gabriel Theron",
+    "given": "Jan Gabriel",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 AUG 1834",
+      "year": 1834,
+      "iso": "1834-08-23",
+      "precision": "exact",
+      "display": "August 23, 1834",
+      "place": "Colesberg",
+      "location": {
+        "label": "Colesberg",
+        "placeName": "Colesberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "25 AUG 1834",
+      "year": 1834,
+      "iso": "1834-08-25",
+      "precision": "exact",
+      "display": "August 25, 1834",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1853,
+      1854
+    ],
+    "spouses": [
+      4661
+    ],
+    "exSpouses": [],
+    "children": [
+      4662,
+      4663,
+      4664,
+      4665,
+      4666,
+      4667,
+      4668,
+      4669
+    ],
+    "siblings": [
+      811,
+      1855,
+      1856,
+      1857,
+      1858,
+      1859,
+      1860,
+      1862
+    ],
+    "parentUnions": [
+      "F495"
+    ],
+    "spouseUnions": [
+      "F1113"
+    ],
+    "parentLinks": [
+      {
+        "id": 1853,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1854,
+        "unionId": "F495",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4661,
+        "unionId": "F1113",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4662,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4663,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4664,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4665,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4666,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4667,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4668,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4669,
+        "unionId": "F1113",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000023992180902@",
+    "geniId": "6000000023992180902",
+    "rfn": "geni:6000000023992180902",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1861/",
+    "canonical": "https://www.genepedia.org/people/1861/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

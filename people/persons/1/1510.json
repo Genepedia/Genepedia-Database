@@ -1,0 +1,77 @@
+{
+  "id": 1510,
+  "schema": "genepedia/person@1",
+  "slug": "justin-wienand",
+  "names": {
+    "display": "Justin Wienand",
+    "given": "Justin",
+    "surname": "Wienand",
+    "married": "Wienand",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      607
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F387"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 607,
+        "unionId": "F387",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206612835867@",
+    "geniId": "6000000206612835867",
+    "rfn": "geni:6000000206612835867",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1510/",
+    "canonical": "https://www.genepedia.org/people/1510/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

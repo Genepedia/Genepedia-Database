@@ -1,0 +1,143 @@
+{
+  "id": 101,
+  "schema": "genepedia/person@1",
+  "slug": "ulaine-cooper",
+  "names": {
+    "display": "Ulaine Cooper",
+    "given": "Ulaine",
+    "surname": "Cooper",
+    "married": "Taylor",
+    "nick": "Ulaine Edwards",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "5 APR 1942",
+      "year": 1942,
+      "iso": "1942-04-05",
+      "precision": "exact",
+      "display": "April 5, 1942",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/78/fd/6c/86/53444865712debe8/screenshot_2024-03-14_191318_original.jpg?hash=62e6aa067dbe47d8a2c49e94afb7697cfc636f4c97c4762d29a12aa414463896.1789455599",
+      "alt": "Ulaine Cooper"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/78/fd/6c/86/53444865712debe8/screenshot_2024-03-14_191318_original.jpg?hash=62e6aa067dbe47d8a2c49e94afb7697cfc636f4c97c4762d29a12aa414463896.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      269,
+      268
+    ],
+    "spouses": [
+      102,
+      267
+    ],
+    "exSpouses": [],
+    "children": [
+      31,
+      103,
+      104
+    ],
+    "siblings": [
+      270,
+      271,
+      272
+    ],
+    "parentUnions": [
+      "F87"
+    ],
+    "spouseUnions": [
+      "F37",
+      "F86"
+    ],
+    "parentLinks": [
+      {
+        "id": 269,
+        "unionId": "F87",
+        "type": "biological"
+      },
+      {
+        "id": 268,
+        "unionId": "F87",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 102,
+        "unionId": "F37",
+        "role": "partner"
+      },
+      {
+        "id": 267,
+        "unionId": "F86",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 31,
+        "unionId": "F37",
+        "type": "biological"
+      },
+      {
+        "id": 103,
+        "unionId": "F37",
+        "type": "biological"
+      },
+      {
+        "id": 104,
+        "unionId": "F37",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204069153831@",
+    "geniId": "6000000204069153831",
+    "rfn": "geni:6000000204069153831",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/101/",
+    "canonical": "https://www.genepedia.org/people/101/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

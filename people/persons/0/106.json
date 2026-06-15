@@ -1,0 +1,102 @@
+{
+  "id": 106,
+  "schema": "genepedia/person@1",
+  "slug": "carl-olivier",
+  "names": {
+    "display": "Carl Olivier",
+    "given": "Carl",
+    "surname": "Olivier",
+    "married": "Olivier",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "9 DEC 2020",
+      "year": 2020,
+      "iso": "2020-12-09",
+      "precision": "exact",
+      "display": "December 9, 2020",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/5c/35/e0/fb/53444865a0e6c6e7/screenshot_2024-04-07_212035_original.jpg?hash=bce4b54b53ccc37c2574da36e61ab0b79d713d8f78389625e698a0345fa85b77.1789455599",
+      "alt": "Carl Olivier"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/5c/35/e0/fb/53444865a0e6c6e7/screenshot_2024-04-07_212035_original.jpg?hash=bce4b54b53ccc37c2574da36e61ab0b79d713d8f78389625e698a0345fa85b77.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      105,
+      32
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F38"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 105,
+        "unionId": "F38",
+        "type": "biological"
+      },
+      {
+        "id": 32,
+        "unionId": "F38",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204049169855@",
+    "geniId": "6000000204049169855",
+    "rfn": "geni:6000000204049169855",
+    "changed": "07 DEC 2024"
+  },
+  "page": {
+    "route": "people/106/",
+    "canonical": "https://www.genepedia.org/people/106/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 766,
+  "schema": "genepedia/person@1",
+  "slug": "elma",
+  "names": {
+    "display": "Elma ?",
+    "given": "Elma",
+    "surname": "?",
+    "married": "?",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      303
+    ],
+    "exSpouses": [],
+    "children": [
+      767,
+      768
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F213"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 303,
+        "unionId": "F213",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 767,
+        "unionId": "F213",
+        "type": "biological"
+      },
+      {
+        "id": 768,
+        "unionId": "F213",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149048831@",
+    "geniId": "6000000204149048831",
+    "rfn": "geni:6000000204149048831",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/766/",
+    "canonical": "https://www.genepedia.org/people/766/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

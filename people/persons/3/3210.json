@@ -1,0 +1,77 @@
+{
+  "id": 3210,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-christiaan-van-der-vywer",
+  "names": {
+    "display": "Jacobus Christiaan van der Vywer",
+    "given": "Jacobus Christiaan",
+    "surname": "van der Vywer",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1288
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F790"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1288,
+        "unionId": "F790",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000112930502821@",
+    "geniId": "6000000112930502821",
+    "rfn": "geni:6000000112930502821",
+    "changed": "19 NOV 2019"
+  },
+  "page": {
+    "route": "people/3210/",
+    "canonical": "https://www.genepedia.org/people/3210/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

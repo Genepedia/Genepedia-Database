@@ -1,0 +1,139 @@
+{
+  "id": 4169,
+  "schema": "genepedia/person@1",
+  "slug": "gert-johannes-hermias-wilhelmus-nieuwoudt",
+  "names": {
+    "display": "Gert Johannes Hermias Wilhelmus Nieuwoudt",
+    "given": "Gert Johannes Hermias Wilhelmus",
+    "surname": "Nieuwoudt",
+    "married": "Nieuwoudt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 DEC 1900",
+      "year": 1900,
+      "iso": "1900-12-15",
+      "precision": "exact",
+      "display": "December 15, 1900",
+      "place": null
+    },
+    "death": {
+      "date": "16 JUL 1962",
+      "year": 1962,
+      "iso": "1962-07-16",
+      "precision": "exact",
+      "display": "July 16, 1962",
+      "place": "Kimberley, NC, South Africa",
+      "location": {
+        "label": "Kimberley, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kuruman, NC, South Africa",
+      "location": {
+        "label": "Kuruman, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kuruman",
+        "postalCode": "8460",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1578
+    ],
+    "exSpouses": [],
+    "children": [
+      4170
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F974"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1578,
+        "unionId": "F974",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4170,
+        "unionId": "F974",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000004179389348@",
+    "geniId": "6000000004179389348",
+    "rfn": "geni:6000000004179389348",
+    "changed": "12 APR 2026"
+  },
+  "page": {
+    "route": "people/4169/",
+    "canonical": "https://www.genepedia.org/people/4169/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

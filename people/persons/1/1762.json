@@ -1,0 +1,184 @@
+{
+  "id": 1762,
+  "schema": "genepedia/person@1",
+  "slug": "samuel-zachary-arkoff",
+  "names": {
+    "display": "Samuel Zachary Arkoff",
+    "given": "Samuel Zachary",
+    "surname": "Arkoff",
+    "married": "Arkoff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JUN 1918",
+      "year": 1918,
+      "iso": "1918-06-12",
+      "precision": "exact",
+      "display": "June 12, 1918",
+      "place": "Fort Dodge, Iowa, United States",
+      "location": {
+        "label": "Fort Dodge, Iowa, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fort Dodge",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Iowa",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 SEP 2001",
+      "year": 2001,
+      "iso": "2001-09-16",
+      "precision": "exact",
+      "display": "September 16, 2001",
+      "place": "Burbank, CA, United States",
+      "location": {
+        "label": "Burbank, CA, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Burbank",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "CA",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c6/2a/20/b8/53444865dc859c10/samuel_arkoff_original.jpg?hash=8f2bfd4ad5567421b82052686ec9947823c718cbfd53715f8bca96217c8f8bb0.1789455599",
+      "alt": "Samuel Zachary Arkoff"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c6/2a/20/b8/53444865dc859c10/samuel_arkoff_original.jpg?hash=8f2bfd4ad5567421b82052686ec9947823c718cbfd53715f8bca96217c8f8bb0.1789455599",
+        "form": "",
+        "title": "Samuel Z. Arkoff",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/06/61/24/1b/5344483c1aabc3f3/yed52juf_original.jpg?hash=840d11edcd9be2836e46cffd963e13272d63fe0e42cead554b2d7e32593b5379.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/e4/66/3b/25/53444838a0b25815/samuel_z_large.jpg?hash=776d3d466bf86e2964db4bf86bff13701acbfecdf73141ce44bd988fe2b07c66.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1761,
+      730
+    ],
+    "spouses": [
+      4499
+    ],
+    "exSpouses": [],
+    "children": [
+      4500,
+      4501
+    ],
+    "siblings": [
+      1763,
+      1764,
+      1765,
+      1766
+    ],
+    "parentUnions": [
+      "F462"
+    ],
+    "spouseUnions": [
+      "F1068"
+    ],
+    "parentLinks": [
+      {
+        "id": 1761,
+        "unionId": "F462",
+        "type": "biological"
+      },
+      {
+        "id": 730,
+        "unionId": "F462",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4499,
+        "unionId": "F1068",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4500,
+        "unionId": "F1068",
+        "type": "biological"
+      },
+      {
+        "id": 4501,
+        "unionId": "F1068",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000026547190075@",
+    "geniId": "6000000026547190075",
+    "rfn": "geni:6000000026547190075",
+    "changed": "27 FEB 2025"
+  },
+  "page": {
+    "route": "people/1762/",
+    "canonical": "https://www.genepedia.org/people/1762/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

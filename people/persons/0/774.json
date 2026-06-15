@@ -1,0 +1,89 @@
+{
+  "id": 774,
+  "schema": "genepedia/person@1",
+  "slug": "frankie-lurie",
+  "names": {
+    "display": "Frankie Lurie",
+    "given": "Frankie",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      303,
+      769
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      770,
+      771,
+      772,
+      773,
+      775
+    ],
+    "parentUnions": [
+      "F214"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 303,
+        "unionId": "F214",
+        "type": "biological"
+      },
+      {
+        "id": 769,
+        "unionId": "F214",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204088090825@",
+    "geniId": "6000000204088090825",
+    "rfn": "geni:6000000204088090825",
+    "changed": "14 MAR 2024"
+  },
+  "page": {
+    "route": "people/774/",
+    "canonical": "https://www.genepedia.org/people/774/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

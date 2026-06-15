@@ -1,0 +1,197 @@
+{
+  "id": 4393,
+  "schema": "genepedia/person@1",
+  "slug": "maria-magdalena-myburgh",
+  "names": {
+    "display": "Maria Magdalena Myburgh",
+    "given": "Maria Magdalena",
+    "surname": "Myburgh",
+    "married": "Corrie",
+    "nick": "Corrie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 MAY 1893",
+      "year": 1893,
+      "iso": "1893-05-11",
+      "precision": "exact",
+      "display": "May 11, 1893",
+      "place": null
+    },
+    "death": {
+      "date": "28 JUN 1968",
+      "year": 1968,
+      "iso": "1968-06-28",
+      "precision": "exact",
+      "display": "June 28, 1968",
+      "place": null
+    },
+    "baptism": {
+      "date": "30 JUL 1893",
+      "year": 1893,
+      "iso": "1893-07-30",
+      "precision": "exact",
+      "display": "July 30, 1893",
+      "place": "Nederduitse Gereformeerde Kerk, Bothaville, Orange Free State, South Africa",
+      "location": {
+        "label": "Nederduitse Gereformeerde Kerk, Bothaville, Orange Free State, South Africa",
+        "placeName": "Nederduitse Gereformeerde Kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bothaville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/4e/e5/dc/53/5344483af901b6dc/mama_old_family_jpeg_small_large.jpg?hash=904c689377dc5a227b6471e4dee632e647cacb9aff16e9158b999b6601887176.1789455599",
+      "alt": "Maria Magdalena Myburgh"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/4e/e5/dc/53/5344483af901b6dc/mama_old_family_jpeg_small_large.jpg?hash=904c689377dc5a227b6471e4dee632e647cacb9aff16e9158b999b6601887176.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/5b/d1/cb/5d/5344483af9003c92/mama_old_family_jpeg_small_original.jpg?hash=e36184be32df9667d72619ffd05cdacaabf54fa9b2a7adeb24882fa23183a155.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/23/38/5d/6b/53444847a7e02d1c/record-image_3q9m-c953-qpwz_original.jpg?hash=d63ddad264552e6ba3c7fbd5d915e9dea2c5f42352eb9d894b587b7b9e07a41c.1789455599",
+        "form": "",
+        "title": "MYBURGH, M.M. Baptism",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/65/51/2d/a8/53444859b7437c89/record-image_11__original.jpg?hash=9811deae334b9fbf8117b78f3e9277e9016d9dc1ae12788ceb2583d8076e6720.1789455599",
+        "form": "",
+        "title": "CORRIE, H.C. Baptism 1915",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1719
+    ],
+    "exSpouses": [],
+    "children": [
+      4394,
+      4395,
+      4396,
+      4397,
+      4398,
+      4399,
+      4400,
+      4401
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1039"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1719,
+        "unionId": "F1039",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4394,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4395,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4396,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4397,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4398,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4399,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4400,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4401,
+        "unionId": "F1039",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020763113116@",
+    "geniId": "6000000020763113116",
+    "rfn": "geni:6000000020763113116",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/4393/",
+    "canonical": "https://www.genepedia.org/people/4393/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

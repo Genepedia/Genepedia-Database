@@ -1,0 +1,93 @@
+{
+  "id": 3055,
+  "schema": "genepedia/person@1",
+  "slug": "corlea",
+  "names": {
+    "display": "Corlea",
+    "given": "Corlea",
+    "surname": "Fourie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "23 SEP 1997",
+      "year": 1997,
+      "iso": "1997-09-23",
+      "precision": "exact",
+      "display": "September 23, 1997",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1222,
+      3052
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3053,
+      3054
+    ],
+    "parentUnions": [
+      "F749"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1222,
+        "unionId": "F749",
+        "type": "biological"
+      },
+      {
+        "id": 3052,
+        "unionId": "F749",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000222125838220@",
+    "geniId": "6000000222125838220",
+    "rfn": "geni:6000000222125838220",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3055/",
+    "canonical": "https://www.genepedia.org/people/3055/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

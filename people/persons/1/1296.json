@@ -1,0 +1,176 @@
+{
+  "id": 1296,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-frederik-mouton",
+  "names": {
+    "display": "Jacobus Johannes Frederik Mouton",
+    "given": "Jacobus Johannes Frederik",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 FEB 1884",
+      "year": 1884,
+      "iso": "1884-02-13",
+      "precision": "exact",
+      "display": "February 13, 1884",
+      "place": null
+    },
+    "death": {
+      "date": "16 OCT 1957",
+      "year": 1957,
+      "iso": "1957-10-16",
+      "precision": "exact",
+      "display": "October 16, 1957",
+      "place": "Doornvlei, Vredendal, WC, South Africa",
+      "location": {
+        "label": "Doornvlei, Vredendal, WC, South Africa",
+        "placeName": "Doornvlei",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vredendal",
+        "postalCode": "8160",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1292,
+      1291
+    ],
+    "spouses": [
+      3257
+    ],
+    "exSpouses": [],
+    "children": [
+      3258,
+      3259,
+      3260,
+      3261,
+      3262,
+      3263,
+      3264
+    ],
+    "siblings": [
+      1293,
+      1294,
+      1295,
+      1297,
+      1298,
+      1299,
+      1300,
+      537
+    ],
+    "parentUnions": [
+      "F336"
+    ],
+    "spouseUnions": [
+      "F800"
+    ],
+    "parentLinks": [
+      {
+        "id": 1292,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1291,
+        "unionId": "F336",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3257,
+        "unionId": "F800",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3258,
+        "unionId": "F800",
+        "type": "biological"
+      },
+      {
+        "id": 3259,
+        "unionId": "F800",
+        "type": "biological"
+      },
+      {
+        "id": 3260,
+        "unionId": "F800",
+        "type": "biological"
+      },
+      {
+        "id": 3261,
+        "unionId": "F800",
+        "type": "biological"
+      },
+      {
+        "id": 3262,
+        "unionId": "F800",
+        "type": "biological"
+      },
+      {
+        "id": 3263,
+        "unionId": "F800",
+        "type": "biological"
+      },
+      {
+        "id": 3264,
+        "unionId": "F800",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000025306536055@",
+    "geniId": "6000000025306536055",
+    "rfn": "geni:6000000025306536055",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1296/",
+    "canonical": "https://www.genepedia.org/people/1296/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

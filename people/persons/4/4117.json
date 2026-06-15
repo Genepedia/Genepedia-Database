@@ -1,0 +1,134 @@
+{
+  "id": 4117,
+  "schema": "genepedia/person@1",
+  "slug": "helena-dorothea-scholtz",
+  "names": {
+    "display": "Helena Dorothea Scholtz",
+    "given": "Helena Dorothea",
+    "surname": "Scholtz",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 NOV 1871",
+      "year": 1871,
+      "iso": "1871-11-01",
+      "precision": "exact",
+      "display": "November 1, 1871",
+      "place": null
+    },
+    "death": {
+      "date": "18 NOV 1950",
+      "year": 1950,
+      "iso": "1950-11-18",
+      "precision": "exact",
+      "display": "November 18, 1950",
+      "place": null
+    },
+    "baptism": {
+      "date": "21 JAN 1872",
+      "year": 1872,
+      "iso": "1872-01-21",
+      "precision": "exact",
+      "display": "January 21, 1872",
+      "place": "Boshof, Free State, South Africa",
+      "location": {
+        "label": "Boshof, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f7/84/c1/73/53444842f1b759bd/record-image_3q9m-c953-s9k7-l_original.jpg?hash=a04f101b944b39a52ea5b0ef3cd468debd979175ca8df73d88ceafe865cad555.1789455599",
+      "alt": "Helena Dorothea Scholtz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f7/84/c1/73/53444842f1b759bd/record-image_3q9m-c953-s9k7-l_original.jpg?hash=a04f101b944b39a52ea5b0ef3cd468debd979175ca8df73d88ceafe865cad555.1789455599",
+        "form": "",
+        "title": "record-image_3Q9M-C953-S9K7-L.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1556
+    ],
+    "exSpouses": [],
+    "children": [
+      4118
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F952"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1556,
+        "unionId": "F952",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4118,
+        "unionId": "F952",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000055924274900@",
+    "geniId": "6000000055924274900",
+    "rfn": "geni:6000000055924274900",
+    "changed": "14 FEB 2025"
+  },
+  "page": {
+    "route": "people/4117/",
+    "canonical": "https://www.genepedia.org/people/4117/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

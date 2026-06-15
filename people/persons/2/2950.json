@@ -1,0 +1,139 @@
+{
+  "id": 2950,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacob-ras",
+  "names": {
+    "display": "Johannes Jacob Ras",
+    "given": "Johannes Jacob",
+    "surname": "Ras",
+    "married": "Ras",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 AUG 1871",
+      "year": 1871,
+      "iso": "1871-08-03",
+      "precision": "exact",
+      "display": "August 3, 1871",
+      "place": "Victoria West, Cape Of Good Hope, South Africa",
+      "location": {
+        "label": "Victoria West, Cape Of Good Hope, South Africa",
+        "placeName": "Victoria West, Cape Of Good Hope, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 JAN 1910",
+      "year": 1910,
+      "iso": "1910-01-08",
+      "precision": "exact",
+      "display": "January 8, 1910",
+      "place": "Kimberley, South Africa",
+      "location": {
+        "label": "Kimberley, South Africa",
+        "placeName": "Kimberley, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2943,
+      2944
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2945,
+      2946,
+      2947,
+      1178,
+      2948,
+      2949,
+      2951,
+      2952,
+      2953
+    ],
+    "parentUnions": [
+      "F723"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2943,
+        "unionId": "F723",
+        "type": "biological"
+      },
+      {
+        "id": 2944,
+        "unionId": "F723",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000111799758127@",
+    "geniId": "6000000111799758127",
+    "rfn": "geni:6000000111799758127",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2950/",
+    "canonical": "https://www.genepedia.org/people/2950/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

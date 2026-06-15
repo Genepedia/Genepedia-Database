@@ -1,0 +1,93 @@
+{
+  "id": 3398,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-maria-cecilia-van-niekerk",
+  "names": {
+    "display": "Johanna Maria Cecilia van Niekerk",
+    "given": "Johanna Maria Cecilia",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3392,
+      3391
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3393,
+      3394,
+      3395,
+      3396,
+      3397,
+      3399,
+      3400,
+      3401,
+      1336
+    ],
+    "parentUnions": [
+      "F833"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3392,
+        "unionId": "F833",
+        "type": "biological"
+      },
+      {
+        "id": 3391,
+        "unionId": "F833",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052593533232@",
+    "geniId": "6000000052593533232",
+    "rfn": "geni:6000000052593533232",
+    "changed": "11 JAN 2017"
+  },
+  "page": {
+    "route": "people/3398/",
+    "canonical": "https://www.genepedia.org/people/3398/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

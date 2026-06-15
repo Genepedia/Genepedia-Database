@@ -1,0 +1,94 @@
+{
+  "id": 4762,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-bester-4762",
+  "names": {
+    "display": "Jacobus Marthinus Bester",
+    "given": "Jacobus Marthinus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "10 APR 1943",
+      "year": 1943,
+      "iso": "1943-04-10",
+      "precision": "exact",
+      "display": "April 10, 1943",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1881,
+      4758
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4759,
+      4760,
+      4761
+    ],
+    "parentUnions": [
+      "F1132"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1881,
+        "unionId": "F1132",
+        "type": "biological"
+      },
+      {
+        "id": 4758,
+        "unionId": "F1132",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066457609962@",
+    "geniId": "6000000066457609962",
+    "rfn": "geni:6000000066457609962",
+    "changed": "04 SEP 2017"
+  },
+  "page": {
+    "route": "people/4762/",
+    "canonical": "https://www.genepedia.org/people/4762/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

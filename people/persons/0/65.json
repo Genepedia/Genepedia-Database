@@ -1,0 +1,174 @@
+{
+  "id": 65,
+  "schema": "genepedia/person@1",
+  "slug": "sophia-christina-van-taak",
+  "names": {
+    "display": "Sophia Christina van Taak",
+    "given": "Sophia Christina",
+    "surname": "van Taak",
+    "married": "de Beer",
+    "nick": "Sofie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 JUL 1941",
+      "year": 1941,
+      "iso": "1941-07-17",
+      "precision": "exact",
+      "display": "July 17, 1941",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 NOV 2022",
+      "year": 2022,
+      "iso": "2022-11-02",
+      "precision": "exact",
+      "display": "November 2, 2022",
+      "place": "Strand, Western Cape, South Africa",
+      "location": {
+        "label": "Strand, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Strand",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/5d/fc/69/a2/53444851a2d782f3/screenshot_2019-03-07-08-27-32-1_original.jpg?hash=b90e8d653ce5aaf8005279aef63227ed4b38c19a38e6e66cd69294ad54d748a8.1789455599",
+      "alt": "Sophia Christina van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/5d/fc/69/a2/53444851a2d782f3/screenshot_2019-03-07-08-27-32-1_original.jpg?hash=b90e8d653ce5aaf8005279aef63227ed4b38c19a38e6e66cd69294ad54d748a8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      210,
+      211
+    ],
+    "spouses": [
+      66
+    ],
+    "exSpouses": [],
+    "children": [
+      12,
+      67,
+      68
+    ],
+    "siblings": [
+      212,
+      213
+    ],
+    "parentUnions": [
+      "F68"
+    ],
+    "spouseUnions": [
+      "F22"
+    ],
+    "parentLinks": [
+      {
+        "id": 210,
+        "unionId": "F68",
+        "type": "biological"
+      },
+      {
+        "id": 211,
+        "unionId": "F68",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 66,
+        "unionId": "F22",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 12,
+        "unionId": "F22",
+        "type": "biological"
+      },
+      {
+        "id": 67,
+        "unionId": "F22",
+        "type": "biological"
+      },
+      {
+        "id": 68,
+        "unionId": "F22",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227899647@",
+    "geniId": "6000000027227899647",
+    "rfn": "geni:6000000027227899647",
+    "changed": "05 FEB 2025"
+  },
+  "page": {
+    "route": "people/65/",
+    "canonical": "https://www.genepedia.org/people/65/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

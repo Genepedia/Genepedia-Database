@@ -1,0 +1,125 @@
+{
+  "id": 2641,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-maria-mcdonald",
+  "names": {
+    "display": "Susanna Maria McDonald",
+    "given": "Susanna Maria",
+    "surname": "McDonald",
+    "married": "Scott",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 MAY 1857",
+      "year": 1857,
+      "iso": "1857-05-31",
+      "precision": "exact",
+      "display": "May 31, 1857",
+      "place": null
+    },
+    "death": {
+      "date": "1886",
+      "year": 1886,
+      "iso": "1886",
+      "precision": "exact",
+      "display": "1886",
+      "place": null
+    },
+    "baptism": {
+      "date": "24 JAN 1858",
+      "year": 1858,
+      "iso": "1858-01-24",
+      "precision": "exact",
+      "display": "January 24, 1858",
+      "place": "Hopetown, Cape Province, South Africa",
+      "location": {
+        "label": "Hopetown, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2640,
+      1068
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2642,
+      2643
+    ],
+    "parentUnions": [
+      "F646"
+    ],
+    "spouseUnions": [
+      "F1626"
+    ],
+    "parentLinks": [
+      {
+        "id": 2640,
+        "unionId": "F646",
+        "type": "biological"
+      },
+      {
+        "id": 1068,
+        "unionId": "F646",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000005098192482@",
+    "geniId": "6000000005098192482",
+    "rfn": "geni:6000000005098192482",
+    "changed": "26 JUL 2025"
+  },
+  "page": {
+    "route": "people/2641/",
+    "canonical": "https://www.genepedia.org/people/2641/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

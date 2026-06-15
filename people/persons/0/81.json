@@ -1,0 +1,110 @@
+{
+  "id": 81,
+  "schema": "genepedia/person@1",
+  "slug": "beatrix-elizabeth-johanna-van-niekerk",
+  "names": {
+    "display": "Beatrix Elizabeth Johanna van Niekerk",
+    "given": "Beatrix Elizabeth Johanna",
+    "surname": "van Niekerk",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "30 NOV 1940",
+      "year": 1940,
+      "iso": "1940-11-30",
+      "precision": "exact",
+      "display": "November 30, 1940",
+      "place": "Bloemhof",
+      "location": {
+        "label": "Bloemhof",
+        "placeName": "Bloemhof",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      79,
+      80
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      82,
+      83,
+      21
+    ],
+    "parentUnions": [
+      "F29"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 79,
+        "unionId": "F29",
+        "type": "biological"
+      },
+      {
+        "id": 80,
+        "unionId": "F29",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204905369898@",
+    "geniId": "6000000204905369898",
+    "rfn": "geni:6000000204905369898",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/81/",
+    "canonical": "https://www.genepedia.org/people/81/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

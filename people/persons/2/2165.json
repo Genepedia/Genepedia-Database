@@ -1,0 +1,137 @@
+{
+  "id": 2165,
+  "schema": "genepedia/person@1",
+  "slug": "susan-hibbert-2165",
+  "names": {
+    "display": "Susan Hibbert",
+    "given": "Susan",
+    "surname": "Hibbert",
+    "married": "Staple",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 JUN 1885",
+      "year": 1885,
+      "iso": "1885-06-21",
+      "precision": "exact",
+      "display": "June 21, 1885",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "26 JUL 1885",
+      "year": 1885,
+      "iso": "1885-07-26",
+      "precision": "exact",
+      "display": "July 26, 1885",
+      "place": "DuToitspan, South Africa",
+      "location": {
+        "label": "DuToitspan, South Africa",
+        "placeName": "DuToitspan",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e9/d6/74/13/5344484177dda640/record-image_3qs7-l94x-2sjg_original.jpg?hash=56e26d11e94ead4fb5a10fe5e0bec4d4fd9f506205e75d4e3c8e25a008ac9b18.1789455599",
+      "alt": "Susan Hibbert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e9/d6/74/13/5344484177dda640/record-image_3qs7-l94x-2sjg_original.jpg?hash=56e26d11e94ead4fb5a10fe5e0bec4d4fd9f506205e75d4e3c8e25a008ac9b18.1789455599",
+        "form": "",
+        "title": "record-image_3QS7-L94X-2SJG.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2162,
+      893
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2163,
+      2164,
+      2166,
+      2167,
+      2168,
+      2169,
+      2170,
+      2171,
+      2172
+    ],
+    "parentUnions": [
+      "F556"
+    ],
+    "spouseUnions": [
+      "F1329"
+    ],
+    "parentLinks": [
+      {
+        "id": 2162,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 893,
+        "unionId": "F556",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028101469708@",
+    "geniId": "6000000028101469708",
+    "rfn": "geni:6000000028101469708",
+    "changed": "26 JUN 2015"
+  },
+  "page": {
+    "route": "people/2165/",
+    "canonical": "https://www.genepedia.org/people/2165/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

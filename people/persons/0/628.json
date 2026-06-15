@@ -1,0 +1,213 @@
+{
+  "id": 628,
+  "schema": "genepedia/person@1",
+  "slug": "izaak-david-van-niekerk-628",
+  "names": {
+    "display": "Izaak David van Niekerk",
+    "given": "Izaak David",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 NOV 1844",
+      "year": 1844,
+      "iso": "1844-11-29",
+      "precision": "exact",
+      "display": "November 29, 1844",
+      "place": null
+    },
+    "death": {
+      "date": "8 JUL 1895",
+      "year": 1895,
+      "iso": "1895-07-08",
+      "precision": "exact",
+      "display": "July 8, 1895",
+      "place": "Bloemhof, North West, South Africa",
+      "location": {
+        "label": "Bloemhof, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Rietfontein Farm Cemetery, Bloemhof, North West, South Africa",
+      "location": {
+        "label": "Rietfontein Farm Cemetery, Bloemhof, North West, South Africa",
+        "placeName": "Rietfontein Farm Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/95/f1/66/8f/5344483bb4bef3fa/jac99gex_original.jpg?hash=8e124b9a43349b5e12459174ed9bbd33cc82f2f8614268af7d80e98748d7daa8.1789455599",
+      "alt": "Izaak David van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/95/f1/66/8f/5344483bb4bef3fa/jac99gex_original.jpg?hash=8e124b9a43349b5e12459174ed9bbd33cc82f2f8614268af7d80e98748d7daa8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/9a/ab/22/61/5344483bb4c4ab8c/mum76caf_original.jpg?hash=1709faf01ef25c92b97399b975e8c5fef0f55dbd33b7c21e89e8328ec5a2d08b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/ee/45/8d/9b/5344483bb4bcf813/izaak_david_van_niekerk_dn_1844-1895_original.jpg?hash=48fed2e92769b5b988086e655f8a5ae936ee58c97162e5d1395ae82375c31add.1789455599",
+        "form": "",
+        "title": "Izaak David van Niekerk DN 1844-1895.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1539,
+      1540
+    ],
+    "spouses": [
+      629
+    ],
+    "exSpouses": [],
+    "children": [
+      239,
+      630,
+      631,
+      632,
+      633
+    ],
+    "siblings": [
+      1541,
+      1542,
+      1543,
+      1544,
+      1545,
+      1546,
+      1547
+    ],
+    "parentUnions": [
+      "F394"
+    ],
+    "spouseUnions": [
+      "F176"
+    ],
+    "parentLinks": [
+      {
+        "id": 1539,
+        "unionId": "F394",
+        "type": "biological"
+      },
+      {
+        "id": 1540,
+        "unionId": "F394",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 629,
+        "unionId": "F176",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 239,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 630,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 631,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 632,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 633,
+        "unionId": "F176",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024466290667@",
+    "geniId": "6000000024466290667",
+    "rfn": "geni:6000000024466290667",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/628/",
+    "canonical": "https://www.genepedia.org/people/628/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,179 @@
+{
+  "id": 3212,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-petronella-booyens",
+  "names": {
+    "display": "Magdalena Petronella Booyens",
+    "given": "Magdalena Petronella",
+    "surname": "Booyens",
+    "married": "Vorster",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 FEB 1912",
+      "year": 1912,
+      "iso": "1912-02-29",
+      "precision": "exact",
+      "display": "February 29, 1912",
+      "place": "Heilbron, FS, South Africa",
+      "location": {
+        "label": "Heilbron, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Heilbron",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 JAN 1984",
+      "year": 1984,
+      "iso": "1984-01-09",
+      "precision": "exact",
+      "display": "January 9, 1984",
+      "place": "Bela Bela, LP, South Africa",
+      "location": {
+        "label": "Bela Bela, LP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bela Bela",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "LP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Bela Bela, LP, South Africa",
+      "location": {
+        "label": "Bela Bela, LP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bela Bela",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "LP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/4f/b3/67/e9/5344485196bf3a79/vorster_gerhardus_philippus_marthinus_magdalena_peronella_booyens_1942_heilbron_332_-_church_records_1848-1956_free_state_heilbron_marriages_1929-1950_original.jpg?hash=993e463b518e04675ecddedd51f398a39345b22ed1346ec300f85804ca3ff923.1789455599",
+      "alt": "Magdalena Petronella Booyens"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/4f/b3/67/e9/5344485196bf3a79/vorster_gerhardus_philippus_marthinus_magdalena_peronella_booyens_1942_heilbron_332_-_church_records_1848-1956_free_state_heilbron_marriages_1929-1950_original.jpg?hash=993e463b518e04675ecddedd51f398a39345b22ed1346ec300f85804ca3ff923.1789455599",
+        "form": "",
+        "title": "Vorster Gerhardus Philippus Marthinus & Magdalena Peronella Booyens 1942 Heilbron 332 - Church Records, 1848-1956 Free State Heilbron Marriages 1929-1950.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1290
+    ],
+    "exSpouses": [],
+    "children": [
+      3213,
+      3214,
+      3215
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F792"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1290,
+        "unionId": "F792",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3213,
+        "unionId": "F792",
+        "type": "biological"
+      },
+      {
+        "id": 3214,
+        "unionId": "F792",
+        "type": "biological"
+      },
+      {
+        "id": 3215,
+        "unionId": "F792",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065064609838@",
+    "geniId": "6000000065064609838",
+    "rfn": "geni:6000000065064609838",
+    "changed": "15 JAN 2020"
+  },
+  "page": {
+    "route": "people/3212/",
+    "canonical": "https://www.genepedia.org/people/3212/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

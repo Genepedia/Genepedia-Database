@@ -1,0 +1,105 @@
+{
+  "id": 3940,
+  "schema": "genepedia/person@1",
+  "slug": "maria-magdalena-suzanna-jacobs",
+  "names": {
+    "display": "Maria Magdalena Suzanna Jacobs",
+    "given": "Maria Magdalena Suzanna",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1851",
+      "year": 1851,
+      "iso": "1851",
+      "precision": "exact",
+      "display": "1851",
+      "place": null
+    },
+    "death": {
+      "date": "1918",
+      "year": 1918,
+      "iso": "1918",
+      "precision": "exact",
+      "display": "1918",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1534
+    ],
+    "exSpouses": [],
+    "children": [
+      3941,
+      3942
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F928"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1534,
+        "unionId": "F928",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3941,
+        "unionId": "F928",
+        "type": "biological"
+      },
+      {
+        "id": 3942,
+        "unionId": "F928",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000000734954511@",
+    "geniId": "6000000000734954511",
+    "rfn": "geni:6000000000734954511",
+    "changed": "21 NOV 2022"
+  },
+  "page": {
+    "route": "people/3940/",
+    "canonical": "https://www.genepedia.org/people/3940/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

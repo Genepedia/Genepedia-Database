@@ -1,0 +1,124 @@
+{
+  "id": 2231,
+  "schema": "genepedia/person@1",
+  "slug": "raymond-roselt",
+  "names": {
+    "display": "Raymond Roselt",
+    "given": "Raymond",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1954",
+      "year": 1954,
+      "iso": "1954",
+      "precision": "exact",
+      "display": "1954",
+      "place": "Zambia",
+      "location": {
+        "label": "Zambia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zambia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/9d/7a/80/73/534448663d5a1022/screenshot_2024-07-22_104318_original.jpg?hash=f5596a52a1e6a0e50b258d895d59a0c6c2c2036cc661db1b0c4beb0e88bea8f5.1789455599",
+      "alt": "Raymond Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/9d/7a/80/73/534448663d5a1022/screenshot_2024-07-22_104318_original.jpg?hash=f5596a52a1e6a0e50b258d895d59a0c6c2c2036cc661db1b0c4beb0e88bea8f5.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      906,
+      2230
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2232,
+      2233,
+      2234
+    ],
+    "parentUnions": [
+      "F566"
+    ],
+    "spouseUnions": [
+      "F1382"
+    ],
+    "parentLinks": [
+      {
+        "id": 906,
+        "unionId": "F566",
+        "type": "biological"
+      },
+      {
+        "id": 2230,
+        "unionId": "F566",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000054791746970@",
+    "geniId": "6000000054791746970",
+    "rfn": "geni:6000000054791746970",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/2231/",
+    "canonical": "https://www.genepedia.org/people/2231/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

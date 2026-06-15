@@ -1,0 +1,85 @@
+{
+  "id": 1711,
+  "schema": "genepedia/person@1",
+  "slug": "profile-1711",
+  "names": {
+    "display": "",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      711
+    ],
+    "exSpouses": [],
+    "children": [
+      1712
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F449"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 711,
+        "unionId": "F449",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1712,
+        "unionId": "F449",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000096636356821@",
+    "geniId": "6000000096636356821",
+    "rfn": "geni:6000000096636356821",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/1711/",
+    "canonical": "https://www.genepedia.org/people/1711/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 305,
+  "schema": "genepedia/person@1",
+  "slug": "lurie",
+  "names": {
+    "display": "? Lurie",
+    "given": "?",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      111
+    ],
+    "exSpouses": [],
+    "children": [
+      306
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F98"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 111,
+        "unionId": "F98",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 306,
+        "unionId": "F98",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207506709828@",
+    "geniId": "6000000207506709828",
+    "rfn": "geni:6000000207506709828",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/305/",
+    "canonical": "https://www.genepedia.org/people/305/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

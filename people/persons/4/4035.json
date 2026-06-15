@@ -1,0 +1,133 @@
+{
+  "id": 4035,
+  "schema": "genepedia/person@1",
+  "slug": "alida-maria-van-niekerk",
+  "names": {
+    "display": "Alida Maria van Niekerk",
+    "given": "Alida Maria",
+    "surname": "van Niekerk",
+    "married": "Kotzee",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1881",
+      "year": 1881,
+      "iso": "1881",
+      "precision": "exact",
+      "display": "1881",
+      "place": null
+    },
+    "death": {
+      "date": "16 DEC 1921",
+      "year": 1921,
+      "iso": "1921-12-16",
+      "precision": "exact",
+      "display": "December 16, 1921",
+      "place": "Goedgedacht, Wolmaransstad, North West, South Africa",
+      "location": {
+        "label": "Goedgedacht, Wolmaransstad, North West, South Africa",
+        "placeName": "Goedgedacht",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/bb/93/1d/9d/5344483bf9740af0/alida_maria_kotzee_van_niekerk_dn_16_dec_1921_original.jpg?hash=4d9d67e0d2d09542f9610431fd88c794dff234b6625242d00eb205db767f9372.1789455599",
+      "alt": "Alida Maria van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/bb/93/1d/9d/5344483bf9740af0/alida_maria_kotzee_van_niekerk_dn_16_dec_1921_original.jpg?hash=4d9d67e0d2d09542f9610431fd88c794dff234b6625242d00eb205db767f9372.1789455599",
+        "form": "",
+        "title": "Alida Maria Kotzee (van Niekerk) DN 16 Dec 1921.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1543,
+      4031
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4032,
+      4033,
+      4034,
+      4036,
+      4037,
+      4038,
+      4039
+    ],
+    "parentUnions": [
+      "F940"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1543,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4031,
+        "unionId": "F940",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024474409292@",
+    "geniId": "6000000024474409292",
+    "rfn": "geni:6000000024474409292",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/4035/",
+    "canonical": "https://www.genepedia.org/people/4035/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": 2434,
+  "schema": "genepedia/person@1",
+  "slug": "le-roux-2434",
+  "names": {
+    "display": "? le Roux",
+    "given": "?",
+    "surname": "le Roux",
+    "married": "le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/26/17/3e/f8/5344486623240a3e/screenshot_2024-07-05_184443_original.jpg?hash=a5134b62adaf953f8be67afff467a360ebdb9057d489fd4e884366066d8c7cfe.1789455599",
+      "alt": "? le Roux"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/26/17/3e/f8/5344486623240a3e/screenshot_2024-07-05_184443_original.jpg?hash=a5134b62adaf953f8be67afff467a360ebdb9057d489fd4e884366066d8c7cfe.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      993
+    ],
+    "exSpouses": [],
+    "children": [
+      2435,
+      2436
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F614"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 993,
+        "unionId": "F614",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2435,
+        "unionId": "F614",
+        "type": "biological"
+      },
+      {
+        "id": 2436,
+        "unionId": "F614",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207077717840@",
+    "geniId": "6000000207077717840",
+    "rfn": "geni:6000000207077717840",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/2434/",
+    "canonical": "https://www.genepedia.org/people/2434/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

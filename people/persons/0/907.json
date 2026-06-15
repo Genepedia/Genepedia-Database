@@ -1,0 +1,147 @@
+{
+  "id": 907,
+  "schema": "genepedia/person@1",
+  "slug": "frank-henry-roselt",
+  "names": {
+    "display": "Frank Henry Roselt",
+    "given": "Frank Henry",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 OCT 1928",
+      "year": 1928,
+      "iso": "1928-10-13",
+      "precision": "exact",
+      "display": "October 13, 1928",
+      "place": null
+    },
+    "death": {
+      "date": "22 JAN 1980",
+      "year": 1980,
+      "iso": "1980-01-22",
+      "precision": "exact",
+      "display": "January 22, 1980",
+      "place": "Rustenburg, Transvaal, South Africa",
+      "location": {
+        "label": "Rustenburg, Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Rustenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      371,
+      905
+    ],
+    "spouses": [
+      2235
+    ],
+    "exSpouses": [],
+    "children": [
+      2236,
+      2237,
+      2238
+    ],
+    "siblings": [
+      906,
+      908,
+      909
+    ],
+    "parentUnions": [
+      "F253"
+    ],
+    "spouseUnions": [
+      "F567"
+    ],
+    "parentLinks": [
+      {
+        "id": 371,
+        "unionId": "F253",
+        "type": "biological"
+      },
+      {
+        "id": 905,
+        "unionId": "F253",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2235,
+        "unionId": "F567",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2236,
+        "unionId": "F567",
+        "type": "biological"
+      },
+      {
+        "id": 2237,
+        "unionId": "F567",
+        "type": "biological"
+      },
+      {
+        "id": 2238,
+        "unionId": "F567",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000049791075893@",
+    "geniId": "6000000049791075893",
+    "rfn": "geni:6000000049791075893",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/907/",
+    "canonical": "https://www.genepedia.org/people/907/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

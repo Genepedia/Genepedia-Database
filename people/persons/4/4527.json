@@ -1,0 +1,112 @@
+{
+  "id": 4527,
+  "schema": "genepedia/person@1",
+  "slug": "harry-jeannot-malchin",
+  "names": {
+    "display": "Harry Jeannot Malchin",
+    "given": "Harry Jeannot",
+    "surname": "Malchin",
+    "married": "Malchin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 FEB 1920",
+      "year": 1920,
+      "iso": "1920-02-12",
+      "precision": "exact",
+      "display": "February 12, 1920",
+      "place": null
+    },
+    "death": {
+      "date": "2007",
+      "year": 2007,
+      "iso": "2007",
+      "precision": "exact",
+      "display": "2007",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b4/a4/96/11/53444868aadefe8b/jpg_10__original.jpg?hash=680469b50b3e5d334c1dba10e0105e23728b1bbf6568f0fdd9894f2e337882ce.1789455599",
+      "alt": "Harry Jeannot Malchin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b4/a4/96/11/53444868aadefe8b/jpg_10__original.jpg?hash=680469b50b3e5d334c1dba10e0105e23728b1bbf6568f0fdd9894f2e337882ce.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1777,
+      4526
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4528,
+      4529
+    ],
+    "parentUnions": [
+      "F1077"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1777,
+        "unionId": "F1077",
+        "type": "biological"
+      },
+      {
+        "id": 4526,
+        "unionId": "F1077",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000217944149823@",
+    "geniId": "6000000217944149823",
+    "rfn": "geni:6000000217944149823",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/4527/",
+    "canonical": "https://www.genepedia.org/people/4527/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

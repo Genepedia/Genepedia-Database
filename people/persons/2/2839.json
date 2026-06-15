@@ -1,0 +1,150 @@
+{
+  "id": 2839,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-ouma-ross-catharina-kotze",
+  "names": {
+    "display": "Elizabeth (Ouma Ross) Catharina Kotze",
+    "given": "Elizabeth (Ouma Ross) Catharina",
+    "surname": "Kotze",
+    "married": "VLOK",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 FEB 1889",
+      "year": 1889,
+      "iso": "1889-02-24",
+      "precision": "exact",
+      "display": "February 24, 1889",
+      "place": null
+    },
+    "death": {
+      "date": "5 NOV 1954",
+      "year": 1954,
+      "iso": "1954-11-05",
+      "precision": "exact",
+      "display": "November 5, 1954",
+      "place": "Queenstown, EC, South Africa",
+      "location": {
+        "label": "Queenstown, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Queenstown",
+        "postalCode": "5319",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Petrusville, NC, South Africa",
+      "location": {
+        "label": "Petrusville, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Petrusville",
+        "postalCode": "8770",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2672,
+      2836
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2837,
+      1148,
+      2838,
+      2775,
+      2840,
+      2841,
+      2842,
+      2843,
+      2844
+    ],
+    "parentUnions": [
+      "F702"
+    ],
+    "spouseUnions": [
+      "F1759",
+      "F1760"
+    ],
+    "parentLinks": [
+      {
+        "id": 2672,
+        "unionId": "F702",
+        "type": "biological"
+      },
+      {
+        "id": 2836,
+        "unionId": "F702",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000180674717831@",
+    "geniId": "6000000180674717831",
+    "rfn": "geni:6000000180674717831",
+    "changed": "13 JAN 2023"
+  },
+  "page": {
+    "route": "people/2839/",
+    "canonical": "https://www.genepedia.org/people/2839/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

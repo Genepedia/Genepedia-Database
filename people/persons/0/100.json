@@ -1,0 +1,115 @@
+{
+  "id": 100,
+  "schema": "genepedia/person@1",
+  "slug": "cara-edwards",
+  "names": {
+    "display": "Cara Edwards",
+    "given": "Cara",
+    "surname": "Edwards",
+    "married": "Pillay",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/03/d2/f1/96/53444866016454a4/screenshot_2024-06-14_183606_original.jpg?hash=5c9cc5faeeaf8f0586112e1f5ea5ae0bd1831fbdca2038cb02fee2e635edb260.1789455599",
+      "alt": "Cara Edwards"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/03/d2/f1/96/53444866016454a4/screenshot_2024-06-14_183606_original.jpg?hash=5c9cc5faeeaf8f0586112e1f5ea5ae0bd1831fbdca2038cb02fee2e635edb260.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      31,
+      98
+    ],
+    "spouses": [
+      265
+    ],
+    "exSpouses": [],
+    "children": [
+      266
+    ],
+    "siblings": [
+      99
+    ],
+    "parentUnions": [
+      "F36"
+    ],
+    "spouseUnions": [
+      "F85"
+    ],
+    "parentLinks": [
+      {
+        "id": 31,
+        "unionId": "F36",
+        "type": "biological"
+      },
+      {
+        "id": 98,
+        "unionId": "F36",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 265,
+        "unionId": "F85",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 266,
+        "unionId": "F85",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204069250841@",
+    "geniId": "6000000204069250841",
+    "rfn": "geni:6000000204069250841",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/100/",
+    "canonical": "https://www.genepedia.org/people/100/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

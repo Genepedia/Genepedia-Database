@@ -1,0 +1,171 @@
+{
+  "id": 2629,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-hermanus-peyper",
+  "names": {
+    "display": "Johannes Hermanus Peyper",
+    "given": "Johannes Hermanus",
+    "surname": "Peyper",
+    "married": "Peyper",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 AUG 1840",
+      "year": 1840,
+      "iso": "1840-08-11",
+      "precision": "exact",
+      "display": "August 11, 1840",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "26 DEC 1840",
+      "year": 1840,
+      "iso": "1840-12-26",
+      "precision": "exact",
+      "display": "December 26, 1840",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1068
+    ],
+    "exSpouses": [],
+    "children": [
+      2630,
+      2631,
+      2632,
+      2633,
+      2634,
+      2635,
+      2636,
+      2637,
+      2638,
+      2639
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1625"
+    ],
+    "spouseUnions": [
+      "F645"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1068,
+        "unionId": "F645",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2630,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2631,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2632,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2633,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2634,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2635,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2636,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2637,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2638,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2639,
+        "unionId": "F645",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000041716027099@",
+    "geniId": "6000000041716027099",
+    "rfn": "geni:6000000041716027099",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2629/",
+    "canonical": "https://www.genepedia.org/people/2629/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

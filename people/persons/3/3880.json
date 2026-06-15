@@ -1,0 +1,128 @@
+{
+  "id": 3880,
+  "schema": "genepedia/person@1",
+  "slug": "johan-hendrik-christiaan-geyer",
+  "names": {
+    "display": "Johan Hendrik Christiaan Geyer",
+    "given": "Johan Hendrik Christiaan",
+    "surname": "Geyer",
+    "married": "Geyer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 DEC 1821",
+      "year": 1821,
+      "iso": "1821-12-18",
+      "precision": "exact",
+      "display": "December 18, 1821",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "17 AUG 1822",
+      "year": 1822,
+      "iso": "1822-08-17",
+      "precision": "exact",
+      "display": "August 17, 1822",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3873,
+      3872
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3874,
+      3875,
+      3876,
+      3877,
+      3878,
+      3879,
+      3881,
+      3882,
+      3883,
+      3884,
+      1523,
+      3885,
+      3886,
+      3887
+    ],
+    "parentUnions": [
+      "F919"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3873,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3872,
+        "unionId": "F919",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021314402901@",
+    "geniId": "6000000021314402901",
+    "rfn": "geni:6000000021314402901",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3880/",
+    "canonical": "https://www.genepedia.org/people/3880/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

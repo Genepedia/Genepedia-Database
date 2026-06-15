@@ -1,0 +1,77 @@
+{
+  "id": 4258,
+  "schema": "genepedia/person@1",
+  "slug": "nicolaas-cornelis-holtzhausen",
+  "names": {
+    "display": "Nicolaas Cornelis Holtzhausen",
+    "given": "Nicolaas Cornelis",
+    "surname": "Holtzhausen",
+    "married": "Holtzhausen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1610
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F998"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1610,
+        "unionId": "F998",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000034532173434@",
+    "geniId": "6000000034532173434",
+    "rfn": "geni:6000000034532173434",
+    "changed": "08 OCT 2021"
+  },
+  "page": {
+    "route": "people/4258/",
+    "canonical": "https://www.genepedia.org/people/4258/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

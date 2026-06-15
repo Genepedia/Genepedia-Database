@@ -1,0 +1,102 @@
+{
+  "id": 3998,
+  "schema": "genepedia/person@1",
+  "slug": "theunis-jacobus-jacobs",
+  "names": {
+    "display": "Theunis Jacobus Jacobs",
+    "given": "Theunis Jacobus",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1891",
+      "year": 1891,
+      "iso": "1891",
+      "precision": "exact",
+      "display": "1891",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1538,
+      3987
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3988,
+      3989,
+      3990,
+      3991,
+      3992,
+      3993,
+      3994,
+      3995,
+      3996,
+      3997,
+      3999
+    ],
+    "parentUnions": [
+      "F934"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1538,
+        "unionId": "F934",
+        "type": "biological"
+      },
+      {
+        "id": 3987,
+        "unionId": "F934",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000185125138822@",
+    "geniId": "6000000185125138822",
+    "rfn": "geni:6000000185125138822",
+    "changed": "22 MAY 2022"
+  },
+  "page": {
+    "route": "people/3998/",
+    "canonical": "https://www.genepedia.org/people/3998/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

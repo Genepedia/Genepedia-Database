@@ -1,0 +1,108 @@
+{
+  "id": 1491,
+  "schema": "genepedia/person@1",
+  "slug": "luan-de-beer",
+  "names": {
+    "display": "Luan de Beer",
+    "given": "Luan",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "7 MAR 2001",
+      "year": 2001,
+      "iso": "2001-03-07",
+      "precision": "exact",
+      "display": "March 7, 2001",
+      "place": "Port Elizabeth, South Africa",
+      "location": {
+        "label": "Port Elizabeth, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Elizabeth",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      597,
+      1489
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1490
+    ],
+    "parentUnions": [
+      "F381"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 597,
+        "unionId": "F381",
+        "type": "biological"
+      },
+      {
+        "id": 1489,
+        "unionId": "F381",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206611752908@",
+    "geniId": "6000000206611752908",
+    "rfn": "geni:6000000206611752908",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1491/",
+    "canonical": "https://www.genepedia.org/people/1491/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

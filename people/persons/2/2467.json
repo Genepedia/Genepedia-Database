@@ -1,0 +1,149 @@
+{
+  "id": 2467,
+  "schema": "genepedia/person@1",
+  "slug": "jacob-van-den-bank",
+  "names": {
+    "display": "Jacob van den Bank",
+    "given": "Jacob",
+    "surname": "van den Bank",
+    "married": "van der Bank",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 7 MAY 1769",
+      "year": 1769,
+      "iso": "1769-05-07",
+      "precision": "before",
+      "display": "before May 7, 1769",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1801",
+      "year": 1801,
+      "iso": "1801",
+      "precision": "about",
+      "display": "about 1801",
+      "place": null
+    },
+    "baptism": {
+      "date": "7 MAY 1769",
+      "year": 1769,
+      "iso": "1769-05-07",
+      "precision": "exact",
+      "display": "May 7, 1769",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Unknown",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2468
+    ],
+    "exSpouses": [],
+    "children": [
+      1009,
+      2469,
+      2470,
+      2471,
+      2472
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1514"
+    ],
+    "spouseUnions": [
+      "F621",
+      "F1513"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2468,
+        "unionId": "F621",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1009,
+        "unionId": "F621",
+        "type": "biological"
+      },
+      {
+        "id": 2469,
+        "unionId": "F621",
+        "type": "biological"
+      },
+      {
+        "id": 2470,
+        "unionId": "F621",
+        "type": "biological"
+      },
+      {
+        "id": 2471,
+        "unionId": "F621",
+        "type": "biological"
+      },
+      {
+        "id": 2472,
+        "unionId": "F621",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000009479243920@",
+    "geniId": "6000000009479243920",
+    "rfn": "geni:6000000009479243920",
+    "changed": "15 MAY 2025"
+  },
+  "page": {
+    "route": "people/2467/",
+    "canonical": "https://www.genepedia.org/people/2467/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

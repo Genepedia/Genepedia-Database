@@ -1,0 +1,128 @@
+{
+  "id": 4168,
+  "schema": "genepedia/person@1",
+  "slug": "maria-magdelena-coetzee",
+  "names": {
+    "display": "Maria Magdelena Coetzee",
+    "given": "Maria Magdelena",
+    "surname": "Coetzee",
+    "married": "Viljoen",
+    "nick": "Ouma Toet",
+    "aliases": [
+      "Maria Magdelena (Babs) Viljoen"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 MAR 1919",
+      "year": 1919,
+      "iso": "1919-03-26",
+      "precision": "exact",
+      "display": "March 26, 1919",
+      "place": null
+    },
+    "death": {
+      "date": "9 DEC 1981",
+      "year": 1981,
+      "iso": "1981-12-09",
+      "precision": "exact",
+      "display": "December 9, 1981",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p6/5860/5088/53444836a45bdde4/ouma_toet_original.jpg?hash=dc63d4fad09d69e2b0333031bef2414eb887581aa6b7cec025530425cd41ba31.1789455599",
+      "alt": "Maria Magdelena Coetzee"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p6/5860/5088/53444836a45bdde4/ouma_toet_original.jpg?hash=dc63d4fad09d69e2b0333031bef2414eb887581aa6b7cec025530425cd41ba31.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/76/18/fe/a5/53444865cec5ed39/viljoens_dad_original.jpg?hash=4799fd3efcaa0ad48608161b436b8a62e60384cd8be6b4ad4bf5693ba3fa80b2.1789455599",
+        "form": "",
+        "title": "Al die Viljoens op die troudag",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/0c/e0/d5/83/53444865cec96b90/after_chrurch_1_original.jpg?hash=1301776b3e4c722c85e8c102c382004fa0b2faebc85f50f20217c1a207aff9c8.1789455599",
+        "form": "",
+        "title": "Konfetti 1",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4165,
+      1578
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4166,
+      4167
+    ],
+    "parentUnions": [
+      "F973"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4165,
+        "unionId": "F973",
+        "type": "biological"
+      },
+      {
+        "id": 1578,
+        "unionId": "F973",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000001699707686@",
+    "geniId": "6000000001699707686",
+    "rfn": "geni:6000000001699707686",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/4168/",
+    "canonical": "https://www.genepedia.org/people/4168/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

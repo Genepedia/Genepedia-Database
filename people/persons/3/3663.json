@@ -1,0 +1,91 @@
+{
+  "id": 3663,
+  "schema": "genepedia/person@1",
+  "slug": "jacobmina-johanna-le-grange",
+  "names": {
+    "display": "Jacobmina Johanna Le Grange",
+    "given": "Jacobmina Johanna",
+    "surname": "Le Grange",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 SEP 1928",
+      "year": 1928,
+      "iso": "1928-09-12",
+      "precision": "exact",
+      "display": "September 12, 1928",
+      "place": null
+    },
+    "death": {
+      "date": "30 JUN 1993",
+      "year": 1993,
+      "iso": "1993-06-30",
+      "precision": "exact",
+      "display": "June 30, 1993",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1407
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F880"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1407,
+        "unionId": "F880",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036722007054@",
+    "geniId": "6000000036722007054",
+    "rfn": "geni:6000000036722007054",
+    "changed": "28 SEP 2015"
+  },
+  "page": {
+    "route": "people/3663/",
+    "canonical": "https://www.genepedia.org/people/3663/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

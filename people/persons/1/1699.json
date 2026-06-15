@@ -1,0 +1,91 @@
+{
+  "id": 1699,
+  "schema": "genepedia/person@1",
+  "slug": "mendes",
+  "names": {
+    "display": "? Mendes",
+    "given": "?",
+    "surname": "Mendes",
+    "married": "Mendes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      690
+    ],
+    "exSpouses": [],
+    "children": [
+      1700,
+      1701
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F442"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 690,
+        "unionId": "F442",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1700,
+        "unionId": "F442",
+        "type": "biological"
+      },
+      {
+        "id": 1701,
+        "unionId": "F442",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207589783839@",
+    "geniId": "6000000207589783839",
+    "rfn": "geni:6000000207589783839",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/1699/",
+    "canonical": "https://www.genepedia.org/people/1699/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

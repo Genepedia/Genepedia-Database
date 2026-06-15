@@ -1,0 +1,142 @@
+{
+  "id": 2227,
+  "schema": "genepedia/person@1",
+  "slug": "herbert-andrew-kingsley",
+  "names": {
+    "display": "Herbert Andrew Kingsley",
+    "given": "Herbert Andrew",
+    "surname": "Kingsley",
+    "married": "Kingsley",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1913",
+      "year": 1913,
+      "iso": "1913",
+      "precision": "about",
+      "display": "about 1913",
+      "place": null
+    },
+    "death": {
+      "date": "5 FEB 1944",
+      "year": 1944,
+      "iso": "1944-02-05",
+      "precision": "exact",
+      "display": "February 5, 1944",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Cairo, Cairo Governorate, Egypt",
+      "location": {
+        "label": "Cairo, Cairo Governorate, Egypt",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cairo",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cairo Governorate",
+        "country": "Egypt",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/8c/c8/1f/cb/5344484599b1ebda/herbert_andrew_kingsley_back_of_picture_from_mom_2__original.jpg?hash=2f89ea8e15ac5eefbd0e3e1931f22d92d5721a7126707be4a9aa48b7d5b92d8d.1789455599",
+      "alt": "Herbert Andrew Kingsley"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/8c/c8/1f/cb/5344484599b1ebda/herbert_andrew_kingsley_back_of_picture_from_mom_2__original.jpg?hash=2f89ea8e15ac5eefbd0e3e1931f22d92d5721a7126707be4a9aa48b7d5b92d8d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2222,
+      2223
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      905,
+      2224,
+      2225,
+      2226,
+      2228,
+      2229
+    ],
+    "parentUnions": [
+      "F565"
+    ],
+    "spouseUnions": [
+      "F1379"
+    ],
+    "parentLinks": [
+      {
+        "id": 2222,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2223,
+        "unionId": "F565",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000061376883878@",
+    "geniId": "6000000061376883878",
+    "rfn": "geni:6000000061376883878",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2227/",
+    "canonical": "https://www.genepedia.org/people/2227/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

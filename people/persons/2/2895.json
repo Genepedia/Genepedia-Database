@@ -1,0 +1,122 @@
+{
+  "id": 2895,
+  "schema": "genepedia/person@1",
+  "slug": "barend-sepie-willem-ludik",
+  "names": {
+    "display": "Barend (Sepie) Willem Ludik",
+    "given": "Barend (Sepie) Willem",
+    "surname": "Ludik",
+    "married": "Ludik",
+    "nick": "Sepie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 DEC 1887",
+      "year": 1887,
+      "iso": "1887-12-21",
+      "precision": "exact",
+      "display": "December 21, 1887",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 JUL 1943",
+      "year": 1943,
+      "iso": "1943-07-12",
+      "precision": "exact",
+      "display": "July 12, 1943",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2888,
+      1157
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2889,
+      2890,
+      2891,
+      2892,
+      2893,
+      2894
+    ],
+    "parentUnions": [
+      "F712"
+    ],
+    "spouseUnions": [
+      "F1805"
+    ],
+    "parentLinks": [
+      {
+        "id": 2888,
+        "unionId": "F712",
+        "type": "biological"
+      },
+      {
+        "id": 1157,
+        "unionId": "F712",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000008811025351@",
+    "geniId": "6000000008811025351",
+    "rfn": "geni:6000000008811025351",
+    "changed": "13 APR 2024"
+  },
+  "page": {
+    "route": "people/2895/",
+    "canonical": "https://www.genepedia.org/people/2895/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

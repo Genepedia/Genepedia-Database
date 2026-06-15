@@ -1,0 +1,174 @@
+{
+  "id": 1554,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-christoffel-mellet",
+  "names": {
+    "display": "Gerrit Christoffel Mellet",
+    "given": "Gerrit Christoffel",
+    "surname": "Mellet",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 JUL 1855",
+      "year": 1855,
+      "iso": "1855-07-06",
+      "precision": "exact",
+      "display": "July 6, 1855",
+      "place": "Potchefstroom, Zuid-Afrikaansche Republiek (ZAR), South Africa",
+      "location": {
+        "label": "Potchefstroom, Zuid-Afrikaansche Republiek (ZAR), South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Zuid-Afrikaansche Republiek (ZAR)",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "25 JUL 1883",
+      "year": 1883,
+      "iso": "1883-07-25",
+      "precision": "exact",
+      "display": "July 25, 1883",
+      "place": "At the residence of his father-in-law, Kimberley, Cape Colony, South Africa",
+      "location": {
+        "label": "At the residence of his father-in-law, Kimberley, Cape Colony, South Africa",
+        "placeName": "At the residence of his father-in-law",
+        "addressLine1": "Johannes Jacobus Scholtz",
+        "addressLine2": "Koedoedam",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b5/6f/20/7b/53444847cd4faceb/mellet_boom_102__original.jpg?hash=0dc8a8ae16f8238b4dceadbf57a98f089d366fedb548b8afb94f76ee4a6bbcbe.1789455599",
+      "alt": "Gerrit Christoffel Mellet"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b5/6f/20/7b/53444847cd4faceb/mellet_boom_102__original.jpg?hash=0dc8a8ae16f8238b4dceadbf57a98f089d366fedb548b8afb94f76ee4a6bbcbe.1789455599",
+        "form": "",
+        "title": "Mellet",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1549,
+      1550
+    ],
+    "spouses": [
+      3984
+    ],
+    "exSpouses": [],
+    "children": [
+      4107,
+      4108
+    ],
+    "siblings": [
+      1551,
+      1552,
+      629,
+      1553,
+      1555,
+      1556,
+      1557,
+      1558
+    ],
+    "parentUnions": [
+      "F396"
+    ],
+    "spouseUnions": [
+      "F950"
+    ],
+    "parentLinks": [
+      {
+        "id": 1549,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1550,
+        "unionId": "F396",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3984,
+        "unionId": "F950",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4107,
+        "unionId": "F950",
+        "type": "biological"
+      },
+      {
+        "id": 4108,
+        "unionId": "F950",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000140297623825@",
+    "geniId": "6000000140297623825",
+    "rfn": "geni:6000000140297623825",
+    "changed": "31 OCT 2023"
+  },
+  "page": {
+    "route": "people/1554/",
+    "canonical": "https://www.genepedia.org/people/1554/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

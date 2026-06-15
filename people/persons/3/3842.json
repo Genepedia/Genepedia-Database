@@ -1,0 +1,139 @@
+{
+  "id": 3842,
+  "schema": "genepedia/person@1",
+  "slug": "maria-adriana-hofmeyer",
+  "names": {
+    "display": "Maria Adriana Hofmeyer",
+    "given": "Maria Adriana",
+    "surname": "Hofmeyer",
+    "married": "Augustyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 NOV 1866",
+      "year": 1866,
+      "iso": "1866-11-13",
+      "precision": "exact",
+      "display": "November 13, 1866",
+      "place": null
+    },
+    "death": {
+      "date": "21 JUN 1941",
+      "year": 1941,
+      "iso": "1941-06-21",
+      "precision": "exact",
+      "display": "June 21, 1941",
+      "place": "Groblershoop, Gordonia",
+      "location": {
+        "label": "Groblershoop, Gordonia",
+        "placeName": "Groblershoop, Gordonia",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3841
+    ],
+    "exSpouses": [],
+    "children": [
+      3843,
+      1460,
+      3844,
+      3845,
+      3846
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F912"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3841,
+        "unionId": "F912",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3843,
+        "unionId": "F912",
+        "type": "biological"
+      },
+      {
+        "id": 1460,
+        "unionId": "F912",
+        "type": "biological"
+      },
+      {
+        "id": 3844,
+        "unionId": "F912",
+        "type": "biological"
+      },
+      {
+        "id": 3845,
+        "unionId": "F912",
+        "type": "biological"
+      },
+      {
+        "id": 3846,
+        "unionId": "F912",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000033092560892@",
+    "geniId": "6000000033092560892",
+    "rfn": "geni:6000000033092560892",
+    "changed": "04 JUN 2026"
+  },
+  "page": {
+    "route": "people/3842/",
+    "canonical": "https://www.genepedia.org/people/3842/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

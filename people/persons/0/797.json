@@ -1,0 +1,124 @@
+{
+  "id": 797,
+  "schema": "genepedia/person@1",
+  "slug": "barbara-louise-ellis",
+  "names": {
+    "display": "Barbara Louise Ellis",
+    "given": "Barbara Louise",
+    "surname": "Ellis",
+    "married": "Eksteen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ae/3a/af/03/534448665758a618/jpg_13__original.jpg?hash=c6a3f4b68ec163bf8bb941d6b4ca886a5f7e65c00f84a848823465ab9871fbc1.1789455599",
+      "alt": "Barbara Louise Ellis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ae/3a/af/03/534448665758a618/jpg_13__original.jpg?hash=c6a3f4b68ec163bf8bb941d6b4ca886a5f7e65c00f84a848823465ab9871fbc1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      794,
+      795
+    ],
+    "spouses": [
+      1835
+    ],
+    "exSpouses": [],
+    "children": [
+      1836,
+      1837
+    ],
+    "siblings": [
+      313,
+      796,
+      798,
+      799
+    ],
+    "parentUnions": [
+      "F222"
+    ],
+    "spouseUnions": [
+      "F487"
+    ],
+    "parentLinks": [
+      {
+        "id": 794,
+        "unionId": "F222",
+        "type": "biological"
+      },
+      {
+        "id": 795,
+        "unionId": "F222",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1835,
+        "unionId": "F487",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1836,
+        "unionId": "F487",
+        "type": "biological"
+      },
+      {
+        "id": 1837,
+        "unionId": "F487",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207953544828@",
+    "geniId": "6000000207953544828",
+    "rfn": "geni:6000000207953544828",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/797/",
+    "canonical": "https://www.genepedia.org/people/797/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

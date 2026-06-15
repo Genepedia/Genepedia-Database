@@ -1,0 +1,103 @@
+{
+  "id": 656,
+  "schema": "genepedia/person@1",
+  "slug": "lien",
+  "names": {
+    "display": "Lien",
+    "given": "Lien",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 OCT 1935",
+      "year": 1935,
+      "iso": "1935-10-08",
+      "precision": "exact",
+      "display": "October 8, 1935",
+      "place": null
+    },
+    "death": {
+      "date": "AFT 8 OCT 2022",
+      "year": 2022,
+      "iso": "2022-10-08",
+      "precision": "after",
+      "display": "after October 8, 2022",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/22/ee/cd/41/53444866235a6057/22256429_1364880510305215_4968548100615754546_o_original.jpg?hash=670997ec8e2f51e7f72da6237a49d9426881d931d931ff4b86f8efa81654a6f7.1789455599",
+      "alt": "Lien"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/22/ee/cd/41/53444866235a6057/22256429_1364880510305215_4968548100615754546_o_original.jpg?hash=670997ec8e2f51e7f72da6237a49d9426881d931d931ff4b86f8efa81654a6f7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      250
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F183"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 250,
+        "unionId": "F183",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207081346825@",
+    "geniId": "6000000207081346825",
+    "rfn": "geni:6000000207081346825",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/656/",
+    "canonical": "https://www.genepedia.org/people/656/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,191 @@
+{
+  "id": 3901,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-catharina-smit",
+  "names": {
+    "display": "Anna Maria Catharina Smit",
+    "given": "Anna Maria Catharina",
+    "surname": "Smit",
+    "married": "Germishuysen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 APR 1858",
+      "year": 1858,
+      "iso": "1858-04-15",
+      "precision": "exact",
+      "display": "April 15, 1858",
+      "place": "Boshof, Oranje Vrystaat",
+      "location": {
+        "label": "Boshof, Oranje Vrystaat",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Oranje Vrystaat",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 SEP 1937",
+      "year": 1937,
+      "iso": "1937-09-12",
+      "precision": "exact",
+      "display": "September 12, 1937",
+      "place": "Wolmaransstad",
+      "location": {
+        "label": "Wolmaransstad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Housewife",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/71/28/7f/99/5344485f9b7b7601/record-image_1__original.jpg?hash=7e97b5b99ddef3411f8b3a63929b33c9a5d000e1889aef7e3fa4d4278f2dd9b4.1789455599&version=1",
+      "alt": "Anna Maria Catharina Smit"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/71/28/7f/99/5344485f9b7b7601/record-image_1__original.jpg?hash=7e97b5b99ddef3411f8b3a63929b33c9a5d000e1889aef7e3fa4d4278f2dd9b4.1789455599&version=1",
+        "form": "",
+        "title": "record-image_ trou 1874.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1530
+    ],
+    "exSpouses": [],
+    "children": [
+      3902,
+      3903,
+      3904,
+      3905,
+      3906,
+      3907,
+      3908,
+      3909,
+      3910
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F922"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1530,
+        "unionId": "F922",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3902,
+        "unionId": "F922",
+        "type": "biological"
+      },
+      {
+        "id": 3903,
+        "unionId": "F922",
+        "type": "biological"
+      },
+      {
+        "id": 3904,
+        "unionId": "F922",
+        "type": "biological"
+      },
+      {
+        "id": 3905,
+        "unionId": "F922",
+        "type": "biological"
+      },
+      {
+        "id": 3906,
+        "unionId": "F922",
+        "type": "biological"
+      },
+      {
+        "id": 3907,
+        "unionId": "F922",
+        "type": "biological"
+      },
+      {
+        "id": 3908,
+        "unionId": "F922",
+        "type": "biological"
+      },
+      {
+        "id": 3909,
+        "unionId": "F922",
+        "type": "biological"
+      },
+      {
+        "id": 3910,
+        "unionId": "F922",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000147788423824@",
+    "geniId": "6000000147788423824",
+    "rfn": "geni:6000000147788423824",
+    "changed": "24 JUN 2023"
+  },
+  "page": {
+    "route": "people/3901/",
+    "canonical": "https://www.genepedia.org/people/3901/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

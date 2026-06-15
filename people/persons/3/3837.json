@@ -1,0 +1,157 @@
+{
+  "id": 3837,
+  "schema": "genepedia/person@1",
+  "slug": "joan-kotze",
+  "names": {
+    "display": "Joan Kotze",
+    "given": "Joan",
+    "surname": "Kotze",
+    "married": "Rauch",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 SEP 1943",
+      "year": 1943,
+      "iso": "1943-09-08",
+      "precision": "exact",
+      "display": "September 8, 1943",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 JUN 2010",
+      "year": 2010,
+      "iso": "2010-06-18",
+      "precision": "exact",
+      "display": "June 18, 2010",
+      "place": "Stellenbosch, Western Cape, South Africa",
+      "location": {
+        "label": "Stellenbosch, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Stellenbosch",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "24 JUN 1944",
+      "year": 1944,
+      "iso": "1944-06-24",
+      "precision": "exact",
+      "display": "June 24, 1944",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3833,
+      1445
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3834,
+      3835,
+      3836,
+      3838
+    ],
+    "parentUnions": [
+      "F909"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3833,
+        "unionId": "F909",
+        "type": "biological"
+      },
+      {
+        "id": 1445,
+        "unionId": "F909",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000219405503821@",
+    "geniId": "6000000219405503821",
+    "rfn": "geni:6000000219405503821",
+    "changed": "19 JUN 2025"
+  },
+  "page": {
+    "route": "people/3837/",
+    "canonical": "https://www.genepedia.org/people/3837/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

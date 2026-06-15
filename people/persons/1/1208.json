@@ -1,0 +1,173 @@
+{
+  "id": 1208,
+  "schema": "genepedia/person@1",
+  "slug": "annemarie-swanevelder",
+  "names": {
+    "display": "Annemarie Swanevelder",
+    "given": "Annemarie",
+    "surname": "Duvenhage",
+    "married": "Swanevelder",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "22 JAN 1949",
+      "year": 1949,
+      "iso": "1949-01-22",
+      "precision": "exact",
+      "display": "January 22, 1949",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "Griekwastad, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 MAR 1949",
+      "year": 1949,
+      "iso": "1949-03-06",
+      "precision": "exact",
+      "display": "March 6, 1949",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/df/57/51/2a/534448674c27324e/screenshot_20241206_191052_original.jpg?hash=94475ab8e6a6959a0e025c4276023135bf5d961e39568617c5f9b8ff10f86a82.1789455599",
+      "alt": "Annemarie Swanevelder"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/df/57/51/2a/534448674c27324e/screenshot_20241206_191052_original.jpg?hash=94475ab8e6a6959a0e025c4276023135bf5d961e39568617c5f9b8ff10f86a82.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1207,
+      488
+    ],
+    "spouses": [
+      3034
+    ],
+    "exSpouses": [],
+    "children": [
+      3035,
+      3036,
+      3037
+    ],
+    "siblings": [
+      1209
+    ],
+    "parentUnions": [
+      "F312"
+    ],
+    "spouseUnions": [
+      "F743"
+    ],
+    "parentLinks": [
+      {
+        "id": 1207,
+        "unionId": "F312",
+        "type": "biological"
+      },
+      {
+        "id": 488,
+        "unionId": "F312",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3034,
+        "unionId": "F743",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3035,
+        "unionId": "F743",
+        "type": "biological"
+      },
+      {
+        "id": 3036,
+        "unionId": "F743",
+        "type": "biological"
+      },
+      {
+        "id": 3037,
+        "unionId": "F743",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000212056794821@",
+    "geniId": "6000000212056794821",
+    "rfn": "geni:6000000212056794821",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1208/",
+    "canonical": "https://www.genepedia.org/people/1208/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

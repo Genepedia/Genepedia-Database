@@ -1,0 +1,110 @@
+{
+  "id": 4810,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-lukas-visagie",
+  "names": {
+    "display": "Jacobus Lukas Visagie",
+    "given": "Jacobus Lukas",
+    "surname": "Visagie",
+    "married": "Visagie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 NOV 1865",
+      "year": 1865,
+      "iso": "1865-11-09",
+      "precision": "exact",
+      "display": "November 9, 1865",
+      "place": null
+    },
+    "death": {
+      "date": "5 AUG 1936",
+      "year": 1936,
+      "iso": "1936-08-05",
+      "precision": "exact",
+      "display": "August 5, 1936",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1897,
+      4804
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4805,
+      4806,
+      4807,
+      4808,
+      4809,
+      4811,
+      4812,
+      4813,
+      4814,
+      4815,
+      4816,
+      4817
+    ],
+    "parentUnions": [
+      "F1146"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1897,
+        "unionId": "F1146",
+        "type": "biological"
+      },
+      {
+        "id": 4804,
+        "unionId": "F1146",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025138190926@",
+    "geniId": "6000000025138190926",
+    "rfn": "geni:6000000025138190926",
+    "changed": "29 MAR 2025"
+  },
+  "page": {
+    "route": "people/4810/",
+    "canonical": "https://www.genepedia.org/people/4810/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

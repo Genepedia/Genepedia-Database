@@ -1,0 +1,185 @@
+{
+  "id": 2988,
+  "schema": "genepedia/person@1",
+  "slug": "maria-catherina-loots",
+  "names": {
+    "display": "Maria Catherina Loots",
+    "given": "Maria Catherina",
+    "surname": "Loots",
+    "married": "De Klerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 APR 1899",
+      "year": 1899,
+      "iso": "1899-04-15",
+      "precision": "exact",
+      "display": "April 15, 1899",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "13 AUG 1990",
+      "year": 1990,
+      "iso": "1990-08-13",
+      "precision": "exact",
+      "display": "August 13, 1990",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Keetmanshoop, Karas, Namibia",
+      "location": {
+        "label": "Keetmanshoop, Karas, Namibia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Keetmanshoop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Karas",
+        "country": "Namibia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/1b/f6/01/e7/5344483b2b079bb9/ouma_loots_original.jpg?hash=90073b8fcb620825a316a959e2bc000f5105ed9ae2747699a5c9b81a23b2bc68.1789455599",
+      "alt": "Maria Catherina Loots"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/1b/f6/01/e7/5344483b2b079bb9/ouma_loots_original.jpg?hash=90073b8fcb620825a316a959e2bc000f5105ed9ae2747699a5c9b81a23b2bc68.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1184
+    ],
+    "exSpouses": [],
+    "children": [
+      2989,
+      2990,
+      2991,
+      2992
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F729"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1184,
+        "unionId": "F729",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2989,
+        "unionId": "F729",
+        "type": "biological"
+      },
+      {
+        "id": 2990,
+        "unionId": "F729",
+        "type": "biological"
+      },
+      {
+        "id": 2991,
+        "unionId": "F729",
+        "type": "biological"
+      },
+      {
+        "id": 2992,
+        "unionId": "F729",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000019036725259@",
+    "geniId": "6000000019036725259",
+    "rfn": "geni:6000000019036725259",
+    "changed": "02 AUG 2023"
+  },
+  "page": {
+    "route": "people/2988/",
+    "canonical": "https://www.genepedia.org/people/2988/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

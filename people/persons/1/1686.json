@@ -1,0 +1,118 @@
+{
+  "id": 1686,
+  "schema": "genepedia/person@1",
+  "slug": "private-1686",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1682,
+      678
+    ],
+    "spouses": [
+      4358
+    ],
+    "exSpouses": [],
+    "children": [
+      4359,
+      4360,
+      4361
+    ],
+    "siblings": [
+      1683,
+      1684,
+      1685,
+      1687
+    ],
+    "parentUnions": [
+      "F437"
+    ],
+    "spouseUnions": [
+      "F1030"
+    ],
+    "parentLinks": [
+      {
+        "id": 1682,
+        "unionId": "F437",
+        "type": "biological"
+      },
+      {
+        "id": 678,
+        "unionId": "F437",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4358,
+        "unionId": "F1030",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4359,
+        "unionId": "F1030",
+        "type": "biological"
+      },
+      {
+        "id": 4360,
+        "unionId": "F1030",
+        "type": "biological"
+      },
+      {
+        "id": 4361,
+        "unionId": "F1030",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003274560233@",
+    "geniId": "6000000003274560233",
+    "rfn": "geni:6000000003274560233",
+    "changed": "26 NOV 2014"
+  },
+  "page": {
+    "route": "people/1686/",
+    "canonical": "https://www.genepedia.org/people/1686/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

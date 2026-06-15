@@ -1,0 +1,149 @@
+{
+  "id": 161,
+  "schema": "genepedia/person@1",
+  "slug": "denise-van-der-bank",
+  "names": {
+    "display": "Denise Van Der Bank",
+    "given": "Denise",
+    "surname": "Van Der Bank",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "14 SEP 1942",
+      "year": 1942,
+      "iso": "1942-09-14",
+      "precision": "exact",
+      "display": "September 14, 1942",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Malmesbury, Western Cape, South Africa",
+  "lastResidenceLocation": {
+    "label": "Malmesbury, Western Cape, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Malmesbury",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Western Cape",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/18/bf/ff/d8/534448663c322a26/437939189_1588866101897330_6137722240777038270_n_original.jpg?hash=fdf6314bb63d1fbb5e259e1a9bd4c816a5554aeb93c45545ddfb15915f92f90e.1789455599",
+      "alt": "Denise Van Der Bank"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/18/bf/ff/d8/534448663c322a26/437939189_1588866101897330_6137722240777038270_n_original.jpg?hash=fdf6314bb63d1fbb5e259e1a9bd4c816a5554aeb93c45545ddfb15915f92f90e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      159,
+      158
+    ],
+    "spouses": [
+      426
+    ],
+    "exSpouses": [],
+    "children": [
+      427,
+      428
+    ],
+    "siblings": [
+      160,
+      44,
+      162,
+      163,
+      164,
+      165,
+      166
+    ],
+    "parentUnions": [
+      "F51"
+    ],
+    "spouseUnions": [
+      "F134"
+    ],
+    "parentLinks": [
+      {
+        "id": 159,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 158,
+        "unionId": "F51",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 426,
+        "unionId": "F134",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 427,
+        "unionId": "F134",
+        "type": "biological"
+      },
+      {
+        "id": 428,
+        "unionId": "F134",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204083322857@",
+    "geniId": "6000000204083322857",
+    "rfn": "geni:6000000204083322857",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/161/",
+    "canonical": "https://www.genepedia.org/people/161/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,158 @@
+{
+  "id": 433,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-susara-martina-aletta-elizabeth-fourie",
+  "names": {
+    "display": "Johanna Susara Martina Aletta Elizabeth Fourie",
+    "given": "Johanna Susara Martina Aletta Elizabeth",
+    "surname": "Fourie",
+    "married": "Maritz",
+    "nick": "",
+    "aliases": [
+      "Johanna Susara MAE Maritz (Fourie)"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 SEP 1853",
+      "year": 1853,
+      "iso": "1853-09-16",
+      "precision": "exact",
+      "display": "September 16, 1853",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "Hopetown, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 DEC 1888",
+      "year": 1888,
+      "iso": "1888-12-27",
+      "precision": "exact",
+      "display": "December 27, 1888",
+      "place": "Tokadrift, Hay, Northern Cape, South Africa",
+      "location": {
+        "label": "Tokadrift, Hay, Northern Cape, South Africa",
+        "placeName": "Tokadrift, Hay, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      429,
+      430
+    ],
+    "spouses": [
+      1093
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      431,
+      432,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      167,
+      444,
+      445,
+      446
+    ],
+    "parentUnions": [
+      "F135"
+    ],
+    "spouseUnions": [
+      "F289"
+    ],
+    "parentLinks": [
+      {
+        "id": 429,
+        "unionId": "F135",
+        "type": "biological"
+      },
+      {
+        "id": 430,
+        "unionId": "F135",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1093,
+        "unionId": "F289",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027003330437@",
+    "geniId": "6000000027003330437",
+    "rfn": "geni:6000000027003330437",
+    "changed": "10 SEP 2025"
+  },
+  "page": {
+    "route": "people/433/",
+    "canonical": "https://www.genepedia.org/people/433/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

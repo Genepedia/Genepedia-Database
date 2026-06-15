@@ -1,0 +1,125 @@
+{
+  "id": 2155,
+  "schema": "genepedia/person@1",
+  "slug": "susan-hibbert",
+  "names": {
+    "display": "Susan Hibbert",
+    "given": "Susan",
+    "surname": "Hibbert",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 MAY 1885",
+      "year": 1885,
+      "iso": "1885-05-02",
+      "precision": "exact",
+      "display": "May 2, 1885",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "26 JUL 1885",
+      "year": 1885,
+      "iso": "1885-07-26",
+      "precision": "exact",
+      "display": "July 26, 1885",
+      "place": "Dutoitspan",
+      "location": {
+        "label": "Dutoitspan",
+        "placeName": "Dutoitspan",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2149,
+      892
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2150,
+      2151,
+      2152,
+      2153,
+      2154,
+      2156,
+      2157,
+      2158,
+      2159,
+      2160,
+      2161
+    ],
+    "parentUnions": [
+      "F555"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2149,
+        "unionId": "F555",
+        "type": "biological"
+      },
+      {
+        "id": 892,
+        "unionId": "F555",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029615165129@",
+    "geniId": "6000000029615165129",
+    "rfn": "geni:6000000029615165129",
+    "changed": "28 JAN 2023"
+  },
+  "page": {
+    "route": "people/2155/",
+    "canonical": "https://www.genepedia.org/people/2155/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

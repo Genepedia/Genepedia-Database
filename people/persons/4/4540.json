@@ -1,0 +1,87 @@
+{
+  "id": 4540,
+  "schema": "genepedia/person@1",
+  "slug": "mareun-francis-van-zyl",
+  "names": {
+    "display": "Mareun Francis Van Zyl",
+    "given": "Mareun Francis",
+    "surname": "Van Zyl",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1784,
+      4537
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4538,
+      4539,
+      4541
+    ],
+    "parentUnions": [
+      "F1081"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1784,
+        "unionId": "F1081",
+        "type": "biological"
+      },
+      {
+        "id": 4537,
+        "unionId": "F1081",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204898270836@",
+    "geniId": "6000000204898270836",
+    "rfn": "geni:6000000204898270836",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/4540/",
+    "canonical": "https://www.genepedia.org/people/4540/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

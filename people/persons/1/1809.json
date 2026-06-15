@@ -1,0 +1,91 @@
+{
+  "id": 1809,
+  "schema": "genepedia/person@1",
+  "slug": "victor-kadzunga",
+  "names": {
+    "display": "Victor Kadzunga",
+    "given": "Victor",
+    "surname": "Kadzunga",
+    "married": "Kadzunga",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      787
+    ],
+    "exSpouses": [],
+    "children": [
+      1810,
+      1811
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F478"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 787,
+        "unionId": "F478",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1810,
+        "unionId": "F478",
+        "type": "biological"
+      },
+      {
+        "id": 1811,
+        "unionId": "F478",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207544427913@",
+    "geniId": "6000000207544427913",
+    "rfn": "geni:6000000207544427913",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1809/",
+    "canonical": "https://www.genepedia.org/people/1809/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

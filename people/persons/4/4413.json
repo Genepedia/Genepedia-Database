@@ -1,0 +1,87 @@
+{
+  "id": 4413,
+  "schema": "genepedia/person@1",
+  "slug": "mary-maurer",
+  "names": {
+    "display": "Mary Maurer",
+    "given": "Mary",
+    "surname": "Maurer",
+    "married": "Visser",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4409,
+      1721
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4410,
+      4411,
+      4412
+    ],
+    "parentUnions": [
+      "F1042"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4409,
+        "unionId": "F1042",
+        "type": "biological"
+      },
+      {
+        "id": 1721,
+        "unionId": "F1042",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I3950882875680076722@",
+    "geniId": "3950882875680076722",
+    "rfn": "geni:3950882875680076722",
+    "changed": "04 MAY 2022"
+  },
+  "page": {
+    "route": "people/4413/",
+    "canonical": "https://www.genepedia.org/people/4413/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

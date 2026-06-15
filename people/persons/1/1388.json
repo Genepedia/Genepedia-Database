@@ -1,0 +1,193 @@
+{
+  "id": 1388,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-adam-johannes-de-beer",
+  "names": {
+    "display": "Joseph Adam Johannes de Beer",
+    "given": "Joseph Adam Johannes",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JUL 1843",
+      "year": 1843,
+      "iso": "1843-07-22",
+      "precision": "exact",
+      "display": "July 22, 1843",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 JAN 1880",
+      "year": 1880,
+      "iso": "1880-01-28",
+      "precision": "exact",
+      "display": "January 28, 1880",
+      "place": "Bakoven, Aberdeen, Cape Province, South Africa",
+      "location": {
+        "label": "Bakoven, Aberdeen, Cape Province, South Africa",
+        "placeName": "Bakoven, Aberdeen, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1385,
+      1384
+    ],
+    "spouses": [
+      3517
+    ],
+    "exSpouses": [],
+    "children": [
+      3518,
+      3519,
+      3520,
+      3521,
+      3522,
+      3523,
+      3524
+    ],
+    "siblings": [
+      1386,
+      1387,
+      1389,
+      1390,
+      563,
+      1391,
+      1392,
+      1393,
+      1394
+    ],
+    "parentUnions": [
+      "F358"
+    ],
+    "spouseUnions": [
+      "F860"
+    ],
+    "parentLinks": [
+      {
+        "id": 1385,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1384,
+        "unionId": "F358",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3517,
+        "unionId": "F860",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3518,
+        "unionId": "F860",
+        "type": "biological"
+      },
+      {
+        "id": 3519,
+        "unionId": "F860",
+        "type": "biological"
+      },
+      {
+        "id": 3520,
+        "unionId": "F860",
+        "type": "biological"
+      },
+      {
+        "id": 3521,
+        "unionId": "F860",
+        "type": "biological"
+      },
+      {
+        "id": 3522,
+        "unionId": "F860",
+        "type": "biological"
+      },
+      {
+        "id": 3523,
+        "unionId": "F860",
+        "type": "biological"
+      },
+      {
+        "id": 3524,
+        "unionId": "F860",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028574320471@",
+    "geniId": "6000000028574320471",
+    "rfn": "geni:6000000028574320471",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1388/",
+    "canonical": "https://www.genepedia.org/people/1388/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

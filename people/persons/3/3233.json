@@ -1,0 +1,118 @@
+{
+  "id": 3233,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-barend-mouton",
+  "names": {
+    "display": "Marthinus Barend Mouton",
+    "given": "Marthinus Barend",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 MAR 1909",
+      "year": 1909,
+      "iso": "1909-03-09",
+      "precision": "exact",
+      "display": "March 9, 1909",
+      "place": null
+    },
+    "death": {
+      "date": "31 OCT 1967",
+      "year": 1967,
+      "iso": "1967-10-31",
+      "precision": "exact",
+      "display": "October 31, 1967",
+      "place": "Worcester, WC, South Africa",
+      "location": {
+        "label": "Worcester, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1293,
+      3230
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3231,
+      3232,
+      3234,
+      3235
+    ],
+    "parentUnions": [
+      "F795"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1293,
+        "unionId": "F795",
+        "type": "biological"
+      },
+      {
+        "id": 3230,
+        "unionId": "F795",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000143345100845@",
+    "geniId": "6000000143345100845",
+    "rfn": "geni:6000000143345100845",
+    "changed": "18 JUL 2020"
+  },
+  "page": {
+    "route": "people/3233/",
+    "canonical": "https://www.genepedia.org/people/3233/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

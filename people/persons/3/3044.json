@@ -1,0 +1,136 @@
+{
+  "id": 3044,
+  "schema": "genepedia/person@1",
+  "slug": "valdon-redvers-smith",
+  "names": {
+    "display": "Valdon Redvers Smith",
+    "given": "Valdon Redvers",
+    "surname": "Smith",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 DEC 1948",
+      "year": 1948,
+      "iso": "1948-12-11",
+      "precision": "exact",
+      "display": "December 11, 1948",
+      "place": "Johannesburg",
+      "location": {
+        "label": "Johannesburg",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Biologist",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/23/71/cc/16/53444868403fb8ad/smith_valdon_3b_058_original.jpg?hash=e88f7826df98519b47566a25d8f5cbf7fe7fc5c75d79093c0402fdfa0c954d7e.1789455599",
+      "alt": "Valdon Redvers Smith"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/23/71/cc/16/53444868403fb8ad/smith_valdon_3b_058_original.jpg?hash=e88f7826df98519b47566a25d8f5cbf7fe7fc5c75d79093c0402fdfa0c954d7e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/63/ec/ee/21/53444868403f2453/images_original.jpg?hash=199238a9f4b780bac76b56837d02a7fcf14480cfeff2184b9b7db8a0a76acd81.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1217
+    ],
+    "exSpouses": [],
+    "children": [
+      3045,
+      3046
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1896"
+    ],
+    "spouseUnions": [
+      "F746",
+      "F1895"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1217,
+        "unionId": "F746",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3045,
+        "unionId": "F746",
+        "type": "biological"
+      },
+      {
+        "id": 3046,
+        "unionId": "F746",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209123552824@",
+    "geniId": "6000000209123552824",
+    "rfn": "geni:6000000209123552824",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/3044/",
+    "canonical": "https://www.genepedia.org/people/3044/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

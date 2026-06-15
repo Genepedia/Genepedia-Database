@@ -1,0 +1,99 @@
+{
+  "id": 525,
+  "schema": "genepedia/person@1",
+  "slug": "anna-christina-francina-weyers",
+  "names": {
+    "display": "Anna Christina Francina Weyers",
+    "given": "Anna Christina Francina",
+    "surname": "Weyers",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 AUG 1880",
+      "year": 1880,
+      "iso": "1880-08-31",
+      "precision": "exact",
+      "display": "August 31, 1880",
+      "place": null
+    },
+    "death": {
+      "date": "17 DEC 1930",
+      "year": 1930,
+      "iso": "1930-12-17",
+      "precision": "exact",
+      "display": "December 17, 1930",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      524
+    ],
+    "exSpouses": [],
+    "children": [
+      199
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F154"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 524,
+        "unionId": "F154",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 199,
+        "unionId": "F154",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209504509836@",
+    "geniId": "6000000209504509836",
+    "rfn": "geni:6000000209504509836",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/525/",
+    "canonical": "https://www.genepedia.org/people/525/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

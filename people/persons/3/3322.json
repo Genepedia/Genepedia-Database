@@ -1,0 +1,163 @@
+{
+  "id": 3322,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andreas-van-taak",
+  "names": {
+    "display": "Pieter Andreas van Taak",
+    "given": "Pieter Andreas",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "Andrew",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 JUL 1909",
+      "year": 1909,
+      "iso": "1909-07-05",
+      "precision": "exact",
+      "display": "July 5, 1909",
+      "place": null
+    },
+    "death": {
+      "date": "9 JUL 1985",
+      "year": 1985,
+      "iso": "1985-07-09",
+      "precision": "exact",
+      "display": "July 9, 1985",
+      "place": null
+    },
+    "baptism": {
+      "date": "23 OCT 1910",
+      "year": 1910,
+      "iso": "1910-10-23",
+      "precision": "exact",
+      "display": "October 23, 1910",
+      "place": "Nieuwoudtville, Northern Cape, South Africa",
+      "location": {
+        "label": "Nieuwoudtville, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nieuwoudtville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Pionierspark, Windhoek, Namibia",
+      "location": {
+        "label": "Pionierspark, Windhoek, Namibia",
+        "placeName": "Pionierspark",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Windhoek",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Namibia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e0/bf/7e/34/5344483cb3adb5b4/jev32hut_original.jpg?hash=2f1d7be939a46ab3abdd74021a9f71f87666161bc2e47aa4523ef49b4ee1bfed.1789455599",
+      "alt": "Pieter Andreas van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e0/bf/7e/34/5344483cb3adb5b4/jev32hut_original.jpg?hash=2f1d7be939a46ab3abdd74021a9f71f87666161bc2e47aa4523ef49b4ee1bfed.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1311,
+      3321
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3323,
+      3324,
+      3325,
+      3326,
+      3327,
+      3328
+    ],
+    "parentUnions": [
+      "F814"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1311,
+        "unionId": "F814",
+        "type": "biological"
+      },
+      {
+        "id": 3321,
+        "unionId": "F814",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020482169688@",
+    "geniId": "6000000020482169688",
+    "rfn": "geni:6000000020482169688",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/3322/",
+    "canonical": "https://www.genepedia.org/people/3322/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

@@ -1,0 +1,167 @@
+{
+  "id": 1250,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-maria-gouws",
+  "names": {
+    "display": "Elizabeth Maria Gouws",
+    "given": "Elizabeth Maria",
+    "surname": "Gouws",
+    "married": "Gouws",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 OCT 1860",
+      "year": 1860,
+      "iso": "1860-10-22",
+      "precision": "exact",
+      "display": "October 22, 1860",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "25 DEC 1860",
+      "year": 1860,
+      "iso": "1860-12-25",
+      "precision": "exact",
+      "display": "December 25, 1860",
+      "place": "Fraserburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Fraserburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fraserburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3107,
+      3108
+    ],
+    "spouses": [
+      524
+    ],
+    "exSpouses": [],
+    "children": [
+      1251,
+      1252,
+      1253,
+      1254,
+      1255,
+      1256,
+      1257
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F770"
+    ],
+    "spouseUnions": [
+      "F327"
+    ],
+    "parentLinks": [
+      {
+        "id": 3107,
+        "unionId": "F770",
+        "type": "biological"
+      },
+      {
+        "id": 3108,
+        "unionId": "F770",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 524,
+        "unionId": "F327",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1251,
+        "unionId": "F327",
+        "type": "biological"
+      },
+      {
+        "id": 1252,
+        "unionId": "F327",
+        "type": "biological"
+      },
+      {
+        "id": 1253,
+        "unionId": "F327",
+        "type": "biological"
+      },
+      {
+        "id": 1254,
+        "unionId": "F327",
+        "type": "biological"
+      },
+      {
+        "id": 1255,
+        "unionId": "F327",
+        "type": "biological"
+      },
+      {
+        "id": 1256,
+        "unionId": "F327",
+        "type": "biological"
+      },
+      {
+        "id": 1257,
+        "unionId": "F327",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000034316739890@",
+    "geniId": "6000000034316739890",
+    "rfn": "geni:6000000034316739890",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/1250/",
+    "canonical": "https://www.genepedia.org/people/1250/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

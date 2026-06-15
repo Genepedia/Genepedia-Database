@@ -1,0 +1,103 @@
+{
+  "id": 3269,
+  "schema": "genepedia/person@1",
+  "slug": "anna-janetta-fredrika-mouton",
+  "names": {
+    "display": "Anna Janetta Fredrika Mouton",
+    "given": "Anna Janetta Fredrika",
+    "surname": "Genstyn",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1300
+    ],
+    "exSpouses": [],
+    "children": [
+      3270,
+      3271,
+      3272,
+      3273
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F804"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1300,
+        "unionId": "F804",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3270,
+        "unionId": "F804",
+        "type": "biological"
+      },
+      {
+        "id": 3271,
+        "unionId": "F804",
+        "type": "biological"
+      },
+      {
+        "id": 3272,
+        "unionId": "F804",
+        "type": "biological"
+      },
+      {
+        "id": 3273,
+        "unionId": "F804",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000107552537960@",
+    "geniId": "6000000107552537960",
+    "rfn": "geni:6000000107552537960",
+    "changed": "24 SEP 2019"
+  },
+  "page": {
+    "route": "people/3269/",
+    "canonical": "https://www.genepedia.org/people/3269/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

@@ -1,0 +1,248 @@
+{
+  "id": 564,
+  "schema": "genepedia/person@1",
+  "slug": "alida-jacoba-meintjes",
+  "names": {
+    "display": "Alida Jacoba Meintjes",
+    "given": "Alida Jacoba",
+    "surname": "Meintjes",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 APR 1854",
+      "year": 1854,
+      "iso": "1854-04-15",
+      "precision": "exact",
+      "display": "April 15, 1854",
+      "place": "Aberdeen, Cape Province, South Africa",
+      "location": {
+        "label": "Aberdeen, Cape Province, South Africa",
+        "placeName": "Aberdeen, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 APR 1945",
+      "year": 1945,
+      "iso": "1945-04-20",
+      "precision": "exact",
+      "display": "April 20, 1945",
+      "place": "Biesjiesfontein, Wyk 4, Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Biesjiesfontein, Wyk 4, Calvinia, Cape Province, South Africa",
+        "placeName": "Biesjiesfontein, Wyk 4, Calvinia, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/7d/d8/9c/db/53444861d95d2fc7/54ae876d-853e-4898-a7b3-f8ba131bfe81_original.jpg?hash=5717481ecc4210495b1837545dc4ac8aae302a6c1dcd944a423905b7c02c1a69.1789455599",
+      "alt": "Alida Jacoba Meintjes"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/7d/d8/9c/db/53444861d95d2fc7/54ae876d-853e-4898-a7b3-f8ba131bfe81_original.jpg?hash=5717481ecc4210495b1837545dc4ac8aae302a6c1dcd944a423905b7c02c1a69.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/92/a1/dd/49/5344483bf95fb04e/yif63yad_original.jpg?hash=b27b85c2f9ce33d01b91b4e5319a9d37e5989199bc3ece6e0c02846106e0834f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1396,
+      1395
+    ],
+    "spouses": [
+      563
+    ],
+    "exSpouses": [],
+    "children": [
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      214,
+      575,
+      576
+    ],
+    "siblings": [
+      1397,
+      1398,
+      1399,
+      1400,
+      1401,
+      1402,
+      1403,
+      1404,
+      1405
+    ],
+    "parentUnions": [
+      "F359"
+    ],
+    "spouseUnions": [
+      "F164"
+    ],
+    "parentLinks": [
+      {
+        "id": 1396,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1395,
+        "unionId": "F359",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 563,
+        "unionId": "F164",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 565,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 566,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 567,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 568,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 569,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 570,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 571,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 572,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 573,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 574,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 214,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 575,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 576,
+        "unionId": "F164",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000010560739497@",
+    "geniId": "6000000010560739497",
+    "rfn": "geni:6000000010560739497",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/564/",
+    "canonical": "https://www.genepedia.org/people/564/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

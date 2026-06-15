@@ -1,0 +1,84 @@
+{
+  "id": 2009,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-adam-wilken",
+  "names": {
+    "display": "Johannes Adam Wilken",
+    "given": "Johannes Adam",
+    "surname": "Wilken",
+    "married": "Wilken",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 MAY 1910",
+      "year": 1910,
+      "iso": "1910-05-24",
+      "precision": "exact",
+      "display": "May 24, 1910",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      836
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F523"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 836,
+        "unionId": "F523",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066539657824@",
+    "geniId": "6000000066539657824",
+    "rfn": "geni:6000000066539657824",
+    "changed": "05 SEP 2017"
+  },
+  "page": {
+    "route": "people/2009/",
+    "canonical": "https://www.genepedia.org/people/2009/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

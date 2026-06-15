@@ -1,0 +1,89 @@
+{
+  "id": 4412,
+  "schema": "genepedia/person@1",
+  "slug": "william-aubrey-maurer",
+  "names": {
+    "display": "William Aubrey Maurer",
+    "given": "William Aubrey",
+    "surname": "Maurer",
+    "married": "Maurer",
+    "nick": "",
+    "aliases": [
+      "Aubrey Maurer"
+    ]
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4409,
+      1721
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4410,
+      4411,
+      4413
+    ],
+    "parentUnions": [
+      "F1042"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4409,
+        "unionId": "F1042",
+        "type": "biological"
+      },
+      {
+        "id": 1721,
+        "unionId": "F1042",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024077078572@",
+    "geniId": "6000000024077078572",
+    "rfn": "geni:6000000024077078572",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/4412/",
+    "canonical": "https://www.genepedia.org/people/4412/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

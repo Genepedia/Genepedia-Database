@@ -1,0 +1,113 @@
+{
+  "id": 572,
+  "schema": "genepedia/person@1",
+  "slug": "david-hendrik-jacobus-de-beer",
+  "names": {
+    "display": "David Hendrik Jacobus de Beer",
+    "given": "David Hendrik Jacobus",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1888",
+      "year": 1888,
+      "iso": "1888",
+      "precision": "about",
+      "display": "about 1888",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      563,
+      564
+    ],
+    "spouses": [
+      1409
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      573,
+      574,
+      214,
+      575,
+      576
+    ],
+    "parentUnions": [
+      "F164"
+    ],
+    "spouseUnions": [
+      "F361"
+    ],
+    "parentLinks": [
+      {
+        "id": 563,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 564,
+        "unionId": "F164",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1409,
+        "unionId": "F361",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028798142504@",
+    "geniId": "6000000028798142504",
+    "rfn": "geni:6000000028798142504",
+    "changed": "04 JUL 2023"
+  },
+  "page": {
+    "route": "people/572/",
+    "canonical": "https://www.genepedia.org/people/572/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

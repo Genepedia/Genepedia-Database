@@ -1,0 +1,132 @@
+{
+  "id": 1899,
+  "schema": "genepedia/person@1",
+  "slug": "willem-jacobus-johannes-jansen-van-rensburg",
+  "names": {
+    "display": "Willem Jacobus Johannes Jansen van Rensburg",
+    "given": "Willem Jacobus Johannes",
+    "surname": "Jansen van Rensburg",
+    "married": "Jansen van Rensburg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 SEP 1876",
+      "year": 1876,
+      "iso": "1876-09-14",
+      "precision": "exact",
+      "display": "September 14, 1876",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "24 DEC 1876",
+      "year": 1876,
+      "iso": "1876-12-24",
+      "precision": "exact",
+      "display": "December 24, 1876",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1898,
+      815
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1900,
+      1901
+    ],
+    "parentUnions": [
+      "F501"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1898,
+        "unionId": "F501",
+        "type": "biological"
+      },
+      {
+        "id": 815,
+        "unionId": "F501",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000077407756004@",
+    "geniId": "6000000077407756004",
+    "rfn": "geni:6000000077407756004",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/1899/",
+    "canonical": "https://www.genepedia.org/people/1899/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

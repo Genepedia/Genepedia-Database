@@ -1,0 +1,86 @@
+{
+  "id": 3214,
+  "schema": "genepedia/person@1",
+  "slug": "private-3214",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1290,
+      3212
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3213,
+      3215
+    ],
+    "parentUnions": [
+      "F792"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1290,
+        "unionId": "F792",
+        "type": "biological"
+      },
+      {
+        "id": 3212,
+        "unionId": "F792",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000119149903861@",
+    "geniId": "6000000119149903861",
+    "rfn": "geni:6000000119149903861",
+    "changed": "15 JAN 2020"
+  },
+  "page": {
+    "route": "people/3214/",
+    "canonical": "https://www.genepedia.org/people/3214/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

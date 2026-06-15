@@ -1,0 +1,220 @@
+{
+  "id": 1746,
+  "schema": "genepedia/person@1",
+  "slug": "jankel-yaacov-lurie",
+  "names": {
+    "display": "Jankel Yaacov Lurie",
+    "given": "Jankel Yaacov",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1855",
+      "year": 1855,
+      "iso": "1855",
+      "precision": "exact",
+      "display": "1855",
+      "place": "Kurshan, Kursenai, Siauliai, Lithuania",
+      "location": {
+        "label": "Kurshan, Kursenai, Siauliai, Lithuania",
+        "placeName": "Kurshan",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kursenai",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Siauliai",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "AFT 1882",
+      "year": 1882,
+      "iso": "1882",
+      "precision": "after",
+      "display": "after 1882",
+      "place": "Lithuania",
+      "location": {
+        "label": "Lithuania",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": "Blue",
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d8/62/2e/ee/534448667d34d172/500559_8396269174c6841nq53h8f_a_original.jpg?hash=789f17150fe3ea0d2dfa3c2ff41a6ea0b4a8af3462532db90d3c06e8cc5cb942.1789455599",
+      "alt": "Jankel Yaacov Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d8/62/2e/ee/534448667d34d172/500559_8396269174c6841nq53h8f_a_original.jpg?hash=789f17150fe3ea0d2dfa3c2ff41a6ea0b4a8af3462532db90d3c06e8cc5cb942.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1742,
+      1743
+    ],
+    "spouses": [
+      4468,
+      4471,
+      4476
+    ],
+    "exSpouses": [],
+    "children": [
+      4469,
+      4470,
+      4472,
+      4473,
+      4474,
+      4475,
+      4477,
+      4478
+    ],
+    "siblings": [
+      725,
+      1744,
+      1745,
+      1747
+    ],
+    "parentUnions": [
+      "F457"
+    ],
+    "spouseUnions": [
+      "F1058",
+      "F1059",
+      "F1060"
+    ],
+    "parentLinks": [
+      {
+        "id": 1742,
+        "unionId": "F457",
+        "type": "biological"
+      },
+      {
+        "id": 1743,
+        "unionId": "F457",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4468,
+        "unionId": "F1058",
+        "role": "partner"
+      },
+      {
+        "id": 4471,
+        "unionId": "F1059",
+        "role": "wife"
+      },
+      {
+        "id": 4476,
+        "unionId": "F1060",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4469,
+        "unionId": "F1058",
+        "type": "biological"
+      },
+      {
+        "id": 4470,
+        "unionId": "F1058",
+        "type": "biological"
+      },
+      {
+        "id": 4472,
+        "unionId": "F1059",
+        "type": "biological"
+      },
+      {
+        "id": 4473,
+        "unionId": "F1059",
+        "type": "biological"
+      },
+      {
+        "id": 4474,
+        "unionId": "F1059",
+        "type": "biological"
+      },
+      {
+        "id": 4475,
+        "unionId": "F1059",
+        "type": "biological"
+      },
+      {
+        "id": 4477,
+        "unionId": "F1060",
+        "type": "biological"
+      },
+      {
+        "id": 4478,
+        "unionId": "F1060",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000111235286874@",
+    "geniId": "6000000111235286874",
+    "rfn": "geni:6000000111235286874",
+    "changed": "13 JUN 2025"
+  },
+  "page": {
+    "route": "people/1746/",
+    "canonical": "https://www.genepedia.org/people/1746/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

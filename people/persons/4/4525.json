@@ -1,0 +1,86 @@
+{
+  "id": 4525,
+  "schema": "genepedia/person@1",
+  "slug": "malchin-4525",
+  "names": {
+    "display": "? Malchin",
+    "given": "?",
+    "surname": "Malchin",
+    "married": "Malchin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1776,
+      4522
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4523,
+      4524
+    ],
+    "parentUnions": [
+      "F1076"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1776,
+        "unionId": "F1076",
+        "type": "biological"
+      },
+      {
+        "id": 4522,
+        "unionId": "F1076",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000217943195864@",
+    "geniId": "6000000217943195864",
+    "rfn": "geni:6000000217943195864",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/4525/",
+    "canonical": "https://www.genepedia.org/people/4525/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

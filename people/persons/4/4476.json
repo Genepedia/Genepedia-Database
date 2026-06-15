@@ -1,0 +1,121 @@
+{
+  "id": 4476,
+  "schema": "genepedia/person@1",
+  "slug": "zippora-lurie",
+  "names": {
+    "display": "Zippora Lurie",
+    "given": "Zippora",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1880",
+      "year": 1880,
+      "iso": "1880",
+      "precision": "about",
+      "display": "about 1880",
+      "place": null
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kurshan, Lithuania",
+      "location": {
+        "label": "Kurshan, Lithuania",
+        "placeName": "Kurshan",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1746
+    ],
+    "exSpouses": [],
+    "children": [
+      4477,
+      4478
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1060"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1746,
+        "unionId": "F1060",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4477,
+        "unionId": "F1060",
+        "type": "biological"
+      },
+      {
+        "id": 4478,
+        "unionId": "F1060",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291060@",
+    "geniId": "6000000003658291060",
+    "rfn": "geni:6000000003658291060",
+    "changed": "17 DEC 2022"
+  },
+  "page": {
+    "route": "people/4476/",
+    "canonical": "https://www.genepedia.org/people/4476/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": 719,
+  "schema": "genepedia/person@1",
+  "slug": "dorothea-petronella-hoffman",
+  "names": {
+    "display": "Dorothea Petronella Hoffman",
+    "given": "Dorothea Petronella",
+    "surname": "Hoffman",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/1f/01/14/c6/5344486990d23e33/00000007-photo-2018-08-14-19-39-48_original.jpg?hash=2764ef8e592114a3f8fc1f9d95f9118f3f382c5858d59f6867a46addf55c4508.1789455599",
+      "alt": "Dorothea Petronella Hoffman"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/1f/01/14/c6/5344486990d23e33/00000007-photo-2018-08-14-19-39-48_original.jpg?hash=2764ef8e592114a3f8fc1f9d95f9118f3f382c5858d59f6867a46addf55c4508.1789455599",
+        "form": "",
+        "title": "van der Merwe, W.P. & van der Merwe (born Hoffmann), D.P.",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      288
+    ],
+    "exSpouses": [],
+    "children": [
+      720,
+      721
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F203"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 288,
+        "unionId": "F203",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 720,
+        "unionId": "F203",
+        "type": "biological"
+      },
+      {
+        "id": 721,
+        "unionId": "F203",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000221802672877@",
+    "geniId": "6000000221802672877",
+    "rfn": "geni:6000000221802672877",
+    "changed": "18 OCT 2025"
+  },
+  "page": {
+    "route": "people/719/",
+    "canonical": "https://www.genepedia.org/people/719/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

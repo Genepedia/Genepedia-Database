@@ -1,0 +1,141 @@
+{
+  "id": 2140,
+  "schema": "genepedia/person@1",
+  "slug": "thomas-sinden",
+  "names": {
+    "display": "Thomas Sinden",
+    "given": "Thomas",
+    "surname": "Sinden",
+    "married": "Sinden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1814",
+      "year": 1814,
+      "iso": "1814",
+      "precision": "exact",
+      "display": "1814",
+      "place": "England, United Kingdom",
+      "location": {
+        "label": "England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "8 MAY 1814",
+      "year": 1814,
+      "iso": "1814-05-08",
+      "precision": "exact",
+      "display": "May 8, 1814",
+      "place": "Detling, England, United Kingdom",
+      "location": {
+        "label": "Detling, England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Detling",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2136,
+      2137
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2138,
+      2139,
+      2141,
+      2142,
+      887,
+      2143,
+      2144,
+      2145,
+      2146,
+      2147,
+      2148
+    ],
+    "parentUnions": [
+      "F554"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2136,
+        "unionId": "F554",
+        "type": "biological"
+      },
+      {
+        "id": 2137,
+        "unionId": "F554",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000035082292049@",
+    "geniId": "6000000035082292049",
+    "rfn": "geni:6000000035082292049",
+    "changed": "19 JUL 2015"
+  },
+  "page": {
+    "route": "people/2140/",
+    "canonical": "https://www.genepedia.org/people/2140/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

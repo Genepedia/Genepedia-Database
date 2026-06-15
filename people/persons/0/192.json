@@ -1,0 +1,102 @@
+{
+  "id": 192,
+  "schema": "genepedia/person@1",
+  "slug": "kayla-heymans",
+  "names": {
+    "display": "Kayla Heymans",
+    "given": "Kayla",
+    "surname": "Heymans",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BEF 2008",
+      "year": 2008,
+      "iso": "2008",
+      "precision": "before",
+      "display": "before 2008",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/7b/87/53/ec/534448674b3ce5cc/screenshot_20241206_112703_original.jpg?hash=4e80db039ebc1b2bf77cf0dee3e258734fca8447450530e0405c6e7319588f76.1789455599",
+      "alt": "Kayla Heymans"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/7b/87/53/ec/534448674b3ce5cc/screenshot_20241206_112703_original.jpg?hash=4e80db039ebc1b2bf77cf0dee3e258734fca8447450530e0405c6e7319588f76.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      54,
+      191
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F58"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 54,
+        "unionId": "F58",
+        "type": "biological"
+      },
+      {
+        "id": 191,
+        "unionId": "F58",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208166373851@",
+    "geniId": "6000000208166373851",
+    "rfn": "geni:6000000208166373851",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/192/",
+    "canonical": "https://www.genepedia.org/people/192/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

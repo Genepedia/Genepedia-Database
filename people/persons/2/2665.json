@@ -1,0 +1,77 @@
+{
+  "id": 2665,
+  "schema": "genepedia/person@1",
+  "slug": "aletta-catharina-johanna-venter",
+  "names": {
+    "display": "Aletta Catharina Johanna Venter",
+    "given": "Aletta Catharina Johanna",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1075
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F653"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1075,
+        "unionId": "F653",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021686086202@",
+    "geniId": "6000000021686086202",
+    "rfn": "geni:6000000021686086202",
+    "changed": "03 MAR 2015"
+  },
+  "page": {
+    "route": "people/2665/",
+    "canonical": "https://www.genepedia.org/people/2665/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

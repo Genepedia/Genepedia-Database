@@ -1,0 +1,103 @@
+{
+  "id": 3461,
+  "schema": "genepedia/person@1",
+  "slug": "eileen-haasbroek",
+  "names": {
+    "display": "Eileen Haasbroek",
+    "given": "Eileen",
+    "surname": "Mcpherson",
+    "married": "Haasbroek",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b2/3f/3f/01/5344486602b3332e/screenshot_2024-06-15_184747_original.jpg?hash=0223b7490b04219abb3e568fc5651ffdcfed4c4fbdc31c58470283c54abf034c.1789455599",
+      "alt": "Eileen Haasbroek"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b2/3f/3f/01/5344486602b3332e/screenshot_2024-06-15_184747_original.jpg?hash=0223b7490b04219abb3e568fc5651ffdcfed4c4fbdc31c58470283c54abf034c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1379
+    ],
+    "exSpouses": [],
+    "children": [
+      3462,
+      3463
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F853"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1379,
+        "unionId": "F853",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3462,
+        "unionId": "F853",
+        "type": "biological"
+      },
+      {
+        "id": 3463,
+        "unionId": "F853",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206533420846@",
+    "geniId": "6000000206533420846",
+    "rfn": "geni:6000000206533420846",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/3461/",
+    "canonical": "https://www.genepedia.org/people/3461/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

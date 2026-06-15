@@ -1,0 +1,153 @@
+{
+  "id": 1748,
+  "schema": "genepedia/person@1",
+  "slug": "bernard-benjamin-greenspoon",
+  "names": {
+    "display": "Bernard Benjamin Greenspoon",
+    "given": "Bernard Benjamin",
+    "surname": "Greenspoon",
+    "married": "Greenspoon",
+    "nick": "Greenspan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1830",
+      "year": 1830,
+      "iso": "1830",
+      "precision": "about",
+      "display": "about 1830",
+      "place": "Lithuania",
+      "location": {
+        "label": "Lithuania",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Fort Dodge, IA, United States",
+      "location": {
+        "label": "Fort Dodge, IA, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fort Dodge",
+        "postalCode": "50501",
+        "county": "",
+        "stateProvince": "IA",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4484,
+      4483
+    ],
+    "spouses": [
+      1749
+    ],
+    "exSpouses": [],
+    "children": [
+      726,
+      1750
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1062"
+    ],
+    "spouseUnions": [
+      "F458"
+    ],
+    "parentLinks": [
+      {
+        "id": 4484,
+        "unionId": "F1062",
+        "type": "biological"
+      },
+      {
+        "id": 4483,
+        "unionId": "F1062",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1749,
+        "unionId": "F458",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 726,
+        "unionId": "F458",
+        "type": "biological"
+      },
+      {
+        "id": 1750,
+        "unionId": "F458",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000011615744449@",
+    "geniId": "6000000011615744449",
+    "rfn": "geni:6000000011615744449",
+    "changed": "19 FEB 2025"
+  },
+  "page": {
+    "route": "people/1748/",
+    "canonical": "https://www.genepedia.org/people/1748/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

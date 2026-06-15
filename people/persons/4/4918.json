@@ -1,0 +1,88 @@
+{
+  "id": 4918,
+  "schema": "genepedia/person@1",
+  "slug": "anna-margaretha-bester",
+  "names": {
+    "display": "Anna Margaretha Bester",
+    "given": "Anna Margaretha",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1914,
+      4913
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4914,
+      4915,
+      4916,
+      4917
+    ],
+    "parentUnions": [
+      "F1166"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1914,
+        "unionId": "F1166",
+        "type": "biological"
+      },
+      {
+        "id": 4913,
+        "unionId": "F1166",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066758739822@",
+    "geniId": "6000000066758739822",
+    "rfn": "geni:6000000066758739822",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/4918/",
+    "canonical": "https://www.genepedia.org/people/4918/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

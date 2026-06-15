@@ -1,0 +1,113 @@
+{
+  "id": 3263,
+  "schema": "genepedia/person@1",
+  "slug": "izak-jeremias-nieuwoudt-mouton",
+  "names": {
+    "display": "Izak Jeremias Nieuwoudt Mouton",
+    "given": "Izak Jeremias Nieuwoudt",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "13 JUN 1931",
+      "year": 1931,
+      "iso": "1931-06-13",
+      "precision": "exact",
+      "display": "June 13, 1931",
+      "place": "Vanrhynsdorp, WC, South Africa",
+      "location": {
+        "label": "Vanrhynsdorp, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vanrhynsdorp",
+        "postalCode": "8170",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1296,
+      3257
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3258,
+      3259,
+      3260,
+      3261,
+      3262,
+      3264
+    ],
+    "parentUnions": [
+      "F800"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1296,
+        "unionId": "F800",
+        "type": "biological"
+      },
+      {
+        "id": 3257,
+        "unionId": "F800",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107548370036@",
+    "geniId": "6000000107548370036",
+    "rfn": "geni:6000000107548370036",
+    "changed": "06 MAY 2020"
+  },
+  "page": {
+    "route": "people/3263/",
+    "canonical": "https://www.genepedia.org/people/3263/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

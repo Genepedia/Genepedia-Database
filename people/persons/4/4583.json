@@ -1,0 +1,135 @@
+{
+  "id": 4583,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-bester-4583",
+  "names": {
+    "display": "Jacobus Marthinus Bester",
+    "given": "Jacobus Marthinus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 APR 1789",
+      "year": 1789,
+      "iso": "1789-04-10",
+      "precision": "exact",
+      "display": "April 10, 1789",
+      "place": "Swellendam, WC, South Africa",
+      "location": {
+        "label": "Swellendam, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 AUG 1869",
+      "year": 1869,
+      "iso": "1869-08-23",
+      "precision": "exact",
+      "display": "August 23, 1869",
+      "place": "Vingerfontein, Victoria West, Northern Cape, South Africa",
+      "location": {
+        "label": "Vingerfontein, Victoria West, Northern Cape, South Africa",
+        "placeName": "Vingerfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4579,
+      4580
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4581,
+      4582,
+      4584,
+      4585,
+      1844
+    ],
+    "parentUnions": [
+      "F1099"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4579,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4580,
+        "unionId": "F1099",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003392390639@",
+    "geniId": "6000000003392390639",
+    "rfn": "geni:6000000003392390639",
+    "changed": "28 FEB 2025"
+  },
+  "page": {
+    "route": "people/4583/",
+    "canonical": "https://www.genepedia.org/people/4583/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

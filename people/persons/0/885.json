@@ -1,0 +1,146 @@
+{
+  "id": 885,
+  "schema": "genepedia/person@1",
+  "slug": "henry-roselt",
+  "names": {
+    "display": "Henry Roselt",
+    "given": "Henry",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1865",
+      "year": 1865,
+      "iso": "1865",
+      "precision": "exact",
+      "display": "1865",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 FEB 1953",
+      "year": 1953,
+      "iso": "1953-02-28",
+      "precision": "exact",
+      "display": "February 28, 1953",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "54 Tulley Street",
+        "addressLine2": "",
+        "addressLine3": "Turffontein",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Building-Contractor",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e3/c8/57/0e/534448636243bc96/record-image__original.jpg?hash=1427657bcf34003648c27596ca5a2848e78dec48d2ac443566f659d6c123d116.1789455599",
+      "alt": "Henry Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e3/c8/57/0e/534448636243bc96/record-image__original.jpg?hash=1427657bcf34003648c27596ca5a2848e78dec48d2ac443566f659d6c123d116.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      881,
+      880
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      368,
+      882,
+      883,
+      884
+    ],
+    "parentUnions": [
+      "F249"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 881,
+        "unionId": "F249",
+        "type": "biological"
+      },
+      {
+        "id": 880,
+        "unionId": "F249",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026552147791@",
+    "geniId": "6000000026552147791",
+    "rfn": "geni:6000000026552147791",
+    "changed": "07 JUN 2023"
+  },
+  "page": {
+    "route": "people/885/",
+    "canonical": "https://www.genepedia.org/people/885/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

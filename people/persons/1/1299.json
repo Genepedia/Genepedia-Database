@@ -1,0 +1,198 @@
+{
+  "id": 1299,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-johannes-mouton",
+  "names": {
+    "display": "Gerrit Johannes Mouton",
+    "given": "Gerrit Johannes",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JAN 1891",
+      "year": 1891,
+      "iso": "1891-01-23",
+      "precision": "exact",
+      "display": "January 23, 1891",
+      "place": "Clanwilliam, WC, South Africa",
+      "location": {
+        "label": "Clanwilliam, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "8135",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 FEB 1952",
+      "year": 1952,
+      "iso": "1952-02-10",
+      "precision": "exact",
+      "display": "February 10, 1952",
+      "place": "Bella Vista, Klawer, WC, South Africa",
+      "location": {
+        "label": "Bella Vista, Klawer, WC, South Africa",
+        "placeName": "Bella Vista",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klawer",
+        "postalCode": "8145",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "4 FEB 1891",
+      "year": 1891,
+      "iso": "1891-02-04",
+      "precision": "exact",
+      "display": "February 4, 1891",
+      "place": "WC, South Africa",
+      "location": {
+        "label": "WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/8d/95/08/9c/5344484ef6eb38a2/gert_johannes_mouton_1891_-_1952_original.jpg?hash=57bb62dca7d0643097a03be932a5ae0cb88f574bf6e1bde7f8dd65b35847a74d.1789455599",
+      "alt": "Gerrit Johannes Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/8d/95/08/9c/5344484ef6eb38a2/gert_johannes_mouton_1891_-_1952_original.jpg?hash=57bb62dca7d0643097a03be932a5ae0cb88f574bf6e1bde7f8dd65b35847a74d.1789455599",
+        "form": "",
+        "title": "Gert Johannes Mouton 1891 - 1952.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1292,
+      1291
+    ],
+    "spouses": [
+      3266,
+      3267
+    ],
+    "exSpouses": [],
+    "children": [
+      3268
+    ],
+    "siblings": [
+      1293,
+      1294,
+      1295,
+      1296,
+      1297,
+      1298,
+      1300,
+      537
+    ],
+    "parentUnions": [
+      "F336"
+    ],
+    "spouseUnions": [
+      "F802",
+      "F803"
+    ],
+    "parentLinks": [
+      {
+        "id": 1292,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1291,
+        "unionId": "F336",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3266,
+        "unionId": "F802",
+        "role": "wife"
+      },
+      {
+        "id": 3267,
+        "unionId": "F803",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3268,
+        "unionId": "F803",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000107550899897@",
+    "geniId": "6000000107550899897",
+    "rfn": "geni:6000000107550899897",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1299/",
+    "canonical": "https://www.genepedia.org/people/1299/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

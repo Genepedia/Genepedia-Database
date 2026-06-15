@@ -1,0 +1,142 @@
+{
+  "id": 1603,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-botha",
+  "names": {
+    "display": "Johannes Petrus Botha",
+    "given": "Johannes Petrus",
+    "surname": "Botha",
+    "married": "Botha",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 AUG 1845",
+      "year": 1845,
+      "iso": "1845-08-28",
+      "precision": "exact",
+      "display": "August 28, 1845",
+      "place": "Smithfield, Orange Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Orange Free State, South Africa",
+        "placeName": "Smithfield, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 FEB 1918",
+      "year": 1918,
+      "iso": "1918-02-21",
+      "precision": "exact",
+      "display": "February 21, 1918",
+      "place": "Bethlehem, Orange Free State, South Africa",
+      "location": {
+        "label": "Bethlehem, Orange Free State, South Africa",
+        "placeName": "Bethlehem, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1602,
+      1601
+    ],
+    "spouses": [
+      4227
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      645,
+      1604
+    ],
+    "parentUnions": [
+      "F408"
+    ],
+    "spouseUnions": [
+      "F992"
+    ],
+    "parentLinks": [
+      {
+        "id": 1602,
+        "unionId": "F408",
+        "type": "biological"
+      },
+      {
+        "id": 1601,
+        "unionId": "F408",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4227,
+        "unionId": "F992",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000212761473858@",
+    "geniId": "6000000212761473858",
+    "rfn": "geni:6000000212761473858",
+    "changed": "23 DEC 2024"
+  },
+  "page": {
+    "route": "people/1603/",
+    "canonical": "https://www.genepedia.org/people/1603/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

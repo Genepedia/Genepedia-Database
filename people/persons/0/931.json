@@ -1,0 +1,173 @@
+{
+  "id": 931,
+  "schema": "genepedia/person@1",
+  "slug": "minnie-ruth-sinden",
+  "names": {
+    "display": "Minnie Ruth Sinden",
+    "given": "Minnie Ruth",
+    "surname": "Sinden",
+    "married": "Martin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "22 MAR 1930",
+      "year": 1930,
+      "iso": "1930-03-22",
+      "precision": "exact",
+      "display": "March 22, 1930",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "19 OCT 1930",
+      "year": 1930,
+      "iso": "1930-10-19",
+      "precision": "exact",
+      "display": "October 19, 1930",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/41/eb/32/27/5344485f3b2abca9/record-image_1__original.jpg?hash=15fe3aaf0d1a8044feedc85f81d25ea5eb423a7d47287143837fb3ba62b91810.1789455599",
+      "alt": "Minnie Ruth Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/41/eb/32/27/5344485f3b2abca9/record-image_1__original.jpg?hash=15fe3aaf0d1a8044feedc85f81d25ea5eb423a7d47287143837fb3ba62b91810.1789455599",
+        "form": "",
+        "title": "record-image_ trou 1950 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      927,
+      375
+    ],
+    "spouses": [
+      2331
+    ],
+    "exSpouses": [],
+    "children": [
+      2332,
+      2333,
+      2334,
+      2335,
+      2336
+    ],
+    "siblings": [
+      928,
+      929,
+      930,
+      932,
+      933
+    ],
+    "parentUnions": [
+      "F257"
+    ],
+    "spouseUnions": [
+      "F590"
+    ],
+    "parentLinks": [
+      {
+        "id": 927,
+        "unionId": "F257",
+        "type": "biological"
+      },
+      {
+        "id": 375,
+        "unionId": "F257",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2331,
+        "unionId": "F590",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2332,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 2333,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 2334,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 2335,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 2336,
+        "unionId": "F590",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028162485453@",
+    "geniId": "6000000028162485453",
+    "rfn": "geni:6000000028162485453",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/931/",
+    "canonical": "https://www.genepedia.org/people/931/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

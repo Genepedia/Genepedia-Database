@@ -1,0 +1,131 @@
+{
+  "id": 1186,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-catharena-de-klerk",
+  "names": {
+    "display": "Magdalena Catharena de Klerk",
+    "given": "Magdalena Catharena",
+    "surname": "de Klerk",
+    "married": "de Klerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 MAY 1900",
+      "year": 1900,
+      "iso": "1900-05-06",
+      "precision": "exact",
+      "display": "May 6, 1900",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "11 NOV 1900",
+      "year": 1900,
+      "iso": "1900-11-11",
+      "precision": "exact",
+      "display": "November 11, 1900",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/0a/d3/5a/dd/534448472bf886f5/christian_johannes_de_klerk_1864_-_1916_original.jpg?hash=665d725e7b7aad80c85074564e1fd02a49cfd3e6ed113266a2d2ddcbdf84ca8f.1789455599",
+      "alt": "Magdalena Catharena de Klerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/0a/d3/5a/dd/534448472bf886f5/christian_johannes_de_klerk_1864_-_1916_original.jpg?hash=665d725e7b7aad80c85074564e1fd02a49cfd3e6ed113266a2d2ddcbdf84ca8f.1789455599",
+        "form": "",
+        "title": "Christian Johannes de Klerk 1864 - 1916.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1177,
+      1178
+    ],
+    "spouses": [
+      2996
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1179,
+      1180,
+      1181,
+      1182,
+      469,
+      1183,
+      1184,
+      1185,
+      1187,
+      1188,
+      1189
+    ],
+    "parentUnions": [
+      "F309"
+    ],
+    "spouseUnions": [
+      "F731"
+    ],
+    "parentLinks": [
+      {
+        "id": 1177,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1178,
+        "unionId": "F309",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2996,
+        "unionId": "F731",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000073806371338@",
+    "geniId": "6000000073806371338",
+    "rfn": "geni:6000000073806371338",
+    "changed": "15 JAN 2018"
+  },
+  "page": {
+    "route": "people/1186/",
+    "canonical": "https://www.genepedia.org/people/1186/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

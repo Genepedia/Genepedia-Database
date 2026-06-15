@@ -1,0 +1,205 @@
+{
+  "id": 66,
+  "schema": "genepedia/person@1",
+  "slug": "gert-matys-de-beer",
+  "names": {
+    "display": "Gert Matys De Beer",
+    "given": "Gert Matys",
+    "surname": "De Beer",
+    "married": "de Beer",
+    "nick": "Gert",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 SEP 1935",
+      "year": 1935,
+      "iso": "1935-09-01",
+      "precision": "exact",
+      "display": "September 1, 1935",
+      "place": "Matjesfontein, Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Matjesfontein, Calvinia, Cape Province, South Africa",
+        "placeName": "Matjesfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 JAN 2018",
+      "year": 2018,
+      "iso": "2018-01-02",
+      "precision": "exact",
+      "display": "January 2, 2018",
+      "place": "Caledon, Western Cape, South Africa",
+      "location": {
+        "label": "Caledon, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Caledon",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "12 AUG 1937",
+      "year": 1937,
+      "iso": "1937-08-12",
+      "precision": "exact",
+      "display": "August 12, 1937",
+      "place": "Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Calvinia, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ee/42/e1/fa/53444851a2ddc829/picture7_original.jpg?hash=225590bb7d3e502d0be23ab2a67a64289e9375bf4c16fc4ed556624bbac0ef27.1789455599",
+      "alt": "Gert Matys De Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ee/42/e1/fa/53444851a2ddc829/picture7_original.jpg?hash=225590bb7d3e502d0be23ab2a67a64289e9375bf4c16fc4ed556624bbac0ef27.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      214,
+      215
+    ],
+    "spouses": [
+      65
+    ],
+    "exSpouses": [],
+    "children": [
+      12,
+      67,
+      68
+    ],
+    "siblings": [
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225
+    ],
+    "parentUnions": [
+      "F69"
+    ],
+    "spouseUnions": [
+      "F22"
+    ],
+    "parentLinks": [
+      {
+        "id": 214,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 215,
+        "unionId": "F69",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 65,
+        "unionId": "F22",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 12,
+        "unionId": "F22",
+        "type": "biological"
+      },
+      {
+        "id": 67,
+        "unionId": "F22",
+        "type": "biological"
+      },
+      {
+        "id": 68,
+        "unionId": "F22",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000178917518939@",
+    "geniId": "6000000178917518939",
+    "rfn": "geni:6000000178917518939",
+    "changed": "15 AUG 2024"
+  },
+  "page": {
+    "route": "people/66/",
+    "canonical": "https://www.genepedia.org/people/66/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 4503,
+  "schema": "genepedia/person@1",
+  "slug": "susan-arkoff",
+  "names": {
+    "display": "Susan Arkoff",
+    "given": "Susan",
+    "surname": "Arkoff",
+    "married": "Arkoff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1764
+    ],
+    "exSpouses": [],
+    "children": [
+      4504,
+      4505
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1070"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1764,
+        "unionId": "F1070",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4504,
+        "unionId": "F1070",
+        "type": "biological"
+      },
+      {
+        "id": 4505,
+        "unionId": "F1070",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000000500828456@",
+    "geniId": "6000000000500828456",
+    "rfn": "geni:6000000000500828456",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/4503/",
+    "canonical": "https://www.genepedia.org/people/4503/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,147 @@
+{
+  "id": 833,
+  "schema": "genepedia/person@1",
+  "slug": "david-lambertus-mitchell",
+  "names": {
+    "display": "David Lambertus Mitchell",
+    "given": "David Lambertus",
+    "surname": "Mitchell",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 NOV 1906",
+      "year": 1906,
+      "iso": "1906-11-15",
+      "precision": "exact",
+      "display": "November 15, 1906",
+      "place": "Ladismith, Western Cape, South Africa",
+      "location": {
+        "label": "Ladismith, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ladismith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 JAN 1984",
+      "year": 1984,
+      "iso": "1984-01-15",
+      "precision": "exact",
+      "display": "January 15, 1984",
+      "place": "Olifantshoek, Cape, South Africa",
+      "location": {
+        "label": "Olifantshoek, Cape, South Africa",
+        "placeName": "Olifantshoek",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      831,
+      333
+    ],
+    "spouses": [
+      2006
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      832,
+      834,
+      835,
+      836,
+      837,
+      838,
+      839
+    ],
+    "parentUnions": [
+      "F230"
+    ],
+    "spouseUnions": [
+      "F520"
+    ],
+    "parentLinks": [
+      {
+        "id": 831,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 333,
+        "unionId": "F230",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2006,
+        "unionId": "F520",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000008688039712@",
+    "geniId": "6000000008688039712",
+    "rfn": "geni:6000000008688039712",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/833/",
+    "canonical": "https://www.genepedia.org/people/833/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

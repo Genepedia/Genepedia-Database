@@ -1,0 +1,143 @@
+{
+  "id": 3365,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-mouton-3365",
+  "names": {
+    "display": "Johannes Petrus Mouton",
+    "given": "Johannes Petrus",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JAN 1889",
+      "year": 1889,
+      "iso": "1889-01-12",
+      "precision": "exact",
+      "display": "January 12, 1889",
+      "place": "Humanskraal, Porterville, Cape Colony, South Africa",
+      "location": {
+        "label": "Humanskraal, Porterville, Cape Colony, South Africa",
+        "placeName": "Humanskraal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Porterville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 JUL 1970",
+      "year": 1970,
+      "iso": "1970-07-11",
+      "precision": "exact",
+      "display": "July 11, 1970",
+      "place": "Porterville, Cape Colony, South Africa",
+      "location": {
+        "label": "Porterville, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Porterville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3366
+    ],
+    "exSpouses": [],
+    "children": [
+      1331,
+      3367,
+      3368
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F829"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3366,
+        "unionId": "F829",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1331,
+        "unionId": "F829",
+        "type": "biological"
+      },
+      {
+        "id": 3367,
+        "unionId": "F829",
+        "type": "biological"
+      },
+      {
+        "id": 3368,
+        "unionId": "F829",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000167971971897@",
+    "geniId": "6000000167971971897",
+    "rfn": "geni:6000000167971971897",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/3365/",
+    "canonical": "https://www.genepedia.org/people/3365/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

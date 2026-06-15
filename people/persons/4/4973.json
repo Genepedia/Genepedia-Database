@@ -1,0 +1,88 @@
+{
+  "id": 4973,
+  "schema": "genepedia/person@1",
+  "slug": "naomi-strauss",
+  "names": {
+    "display": "Naomi Strauss",
+    "given": "Naomi",
+    "surname": "Strauss",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4968,
+      1931
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4969,
+      4970,
+      4971,
+      4972
+    ],
+    "parentUnions": [
+      "F1179"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4968,
+        "unionId": "F1179",
+        "type": "biological"
+      },
+      {
+        "id": 1931,
+        "unionId": "F1179",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089487019253@",
+    "geniId": "6000000089487019253",
+    "rfn": "geni:6000000089487019253",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/4973/",
+    "canonical": "https://www.genepedia.org/people/4973/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

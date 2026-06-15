@@ -1,0 +1,151 @@
+{
+  "id": 1015,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-maria-van-der-bank",
+  "names": {
+    "display": "Elizabeth Maria van der Bank",
+    "given": "Elizabeth Maria",
+    "surname": "van der Bank",
+    "married": "Mans",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 JUN 1844",
+      "year": 1844,
+      "iso": "1844-06-25",
+      "precision": "exact",
+      "display": "June 25, 1844",
+      "place": "Riversdale, Cape Province, South Africa",
+      "location": {
+        "label": "Riversdale, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Riversdale",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "4 AUG 1844",
+      "year": 1844,
+      "iso": "1844-08-04",
+      "precision": "exact",
+      "display": "August 4, 1844",
+      "place": "Riversdale, Cape Province, South Africa",
+      "location": {
+        "label": "Riversdale, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Riversdale",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1009,
+      1008
+    ],
+    "spouses": [
+      2503
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1010,
+      1011,
+      1012,
+      1013,
+      1014,
+      1016,
+      1017,
+      1018,
+      417,
+      1019,
+      1020
+    ],
+    "parentUnions": [
+      "F278"
+    ],
+    "spouseUnions": [
+      "F625"
+    ],
+    "parentLinks": [
+      {
+        "id": 1009,
+        "unionId": "F278",
+        "type": "biological"
+      },
+      {
+        "id": 1008,
+        "unionId": "F278",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2503,
+        "unionId": "F625",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000197701924845@",
+    "geniId": "6000000197701924845",
+    "rfn": "geni:6000000197701924845",
+    "changed": "28 AUG 2023"
+  },
+  "page": {
+    "route": "people/1015/",
+    "canonical": "https://www.genepedia.org/people/1015/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": 2381,
+  "schema": "genepedia/person@1",
+  "slug": "lea-sophia-cloete-2381",
+  "names": {
+    "display": "Lea Sophia Cloete",
+    "given": "Lea Sophia",
+    "surname": "Cloete",
+    "married": "Duvenhage",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "BEF 1891",
+      "year": 1891,
+      "iso": "1891",
+      "precision": "before",
+      "display": "before 1891",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2376,
+      2375
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      954,
+      2377,
+      2378,
+      2379,
+      2380,
+      2382
+    ],
+    "parentUnions": [
+      "F600"
+    ],
+    "spouseUnions": [
+      "F1473"
+    ],
+    "parentLinks": [
+      {
+        "id": 2376,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2375,
+        "unionId": "F600",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052174157830@",
+    "geniId": "6000000052174157830",
+    "rfn": "geni:6000000052174157830",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2381/",
+    "canonical": "https://www.genepedia.org/people/2381/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

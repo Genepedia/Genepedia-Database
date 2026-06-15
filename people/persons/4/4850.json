@@ -1,0 +1,102 @@
+{
+  "id": 4850,
+  "schema": "genepedia/person@1",
+  "slug": "cecilia-johanna-maria-grobler",
+  "names": {
+    "display": "Cecilia Johanna Maria Grobler",
+    "given": "Cecilia Johanna Maria",
+    "surname": "Grobler",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 SEP 1821",
+      "year": 1821,
+      "iso": "1821-09-15",
+      "precision": "exact",
+      "display": "September 15, 1821",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4846,
+      4845
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4847,
+      4848,
+      4849,
+      1903,
+      4851,
+      4852,
+      4853,
+      4854,
+      4855,
+      4856,
+      4857
+    ],
+    "parentUnions": [
+      "F1155"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4846,
+        "unionId": "F1155",
+        "type": "biological"
+      },
+      {
+        "id": 4845,
+        "unionId": "F1155",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040952090428@",
+    "geniId": "6000000040952090428",
+    "rfn": "geni:6000000040952090428",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4850/",
+    "canonical": "https://www.genepedia.org/people/4850/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

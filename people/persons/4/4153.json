@@ -1,0 +1,147 @@
+{
+  "id": 4153,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-francina-maria-pretorius",
+  "names": {
+    "display": "Johanna Francina Maria Pretorius",
+    "given": "Johanna Francina Maria",
+    "surname": "Pretorius",
+    "married": "Strauss",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 NOV 1874",
+      "year": 1874,
+      "iso": "1874-11-01",
+      "precision": "exact",
+      "display": "November 1, 1874",
+      "place": null
+    },
+    "death": {
+      "date": "1 JUL 1946",
+      "year": 1946,
+      "iso": "1946-07-01",
+      "precision": "exact",
+      "display": "July 1, 1946",
+      "place": "Leeudoringstad, South Africa",
+      "location": {
+        "label": "Leeudoringstad, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Leeudoringstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "24 JAN 1875",
+      "year": 1875,
+      "iso": "1875-01-24",
+      "precision": "exact",
+      "display": "January 24, 1875",
+      "place": "Frankfort, Free State, South Africa",
+      "location": {
+        "label": "Frankfort, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Frankfort",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4146,
+      4145
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4147,
+      4148,
+      4149,
+      1575,
+      4150,
+      4151,
+      4152,
+      4154,
+      4155,
+      4156
+    ],
+    "parentUnions": [
+      "F966"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4146,
+        "unionId": "F966",
+        "type": "biological"
+      },
+      {
+        "id": 4145,
+        "unionId": "F966",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020843728098@",
+    "geniId": "6000000020843728098",
+    "rfn": "geni:6000000020843728098",
+    "changed": "08 JUL 2025"
+  },
+  "page": {
+    "route": "people/4153/",
+    "canonical": "https://www.genepedia.org/people/4153/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

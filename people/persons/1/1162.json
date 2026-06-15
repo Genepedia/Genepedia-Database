@@ -1,0 +1,131 @@
+{
+  "id": 1162,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-elizabeth-davis",
+  "names": {
+    "display": "Martha Maria Elizabeth Davis",
+    "given": "Martha Maria Elizabeth",
+    "surname": "Davis",
+    "married": "Human",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 MAR 1910",
+      "year": 1910,
+      "iso": "1910-03-12",
+      "precision": "exact",
+      "display": "March 12, 1910",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/07/d2/30/7f/5344485601c8b6e4/ouma_bettie_original.jpg?hash=7baa471e8671054c9a830d70c4c28a67b1bf4d1f30d4833170ce5e21d042ac98.1789455599",
+      "alt": "Martha Maria Elizabeth Davis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/07/d2/30/7f/5344485601c8b6e4/ouma_bettie_original.jpg?hash=7baa471e8671054c9a830d70c4c28a67b1bf4d1f30d4833170ce5e21d042ac98.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      451,
+      1159
+    ],
+    "spouses": [
+      2907
+    ],
+    "exSpouses": [],
+    "children": [
+      2908,
+      2909
+    ],
+    "siblings": [
+      1160,
+      1161,
+      1163,
+      1164
+    ],
+    "parentUnions": [
+      "F306"
+    ],
+    "spouseUnions": [
+      "F716"
+    ],
+    "parentLinks": [
+      {
+        "id": 451,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1159,
+        "unionId": "F306",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2907,
+        "unionId": "F716",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2908,
+        "unionId": "F716",
+        "type": "biological"
+      },
+      {
+        "id": 2909,
+        "unionId": "F716",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000068692133821@",
+    "geniId": "6000000068692133821",
+    "rfn": "geni:6000000068692133821",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1162/",
+    "canonical": "https://www.genepedia.org/people/1162/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,139 @@
+{
+  "id": 2205,
+  "schema": "genepedia/person@1",
+  "slug": "francis-arthur-barker",
+  "names": {
+    "display": "Francis Arthur Barker",
+    "given": "Francis Arthur",
+    "surname": "Barker",
+    "married": "Barker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 APR 1915",
+      "year": 1915,
+      "iso": "1915-04-20",
+      "precision": "exact",
+      "display": "April 20, 1915",
+      "place": null
+    },
+    "death": {
+      "date": "13 OCT 1984",
+      "year": 1984,
+      "iso": "1984-10-13",
+      "precision": "exact",
+      "display": "October 13, 1984",
+      "place": "Port Elizabeth, Eastern Cape, South Africa",
+      "location": {
+        "label": "Port Elizabeth, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Elizabeth",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/8d/d6/f7/5b/5344486132b87bc9/record-image__original.jpg?hash=e55bdb16e294282001772a1d71ca4c4a732354c9726bfce45d8c27c6ab663554.1789455599",
+      "alt": "Francis Arthur Barker"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/8d/d6/f7/5b/5344486132b87bc9/record-image__original.jpg?hash=e55bdb16e294282001772a1d71ca4c4a732354c9726bfce45d8c27c6ab663554.1789455599",
+        "form": "",
+        "title": "record-image_trou  1936 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      900
+    ],
+    "exSpouses": [],
+    "children": [
+      2206,
+      2207,
+      2208
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F560"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 900,
+        "unionId": "F560",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2206,
+        "unionId": "F560",
+        "type": "biological"
+      },
+      {
+        "id": 2207,
+        "unionId": "F560",
+        "type": "biological"
+      },
+      {
+        "id": 2208,
+        "unionId": "F560",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000054922753097@",
+    "geniId": "6000000054922753097",
+    "rfn": "geni:6000000054922753097",
+    "changed": "23 APR 2017"
+  },
+  "page": {
+    "route": "people/2205/",
+    "canonical": "https://www.genepedia.org/people/2205/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

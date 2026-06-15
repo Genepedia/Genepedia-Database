@@ -1,0 +1,178 @@
+{
+  "id": 2152,
+  "schema": "genepedia/person@1",
+  "slug": "william-hibbert",
+  "names": {
+    "display": "William Hibbert",
+    "given": "William",
+    "surname": "Hibbert",
+    "married": "Hibbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 SEP 1880",
+      "year": 1880,
+      "iso": "1880-09-03",
+      "precision": "exact",
+      "display": "September 3, 1880",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 DEC 1943",
+      "year": 1943,
+      "iso": "1943-12-01",
+      "precision": "exact",
+      "display": "December 1, 1943",
+      "place": "Cape Town, Cape Province, South Africa",
+      "location": {
+        "label": "Cape Town, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "21 Roberts Road",
+        "addressLine2": "",
+        "addressLine3": "Woodstock",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "19 SEP 1880",
+      "year": 1880,
+      "iso": "1880-09-19",
+      "precision": "exact",
+      "display": "September 19, 1880",
+      "place": "Hopetown, South Africa",
+      "location": {
+        "label": "Hopetown, South Africa",
+        "placeName": "Hopetown",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Ganger S.A.R.",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/40/36/ec/5f/5344485e53e88f18/record-image__original.jpg?hash=8d029c5f98a2136275eec159972f8537ed0343aded04a10eecbac13cc1dd5a67.1789455599",
+      "alt": "William Hibbert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/40/36/ec/5f/5344485e53e88f18/record-image__original.jpg?hash=8d029c5f98a2136275eec159972f8537ed0343aded04a10eecbac13cc1dd5a67.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2149,
+      892
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2150,
+      2151,
+      2153,
+      2154,
+      2155,
+      2156,
+      2157,
+      2158,
+      2159,
+      2160,
+      2161
+    ],
+    "parentUnions": [
+      "F555"
+    ],
+    "spouseUnions": [
+      "F1326"
+    ],
+    "parentLinks": [
+      {
+        "id": 2149,
+        "unionId": "F555",
+        "type": "biological"
+      },
+      {
+        "id": 892,
+        "unionId": "F555",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029613220255@",
+    "geniId": "6000000029613220255",
+    "rfn": "geni:6000000029613220255",
+    "changed": "28 JAN 2023"
+  },
+  "page": {
+    "route": "people/2152/",
+    "canonical": "https://www.genepedia.org/people/2152/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

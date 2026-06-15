@@ -1,0 +1,199 @@
+{
+  "id": 1148,
+  "schema": "genepedia/person@1",
+  "slug": "elsie-sophia-kotze-1148",
+  "names": {
+    "display": "Elsie Sophia Kotze",
+    "given": "Elsie Sophia",
+    "surname": "Kotze",
+    "married": "Fourie",
+    "nick": "Ella",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JUN 1880",
+      "year": 1880,
+      "iso": "1880-06-18",
+      "precision": "exact",
+      "display": "June 18, 1880",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Bloemfontein, FS, South Africa",
+      "location": {
+        "label": "Bloemfontein, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer vrou",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/01/af/da/a7/534448558a663f40/elsie_original.jpg?hash=a44b224ea2955c7f57af7184e2891b459b9911b930be45b97905285b398d1747.1789455599",
+      "alt": "Elsie Sophia Kotze"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/01/af/da/a7/534448558a663f40/elsie_original.jpg?hash=a44b224ea2955c7f57af7184e2891b459b9911b930be45b97905285b398d1747.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/29/8b/5f/da/5344483ae44ed88c/img_0012_-_copy_original.jpg?hash=0f15c0edadfb3cc8d3167e6b80ec4ef57e3359884491e7c78eab7daaf3992733.1789455599",
+        "form": "",
+        "title": "IMG_0012 - Copy.JPG",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/59/5e/6d/82/5344483ae44ed888/img_0013_-_copy_original.jpg?hash=fe935b2de99db6d7891d69cbbaf1798f48966fa0451cd02b3b6165607d04e3dd.1789455599",
+        "form": "",
+        "title": "IMG_0013 - Copy.JPG",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2672,
+      2836
+    ],
+    "spouses": [
+      445
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2837,
+      2838,
+      2775,
+      2839,
+      2840,
+      2841,
+      2842,
+      2843,
+      2844
+    ],
+    "parentUnions": [
+      "F702"
+    ],
+    "spouseUnions": [
+      "F303"
+    ],
+    "parentLinks": [
+      {
+        "id": 2672,
+        "unionId": "F702",
+        "type": "biological"
+      },
+      {
+        "id": 2836,
+        "unionId": "F702",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 445,
+        "unionId": "F303",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000018878916302@",
+    "geniId": "6000000018878916302",
+    "rfn": "geni:6000000018878916302",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1148/",
+    "canonical": "https://www.genepedia.org/people/1148/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

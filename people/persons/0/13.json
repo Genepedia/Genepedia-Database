@@ -1,0 +1,120 @@
+{
+  "id": 13,
+  "schema": "genepedia/person@1",
+  "slug": "ian-marais",
+  "names": {
+    "display": "Ian Marais",
+    "given": "Ian",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "14 NOV 1991",
+      "year": 1991,
+      "iso": "1991-11-14",
+      "precision": "exact",
+      "display": "November 14, 1991",
+      "place": "Farm, Caledon, Western Cape, South Africa",
+      "location": {
+        "label": "Farm, Caledon, Western Cape, South Africa",
+        "placeName": "Farm",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Caledon",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Computer Technician",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e5/6c/de/8a/53444851a2d93169/img-20191231-wa0059-1_original.jpg?hash=9990fb1a56b9b8441f38a9560e7ebc4021cb93bca314fdde23beab32c217732e.1789455599",
+      "alt": "Ian Marais"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e5/6c/de/8a/53444851a2d93169/img-20191231-wa0059-1_original.jpg?hash=9990fb1a56b9b8441f38a9560e7ebc4021cb93bca314fdde23beab32c217732e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      11,
+      12
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2
+    ],
+    "parentUnions": [
+      "F5"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 11,
+        "unionId": "F5",
+        "type": "biological"
+      },
+      {
+        "id": 12,
+        "unionId": "F5",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228635505@",
+    "geniId": "6000000027228635505",
+    "rfn": "geni:6000000027228635505",
+    "changed": "22 DEC 2024"
+  },
+  "page": {
+    "route": "people/13/",
+    "canonical": "https://www.genepedia.org/people/13/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

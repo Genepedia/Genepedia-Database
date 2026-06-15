@@ -1,0 +1,122 @@
+{
+  "id": 1210,
+  "schema": "genepedia/person@1",
+  "slug": "maria-margaretha-ludwick",
+  "names": {
+    "display": "Maria Margaretha Ludwick",
+    "given": "Maria Margaretha",
+    "surname": "Ludwick",
+    "married": "Steenkamp",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1927",
+      "year": 1927,
+      "iso": "1927",
+      "precision": "exact",
+      "display": "1927",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/6f/27/f3/62/534448683ffcf2f3/image_original.jpg?hash=b6995a904686d6d39c1de298d3705c9a9dbc1eb2c5201e1e43a46aea4161018f.1789455599",
+      "alt": "Maria Margaretha Ludwick"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/6f/27/f3/62/534448683ffcf2f3/image_original.jpg?hash=b6995a904686d6d39c1de298d3705c9a9dbc1eb2c5201e1e43a46aea4161018f.1789455599",
+        "form": "",
+        "title": "image - trou 1949 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      490
+    ],
+    "exSpouses": [],
+    "children": [
+      1211,
+      1212,
+      1213,
+      1214
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F313"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 490,
+        "unionId": "F313",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1211,
+        "unionId": "F313",
+        "type": "biological"
+      },
+      {
+        "id": 1212,
+        "unionId": "F313",
+        "type": "biological"
+      },
+      {
+        "id": 1213,
+        "unionId": "F313",
+        "type": "biological"
+      },
+      {
+        "id": 1214,
+        "unionId": "F313",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207511244828@",
+    "geniId": "6000000207511244828",
+    "rfn": "geni:6000000207511244828",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/1210/",
+    "canonical": "https://www.genepedia.org/people/1210/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

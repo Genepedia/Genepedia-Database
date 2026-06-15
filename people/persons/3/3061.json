@@ -1,0 +1,92 @@
+{
+  "id": 3061,
+  "schema": "genepedia/person@1",
+  "slug": "jocabus-hermanus-fourie",
+  "names": {
+    "display": "Jocabus Hermanus Fourie",
+    "given": "Jocabus Hermanus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "28 JAN 1990",
+      "year": 1990,
+      "iso": "1990-01-28",
+      "precision": "exact",
+      "display": "January 28, 1990",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1224,
+      3060
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3062
+    ],
+    "parentUnions": [
+      "F751"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1224,
+        "unionId": "F751",
+        "type": "biological"
+      },
+      {
+        "id": 3060,
+        "unionId": "F751",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000222125939195@",
+    "geniId": "6000000222125939195",
+    "rfn": "geni:6000000222125939195",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3061/",
+    "canonical": "https://www.genepedia.org/people/3061/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

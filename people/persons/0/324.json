@@ -1,0 +1,110 @@
+{
+  "id": 324,
+  "schema": "genepedia/person@1",
+  "slug": "ignatius-petrus-du-preez",
+  "names": {
+    "display": "Ignatius Petrus Du Preez",
+    "given": "Ignatius Petrus",
+    "surname": "Du Preez",
+    "married": "Du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1917",
+      "year": 1917,
+      "iso": "1917",
+      "precision": "exact",
+      "display": "1917",
+      "place": null
+    },
+    "death": {
+      "date": "1985",
+      "year": 1985,
+      "iso": "1985",
+      "precision": "exact",
+      "display": "1985",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      322,
+      323
+    ],
+    "spouses": [
+      806
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      325,
+      124
+    ],
+    "parentUnions": [
+      "F104"
+    ],
+    "spouseUnions": [
+      "F226"
+    ],
+    "parentLinks": [
+      {
+        "id": 322,
+        "unionId": "F104",
+        "type": "biological"
+      },
+      {
+        "id": 323,
+        "unionId": "F104",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 806,
+        "unionId": "F226",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000213581229821@",
+    "geniId": "6000000213581229821",
+    "rfn": "geni:6000000213581229821",
+    "changed": "08 JAN 2025"
+  },
+  "page": {
+    "route": "people/324/",
+    "canonical": "https://www.genepedia.org/people/324/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

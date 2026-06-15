@@ -1,0 +1,149 @@
+{
+  "id": 918,
+  "schema": "genepedia/person@1",
+  "slug": "eric-graham-mentasti",
+  "names": {
+    "display": "Eric Graham Mentasti",
+    "given": "Eric Graham",
+    "surname": "Mentasti",
+    "married": "Mentasti",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1923",
+      "year": 1923,
+      "iso": "1923",
+      "precision": "exact",
+      "display": "1923",
+      "place": null
+    },
+    "death": {
+      "date": "2010",
+      "year": 2010,
+      "iso": "2010",
+      "precision": "exact",
+      "display": "2010",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/89/2e/8b/92/534448613c50106f/record-image__original.jpg?hash=898006b4d4fa5d778568077d485b52438a5d61c8c9bbfae378cd7b09f2b17f17.1789455599",
+      "alt": "Eric Graham Mentasti"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/89/2e/8b/92/534448613c50106f/record-image__original.jpg?hash=898006b4d4fa5d778568077d485b52438a5d61c8c9bbfae378cd7b09f2b17f17.1789455599",
+        "form": "",
+        "title": "record-image_trou 1950 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      917,
+      373
+    ],
+    "spouses": [
+      2283
+    ],
+    "exSpouses": [],
+    "children": [
+      2284,
+      2285,
+      2286,
+      2287
+    ],
+    "siblings": [
+      919,
+      920,
+      921
+    ],
+    "parentUnions": [
+      "F255"
+    ],
+    "spouseUnions": [
+      "F578"
+    ],
+    "parentLinks": [
+      {
+        "id": 917,
+        "unionId": "F255",
+        "type": "biological"
+      },
+      {
+        "id": 373,
+        "unionId": "F255",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2283,
+        "unionId": "F578",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2284,
+        "unionId": "F578",
+        "type": "biological"
+      },
+      {
+        "id": 2285,
+        "unionId": "F578",
+        "type": "biological"
+      },
+      {
+        "id": 2286,
+        "unionId": "F578",
+        "type": "biological"
+      },
+      {
+        "id": 2287,
+        "unionId": "F578",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028298159303@",
+    "geniId": "6000000028298159303",
+    "rfn": "geni:6000000028298159303",
+    "changed": "15 JUL 2022"
+  },
+  "page": {
+    "route": "people/918/",
+    "canonical": "https://www.genepedia.org/people/918/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

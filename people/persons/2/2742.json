@@ -1,0 +1,211 @@
+{
+  "id": 2742,
+  "schema": "genepedia/person@1",
+  "slug": "hester-magdalena-maritz",
+  "names": {
+    "display": "Hester Magdalena Maritz",
+    "given": "Hester Magdalena",
+    "surname": "Maritz",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": [
+      "Fourie"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 MAY 1898",
+      "year": 1898,
+      "iso": "1898-05-05",
+      "precision": "exact",
+      "display": "May 5, 1898",
+      "place": "Prieska, Northern Cape, South Africa",
+      "location": {
+        "label": "Prieska, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prieska",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 MAY 1983",
+      "year": 1983,
+      "iso": "1983-05-28",
+      "precision": "exact",
+      "display": "May 28, 1983",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Niekerkshoop, Northern Cape, South Africa",
+      "location": {
+        "label": "Niekerkshoop, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Niekerkshoop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/23/cb/ad/46/53444845785925f7/hester_magdalena_fourie_maritz_5_original.jpg?hash=8daac31ab950ae5c589d1d1a83d2bf20dffab006586146b6cadb1eb3c72bf087.1789455599",
+      "alt": "Hester Magdalena Maritz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/23/cb/ad/46/53444845785925f7/hester_magdalena_fourie_maritz_5_original.jpg?hash=8daac31ab950ae5c589d1d1a83d2bf20dffab006586146b6cadb1eb3c72bf087.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1111
+    ],
+    "exSpouses": [],
+    "children": [
+      2743,
+      2744,
+      2745,
+      2746,
+      2747,
+      2748,
+      2749,
+      2750
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F675"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1111,
+        "unionId": "F675",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2743,
+        "unionId": "F675",
+        "type": "biological"
+      },
+      {
+        "id": 2744,
+        "unionId": "F675",
+        "type": "biological"
+      },
+      {
+        "id": 2745,
+        "unionId": "F675",
+        "type": "biological"
+      },
+      {
+        "id": 2746,
+        "unionId": "F675",
+        "type": "biological"
+      },
+      {
+        "id": 2747,
+        "unionId": "F675",
+        "type": "biological"
+      },
+      {
+        "id": 2748,
+        "unionId": "F675",
+        "type": "biological"
+      },
+      {
+        "id": 2749,
+        "unionId": "F675",
+        "type": "biological"
+      },
+      {
+        "id": 2750,
+        "unionId": "F675",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000056962062851@",
+    "geniId": "6000000056962062851",
+    "rfn": "geni:6000000056962062851",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/2742/",
+    "canonical": "https://www.genepedia.org/people/2742/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

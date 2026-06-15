@@ -1,0 +1,106 @@
+{
+  "id": 2235,
+  "schema": "genepedia/person@1",
+  "slug": "daphne-lena-emily-barrie",
+  "names": {
+    "display": "Daphne Lena Emily Barrie",
+    "given": "Daphne Lena Emily",
+    "surname": "Barrie",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "21 DEC 1930",
+      "year": 1930,
+      "iso": "1930-12-21",
+      "precision": "exact",
+      "display": "December 21, 1930",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      907
+    ],
+    "exSpouses": [],
+    "children": [
+      2236,
+      2237,
+      2238
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1384"
+    ],
+    "spouseUnions": [
+      "F567"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 907,
+        "unionId": "F567",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2236,
+        "unionId": "F567",
+        "type": "biological"
+      },
+      {
+        "id": 2237,
+        "unionId": "F567",
+        "type": "biological"
+      },
+      {
+        "id": 2238,
+        "unionId": "F567",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000054624778836@",
+    "geniId": "6000000054624778836",
+    "rfn": "geni:6000000054624778836",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2235/",
+    "canonical": "https://www.genepedia.org/people/2235/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

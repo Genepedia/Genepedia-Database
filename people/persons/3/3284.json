@@ -1,0 +1,120 @@
+{
+  "id": 3284,
+  "schema": "genepedia/person@1",
+  "slug": "barend-frederik-van-taak",
+  "names": {
+    "display": "Barend Frederik van Taak",
+    "given": "Barend Frederik",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 OCT 1855",
+      "year": 1855,
+      "iso": "1855-10-23",
+      "precision": "exact",
+      "display": "October 23, 1855",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "15 JUN 1856",
+      "year": 1856,
+      "iso": "1856-06-15",
+      "precision": "exact",
+      "display": "June 15, 1856",
+      "place": "Driefontein, District",
+      "location": {
+        "label": "Driefontein, District",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Driefontein, District",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3281,
+      3280
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1302,
+      3282,
+      3283,
+      3285,
+      3286,
+      3287
+    ],
+    "parentUnions": [
+      "F806"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3281,
+        "unionId": "F806",
+        "type": "biological"
+      },
+      {
+        "id": 3280,
+        "unionId": "F806",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020392284829@",
+    "geniId": "6000000020392284829",
+    "rfn": "geni:6000000020392284829",
+    "changed": "10 OCT 2020"
+  },
+  "page": {
+    "route": "people/3284/",
+    "canonical": "https://www.genepedia.org/people/3284/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

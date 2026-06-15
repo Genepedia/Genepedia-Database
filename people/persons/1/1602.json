@@ -1,0 +1,172 @@
+{
+  "id": 1602,
+  "schema": "genepedia/person@1",
+  "slug": "frederik-stephanus-jacobus-botha",
+  "names": {
+    "display": "Frederik Stephanus Jacobus Botha",
+    "given": "Frederik Stephanus Jacobus",
+    "surname": "Botha",
+    "married": "Botha",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 SEP 1821",
+      "year": 1821,
+      "iso": "1821-09-14",
+      "precision": "exact",
+      "display": "September 14, 1821",
+      "place": null
+    },
+    "death": {
+      "date": "28 MAR 1906",
+      "year": 1906,
+      "iso": "1906-03-28",
+      "precision": "exact",
+      "display": "March 28, 1906",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "9301",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "17 MAR 1822",
+      "year": 1822,
+      "iso": "1822-03-17",
+      "precision": "exact",
+      "display": "March 17, 1822",
+      "place": "George, Western Cape, South Africa",
+      "location": {
+        "label": "George, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "George",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4221,
+      4222
+    ],
+    "spouses": [
+      1601
+    ],
+    "exSpouses": [],
+    "children": [
+      1603,
+      645,
+      1604
+    ],
+    "siblings": [
+      4223,
+      2563,
+      4224,
+      4225,
+      4226
+    ],
+    "parentUnions": [
+      "F991"
+    ],
+    "spouseUnions": [
+      "F408"
+    ],
+    "parentLinks": [
+      {
+        "id": 4221,
+        "unionId": "F991",
+        "type": "biological"
+      },
+      {
+        "id": 4222,
+        "unionId": "F991",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1601,
+        "unionId": "F408",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1603,
+        "unionId": "F408",
+        "type": "biological"
+      },
+      {
+        "id": 645,
+        "unionId": "F408",
+        "type": "biological"
+      },
+      {
+        "id": 1604,
+        "unionId": "F408",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000016508176638@",
+    "geniId": "6000000016508176638",
+    "rfn": "geni:6000000016508176638",
+    "changed": "02 SEP 2025"
+  },
+  "page": {
+    "route": "people/1602/",
+    "canonical": "https://www.genepedia.org/people/1602/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

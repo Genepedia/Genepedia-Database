@@ -1,0 +1,97 @@
+{
+  "id": 1825,
+  "schema": "genepedia/person@1",
+  "slug": "trudie-botha",
+  "names": {
+    "display": "Trudie Botha",
+    "given": "Trudie",
+    "surname": "Botha",
+    "married": "Botha",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/12/7d/c8/ee/5344486624408284/260127014_1812280608972341_2692507283177941462_n_original.jpg?hash=da0d50050be2701d57acc50d630ecc0c36541a5449346cda739bbd779ba0d34c.1789455599",
+      "alt": "Trudie Botha"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/12/7d/c8/ee/5344486624408284/260127014_1812280608972341_2692507283177941462_n_original.jpg?hash=da0d50050be2701d57acc50d630ecc0c36541a5449346cda739bbd779ba0d34c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1824
+    ],
+    "exSpouses": [],
+    "children": [
+      791
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F482"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1824,
+        "unionId": "F482",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 791,
+        "unionId": "F482",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207096579861@",
+    "geniId": "6000000207096579861",
+    "rfn": "geni:6000000207096579861",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/1825/",
+    "canonical": "https://www.genepedia.org/people/1825/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

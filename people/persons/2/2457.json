@@ -1,0 +1,103 @@
+{
+  "id": 2457,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-petronella-oosthuizen",
+  "names": {
+    "display": "Catharina Petronella Oosthuizen",
+    "given": "Catharina Petronella",
+    "surname": "Oosthuizen",
+    "married": "van Tonder",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1822",
+      "year": 1822,
+      "iso": "1822",
+      "precision": "exact",
+      "display": "1822",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "26 DEC 1822",
+      "year": 1822,
+      "iso": "1822-12-26",
+      "precision": "exact",
+      "display": "December 26, 1822",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2454,
+      2455
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1008,
+      2456,
+      2458
+    ],
+    "parentUnions": [
+      "F618"
+    ],
+    "spouseUnions": [
+      "F1502"
+    ],
+    "parentLinks": [
+      {
+        "id": 2454,
+        "unionId": "F618",
+        "type": "biological"
+      },
+      {
+        "id": 2455,
+        "unionId": "F618",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041762233960@",
+    "geniId": "6000000041762233960",
+    "rfn": "geni:6000000041762233960",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/2457/",
+    "canonical": "https://www.genepedia.org/people/2457/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

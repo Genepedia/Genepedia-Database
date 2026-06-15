@@ -1,0 +1,132 @@
+{
+  "id": 1294,
+  "schema": "genepedia/person@1",
+  "slug": "emma-theodora-mouton",
+  "names": {
+    "display": "Emma Theodora Mouton",
+    "given": "Emma Theodora",
+    "surname": "Mouton",
+    "married": "Mulder",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 JUN 1878",
+      "year": 1878,
+      "iso": "1878-06-01",
+      "precision": "exact",
+      "display": "June 1, 1878",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 AUG 1879",
+      "year": 1879,
+      "iso": "1879-08-07",
+      "precision": "exact",
+      "display": "August 7, 1879",
+      "place": "Driefontein, Clanwilliam, WC, South Africa",
+      "location": {
+        "label": "Driefontein, Clanwilliam, WC, South Africa",
+        "placeName": "Driefontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "8135",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1292,
+      1291
+    ],
+    "spouses": [
+      3248
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1293,
+      1295,
+      1296,
+      1297,
+      1298,
+      1299,
+      1300,
+      537
+    ],
+    "parentUnions": [
+      "F336"
+    ],
+    "spouseUnions": [
+      "F798"
+    ],
+    "parentLinks": [
+      {
+        "id": 1292,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1291,
+        "unionId": "F336",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3248,
+        "unionId": "F798",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107533704099@",
+    "geniId": "6000000107533704099",
+    "rfn": "geni:6000000107533704099",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1294/",
+    "canonical": "https://www.genepedia.org/people/1294/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

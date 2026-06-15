@@ -1,0 +1,128 @@
+{
+  "id": 328,
+  "schema": "genepedia/person@1",
+  "slug": "johan-du-toit",
+  "names": {
+    "display": "Johan Du Toit",
+    "given": "Johan",
+    "surname": "Du Toit",
+    "married": "Du Toit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "25 DEC 1976",
+      "year": 1976,
+      "iso": "1976-12-25",
+      "precision": "exact",
+      "display": "December 25, 1976",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/18/63/c7/f6/5344486601244e43/screenshot_2024-06-14_143905_original.jpg?hash=c7c79dadce40fa6bc1dae7833d000edfda75afa0b8363d3d141d3f18f91ce7c4.1789455599",
+      "alt": "Johan Du Toit"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/18/63/c7/f6/5344486601244e43/screenshot_2024-06-14_143905_original.jpg?hash=c7c79dadce40fa6bc1dae7833d000edfda75afa0b8363d3d141d3f18f91ce7c4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      807,
+      808
+    ],
+    "spouses": [
+      329
+    ],
+    "exSpouses": [],
+    "children": [
+      127,
+      330
+    ],
+    "siblings": [
+      809
+    ],
+    "parentUnions": [
+      "F227"
+    ],
+    "spouseUnions": [
+      "F106"
+    ],
+    "parentLinks": [
+      {
+        "id": 807,
+        "unionId": "F227",
+        "type": "biological"
+      },
+      {
+        "id": 808,
+        "unionId": "F227",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 329,
+        "unionId": "F106",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 127,
+        "unionId": "F106",
+        "type": "biological"
+      },
+      {
+        "id": 330,
+        "unionId": "F106",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206466088822@",
+    "geniId": "6000000206466088822",
+    "rfn": "geni:6000000206466088822",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/328/",
+    "canonical": "https://www.genepedia.org/people/328/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 4164,
+  "schema": "genepedia/person@1",
+  "slug": "maria-m-olivier",
+  "names": {
+    "display": "Maria M Olivier",
+    "given": "Maria M",
+    "surname": "Olivier",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 DEC 1896",
+      "year": 1896,
+      "iso": "1896-12-10",
+      "precision": "exact",
+      "display": "December 10, 1896",
+      "place": null
+    },
+    "death": {
+      "date": "15 AUG 1960",
+      "year": 1960,
+      "iso": "1960-08-15",
+      "precision": "exact",
+      "display": "August 15, 1960",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Benoni Cemetery, Gauteng, South Africa",
+      "location": {
+        "label": "Benoni Cemetery, Gauteng, South Africa",
+        "placeName": "Benoni Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1577
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F972"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1577,
+        "unionId": "F972",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000086557132825@",
+    "geniId": "6000000086557132825",
+    "rfn": "geni:6000000086557132825",
+    "changed": "25 JAN 2019"
+  },
+  "page": {
+    "route": "people/4164/",
+    "canonical": "https://www.genepedia.org/people/4164/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

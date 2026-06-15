@@ -1,0 +1,131 @@
+{
+  "id": 410,
+  "schema": "genepedia/person@1",
+  "slug": "gideon-johannes-beukus",
+  "names": {
+    "display": "Gideon Johannes Beukus",
+    "given": "Gideon Johannes",
+    "surname": "Beukus",
+    "married": "Beukus",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      996,
+      997
+    ],
+    "spouses": [
+      409
+    ],
+    "exSpouses": [],
+    "children": [
+      158,
+      411,
+      412,
+      413,
+      414,
+      415
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F274"
+    ],
+    "spouseUnions": [
+      "F131"
+    ],
+    "parentLinks": [
+      {
+        "id": 996,
+        "unionId": "F274",
+        "type": "biological"
+      },
+      {
+        "id": 997,
+        "unionId": "F274",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 409,
+        "unionId": "F131",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 158,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 411,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 412,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 413,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 414,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 415,
+        "unionId": "F131",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204876858865@",
+    "geniId": "6000000204876858865",
+    "rfn": "geni:6000000204876858865",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/410/",
+    "canonical": "https://www.genepedia.org/people/410/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

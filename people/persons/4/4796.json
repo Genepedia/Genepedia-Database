@@ -1,0 +1,118 @@
+{
+  "id": 4796,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-petronella-bester",
+  "names": {
+    "display": "Jacoba Petronella Bester",
+    "given": "Jacoba Petronella",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 SEP 1931",
+      "year": 1931,
+      "iso": "1931-09-18",
+      "precision": "exact",
+      "display": "September 18, 1931",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 DEC 1931",
+      "year": 1931,
+      "iso": "1931-12-06",
+      "precision": "exact",
+      "display": "December 6, 1931",
+      "place": "Koffiefontein, Free State, South Africa",
+      "location": {
+        "label": "Koffiefontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Koffiefontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1894,
+      4792
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4793,
+      4794,
+      4795,
+      4797
+    ],
+    "parentUnions": [
+      "F1142"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1894,
+        "unionId": "F1142",
+        "type": "biological"
+      },
+      {
+        "id": 4792,
+        "unionId": "F1142",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065567543920@",
+    "geniId": "6000000065567543920",
+    "rfn": "geni:6000000065567543920",
+    "changed": "24 AUG 2017"
+  },
+  "page": {
+    "route": "people/4796/",
+    "canonical": "https://www.genepedia.org/people/4796/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

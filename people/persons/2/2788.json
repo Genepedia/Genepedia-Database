@@ -1,0 +1,123 @@
+{
+  "id": 2788,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-coenraad-faber",
+  "names": {
+    "display": "Petrus Coenraad Faber",
+    "given": "Petrus Coenraad",
+    "surname": "Faber",
+    "married": "Kampen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "6 DEC 1938",
+      "year": 1938,
+      "iso": "1938-12-06",
+      "precision": "exact",
+      "display": "December 6, 1938",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "14 MAY 1939",
+      "year": 1939,
+      "iso": "1939-05-14",
+      "precision": "exact",
+      "display": "May 14, 1939",
+      "place": "Reivilo, NW, South Africa",
+      "location": {
+        "label": "Reivilo, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Reivilo",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2780,
+      1130
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2781,
+      2782,
+      2783,
+      2784,
+      2785,
+      2786,
+      2787
+    ],
+    "parentUnions": [
+      "F690"
+    ],
+    "spouseUnions": [
+      "F1728"
+    ],
+    "parentLinks": [
+      {
+        "id": 2780,
+        "unionId": "F690",
+        "type": "biological"
+      },
+      {
+        "id": 1130,
+        "unionId": "F690",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000215554231825@",
+    "geniId": "6000000215554231825",
+    "rfn": "geni:6000000215554231825",
+    "changed": "29 JUN 2025"
+  },
+  "page": {
+    "route": "people/2788/",
+    "canonical": "https://www.genepedia.org/people/2788/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

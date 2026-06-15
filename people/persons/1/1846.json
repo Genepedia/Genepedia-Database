@@ -1,0 +1,161 @@
+{
+  "id": 1846,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-bester-1846",
+  "names": {
+    "display": "Anna Maria Bester",
+    "given": "Anna Maria",
+    "surname": "Bester",
+    "married": "Struwig",
+    "nick": "",
+    "aliases": [
+      "Anna Maria Bester, b3c5d6e2"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 OCT 1821",
+      "year": 1821,
+      "iso": "1821-10-11",
+      "precision": "exact",
+      "display": "October 11, 1821",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "8 APR 1822",
+      "year": 1822,
+      "iso": "1822-04-08",
+      "precision": "exact",
+      "display": "April 8, 1822",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1844,
+      1843
+    ],
+    "spouses": [
+      4599
+    ],
+    "exSpouses": [],
+    "children": [
+      4600,
+      4601
+    ],
+    "siblings": [
+      1845,
+      1847,
+      810,
+      1848,
+      1849
+    ],
+    "parentUnions": [
+      "F493"
+    ],
+    "spouseUnions": [
+      "F1103"
+    ],
+    "parentLinks": [
+      {
+        "id": 1844,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1843,
+        "unionId": "F493",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4599,
+        "unionId": "F1103",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4600,
+        "unionId": "F1103",
+        "type": "biological"
+      },
+      {
+        "id": 4601,
+        "unionId": "F1103",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000082986924276@",
+    "geniId": "6000000082986924276",
+    "rfn": "geni:6000000082986924276",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1846/",
+    "canonical": "https://www.genepedia.org/people/1846/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

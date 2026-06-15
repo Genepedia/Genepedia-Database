@@ -1,0 +1,133 @@
+{
+  "id": 2773,
+  "schema": "genepedia/person@1",
+  "slug": "cornelis-coenrad-stevens",
+  "names": {
+    "display": "Cornelis Coenrad Stevens",
+    "given": "Cornelis Coenrad",
+    "surname": "Stevens",
+    "married": "Stevens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 NOV 1930",
+      "year": 1930,
+      "iso": "1930-11-11",
+      "precision": "exact",
+      "display": "November 11, 1930",
+      "place": "Schweizer Reneke, NW, South Africa",
+      "location": {
+        "label": "Schweizer Reneke, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Schweizer Reneke",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "6 APR 2009",
+      "year": 2009,
+      "iso": "2009-04-06",
+      "precision": "exact",
+      "display": "April 6, 2009",
+      "place": "Vereeniging, GP, South Africa",
+      "location": {
+        "label": "Vereeniging, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vereeniging",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2772,
+      1124
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2774
+    ],
+    "parentUnions": [
+      "F687"
+    ],
+    "spouseUnions": [
+      "F1720"
+    ],
+    "parentLinks": [
+      {
+        "id": 2772,
+        "unionId": "F687",
+        "type": "biological"
+      },
+      {
+        "id": 1124,
+        "unionId": "F687",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000183648678841@",
+    "geniId": "6000000183648678841",
+    "rfn": "geni:6000000183648678841",
+    "changed": "23 MAR 2022"
+  },
+  "page": {
+    "route": "people/2773/",
+    "canonical": "https://www.genepedia.org/people/2773/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

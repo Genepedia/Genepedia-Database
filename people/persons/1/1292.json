@@ -1,0 +1,221 @@
+{
+  "id": 1292,
+  "schema": "genepedia/person@1",
+  "slug": "willem-johannes-mouton",
+  "names": {
+    "display": "Willem Johannes Mouton",
+    "given": "Willem Johannes",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 APR 1856",
+      "year": 1856,
+      "iso": "1856-04-23",
+      "precision": "exact",
+      "display": "April 23, 1856",
+      "place": null
+    },
+    "death": {
+      "date": "15 JAN 1897",
+      "year": 1897,
+      "iso": "1897-01-15",
+      "precision": "exact",
+      "display": "January 15, 1897",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "15 JUN 1856",
+      "year": 1856,
+      "iso": "1856-06-15",
+      "precision": "exact",
+      "display": "June 15, 1856",
+      "place": "Drie Fontein, Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Drie Fontein, Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Drie Fontein, Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/82/75/0c/04/5344484c8cb97cc3/mouton_willem_johannes_1856_drie_fontein_clanwilliam_342_343_-_008121036-2_original.jpg?hash=1a9c158f01907025427d749c68222edf990a33545e4d2a99fe94fa80ee839aba.1789455599",
+      "alt": "Willem Johannes Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/82/75/0c/04/5344484c8cb97cc3/mouton_willem_johannes_1856_drie_fontein_clanwilliam_342_343_-_008121036-2_original.jpg?hash=1a9c158f01907025427d749c68222edf990a33545e4d2a99fe94fa80ee839aba.1789455599",
+        "form": "",
+        "title": "Mouton Willem Johannes 1856 Drie Fontein Clanwilliam 342 343 - 008121036-2.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3223,
+      3222
+    ],
+    "spouses": [
+      1291
+    ],
+    "exSpouses": [],
+    "children": [
+      1293,
+      1294,
+      1295,
+      1296,
+      1297,
+      1298,
+      1299,
+      1300,
+      537
+    ],
+    "siblings": [
+      3224,
+      3225,
+      3226,
+      3227,
+      3228,
+      3229
+    ],
+    "parentUnions": [
+      "F794"
+    ],
+    "spouseUnions": [
+      "F336"
+    ],
+    "parentLinks": [
+      {
+        "id": 3223,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3222,
+        "unionId": "F794",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1291,
+        "unionId": "F336",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1293,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1294,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1295,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1296,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1297,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1298,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1299,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1300,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 537,
+        "unionId": "F336",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020482826552@",
+    "geniId": "6000000020482826552",
+    "rfn": "geni:6000000020482826552",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/1292/",
+    "canonical": "https://www.genepedia.org/people/1292/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

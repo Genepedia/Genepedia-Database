@@ -1,0 +1,119 @@
+{
+  "id": 3004,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobus-brits-3004",
+  "names": {
+    "display": "Johannes Jacobus Brits",
+    "given": "Johannes Jacobus",
+    "surname": "Brits",
+    "married": "Brits",
+    "nick": "",
+    "aliases": [
+      "Johantjie"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 NOV 1992",
+      "year": 1992,
+      "iso": "1992-11-16",
+      "precision": "exact",
+      "display": "November 16, 1992",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 MAR 1997",
+      "year": 1997,
+      "iso": "1997-03-27",
+      "precision": "exact",
+      "display": "March 27, 1997",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1191,
+      3003
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3005,
+      3006,
+      3007
+    ],
+    "parentUnions": [
+      "F736"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1191,
+        "unionId": "F736",
+        "type": "biological"
+      },
+      {
+        "id": 3003,
+        "unionId": "F736",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024192856525@",
+    "geniId": "6000000024192856525",
+    "rfn": "geni:6000000024192856525",
+    "changed": "08 DEC 2016"
+  },
+  "page": {
+    "route": "people/3004/",
+    "canonical": "https://www.genepedia.org/people/3004/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

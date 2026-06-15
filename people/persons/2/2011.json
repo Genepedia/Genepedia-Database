@@ -1,0 +1,116 @@
+{
+  "id": 2011,
+  "schema": "genepedia/person@1",
+  "slug": "dina-johanna-ross",
+  "names": {
+    "display": "Dina Johanna Ross",
+    "given": "Dina Johanna",
+    "surname": "Ross",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 JUL 1916",
+      "year": 1916,
+      "iso": "1916-07-06",
+      "precision": "exact",
+      "display": "July 6, 1916",
+      "place": "Griekwastad, Kaap.",
+      "location": {
+        "label": "Griekwastad, Kaap.",
+        "placeName": "Griekwastad, Kaap.",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      838
+    ],
+    "exSpouses": [],
+    "children": [
+      2012,
+      2013
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1228"
+    ],
+    "spouseUnions": [
+      "F525"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 838,
+        "unionId": "F525",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2012,
+        "unionId": "F525",
+        "type": "biological"
+      },
+      {
+        "id": 2013,
+        "unionId": "F525",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066540186821@",
+    "geniId": "6000000066540186821",
+    "rfn": "geni:6000000066540186821",
+    "changed": "05 SEP 2017"
+  },
+  "page": {
+    "route": "people/2011/",
+    "canonical": "https://www.genepedia.org/people/2011/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

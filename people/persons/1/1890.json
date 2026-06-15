@@ -1,0 +1,183 @@
+{
+  "id": 1890,
+  "schema": "genepedia/person@1",
+  "slug": "anna-johanna-susanna-bester",
+  "names": {
+    "display": "Anna Johanna Susanna Bester",
+    "given": "Anna Johanna Susanna",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 JAN 1883",
+      "year": 1883,
+      "iso": "1883-01-21",
+      "precision": "exact",
+      "display": "January 21, 1883",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 MAR 1918",
+      "year": 1918,
+      "iso": "1918-03-21",
+      "precision": "exact",
+      "display": "March 21, 1918",
+      "place": "Britsdam, Fauresmith, Free State, South Africa",
+      "location": {
+        "label": "Britsdam, Fauresmith, Free State, South Africa",
+        "placeName": "Britsdam",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fauresmith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1884,
+      814
+    ],
+    "spouses": [
+      4783
+    ],
+    "exSpouses": [],
+    "children": [
+      4784,
+      4785,
+      4786,
+      4787,
+      4788
+    ],
+    "siblings": [
+      1885,
+      1886,
+      1887,
+      1888,
+      1889,
+      1891,
+      1892,
+      1893,
+      1894,
+      1895,
+      1896
+    ],
+    "parentUnions": [
+      "F499"
+    ],
+    "spouseUnions": [
+      "F1139"
+    ],
+    "parentLinks": [
+      {
+        "id": 1884,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 814,
+        "unionId": "F499",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4783,
+        "unionId": "F1139",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4784,
+        "unionId": "F1139",
+        "type": "biological"
+      },
+      {
+        "id": 4785,
+        "unionId": "F1139",
+        "type": "biological"
+      },
+      {
+        "id": 4786,
+        "unionId": "F1139",
+        "type": "biological"
+      },
+      {
+        "id": 4787,
+        "unionId": "F1139",
+        "type": "biological"
+      },
+      {
+        "id": 4788,
+        "unionId": "F1139",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065520603822@",
+    "geniId": "6000000065520603822",
+    "rfn": "geni:6000000065520603822",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/1890/",
+    "canonical": "https://www.genepedia.org/people/1890/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

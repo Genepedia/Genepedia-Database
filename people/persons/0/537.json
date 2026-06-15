@@ -1,0 +1,248 @@
+{
+  "id": 537,
+  "schema": "genepedia/person@1",
+  "slug": "anna-louisa-mouton",
+  "names": {
+    "display": "Anna Louisa Mouton",
+    "given": "Anna Louisa",
+    "surname": "Mouton",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 MAY 1881",
+      "year": 1881,
+      "iso": "1881-05-28",
+      "precision": "exact",
+      "display": "May 28, 1881",
+      "place": "Clanwilliam, WC, South Africa",
+      "location": {
+        "label": "Clanwilliam, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "8135",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 JUN 1944",
+      "year": 1944,
+      "iso": "1944-06-16",
+      "precision": "exact",
+      "display": "June 16, 1944",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "8190",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/93/a3/68/af/5344483d25558994/anna_louisa_mouton_28_original.jpg?hash=f73759b6d08edb54cbfe54811a2deb8713814b9c4b0e5d2209e338cbec28f0c7.1789455599",
+      "alt": "Anna Louisa Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/93/a3/68/af/5344483d25558994/anna_louisa_mouton_28_original.jpg?hash=f73759b6d08edb54cbfe54811a2deb8713814b9c4b0e5d2209e338cbec28f0c7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/27/84/ea/f1/5344483c47118d5f/wew92qiy_original.jpg?hash=4e83c5243143e94881b56a5e25d2613e0d856e787bbb6e379a6752f4fc01ab64.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/95/45/6c/d2/5344484b2b26e5c2/van_taak_adriaan_willem_jacobus_anna_louise_mouton_08_original.jpg?hash=62c9698fe228c4d2e1e8b6510e5ed3f3212ae40d91b11c5e51e45b9cf2f3eb4a.1789455599",
+        "form": "",
+        "title": "Van Taak Adriaan Willem Jacobus & Anna Louise Mouton 08.02.1900.2.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1292,
+      1291
+    ],
+    "spouses": [
+      538
+    ],
+    "exSpouses": [],
+    "children": [
+      539,
+      540,
+      541,
+      210,
+      542,
+      543,
+      544,
+      545
+    ],
+    "siblings": [
+      1293,
+      1294,
+      1295,
+      1296,
+      1297,
+      1298,
+      1299,
+      1300
+    ],
+    "parentUnions": [
+      "F336"
+    ],
+    "spouseUnions": [
+      "F159"
+    ],
+    "parentLinks": [
+      {
+        "id": 1292,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1291,
+        "unionId": "F336",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 538,
+        "unionId": "F159",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 539,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 540,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 541,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 210,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 542,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 543,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 544,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 545,
+        "unionId": "F159",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020382901632@",
+    "geniId": "6000000020382901632",
+    "rfn": "geni:6000000020382901632",
+    "changed": "04 AUG 2025"
+  },
+  "page": {
+    "route": "people/537/",
+    "canonical": "https://www.genepedia.org/people/537/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

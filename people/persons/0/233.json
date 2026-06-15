@@ -1,0 +1,102 @@
+{
+  "id": 233,
+  "schema": "genepedia/person@1",
+  "slug": "monique-le-roux",
+  "names": {
+    "display": "Monique Le Roux",
+    "given": "Monique",
+    "surname": "Le Roux",
+    "married": "Le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1 DEC 2004",
+      "year": 2004,
+      "iso": "2004-12-01",
+      "precision": "exact",
+      "display": "December 1, 2004",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b5/ed/97/26/5344486641c447c9/317501520_1974461759573261_5154082607495226629_n_original.jpg?hash=dd5e4dd08cff77a652bd414e90157117ed9d83f8adc78c98fe81ee5ae20b0476.1789455599",
+      "alt": "Monique Le Roux"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b5/ed/97/26/5344486641c447c9/317501520_1974461759573261_5154082607495226629_n_original.jpg?hash=dd5e4dd08cff77a652bd414e90157117ed9d83f8adc78c98fe81ee5ae20b0476.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      232,
+      74
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F74"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 232,
+        "unionId": "F74",
+        "type": "biological"
+      },
+      {
+        "id": 74,
+        "unionId": "F74",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207558396821@",
+    "geniId": "6000000207558396821",
+    "rfn": "geni:6000000207558396821",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/233/",
+    "canonical": "https://www.genepedia.org/people/233/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

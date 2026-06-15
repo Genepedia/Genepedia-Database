@@ -1,0 +1,163 @@
+{
+  "id": 2405,
+  "schema": "genepedia/person@1",
+  "slug": "theodorus-hermanus-matthys-de-koker",
+  "names": {
+    "display": "Theodorus Hermanus Matthys de Koker",
+    "given": "Theodorus Hermanus Matthys",
+    "surname": "de Koker",
+    "married": "de Koker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 AUG 1861",
+      "year": 1861,
+      "iso": "1861-08-20",
+      "precision": "exact",
+      "display": "August 20, 1861",
+      "place": "Beaufort West, WC, South Africa",
+      "location": {
+        "label": "Beaufort West, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 AUG 1906",
+      "year": 1906,
+      "iso": "1906-08-28",
+      "precision": "exact",
+      "display": "August 28, 1906",
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2406
+    ],
+    "exSpouses": [],
+    "children": [
+      974,
+      2407,
+      2408,
+      2409,
+      2410,
+      2411
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1482"
+    ],
+    "spouseUnions": [
+      "F609"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2406,
+        "unionId": "F609",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 974,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2407,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2408,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2409,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2410,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2411,
+        "unionId": "F609",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000168331871407@",
+    "geniId": "6000000168331871407",
+    "rfn": "geni:6000000168331871407",
+    "changed": "18 OCT 2025"
+  },
+  "page": {
+    "route": "people/2405/",
+    "canonical": "https://www.genepedia.org/people/2405/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

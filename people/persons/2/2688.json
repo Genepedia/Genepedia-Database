@@ -1,0 +1,99 @@
+{
+  "id": 2688,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-maria-johannes-kotze",
+  "names": {
+    "display": "Susanna Maria Johannes Kotze",
+    "given": "Susanna Maria Johannes",
+    "surname": "Kotze",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1901",
+      "year": 1901,
+      "iso": "1901",
+      "precision": "about",
+      "display": "about 1901",
+      "place": null
+    },
+    "death": {
+      "date": "30 OCT 1948",
+      "year": 1948,
+      "iso": "1948-10-30",
+      "precision": "exact",
+      "display": "October 30, 1948",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1078,
+      2687
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F658"
+    ],
+    "spouseUnions": [
+      "F1660"
+    ],
+    "parentLinks": [
+      {
+        "id": 1078,
+        "unionId": "F658",
+        "type": "biological"
+      },
+      {
+        "id": 2687,
+        "unionId": "F658",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028365138008@",
+    "geniId": "6000000028365138008",
+    "rfn": "geni:6000000028365138008",
+    "changed": "03 SEP 2025"
+  },
+  "page": {
+    "route": "people/2688/",
+    "canonical": "https://www.genepedia.org/people/2688/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

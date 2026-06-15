@@ -1,0 +1,200 @@
+{
+  "id": 1180,
+  "schema": "genepedia/person@1",
+  "slug": "margaretha-johanna-de-klerk",
+  "names": {
+    "display": "Margaretha Johanna de Klerk",
+    "given": "Margaretha Johanna",
+    "surname": "de Klerk",
+    "married": "de Lange",
+    "nick": "a1b5c1d1e8f6g2",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 OCT 1889",
+      "year": 1889,
+      "iso": "1889-10-18",
+      "precision": "exact",
+      "display": "October 18, 1889",
+      "place": "Griekwastad, Cape Colony, South Africa",
+      "location": {
+        "label": "Griekwastad, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 APR 1955",
+      "year": 1955,
+      "iso": "1955-04-24",
+      "precision": "exact",
+      "display": "April 24, 1955",
+      "place": "Gewonne, Kaapprovinsie, South Africa",
+      "location": {
+        "label": "Gewonne, Kaapprovinsie, South Africa",
+        "placeName": "Gewonne",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaapprovinsie",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "8 DEC 1889",
+      "year": 1889,
+      "iso": "1889-12-08",
+      "precision": "exact",
+      "display": "December 8, 1889",
+      "place": "Griekwastad, Cape Colony, South Africa",
+      "location": {
+        "label": "Griekwastad, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/0a/d3/5a/dd/534448472bf886f5/christian_johannes_de_klerk_1864_-_1916_original.jpg?hash=665d725e7b7aad80c85074564e1fd02a49cfd3e6ed113266a2d2ddcbdf84ca8f.1789455599",
+      "alt": "Margaretha Johanna de Klerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/0a/d3/5a/dd/534448472bf886f5/christian_johannes_de_klerk_1864_-_1916_original.jpg?hash=665d725e7b7aad80c85074564e1fd02a49cfd3e6ed113266a2d2ddcbdf84ca8f.1789455599",
+        "form": "",
+        "title": "Christian Johannes de Klerk 1864 - 1916.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1177,
+      1178
+    ],
+    "spouses": [
+      2966
+    ],
+    "exSpouses": [],
+    "children": [
+      2967,
+      2968
+    ],
+    "siblings": [
+      1179,
+      1181,
+      1182,
+      469,
+      1183,
+      1184,
+      1185,
+      1186,
+      1187,
+      1188,
+      1189
+    ],
+    "parentUnions": [
+      "F309"
+    ],
+    "spouseUnions": [
+      "F725"
+    ],
+    "parentLinks": [
+      {
+        "id": 1177,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1178,
+        "unionId": "F309",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2966,
+        "unionId": "F725",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2967,
+        "unionId": "F725",
+        "type": "biological"
+      },
+      {
+        "id": 2968,
+        "unionId": "F725",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000019187466885@",
+    "geniId": "6000000019187466885",
+    "rfn": "geni:6000000019187466885",
+    "changed": "24 OCT 2024"
+  },
+  "page": {
+    "route": "people/1180/",
+    "canonical": "https://www.genepedia.org/people/1180/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

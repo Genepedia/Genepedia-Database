@@ -1,0 +1,135 @@
+{
+  "id": 4587,
+  "schema": "genepedia/person@1",
+  "slug": "anna-engela-bester",
+  "names": {
+    "display": "Anna Engela Bester",
+    "given": "Anna Engela",
+    "surname": "Bester",
+    "married": "Coetzee",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1848",
+      "year": 1848,
+      "iso": "1848",
+      "precision": "exact",
+      "display": "1848",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 FEB 1900",
+      "year": 1900,
+      "iso": "1900-02-11",
+      "precision": "exact",
+      "display": "February 11, 1900",
+      "place": "Vischgat, Colesberg, South Africa",
+      "location": {
+        "label": "Vischgat, Colesberg, South Africa",
+        "placeName": "Vischgat",
+        "addressLine1": "District",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1845,
+      4586
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1884,
+      4588,
+      4589,
+      4590,
+      4591
+    ],
+    "parentUnions": [
+      "F1100"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1845,
+        "unionId": "F1100",
+        "type": "biological"
+      },
+      {
+        "id": 4586,
+        "unionId": "F1100",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000022131871133@",
+    "geniId": "6000000022131871133",
+    "rfn": "geni:6000000022131871133",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4587/",
+    "canonical": "https://www.genepedia.org/people/4587/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

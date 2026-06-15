@@ -1,0 +1,129 @@
+{
+  "id": 1315,
+  "schema": "genepedia/person@1",
+  "slug": "johan-van-taak",
+  "names": {
+    "display": "Johan van Taak",
+    "given": "Johan",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1931",
+      "year": 1931,
+      "iso": "1931",
+      "precision": "about",
+      "display": "about 1931",
+      "place": null
+    },
+    "death": {
+      "date": "ABT 1935",
+      "year": 1935,
+      "iso": "1935",
+      "precision": "about",
+      "display": "about 1935",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/bd/7f/5d/4c/5344485a99554fd3/died_young_-_use_original.jpg?hash=6ef4d385b872d8c0e6a69936521e4cd6a24cb74281000bbc82cd6f39c0253c96.1789455599",
+      "alt": "Johan van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/bd/7f/5d/4c/5344485a99554fd3/died_young_-_use_original.jpg?hash=6ef4d385b872d8c0e6a69936521e4cd6a24cb74281000bbc82cd6f39c0253c96.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      539,
+      1312
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1313,
+      1314,
+      1316
+    ],
+    "parentUnions": [
+      "F338"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 539,
+        "unionId": "F338",
+        "type": "biological"
+      },
+      {
+        "id": 1312,
+        "unionId": "F338",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020385637863@",
+    "geniId": "6000000020385637863",
+    "rfn": "geni:6000000020385637863",
+    "changed": "03 NOV 2020"
+  },
+  "page": {
+    "route": "people/1315/",
+    "canonical": "https://www.genepedia.org/people/1315/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

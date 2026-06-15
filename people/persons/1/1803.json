@@ -1,0 +1,141 @@
+{
+  "id": 1803,
+  "schema": "genepedia/person@1",
+  "slug": "edith-mandigutse",
+  "names": {
+    "display": "Edith Mandigutse",
+    "given": "Edith",
+    "surname": "Mandigutse",
+    "married": "Mupombwa",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 NOV 1922",
+      "year": 1922,
+      "iso": "1922-11-27",
+      "precision": "exact",
+      "display": "November 27, 1922",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4558
+    ],
+    "spouses": [
+      1804
+    ],
+    "exSpouses": [],
+    "children": [
+      785
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1090"
+    ],
+    "spouseUnions": [
+      "F476"
+    ],
+    "parentLinks": [
+      {
+        "id": 4558,
+        "unionId": "F1090",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1804,
+        "unionId": "F476",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 785,
+        "unionId": "F476",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207501369836@",
+    "geniId": "6000000207501369836",
+    "rfn": "geni:6000000207501369836",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/1803/",
+    "canonical": "https://www.genepedia.org/people/1803/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

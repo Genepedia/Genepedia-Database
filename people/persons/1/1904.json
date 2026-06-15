@@ -1,0 +1,184 @@
+{
+  "id": 1904,
+  "schema": "genepedia/person@1",
+  "slug": "zacharia-petronella-pretorius",
+  "names": {
+    "display": "Zacharia Petronella Pretorius",
+    "given": "Zacharia Petronella",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "Segariana",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 AUG 1868",
+      "year": 1868,
+      "iso": "1868-08-10",
+      "precision": "exact",
+      "display": "August 10, 1868",
+      "place": "Reddersburg, Free State, South Africa",
+      "location": {
+        "label": "Reddersburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Reddersburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "31 AUG 1892",
+      "year": 1892,
+      "iso": "1892-08-31",
+      "precision": "exact",
+      "display": "August 31, 1892",
+      "place": "\"Doornkloof\", dist. Colesberg",
+      "location": {
+        "label": "\"Doornkloof\", dist. Colesberg",
+        "placeName": "\"Doornkloof\", dist. Colesberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "8 NOV 1868",
+      "year": 1868,
+      "iso": "1868-11-08",
+      "precision": "exact",
+      "display": "November 8, 1868",
+      "place": "Reddersburg Gereformeerde kerk, Reddersburg, Free State, South Africa",
+      "location": {
+        "label": "Reddersburg Gereformeerde kerk, Reddersburg, Free State, South Africa",
+        "placeName": "Reddersburg Gereformeerde kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Reddersburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4858,
+      4859
+    ],
+    "spouses": [
+      816
+    ],
+    "exSpouses": [],
+    "children": [
+      1905,
+      1906,
+      1907
+    ],
+    "siblings": [
+      4860
+    ],
+    "parentUnions": [
+      "F1156"
+    ],
+    "spouseUnions": [
+      "F504"
+    ],
+    "parentLinks": [
+      {
+        "id": 4858,
+        "unionId": "F1156",
+        "type": "biological"
+      },
+      {
+        "id": 4859,
+        "unionId": "F1156",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 816,
+        "unionId": "F504",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1905,
+        "unionId": "F504",
+        "type": "biological"
+      },
+      {
+        "id": 1906,
+        "unionId": "F504",
+        "type": "biological"
+      },
+      {
+        "id": 1907,
+        "unionId": "F504",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000077983589179@",
+    "geniId": "6000000077983589179",
+    "rfn": "geni:6000000077983589179",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1904/",
+    "canonical": "https://www.genepedia.org/people/1904/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

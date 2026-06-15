@@ -1,0 +1,135 @@
+{
+  "id": 3592,
+  "schema": "genepedia/person@1",
+  "slug": "barend-johannes-joubert",
+  "names": {
+    "display": "Barend Johannes Joubert",
+    "given": "Barend Johannes",
+    "surname": "Joubert",
+    "married": "Joubert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1837",
+      "year": 1837,
+      "iso": "1837",
+      "precision": "about",
+      "display": "about 1837",
+      "place": null
+    },
+    "death": {
+      "date": "8 DEC 1912",
+      "year": 1912,
+      "iso": "1912-12-08",
+      "precision": "exact",
+      "display": "December 8, 1912",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1399
+    ],
+    "exSpouses": [],
+    "children": [
+      3593,
+      3594,
+      3595,
+      3596,
+      3597,
+      3598,
+      3599
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F872"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1399,
+        "unionId": "F872",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3593,
+        "unionId": "F872",
+        "type": "biological"
+      },
+      {
+        "id": 3594,
+        "unionId": "F872",
+        "type": "biological"
+      },
+      {
+        "id": 3595,
+        "unionId": "F872",
+        "type": "biological"
+      },
+      {
+        "id": 3596,
+        "unionId": "F872",
+        "type": "biological"
+      },
+      {
+        "id": 3597,
+        "unionId": "F872",
+        "type": "biological"
+      },
+      {
+        "id": 3598,
+        "unionId": "F872",
+        "type": "biological"
+      },
+      {
+        "id": 3599,
+        "unionId": "F872",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000019840795071@",
+    "geniId": "6000000019840795071",
+    "rfn": "geni:6000000019840795071",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3592/",
+    "canonical": "https://www.genepedia.org/people/3592/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

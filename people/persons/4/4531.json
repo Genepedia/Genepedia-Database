@@ -1,0 +1,111 @@
+{
+  "id": 4531,
+  "schema": "genepedia/person@1",
+  "slug": "eizens-gedrowitz",
+  "names": {
+    "display": "Eižens Gedrowitz",
+    "given": "Eižens",
+    "surname": "Gedrowitz",
+    "married": "Gedrowitz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 AUG 1916",
+      "year": 1916,
+      "iso": "1916-08-15",
+      "precision": "exact",
+      "display": "August 15, 1916",
+      "place": null
+    },
+    "death": {
+      "date": "1944",
+      "year": 1944,
+      "iso": "1944",
+      "precision": "exact",
+      "display": "1944",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/30/73/6b/05/53444868aafd311f/jpg_18__original.jpg?hash=5a194d91827339982dd0ea7e13b31439e9adb0abc7f6c87106fe3cecac14aa37.1789455599",
+      "alt": "Eižens Gedrowitz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/30/73/6b/05/53444868aafd311f/jpg_18__original.jpg?hash=5a194d91827339982dd0ea7e13b31439e9adb0abc7f6c87106fe3cecac14aa37.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4530,
+      1778
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4532
+    ],
+    "parentUnions": [
+      "F1078"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4530,
+        "unionId": "F1078",
+        "type": "biological"
+      },
+      {
+        "id": 1778,
+        "unionId": "F1078",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000217946619886@",
+    "geniId": "6000000217946619886",
+    "rfn": "geni:6000000217946619886",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/4531/",
+    "canonical": "https://www.genepedia.org/people/4531/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

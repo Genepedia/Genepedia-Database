@@ -1,0 +1,172 @@
+{
+  "id": 680,
+  "schema": "genepedia/person@1",
+  "slug": "eric-abel-meilhon",
+  "names": {
+    "display": "Eric Abel Meilhon",
+    "given": "Eric Abel",
+    "surname": "Meilhon",
+    "married": "Meilhon",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1930",
+      "year": 1930,
+      "iso": "1930",
+      "precision": "exact",
+      "display": "1930",
+      "place": null
+    },
+    "death": {
+      "date": "28 MAY 1992",
+      "year": 1992,
+      "iso": "1992-05-28",
+      "precision": "exact",
+      "display": "May 28, 1992",
+      "place": "Randfontein, Transvaal, South Africa",
+      "location": {
+        "label": "Randfontein, Transvaal, South Africa",
+        "placeName": "Randfontein, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Hydrolic Operator",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Eric Abel Meilhon"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Family Tree",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      671,
+      670
+    ],
+    "spouses": [
+      1694,
+      1697
+    ],
+    "exSpouses": [],
+    "children": [
+      1695,
+      1696
+    ],
+    "siblings": [
+      672,
+      673,
+      674,
+      675,
+      676,
+      268,
+      677,
+      678,
+      679,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686
+    ],
+    "parentUnions": [
+      "F191"
+    ],
+    "spouseUnions": [
+      "F439",
+      "F440"
+    ],
+    "parentLinks": [
+      {
+        "id": 671,
+        "unionId": "F191",
+        "type": "biological"
+      },
+      {
+        "id": 670,
+        "unionId": "F191",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1694,
+        "unionId": "F439",
+        "role": "partner"
+      },
+      {
+        "id": 1697,
+        "unionId": "F440",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1695,
+        "unionId": "F439",
+        "type": "biological"
+      },
+      {
+        "id": 1696,
+        "unionId": "F439",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000198139688085@",
+    "geniId": "6000000198139688085",
+    "rfn": "geni:6000000198139688085",
+    "changed": "22 OCT 2024"
+  },
+  "page": {
+    "route": "people/680/",
+    "canonical": "https://www.genepedia.org/people/680/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

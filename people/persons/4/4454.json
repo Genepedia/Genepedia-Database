@@ -1,0 +1,135 @@
+{
+  "id": 4454,
+  "schema": "genepedia/person@1",
+  "slug": "solomon-steinberg",
+  "names": {
+    "display": "Solomon Steinberg",
+    "given": "Solomon",
+    "surname": "Steinberg",
+    "married": "Steinberg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 OCT 1884",
+      "year": 1884,
+      "iso": "1884-10-17",
+      "precision": "exact",
+      "display": "October 17, 1884",
+      "place": "Gruzd",
+      "location": {
+        "label": "Gruzd",
+        "placeName": "Gruzd",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 JUL 1973",
+      "year": 1973,
+      "iso": "1973-07-27",
+      "precision": "exact",
+      "display": "July 27, 1973",
+      "place": "Haifa",
+      "location": {
+        "label": "Haifa",
+        "placeName": "Haifa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4453,
+      1744
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4455,
+      4456,
+      4457,
+      4458,
+      4459
+    ],
+    "parentUnions": [
+      "F1056"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4453,
+        "unionId": "F1056",
+        "type": "biological"
+      },
+      {
+        "id": 1744,
+        "unionId": "F1056",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291177@",
+    "geniId": "6000000003658291177",
+    "rfn": "geni:6000000003658291177",
+    "changed": "11 JUN 2021"
+  },
+  "page": {
+    "route": "people/4454/",
+    "canonical": "https://www.genepedia.org/people/4454/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,152 @@
+{
+  "id": 1196,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobus-ste",
+  "names": {
+    "display": "Johannes Jacobus Ste",
+    "given": "Johannes Jacobus",
+    "surname": "Ste",
+    "married": "Steenkamp",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 MAY 1905",
+      "year": 1905,
+      "iso": "1905-05-03",
+      "precision": "exact",
+      "display": "May 3, 1905",
+      "place": null
+    },
+    "death": {
+      "date": "ABT 2004",
+      "year": 2004,
+      "iso": "2004",
+      "precision": "about",
+      "display": "about 2004",
+      "place": null
+    },
+    "baptism": {
+      "date": "20 AUG 1905",
+      "year": 1905,
+      "iso": "1905-08-20",
+      "precision": "exact",
+      "display": "August 20, 1905",
+      "place": "Niekerkshoop, Suid-Afrika",
+      "location": {
+        "label": "Niekerkshoop, Suid-Afrika",
+        "placeName": "Niekerkshoop, Suid-Afrika",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Johannes Jacobus Ste"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Botha Web Site",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Snyman Web Site",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1194,
+      1091
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      487,
+      1195,
+      1197,
+      1198,
+      1199,
+      1200,
+      1201,
+      1202,
+      1203,
+      1204,
+      1205,
+      1206
+    ],
+    "parentUnions": [
+      "F311"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1194,
+        "unionId": "F311",
+        "type": "biological"
+      },
+      {
+        "id": 1091,
+        "unionId": "F311",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207511046870@",
+    "geniId": "6000000207511046870",
+    "rfn": "geni:6000000207511046870",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1196/",
+    "canonical": "https://www.genepedia.org/people/1196/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

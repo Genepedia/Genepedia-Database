@@ -1,0 +1,110 @@
+{
+  "id": 2063,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-johan-bester-2063",
+  "names": {
+    "display": "Michiel Johan Bester",
+    "given": "Michiel Johan",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 JAN 1956",
+      "year": 1956,
+      "iso": "1956-01-15",
+      "precision": "exact",
+      "display": "January 15, 1956",
+      "place": "Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Pretoria, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      846,
+      2061
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2062
+    ],
+    "parentUnions": [
+      "F535"
+    ],
+    "spouseUnions": [
+      "F1274"
+    ],
+    "parentLinks": [
+      {
+        "id": 846,
+        "unionId": "F535",
+        "type": "biological"
+      },
+      {
+        "id": 2061,
+        "unionId": "F535",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029349659053@",
+    "geniId": "6000000029349659053",
+    "rfn": "geni:6000000029349659053",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/2063/",
+    "canonical": "https://www.genepedia.org/people/2063/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

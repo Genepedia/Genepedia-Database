@@ -1,0 +1,87 @@
+{
+  "id": 2431,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-lodewicus-pienaar",
+  "names": {
+    "display": "Johannes Lodewicus Pienaar",
+    "given": "Johannes Lodewicus",
+    "surname": "Pienaar",
+    "married": "Pienaar",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2427,
+      2428
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      983,
+      2429,
+      2430
+    ],
+    "parentUnions": [
+      "F612"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2427,
+        "unionId": "F612",
+        "type": "biological"
+      },
+      {
+        "id": 2428,
+        "unionId": "F612",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000210229154847@",
+    "geniId": "6000000210229154847",
+    "rfn": "geni:6000000210229154847",
+    "changed": "23 OCT 2024"
+  },
+  "page": {
+    "route": "people/2431/",
+    "canonical": "https://www.genepedia.org/people/2431/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

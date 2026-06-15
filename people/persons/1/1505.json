@@ -1,0 +1,92 @@
+{
+  "id": 1505,
+  "schema": "genepedia/person@1",
+  "slug": "lize-marie",
+  "names": {
+    "display": "Lize-Marie",
+    "given": "Lize-Marie",
+    "surname": "du Preez",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "5 APR 1992",
+      "year": 1992,
+      "iso": "1992-04-05",
+      "precision": "exact",
+      "display": "April 5, 1992",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      605,
+      1504
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1506
+    ],
+    "parentUnions": [
+      "F385"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 605,
+        "unionId": "F385",
+        "type": "biological"
+      },
+      {
+        "id": 1504,
+        "unionId": "F385",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206607811872@",
+    "geniId": "6000000206607811872",
+    "rfn": "geni:6000000206607811872",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1505/",
+    "canonical": "https://www.genepedia.org/people/1505/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

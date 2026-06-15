@@ -1,0 +1,137 @@
+{
+  "id": 2966,
+  "schema": "genepedia/person@1",
+  "slug": "david-petrus-de-lange",
+  "names": {
+    "display": "David Petrus de Lange",
+    "given": "David Petrus",
+    "surname": "de Lange",
+    "married": "de Lange",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JUL 1881",
+      "year": 1881,
+      "iso": "1881-07-12",
+      "precision": "exact",
+      "display": "July 12, 1881",
+      "place": "Wepener, Orange Free State Boer Republic, South Africa",
+      "location": {
+        "label": "Wepener, Orange Free State Boer Republic, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wepener",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State Boer Republic",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 JUN 1956",
+      "year": 1956,
+      "iso": "1956-06-23",
+      "precision": "exact",
+      "display": "June 23, 1956",
+      "place": "Gewonne, Griekwastad, Union of South Africa, South Africa",
+      "location": {
+        "label": "Gewonne, Griekwastad, Union of South Africa, South Africa",
+        "placeName": "Gewonne",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Union of South Africa",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1180
+    ],
+    "exSpouses": [],
+    "children": [
+      2967,
+      2968
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F725"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1180,
+        "unionId": "F725",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2967,
+        "unionId": "F725",
+        "type": "biological"
+      },
+      {
+        "id": 2968,
+        "unionId": "F725",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000202429208839@",
+    "geniId": "6000000202429208839",
+    "rfn": "geni:6000000202429208839",
+    "changed": "01 NOV 2024"
+  },
+  "page": {
+    "route": "people/2966/",
+    "canonical": "https://www.genepedia.org/people/2966/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

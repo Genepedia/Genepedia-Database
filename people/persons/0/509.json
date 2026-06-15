@@ -1,0 +1,85 @@
+{
+  "id": 509,
+  "schema": "genepedia/person@1",
+  "slug": "steenkamp-509",
+  "names": {
+    "display": "? Steenkamp",
+    "given": "?",
+    "surname": "Steenkamp",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      507,
+      177
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      508
+    ],
+    "parentUnions": [
+      "F145"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 507,
+        "unionId": "F145",
+        "type": "biological"
+      },
+      {
+        "id": 177,
+        "unionId": "F145",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204083397828@",
+    "geniId": "6000000204083397828",
+    "rfn": "geni:6000000204083397828",
+    "changed": "14 MAR 2024"
+  },
+  "page": {
+    "route": "people/509/",
+    "canonical": "https://www.genepedia.org/people/509/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

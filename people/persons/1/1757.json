@@ -1,0 +1,107 @@
+{
+  "id": 1757,
+  "schema": "genepedia/person@1",
+  "slug": "tilly-livingston",
+  "names": {
+    "display": "Tilly Livingston",
+    "given": "Tilly",
+    "surname": "Livingston",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4493
+    ],
+    "spouses": [
+      729
+    ],
+    "exSpouses": [],
+    "children": [
+      1758,
+      1759,
+      1760
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1065"
+    ],
+    "spouseUnions": [
+      "F461"
+    ],
+    "parentLinks": [
+      {
+        "id": 4493,
+        "unionId": "F1065",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 729,
+        "unionId": "F461",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1758,
+        "unionId": "F461",
+        "type": "biological"
+      },
+      {
+        "id": 1759,
+        "unionId": "F461",
+        "type": "biological"
+      },
+      {
+        "id": 1760,
+        "unionId": "F461",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208305022821@",
+    "geniId": "6000000208305022821",
+    "rfn": "geni:6000000208305022821",
+    "changed": "19 AUG 2024"
+  },
+  "page": {
+    "route": "people/1757/",
+    "canonical": "https://www.genepedia.org/people/1757/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

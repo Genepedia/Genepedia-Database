@@ -1,0 +1,99 @@
+{
+  "id": 414,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-beukus",
+  "names": {
+    "display": "Maria Elizabeth Beukus",
+    "given": "Maria Elizabeth",
+    "surname": "Beukus",
+    "married": "Myburg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      410,
+      409
+    ],
+    "spouses": [
+      999
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      158,
+      411,
+      412,
+      413,
+      415
+    ],
+    "parentUnions": [
+      "F131"
+    ],
+    "spouseUnions": [
+      "F276"
+    ],
+    "parentLinks": [
+      {
+        "id": 410,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 409,
+        "unionId": "F131",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 999,
+        "unionId": "F276",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204877182849@",
+    "geniId": "6000000204877182849",
+    "rfn": "geni:6000000204877182849",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/414/",
+    "canonical": "https://www.genepedia.org/people/414/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

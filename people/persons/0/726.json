@@ -1,0 +1,209 @@
+{
+  "id": 726,
+  "schema": "genepedia/person@1",
+  "slug": "negame-rose-greenspoon",
+  "names": {
+    "display": "Negame Rose Greenspoon",
+    "given": "Negame Rose",
+    "surname": "Greenspoon",
+    "married": "Lurie",
+    "nick": "Nechama",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1860",
+      "year": 1860,
+      "iso": "1860",
+      "precision": "exact",
+      "display": "1860",
+      "place": "Lithuania",
+      "location": {
+        "label": "Lithuania",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "7 DEC 1937",
+      "year": 1937,
+      "iso": "1937-12-07",
+      "precision": "exact",
+      "display": "December 7, 1937",
+      "place": "Des Moines, Iowa, United States",
+      "location": {
+        "label": "Des Moines, Iowa, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Des Moines",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Iowa",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/59/e3/1a/95/534448667d2fd020/screenshot_2024-08-29_230104_original.jpg?hash=7a96ba787817e6b9df1b042440fb823dd3b933a93da4a4e6b06d717e864d4738.1789455599",
+      "alt": "Negame Rose Greenspoon"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/59/e3/1a/95/534448667d2fd020/screenshot_2024-08-29_230104_original.jpg?hash=7a96ba787817e6b9df1b042440fb823dd3b933a93da4a4e6b06d717e864d4738.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1748,
+      1749
+    ],
+    "spouses": [
+      725
+    ],
+    "exSpouses": [],
+    "children": [
+      727,
+      728,
+      729,
+      730,
+      297,
+      731,
+      732,
+      733,
+      734
+    ],
+    "siblings": [
+      1750
+    ],
+    "parentUnions": [
+      "F458"
+    ],
+    "spouseUnions": [
+      "F206"
+    ],
+    "parentLinks": [
+      {
+        "id": 1748,
+        "unionId": "F458",
+        "type": "biological"
+      },
+      {
+        "id": 1749,
+        "unionId": "F458",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 725,
+        "unionId": "F206",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 727,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 728,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 729,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 730,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 297,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 731,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 732,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 733,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 734,
+        "unionId": "F206",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000011615930361@",
+    "geniId": "6000000011615930361",
+    "rfn": "geni:6000000011615930361",
+    "changed": "19 FEB 2025"
+  },
+  "page": {
+    "route": "people/726/",
+    "canonical": "https://www.genepedia.org/people/726/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

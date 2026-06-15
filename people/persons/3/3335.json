@@ -1,0 +1,104 @@
+{
+  "id": 3335,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-johanna-maria-coetzee",
+  "names": {
+    "display": "Susanna Johanna Maria Coetzee",
+    "given": "Susanna Johanna Maria",
+    "surname": "Coetzee",
+    "married": "Mostert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 DEC 1915",
+      "year": 1915,
+      "iso": "1915-12-18",
+      "precision": "exact",
+      "display": "December 18, 1915",
+      "place": null
+    },
+    "death": {
+      "date": "ABT 1993",
+      "year": 1993,
+      "iso": "1993",
+      "precision": "about",
+      "display": "about 1993",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3329,
+      3330
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3331,
+      3332,
+      3333,
+      3334,
+      1312,
+      1317
+    ],
+    "parentUnions": [
+      "F815"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3329,
+        "unionId": "F815",
+        "type": "biological"
+      },
+      {
+        "id": 3330,
+        "unionId": "F815",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036362957587@",
+    "geniId": "6000000036362957587",
+    "rfn": "geni:6000000036362957587",
+    "changed": "13 SEP 2015"
+  },
+  "page": {
+    "route": "people/3335/",
+    "canonical": "https://www.genepedia.org/people/3335/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

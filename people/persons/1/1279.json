@@ -1,0 +1,98 @@
+{
+  "id": 1279,
+  "schema": "genepedia/person@1",
+  "slug": "koos-le-roux",
+  "names": {
+    "display": "Koos Le Roux",
+    "given": "Koos",
+    "surname": "Le Roux",
+    "married": "Le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1275,
+      1276
+    ],
+    "spouses": [
+      3192
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      533,
+      1277,
+      1278,
+      1280
+    ],
+    "parentUnions": [
+      "F332"
+    ],
+    "spouseUnions": [
+      "F785"
+    ],
+    "parentLinks": [
+      {
+        "id": 1275,
+        "unionId": "F332",
+        "type": "biological"
+      },
+      {
+        "id": 1276,
+        "unionId": "F332",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3192,
+        "unionId": "F785",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781326517@",
+    "geniId": "6000000007781326517",
+    "rfn": "geni:6000000007781326517",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/1279/",
+    "canonical": "https://www.genepedia.org/people/1279/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

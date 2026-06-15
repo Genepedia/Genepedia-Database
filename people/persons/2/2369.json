@@ -1,0 +1,103 @@
+{
+  "id": 2369,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-van-niekerk",
+  "names": {
+    "display": "Pieter Andries Van Niekerk",
+    "given": "Pieter Andries",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 AUG 1910",
+      "year": 1910,
+      "iso": "1910-08-02",
+      "precision": "exact",
+      "display": "August 2, 1910",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2360,
+      947
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2361,
+      2362,
+      2363,
+      2364,
+      2365,
+      2366,
+      2367,
+      2368,
+      2370,
+      2371,
+      2372,
+      2373
+    ],
+    "parentUnions": [
+      "F598"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2360,
+        "unionId": "F598",
+        "type": "biological"
+      },
+      {
+        "id": 947,
+        "unionId": "F598",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208126484863@",
+    "geniId": "6000000208126484863",
+    "rfn": "geni:6000000208126484863",
+    "changed": "13 AUG 2024"
+  },
+  "page": {
+    "route": "people/2369/",
+    "canonical": "https://www.genepedia.org/people/2369/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

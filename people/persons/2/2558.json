@@ -1,0 +1,152 @@
+{
+  "id": 2558,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobus-fourie-2558",
+  "names": {
+    "display": "Daniel Jacobus Fourie",
+    "given": "Daniel Jacobus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 APR 1902",
+      "year": 1902,
+      "iso": "1902-04-28",
+      "precision": "exact",
+      "display": "April 28, 1902",
+      "place": null
+    },
+    "death": {
+      "date": "28 OCT 1984",
+      "year": 1984,
+      "iso": "1984-10-28",
+      "precision": "exact",
+      "display": "October 28, 1984",
+      "place": null
+    },
+    "baptism": {
+      "date": "24 AUG 1902",
+      "year": 1902,
+      "iso": "1902-08-24",
+      "precision": "exact",
+      "display": "August 24, 1902",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e6/8d/1c/1f/5344485e17f3b2e0/record-image__original.jpg?hash=f9eb16867aa817c515ae409d4179341ab49137c75b00aa370f485afb9ca34c02.1789455599",
+      "alt": "Daniel Jacobus Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e6/8d/1c/1f/5344485e17f3b2e0/record-image__original.jpg?hash=f9eb16867aa817c515ae409d4179341ab49137c75b00aa370f485afb9ca34c02.1789455599",
+        "form": "",
+        "title": "record-image_doop.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/30/a9/2a/18/5344486a0d7c0fba/image_original.jpg?hash=7474b0834762fcfdbb7d44d42af12f5c2a41cfe9513b43e8db25c370b6a94e79.1789455599",
+        "form": "",
+        "title": "image - trou 1927 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1047,
+      2557
+    ],
+    "spouses": [
+      2198
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2559,
+      2560
+    ],
+    "parentUnions": [
+      "F636"
+    ],
+    "spouseUnions": [
+      "F1359"
+    ],
+    "parentLinks": [
+      {
+        "id": 1047,
+        "unionId": "F636",
+        "type": "biological"
+      },
+      {
+        "id": 2557,
+        "unionId": "F636",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2198,
+        "unionId": "F1359",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028282019777@",
+    "geniId": "6000000028282019777",
+    "rfn": "geni:6000000028282019777",
+    "changed": "30 SEP 2021"
+  },
+  "page": {
+    "route": "people/2558/",
+    "canonical": "https://www.genepedia.org/people/2558/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

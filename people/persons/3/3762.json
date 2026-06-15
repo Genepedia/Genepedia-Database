@@ -1,0 +1,91 @@
+{
+  "id": 3762,
+  "schema": "genepedia/person@1",
+  "slug": "c5d4-stoman",
+  "names": {
+    "display": "c5d4 Stoman",
+    "given": "c5d4",
+    "surname": "Stoman",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3755,
+      3754
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3756,
+      3757,
+      1434,
+      3758,
+      3759,
+      3760,
+      3761
+    ],
+    "parentUnions": [
+      "F899"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3755,
+        "unionId": "F899",
+        "type": "biological"
+      },
+      {
+        "id": 3754,
+        "unionId": "F899",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000190531529825@",
+    "geniId": "6000000190531529825",
+    "rfn": "geni:6000000190531529825",
+    "changed": "08 JAN 2023"
+  },
+  "page": {
+    "route": "people/3762/",
+    "canonical": "https://www.genepedia.org/people/3762/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

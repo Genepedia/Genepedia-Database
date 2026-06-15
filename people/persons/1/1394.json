@@ -1,0 +1,178 @@
+{
+  "id": 1394,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-cornelia-francina-de-beer",
+  "names": {
+    "display": "Johanna Cornelia Francina de Beer",
+    "given": "Johanna Cornelia Francina",
+    "surname": "de Beer",
+    "married": "Pretorius, Weitsz",
+    "nick": "a2b6c14d11e10",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 JAN 1856",
+      "year": 1856,
+      "iso": "1856-01-13",
+      "precision": "exact",
+      "display": "January 13, 1856",
+      "place": null
+    },
+    "death": {
+      "date": "2 JUN 1909",
+      "year": 1909,
+      "iso": "1909-06-02",
+      "precision": "exact",
+      "display": "June 2, 1909",
+      "place": "Aberdeen, South Africa",
+      "location": {
+        "label": "Aberdeen, South Africa",
+        "placeName": "Aberdeen",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "2 MAR 1856",
+      "year": 1856,
+      "iso": "1856-03-02",
+      "precision": "exact",
+      "display": "March 2, 1856",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "kleremaakster",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1385,
+      1384
+    ],
+    "spouses": [
+      3551,
+      3553,
+      3554
+    ],
+    "exSpouses": [],
+    "children": [
+      3552
+    ],
+    "siblings": [
+      1386,
+      1387,
+      1388,
+      1389,
+      1390,
+      563,
+      1391,
+      1392,
+      1393
+    ],
+    "parentUnions": [
+      "F358"
+    ],
+    "spouseUnions": [
+      "F865",
+      "F866",
+      "F867"
+    ],
+    "parentLinks": [
+      {
+        "id": 1385,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1384,
+        "unionId": "F358",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3551,
+        "unionId": "F865",
+        "role": "husband"
+      },
+      {
+        "id": 3553,
+        "unionId": "F866",
+        "role": "husband"
+      },
+      {
+        "id": 3554,
+        "unionId": "F867",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3552,
+        "unionId": "F865",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028577863010@",
+    "geniId": "6000000028577863010",
+    "rfn": "geni:6000000028577863010",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1394/",
+    "canonical": "https://www.genepedia.org/people/1394/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

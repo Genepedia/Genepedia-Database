@@ -1,0 +1,83 @@
+{
+  "id": 266,
+  "schema": "genepedia/person@1",
+  "slug": "katarina-pillay",
+  "names": {
+    "display": "Katarina Pillay",
+    "given": "Katarina",
+    "surname": "Pillay",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      265,
+      100
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F85"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 265,
+        "unionId": "F85",
+        "type": "biological"
+      },
+      {
+        "id": 100,
+        "unionId": "F85",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204069384824@",
+    "geniId": "6000000204069384824",
+    "rfn": "geni:6000000204069384824",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/266/",
+    "canonical": "https://www.genepedia.org/people/266/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

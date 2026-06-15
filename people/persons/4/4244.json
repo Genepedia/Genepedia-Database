@@ -1,0 +1,107 @@
+{
+  "id": 4244,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-christina-christina-maria-de-beer",
+  "names": {
+    "display": "Johanna Christina Christina Maria de Beer",
+    "given": "Johanna Christina Christina Maria",
+    "surname": "de Beer",
+    "married": "Van der Sandt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 AUG 1807",
+      "year": 1807,
+      "iso": "1807-08-18",
+      "precision": "exact",
+      "display": "August 18, 1807",
+      "place": null
+    },
+    "death": {
+      "date": "1859",
+      "year": 1859,
+      "iso": "1859",
+      "precision": "exact",
+      "display": "1859",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4242,
+      4243
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4245,
+      1606,
+      4246,
+      4247,
+      4248,
+      4249,
+      4250,
+      4251,
+      4252
+    ],
+    "parentUnions": [
+      "F996"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4242,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4243,
+        "unionId": "F996",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000087700140907@",
+    "geniId": "6000000087700140907",
+    "rfn": "geni:6000000087700140907",
+    "changed": "25 MAY 2024"
+  },
+  "page": {
+    "route": "people/4244/",
+    "canonical": "https://www.genepedia.org/people/4244/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

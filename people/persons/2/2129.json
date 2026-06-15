@@ -1,0 +1,150 @@
+{
+  "id": 2129,
+  "schema": "genepedia/person@1",
+  "slug": "martha-hendrina-wilhelmina-van-den-berg-2129",
+  "names": {
+    "display": "Martha Hendrina Wilhelmina van den Berg",
+    "given": "Martha Hendrina Wilhelmina",
+    "surname": "van den Berg",
+    "married": "van den Berg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 DEC 1804",
+      "year": 1804,
+      "iso": "1804-12-02",
+      "precision": "exact",
+      "display": "December 2, 1804",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 6 JAN 1827",
+      "year": 1827,
+      "iso": "1827-01-06",
+      "precision": "before",
+      "display": "before January 6, 1827",
+      "place": null
+    },
+    "baptism": {
+      "date": "20 MAY 1805",
+      "year": 1805,
+      "iso": "1805-05-20",
+      "precision": "exact",
+      "display": "May 20, 1805",
+      "place": "Graaff-Reinet",
+      "location": {
+        "label": "Graaff-Reinet",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/a5/19/9a/69/5344483bd259c665/nuy46xuf_original.jpg?hash=3af69e0ba669660e48e676a451dae0b05c3b4af901dec1632828a22af1918278.1789455599",
+      "alt": "Martha Hendrina Wilhelmina van den Berg"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/a5/19/9a/69/5344483bd259c665/nuy46xuf_original.jpg?hash=3af69e0ba669660e48e676a451dae0b05c3b4af901dec1632828a22af1918278.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/f5/39/07/72/53444863b511bc13/record-image__original.jpg?hash=b1e5a713367a0af88347108c4c24b325ec660986732a56df18dd427459ec412b.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2126,
+      2127
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2128,
+      2130,
+      2131,
+      2132,
+      2133,
+      2134,
+      2135,
+      886
+    ],
+    "parentUnions": [
+      "F553"
+    ],
+    "spouseUnions": [
+      "F1310"
+    ],
+    "parentLinks": [
+      {
+        "id": 2126,
+        "unionId": "F553",
+        "type": "biological"
+      },
+      {
+        "id": 2127,
+        "unionId": "F553",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000012670239328@",
+    "geniId": "6000000012670239328",
+    "rfn": "geni:6000000012670239328",
+    "changed": "25 JUL 2023"
+  },
+  "page": {
+    "route": "people/2129/",
+    "canonical": "https://www.genepedia.org/people/2129/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

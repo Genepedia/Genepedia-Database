@@ -1,0 +1,178 @@
+{
+  "id": 1259,
+  "schema": "genepedia/person@1",
+  "slug": "anna-susanna-bosman",
+  "names": {
+    "display": "Anna Susanna Bosman",
+    "given": "Anna Susanna",
+    "surname": "Bosman",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 SEP 1835",
+      "year": 1835,
+      "iso": "1835-09-16",
+      "precision": "exact",
+      "display": "September 16, 1835",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "15 OCT 1835",
+      "year": 1835,
+      "iso": "1835-10-15",
+      "precision": "exact",
+      "display": "October 15, 1835",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3138,
+      3139
+    ],
+    "spouses": [
+      1258
+    ],
+    "exSpouses": [],
+    "children": [
+      1260,
+      1261,
+      524,
+      1262,
+      1263,
+      1264,
+      1265
+    ],
+    "siblings": [
+      3140,
+      3141,
+      3142,
+      3143,
+      3144,
+      3145,
+      3146,
+      3147,
+      3148,
+      3149
+    ],
+    "parentUnions": [
+      "F774"
+    ],
+    "spouseUnions": [
+      "F328"
+    ],
+    "parentLinks": [
+      {
+        "id": 3138,
+        "unionId": "F774",
+        "type": "biological"
+      },
+      {
+        "id": 3139,
+        "unionId": "F774",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1258,
+        "unionId": "F328",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1260,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1261,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 524,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1262,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1263,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1264,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1265,
+        "unionId": "F328",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000034314131695@",
+    "geniId": "6000000034314131695",
+    "rfn": "geni:6000000034314131695",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1259/",
+    "canonical": "https://www.genepedia.org/people/1259/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

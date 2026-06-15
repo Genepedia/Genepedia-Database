@@ -1,0 +1,116 @@
+{
+  "id": 2697,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-johanna-swanepoel",
+  "names": {
+    "display": "Elizabeth Johanna Swanepoel",
+    "given": "Elizabeth Johanna",
+    "surname": "Swanepoel",
+    "married": "Kotze",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 OCT 1891",
+      "year": 1891,
+      "iso": "1891-10-10",
+      "precision": "exact",
+      "display": "October 10, 1891",
+      "place": null
+    },
+    "death": {
+      "date": "2 JUN 1936",
+      "year": 1936,
+      "iso": "1936-06-02",
+      "precision": "exact",
+      "display": "June 2, 1936",
+      "place": null
+    },
+    "baptism": {
+      "date": "6 SEP 1891",
+      "year": 1891,
+      "iso": "1891-09-06",
+      "precision": "exact",
+      "display": "September 6, 1891",
+      "place": "Vryburg, North West, South Africa",
+      "location": {
+        "label": "Vryburg, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vryburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1086
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1666"
+    ],
+    "spouseUnions": [
+      "F663"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1086,
+        "unionId": "F663",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000061385968834@",
+    "geniId": "6000000061385968834",
+    "rfn": "geni:6000000061385968834",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2697/",
+    "canonical": "https://www.genepedia.org/people/2697/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1804,
+  "schema": "genepedia/person@1",
+  "slug": "tarauki-mupombwa",
+  "names": {
+    "display": "Tarauki Mupombwa",
+    "given": "Tarauki",
+    "surname": "Mupombwa",
+    "married": "Mupombwa",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 MAY 1925",
+      "year": 1925,
+      "iso": "1925-05-08",
+      "precision": "exact",
+      "display": "May 8, 1925",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 FEB 1960",
+      "year": 1960,
+      "iso": "1960-02-28",
+      "precision": "exact",
+      "display": "February 28, 1960",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4559
+    ],
+    "spouses": [
+      1803
+    ],
+    "exSpouses": [],
+    "children": [
+      785
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1091"
+    ],
+    "spouseUnions": [
+      "F476"
+    ],
+    "parentLinks": [
+      {
+        "id": 4559,
+        "unionId": "F1091",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1803,
+        "unionId": "F476",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 785,
+        "unionId": "F476",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207501385838@",
+    "geniId": "6000000207501385838",
+    "rfn": "geni:6000000207501385838",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/1804/",
+    "canonical": "https://www.genepedia.org/people/1804/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

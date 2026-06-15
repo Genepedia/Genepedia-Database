@@ -1,0 +1,145 @@
+{
+  "id": 745,
+  "schema": "genepedia/person@1",
+  "slug": "hester-frederika-van-zyl",
+  "names": {
+    "display": "Hester Frederika van Zyl",
+    "given": "Hester Frederika",
+    "surname": "van Zyl",
+    "married": "Lurie",
+    "nick": "Freda",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e6/b8/d2/4b/534448663b449d5d/screenshot_2024-07-20_233341_original.jpg?hash=a3dc3398cc51c7b68ab209ea23b43f9d43b675b122fa0aee6c9bcda877d8cd0e.1789455599",
+      "alt": "Hester Frederika van Zyl"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e6/b8/d2/4b/534448663b449d5d/screenshot_2024-07-20_233341_original.jpg?hash=a3dc3398cc51c7b68ab209ea23b43f9d43b675b122fa0aee6c9bcda877d8cd0e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1782,
+      1783
+    ],
+    "spouses": [
+      300
+    ],
+    "exSpouses": [],
+    "children": [
+      746,
+      747,
+      748,
+      749,
+      750,
+      751
+    ],
+    "siblings": [
+      1784
+    ],
+    "parentUnions": [
+      "F467"
+    ],
+    "spouseUnions": [
+      "F210"
+    ],
+    "parentLinks": [
+      {
+        "id": 1782,
+        "unionId": "F467",
+        "type": "biological"
+      },
+      {
+        "id": 1783,
+        "unionId": "F467",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 300,
+        "unionId": "F210",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 746,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 747,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 748,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 749,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 750,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 751,
+        "unionId": "F210",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204067209828@",
+    "geniId": "6000000204067209828",
+    "rfn": "geni:6000000204067209828",
+    "changed": "20 JUL 2024"
+  },
+  "page": {
+    "route": "people/745/",
+    "canonical": "https://www.genepedia.org/people/745/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

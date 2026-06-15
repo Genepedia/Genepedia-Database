@@ -1,0 +1,145 @@
+{
+  "id": 2628,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-georg-abraham-gerhardus-koekemoer",
+  "names": {
+    "display": "Johannes Georg Abraham Gerhardus Koekemoer",
+    "given": "Johannes Georg Abraham Gerhardus",
+    "surname": "Koekemoer",
+    "married": "Koekemoer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1871",
+      "year": 1871,
+      "iso": "1871",
+      "precision": "exact",
+      "display": "1871",
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1928",
+      "year": 1928,
+      "iso": "1928",
+      "precision": "exact",
+      "display": "1928",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/68/28/7d/dd/5344485ef8b6f120/koekemoer_abraham_johannes_gerhardus_1854-1940_bucklands_main_cemetery_original.jpg?hash=e150dee2db7c7736bc1111ca7f268d7070c43f50a8589d02569817aa1d977d29.1789455599",
+      "alt": "Johannes Georg Abraham Gerhardus Koekemoer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/68/28/7d/dd/5344485ef8b6f120/koekemoer_abraham_johannes_gerhardus_1854-1940_bucklands_main_cemetery_original.jpg?hash=e150dee2db7c7736bc1111ca7f268d7070c43f50a8589d02569817aa1d977d29.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2620,
+      1067
+    ],
+    "spouses": [
+      2627
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2621,
+      2622,
+      2623,
+      2624,
+      2625,
+      1095,
+      1137,
+      2626,
+      2627
+    ],
+    "parentUnions": [
+      "F644"
+    ],
+    "spouseUnions": [
+      "F1624"
+    ],
+    "parentLinks": [
+      {
+        "id": 2620,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 1067,
+        "unionId": "F644",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2627,
+        "unionId": "F1624",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000175151392733@",
+    "geniId": "6000000175151392733",
+    "rfn": "geni:6000000175151392733",
+    "changed": "30 MAY 2025"
+  },
+  "page": {
+    "route": "people/2628/",
+    "canonical": "https://www.genepedia.org/people/2628/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

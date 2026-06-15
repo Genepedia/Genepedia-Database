@@ -1,0 +1,83 @@
+{
+  "id": 640,
+  "schema": "genepedia/person@1",
+  "slug": "van-niekerk-640",
+  "names": {
+    "display": "? van Niekerk",
+    "given": "?",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      242,
+      639
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F178"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 242,
+        "unionId": "F178",
+        "type": "biological"
+      },
+      {
+        "id": 639,
+        "unionId": "F178",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207068056824@",
+    "geniId": "6000000207068056824",
+    "rfn": "geni:6000000207068056824",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/640/",
+    "canonical": "https://www.genepedia.org/people/640/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

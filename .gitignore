@@ -1,0 +1,4 @@
+# Ignore generated GEDCOM exports and other generated export files
+# Exclude the entire export folder and all files/subfolders within it
+/people/export/
+/people/export/**

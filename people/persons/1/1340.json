@@ -1,0 +1,177 @@
+{
+  "id": 1340,
+  "schema": "genepedia/person@1",
+  "slug": "hugo-amos-hendrik-van-niekerk",
+  "names": {
+    "display": "Hugo Amos Hendrik van Niekerk",
+    "given": "Hugo Amos Hendrik",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": [
+      "Van Niekerk"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1866",
+      "year": 1866,
+      "iso": "1866",
+      "precision": "about",
+      "display": "about 1866",
+      "place": null
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kakamas, Northern Cape, South Africa",
+      "location": {
+        "label": "Kakamas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kakamas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1336,
+      1335
+    ],
+    "spouses": [
+      3409,
+      3411
+    ],
+    "exSpouses": [],
+    "children": [
+      3410,
+      3412,
+      3413,
+      3414,
+      3415,
+      3416
+    ],
+    "siblings": [
+      1337,
+      1338,
+      546,
+      1339,
+      1341,
+      1342
+    ],
+    "parentUnions": [
+      "F345"
+    ],
+    "spouseUnions": [
+      "F836",
+      "F837"
+    ],
+    "parentLinks": [
+      {
+        "id": 1336,
+        "unionId": "F345",
+        "type": "biological"
+      },
+      {
+        "id": 1335,
+        "unionId": "F345",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3409,
+        "unionId": "F836",
+        "role": "partner"
+      },
+      {
+        "id": 3411,
+        "unionId": "F837",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3410,
+        "unionId": "F836",
+        "type": "biological"
+      },
+      {
+        "id": 3412,
+        "unionId": "F837",
+        "type": "biological"
+      },
+      {
+        "id": 3413,
+        "unionId": "F837",
+        "type": "biological"
+      },
+      {
+        "id": 3414,
+        "unionId": "F837",
+        "type": "biological"
+      },
+      {
+        "id": 3415,
+        "unionId": "F837",
+        "type": "biological"
+      },
+      {
+        "id": 3416,
+        "unionId": "F837",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000044297693975@",
+    "geniId": "6000000044297693975",
+    "rfn": "geni:6000000044297693975",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/1340/",
+    "canonical": "https://www.genepedia.org/people/1340/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 4137,
+  "schema": "genepedia/person@1",
+  "slug": "hester-hendrina-meyer",
+  "names": {
+    "display": "Hester Hendrina Meyer",
+    "given": "Hester Hendrina",
+    "surname": "Meyer",
+    "married": "Meyer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 MAY 1935",
+      "year": 1935,
+      "iso": "1935-05-10",
+      "precision": "exact",
+      "display": "May 10, 1935",
+      "place": null
+    },
+    "death": {
+      "date": "24 JUN 2009",
+      "year": 2009,
+      "iso": "2009-06-24",
+      "precision": "exact",
+      "display": "June 24, 2009",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4136,
+      1561
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F958"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4136,
+        "unionId": "F958",
+        "type": "biological"
+      },
+      {
+        "id": 1561,
+        "unionId": "F958",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000000460254359@",
+    "geniId": "6000000000460254359",
+    "rfn": "geni:6000000000460254359",
+    "changed": "25 APR 2024"
+  },
+  "page": {
+    "route": "people/4137/",
+    "canonical": "https://www.genepedia.org/people/4137/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

@@ -1,0 +1,132 @@
+{
+  "id": 3289,
+  "schema": "genepedia/person@1",
+  "slug": "wilhelmina-maria-johanna-van-zyl",
+  "names": {
+    "display": "Wilhelmina Maria Johanna van Zyl",
+    "given": "Wilhelmina Maria Johanna",
+    "surname": "van Zyl",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 AUG 1899",
+      "year": 1899,
+      "iso": "1899-08-22",
+      "precision": "exact",
+      "display": "August 22, 1899",
+      "place": "Langkuil, Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Langkuil, Clanwilliam, Cape Province, South Africa",
+        "placeName": "Langkuil",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "26 NOV 1899",
+      "year": 1899,
+      "iso": "1899-11-26",
+      "precision": "exact",
+      "display": "November 26, 1899",
+      "place": "Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Clanwilliam, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3288,
+      1304
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3290,
+      3291
+    ],
+    "parentUnions": [
+      "F807"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3288,
+        "unionId": "F807",
+        "type": "biological"
+      },
+      {
+        "id": 1304,
+        "unionId": "F807",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000199377356859@",
+    "geniId": "6000000199377356859",
+    "rfn": "geni:6000000199377356859",
+    "changed": "21 OCT 2023"
+  },
+  "page": {
+    "route": "people/3289/",
+    "canonical": "https://www.genepedia.org/people/3289/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

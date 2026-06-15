@@ -1,0 +1,131 @@
+{
+  "id": 1036,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-petronella-jacobs",
+  "names": {
+    "display": "Magdalena Petronella Jacobs",
+    "given": "Magdalena Petronella",
+    "surname": "Jacobs",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "23 MAR 1930",
+      "year": 1930,
+      "iso": "1930-03-23",
+      "precision": "exact",
+      "display": "March 23, 1930",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "4 MAY 1930",
+      "year": 1930,
+      "iso": "1930-05-04",
+      "precision": "exact",
+      "display": "May 4, 1930",
+      "place": "Paarl",
+      "location": {
+        "label": "Paarl",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1026,
+      1027
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1028,
+      1029,
+      1030,
+      1031,
+      1032,
+      1033,
+      1034,
+      1035,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      424
+    ],
+    "parentUnions": [
+      "F281"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1026,
+        "unionId": "F281",
+        "type": "biological"
+      },
+      {
+        "id": 1027,
+        "unionId": "F281",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000205441476845@",
+    "geniId": "6000000205441476845",
+    "rfn": "geni:6000000205441476845",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/1036/",
+    "canonical": "https://www.genepedia.org/people/1036/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

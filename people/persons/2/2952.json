@@ -1,0 +1,141 @@
+{
+  "id": 2952,
+  "schema": "genepedia/person@1",
+  "slug": "maria-johanna-ras",
+  "names": {
+    "display": "Maria Johanna Ras",
+    "given": "Maria Johanna",
+    "surname": "Ras",
+    "married": "du Toit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 MAY 1875",
+      "year": 1875,
+      "iso": "1875-05-04",
+      "precision": "exact",
+      "display": "May 4, 1875",
+      "place": "Victoria West, Cape Of Good Hope, South Africa",
+      "location": {
+        "label": "Victoria West, Cape Of Good Hope, South Africa",
+        "placeName": "Victoria West, Cape Of Good Hope, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 JUN 1898",
+      "year": 1898,
+      "iso": "1898-06-01",
+      "precision": "exact",
+      "display": "June 1, 1898",
+      "place": "Victoria-wes",
+      "location": {
+        "label": "Victoria-wes",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria-wes",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2943,
+      2944
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2945,
+      2946,
+      2947,
+      1178,
+      2948,
+      2949,
+      2950,
+      2951,
+      2953
+    ],
+    "parentUnions": [
+      "F723"
+    ],
+    "spouseUnions": [
+      "F1847"
+    ],
+    "parentLinks": [
+      {
+        "id": 2943,
+        "unionId": "F723",
+        "type": "biological"
+      },
+      {
+        "id": 2944,
+        "unionId": "F723",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000120371547929@",
+    "geniId": "6000000120371547929",
+    "rfn": "geni:6000000120371547929",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2952/",
+    "canonical": "https://www.genepedia.org/people/2952/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

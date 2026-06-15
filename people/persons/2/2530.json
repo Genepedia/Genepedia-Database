@@ -1,0 +1,107 @@
+{
+  "id": 2530,
+  "schema": "genepedia/person@1",
+  "slug": "martinus-johannes-jacobus-jacobs",
+  "names": {
+    "display": "Martinus Johannes Jacobus Jacobs",
+    "given": "Martinus Johannes Jacobus",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "Marthinus",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1875",
+      "year": 1875,
+      "iso": "1875",
+      "precision": "exact",
+      "display": "1875",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/18/e1/7e/b7/53444862b529f090/record-image_-_2023-03-02t183036_original.jpg?hash=7c18a02812af13568e153569a006bc276f6a375d42a25f57db017bbf5b1b4b19.1789455599",
+      "alt": "Martinus Johannes Jacobus Jacobs"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/18/e1/7e/b7/53444862b529f090/record-image_-_2023-03-02t183036_original.jpg?hash=7c18a02812af13568e153569a006bc276f6a375d42a25f57db017bbf5b1b4b19.1789455599",
+        "form": "",
+        "title": "record-image_ - 2023-03-02T183036.652.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2529,
+      2528
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2531,
+      1026
+    ],
+    "parentUnions": [
+      "F629"
+    ],
+    "spouseUnions": [
+      "F1551"
+    ],
+    "parentLinks": [
+      {
+        "id": 2529,
+        "unionId": "F629",
+        "type": "biological"
+      },
+      {
+        "id": 2528,
+        "unionId": "F629",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000192347735824@",
+    "geniId": "6000000192347735824",
+    "rfn": "geni:6000000192347735824",
+    "changed": "01 MAR 2023"
+  },
+  "page": {
+    "route": "people/2530/",
+    "canonical": "https://www.genepedia.org/people/2530/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

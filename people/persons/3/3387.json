@@ -1,0 +1,136 @@
+{
+  "id": 3387,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-frans-prins",
+  "names": {
+    "display": "Johannes Frans PRINS",
+    "given": "Johannes Frans",
+    "surname": "PRINS",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 JUL 1843",
+      "year": 1843,
+      "iso": "1843-07-01",
+      "precision": "exact",
+      "display": "July 1, 1843",
+      "place": "Malmesbury, WC, South Africa",
+      "location": {
+        "label": "Malmesbury, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Malmesbury",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 AUG 1914",
+      "year": 1914,
+      "iso": "1914-08-23",
+      "precision": "exact",
+      "display": "August 23, 1914",
+      "place": "Durbanville, Kaapstad, WC, South Africa",
+      "location": {
+        "label": "Durbanville, Kaapstad, WC, South Africa",
+        "placeName": "Durbanville",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kaapstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3383,
+      3384
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3385,
+      1335,
+      3386,
+      3388,
+      3389,
+      3390
+    ],
+    "parentUnions": [
+      "F832"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3383,
+        "unionId": "F832",
+        "type": "biological"
+      },
+      {
+        "id": 3384,
+        "unionId": "F832",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000223183444825@",
+    "geniId": "6000000223183444825",
+    "rfn": "geni:6000000223183444825",
+    "changed": "07 JAN 2026"
+  },
+  "page": {
+    "route": "people/3387/",
+    "canonical": "https://www.genepedia.org/people/3387/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

@@ -1,0 +1,216 @@
+{
+  "id": 1534,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobus-jacobs",
+  "names": {
+    "display": "Johannes Jacobus Jacobs",
+    "given": "Johannes Jacobus",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 APR 1845",
+      "year": 1845,
+      "iso": "1845-04-10",
+      "precision": "exact",
+      "display": "April 10, 1845",
+      "place": null
+    },
+    "death": {
+      "date": "24 JAN 1883",
+      "year": 1883,
+      "iso": "1883-01-24",
+      "precision": "exact",
+      "display": "January 24, 1883",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "21 DEC 1845",
+      "year": 1845,
+      "iso": "1845-12-21",
+      "precision": "exact",
+      "display": "December 21, 1845",
+      "place": "Winburg, Orange Free State, South Africa",
+      "location": {
+        "label": "Winburg, Orange Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Winburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1532,
+      1531
+    ],
+    "spouses": [
+      3940,
+      3943
+    ],
+    "exSpouses": [],
+    "children": [
+      3941,
+      3942,
+      3944,
+      3945,
+      3946,
+      3947,
+      3948,
+      3949,
+      3950
+    ],
+    "siblings": [
+      1533,
+      1535,
+      1536,
+      1537,
+      1538,
+      623
+    ],
+    "parentUnions": [
+      "F393"
+    ],
+    "spouseUnions": [
+      "F928",
+      "F929"
+    ],
+    "parentLinks": [
+      {
+        "id": 1532,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1531,
+        "unionId": "F393",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3940,
+        "unionId": "F928",
+        "role": "partner"
+      },
+      {
+        "id": 3943,
+        "unionId": "F929",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3941,
+        "unionId": "F928",
+        "type": "biological"
+      },
+      {
+        "id": 3942,
+        "unionId": "F928",
+        "type": "biological"
+      },
+      {
+        "id": 3944,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3945,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3946,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3947,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3948,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3949,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3950,
+        "unionId": "F929",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000000734954233@",
+    "geniId": "6000000000734954233",
+    "rfn": "geni:6000000000734954233",
+    "changed": "20 NOV 2022"
+  },
+  "page": {
+    "route": "people/1534/",
+    "canonical": "https://www.genepedia.org/people/1534/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 792,
+  "schema": "genepedia/person@1",
+  "slug": "van-bosch-792",
+  "names": {
+    "display": "? van Bosch",
+    "given": "?",
+    "surname": "van Bosch",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      311,
+      791
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F220"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 311,
+        "unionId": "F220",
+        "type": "biological"
+      },
+      {
+        "id": 791,
+        "unionId": "F220",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207095933918@",
+    "geniId": "6000000207095933918",
+    "rfn": "geni:6000000207095933918",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/792/",
+    "canonical": "https://www.genepedia.org/people/792/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 869,
+  "schema": "genepedia/person@1",
+  "slug": "christa-bester",
+  "names": {
+    "display": "Christa Bester",
+    "given": "Christa",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      342,
+      866
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      867,
+      868
+    ],
+    "parentUnions": [
+      "F241"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 342,
+        "unionId": "F241",
+        "type": "biological"
+      },
+      {
+        "id": 866,
+        "unionId": "F241",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066638251917@",
+    "geniId": "6000000066638251917",
+    "rfn": "geni:6000000066638251917",
+    "changed": "07 SEP 2017"
+  },
+  "page": {
+    "route": "people/869/",
+    "canonical": "https://www.genepedia.org/people/869/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

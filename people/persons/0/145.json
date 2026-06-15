@@ -1,0 +1,184 @@
+{
+  "id": 145,
+  "schema": "genepedia/person@1",
+  "slug": "martha-hendrina-roselt",
+  "names": {
+    "display": "Martha Hendrina Roselt",
+    "given": "Martha Hendrina",
+    "surname": "Roselt",
+    "married": "de Koker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 NOV 1924",
+      "year": 1924,
+      "iso": "1924-11-29",
+      "precision": "exact",
+      "display": "November 29, 1924",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 AUG 2007",
+      "year": 2007,
+      "iso": "2007-08-04",
+      "precision": "exact",
+      "display": "August 4, 2007",
+      "place": "Durban, South Africa",
+      "location": {
+        "label": "Durban, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Durban",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "8 FEB 1925",
+      "year": 1925,
+      "iso": "1925-02-08",
+      "precision": "exact",
+      "display": "February 8, 1925",
+      "place": "Douglas",
+      "location": {
+        "label": "Douglas",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/6e/d9/86/8f/53444840c04ea4bb/foto_11_troue_bruid_se_familie_saam_met_bruidspaar_jane_roselt_pienaar_original.jpg?hash=32a18329ca0fd0e22297d249e37f7f123c622f3642ff10a5a9cb3d276f996694.1789455599",
+      "alt": "Martha Hendrina Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/6e/d9/86/8f/53444840c04ea4bb/foto_11_troue_bruid_se_familie_saam_met_bruidspaar_jane_roselt_pienaar_original.jpg?hash=32a18329ca0fd0e22297d249e37f7f123c622f3642ff10a5a9cb3d276f996694.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      138,
+      139
+    ],
+    "spouses": [
+      397
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      140,
+      141,
+      142,
+      143,
+      144,
+      40,
+      146,
+      147,
+      148
+    ],
+    "parentUnions": [
+      "F47"
+    ],
+    "spouseUnions": [
+      "F123"
+    ],
+    "parentLinks": [
+      {
+        "id": 138,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 139,
+        "unionId": "F47",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 397,
+        "unionId": "F123",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028170873514@",
+    "geniId": "6000000028170873514",
+    "rfn": "geni:6000000028170873514",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/145/",
+    "canonical": "https://www.genepedia.org/people/145/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 3789,
+  "schema": "genepedia/person@1",
+  "slug": "sophia-johanna-wilhelmina-brynard",
+  "names": {
+    "display": "Sophia Johanna Wilhelmina Brynard",
+    "given": "Sophia Johanna Wilhelmina",
+    "surname": "Brynard",
+    "married": "Maree",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 OCT 1903",
+      "year": 1903,
+      "iso": "1903-10-08",
+      "precision": "exact",
+      "display": "October 8, 1903",
+      "place": null
+    },
+    "death": {
+      "date": "17 MAR 1975",
+      "year": 1975,
+      "iso": "1975-03-17",
+      "precision": "exact",
+      "display": "March 17, 1975",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Urban area / Western Cape, KLEINMOND, Main cemetery, South Africa",
+      "location": {
+        "label": "Urban area / Western Cape, KLEINMOND, Main cemetery, South Africa",
+        "placeName": "Urban area / Western Cape, KLEINMOND, Main cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1437,
+      3782
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3783,
+      3784,
+      3785,
+      3786,
+      3787,
+      3788,
+      3790,
+      3791,
+      3792,
+      3793,
+      3794,
+      3795,
+      3796
+    ],
+    "parentUnions": [
+      "F903"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1437,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3782,
+        "unionId": "F903",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000223365743875@",
+    "geniId": "6000000223365743875",
+    "rfn": "geni:6000000223365743875",
+    "changed": "16 JAN 2026"
+  },
+  "page": {
+    "route": "people/3789/",
+    "canonical": "https://www.genepedia.org/people/3789/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

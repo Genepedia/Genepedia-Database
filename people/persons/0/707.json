@@ -1,0 +1,96 @@
+{
+  "id": 707,
+  "schema": "genepedia/person@1",
+  "slug": "jaco-erasmus",
+  "names": {
+    "display": "Jaco Erasmus",
+    "given": "Jaco",
+    "surname": "Erasmus",
+    "married": "Erasmus",
+    "nick": "Rassie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 OCT 1985",
+      "year": 1985,
+      "iso": "1985-10-29",
+      "precision": "exact",
+      "display": "October 29, 1985",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b0/ae/04/8e/53444865a0e24e7f/screenshot_2024-04-07_211506_original.jpg?hash=2446426711019ae4060451d2c1bcaeaf2cfcbbd1677130e4eeed75577d1cfde9.1789455599",
+      "alt": "Jaco Erasmus"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b0/ae/04/8e/53444865a0e24e7f/screenshot_2024-04-07_211506_original.jpg?hash=2446426711019ae4060451d2c1bcaeaf2cfcbbd1677130e4eeed75577d1cfde9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      283
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F199"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 283,
+        "unionId": "F199",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204069192830@",
+    "geniId": "6000000204069192830",
+    "rfn": "geni:6000000204069192830",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/707/",
+    "canonical": "https://www.genepedia.org/people/707/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

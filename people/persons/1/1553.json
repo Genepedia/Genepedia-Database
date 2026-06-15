@@ -1,0 +1,210 @@
+{
+  "id": 1553,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-francois-mellet-1553",
+  "names": {
+    "display": "Hendrik Francois Mellet",
+    "given": "Hendrik Francois",
+    "surname": "Mellet",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 OCT 1852",
+      "year": 1852,
+      "iso": "1852-10-29",
+      "precision": "exact",
+      "display": "October 29, 1852",
+      "place": "Boshof, Free State, South Africa",
+      "location": {
+        "label": "Boshof, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "8340",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 JAN 1898",
+      "year": 1898,
+      "iso": "1898-01-24",
+      "precision": "exact",
+      "display": "January 24, 1898",
+      "place": "Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Pretoria, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1549,
+      1550
+    ],
+    "spouses": [
+      4096
+    ],
+    "exSpouses": [],
+    "children": [
+      4097,
+      4098,
+      4099,
+      4100,
+      4101,
+      4102,
+      4103,
+      4104,
+      4105,
+      4106
+    ],
+    "siblings": [
+      1551,
+      1552,
+      629,
+      1554,
+      1555,
+      1556,
+      1557,
+      1558
+    ],
+    "parentUnions": [
+      "F396"
+    ],
+    "spouseUnions": [
+      "F949"
+    ],
+    "parentLinks": [
+      {
+        "id": 1549,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1550,
+        "unionId": "F396",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4096,
+        "unionId": "F949",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4097,
+        "unionId": "F949",
+        "type": "biological"
+      },
+      {
+        "id": 4098,
+        "unionId": "F949",
+        "type": "biological"
+      },
+      {
+        "id": 4099,
+        "unionId": "F949",
+        "type": "biological"
+      },
+      {
+        "id": 4100,
+        "unionId": "F949",
+        "type": "biological"
+      },
+      {
+        "id": 4101,
+        "unionId": "F949",
+        "type": "biological"
+      },
+      {
+        "id": 4102,
+        "unionId": "F949",
+        "type": "biological"
+      },
+      {
+        "id": 4103,
+        "unionId": "F949",
+        "type": "biological"
+      },
+      {
+        "id": 4104,
+        "unionId": "F949",
+        "type": "biological"
+      },
+      {
+        "id": 4105,
+        "unionId": "F949",
+        "type": "biological"
+      },
+      {
+        "id": 4106,
+        "unionId": "F949",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000021440843437@",
+    "geniId": "6000000021440843437",
+    "rfn": "geni:6000000021440843437",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/1553/",
+    "canonical": "https://www.genepedia.org/people/1553/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

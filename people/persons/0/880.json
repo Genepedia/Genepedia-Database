@@ -1,0 +1,132 @@
+{
+  "id": 880,
+  "schema": "genepedia/person@1",
+  "slug": "jane-ann-williams",
+  "names": {
+    "display": "Jane Ann Williams",
+    "given": "Jane Ann",
+    "surname": "Williams",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1824",
+      "year": 1824,
+      "iso": "1824",
+      "precision": "about",
+      "display": "about 1824",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2109,
+      2110
+    ],
+    "spouses": [
+      881
+    ],
+    "exSpouses": [],
+    "children": [
+      368,
+      882,
+      883,
+      884,
+      885
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F548"
+    ],
+    "spouseUnions": [
+      "F249"
+    ],
+    "parentLinks": [
+      {
+        "id": 2109,
+        "unionId": "F548",
+        "type": "biological"
+      },
+      {
+        "id": 2110,
+        "unionId": "F548",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 881,
+        "unionId": "F249",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 368,
+        "unionId": "F249",
+        "type": "biological"
+      },
+      {
+        "id": 882,
+        "unionId": "F249",
+        "type": "biological"
+      },
+      {
+        "id": 883,
+        "unionId": "F249",
+        "type": "biological"
+      },
+      {
+        "id": 884,
+        "unionId": "F249",
+        "type": "biological"
+      },
+      {
+        "id": 885,
+        "unionId": "F249",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028298052114@",
+    "geniId": "6000000028298052114",
+    "rfn": "geni:6000000028298052114",
+    "changed": "02 JUN 2017"
+  },
+  "page": {
+    "route": "people/880/",
+    "canonical": "https://www.genepedia.org/people/880/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

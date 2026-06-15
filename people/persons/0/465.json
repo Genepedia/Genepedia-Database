@@ -1,0 +1,88 @@
+{
+  "id": 465,
+  "schema": "genepedia/person@1",
+  "slug": "cloete-465",
+  "names": {
+    "display": "? Cloete",
+    "given": "?",
+    "surname": "Cloete",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      463,
+      171
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      464,
+      466,
+      467,
+      468
+    ],
+    "parentUnions": [
+      "F139"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 463,
+        "unionId": "F139",
+        "type": "biological"
+      },
+      {
+        "id": 171,
+        "unionId": "F139",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204082286841@",
+    "geniId": "6000000204082286841",
+    "rfn": "geni:6000000204082286841",
+    "changed": "14 MAR 2024"
+  },
+  "page": {
+    "route": "people/465/",
+    "canonical": "https://www.genepedia.org/people/465/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

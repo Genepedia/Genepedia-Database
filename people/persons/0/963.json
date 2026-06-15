@@ -1,0 +1,92 @@
+{
+  "id": 963,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-elizabetha-magdalena-cloete",
+  "names": {
+    "display": "Susanna Elizabetha Magdalena Cloete",
+    "given": "Susanna Elizabetha Magdalena",
+    "surname": "Cloete",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      954,
+      955
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      382,
+      956,
+      957,
+      958,
+      959,
+      960,
+      961,
+      962
+    ],
+    "parentUnions": [
+      "F262"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 954,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 955,
+        "unionId": "F262",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000136294159928@",
+    "geniId": "6000000136294159928",
+    "rfn": "geni:6000000136294159928",
+    "changed": "27 AUG 2022"
+  },
+  "page": {
+    "route": "people/963/",
+    "canonical": "https://www.genepedia.org/people/963/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

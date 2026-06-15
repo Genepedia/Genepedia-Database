@@ -1,0 +1,186 @@
+{
+  "id": 3223,
+  "schema": "genepedia/person@1",
+  "slug": "willem-johannes-paulus-mouton",
+  "names": {
+    "display": "Willem Johannes Paulus Mouton",
+    "given": "Willem Johannes Paulus",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 MAY 1832",
+      "year": 1832,
+      "iso": "1832-05-22",
+      "precision": "exact",
+      "display": "May 22, 1832",
+      "place": "Pakhuis, Clanwilliam",
+      "location": {
+        "label": "Pakhuis, Clanwilliam",
+        "placeName": "Pakhuis, Clanwilliam",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 MAY 1910",
+      "year": 1910,
+      "iso": "1910-05-28",
+      "precision": "exact",
+      "display": "May 28, 1910",
+      "place": "Langkuill, Clanwilliam",
+      "location": {
+        "label": "Langkuill, Clanwilliam",
+        "placeName": "Langkuill, Clanwilliam",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/50/ef/ce/9d/5344484c77293508/mouton_willem_johannes_aletta_maria_smit_1882_clanwilliam_377_-_008148296_original.jpg?hash=37eb0ea267293a058274db443bf3b25b93615dd62b69649748d94778a6a0dffe.1789455599",
+      "alt": "Willem Johannes Paulus Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/50/ef/ce/9d/5344484c77293508/mouton_willem_johannes_aletta_maria_smit_1882_clanwilliam_377_-_008148296_original.jpg?hash=37eb0ea267293a058274db443bf3b25b93615dd62b69649748d94778a6a0dffe.1789455599",
+        "form": "",
+        "title": "Mouton Willem Johannes & Aletta Maria Smit 1882 clanwilliam 377 - 008148296.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/4f/66/aa/64/534448569388e7a0/willem_johannes_paulus_mouton_1832_-_1910_original.jpg?hash=5747de2188db7b3742e629e9a52c4b5433e47a1c902250ebab9c2bfa9d80f36e.1789455599",
+        "form": "",
+        "title": "Willem Johannes Paulus Mouton 1832 - 1910.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3222
+    ],
+    "exSpouses": [],
+    "children": [
+      3224,
+      1292,
+      3225,
+      3226,
+      3227,
+      3228,
+      3229
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F794"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3222,
+        "unionId": "F794",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3224,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 1292,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3225,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3226,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3227,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3228,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3229,
+        "unionId": "F794",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000025294132885@",
+    "geniId": "6000000025294132885",
+    "rfn": "geni:6000000025294132885",
+    "changed": "13 MAY 2025"
+  },
+  "page": {
+    "route": "people/3223/",
+    "canonical": "https://www.genepedia.org/people/3223/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

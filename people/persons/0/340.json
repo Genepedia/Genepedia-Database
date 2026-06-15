@@ -1,0 +1,120 @@
+{
+  "id": 340,
+  "schema": "genepedia/person@1",
+  "slug": "gerbrecht-elizabeth-bester",
+  "names": {
+    "display": "Gerbrecht Elizabeth Bester",
+    "given": "Gerbrecht Elizabeth",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "Breggie",
+    "aliases": [
+      "Gerbrecht Elizabeth Bester"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 OCT 1900",
+      "year": 1900,
+      "iso": "1900-10-01",
+      "precision": "exact",
+      "display": "October 1, 1900",
+      "place": null
+    },
+    "death": {
+      "date": "JUL 1983",
+      "year": 1983,
+      "iso": "1983-07",
+      "precision": "exact",
+      "display": "July 1983",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      331,
+      332
+    ],
+    "spouses": [
+      861
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      129,
+      341,
+      342
+    ],
+    "parentUnions": [
+      "F107"
+    ],
+    "spouseUnions": [
+      "F239"
+    ],
+    "parentLinks": [
+      {
+        "id": 331,
+        "unionId": "F107",
+        "type": "biological"
+      },
+      {
+        "id": 332,
+        "unionId": "F107",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 861,
+        "unionId": "F239",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065161586962@",
+    "geniId": "6000000065161586962",
+    "rfn": "geni:6000000065161586962",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/340/",
+    "canonical": "https://www.genepedia.org/people/340/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,133 @@
+{
+  "id": 4119,
+  "schema": "genepedia/person@1",
+  "slug": "schalk-jacobus-burger",
+  "names": {
+    "display": "Schalk Jacobus Burger",
+    "given": "Schalk Jacobus",
+    "surname": "Burger",
+    "married": "Burger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 FEB 1866",
+      "year": 1866,
+      "iso": "1866-02-02",
+      "precision": "exact",
+      "display": "February 2, 1866",
+      "place": null
+    },
+    "death": {
+      "date": "20 AUG 1952",
+      "year": 1952,
+      "iso": "1952-08-20",
+      "precision": "exact",
+      "display": "August 20, 1952",
+      "place": "Bloemhof, Transvaal, South Africa",
+      "location": {
+        "label": "Bloemhof, Transvaal, South Africa",
+        "placeName": "Bloemhof, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/43/64/df/9a/53444865251803b4/abw_leage_of_veterans_original.jpg?hash=c1cabeebbd87ccb9c009e1698efb32881da1e0fe92d80bcf5d4f76460b9b7a9e.1789455599",
+      "alt": "Schalk Jacobus Burger"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/43/64/df/9a/53444865251803b4/abw_leage_of_veterans_original.jpg?hash=c1cabeebbd87ccb9c009e1698efb32881da1e0fe92d80bcf5d4f76460b9b7a9e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1557
+    ],
+    "exSpouses": [],
+    "children": [
+      4120,
+      4121
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F953"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1557,
+        "unionId": "F953",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4120,
+        "unionId": "F953",
+        "type": "biological"
+      },
+      {
+        "id": 4121,
+        "unionId": "F953",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000073046364003@",
+    "geniId": "6000000073046364003",
+    "rfn": "geni:6000000073046364003",
+    "changed": "06 FEB 2024"
+  },
+  "page": {
+    "route": "people/4119/",
+    "canonical": "https://www.genepedia.org/people/4119/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

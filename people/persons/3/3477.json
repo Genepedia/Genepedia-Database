@@ -1,0 +1,112 @@
+{
+  "id": 3477,
+  "schema": "genepedia/person@1",
+  "slug": "cecilia-magdalena-lombard",
+  "names": {
+    "display": "Cecilia Magdalena Lombard",
+    "given": "Cecilia Magdalena",
+    "surname": "Lombard",
+    "married": "Martins",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT OCT 1809",
+      "year": 1809,
+      "iso": "1809-10",
+      "precision": "about",
+      "display": "about October 1809",
+      "place": null
+    },
+    "death": {
+      "date": "15 SEP 1862",
+      "year": 1862,
+      "iso": "1862-09-15",
+      "precision": "exact",
+      "display": "September 15, 1862",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3466,
+      3467
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3468,
+      3469,
+      3470,
+      3471,
+      3472,
+      3473,
+      3474,
+      3475,
+      3476,
+      3478,
+      3479,
+      1384,
+      3480,
+      3481
+    ],
+    "parentUnions": [
+      "F855"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3466,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3467,
+        "unionId": "F855",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052015115839@",
+    "geniId": "6000000052015115839",
+    "rfn": "geni:6000000052015115839",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3477/",
+    "canonical": "https://www.genepedia.org/people/3477/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

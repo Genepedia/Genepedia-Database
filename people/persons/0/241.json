@@ -1,0 +1,146 @@
+{
+  "id": 241,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-elizabeth-van-niekerk",
+  "names": {
+    "display": "Johanna Elizabeth van Niekerk",
+    "given": "Johanna Elizabeth",
+    "surname": "van Niekerk",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1897",
+      "year": 1897,
+      "iso": "1897",
+      "precision": "exact",
+      "display": "1897",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p5/5860/5088/5344483693d42505/aunt_rien_se_ma_original.jpg?hash=934f6f6b63a0d2861b86a87138f1f651c39d76b34aad12a070b0531cdb9fc55d.1789455599",
+      "alt": "Johanna Elizabeth van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p5/5860/5088/5344483693d42505/aunt_rien_se_ma_original.jpg?hash=934f6f6b63a0d2861b86a87138f1f651c39d76b34aad12a070b0531cdb9fc55d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      239,
+      238
+    ],
+    "spouses": [
+      634
+    ],
+    "exSpouses": [],
+    "children": [
+      635,
+      636,
+      637,
+      638
+    ],
+    "siblings": [
+      240,
+      242,
+      243,
+      244,
+      79,
+      245,
+      246
+    ],
+    "parentUnions": [
+      "F77"
+    ],
+    "spouseUnions": [
+      "F177"
+    ],
+    "parentLinks": [
+      {
+        "id": 239,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 238,
+        "unionId": "F77",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 634,
+        "unionId": "F177",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 635,
+        "unionId": "F177",
+        "type": "biological"
+      },
+      {
+        "id": 636,
+        "unionId": "F177",
+        "type": "biological"
+      },
+      {
+        "id": 637,
+        "unionId": "F177",
+        "type": "biological"
+      },
+      {
+        "id": 638,
+        "unionId": "F177",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002496725043@",
+    "geniId": "6000000002496725043",
+    "rfn": "geni:6000000002496725043",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/241/",
+    "canonical": "https://www.genepedia.org/people/241/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

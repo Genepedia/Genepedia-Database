@@ -1,0 +1,90 @@
+{
+  "id": 2832,
+  "schema": "genepedia/person@1",
+  "slug": "sussie-naude",
+  "names": {
+    "display": "(Sussie) Naudé",
+    "given": "(Sussie)",
+    "surname": "Naudé",
+    "married": "Naudé",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2827,
+      1145
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2828,
+      2829,
+      2830,
+      2831,
+      2833,
+      2834
+    ],
+    "parentUnions": [
+      "F700"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2827,
+        "unionId": "F700",
+        "type": "biological"
+      },
+      {
+        "id": 1145,
+        "unionId": "F700",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024815934915@",
+    "geniId": "6000000024815934915",
+    "rfn": "geni:6000000024815934915",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/2832/",
+    "canonical": "https://www.genepedia.org/people/2832/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

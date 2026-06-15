@@ -1,0 +1,88 @@
+{
+  "id": 1691,
+  "schema": "genepedia/person@1",
+  "slug": "profile-1691",
+  "names": {
+    "display": "",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1688,
+      679
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1689,
+      1690,
+      1692,
+      1693
+    ],
+    "parentUnions": [
+      "F438"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1688,
+        "unionId": "F438",
+        "type": "biological"
+      },
+      {
+        "id": 679,
+        "unionId": "F438",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000185615728162@",
+    "geniId": "6000000185615728162",
+    "rfn": "geni:6000000185615728162",
+    "changed": "20 JUN 2022"
+  },
+  "page": {
+    "route": "people/1691/",
+    "canonical": "https://www.genepedia.org/people/1691/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

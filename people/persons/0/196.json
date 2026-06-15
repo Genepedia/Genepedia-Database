@@ -1,0 +1,90 @@
+{
+  "id": 196,
+  "schema": "genepedia/person@1",
+  "slug": "kobus-schoeman",
+  "names": {
+    "display": "Kobus Schoeman",
+    "given": "Kobus",
+    "surname": "Schoeman",
+    "married": "Schoeman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ca/3f/9c/93/5344486664794e65/screenshot_2024-08-15_103610_original.jpg?hash=0b3b0a319d003aa0359ed53b311dac2914bcafcc35268cc06e78b4e19243f566.1789455599",
+      "alt": "Kobus Schoeman"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ca/3f/9c/93/5344486664794e65/screenshot_2024-08-15_103610_original.jpg?hash=0b3b0a319d003aa0359ed53b311dac2914bcafcc35268cc06e78b4e19243f566.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      58
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F61",
+      "F152"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 58,
+        "unionId": "F61",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208174081823@",
+    "geniId": "6000000208174081823",
+    "rfn": "geni:6000000208174081823",
+    "changed": "15 AUG 2024"
+  },
+  "page": {
+    "route": "people/196/",
+    "canonical": "https://www.genepedia.org/people/196/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

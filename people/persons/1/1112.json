@@ -1,0 +1,105 @@
+{
+  "id": 1112,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-carolina-fourie",
+  "names": {
+    "display": "Gertruida Carolina Fourie",
+    "given": "Gertruida Carolina",
+    "surname": "Fourie",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": [
+      "Fourie"
+    ]
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      439,
+      449
+    ],
+    "spouses": [
+      2751
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1110,
+      1111,
+      1113,
+      1114,
+      1115,
+      1116,
+      1117,
+      1118,
+      1119
+    ],
+    "parentUnions": [
+      "F295"
+    ],
+    "spouseUnions": [
+      "F676"
+    ],
+    "parentLinks": [
+      {
+        "id": 439,
+        "unionId": "F295",
+        "type": "biological"
+      },
+      {
+        "id": 449,
+        "unionId": "F295",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2751,
+        "unionId": "F676",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056970327841@",
+    "geniId": "6000000056970327841",
+    "rfn": "geni:6000000056970327841",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1112/",
+    "canonical": "https://www.genepedia.org/people/1112/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1837,
+  "schema": "genepedia/person@1",
+  "slug": "eksteen-1837",
+  "names": {
+    "display": "? Eksteen",
+    "given": "?",
+    "surname": "Eksteen",
+    "married": "Eksteen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1835,
+      797
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1836
+    ],
+    "parentUnions": [
+      "F487"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1835,
+        "unionId": "F487",
+        "type": "biological"
+      },
+      {
+        "id": 797,
+        "unionId": "F487",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207953449897@",
+    "geniId": "6000000207953449897",
+    "rfn": "geni:6000000207953449897",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/1837/",
+    "canonical": "https://www.genepedia.org/people/1837/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

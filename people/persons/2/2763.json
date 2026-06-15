@@ -1,0 +1,119 @@
+{
+  "id": 2763,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-jurie-hendrik-scheepers",
+  "names": {
+    "display": "Johannes Petrus Jurie Hendrik Scheepers",
+    "given": "Johannes Petrus Jurie Hendrik",
+    "surname": "Scheepers",
+    "married": "Scheepers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 MAY 1871",
+      "year": 1871,
+      "iso": "1871-05-04",
+      "precision": "exact",
+      "display": "May 4, 1871",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 JAN 1872",
+      "year": 1872,
+      "iso": "1872-01-07",
+      "precision": "exact",
+      "display": "January 7, 1872",
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "8750",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2759,
+      2760
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1120,
+      2761,
+      2762,
+      2764,
+      2765
+    ],
+    "parentUnions": [
+      "F683"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2759,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2760,
+        "unionId": "F683",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000195987340863@",
+    "geniId": "6000000195987340863",
+    "rfn": "geni:6000000195987340863",
+    "changed": "03 JUL 2023"
+  },
+  "page": {
+    "route": "people/2763/",
+    "canonical": "https://www.genepedia.org/people/2763/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

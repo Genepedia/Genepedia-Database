@@ -1,0 +1,84 @@
+{
+  "id": 4340,
+  "schema": "genepedia/person@1",
+  "slug": "agnes-morin",
+  "names": {
+    "display": "Agnes Morin",
+    "given": "Agnes",
+    "surname": "Morin",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1883",
+      "year": 1883,
+      "iso": "1883",
+      "precision": "exact",
+      "display": "1883",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1661
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1021"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1661,
+        "unionId": "F1021",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000185615726927@",
+    "geniId": "6000000185615726927",
+    "rfn": "geni:6000000185615726927",
+    "changed": "20 JUN 2022"
+  },
+  "page": {
+    "route": "people/4340/",
+    "canonical": "https://www.genepedia.org/people/4340/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

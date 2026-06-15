@@ -1,0 +1,102 @@
+{
+  "id": 3111,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-benjamin-de-villiers",
+  "names": {
+    "display": "Pieter Benjamin de Villiers",
+    "given": "Pieter Benjamin",
+    "surname": "de Villiers",
+    "married": "de Villiers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 OCT 1912",
+      "year": 1912,
+      "iso": "1912-10-04",
+      "precision": "exact",
+      "display": "October 4, 1912",
+      "place": null
+    },
+    "death": {
+      "date": "15 OCT 1974",
+      "year": 1974,
+      "iso": "1974-10-15",
+      "precision": "exact",
+      "display": "October 15, 1974",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3109,
+      1254
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3110,
+      3112,
+      3113,
+      3114
+    ],
+    "parentUnions": [
+      "F771"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3109,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 1254,
+        "unionId": "F771",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026464670718@",
+    "geniId": "6000000026464670718",
+    "rfn": "geni:6000000026464670718",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3111/",
+    "canonical": "https://www.genepedia.org/people/3111/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

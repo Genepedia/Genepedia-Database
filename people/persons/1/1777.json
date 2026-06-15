@@ -1,0 +1,137 @@
+{
+  "id": 1777,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-eugen-malchin",
+  "names": {
+    "display": "Johannes Eugen Malchin",
+    "given": "Johannes Eugen",
+    "surname": "Malchin",
+    "married": "Malchin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 JUL 1880",
+      "year": 1880,
+      "iso": "1880-07-30",
+      "precision": "exact",
+      "display": "July 30, 1880",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/5a/43/76/9b/53444868aad49675/jpg_9__original.jpg?hash=7d68a2c6de42d6814d59423923e11ae3ae32325c5f3f7a29557602051b5f2f80.1789455599",
+      "alt": "Johannes Eugen Malchin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/5a/43/76/9b/53444868aad49675/jpg_9__original.jpg?hash=7d68a2c6de42d6814d59423923e11ae3ae32325c5f3f7a29557602051b5f2f80.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1774,
+      1775
+    ],
+    "spouses": [
+      4526
+    ],
+    "exSpouses": [],
+    "children": [
+      4527,
+      4528,
+      4529
+    ],
+    "siblings": [
+      1776,
+      736,
+      1778,
+      1779
+    ],
+    "parentUnions": [
+      "F465"
+    ],
+    "spouseUnions": [
+      "F1077"
+    ],
+    "parentLinks": [
+      {
+        "id": 1774,
+        "unionId": "F465",
+        "type": "biological"
+      },
+      {
+        "id": 1775,
+        "unionId": "F465",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4526,
+        "unionId": "F1077",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4527,
+        "unionId": "F1077",
+        "type": "biological"
+      },
+      {
+        "id": 4528,
+        "unionId": "F1077",
+        "type": "biological"
+      },
+      {
+        "id": 4529,
+        "unionId": "F1077",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217943110842@",
+    "geniId": "6000000217943110842",
+    "rfn": "geni:6000000217943110842",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/1777/",
+    "canonical": "https://www.genepedia.org/people/1777/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

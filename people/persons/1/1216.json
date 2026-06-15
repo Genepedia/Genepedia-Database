@@ -1,0 +1,140 @@
+{
+  "id": 1216,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-martha-vermaak",
+  "names": {
+    "display": "Elizabeth Martha Vermaak",
+    "given": "Elizabeth Martha",
+    "surname": "Steenkamp",
+    "married": "Vermaak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "14 OCT 1956",
+      "year": 1956,
+      "iso": "1956-10-14",
+      "precision": "exact",
+      "display": "October 14, 1956",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "13 JAN 1957",
+      "year": 1957,
+      "iso": "1957-01-13",
+      "precision": "exact",
+      "display": "January 13, 1957",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      492,
+      1215
+    ],
+    "spouses": [
+      3041
+    ],
+    "exSpouses": [],
+    "children": [
+      3042,
+      3043
+    ],
+    "siblings": [
+      1217,
+      1218
+    ],
+    "parentUnions": [
+      "F314"
+    ],
+    "spouseUnions": [
+      "F745"
+    ],
+    "parentLinks": [
+      {
+        "id": 492,
+        "unionId": "F314",
+        "type": "biological"
+      },
+      {
+        "id": 1215,
+        "unionId": "F314",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3041,
+        "unionId": "F745",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3042,
+        "unionId": "F745",
+        "type": "biological"
+      },
+      {
+        "id": 3043,
+        "unionId": "F745",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209123560821@",
+    "geniId": "6000000209123560821",
+    "rfn": "geni:6000000209123560821",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/1216/",
+    "canonical": "https://www.genepedia.org/people/1216/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": 4300,
+  "schema": "genepedia/person@1",
+  "slug": "malan",
+  "names": {
+    "display": "? Malan",
+    "given": "?",
+    "surname": "Malan",
+    "married": "Malan",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1626
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1011"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1626,
+        "unionId": "F1011",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207081282822@",
+    "geniId": "6000000207081282822",
+    "rfn": "geni:6000000207081282822",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/4300/",
+    "canonical": "https://www.genepedia.org/people/4300/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

@@ -1,0 +1,93 @@
+{
+  "id": 3340,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-van-schalkwyk",
+  "names": {
+    "display": "Martha Maria van Schalkwyk",
+    "given": "Martha Maria",
+    "surname": "Van Schalkwyk",
+    "married": "van Schalkwyk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "21 MAY 1960",
+      "year": 1960,
+      "iso": "1960-05-21",
+      "precision": "exact",
+      "display": "May 21, 1960",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3338,
+      1318
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3339,
+      3341
+    ],
+    "parentUnions": [
+      "F818"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3338,
+        "unionId": "F818",
+        "type": "biological"
+      },
+      {
+        "id": 1318,
+        "unionId": "F818",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228137299@",
+    "geniId": "6000000027228137299",
+    "rfn": "geni:6000000027228137299",
+    "changed": "11 MAR 2015"
+  },
+  "page": {
+    "route": "people/3340/",
+    "canonical": "https://www.genepedia.org/people/3340/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

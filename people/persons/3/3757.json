@@ -1,0 +1,105 @@
+{
+  "id": 3757,
+  "schema": "genepedia/person@1",
+  "slug": "gert-matthys-jacobus-stoman",
+  "names": {
+    "display": "Gert Matthys Jacobus Stoman",
+    "given": "Gert Matthys Jacobus",
+    "surname": "Stoman",
+    "married": "Stoman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 OCT 1843",
+      "year": 1843,
+      "iso": "1843-10-10",
+      "precision": "exact",
+      "display": "October 10, 1843",
+      "place": null
+    },
+    "death": {
+      "date": "13 MAR 1923",
+      "year": 1923,
+      "iso": "1923-03-13",
+      "precision": "exact",
+      "display": "March 13, 1923",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3755,
+      3754
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3756,
+      1434,
+      3758,
+      3759,
+      3760,
+      3761,
+      3762
+    ],
+    "parentUnions": [
+      "F899"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3755,
+        "unionId": "F899",
+        "type": "biological"
+      },
+      {
+        "id": 3754,
+        "unionId": "F899",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041854672655@",
+    "geniId": "6000000041854672655",
+    "rfn": "geni:6000000041854672655",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3757/",
+    "canonical": "https://www.genepedia.org/people/3757/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

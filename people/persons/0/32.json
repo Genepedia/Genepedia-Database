@@ -1,0 +1,139 @@
+{
+  "id": 32,
+  "schema": "genepedia/person@1",
+  "slug": "kimaine-ulaine-diane-edwards",
+  "names": {
+    "display": "Kimaine Ulaine Diane Edwards",
+    "given": "Kimaine Ulaine Diane",
+    "surname": "Edwards",
+    "married": "Olivier",
+    "nick": "Kimmy",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "8 DEC 1999",
+      "year": 1999,
+      "iso": "1999-12-08",
+      "precision": "exact",
+      "display": "December 8, 1999",
+      "place": "Universitas Hospital, Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Universitas Hospital, Bloemfontein, Free-State, South Africa",
+        "placeName": "Universitas Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/0c/0a/30/a1/534448656f6e0b06/screenshot_2024-03-13_213405_original.jpg?hash=537c7e948039972763767dca158d5ed6acace04054120c949b931c43bed27c3d.1789455599",
+      "alt": "Kimaine Ulaine Diane Edwards"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/0c/0a/30/a1/534448656f6e0b06/screenshot_2024-03-13_213405_original.jpg?hash=537c7e948039972763767dca158d5ed6acace04054120c949b931c43bed27c3d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      31,
+      5
+    ],
+    "spouses": [
+      105
+    ],
+    "exSpouses": [],
+    "children": [
+      106
+    ],
+    "siblings": [
+      33,
+      34
+    ],
+    "parentUnions": [
+      "F11"
+    ],
+    "spouseUnions": [
+      "F38"
+    ],
+    "parentLinks": [
+      {
+        "id": 31,
+        "unionId": "F11",
+        "type": "biological"
+      },
+      {
+        "id": 5,
+        "unionId": "F11",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 105,
+        "unionId": "F38",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 106,
+        "unionId": "F38",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204014158858@",
+    "geniId": "6000000204014158858",
+    "rfn": "geni:6000000204014158858",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/32/",
+    "canonical": "https://www.genepedia.org/people/32/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

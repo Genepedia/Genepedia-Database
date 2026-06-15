@@ -1,0 +1,83 @@
+{
+  "id": 3699,
+  "schema": "genepedia/person@1",
+  "slug": "maryna-elizabeth",
+  "names": {
+    "display": "Maryna Elizabeth",
+    "given": "Maryna Elizabeth",
+    "surname": "Schrickker",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3698,
+      1414
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F886"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3698,
+        "unionId": "F886",
+        "type": "biological"
+      },
+      {
+        "id": 1414,
+        "unionId": "F886",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000038285406305@",
+    "geniId": "6000000038285406305",
+    "rfn": "geni:6000000038285406305",
+    "changed": "18 SEP 2021"
+  },
+  "page": {
+    "route": "people/3699/",
+    "canonical": "https://www.genepedia.org/people/3699/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

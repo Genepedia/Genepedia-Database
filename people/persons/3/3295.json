@@ -1,0 +1,77 @@
+{
+  "id": 3295,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-mouton",
+  "names": {
+    "display": "Pieter Mouton",
+    "given": "Pieter",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1307
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F809"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1307,
+        "unionId": "F809",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000150405369011@",
+    "geniId": "6000000150405369011",
+    "rfn": "geni:6000000150405369011",
+    "changed": "07 SEP 2020"
+  },
+  "page": {
+    "route": "people/3295/",
+    "canonical": "https://www.genepedia.org/people/3295/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

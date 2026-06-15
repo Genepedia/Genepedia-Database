@@ -1,0 +1,141 @@
+{
+  "id": 4642,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-johanna-christina-brits",
+  "names": {
+    "display": "Magdalena Johanna Christina Brits",
+    "given": "Magdalena Johanna Christina",
+    "surname": "Brits",
+    "married": "Theron",
+    "nick": "Catharina",
+    "aliases": [
+      "Magdalena J Brits"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 MAR 1847",
+      "year": 1847,
+      "iso": "1847-03-01",
+      "precision": "exact",
+      "display": "March 1, 1847",
+      "place": null
+    },
+    "death": {
+      "date": "2 JUN 1881",
+      "year": 1881,
+      "iso": "1881-06-02",
+      "precision": "exact",
+      "display": "June 2, 1881",
+      "place": "Jacobsdal, Free State, South Africa",
+      "location": {
+        "label": "Jacobsdal, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Jacobsdal",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/68/da/49/67/5344484b845135a6/1901_britstown_original.jpg?hash=6008ef5d8fc3fbf63fdd2095a7147b9ff6920e954a4a00ca90b2db056ae07136.1789455599",
+      "alt": "Magdalena Johanna Christina Brits"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/68/da/49/67/5344484b845135a6/1901_britstown_original.jpg?hash=6008ef5d8fc3fbf63fdd2095a7147b9ff6920e954a4a00ca90b2db056ae07136.1789455599",
+        "form": "",
+        "title": "1901 Britstown. LIEBENBERG Magdalena Johanna Catharina. Sterfkennis.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1855
+    ],
+    "exSpouses": [],
+    "children": [
+      4643,
+      4644,
+      4645
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1109"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1855,
+        "unionId": "F1109",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4643,
+        "unionId": "F1109",
+        "type": "biological"
+      },
+      {
+        "id": 4644,
+        "unionId": "F1109",
+        "type": "biological"
+      },
+      {
+        "id": 4645,
+        "unionId": "F1109",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027082129863@",
+    "geniId": "6000000027082129863",
+    "rfn": "geni:6000000027082129863",
+    "changed": "05 APR 2023"
+  },
+  "page": {
+    "route": "people/4642/",
+    "canonical": "https://www.genepedia.org/people/4642/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

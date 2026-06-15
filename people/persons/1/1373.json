@@ -1,0 +1,83 @@
+{
+  "id": 1373,
+  "schema": "genepedia/person@1",
+  "slug": "profile-1373",
+  "names": {
+    "display": "? ?",
+    "given": "?",
+    "surname": "Theron",
+    "married": "?",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      559,
+      1372
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F353"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 559,
+        "unionId": "F353",
+        "type": "biological"
+      },
+      {
+        "id": 1372,
+        "unionId": "F353",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206532340821@",
+    "geniId": "6000000206532340821",
+    "rfn": "geni:6000000206532340821",
+    "changed": "28 JUN 2024"
+  },
+  "page": {
+    "route": "people/1373/",
+    "canonical": "https://www.genepedia.org/people/1373/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

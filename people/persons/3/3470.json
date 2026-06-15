@@ -1,0 +1,105 @@
+{
+  "id": 3470,
+  "schema": "genepedia/person@1",
+  "slug": "anna-johanna-lombard",
+  "names": {
+    "display": "Anna Johanna Lombard",
+    "given": "Anna Johanna",
+    "surname": "Lombard",
+    "married": "Lombard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 1803",
+      "year": 1803,
+      "iso": "1803",
+      "precision": "before",
+      "display": "before 1803",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3466,
+      3467
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3468,
+      3469,
+      3471,
+      3472,
+      3473,
+      3474,
+      3475,
+      3476,
+      3477,
+      3478,
+      3479,
+      1384,
+      3480,
+      3481
+    ],
+    "parentUnions": [
+      "F855"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3466,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3467,
+        "unionId": "F855",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000034183344846@",
+    "geniId": "6000000034183344846",
+    "rfn": "geni:6000000034183344846",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3470/",
+    "canonical": "https://www.genepedia.org/people/3470/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

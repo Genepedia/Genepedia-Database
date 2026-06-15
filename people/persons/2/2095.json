@@ -1,0 +1,140 @@
+{
+  "id": 2095,
+  "schema": "genepedia/person@1",
+  "slug": "maria-jacoba-van-der-walt",
+  "names": {
+    "display": "Maria Jacoba van der Walt",
+    "given": "Maria Jacoba",
+    "surname": "van der Walt",
+    "married": "Juyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 SEP 1899",
+      "year": 1899,
+      "iso": "1899-09-21",
+      "precision": "exact",
+      "display": "September 21, 1899",
+      "place": "Middelburg, Eastern Cape, South Africa",
+      "location": {
+        "label": "Middelburg, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 MAR 1991",
+      "year": 1991,
+      "iso": "1991-03-28",
+      "precision": "exact",
+      "display": "March 28, 1991",
+      "place": "Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Pretoria, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2086,
+      2087
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2088,
+      2089,
+      2090,
+      2091,
+      2092,
+      2093,
+      2094,
+      862
+    ],
+    "parentUnions": [
+      "F545"
+    ],
+    "spouseUnions": [
+      "F1288"
+    ],
+    "parentLinks": [
+      {
+        "id": 2086,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 2087,
+        "unionId": "F545",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025580132854@",
+    "geniId": "6000000025580132854",
+    "rfn": "geni:6000000025580132854",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2095/",
+    "canonical": "https://www.genepedia.org/people/2095/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

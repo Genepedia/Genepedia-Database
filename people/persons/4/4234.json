@@ -1,0 +1,179 @@
+{
+  "id": 4234,
+  "schema": "genepedia/person@1",
+  "slug": "anna-sophia-jacobs",
+  "names": {
+    "display": "Anna Sophia Jacobs",
+    "given": "Anna Sophia",
+    "surname": "Jacobs",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 FEB 1835",
+      "year": 1835,
+      "iso": "1835-02-16",
+      "precision": "exact",
+      "display": "February 16, 1835",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 OCT 1879",
+      "year": 1879,
+      "iso": "1879-10-12",
+      "precision": "exact",
+      "display": "October 12, 1879",
+      "place": "Baviaanskrans, Heilbron, Free State, South Africa",
+      "location": {
+        "label": "Baviaanskrans, Heilbron, Free State, South Africa",
+        "placeName": "Baviaanskrans",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Heilbron",
+        "postalCode": "9650",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/8c/a8/6e/c1/5344484a517b8e92/anna_sophia_de_beer_jacobs_1_original.jpg?hash=c0e0ee8a40e92532512da98d057cb9babea9183aaa048609d9d1ee8d499c4b3f.1789455599",
+      "alt": "Anna Sophia Jacobs"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/8c/a8/6e/c1/5344484a517b8e92/anna_sophia_de_beer_jacobs_1_original.jpg?hash=c0e0ee8a40e92532512da98d057cb9babea9183aaa048609d9d1ee8d499c4b3f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1606
+    ],
+    "exSpouses": [],
+    "children": [
+      4235,
+      4236,
+      4237,
+      4238,
+      4239,
+      4240,
+      4241
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F995"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1606,
+        "unionId": "F995",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4235,
+        "unionId": "F995",
+        "type": "biological"
+      },
+      {
+        "id": 4236,
+        "unionId": "F995",
+        "type": "biological"
+      },
+      {
+        "id": 4237,
+        "unionId": "F995",
+        "type": "biological"
+      },
+      {
+        "id": 4238,
+        "unionId": "F995",
+        "type": "biological"
+      },
+      {
+        "id": 4239,
+        "unionId": "F995",
+        "type": "biological"
+      },
+      {
+        "id": 4240,
+        "unionId": "F995",
+        "type": "biological"
+      },
+      {
+        "id": 4241,
+        "unionId": "F995",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000087594119935@",
+    "geniId": "6000000087594119935",
+    "rfn": "geni:6000000087594119935",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/4234/",
+    "canonical": "https://www.genepedia.org/people/4234/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

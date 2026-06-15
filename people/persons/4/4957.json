@@ -1,0 +1,118 @@
+{
+  "id": 4957,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-charlotta-smith",
+  "names": {
+    "display": "Rachel Charlotta Smith",
+    "given": "Rachel Charlotta",
+    "surname": "Smith",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 NOV 1906",
+      "year": 1906,
+      "iso": "1906-11-10",
+      "precision": "exact",
+      "display": "November 10, 1906",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 JAN 1907",
+      "year": 1907,
+      "iso": "1907-01-06",
+      "precision": "exact",
+      "display": "January 6, 1907",
+      "place": "Trompsburg, Free State, South Africa",
+      "location": {
+        "label": "Trompsburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Trompsburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4955,
+      1925
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4956,
+      4958,
+      4959,
+      4960
+    ],
+    "parentUnions": [
+      "F1176"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4955,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 1925,
+        "unionId": "F1176",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089488806431@",
+    "geniId": "6000000089488806431",
+    "rfn": "geni:6000000089488806431",
+    "changed": "19 MAR 2019"
+  },
+  "page": {
+    "route": "people/4957/",
+    "canonical": "https://www.genepedia.org/people/4957/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

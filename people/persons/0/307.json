@@ -1,0 +1,173 @@
+{
+  "id": 307,
+  "schema": "genepedia/person@1",
+  "slug": "vimbai-mupombwa",
+  "names": {
+    "display": "Vimbai Mupombwa",
+    "given": "Vimbai",
+    "surname": "Mupombwa",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "28 FEB 1976",
+      "year": 1976,
+      "iso": "1976-02-28",
+      "precision": "exact",
+      "display": "February 28, 1976",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/34/ea/03/25/534448663c854b18/screenshot_2024-07-21_191937_original.jpg?hash=994b620a8bae767f14bb0783c010adba236218e948478b07817e180cfdc49cbb.1789455599",
+      "alt": "Vimbai Mupombwa"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/34/ea/03/25/534448663c854b18/screenshot_2024-07-21_191937_original.jpg?hash=994b620a8bae767f14bb0783c010adba236218e948478b07817e180cfdc49cbb.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      785,
+      784
+    ],
+    "spouses": [
+      113,
+      779,
+      781
+    ],
+    "exSpouses": [],
+    "children": [
+      308,
+      780,
+      782,
+      783
+    ],
+    "siblings": [
+      786,
+      787,
+      788,
+      789
+    ],
+    "parentUnions": [
+      "F218"
+    ],
+    "spouseUnions": [
+      "F99",
+      "F216",
+      "F217"
+    ],
+    "parentLinks": [
+      {
+        "id": 785,
+        "unionId": "F218",
+        "type": "biological"
+      },
+      {
+        "id": 784,
+        "unionId": "F218",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 113,
+        "unionId": "F99",
+        "role": "partner"
+      },
+      {
+        "id": 779,
+        "unionId": "F216",
+        "role": "partner"
+      },
+      {
+        "id": 781,
+        "unionId": "F217",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 308,
+        "unionId": "F99",
+        "type": "biological"
+      },
+      {
+        "id": 780,
+        "unionId": "F216",
+        "type": "biological"
+      },
+      {
+        "id": 782,
+        "unionId": "F217",
+        "type": "biological"
+      },
+      {
+        "id": 783,
+        "unionId": "F217",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207500538845@",
+    "geniId": "6000000207500538845",
+    "rfn": "geni:6000000207500538845",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/307/",
+    "canonical": "https://www.genepedia.org/people/307/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

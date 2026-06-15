@@ -1,0 +1,92 @@
+{
+  "id": 3102,
+  "schema": "genepedia/person@1",
+  "slug": "profile-3102",
+  "names": {
+    "display": "",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3098,
+      3097
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3099,
+      3100,
+      1240,
+      3101
+    ],
+    "parentUnions": [
+      "F767"
+    ],
+    "spouseUnions": [
+      "F1920",
+      "F1921",
+      "F1922"
+    ],
+    "parentLinks": [
+      {
+        "id": 3098,
+        "unionId": "F767",
+        "type": "biological"
+      },
+      {
+        "id": 3097,
+        "unionId": "F767",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000082950771887@",
+    "geniId": "6000000082950771887",
+    "rfn": "geni:6000000082950771887",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3102/",
+    "canonical": "https://www.genepedia.org/people/3102/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

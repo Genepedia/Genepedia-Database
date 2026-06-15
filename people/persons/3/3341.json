@@ -1,0 +1,100 @@
+{
+  "id": 3341,
+  "schema": "genepedia/person@1",
+  "slug": "willem-johannes-van-schalkwyk",
+  "names": {
+    "display": "Willem Johannes Van Schalkwyk",
+    "given": "Willem Johannes",
+    "surname": "Van Schalkwyk",
+    "married": "Van Schalkwyk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 JUL 1963",
+      "year": 1963,
+      "iso": "1963-07-17",
+      "precision": "exact",
+      "display": "July 17, 1963",
+      "place": null
+    },
+    "death": {
+      "date": "11 JUL 2002",
+      "year": 2002,
+      "iso": "2002-07-11",
+      "precision": "exact",
+      "display": "July 11, 2002",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3338,
+      1318
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3339,
+      3340
+    ],
+    "parentUnions": [
+      "F818"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3338,
+        "unionId": "F818",
+        "type": "biological"
+      },
+      {
+        "id": 1318,
+        "unionId": "F818",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227249077@",
+    "geniId": "6000000027227249077",
+    "rfn": "geni:6000000027227249077",
+    "changed": "11 MAR 2015"
+  },
+  "page": {
+    "route": "people/3341/",
+    "canonical": "https://www.genepedia.org/people/3341/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

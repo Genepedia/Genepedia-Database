@@ -1,0 +1,143 @@
+{
+  "id": 4232,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-geertruy-neethling",
+  "names": {
+    "display": "Catharina Geertruy Neethling",
+    "given": "Catharina Geertruy",
+    "surname": "Neethling",
+    "married": "Neethling",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1793",
+      "year": 1793,
+      "iso": "1793",
+      "precision": "about",
+      "display": "about 1793",
+      "place": "Graaff-Reinet dist., Cape of Good Hope, South Africa",
+      "location": {
+        "label": "Graaff-Reinet dist., Cape of Good Hope, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet dist.",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape of Good Hope",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "22 DEC 1793",
+      "year": 1793,
+      "iso": "1793-12-22",
+      "precision": "exact",
+      "display": "December 22, 1793",
+      "place": "Dutch Reformed Church, Graaff-Reinet, Cape of Good Hope, South Africa",
+      "location": {
+        "label": "Dutch Reformed Church, Graaff-Reinet, Cape of Good Hope, South Africa",
+        "placeName": "Dutch Reformed Church",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape of Good Hope",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e7/89/c8/49/534448454f95a5fc/catharina_geertruy_neeteling_baptism_1793_original.jpg?hash=06a2a47d2a957c776261c82187499e6a6695dbf2a2956ac4a6005cee254e311e.1789455599",
+      "alt": "Catharina Geertruy Neethling"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e7/89/c8/49/534448454f95a5fc/catharina_geertruy_neeteling_baptism_1793_original.jpg?hash=06a2a47d2a957c776261c82187499e6a6695dbf2a2956ac4a6005cee254e311e.1789455599",
+        "form": "",
+        "title": "Catharina Geertruy Neeteling baptism 1793.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4233
+    ],
+    "exSpouses": [],
+    "children": [
+      1605
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F994"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4233,
+        "unionId": "F994",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1605,
+        "unionId": "F994",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000023153302986@",
+    "geniId": "6000000023153302986",
+    "rfn": "geni:6000000023153302986",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/4232/",
+    "canonical": "https://www.genepedia.org/people/4232/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

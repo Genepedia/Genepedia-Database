@@ -1,0 +1,130 @@
+{
+  "id": 1640,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-breytenbach",
+  "names": {
+    "display": "Maria Elizabeth Breytenbach",
+    "given": "Maria Elizabeth",
+    "surname": "Breytenbach",
+    "married": "Postma",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1636,
+      1635
+    ],
+    "spouses": [
+      4334
+    ],
+    "exSpouses": [],
+    "children": [
+      4335,
+      4336,
+      4337,
+      4338
+    ],
+    "siblings": [
+      1637,
+      662,
+      1638,
+      1639,
+      1641,
+      1642,
+      1643,
+      1644,
+      1645,
+      1646
+    ],
+    "parentUnions": [
+      "F421"
+    ],
+    "spouseUnions": [
+      "F1018"
+    ],
+    "parentLinks": [
+      {
+        "id": 1636,
+        "unionId": "F421",
+        "type": "biological"
+      },
+      {
+        "id": 1635,
+        "unionId": "F421",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4334,
+        "unionId": "F1018",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4335,
+        "unionId": "F1018",
+        "type": "biological"
+      },
+      {
+        "id": 4336,
+        "unionId": "F1018",
+        "type": "biological"
+      },
+      {
+        "id": 4337,
+        "unionId": "F1018",
+        "type": "biological"
+      },
+      {
+        "id": 4338,
+        "unionId": "F1018",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204859670845@",
+    "geniId": "6000000204859670845",
+    "rfn": "geni:6000000204859670845",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/1640/",
+    "canonical": "https://www.genepedia.org/people/1640/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

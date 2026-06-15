@@ -1,0 +1,88 @@
+{
+  "id": 3078,
+  "schema": "genepedia/person@1",
+  "slug": "goosen",
+  "names": {
+    "display": "? Goosen",
+    "given": "?",
+    "surname": "Meyer",
+    "married": "Goosen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3075,
+      3076
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3077,
+      1231
+    ],
+    "parentUnions": [
+      "F757"
+    ],
+    "spouseUnions": [
+      "F1907"
+    ],
+    "parentLinks": [
+      {
+        "id": 3075,
+        "unionId": "F757",
+        "type": "biological"
+      },
+      {
+        "id": 3076,
+        "unionId": "F757",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207508566821@",
+    "geniId": "6000000207508566821",
+    "rfn": "geni:6000000207508566821",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/3078/",
+    "canonical": "https://www.genepedia.org/people/3078/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2822,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobus-koekemoer-2822",
+  "names": {
+    "display": "Daniel Jacobus Koekemoer",
+    "given": "Daniel Jacobus",
+    "surname": "Koekemoer",
+    "married": "Koekemoer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 FEB 1935",
+      "year": 1935,
+      "iso": "1935-02-18",
+      "precision": "exact",
+      "display": "February 18, 1935",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1142,
+      2821
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F698"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1142,
+        "unionId": "F698",
+        "type": "biological"
+      },
+      {
+        "id": 2821,
+        "unionId": "F698",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000006863152050@",
+    "geniId": "6000000006863152050",
+    "rfn": "geni:6000000006863152050",
+    "changed": "21 JUN 2016"
+  },
+  "page": {
+    "route": "people/2822/",
+    "canonical": "https://www.genepedia.org/people/2822/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

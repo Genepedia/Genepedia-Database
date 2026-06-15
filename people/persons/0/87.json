@@ -1,0 +1,83 @@
+{
+  "id": 87,
+  "schema": "genepedia/person@1",
+  "slug": "tiaan-van-niekerk",
+  "names": {
+    "display": "Tiaan Van Niekerk",
+    "given": "Tiaan",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      23,
+      86
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F31"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 23,
+        "unionId": "F31",
+        "type": "biological"
+      },
+      {
+        "id": 86,
+        "unionId": "F31",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207558270829@",
+    "geniId": "6000000207558270829",
+    "rfn": "geni:6000000207558270829",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/87/",
+    "canonical": "https://www.genepedia.org/people/87/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1618,
+  "schema": "genepedia/person@1",
+  "slug": "elsje-maria-sophia-olivier",
+  "names": {
+    "display": "Elsje Maria Sophia Olivier",
+    "given": "Elsje Maria Sophia",
+    "surname": "Olivier",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 JAN 1879",
+      "year": 1879,
+      "iso": "1879-01-14",
+      "precision": "exact",
+      "display": "January 14, 1879",
+      "place": "Dewetsdorp, Orange Free State, South Africa",
+      "location": {
+        "label": "Dewetsdorp, Orange Free State, South Africa",
+        "placeName": "Dewetsdorp, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 MAY 1953",
+      "year": 1953,
+      "iso": "1953-05-02",
+      "precision": "exact",
+      "display": "May 2, 1953",
+      "place": "Dewetsdorp, Orange Free State, South Africa",
+      "location": {
+        "label": "Dewetsdorp, Orange Free State, South Africa",
+        "placeName": "Dewetsdorp, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4274,
+      4273
+    ],
+    "spouses": [
+      648
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4275
+    ],
+    "parentUnions": [
+      "F1005"
+    ],
+    "spouseUnions": [
+      "F411"
+    ],
+    "parentLinks": [
+      {
+        "id": 4274,
+        "unionId": "F1005",
+        "type": "biological"
+      },
+      {
+        "id": 4273,
+        "unionId": "F1005",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 648,
+        "unionId": "F411",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207333682843@",
+    "geniId": "6000000207333682843",
+    "rfn": "geni:6000000207333682843",
+    "changed": "14 JUL 2024"
+  },
+  "page": {
+    "route": "people/1618/",
+    "canonical": "https://www.genepedia.org/people/1618/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

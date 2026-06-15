@@ -1,0 +1,160 @@
+{
+  "id": 2331,
+  "schema": "genepedia/person@1",
+  "slug": "thomas-john-otto-martin",
+  "names": {
+    "display": "Thomas John Otto Martin",
+    "given": "Thomas John Otto",
+    "surname": "Martin",
+    "married": "Martin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "12 FEB 1929",
+      "year": 1929,
+      "iso": "1929-02-12",
+      "precision": "exact",
+      "display": "February 12, 1929",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "27 MAY 1929",
+      "year": 1929,
+      "iso": "1929-05-27",
+      "precision": "exact",
+      "display": "May 27, 1929",
+      "place": "Bloemfontein",
+      "location": {
+        "label": "Bloemfontein",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/41/eb/32/27/5344485f3b2abca9/record-image_1__original.jpg?hash=15fe3aaf0d1a8044feedc85f81d25ea5eb423a7d47287143837fb3ba62b91810.1789455599",
+      "alt": "Thomas John Otto Martin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/41/eb/32/27/5344485f3b2abca9/record-image_1__original.jpg?hash=15fe3aaf0d1a8044feedc85f81d25ea5eb423a7d47287143837fb3ba62b91810.1789455599",
+        "form": "",
+        "title": "record-image_ trou 1950 .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/70/03/79/6e/534448629dd5bdd6/record-image__original.jpg?hash=0db302de04635767e527a143f216c9d6c35aa306f0153eaeae1993ad99bd3242.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      931
+    ],
+    "exSpouses": [],
+    "children": [
+      2332,
+      2333,
+      2334,
+      2335,
+      2336
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1439"
+    ],
+    "spouseUnions": [
+      "F590"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 931,
+        "unionId": "F590",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2332,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 2333,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 2334,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 2335,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 2336,
+        "unionId": "F590",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000039026317307@",
+    "geniId": "6000000039026317307",
+    "rfn": "geni:6000000039026317307",
+    "changed": "18 FEB 2023"
+  },
+  "page": {
+    "route": "people/2331/",
+    "canonical": "https://www.genepedia.org/people/2331/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

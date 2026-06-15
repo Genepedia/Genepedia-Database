@@ -1,0 +1,226 @@
+{
+  "id": 1853,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-jacobus-theron",
+  "names": {
+    "display": "Gabriel Jacobus Theron",
+    "given": "Gabriel Jacobus",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 AUG 1798",
+      "year": 1798,
+      "iso": "1798-08-22",
+      "precision": "exact",
+      "display": "August 22, 1798",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 APR 1851",
+      "year": 1851,
+      "iso": "1851-04-20",
+      "precision": "exact",
+      "display": "April 20, 1851",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "2 SEP 1798",
+      "year": 1798,
+      "iso": "1798-09-02",
+      "precision": "exact",
+      "display": "September 2, 1798",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/01/6c/ad/a8/53444849b7f32c5a/record-image_s3hy-db5s-ky7_original.jpg?hash=c0bd5514ddc2f2681b6da133a6a77406474df81eac0bd2078e6e314c7740a765.1789455599",
+      "alt": "Gabriel Jacobus Theron"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/01/6c/ad/a8/53444849b7f32c5a/record-image_s3hy-db5s-ky7_original.jpg?hash=c0bd5514ddc2f2681b6da133a6a77406474df81eac0bd2078e6e314c7740a765.1789455599",
+        "form": "",
+        "title": "record-image_S3HY-DB5S-KY7.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4614,
+      4613
+    ],
+    "spouses": [
+      1854
+    ],
+    "exSpouses": [],
+    "children": [
+      811,
+      1855,
+      1856,
+      1857,
+      1858,
+      1859,
+      1860,
+      1861,
+      1862
+    ],
+    "siblings": [
+      4615,
+      4616,
+      4617,
+      4618,
+      4619,
+      4620,
+      4621,
+      4622,
+      4623,
+      4624,
+      4625
+    ],
+    "parentUnions": [
+      "F1106"
+    ],
+    "spouseUnions": [
+      "F495"
+    ],
+    "parentLinks": [
+      {
+        "id": 4614,
+        "unionId": "F1106",
+        "type": "biological"
+      },
+      {
+        "id": 4613,
+        "unionId": "F1106",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1854,
+        "unionId": "F495",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 811,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1855,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1856,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1857,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1858,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1859,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1860,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1861,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1862,
+        "unionId": "F495",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003256776750@",
+    "geniId": "6000000003256776750",
+    "rfn": "geni:6000000003256776750",
+    "changed": "05 DEC 2018"
+  },
+  "page": {
+    "route": "people/1853/",
+    "canonical": "https://www.genepedia.org/people/1853/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

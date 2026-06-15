@@ -1,0 +1,121 @@
+{
+  "id": 4665,
+  "schema": "genepedia/person@1",
+  "slug": "robert-thomas-theron",
+  "names": {
+    "display": "Robert Thomas Theron",
+    "given": "Robert Thomas",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 OCT 1862",
+      "year": 1862,
+      "iso": "1862-10-26",
+      "precision": "exact",
+      "display": "October 26, 1862",
+      "place": "Hanover",
+      "location": {
+        "label": "Hanover",
+        "placeName": "Hanover",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "2 AUG 1863",
+      "year": 1863,
+      "iso": "1863-08-02",
+      "precision": "exact",
+      "display": "August 2, 1863",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1861,
+      4661
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4662,
+      4663,
+      4664,
+      4666,
+      4667,
+      4668,
+      4669
+    ],
+    "parentUnions": [
+      "F1113"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1861,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4661,
+        "unionId": "F1113",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000023993206982@",
+    "geniId": "6000000023993206982",
+    "rfn": "geni:6000000023993206982",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4665/",
+    "canonical": "https://www.genepedia.org/people/4665/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

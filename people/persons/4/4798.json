@@ -1,0 +1,91 @@
+{
+  "id": 4798,
+  "schema": "genepedia/person@1",
+  "slug": "joey-van-der-sandt",
+  "names": {
+    "display": "Joey Van der Sandt",
+    "given": "Joey",
+    "surname": "Van der Sandt",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1895
+    ],
+    "exSpouses": [],
+    "children": [
+      4799,
+      4800
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1143"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1895,
+        "unionId": "F1143",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4799,
+        "unionId": "F1143",
+        "type": "biological"
+      },
+      {
+        "id": 4800,
+        "unionId": "F1143",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065567802977@",
+    "geniId": "6000000065567802977",
+    "rfn": "geni:6000000065567802977",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/4798/",
+    "canonical": "https://www.genepedia.org/people/4798/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

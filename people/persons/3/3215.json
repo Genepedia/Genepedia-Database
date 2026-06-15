@@ -1,0 +1,86 @@
+{
+  "id": 3215,
+  "schema": "genepedia/person@1",
+  "slug": "maria-cornelia-louisa-van-der-merwe",
+  "names": {
+    "display": "maria cornelia louisa van der Merwe",
+    "given": "maria cornelia louisa",
+    "surname": "van der Merwe",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1290,
+      3212
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3213,
+      3214
+    ],
+    "parentUnions": [
+      "F792"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1290,
+        "unionId": "F792",
+        "type": "biological"
+      },
+      {
+        "id": 3212,
+        "unionId": "F792",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000110452777874@",
+    "geniId": "6000000110452777874",
+    "rfn": "geni:6000000110452777874",
+    "changed": "23 OCT 2019"
+  },
+  "page": {
+    "route": "people/3215/",
+    "canonical": "https://www.genepedia.org/people/3215/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

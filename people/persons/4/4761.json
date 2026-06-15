@@ -1,0 +1,94 @@
+{
+  "id": 4761,
+  "schema": "genepedia/person@1",
+  "slug": "hyletha-maria-bester",
+  "names": {
+    "display": "Hyletha Maria Bester",
+    "given": "Hyletha Maria",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 FEB 1938",
+      "year": 1938,
+      "iso": "1938-02-18",
+      "precision": "exact",
+      "display": "February 18, 1938",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1881,
+      4758
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4759,
+      4760,
+      4762
+    ],
+    "parentUnions": [
+      "F1132"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1881,
+        "unionId": "F1132",
+        "type": "biological"
+      },
+      {
+        "id": 4758,
+        "unionId": "F1132",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066457563971@",
+    "geniId": "6000000066457563971",
+    "rfn": "geni:6000000066457563971",
+    "changed": "04 SEP 2017"
+  },
+  "page": {
+    "route": "people/4761/",
+    "canonical": "https://www.genepedia.org/people/4761/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

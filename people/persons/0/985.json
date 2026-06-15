@@ -1,0 +1,100 @@
+{
+  "id": 985,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-lodewickus-pienaar",
+  "names": {
+    "display": "Johannes Lodewickus Pienaar",
+    "given": "Johannes Lodewickus",
+    "surname": "Pienaar",
+    "married": "Pienaar",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 APR 1927",
+      "year": 1927,
+      "iso": "1927-04-01",
+      "precision": "exact",
+      "display": "April 1, 1927",
+      "place": null
+    },
+    "death": {
+      "date": "1988",
+      "year": 1988,
+      "iso": "1988",
+      "precision": "exact",
+      "display": "1988",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      983,
+      984
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      986,
+      398
+    ],
+    "parentUnions": [
+      "F268"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 983,
+        "unionId": "F268",
+        "type": "biological"
+      },
+      {
+        "id": 984,
+        "unionId": "F268",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000046510374828@",
+    "geniId": "6000000046510374828",
+    "rfn": "geni:6000000046510374828",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/985/",
+    "canonical": "https://www.genepedia.org/people/985/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

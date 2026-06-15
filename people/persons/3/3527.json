@@ -1,0 +1,127 @@
+{
+  "id": 3527,
+  "schema": "genepedia/person@1",
+  "slug": "reinier-hendrik-van-der-ryst",
+  "names": {
+    "display": "Reinier Hendrik Van der Ryst",
+    "given": "Reinier Hendrik",
+    "surname": "Van der Ryst",
+    "married": "Van der Ryst",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 MAY 1868",
+      "year": 1868,
+      "iso": "1868-05-18",
+      "precision": "exact",
+      "display": "May 18, 1868",
+      "place": "Graaff Reinet, EC, South Africa",
+      "location": {
+        "label": "Graaff Reinet, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 MAY 1869",
+      "year": 1869,
+      "iso": "1869-05-03",
+      "precision": "exact",
+      "display": "May 3, 1869",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3525,
+      1389
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3526,
+      3528,
+      3529,
+      3530,
+      3531,
+      3532,
+      3533,
+      3534,
+      3535,
+      3536,
+      3537,
+      3538,
+      3539
+    ],
+    "parentUnions": [
+      "F861"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3525,
+        "unionId": "F861",
+        "type": "biological"
+      },
+      {
+        "id": 1389,
+        "unionId": "F861",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000141406163875@",
+    "geniId": "6000000141406163875",
+    "rfn": "geni:6000000141406163875",
+    "changed": "11 JAN 2022"
+  },
+  "page": {
+    "route": "people/3527/",
+    "canonical": "https://www.genepedia.org/people/3527/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

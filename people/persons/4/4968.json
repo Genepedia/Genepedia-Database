@@ -1,0 +1,178 @@
+{
+  "id": 4968,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-wilhelmus-joachim-strauss",
+  "names": {
+    "display": "Daniel Wilhelmus Joachim Strauss",
+    "given": "Daniel Wilhelmus Joachim",
+    "surname": "Strauss",
+    "married": "Strauss",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JUN 1875",
+      "year": 1875,
+      "iso": "1875-06-23",
+      "precision": "exact",
+      "display": "June 23, 1875",
+      "place": "Trompsburg, Free State, South Africa",
+      "location": {
+        "label": "Trompsburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Trompsburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 JUN 1957",
+      "year": 1957,
+      "iso": "1957-06-15",
+      "precision": "exact",
+      "display": "June 15, 1957",
+      "place": "Ladybrand, Free State, South Africa",
+      "location": {
+        "label": "Ladybrand, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ladybrand",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "16 SEP 1875",
+      "year": 1875,
+      "iso": "1875-09-16",
+      "precision": "exact",
+      "display": "September 16, 1875",
+      "place": "Edenburg, Free State, South Africa",
+      "location": {
+        "label": "Edenburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Edenburg",
+        "postalCode": "9908",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1931
+    ],
+    "exSpouses": [],
+    "children": [
+      4969,
+      4970,
+      4971,
+      4972,
+      4973
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1179"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1931,
+        "unionId": "F1179",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4969,
+        "unionId": "F1179",
+        "type": "biological"
+      },
+      {
+        "id": 4970,
+        "unionId": "F1179",
+        "type": "biological"
+      },
+      {
+        "id": 4971,
+        "unionId": "F1179",
+        "type": "biological"
+      },
+      {
+        "id": 4972,
+        "unionId": "F1179",
+        "type": "biological"
+      },
+      {
+        "id": 4973,
+        "unionId": "F1179",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000036103488968@",
+    "geniId": "6000000036103488968",
+    "rfn": "geni:6000000036103488968",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/4968/",
+    "canonical": "https://www.genepedia.org/people/4968/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

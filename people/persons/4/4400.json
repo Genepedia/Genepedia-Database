@@ -1,0 +1,110 @@
+{
+  "id": 4400,
+  "schema": "genepedia/person@1",
+  "slug": "ernest-lodewyk-corrie-4400",
+  "names": {
+    "display": "Ernest Lodewyk Corrie",
+    "given": "Ernest Lodewyk",
+    "surname": "Corrie",
+    "married": "Corrie",
+    "nick": "Ernst Lodewyk Corrie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1928",
+      "year": 1928,
+      "iso": "1928",
+      "precision": "exact",
+      "display": "1928",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/1f/ba/f0/40/5344483af9040c00/ernest_en_seun_original.jpg?hash=22452144a0843abab2935d2555f802c14de6d3b3aa739b3407ca378c6f986597.1789455599",
+      "alt": "Ernest Lodewyk Corrie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/1f/ba/f0/40/5344483af9040c00/ernest_en_seun_original.jpg?hash=22452144a0843abab2935d2555f802c14de6d3b3aa739b3407ca378c6f986597.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1719,
+      4393
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4394,
+      4395,
+      4396,
+      4397,
+      4398,
+      4399,
+      4401
+    ],
+    "parentUnions": [
+      "F1039"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1719,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4393,
+        "unionId": "F1039",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020763284126@",
+    "geniId": "6000000020763284126",
+    "rfn": "geni:6000000020763284126",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/4400/",
+    "canonical": "https://www.genepedia.org/people/4400/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

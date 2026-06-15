@@ -1,0 +1,85 @@
+{
+  "id": 181,
+  "schema": "genepedia/person@1",
+  "slug": "henry-john-engelbrecht",
+  "names": {
+    "display": "Henry John Engelbrecht",
+    "given": "Henry John",
+    "surname": "Engelbrecht",
+    "married": "Engelbrecht",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      179,
+      46
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      180
+    ],
+    "parentUnions": [
+      "F53"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 179,
+        "unionId": "F53",
+        "type": "biological"
+      },
+      {
+        "id": 46,
+        "unionId": "F53",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204041598842@",
+    "geniId": "6000000204041598842",
+    "rfn": "geni:6000000204041598842",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/181/",
+    "canonical": "https://www.genepedia.org/people/181/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

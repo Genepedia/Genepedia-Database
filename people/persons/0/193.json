@@ -1,0 +1,143 @@
+{
+  "id": 193,
+  "schema": "genepedia/person@1",
+  "slug": "nollie-heymans",
+  "names": {
+    "display": "Nollie Heymans",
+    "given": "Nollie",
+    "surname": "Heymans",
+    "married": "Heymans",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 JAN 1948",
+      "year": 1948,
+      "iso": "1948-01-24",
+      "precision": "exact",
+      "display": "January 24, 1948",
+      "place": null
+    },
+    "death": {
+      "date": "19 OCT 2011",
+      "year": 2011,
+      "iso": "2011-10-19",
+      "precision": "exact",
+      "display": "October 19, 2011",
+      "place": "Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free-State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "9301",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/2b/2f/c3/ee/534448674b51d12d/screenshot_20241206_112843_original.jpg?hash=77226db74aaaf9419eeebb925d6e73baa33fe05439ee1fc169871216fdf16685.1789455599",
+      "alt": "Nollie Heymans"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/2b/2f/c3/ee/534448674b51d12d/screenshot_20241206_112843_original.jpg?hash=77226db74aaaf9419eeebb925d6e73baa33fe05439ee1fc169871216fdf16685.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      520,
+      521
+    ],
+    "spouses": [
+      194
+    ],
+    "exSpouses": [],
+    "children": [
+      54
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F151"
+    ],
+    "spouseUnions": [
+      "F59"
+    ],
+    "parentLinks": [
+      {
+        "id": 520,
+        "unionId": "F151",
+        "type": "biological"
+      },
+      {
+        "id": 521,
+        "unionId": "F151",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 194,
+        "unionId": "F59",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 54,
+        "unionId": "F59",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208166510827@",
+    "geniId": "6000000208166510827",
+    "rfn": "geni:6000000208166510827",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/193/",
+    "canonical": "https://www.genepedia.org/people/193/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

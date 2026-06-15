@@ -1,0 +1,115 @@
+{
+  "id": 1298,
+  "schema": "genepedia/person@1",
+  "slug": "maria-hester-helena-mouton",
+  "names": {
+    "display": "Maria Hester Helena Mouton",
+    "given": "Maria Hester Helena",
+    "surname": "Mouton",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JAN 1891",
+      "year": 1891,
+      "iso": "1891-01-23",
+      "precision": "exact",
+      "display": "January 23, 1891",
+      "place": "Clanwilliam, WC, South Africa",
+      "location": {
+        "label": "Clanwilliam, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "8135",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1292,
+      1291
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1293,
+      1294,
+      1295,
+      1296,
+      1297,
+      1299,
+      1300,
+      537
+    ],
+    "parentUnions": [
+      "F336"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1292,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1291,
+        "unionId": "F336",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107549473075@",
+    "geniId": "6000000107549473075",
+    "rfn": "geni:6000000107549473075",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1298/",
+    "canonical": "https://www.genepedia.org/people/1298/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

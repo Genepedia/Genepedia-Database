@@ -1,0 +1,85 @@
+{
+  "id": 3193,
+  "schema": "genepedia/person@1",
+  "slug": "rosa-le-roux",
+  "names": {
+    "display": "Rosa Le Roux",
+    "given": "Rosa",
+    "surname": "Le Roux",
+    "married": "Le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1280
+    ],
+    "exSpouses": [],
+    "children": [
+      3194
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F786"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1280,
+        "unionId": "F786",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3194,
+        "unionId": "F786",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781791329@",
+    "geniId": "6000000007781791329",
+    "rfn": "geni:6000000007781791329",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/3193/",
+    "canonical": "https://www.genepedia.org/people/3193/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

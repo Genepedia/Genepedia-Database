@@ -1,0 +1,83 @@
+{
+  "id": 1282,
+  "schema": "genepedia/person@1",
+  "slug": "private",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      534,
+      1281
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F333"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 534,
+        "unionId": "F333",
+        "type": "biological"
+      },
+      {
+        "id": 1281,
+        "unionId": "F333",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781224108@",
+    "geniId": "6000000007781224108",
+    "rfn": "geni:6000000007781224108",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/1282/",
+    "canonical": "https://www.genepedia.org/people/1282/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

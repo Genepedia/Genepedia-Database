@@ -1,0 +1,161 @@
+{
+  "id": 256,
+  "schema": "genepedia/person@1",
+  "slug": "vernon-xenophon-smith",
+  "names": {
+    "display": "Vernon Xenophon Smith",
+    "given": "Vernon Xenophon",
+    "surname": "Smith",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 SEP 1929",
+      "year": 1929,
+      "iso": "1929-09-21",
+      "precision": "exact",
+      "display": "September 21, 1929",
+      "place": "Val, Mpumalanga, South Africa",
+      "location": {
+        "label": "Val, Mpumalanga, South Africa",
+        "placeName": "Val",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "14 DEC 2004",
+      "year": 2004,
+      "iso": "2004-12-14",
+      "precision": "exact",
+      "display": "December 14, 2004",
+      "place": "Mpumalanga, South Africa",
+      "location": {
+        "label": "Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      661,
+      662
+    ],
+    "spouses": [
+      257
+    ],
+    "exSpouses": [],
+    "children": [
+      94,
+      258,
+      259
+    ],
+    "siblings": [
+      663
+    ],
+    "parentUnions": [
+      "F187"
+    ],
+    "spouseUnions": [
+      "F81"
+    ],
+    "parentLinks": [
+      {
+        "id": 661,
+        "unionId": "F187",
+        "type": "biological"
+      },
+      {
+        "id": 662,
+        "unionId": "F187",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 257,
+        "unionId": "F81",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 94,
+        "unionId": "F81",
+        "type": "biological"
+      },
+      {
+        "id": 258,
+        "unionId": "F81",
+        "type": "biological"
+      },
+      {
+        "id": 259,
+        "unionId": "F81",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000017524694007@",
+    "geniId": "6000000017524694007",
+    "rfn": "geni:6000000017524694007",
+    "changed": "01 OCT 2015"
+  },
+  "page": {
+    "route": "people/256/",
+    "canonical": "https://www.genepedia.org/people/256/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

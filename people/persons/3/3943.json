@@ -1,0 +1,190 @@
+{
+  "id": 3943,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-gesina-oberholzer",
+  "names": {
+    "display": "Johanna Gesina Oberholzer",
+    "given": "Johanna Gesina",
+    "surname": "Oberholzer",
+    "married": "Kotze",
+    "nick": "Jacobs",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 JUL 1849",
+      "year": 1849,
+      "iso": "1849-07-10",
+      "precision": "exact",
+      "display": "July 10, 1849",
+      "place": "Fauresmith, Orange Free State, South Africa",
+      "location": {
+        "label": "Fauresmith, Orange Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fauresmith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 JAN 1929",
+      "year": 1929,
+      "iso": "1929-01-11",
+      "precision": "exact",
+      "display": "January 11, 1929",
+      "place": "Elandsheuwel, Klerksdorp, Transvaal, South Africa",
+      "location": {
+        "label": "Elandsheuwel, Klerksdorp, Transvaal, South Africa",
+        "placeName": "Elandsheuwel",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "13 AUG 1849",
+      "year": 1849,
+      "iso": "1849-08-13",
+      "precision": "exact",
+      "display": "August 13, 1849",
+      "place": "Fauresmith, Orange Free State, South Africa",
+      "location": {
+        "label": "Fauresmith, Orange Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fauresmith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1534
+    ],
+    "exSpouses": [],
+    "children": [
+      3944,
+      3945,
+      3946,
+      3947,
+      3948,
+      3949,
+      3950
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F929"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1534,
+        "unionId": "F929",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3944,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3945,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3946,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3947,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3948,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3949,
+        "unionId": "F929",
+        "type": "biological"
+      },
+      {
+        "id": 3950,
+        "unionId": "F929",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000184630269821@",
+    "geniId": "6000000184630269821",
+    "rfn": "geni:6000000184630269821",
+    "changed": "21 NOV 2022"
+  },
+  "page": {
+    "route": "people/3943/",
+    "canonical": "https://www.genepedia.org/people/3943/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

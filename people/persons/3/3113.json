@@ -1,0 +1,102 @@
+{
+  "id": 3113,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-weyers-de-villiers-3113",
+  "names": {
+    "display": "Johannes Weyers de Villiers",
+    "given": "Johannes Weyers",
+    "surname": "de Villiers",
+    "married": "de Villiers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 JUL 1917",
+      "year": 1917,
+      "iso": "1917-07-10",
+      "precision": "exact",
+      "display": "July 10, 1917",
+      "place": null
+    },
+    "death": {
+      "date": "22 FEB 2002",
+      "year": 2002,
+      "iso": "2002-02-22",
+      "precision": "exact",
+      "display": "February 22, 2002",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3109,
+      1254
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3110,
+      3111,
+      3112,
+      3114
+    ],
+    "parentUnions": [
+      "F771"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3109,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 1254,
+        "unionId": "F771",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026464675636@",
+    "geniId": "6000000026464675636",
+    "rfn": "geni:6000000026464675636",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3113/",
+    "canonical": "https://www.genepedia.org/people/3113/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1740,
+  "schema": "genepedia/person@1",
+  "slug": "profile-1740",
+  "names": {
+    "display": "?",
+    "given": "?",
+    "surname": "Bester",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1737,
+      724
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1738,
+      1739,
+      1741
+    ],
+    "parentUnions": [
+      "F456"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1737,
+        "unionId": "F456",
+        "type": "biological"
+      },
+      {
+        "id": 724,
+        "unionId": "F456",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206403936871@",
+    "geniId": "6000000206403936871",
+    "rfn": "geni:6000000206403936871",
+    "changed": "10 JUN 2024"
+  },
+  "page": {
+    "route": "people/1740/",
+    "canonical": "https://www.genepedia.org/people/1740/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

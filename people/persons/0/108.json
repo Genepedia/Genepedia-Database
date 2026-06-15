@@ -1,0 +1,93 @@
+{
+  "id": 108,
+  "schema": "genepedia/person@1",
+  "slug": "samuel-joshua-van-der-merwe",
+  "names": {
+    "display": "Samuel Joshua Van Der Merwe",
+    "given": "Samuel Joshua",
+    "surname": "Van Der Merwe",
+    "married": "Van Der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      107,
+      35
+    ],
+    "spouses": [
+      292
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F39"
+    ],
+    "spouseUnions": [
+      "F94"
+    ],
+    "parentLinks": [
+      {
+        "id": 107,
+        "unionId": "F39",
+        "type": "biological"
+      },
+      {
+        "id": 35,
+        "unionId": "F39",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 292,
+        "unionId": "F94",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204016479833@",
+    "geniId": "6000000204016479833",
+    "rfn": "geni:6000000204016479833",
+    "changed": "10 JUN 2024"
+  },
+  "page": {
+    "route": "people/108/",
+    "canonical": "https://www.genepedia.org/people/108/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 3425,
+  "schema": "genepedia/person@1",
+  "slug": "frederik-hugo-visser",
+  "names": {
+    "display": "Frederik Hugo Visser",
+    "given": "Frederik Hugo",
+    "surname": "Visser",
+    "married": "Visser",
+    "nick": "Fredrik",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1849",
+      "year": 1849,
+      "iso": "1849",
+      "precision": "exact",
+      "display": "1849",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3417,
+      3418
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3419,
+      3420,
+      3421,
+      3422,
+      3423,
+      3424,
+      1343,
+      3426,
+      3427,
+      3428
+    ],
+    "parentUnions": [
+      "F838"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3417,
+        "unionId": "F838",
+        "type": "biological"
+      },
+      {
+        "id": 3418,
+        "unionId": "F838",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000006243710901@",
+    "geniId": "6000000006243710901",
+    "rfn": "geni:6000000006243710901",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3425/",
+    "canonical": "https://www.genepedia.org/people/3425/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.197Z"
+}

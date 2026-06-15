@@ -1,0 +1,139 @@
+{
+  "id": 3535,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-adam-van-der-ryst",
+  "names": {
+    "display": "Joseph Adam van der Ryst",
+    "given": "Joseph Adam",
+    "surname": "van der Ryst",
+    "married": "van der Ryst",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 JUL 1880",
+      "year": 1880,
+      "iso": "1880-07-20",
+      "precision": "exact",
+      "display": "July 20, 1880",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1948",
+      "year": 1948,
+      "iso": "1948",
+      "precision": "about",
+      "display": "about 1948",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/37/cf/07/c7/5344484e02a516b8/joseph_adam_original.jpg?hash=11ec63c7ed31c3f098b8c6efdb3d1d1676cbf84c6deaeeecf9d5e24a337d3d9f.1789455599",
+      "alt": "Joseph Adam van der Ryst"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/37/cf/07/c7/5344484e02a516b8/joseph_adam_original.jpg?hash=11ec63c7ed31c3f098b8c6efdb3d1d1676cbf84c6deaeeecf9d5e24a337d3d9f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3525,
+      1389
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3526,
+      3527,
+      3528,
+      3529,
+      3530,
+      3531,
+      3532,
+      3533,
+      3534,
+      3536,
+      3537,
+      3538,
+      3539
+    ],
+    "parentUnions": [
+      "F861"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3525,
+        "unionId": "F861",
+        "type": "biological"
+      },
+      {
+        "id": 1389,
+        "unionId": "F861",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000103453695846@",
+    "geniId": "6000000103453695846",
+    "rfn": "geni:6000000103453695846",
+    "changed": "11 JAN 2022"
+  },
+  "page": {
+    "route": "people/3535/",
+    "canonical": "https://www.genepedia.org/people/3535/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

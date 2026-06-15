@@ -1,0 +1,119 @@
+{
+  "id": 2764,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-maria-magdalena-scheepers",
+  "names": {
+    "display": "Cornelia Maria Magdalena Scheepers",
+    "given": "Cornelia Maria Magdalena",
+    "surname": "Scheepers",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 JUL 1880",
+      "year": 1880,
+      "iso": "1880-07-31",
+      "precision": "exact",
+      "display": "July 31, 1880",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "10 APR 1881",
+      "year": 1881,
+      "iso": "1881-04-10",
+      "precision": "exact",
+      "display": "April 10, 1881",
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "8750",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2759,
+      2760
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1120,
+      2761,
+      2762,
+      2763,
+      2765
+    ],
+    "parentUnions": [
+      "F683"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2759,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2760,
+        "unionId": "F683",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000195987326849@",
+    "geniId": "6000000195987326849",
+    "rfn": "geni:6000000195987326849",
+    "changed": "03 JUL 2023"
+  },
+  "page": {
+    "route": "people/2764/",
+    "canonical": "https://www.genepedia.org/people/2764/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

@@ -1,0 +1,119 @@
+{
+  "id": 1123,
+  "schema": "genepedia/person@1",
+  "slug": "cornelius-coenraad-scheepers",
+  "names": {
+    "display": "Cornelius Coenraad Scheepers",
+    "given": "Cornelius Coenraad",
+    "surname": "Scheepers",
+    "married": "Scheepers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JAN 1884",
+      "year": 1884,
+      "iso": "1884-01-22",
+      "precision": "exact",
+      "display": "January 22, 1884",
+      "place": null
+    },
+    "death": {
+      "date": "9 NOV 1956",
+      "year": 1956,
+      "iso": "1956-11-09",
+      "precision": "exact",
+      "display": "November 9, 1956",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1120,
+      440
+    ],
+    "spouses": [
+      2770
+    ],
+    "exSpouses": [],
+    "children": [
+      2771
+    ],
+    "siblings": [
+      1121,
+      1122,
+      1124
+    ],
+    "parentUnions": [
+      "F296"
+    ],
+    "spouseUnions": [
+      "F686"
+    ],
+    "parentLinks": [
+      {
+        "id": 1120,
+        "unionId": "F296",
+        "type": "biological"
+      },
+      {
+        "id": 440,
+        "unionId": "F296",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2770,
+        "unionId": "F686",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2771,
+        "unionId": "F686",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000091170943852@",
+    "geniId": "6000000091170943852",
+    "rfn": "geni:6000000091170943852",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1123/",
+    "canonical": "https://www.genepedia.org/people/1123/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,128 @@
+{
+  "id": 1885,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-magdalena-cornelia-bester-1885",
+  "names": {
+    "display": "Gertruida Magdalena Cornelia Bester",
+    "given": "Gertruida Magdalena Cornelia",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1872",
+      "year": 1872,
+      "iso": "1872",
+      "precision": "about",
+      "display": "about 1872",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1884,
+      814
+    ],
+    "spouses": [
+      4768
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1886,
+      1887,
+      1888,
+      1889,
+      1890,
+      1891,
+      1892,
+      1893,
+      1894,
+      1895,
+      1896
+    ],
+    "parentUnions": [
+      "F499"
+    ],
+    "spouseUnions": [
+      "F1134"
+    ],
+    "parentLinks": [
+      {
+        "id": 1884,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 814,
+        "unionId": "F499",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4768,
+        "unionId": "F1134",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065453222946@",
+    "geniId": "6000000065453222946",
+    "rfn": "geni:6000000065453222946",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/1885/",
+    "canonical": "https://www.genepedia.org/people/1885/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

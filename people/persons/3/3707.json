@@ -1,0 +1,100 @@
+{
+  "id": 3707,
+  "schema": "genepedia/person@1",
+  "slug": "antoinette-elizabeth-wolmarans",
+  "names": {
+    "display": "Antoinette Elizabeth Wolmarans",
+    "given": "Antoinette Elizabeth",
+    "surname": "Wolmarans",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 AUG 1961",
+      "year": 1961,
+      "iso": "1961-08-14",
+      "precision": "exact",
+      "display": "August 14, 1961",
+      "place": null
+    },
+    "death": {
+      "date": "8 DEC 1980",
+      "year": 1980,
+      "iso": "1980-12-08",
+      "precision": "exact",
+      "display": "December 8, 1980",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3706,
+      1417
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3708,
+      3709
+    ],
+    "parentUnions": [
+      "F889"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3706,
+        "unionId": "F889",
+        "type": "biological"
+      },
+      {
+        "id": 1417,
+        "unionId": "F889",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000178609624843@",
+    "geniId": "6000000178609624843",
+    "rfn": "geni:6000000178609624843",
+    "changed": "18 SEP 2021"
+  },
+  "page": {
+    "route": "people/3707/",
+    "canonical": "https://www.genepedia.org/people/3707/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

@@ -1,0 +1,134 @@
+{
+  "id": 3836,
+  "schema": "genepedia/person@1",
+  "slug": "diana",
+  "names": {
+    "display": "Diana",
+    "given": "Diana",
+    "surname": "Kotze",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "30 AUG 1937",
+      "year": 1937,
+      "iso": "1937-08-30",
+      "precision": "exact",
+      "display": "August 30, 1937",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "16 FEB 1938",
+      "year": 1938,
+      "iso": "1938-02-16",
+      "precision": "exact",
+      "display": "February 16, 1938",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3833,
+      1445
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3834,
+      3835,
+      3837,
+      3838
+    ],
+    "parentUnions": [
+      "F909"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3833,
+        "unionId": "F909",
+        "type": "biological"
+      },
+      {
+        "id": 1445,
+        "unionId": "F909",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000219404432867@",
+    "geniId": "6000000219404432867",
+    "rfn": "geni:6000000219404432867",
+    "changed": "20 JUN 2025"
+  },
+  "page": {
+    "route": "people/3836/",
+    "canonical": "https://www.genepedia.org/people/3836/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

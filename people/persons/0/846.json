@@ -1,0 +1,186 @@
+{
+  "id": 846,
+  "schema": "genepedia/person@1",
+  "slug": "christiaan-frederick-bester",
+  "names": {
+    "display": "Christiaan Frederick Bester",
+    "given": "Christiaan Frederick",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 MAR 1924",
+      "year": 1924,
+      "iso": "1924-03-27",
+      "precision": "exact",
+      "display": "March 27, 1924",
+      "place": null
+    },
+    "death": {
+      "date": "23 OCT 2002",
+      "year": 2002,
+      "iso": "2002-10-23",
+      "precision": "exact",
+      "display": "October 23, 2002",
+      "place": "Middelburg - MP, Mpumalanga, South Africa",
+      "location": {
+        "label": "Middelburg - MP, Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelburg - MP",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Belfast, Mpumalanga, South Africa",
+      "location": {
+        "label": "Belfast, Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Belfast",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/04/90/66/6f/534448456d62df45/bester_christiaan_frederick_1924_original.jpg?hash=dc7432d750c6cacb266438ad8c29f205d03dc1455737fe5710f459908cafec5b.1789455599",
+      "alt": "Christiaan Frederick Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/04/90/66/6f/534448456d62df45/bester_christiaan_frederick_1924_original.jpg?hash=dc7432d750c6cacb266438ad8c29f205d03dc1455737fe5710f459908cafec5b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/c0/cb/63/cd/534448443f352994/bester_boom_6_geni_original.jpg?hash=174f2f2e1e3fed5edeafa6ebdb330df4540245186e83cb3f8f54d52db4d58971.1789455599",
+        "form": "",
+        "title": "Bester",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      336,
+      844
+    ],
+    "spouses": [
+      2061
+    ],
+    "exSpouses": [],
+    "children": [
+      2062,
+      2063
+    ],
+    "siblings": [
+      845,
+      847,
+      848,
+      849,
+      850
+    ],
+    "parentUnions": [
+      "F234"
+    ],
+    "spouseUnions": [
+      "F535"
+    ],
+    "parentLinks": [
+      {
+        "id": 336,
+        "unionId": "F234",
+        "type": "biological"
+      },
+      {
+        "id": 844,
+        "unionId": "F234",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2061,
+        "unionId": "F535",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2062,
+        "unionId": "F535",
+        "type": "biological"
+      },
+      {
+        "id": 2063,
+        "unionId": "F535",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066577670827@",
+    "geniId": "6000000066577670827",
+    "rfn": "geni:6000000066577670827",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/846/",
+    "canonical": "https://www.genepedia.org/people/846/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

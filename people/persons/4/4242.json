@@ -1,0 +1,220 @@
+{
+  "id": 4242,
+  "schema": "genepedia/person@1",
+  "slug": "zacharias-andries-de-beer",
+  "names": {
+    "display": "Zacharias Andries de Beer",
+    "given": "Zacharias Andries",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "Andries de Beer",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 22 APR 1781",
+      "year": 1781,
+      "iso": "1781-04-22",
+      "precision": "before",
+      "display": "before April 22, 1781",
+      "place": "The Cape of Good Hope, South Africa",
+      "location": {
+        "label": "The Cape of Good Hope, South Africa",
+        "placeName": "The Cape of Good Hope, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1848",
+      "year": 1848,
+      "iso": "1848",
+      "precision": "about",
+      "display": "about 1848",
+      "place": "Bethulie, Orange Free State, South Africa",
+      "location": {
+        "label": "Bethulie, Orange Free State, South Africa",
+        "placeName": "Bethulie, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "22 APR 1781",
+      "year": 1781,
+      "iso": "1781-04-22",
+      "precision": "exact",
+      "display": "April 22, 1781",
+      "place": "Cape Town, South Africa",
+      "location": {
+        "label": "Cape Town, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/7d/f2/35/26/5344486065849834/5344486065849834_original.jpg?hash=4f5a97c19ec3e81c70768723758601bb513f81411bd67d5a99415c1a34df4195.1789455599",
+      "alt": "Zacharias Andries de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/7d/f2/35/26/5344486065849834/5344486065849834_original.jpg?hash=4f5a97c19ec3e81c70768723758601bb513f81411bd67d5a99415c1a34df4195.1789455599",
+        "form": "",
+        "title": "Cornelia De Beer (born Nel)",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4243
+    ],
+    "exSpouses": [],
+    "children": [
+      4244,
+      4245,
+      1606,
+      4246,
+      4247,
+      4248,
+      4249,
+      4250,
+      4251,
+      4252
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F996"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4243,
+        "unionId": "F996",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4244,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4245,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 1606,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4246,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4247,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4248,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4249,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4250,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4251,
+        "unionId": "F996",
+        "type": "biological"
+      },
+      {
+        "id": 4252,
+        "unionId": "F996",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003169422125@",
+    "geniId": "6000000003169422125",
+    "rfn": "geni:6000000003169422125",
+    "changed": "10 AUG 2022"
+  },
+  "page": {
+    "route": "people/4242/",
+    "canonical": "https://www.genepedia.org/people/4242/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

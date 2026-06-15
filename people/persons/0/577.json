@@ -1,0 +1,196 @@
+{
+  "id": 577,
+  "schema": "genepedia/person@1",
+  "slug": "gert-matthys-augustyn",
+  "names": {
+    "display": "Gert Matthys Augustyn",
+    "given": "Gert Matthys",
+    "surname": "Augustyn",
+    "married": "Augustyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 OCT 1851",
+      "year": 1851,
+      "iso": "1851-10-24",
+      "precision": "exact",
+      "display": "October 24, 1851",
+      "place": null
+    },
+    "death": {
+      "date": "16 FEB 1910",
+      "year": 1910,
+      "iso": "1910-02-16",
+      "precision": "exact",
+      "display": "February 16, 1910",
+      "place": null
+    },
+    "baptism": {
+      "date": "19 SEP 1852",
+      "year": 1852,
+      "iso": "1852-09-19",
+      "precision": "exact",
+      "display": "September 19, 1852",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/89/c8/d4/0c/5344486695e246df/image_original.jpg?hash=104a84d4da167ad4bb84564fa68c87f042033cc5ca08b411ed3496860bef7a2f.1789455599",
+      "alt": "Gert Matthys Augustyn"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/89/c8/d4/0c/5344486695e246df/image_original.jpg?hash=104a84d4da167ad4bb84564fa68c87f042033cc5ca08b411ed3496860bef7a2f.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1426,
+      1425
+    ],
+    "spouses": [
+      578
+    ],
+    "exSpouses": [],
+    "children": [
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      215
+    ],
+    "siblings": [
+      1427,
+      1428,
+      1429,
+      1430,
+      1431,
+      1432,
+      1433
+    ],
+    "parentUnions": [
+      "F363"
+    ],
+    "spouseUnions": [
+      "F165"
+    ],
+    "parentLinks": [
+      {
+        "id": 1426,
+        "unionId": "F363",
+        "type": "biological"
+      },
+      {
+        "id": 1425,
+        "unionId": "F363",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 578,
+        "unionId": "F165",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 579,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 580,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 581,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 582,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 583,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 584,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 585,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 586,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 587,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 215,
+        "unionId": "F165",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028994474259@",
+    "geniId": "6000000028994474259",
+    "rfn": "geni:6000000028994474259",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/577/",
+    "canonical": "https://www.genepedia.org/people/577/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

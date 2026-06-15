@@ -1,0 +1,118 @@
+{
+  "id": 783,
+  "schema": "genepedia/person@1",
+  "slug": "washington-mupombwa",
+  "names": {
+    "display": "Washington Mupombwa",
+    "given": "Washington",
+    "surname": "Mupombwa",
+    "married": "Mupombwa",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "28 APR 1996",
+      "year": 1996,
+      "iso": "1996-04-28",
+      "precision": "exact",
+      "display": "April 28, 1996",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      781,
+      307
+    ],
+    "spouses": [
+      1800
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      782
+    ],
+    "parentUnions": [
+      "F217"
+    ],
+    "spouseUnions": [
+      "F474"
+    ],
+    "parentLinks": [
+      {
+        "id": 781,
+        "unionId": "F217",
+        "type": "biological"
+      },
+      {
+        "id": 307,
+        "unionId": "F217",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1800,
+        "unionId": "F474",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207539627845@",
+    "geniId": "6000000207539627845",
+    "rfn": "geni:6000000207539627845",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/783/",
+    "canonical": "https://www.genepedia.org/people/783/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

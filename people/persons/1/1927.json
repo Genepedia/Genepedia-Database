@@ -1,0 +1,98 @@
+{
+  "id": 1927,
+  "schema": "genepedia/person@1",
+  "slug": "gerbreg-elizabeth-roux",
+  "names": {
+    "display": "Gerbreg Elizabeth Roux",
+    "given": "Gerbreg Elizabeth",
+    "surname": "Roux",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 OCT 1894",
+      "year": 1894,
+      "iso": "1894-10-12",
+      "precision": "exact",
+      "display": "October 12, 1894",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1923,
+      818
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1924,
+      1925,
+      1926,
+      1928,
+      1929,
+      1930,
+      1931
+    ],
+    "parentUnions": [
+      "F507"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1923,
+        "unionId": "F507",
+        "type": "biological"
+      },
+      {
+        "id": 818,
+        "unionId": "F507",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089488753258@",
+    "geniId": "6000000089488753258",
+    "rfn": "geni:6000000089488753258",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1927/",
+    "canonical": "https://www.genepedia.org/people/1927/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

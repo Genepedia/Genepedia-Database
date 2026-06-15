@@ -1,0 +1,184 @@
+{
+  "id": 1060,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-fourie-1060",
+  "names": {
+    "display": "Petrus Johannes Fourie",
+    "given": "Petrus Johannes",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "Petrus",
+    "aliases": [
+      "Fourie"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 SEP 1791",
+      "year": 1791,
+      "iso": "1791-09-18",
+      "precision": "exact",
+      "display": "September 18, 1791",
+      "place": null
+    },
+    "death": {
+      "date": "15 FEB 1831",
+      "year": 1831,
+      "iso": "1831-02-15",
+      "precision": "exact",
+      "display": "February 15, 1831",
+      "place": null
+    },
+    "baptism": {
+      "date": "18 SEP 1791",
+      "year": 1791,
+      "iso": "1791-09-18",
+      "precision": "exact",
+      "display": "September 18, 1791",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2565,
+      2566
+    ],
+    "spouses": [
+      1059,
+      2563
+    ],
+    "exSpouses": [],
+    "children": [
+      1061,
+      1062,
+      1063,
+      1064,
+      429,
+      2564
+    ],
+    "siblings": [
+      2567,
+      2568,
+      2569,
+      2570,
+      2571,
+      2572
+    ],
+    "parentUnions": [
+      "F639"
+    ],
+    "spouseUnions": [
+      "F285",
+      "F638"
+    ],
+    "parentLinks": [
+      {
+        "id": 2565,
+        "unionId": "F639",
+        "type": "biological"
+      },
+      {
+        "id": 2566,
+        "unionId": "F639",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1059,
+        "unionId": "F285",
+        "role": "wife"
+      },
+      {
+        "id": 2563,
+        "unionId": "F638",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1061,
+        "unionId": "F285",
+        "type": "biological"
+      },
+      {
+        "id": 1062,
+        "unionId": "F285",
+        "type": "biological"
+      },
+      {
+        "id": 1063,
+        "unionId": "F285",
+        "type": "biological"
+      },
+      {
+        "id": 1064,
+        "unionId": "F285",
+        "type": "biological"
+      },
+      {
+        "id": 429,
+        "unionId": "F285",
+        "type": "biological"
+      },
+      {
+        "id": 2564,
+        "unionId": "F638",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000014504562129@",
+    "geniId": "6000000014504562129",
+    "rfn": "geni:6000000014504562129",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1060/",
+    "canonical": "https://www.genepedia.org/people/1060/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

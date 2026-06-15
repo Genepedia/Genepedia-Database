@@ -1,0 +1,86 @@
+{
+  "id": 50,
+  "schema": "genepedia/person@1",
+  "slug": "profile-50",
+  "names": {
+    "display": "",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      8,
+      47
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      48,
+      49
+    ],
+    "parentUnions": [
+      "F16"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 8,
+        "unionId": "F16",
+        "type": "biological"
+      },
+      {
+        "id": 47,
+        "unionId": "F16",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000047318783948@",
+    "geniId": "6000000047318783948",
+    "rfn": "geni:6000000047318783948",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/50/",
+    "canonical": "https://www.genepedia.org/people/50/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

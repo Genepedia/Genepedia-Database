@@ -1,0 +1,101 @@
+{
+  "id": 2523,
+  "schema": "genepedia/person@1",
+  "slug": "helena-johanna-burger",
+  "names": {
+    "display": "Helena Johanna Burger",
+    "given": "Helena Johanna",
+    "surname": "Burger",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 DEC 1878",
+      "year": 1878,
+      "iso": "1878-12-11",
+      "precision": "exact",
+      "display": "December 11, 1878",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2516,
+      1018
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2517,
+      2518,
+      2519,
+      2520,
+      2521,
+      2522,
+      2524,
+      2525,
+      2526,
+      2527
+    ],
+    "parentUnions": [
+      "F628"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2516,
+        "unionId": "F628",
+        "type": "biological"
+      },
+      {
+        "id": 1018,
+        "unionId": "F628",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000197719927840@",
+    "geniId": "6000000197719927840",
+    "rfn": "geni:6000000197719927840",
+    "changed": "29 AUG 2023"
+  },
+  "page": {
+    "route": "people/2523/",
+    "canonical": "https://www.genepedia.org/people/2523/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,184 @@
+{
+  "id": 4572,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-spies",
+  "names": {
+    "display": "Anna Maria Spies",
+    "given": "Anna Maria",
+    "surname": "Spies",
+    "married": "Vosloo",
+    "nick": "Spies",
+    "aliases": [
+      "Anna Maria Spies, b4"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 SEP 1763",
+      "year": 1763,
+      "iso": "1763-09-25",
+      "precision": "exact",
+      "display": "September 25, 1763",
+      "place": null
+    },
+    "death": {
+      "date": "22 SEP 1840",
+      "year": 1840,
+      "iso": "1840-09-22",
+      "precision": "exact",
+      "display": "September 22, 1840",
+      "place": "Zandkraal",
+      "location": {
+        "label": "Zandkraal",
+        "placeName": "Zandkraal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "25 SEP 1763",
+      "year": 1763,
+      "iso": "1763-09-25",
+      "precision": "exact",
+      "display": "September 25, 1763",
+      "place": null
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Swellendam, WC, South Africa",
+      "location": {
+        "label": "Swellendam, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "6740",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "housewife",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4571
+    ],
+    "exSpouses": [],
+    "children": [
+      4573,
+      4574,
+      4575,
+      1843,
+      4576,
+      4577,
+      4578
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1098"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4571,
+        "unionId": "F1098",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4573,
+        "unionId": "F1098",
+        "type": "biological"
+      },
+      {
+        "id": 4574,
+        "unionId": "F1098",
+        "type": "biological"
+      },
+      {
+        "id": 4575,
+        "unionId": "F1098",
+        "type": "biological"
+      },
+      {
+        "id": 1843,
+        "unionId": "F1098",
+        "type": "biological"
+      },
+      {
+        "id": 4576,
+        "unionId": "F1098",
+        "type": "biological"
+      },
+      {
+        "id": 4577,
+        "unionId": "F1098",
+        "type": "biological"
+      },
+      {
+        "id": 4578,
+        "unionId": "F1098",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000005044589175@",
+    "geniId": "6000000005044589175",
+    "rfn": "geni:6000000005044589175",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/4572/",
+    "canonical": "https://www.genepedia.org/people/4572/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

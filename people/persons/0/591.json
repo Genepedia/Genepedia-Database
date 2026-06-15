@@ -1,0 +1,143 @@
+{
+  "id": 591,
+  "schema": "genepedia/person@1",
+  "slug": "ansie-de-beer",
+  "names": {
+    "display": "Ansie de Beer",
+    "given": "Ansie",
+    "surname": "de Beer",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "4 SEP 1963",
+      "year": 1963,
+      "iso": "1963-09-04",
+      "precision": "exact",
+      "display": "September 4, 1963",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/31/fe/78/87/53444866072eff33/c55bc5bb-0368-43c2-bab9-f6fbdfc91728_original.jpg?hash=4dfbb95c4b1f9e8efc84fded31bfd5b86127427a6c04c276143c34a1b183be49.1789455599",
+      "alt": "Ansie de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/31/fe/78/87/53444866072eff33/c55bc5bb-0368-43c2-bab9-f6fbdfc91728_original.jpg?hash=4dfbb95c4b1f9e8efc84fded31bfd5b86127427a6c04c276143c34a1b183be49.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      216,
+      588
+    ],
+    "spouses": [
+      1470,
+      1473
+    ],
+    "exSpouses": [],
+    "children": [
+      1471,
+      1472,
+      1474
+    ],
+    "siblings": [
+      589,
+      590,
+      592
+    ],
+    "parentUnions": [
+      "F166"
+    ],
+    "spouseUnions": [
+      "F374",
+      "F375"
+    ],
+    "parentLinks": [
+      {
+        "id": 216,
+        "unionId": "F166",
+        "type": "biological"
+      },
+      {
+        "id": 588,
+        "unionId": "F166",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1470,
+        "unionId": "F374",
+        "role": "husband"
+      },
+      {
+        "id": 1473,
+        "unionId": "F375",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1471,
+        "unionId": "F374",
+        "type": "biological"
+      },
+      {
+        "id": 1472,
+        "unionId": "F374",
+        "type": "biological"
+      },
+      {
+        "id": 1474,
+        "unionId": "F375",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587935835@",
+    "geniId": "6000000206587935835",
+    "rfn": "geni:6000000206587935835",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/591/",
+    "canonical": "https://www.genepedia.org/people/591/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

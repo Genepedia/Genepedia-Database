@@ -1,0 +1,191 @@
+{
+  "id": 629,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-christina-mellet",
+  "names": {
+    "display": "Rachel Christina Mellet",
+    "given": "Rachel Christina",
+    "surname": "Mellet",
+    "married": "van Niekerk",
+    "nick": "van Niekerk",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 JAN 1851",
+      "year": 1851,
+      "iso": "1851-01-07",
+      "precision": "exact",
+      "display": "January 7, 1851",
+      "place": null
+    },
+    "death": {
+      "date": "14 OCT 1931",
+      "year": 1931,
+      "iso": "1931-10-14",
+      "precision": "exact",
+      "display": "October 14, 1931",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Rietfontein Farm Cemetery, Bloemhof, North West, South Africa",
+      "location": {
+        "label": "Rietfontein Farm Cemetery, Bloemhof, North West, South Africa",
+        "placeName": "Rietfontein Farm Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/c7/55/51/66/5344483bb4bcb92b/huj82hab_original.jpg?hash=0c2b1ab08daea14cd1c5a40333fdc464f1d9028adf880cbfb9e5de1a1cda4523.1789455599",
+      "alt": "Rachel Christina Mellet"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/c7/55/51/66/5344483bb4bcb92b/huj82hab_original.jpg?hash=0c2b1ab08daea14cd1c5a40333fdc464f1d9028adf880cbfb9e5de1a1cda4523.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1549,
+      1550
+    ],
+    "spouses": [
+      628,
+      1548
+    ],
+    "exSpouses": [],
+    "children": [
+      239,
+      630,
+      631,
+      632,
+      633
+    ],
+    "siblings": [
+      1551,
+      1552,
+      1553,
+      1554,
+      1555,
+      1556,
+      1557,
+      1558
+    ],
+    "parentUnions": [
+      "F396"
+    ],
+    "spouseUnions": [
+      "F176",
+      "F395"
+    ],
+    "parentLinks": [
+      {
+        "id": 1549,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1550,
+        "unionId": "F396",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 628,
+        "unionId": "F176",
+        "role": "partner"
+      },
+      {
+        "id": 1548,
+        "unionId": "F395",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 239,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 630,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 631,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 632,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 633,
+        "unionId": "F176",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024837740852@",
+    "geniId": "6000000024837740852",
+    "rfn": "geni:6000000024837740852",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/629/",
+    "canonical": "https://www.genepedia.org/people/629/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

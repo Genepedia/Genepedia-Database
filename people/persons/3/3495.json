@@ -1,0 +1,188 @@
+{
+  "id": 3495,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-adam-de-beer",
+  "names": {
+    "display": "Johannes Adam de Beer",
+    "given": "Johannes Adam",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "Johan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 AUG 1812",
+      "year": 1812,
+      "iso": "1812-08-03",
+      "precision": "exact",
+      "display": "August 3, 1812",
+      "place": "Putfontein, South Africa",
+      "location": {
+        "label": "Putfontein, South Africa",
+        "placeName": "Putfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "30 JUL 1877",
+      "year": 1877,
+      "iso": "1877-07-30",
+      "precision": "exact",
+      "display": "July 30, 1877",
+      "place": "Klein Doornrivier, South Africa",
+      "location": {
+        "label": "Klein Doornrivier, South Africa",
+        "placeName": "Klein Doornrivier",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "13 FEB 1814",
+      "year": 1814,
+      "iso": "1814-02-13",
+      "precision": "exact",
+      "display": "February 13, 1814",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Klein Doringrivier, Oudshoorn",
+      "location": {
+        "label": "Klein Doringrivier, Oudshoorn",
+        "placeName": "Klein Doringrivier",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Oudshoorn",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3484,
+      3485
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3486,
+      3487,
+      3488,
+      3489,
+      3490,
+      3491,
+      3492,
+      3493,
+      3494,
+      1385,
+      3496
+    ],
+    "parentUnions": [
+      "F857"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3484,
+        "unionId": "F857",
+        "type": "biological"
+      },
+      {
+        "id": 3485,
+        "unionId": "F857",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020486429698@",
+    "geniId": "6000000020486429698",
+    "rfn": "geni:6000000020486429698",
+    "changed": "04 APR 2025"
+  },
+  "page": {
+    "route": "people/3495/",
+    "canonical": "https://www.genepedia.org/people/3495/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

@@ -1,0 +1,198 @@
+{
+  "id": 3763,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-gertruida-botha",
+  "names": {
+    "display": "Johanna Gertruida Botha",
+    "given": "Johanna Gertruida",
+    "surname": "Botha",
+    "married": "Brynard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 SEP 1861",
+      "year": 1861,
+      "iso": "1861-09-07",
+      "precision": "exact",
+      "display": "September 7, 1861",
+      "place": null
+    },
+    "death": {
+      "date": "21 APR 1909",
+      "year": 1909,
+      "iso": "1909-04-21",
+      "precision": "exact",
+      "display": "April 21, 1909",
+      "place": "Calvinia",
+      "location": {
+        "label": "Calvinia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "26 SEP 1861",
+      "year": 1861,
+      "iso": "1861-09-26",
+      "precision": "exact",
+      "display": "September 26, 1861",
+      "place": "Pakhuis, Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Pakhuis, Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pakhuis, Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/aa/b5/b2/7b/5344484c8dc74bf6/botha_johanna_gertruida_1861_pakhuis_clanwilliam_410_-_008121036_original.jpg?hash=ba9b39a5187fb1453bdd526fc3bb96d473d09e5b0e90ac9f5230c9da2e1d7445.1789455599",
+      "alt": "Johanna Gertruida Botha"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/aa/b5/b2/7b/5344484c8dc74bf6/botha_johanna_gertruida_1861_pakhuis_clanwilliam_410_-_008121036_original.jpg?hash=ba9b39a5187fb1453bdd526fc3bb96d473d09e5b0e90ac9f5230c9da2e1d7445.1789455599",
+        "form": "",
+        "title": "Botha Johanna Gertruida 1861 Pakhuis Clanwilliam 410 - 008121036.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1435
+    ],
+    "exSpouses": [],
+    "children": [
+      3764,
+      3765,
+      3766,
+      3767,
+      3768,
+      3769,
+      3770,
+      3771,
+      3772
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F900"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1435,
+        "unionId": "F900",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3764,
+        "unionId": "F900",
+        "type": "biological"
+      },
+      {
+        "id": 3765,
+        "unionId": "F900",
+        "type": "biological"
+      },
+      {
+        "id": 3766,
+        "unionId": "F900",
+        "type": "biological"
+      },
+      {
+        "id": 3767,
+        "unionId": "F900",
+        "type": "biological"
+      },
+      {
+        "id": 3768,
+        "unionId": "F900",
+        "type": "biological"
+      },
+      {
+        "id": 3769,
+        "unionId": "F900",
+        "type": "biological"
+      },
+      {
+        "id": 3770,
+        "unionId": "F900",
+        "type": "biological"
+      },
+      {
+        "id": 3771,
+        "unionId": "F900",
+        "type": "biological"
+      },
+      {
+        "id": 3772,
+        "unionId": "F900",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000041586019616@",
+    "geniId": "6000000041586019616",
+    "rfn": "geni:6000000041586019616",
+    "changed": "21 APR 2020"
+  },
+  "page": {
+    "route": "people/3763/",
+    "canonical": "https://www.genepedia.org/people/3763/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

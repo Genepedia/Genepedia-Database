@@ -1,0 +1,85 @@
+{
+  "id": 4832,
+  "schema": "genepedia/person@1",
+  "slug": "maria-catharina",
+  "names": {
+    "display": "Maria Catharina",
+    "given": "Maria Catharina",
+    "surname": "Van Rensburg",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1900,
+      4830
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4831
+    ],
+    "parentUnions": [
+      "F1149"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1900,
+        "unionId": "F1149",
+        "type": "biological"
+      },
+      {
+        "id": 4830,
+        "unionId": "F1149",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089811853896@",
+    "geniId": "6000000089811853896",
+    "rfn": "geni:6000000089811853896",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/4832/",
+    "canonical": "https://www.genepedia.org/people/4832/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

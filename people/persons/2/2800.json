@@ -1,0 +1,90 @@
+{
+  "id": 2800,
+  "schema": "genepedia/person@1",
+  "slug": "anna-sophia-brits",
+  "names": {
+    "display": "Anna Sophia Brits",
+    "given": "Anna Sophia",
+    "surname": "Brits",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2794,
+      2793
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1133,
+      2795,
+      2796,
+      2797,
+      2798,
+      2799
+    ],
+    "parentUnions": [
+      "F693"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2794,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2793,
+        "unionId": "F693",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000225203623849@",
+    "geniId": "6000000225203623849",
+    "rfn": "geni:6000000225203623849",
+    "changed": "30 APR 2026"
+  },
+  "page": {
+    "route": "people/2800/",
+    "canonical": "https://www.genepedia.org/people/2800/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

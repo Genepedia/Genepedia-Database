@@ -1,0 +1,97 @@
+{
+  "id": 3797,
+  "schema": "genepedia/person@1",
+  "slug": "jeremia-augustyn-3797",
+  "names": {
+    "display": "Jeremia Augustyn",
+    "given": "Jeremia",
+    "surname": "Augustyn",
+    "married": "Augustyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 DEC 1896",
+      "year": 1896,
+      "iso": "1896-12-09",
+      "precision": "exact",
+      "display": "December 9, 1896",
+      "place": null
+    },
+    "death": {
+      "date": "24 MAR 1965",
+      "year": 1965,
+      "iso": "1965-03-24",
+      "precision": "exact",
+      "display": "March 24, 1965",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3725,
+      1440
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F904"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3725,
+        "unionId": "F904",
+        "type": "biological"
+      },
+      {
+        "id": 1440,
+        "unionId": "F904",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000209721630826@",
+    "geniId": "6000000209721630826",
+    "rfn": "geni:6000000209721630826",
+    "changed": "08 OCT 2024"
+  },
+  "page": {
+    "route": "people/3797/",
+    "canonical": "https://www.genepedia.org/people/3797/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 3465,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-de-wet",
+  "names": {
+    "display": "Pieter de Wet",
+    "given": "Pieter",
+    "surname": "de Wet",
+    "married": "de Wet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 MAR 1967",
+      "year": 1967,
+      "iso": "1967-03-10",
+      "precision": "exact",
+      "display": "March 10, 1967",
+      "place": null
+    },
+    "death": {
+      "date": "13 JUN 2024",
+      "year": 2024,
+      "iso": "2024-06-13",
+      "precision": "exact",
+      "display": "June 13, 2024",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/15/e4/23/af/5344486602b025ea/screenshot_2024-06-15_184026_original.jpg?hash=7020a3f95f1b24683c710f775cf733c05e64322e737d5e0529745aec6fbe0c19.1789455599",
+      "alt": "Pieter de Wet"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/15/e4/23/af/5344486602b025ea/screenshot_2024-06-15_184026_original.jpg?hash=7020a3f95f1b24683c710f775cf733c05e64322e737d5e0529745aec6fbe0c19.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3464
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1380
+    ],
+    "parentUnions": [
+      "F854"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3464,
+        "unionId": "F854",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206533376842@",
+    "geniId": "6000000206533376842",
+    "rfn": "geni:6000000206533376842",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/3465/",
+    "canonical": "https://www.genepedia.org/people/3465/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

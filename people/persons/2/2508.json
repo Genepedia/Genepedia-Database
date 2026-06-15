@@ -1,0 +1,192 @@
+{
+  "id": 2508,
+  "schema": "genepedia/person@1",
+  "slug": "nicolaas-erasmus-visser",
+  "names": {
+    "display": "Nicolaas Erasmus Visser",
+    "given": "Nicolaas Erasmus",
+    "surname": "Visser",
+    "married": "Visser",
+    "nick": "Nicolaas Erasmus Visser",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 JUL 1841",
+      "year": 1841,
+      "iso": "1841-07-15",
+      "precision": "exact",
+      "display": "July 15, 1841",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 SEP 1896",
+      "year": 1896,
+      "iso": "1896-09-08",
+      "precision": "exact",
+      "display": "September 8, 1896",
+      "place": "Carnarvon, Northern Cape, South Africa",
+      "location": {
+        "label": "Carnarvon, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Carnarvon",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "20 FEB 1842",
+      "year": 1842,
+      "iso": "1842-02-20",
+      "precision": "exact",
+      "display": "February 20, 1842",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1017
+    ],
+    "exSpouses": [],
+    "children": [
+      2509,
+      2510,
+      2511,
+      2512,
+      2513,
+      2514,
+      2515
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1537"
+    ],
+    "spouseUnions": [
+      "F627"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1017,
+        "unionId": "F627",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2509,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2510,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2511,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2512,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2513,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2514,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2515,
+        "unionId": "F627",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000041566973217@",
+    "geniId": "6000000041566973217",
+    "rfn": "geni:6000000041566973217",
+    "changed": "12 MAY 2025"
+  },
+  "page": {
+    "route": "people/2508/",
+    "canonical": "https://www.genepedia.org/people/2508/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

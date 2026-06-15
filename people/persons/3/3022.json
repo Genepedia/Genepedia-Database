@@ -1,0 +1,77 @@
+{
+  "id": 3022,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-gerhardus-vermeulen",
+  "names": {
+    "display": "Johannes Gerhardus Vermeulen",
+    "given": "Johannes Gerhardus",
+    "surname": "Vermeulen",
+    "married": "Vermeulen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1200
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F739"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1200,
+        "unionId": "F739",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216147813831@",
+    "geniId": "6000000216147813831",
+    "rfn": "geni:6000000216147813831",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/3022/",
+    "canonical": "https://www.genepedia.org/people/3022/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

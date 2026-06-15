@@ -1,0 +1,135 @@
+{
+  "id": 2216,
+  "schema": "genepedia/person@1",
+  "slug": "estelle-boyens",
+  "names": {
+    "display": "Estelle Boyens",
+    "given": "Estelle",
+    "surname": "Boyens",
+    "married": "Oosthuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JAN 1951",
+      "year": 1951,
+      "iso": "1951-01-22",
+      "precision": "exact",
+      "display": "January 22, 1951",
+      "place": "Germiston, GP, South Africa",
+      "location": {
+        "label": "Germiston, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Germiston",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 JUL 2004",
+      "year": 2004,
+      "iso": "2004-07-27",
+      "precision": "exact",
+      "display": "July 27, 2004",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/30/b5/27/86/53444842a41b91ae/1274-59_boyens_adam_johannes_a_original.jpg?hash=5502ef2563a9fbeaeb67fa510c5930d36f50e3b7d8832768b930615a010f2bc4.1789455599",
+      "alt": "Estelle Boyens"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/30/b5/27/86/53444842a41b91ae/1274-59_boyens_adam_johannes_a_original.jpg?hash=5502ef2563a9fbeaeb67fa510c5930d36f50e3b7d8832768b930615a010f2bc4.1789455599",
+        "form": "",
+        "title": "image - dood .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2212,
+      902
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2213,
+      2214,
+      2215,
+      2217,
+      2218,
+      2219,
+      2220
+    ],
+    "parentUnions": [
+      "F563"
+    ],
+    "spouseUnions": [
+      "F1371"
+    ],
+    "parentLinks": [
+      {
+        "id": 2212,
+        "unionId": "F563",
+        "type": "biological"
+      },
+      {
+        "id": 902,
+        "unionId": "F563",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000011149649239@",
+    "geniId": "6000000011149649239",
+    "rfn": "geni:6000000011149649239",
+    "changed": "14 MAR 2026"
+  },
+  "page": {
+    "route": "people/2216/",
+    "canonical": "https://www.genepedia.org/people/2216/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 834,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-mitchell",
+  "names": {
+    "display": "Jacobus Marthinus Mitchell",
+    "given": "Jacobus Marthinus",
+    "surname": "Mitchell",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 JUN 1908",
+      "year": 1908,
+      "iso": "1908-06-17",
+      "precision": "exact",
+      "display": "June 17, 1908",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      831,
+      333
+    ],
+    "spouses": [
+      2007
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      832,
+      833,
+      835,
+      836,
+      837,
+      838,
+      839
+    ],
+    "parentUnions": [
+      "F230"
+    ],
+    "spouseUnions": [
+      "F521"
+    ],
+    "parentLinks": [
+      {
+        "id": 831,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 333,
+        "unionId": "F230",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2007,
+        "unionId": "F521",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066536478982@",
+    "geniId": "6000000066536478982",
+    "rfn": "geni:6000000066536478982",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/834/",
+    "canonical": "https://www.genepedia.org/people/834/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

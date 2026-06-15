@@ -1,0 +1,88 @@
+{
+  "id": 2358,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-cloete-2358",
+  "names": {
+    "display": "Jacobus Johannes Cloete",
+    "given": "Jacobus Johannes",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2354,
+      2355
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      946,
+      2356,
+      2357,
+      2359
+    ],
+    "parentUnions": [
+      "F597"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2354,
+        "unionId": "F597",
+        "type": "biological"
+      },
+      {
+        "id": 2355,
+        "unionId": "F597",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206510989821@",
+    "geniId": "6000000206510989821",
+    "rfn": "geni:6000000206510989821",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/2358/",
+    "canonical": "https://www.genepedia.org/people/2358/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

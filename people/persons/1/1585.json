@@ -1,0 +1,105 @@
+{
+  "id": 1585,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-jacobus-pretorius-1585",
+  "names": {
+    "display": "Abraham Jacobus Pretorius",
+    "given": "Abraham Jacobus",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": [
+      "Braampie Pretorius"
+    ]
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      635,
+      1584
+    ],
+    "spouses": [
+      4177
+    ],
+    "exSpouses": [],
+    "children": [
+      4178
+    ],
+    "siblings": [
+      1586
+    ],
+    "parentUnions": [
+      "F401"
+    ],
+    "spouseUnions": [
+      "F978"
+    ],
+    "parentLinks": [
+      {
+        "id": 635,
+        "unionId": "F401",
+        "type": "biological"
+      },
+      {
+        "id": 1584,
+        "unionId": "F401",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4177,
+        "unionId": "F978",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4178,
+        "unionId": "F978",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002631134582@",
+    "geniId": "6000000002631134582",
+    "rfn": "geni:6000000002631134582",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/1585/",
+    "canonical": "https://www.genepedia.org/people/1585/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

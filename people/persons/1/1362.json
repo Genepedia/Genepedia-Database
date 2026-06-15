@@ -1,0 +1,92 @@
+{
+  "id": 1362,
+  "schema": "genepedia/person@1",
+  "slug": "jeandre-robertson",
+  "names": {
+    "display": "Jeandré Robertson",
+    "given": "Jeandré",
+    "surname": "Robertson",
+    "married": "Robertson",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "28 AUG 1990",
+      "year": 1990,
+      "iso": "1990-08-28",
+      "precision": "exact",
+      "display": "August 28, 1990",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1361,
+      554
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1363
+    ],
+    "parentUnions": [
+      "F349"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1361,
+        "unionId": "F349",
+        "type": "biological"
+      },
+      {
+        "id": 554,
+        "unionId": "F349",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228025497@",
+    "geniId": "6000000027228025497",
+    "rfn": "geni:6000000027228025497",
+    "changed": "11 MAR 2015"
+  },
+  "page": {
+    "route": "people/1362/",
+    "canonical": "https://www.genepedia.org/people/1362/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

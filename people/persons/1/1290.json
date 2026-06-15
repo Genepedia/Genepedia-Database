@@ -1,0 +1,201 @@
+{
+  "id": 1290,
+  "schema": "genepedia/person@1",
+  "slug": "gerhardus-philippus-marthinus-vorster",
+  "names": {
+    "display": "Gerhardus Philippus Marthinus Vorster",
+    "given": "Gerhardus Philippus Marthinus",
+    "surname": "Vorster",
+    "married": "Vorster",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 MAR 1919",
+      "year": 1919,
+      "iso": "1919-03-14",
+      "precision": "exact",
+      "display": "March 14, 1919",
+      "place": "Vredefort, FS, South Africa",
+      "location": {
+        "label": "Vredefort, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vredefort",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "13 SEP 1987",
+      "year": 1987,
+      "iso": "1987-09-13",
+      "precision": "exact",
+      "display": "September 13, 1987",
+      "place": "Bela Bela, LP, South Africa",
+      "location": {
+        "label": "Bela Bela, LP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bela Bela",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "LP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Bela Bela, LP, South Africa",
+      "location": {
+        "label": "Bela Bela, LP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bela Bela",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "LP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/11/fe/9b/94/5344485196b8bb43/vorster_gerhardus_philippus_marthinus_magdalena_peronella_booyens_1942_heilbron_332_-_church_records_1848-1956_free_state_heilbron_marriages_1929-1950_original.jpg?hash=872ee63f415db9f44e8fa28a05626f24560142d1883c4d9307aa556483dbe6f7.1789455599",
+      "alt": "Gerhardus Philippus Marthinus Vorster"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/11/fe/9b/94/5344485196b8bb43/vorster_gerhardus_philippus_marthinus_magdalena_peronella_booyens_1942_heilbron_332_-_church_records_1848-1956_free_state_heilbron_marriages_1929-1950_original.jpg?hash=872ee63f415db9f44e8fa28a05626f24560142d1883c4d9307aa556483dbe6f7.1789455599",
+        "form": "",
+        "title": "Vorster Gerhardus Philippus Marthinus & Magdalena Peronella Booyens 1942 Heilbron 332 - Church Records, 1848-1956 Free State Heilbron Marriages 1929-1950.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1284,
+      1285
+    ],
+    "spouses": [
+      3212
+    ],
+    "exSpouses": [],
+    "children": [
+      3213,
+      3214,
+      3215
+    ],
+    "siblings": [
+      536,
+      1286,
+      1287,
+      1288,
+      1289
+    ],
+    "parentUnions": [
+      "F335"
+    ],
+    "spouseUnions": [
+      "F792"
+    ],
+    "parentLinks": [
+      {
+        "id": 1284,
+        "unionId": "F335",
+        "type": "biological"
+      },
+      {
+        "id": 1285,
+        "unionId": "F335",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3212,
+        "unionId": "F792",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3213,
+        "unionId": "F792",
+        "type": "biological"
+      },
+      {
+        "id": 3214,
+        "unionId": "F792",
+        "type": "biological"
+      },
+      {
+        "id": 3215,
+        "unionId": "F792",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000110453437841@",
+    "geniId": "6000000110453437841",
+    "rfn": "geni:6000000110453437841",
+    "changed": "09 AUG 2020"
+  },
+  "page": {
+    "route": "people/1290/",
+    "canonical": "https://www.genepedia.org/people/1290/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

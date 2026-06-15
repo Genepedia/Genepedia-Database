@@ -1,0 +1,118 @@
+{
+  "id": 2622,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-maria-magdalena-koekemoer",
+  "names": {
+    "display": "Susanna Maria Magdalena Koekemoer",
+    "given": "Susanna Maria Magdalena",
+    "surname": "Koekemoer",
+    "married": "Ackerman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 APR 1856",
+      "year": 1856,
+      "iso": "1856-04-21",
+      "precision": "exact",
+      "display": "April 21, 1856",
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2620,
+      1067
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2621,
+      2623,
+      2624,
+      2625,
+      1095,
+      1137,
+      2626,
+      2627,
+      2628
+    ],
+    "parentUnions": [
+      "F644"
+    ],
+    "spouseUnions": [
+      "F1619"
+    ],
+    "parentLinks": [
+      {
+        "id": 2620,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 1067,
+        "unionId": "F644",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000006859954493@",
+    "geniId": "6000000006859954493",
+    "rfn": "geni:6000000006859954493",
+    "changed": "11 SEP 2025"
+  },
+  "page": {
+    "route": "people/2622/",
+    "canonical": "https://www.genepedia.org/people/2622/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

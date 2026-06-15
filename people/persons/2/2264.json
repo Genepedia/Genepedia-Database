@@ -1,0 +1,103 @@
+{
+  "id": 2264,
+  "schema": "genepedia/person@1",
+  "slug": "andries-kruger",
+  "names": {
+    "display": "Andries Kruger",
+    "given": "Andries",
+    "surname": "Kruger",
+    "married": "Kruger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      915
+    ],
+    "exSpouses": [],
+    "children": [
+      2265,
+      2266,
+      2267,
+      2268
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F574"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 915,
+        "unionId": "F574",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2265,
+        "unionId": "F574",
+        "type": "biological"
+      },
+      {
+        "id": 2266,
+        "unionId": "F574",
+        "type": "biological"
+      },
+      {
+        "id": 2267,
+        "unionId": "F574",
+        "type": "biological"
+      },
+      {
+        "id": 2268,
+        "unionId": "F574",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000029818621032@",
+    "geniId": "6000000029818621032",
+    "rfn": "geni:6000000029818621032",
+    "changed": "28 NOV 2014"
+  },
+  "page": {
+    "route": "people/2264/",
+    "canonical": "https://www.genepedia.org/people/2264/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

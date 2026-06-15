@@ -1,0 +1,92 @@
+{
+  "id": 4271,
+  "schema": "genepedia/person@1",
+  "slug": "frederik-jacobus-van-heerden",
+  "names": {
+    "display": "Frederik Jacobus Van Heerden",
+    "given": "Frederik Jacobus",
+    "surname": "Van Heerden",
+    "married": "Van Heerden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1897",
+      "year": 1897,
+      "iso": "1897",
+      "precision": "exact",
+      "display": "1897",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1615
+    ],
+    "exSpouses": [],
+    "children": [
+      4272
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1004"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1615,
+        "unionId": "F1004",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4272,
+        "unionId": "F1004",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000060831148846@",
+    "geniId": "6000000060831148846",
+    "rfn": "geni:6000000060831148846",
+    "changed": "16 JUN 2017"
+  },
+  "page": {
+    "route": "people/4271/",
+    "canonical": "https://www.genepedia.org/people/4271/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

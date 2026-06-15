@@ -1,0 +1,125 @@
+{
+  "id": 1308,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-johanna-christina-van-taak",
+  "names": {
+    "display": "Catharina Johanna Christina van Taak",
+    "given": "Catharina Johanna Christina",
+    "surname": "van Taak",
+    "married": "Cerff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 FEB 1879",
+      "year": 1879,
+      "iso": "1879-02-26",
+      "precision": "exact",
+      "display": "February 26, 1879",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "1 FEB 1880",
+      "year": 1880,
+      "iso": "1880-02-01",
+      "precision": "exact",
+      "display": "February 1, 1880",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1302,
+      1301
+    ],
+    "spouses": [
+      3296
+    ],
+    "exSpouses": [],
+    "children": [
+      3297
+    ],
+    "siblings": [
+      1303,
+      1304,
+      1305,
+      538,
+      1306,
+      1307,
+      1309,
+      1310,
+      1311
+    ],
+    "parentUnions": [
+      "F337"
+    ],
+    "spouseUnions": [
+      "F810"
+    ],
+    "parentLinks": [
+      {
+        "id": 1302,
+        "unionId": "F337",
+        "type": "biological"
+      },
+      {
+        "id": 1301,
+        "unionId": "F337",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3296,
+        "unionId": "F810",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3297,
+        "unionId": "F810",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020387241152@",
+    "geniId": "6000000020387241152",
+    "rfn": "geni:6000000020387241152",
+    "changed": "19 JUN 2020"
+  },
+  "page": {
+    "route": "people/1308/",
+    "canonical": "https://www.genepedia.org/people/1308/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

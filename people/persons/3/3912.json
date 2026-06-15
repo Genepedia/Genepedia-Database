@@ -1,0 +1,123 @@
+{
+  "id": 3912,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-maria-janse-van-vuuren",
+  "names": {
+    "display": "Catharina Maria Janse van Vuuren",
+    "given": "Catharina Maria",
+    "surname": "Janse van Vuuren",
+    "married": "Janse van Vuuren",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 MAR 1803",
+      "year": 1803,
+      "iso": "1803-03-03",
+      "precision": "exact",
+      "display": "March 3, 1803",
+      "place": null
+    },
+    "death": {
+      "date": "20 SEP 1836",
+      "year": 1836,
+      "iso": "1836-09-20",
+      "precision": "exact",
+      "display": "September 20, 1836",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3911
+    ],
+    "exSpouses": [],
+    "children": [
+      3913,
+      1531,
+      3914,
+      3915,
+      3916
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F923"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3911,
+        "unionId": "F923",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3913,
+        "unionId": "F923",
+        "type": "biological"
+      },
+      {
+        "id": 1531,
+        "unionId": "F923",
+        "type": "biological"
+      },
+      {
+        "id": 3914,
+        "unionId": "F923",
+        "type": "biological"
+      },
+      {
+        "id": 3915,
+        "unionId": "F923",
+        "type": "biological"
+      },
+      {
+        "id": 3916,
+        "unionId": "F923",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000014650573437@",
+    "geniId": "6000000014650573437",
+    "rfn": "geni:6000000014650573437",
+    "changed": "10 AUG 2022"
+  },
+  "page": {
+    "route": "people/3912/",
+    "canonical": "https://www.genepedia.org/people/3912/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

@@ -1,0 +1,133 @@
+{
+  "id": 3268,
+  "schema": "genepedia/person@1",
+  "slug": "willem-johannes-mouton-3268",
+  "names": {
+    "display": "Willem Johannes Mouton",
+    "given": "Willem Johannes",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 AUG 1916",
+      "year": 1916,
+      "iso": "1916-08-13",
+      "precision": "exact",
+      "display": "August 13, 1916",
+      "place": null
+    },
+    "death": {
+      "date": "29 JAN 1995",
+      "year": 1995,
+      "iso": "1995-01-29",
+      "precision": "exact",
+      "display": "January 29, 1995",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Vredendal, WC, South Africa",
+      "location": {
+        "label": "Vredendal, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vredendal",
+        "postalCode": "8160",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/99/6e/3a/4d/5344484ef6ed01d1/willem_johannes_mouton_1916_-1995_original.jpg?hash=e6c33193fca0565ee59a654ced5718d36ab0385ed0965490464edf373af86697.1789455599",
+      "alt": "Willem Johannes Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/99/6e/3a/4d/5344484ef6ed01d1/willem_johannes_mouton_1916_-1995_original.jpg?hash=e6c33193fca0565ee59a654ced5718d36ab0385ed0965490464edf373af86697.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1299,
+      3267
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F803"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1299,
+        "unionId": "F803",
+        "type": "biological"
+      },
+      {
+        "id": 3267,
+        "unionId": "F803",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107549445358@",
+    "geniId": "6000000107549445358",
+    "rfn": "geni:6000000107549445358",
+    "changed": "24 SEP 2019"
+  },
+  "page": {
+    "route": "people/3268/",
+    "canonical": "https://www.genepedia.org/people/3268/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

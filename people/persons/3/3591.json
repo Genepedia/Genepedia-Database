@@ -1,0 +1,121 @@
+{
+  "id": 3591,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-theodorus-snyman",
+  "names": {
+    "display": "Jacobus Theodorus Snyman",
+    "given": "Jacobus Theodorus",
+    "surname": "Snyman",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JUN 1884",
+      "year": 1884,
+      "iso": "1884-06-12",
+      "precision": "exact",
+      "display": "June 12, 1884",
+      "place": "Willowmore, EC, South Africa",
+      "location": {
+        "label": "Willowmore, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Willowmore",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 JUL 1964",
+      "year": 1964,
+      "iso": "1964-07-12",
+      "precision": "exact",
+      "display": "July 12, 1964",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3583,
+      1398
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3584,
+      3585,
+      3586,
+      3587,
+      3588,
+      3589,
+      3590
+    ],
+    "parentUnions": [
+      "F871"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3583,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 1398,
+        "unionId": "F871",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000219804763877@",
+    "geniId": "6000000219804763877",
+    "rfn": "geni:6000000219804763877",
+    "changed": "03 OCT 2025"
+  },
+  "page": {
+    "route": "people/3591/",
+    "canonical": "https://www.genepedia.org/people/3591/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

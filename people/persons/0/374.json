@@ -1,0 +1,227 @@
+{
+  "id": 374,
+  "schema": "genepedia/person@1",
+  "slug": "ellen-jane-roselt",
+  "names": {
+    "display": "Ellen Jane Roselt",
+    "given": "Ellen Jane",
+    "surname": "Roselt",
+    "married": "Cloete",
+    "nick": "Alida Johanna",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 MAR 1898",
+      "year": 1898,
+      "iso": "1898-03-12",
+      "precision": "exact",
+      "display": "March 12, 1898",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 MAY 1989",
+      "year": 1989,
+      "iso": "1989-05-18",
+      "precision": "exact",
+      "display": "May 18, 1989",
+      "place": "Krugersdorp, Gauteng, South Africa",
+      "location": {
+        "label": "Krugersdorp, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Krugersdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "1989",
+      "year": 1989,
+      "iso": "1989",
+      "precision": "exact",
+      "display": "1989",
+      "place": "New Cemetry, Griekwastad, Noord Kaap, South Africa",
+      "location": {
+        "label": "New Cemetry, Griekwastad, Noord Kaap, South Africa",
+        "placeName": "New Cemetry",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Noord Kaap",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/13/e9/15/51/5344485dabdc14bd/ouma_cloete1_original.jpg?hash=c5ebd89928763f9d358dc9105d2364fd58c35da4afbb069f5aa48a5b07d6efa2.1789455599",
+      "alt": "Ellen Jane Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/13/e9/15/51/5344485dabdc14bd/ouma_cloete1_original.jpg?hash=c5ebd89928763f9d358dc9105d2364fd58c35da4afbb069f5aa48a5b07d6efa2.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/75/0b/49/c7/5344485da97c992a/ouma_cloete_original.jpg?hash=6be11e9b5609860f4706a2bf71d0f75a0d485792be1cedb7a61aeedf4b8334f1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/c0/10/f7/36/5344483ae8eb96ff/johannes_andries_petrus_cloete_original.jpg?hash=33aacb71495e2646291598bc942de9148e970b72285aecd30fc1faa41316ef4b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      368,
+      369
+    ],
+    "spouses": [
+      922
+    ],
+    "exSpouses": [],
+    "children": [
+      923,
+      924,
+      925,
+      926
+    ],
+    "siblings": [
+      370,
+      138,
+      371,
+      372,
+      373,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380
+    ],
+    "parentUnions": [
+      "F117"
+    ],
+    "spouseUnions": [
+      "F256"
+    ],
+    "parentLinks": [
+      {
+        "id": 368,
+        "unionId": "F117",
+        "type": "biological"
+      },
+      {
+        "id": 369,
+        "unionId": "F117",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 922,
+        "unionId": "F256",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 923,
+        "unionId": "F256",
+        "type": "biological"
+      },
+      {
+        "id": 924,
+        "unionId": "F256",
+        "type": "biological"
+      },
+      {
+        "id": 925,
+        "unionId": "F256",
+        "type": "biological"
+      },
+      {
+        "id": 926,
+        "unionId": "F256",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028171446631@",
+    "geniId": "6000000028171446631",
+    "rfn": "geni:6000000028171446631",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/374/",
+    "canonical": "https://www.genepedia.org/people/374/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,104 @@
+{
+  "id": 3085,
+  "schema": "genepedia/person@1",
+  "slug": "nico-strydom",
+  "names": {
+    "display": "Nico Strydom",
+    "given": "Nico",
+    "surname": "Strydom",
+    "married": "Strydom",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "10 DEC 1997",
+      "year": 1997,
+      "iso": "1997-12-10",
+      "precision": "exact",
+      "display": "December 10, 1997",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/00/0a/d9/74/534448663cdc3cf3/78312999_2443097815930635_3561942835294896128_n_original.jpg?hash=ff959371d976f62bc47b3da634b8b7f81bf94fab95f22f538ad24274e2afba53.1789455599",
+      "alt": "Nico Strydom"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/00/0a/d9/74/534448663cdc3cf3/78312999_2443097815930635_3561942835294896128_n_original.jpg?hash=ff959371d976f62bc47b3da634b8b7f81bf94fab95f22f538ad24274e2afba53.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3083,
+      1233
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3084
+    ],
+    "parentUnions": [
+      "F760"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3083,
+        "unionId": "F760",
+        "type": "biological"
+      },
+      {
+        "id": 1233,
+        "unionId": "F760",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207508943845@",
+    "geniId": "6000000207508943845",
+    "rfn": "geni:6000000207508943845",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/3085/",
+    "canonical": "https://www.genepedia.org/people/3085/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

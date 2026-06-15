@@ -1,0 +1,208 @@
+{
+  "id": 2162,
+  "schema": "genepedia/person@1",
+  "slug": "willem-john-hibbert",
+  "names": {
+    "display": "Willem John Hibbert",
+    "given": "Willem John",
+    "surname": "Hibbert",
+    "married": "Hibbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1858",
+      "year": 1858,
+      "iso": "1858",
+      "precision": "about",
+      "display": "about 1858",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 APR 1940",
+      "year": 1940,
+      "iso": "1940-04-23",
+      "precision": "exact",
+      "display": "April 23, 1940",
+      "place": "Pretoria, South Africa",
+      "location": {
+        "label": "Pretoria, South Africa",
+        "placeName": "Pretoria",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/87/79/5d/30/5344483d163d5ba2/xun27zuw_t2_original.jpg?hash=2ed626870d7f6bbdd9cc0c9350eb927db0a87c064bc8616cc1c7d2e46d596614.1789455599",
+      "alt": "Willem John Hibbert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/87/79/5d/30/5344483d163d5ba2/xun27zuw_t2_original.jpg?hash=2ed626870d7f6bbdd9cc0c9350eb927db0a87c064bc8616cc1c7d2e46d596614.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/14/d0/a7/e7/5344483cd1cad808/quw36fiz_original.jpg?hash=562ab96083459b945b74094e2cc0bb01329e365ce4ec60f6241faf4bfce584c9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      893
+    ],
+    "exSpouses": [],
+    "children": [
+      2163,
+      2164,
+      2165,
+      2166,
+      2167,
+      2168,
+      2169,
+      2170,
+      2171,
+      2172
+    ],
+    "siblings": [
+      2149
+    ],
+    "parentUnions": [
+      "F1324"
+    ],
+    "spouseUnions": [
+      "F556"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 893,
+        "unionId": "F556",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2163,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 2164,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 2165,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 2166,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 2167,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 2168,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 2169,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 2170,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 2171,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 2172,
+        "unionId": "F556",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028101431401@",
+    "geniId": "6000000028101431401",
+    "rfn": "geni:6000000028101431401",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/2162/",
+    "canonical": "https://www.genepedia.org/people/2162/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

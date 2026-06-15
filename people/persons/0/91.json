@@ -1,0 +1,123 @@
+{
+  "id": 91,
+  "schema": "genepedia/person@1",
+  "slug": "lizelle-de-koker",
+  "names": {
+    "display": "Lizelle De Koker",
+    "given": "Lizelle",
+    "surname": "De Koker",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/73/68/ad/d8/5344486623467e8c/screenshot_2024-07-05_200417_original.jpg?hash=3e8b9aa481d92a4882c1c419d7a947653b364c0ed08db5d5d8a727b5496459fe.1789455599",
+      "alt": "Lizelle De Koker"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/73/68/ad/d8/5344486623467e8c/screenshot_2024-07-05_200417_original.jpg?hash=3e8b9aa481d92a4882c1c419d7a947653b364c0ed08db5d5d8a727b5496459fe.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      249,
+      250
+    ],
+    "spouses": [
+      27
+    ],
+    "exSpouses": [],
+    "children": [
+      92,
+      93
+    ],
+    "siblings": [
+      251,
+      252,
+      253
+    ],
+    "parentUnions": [
+      "F79"
+    ],
+    "spouseUnions": [
+      "F33"
+    ],
+    "parentLinks": [
+      {
+        "id": 249,
+        "unionId": "F79",
+        "type": "biological"
+      },
+      {
+        "id": 250,
+        "unionId": "F79",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 27,
+        "unionId": "F33",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 92,
+        "unionId": "F33",
+        "type": "biological"
+      },
+      {
+        "id": 93,
+        "unionId": "F33",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207079904839@",
+    "geniId": "6000000207079904839",
+    "rfn": "geni:6000000207079904839",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/91/",
+    "canonical": "https://www.genepedia.org/people/91/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

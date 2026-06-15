@@ -1,0 +1,123 @@
+{
+  "id": 2636,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-hermanus-peyper-2636",
+  "names": {
+    "display": "Johannes Hermanus Peyper",
+    "given": "Johannes Hermanus",
+    "surname": "Peyper",
+    "married": "Pyper",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 APR 1869",
+      "year": 1869,
+      "iso": "1869-04-23",
+      "precision": "exact",
+      "display": "April 23, 1869",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "26 SEP 1869",
+      "year": 1869,
+      "iso": "1869-09-26",
+      "precision": "exact",
+      "display": "September 26, 1869",
+      "place": "Zeerust, North West, South Africa",
+      "location": {
+        "label": "Zeerust, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Zeerust",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2629,
+      1068
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2630,
+      2631,
+      2632,
+      2633,
+      2634,
+      2635,
+      2637,
+      2638,
+      2639
+    ],
+    "parentUnions": [
+      "F645"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2629,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 1068,
+        "unionId": "F645",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021308573556@",
+    "geniId": "6000000021308573556",
+    "rfn": "geni:6000000021308573556",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2636/",
+    "canonical": "https://www.genepedia.org/people/2636/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

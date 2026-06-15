@@ -1,0 +1,173 @@
+{
+  "id": 4233,
+  "schema": "genepedia/person@1",
+  "slug": "adam-godlieb-hefer",
+  "names": {
+    "display": "Adam Godlieb Hefer",
+    "given": "Adam Godlieb",
+    "surname": "Hefer",
+    "married": "Hefer",
+    "nick": "Adam Godlieb Heefer",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1792",
+      "year": 1792,
+      "iso": "1792",
+      "precision": "about",
+      "display": "about 1792",
+      "place": "Cape Town, South Africa",
+      "location": {
+        "label": "Cape Town, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 JUN 1828",
+      "year": 1828,
+      "iso": "1828-06-28",
+      "precision": "exact",
+      "display": "June 28, 1828",
+      "place": "Tygerhoek, Colesberg",
+      "location": {
+        "label": "Tygerhoek, Colesberg",
+        "placeName": "Tygerhoek",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "25 JAN 1801",
+      "year": 1801,
+      "iso": "1801-01-25",
+      "precision": "exact",
+      "display": "January 25, 1801",
+      "place": "Luthern church, Cape Town",
+      "location": {
+        "label": "Luthern church, Cape Town",
+        "placeName": "Luthern church",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f7/32/a3/7b/5344483eba2d2ce0/doop_rekords_bekker_kinders_2_original.jpg?hash=fe48fb987e6d9c8478f34c98ef8f655db1e1372106b8b092157cfb8079435a0f.1789455599",
+      "alt": "Adam Godlieb Hefer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f7/32/a3/7b/5344483eba2d2ce0/doop_rekords_bekker_kinders_2_original.jpg?hash=fe48fb987e6d9c8478f34c98ef8f655db1e1372106b8b092157cfb8079435a0f.1789455599",
+        "form": "",
+        "title": "Doop Rekords Bekker kinders",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/64/47/a6/df/5344483e7d31a1ed/sterfkennis_-_johanna_willemina_margaretha_bekker_hefer__original.jpg?hash=3f53a0e05081e26a2d865277e53bbacfe9cb47c1bfcfa16180710d6dcc895f51.1789455599",
+        "form": "",
+        "title": "Sterfkennis - Johanna Willemina Margaretha Bekker[Hefer] 1827 - 1866",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4232
+    ],
+    "exSpouses": [],
+    "children": [
+      1605
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F994"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4232,
+        "unionId": "F994",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1605,
+        "unionId": "F994",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000011103715734@",
+    "geniId": "6000000011103715734",
+    "rfn": "geni:6000000011103715734",
+    "changed": "10 APR 2025"
+  },
+  "page": {
+    "route": "people/4233/",
+    "canonical": "https://www.genepedia.org/people/4233/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

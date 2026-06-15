@@ -1,0 +1,127 @@
+{
+  "id": 618,
+  "schema": "genepedia/person@1",
+  "slug": "jaco-goodwin",
+  "names": {
+    "display": "Jaco Goodwin",
+    "given": "Jaco",
+    "surname": "Goodwin",
+    "married": "Goodwin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/32/0e/58/0a/534448659f0d57d9/10527349_10152343311939436_4108297810396750676_n_original.jpg?hash=ce9a9ad64b3279ace648bed2fdbc669d6edd75f244d20cc5d61e5964b1b07520.1789455599",
+      "alt": "Jaco Goodwin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/32/0e/58/0a/534448659f0d57d9/10527349_10152343311939436_4108297810396750676_n_original.jpg?hash=ce9a9ad64b3279ace648bed2fdbc669d6edd75f244d20cc5d61e5964b1b07520.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      616,
+      617
+    ],
+    "spouses": [
+      1514
+    ],
+    "exSpouses": [],
+    "children": [
+      1515,
+      1516,
+      1517
+    ],
+    "siblings": [
+      226
+    ],
+    "parentUnions": [
+      "F173"
+    ],
+    "spouseUnions": [
+      "F390"
+    ],
+    "parentLinks": [
+      {
+        "id": 616,
+        "unionId": "F173",
+        "type": "biological"
+      },
+      {
+        "id": 617,
+        "unionId": "F173",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1514,
+        "unionId": "F390",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1515,
+        "unionId": "F390",
+        "type": "biological"
+      },
+      {
+        "id": 1516,
+        "unionId": "F390",
+        "type": "biological"
+      },
+      {
+        "id": 1517,
+        "unionId": "F390",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204861642848@",
+    "geniId": "6000000204861642848",
+    "rfn": "geni:6000000204861642848",
+    "changed": "15 AUG 2024"
+  },
+  "page": {
+    "route": "people/618/",
+    "canonical": "https://www.genepedia.org/people/618/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

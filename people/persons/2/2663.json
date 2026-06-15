@@ -1,0 +1,153 @@
+{
+  "id": 2663,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-adriana-snyman",
+  "names": {
+    "display": "Jacoba Adriana Snyman",
+    "given": "Jacoba Adriana",
+    "surname": "Snyman",
+    "married": "Graaff",
+    "nick": "",
+    "aliases": [
+      "Jacoba Adriana Snyman Graaff"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 FEB 1852",
+      "year": 1852,
+      "iso": "1852-02-08",
+      "precision": "exact",
+      "display": "February 8, 1852",
+      "place": "Potchefstroom, Noord Wes, Suid Afrika",
+      "location": {
+        "label": "Potchefstroom, Noord Wes, Suid Afrika",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Noord Wes",
+        "country": "Suid Afrika",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "17 MAR 1853",
+      "year": 1853,
+      "iso": "1853-03-17",
+      "precision": "exact",
+      "display": "March 17, 1853",
+      "place": "Hervormde Kerk, Potchefstroom",
+      "location": {
+        "label": "Hervormde Kerk, Potchefstroom",
+        "placeName": "Hervormde Kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/6d/d0/3a/23/5344484f3c4290a6/jacoba_adriana_snyman_gebore_08_original.jpg?hash=ab5838aa7b89a2c18d408592b7ec51aca7f12ed8414026a48e1a422eef75b7ff.1789455599",
+      "alt": "Jacoba Adriana Snyman"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/6d/d0/3a/23/5344484f3c4290a6/jacoba_adriana_snyman_gebore_08_original.jpg?hash=ab5838aa7b89a2c18d408592b7ec51aca7f12ed8414026a48e1a422eef75b7ff.1789455599",
+        "form": "",
+        "title": "Jacoba Adriana Snyman Gebore 08.02.1852 Doop 17.03.1853 Potchefstroom.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1074
+    ],
+    "exSpouses": [],
+    "children": [
+      1126,
+      2664
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1643"
+    ],
+    "spouseUnions": [
+      "F652"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1074,
+        "unionId": "F652",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1126,
+        "unionId": "F652",
+        "type": "biological"
+      },
+      {
+        "id": 2664,
+        "unionId": "F652",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000046818050860@",
+    "geniId": "6000000046818050860",
+    "rfn": "geni:6000000046818050860",
+    "changed": "12 MAY 2023"
+  },
+  "page": {
+    "route": "people/2663/",
+    "canonical": "https://www.genepedia.org/people/2663/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

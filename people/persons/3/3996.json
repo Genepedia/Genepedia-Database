@@ -1,0 +1,102 @@
+{
+  "id": 3996,
+  "schema": "genepedia/person@1",
+  "slug": "christiaan-jacobs",
+  "names": {
+    "display": "Christiaan Jacobs",
+    "given": "Christiaan",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 AUG 1888",
+      "year": 1888,
+      "iso": "1888-08-09",
+      "precision": "exact",
+      "display": "August 9, 1888",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1538,
+      3987
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3988,
+      3989,
+      3990,
+      3991,
+      3992,
+      3993,
+      3994,
+      3995,
+      3997,
+      3998,
+      3999
+    ],
+    "parentUnions": [
+      "F934"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1538,
+        "unionId": "F934",
+        "type": "biological"
+      },
+      {
+        "id": 3987,
+        "unionId": "F934",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000185122629895@",
+    "geniId": "6000000185122629895",
+    "rfn": "geni:6000000185122629895",
+    "changed": "22 MAY 2022"
+  },
+  "page": {
+    "route": "people/3996/",
+    "canonical": "https://www.genepedia.org/people/3996/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

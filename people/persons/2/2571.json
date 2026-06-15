@@ -1,0 +1,122 @@
+{
+  "id": 2571,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-judith-fourie",
+  "names": {
+    "display": "Magdalena Judith Fourie",
+    "given": "Magdalena Judith",
+    "surname": "Fourie",
+    "married": "Janse(n) van Vuuren",
+    "nick": "Magdalena Judith Fourie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 DEC 1801",
+      "year": 1801,
+      "iso": "1801-12-17",
+      "precision": "exact",
+      "display": "December 17, 1801",
+      "place": null
+    },
+    "death": {
+      "date": "14 DEC 1887",
+      "year": 1887,
+      "iso": "1887-12-14",
+      "precision": "exact",
+      "display": "December 14, 1887",
+      "place": null
+    },
+    "baptism": {
+      "date": "27 DEC 1801",
+      "year": 1801,
+      "iso": "1801-12-27",
+      "precision": "exact",
+      "display": "December 27, 1801",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2565,
+      2566
+    ],
+    "spouses": [
+      2604
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2567,
+      2568,
+      1060,
+      2569,
+      2570,
+      2572
+    ],
+    "parentUnions": [
+      "F639"
+    ],
+    "spouseUnions": [
+      "F1575",
+      "F1576"
+    ],
+    "parentLinks": [
+      {
+        "id": 2565,
+        "unionId": "F639",
+        "type": "biological"
+      },
+      {
+        "id": 2566,
+        "unionId": "F639",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2604,
+        "unionId": "F1575",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000023049687912@",
+    "geniId": "6000000023049687912",
+    "rfn": "geni:6000000023049687912",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2571/",
+    "canonical": "https://www.genepedia.org/people/2571/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,167 @@
+{
+  "id": 2147,
+  "schema": "genepedia/person@1",
+  "slug": "alexander-william-sinden",
+  "names": {
+    "display": "Alexander William Sinden",
+    "given": "Alexander William",
+    "surname": "Sinden",
+    "married": "Sinden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 MAR 1830",
+      "year": 1830,
+      "iso": "1830-03-07",
+      "precision": "exact",
+      "display": "March 7, 1830",
+      "place": null
+    },
+    "death": {
+      "date": "29 JAN 1831",
+      "year": 1831,
+      "iso": "1831-01-29",
+      "precision": "exact",
+      "display": "January 29, 1831",
+      "place": "Stellenbosch",
+      "location": {
+        "label": "Stellenbosch",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Stellenbosch",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "9 MAY 1830",
+      "year": 1830,
+      "iso": "1830-05-09",
+      "precision": "exact",
+      "display": "May 9, 1830",
+      "place": "Paarl, Western Cape, South Africa",
+      "location": {
+        "label": "Paarl, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/fd/f5/dd/75/5344486216c24e2d/died_young_original.jpg?hash=8fa2bba03ca9fe7f52b87b3a30c0c11a47bb3316f968fcf54c1cdeb270d4a448.1789455599",
+      "alt": "Alexander William Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/fd/f5/dd/75/5344486216c24e2d/died_young_original.jpg?hash=8fa2bba03ca9fe7f52b87b3a30c0c11a47bb3316f968fcf54c1cdeb270d4a448.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/b5/cc/1f/38/5344484b24efd1f8/record-image_undefined_1__original.jpg?hash=81e34804f490bb22bbe65db9eb6e643a2669f9b7583be3f8058f7c996bc80867.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2136,
+      2137
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2138,
+      2139,
+      2140,
+      2141,
+      2142,
+      887,
+      2143,
+      2144,
+      2145,
+      2146,
+      2148
+    ],
+    "parentUnions": [
+      "F554"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2136,
+        "unionId": "F554",
+        "type": "biological"
+      },
+      {
+        "id": 2137,
+        "unionId": "F554",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028063621372@",
+    "geniId": "6000000028063621372",
+    "rfn": "geni:6000000028063621372",
+    "changed": "01 MAR 2023"
+  },
+  "page": {
+    "route": "people/2147/",
+    "canonical": "https://www.genepedia.org/people/2147/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

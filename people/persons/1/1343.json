@@ -1,0 +1,184 @@
+{
+  "id": 1343,
+  "schema": "genepedia/person@1",
+  "slug": "sophia-christina-margaretha-visser-b2c4de2fgh7",
+  "names": {
+    "display": "Sophia Christina Margaretha Visser b2c4de2fgh7",
+    "given": "Sophia Christina Margaretha",
+    "surname": "Visser",
+    "married": "Palvie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 JAN 1846",
+      "year": 1846,
+      "iso": "1846-01-09",
+      "precision": "exact",
+      "display": "January 9, 1846",
+      "place": "Piketberg, Western Cape, South Africa",
+      "location": {
+        "label": "Piketberg, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Piketberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1919",
+      "year": 1919,
+      "iso": "1919",
+      "precision": "exact",
+      "display": "1919",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3417,
+      3418
+    ],
+    "spouses": [
+      1344
+    ],
+    "exSpouses": [],
+    "children": [
+      1345,
+      1346,
+      1347,
+      547,
+      1348,
+      1349,
+      1350,
+      1351
+    ],
+    "siblings": [
+      3419,
+      3420,
+      3421,
+      3422,
+      3423,
+      3424,
+      3425,
+      3426,
+      3427,
+      3428
+    ],
+    "parentUnions": [
+      "F838"
+    ],
+    "spouseUnions": [
+      "F346"
+    ],
+    "parentLinks": [
+      {
+        "id": 3417,
+        "unionId": "F838",
+        "type": "biological"
+      },
+      {
+        "id": 3418,
+        "unionId": "F838",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1344,
+        "unionId": "F346",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1345,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 1346,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 1347,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 547,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 1348,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 1349,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 1350,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 1351,
+        "unionId": "F346",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000006243710896@",
+    "geniId": "6000000006243710896",
+    "rfn": "geni:6000000006243710896",
+    "changed": "11 APR 2024"
+  },
+  "page": {
+    "route": "people/1343/",
+    "canonical": "https://www.genepedia.org/people/1343/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

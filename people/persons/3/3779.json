@@ -1,0 +1,169 @@
+{
+  "id": 3779,
+  "schema": "genepedia/person@1",
+  "slug": "jeremia-daniel-van-reenen",
+  "names": {
+    "display": "Jeremia Daniel van Reenen",
+    "given": "Jeremia Daniel",
+    "surname": "van Reenen",
+    "married": "van Reenen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 MAY 1893",
+      "year": 1893,
+      "iso": "1893-05-14",
+      "precision": "exact",
+      "display": "May 14, 1893",
+      "place": null
+    },
+    "death": {
+      "date": "22 MAY 1965",
+      "year": 1965,
+      "iso": "1965-05-22",
+      "precision": "exact",
+      "display": "May 22, 1965",
+      "place": "Kakamas, Cape Province, South Africa",
+      "location": {
+        "label": "Kakamas, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kakamas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kakamas, Cape Province, South Africa",
+      "location": {
+        "label": "Kakamas, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kakamas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/9d/9f/69/96/534448679e14a947/jeremia_daniel_van_reenen_1893-1965_and_magdalena_maria_van_reenen_smith_1900-1975_kakamas_original.jpg?hash=0a2649d28d3867ca4e9b4bd82d5eebf8f0375fefda6dfd56c2f4a3801bfef312.1789455599",
+      "alt": "Jeremia Daniel van Reenen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/9d/9f/69/96/534448679e14a947/jeremia_daniel_van_reenen_1893-1965_and_magdalena_maria_van_reenen_smith_1900-1975_kakamas_original.jpg?hash=0a2649d28d3867ca4e9b4bd82d5eebf8f0375fefda6dfd56c2f4a3801bfef312.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/49/97/01/5d/534448679e17358d/jeremia_daniel_van_reenen_marriage_1_sept_1919_kakamas_original.jpg?hash=abe40a99325347be0b5b5e396e2c4caf4986e19469076546945b14d1f4ece70c.1789455599",
+        "form": "",
+        "title": "Jeremia Daniel van Reenen Marriage 1 Sept 1919 Kakamas.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/66/dd/fc/72/534448679e18cbd6/izak_andries_van_niekerk_van_reenen_baptism_28_nov_1920_kakamas_original.jpg?hash=afb5dd5fc1f5d02f8ffb7a7b8ccd86b89d7016476fabf060875ace7c41ae6bc0.1789455599",
+        "form": "",
+        "title": "Izak Andries van Niekerk van Reenen Baptism 28 Nov 1920 Kakamas.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3775,
+      1436
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3776,
+      3777,
+      3778,
+      3780,
+      3781
+    ],
+    "parentUnions": [
+      "F902"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3775,
+        "unionId": "F902",
+        "type": "biological"
+      },
+      {
+        "id": 1436,
+        "unionId": "F902",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026235229022@",
+    "geniId": "6000000026235229022",
+    "rfn": "geni:6000000026235229022",
+    "changed": "05 JAN 2025"
+  },
+  "page": {
+    "route": "people/3779/",
+    "canonical": "https://www.genepedia.org/people/3779/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 691,
+  "schema": "genepedia/person@1",
+  "slug": "mcmillan",
+  "names": {
+    "display": "? Mcmillan",
+    "given": "?",
+    "surname": "Mcmillan",
+    "married": "Mcmillan",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      272
+    ],
+    "exSpouses": [],
+    "children": [
+      692
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F194"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 272,
+        "unionId": "F194",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 692,
+        "unionId": "F194",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207589223857@",
+    "geniId": "6000000207589223857",
+    "rfn": "geni:6000000207589223857",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/691/",
+    "canonical": "https://www.genepedia.org/people/691/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

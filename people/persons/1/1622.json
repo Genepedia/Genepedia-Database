@@ -1,0 +1,123 @@
+{
+  "id": 1622,
+  "schema": "genepedia/person@1",
+  "slug": "machiel-magrietha-de-beer",
+  "names": {
+    "display": "Machiel Magrietha de Beer",
+    "given": "Machiel Magrietha",
+    "surname": "Diedericks",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1906",
+      "year": 1906,
+      "iso": "1906",
+      "precision": "about",
+      "display": "about 1906",
+      "place": null
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Germiston, Transvaal, South Africa",
+      "location": {
+        "label": "Germiston, Transvaal, South Africa",
+        "placeName": "Germiston, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4299,
+      4298
+    ],
+    "spouses": [
+      650
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1010"
+    ],
+    "spouseUnions": [
+      "F414"
+    ],
+    "parentLinks": [
+      {
+        "id": 4299,
+        "unionId": "F1010",
+        "type": "biological"
+      },
+      {
+        "id": 4298,
+        "unionId": "F1010",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 650,
+        "unionId": "F414",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207324530862@",
+    "geniId": "6000000207324530862",
+    "rfn": "geni:6000000207324530862",
+    "changed": "14 JUL 2024"
+  },
+  "page": {
+    "route": "people/1622/",
+    "canonical": "https://www.genepedia.org/people/1622/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

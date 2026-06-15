@@ -1,0 +1,188 @@
+{
+  "id": 1159,
+  "schema": "genepedia/person@1",
+  "slug": "martha-wilhelmina-sophia-havenga",
+  "names": {
+    "display": "Martha Wilhelmina Sophia Havenga",
+    "given": "Martha Wilhelmina Sophia",
+    "surname": "Havenga",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 APR 1885",
+      "year": 1885,
+      "iso": "1885-04-12",
+      "precision": "exact",
+      "display": "April 12, 1885",
+      "place": "Prieska, Northern Cape, South Africa",
+      "location": {
+        "label": "Prieska, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prieska",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "29 AUG 1921",
+      "year": 1921,
+      "iso": "1921-08-29",
+      "precision": "exact",
+      "display": "August 29, 1921",
+      "place": "\"\"Riedsdrift\", District Hay",
+      "location": {
+        "label": "\"\"Riedsdrift\", District Hay",
+        "placeName": "\"\"Riedsdrift\", District Hay",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e7/75/2f/e8/53444838c4faa0e1/p24_aux_192_256_original.jpg?hash=7ad13e375615c730cd6c2ca341924beb77569a401ad199ec0ef02489f2d7a48e.1789455599",
+      "alt": "Martha Wilhelmina Sophia Havenga"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e7/75/2f/e8/53444838c4faa0e1/p24_aux_192_256_original.jpg?hash=7ad13e375615c730cd6c2ca341924beb77569a401ad199ec0ef02489f2d7a48e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2899,
+      2900
+    ],
+    "spouses": [
+      451
+    ],
+    "exSpouses": [],
+    "children": [
+      1160,
+      1161,
+      1162,
+      1163,
+      1164
+    ],
+    "siblings": [
+      2901,
+      2902,
+      2903,
+      2904
+    ],
+    "parentUnions": [
+      "F714"
+    ],
+    "spouseUnions": [
+      "F306"
+    ],
+    "parentLinks": [
+      {
+        "id": 2899,
+        "unionId": "F714",
+        "type": "biological"
+      },
+      {
+        "id": 2900,
+        "unionId": "F714",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 451,
+        "unionId": "F306",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1160,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1161,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1162,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1163,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1164,
+        "unionId": "F306",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000012224613395@",
+    "geniId": "6000000012224613395",
+    "rfn": "geni:6000000012224613395",
+    "changed": "14 JAN 2017"
+  },
+  "page": {
+    "route": "people/1159/",
+    "canonical": "https://www.genepedia.org/people/1159/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1970,
+  "schema": "genepedia/person@1",
+  "slug": "andries-lodewikus-van-der-walt",
+  "names": {
+    "display": "Andries Lodewikus van der Walt",
+    "given": "Andries Lodewikus",
+    "surname": "van der Walt",
+    "married": "van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "MAR 1855",
+      "year": 1855,
+      "iso": "1855-03",
+      "precision": "exact",
+      "display": "March 1855",
+      "place": "Rietfontein, Hanover, NC, South Africa",
+      "location": {
+        "label": "Rietfontein, Hanover, NC, South Africa",
+        "placeName": "Rietfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hanover",
+        "postalCode": "7005",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 JUN 1931",
+      "year": 1931,
+      "iso": "1931-06-15",
+      "precision": "exact",
+      "display": "June 15, 1931",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1962,
+      1963
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1964,
+      1965,
+      1966,
+      821,
+      1967,
+      1968,
+      1969,
+      1971,
+      1972,
+      1973,
+      1974
+    ],
+    "parentUnions": [
+      "F511"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1962,
+        "unionId": "F511",
+        "type": "biological"
+      },
+      {
+        "id": 1963,
+        "unionId": "F511",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000171938413004@",
+    "geniId": "6000000171938413004",
+    "rfn": "geni:6000000171938413004",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1970/",
+    "canonical": "https://www.genepedia.org/people/1970/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

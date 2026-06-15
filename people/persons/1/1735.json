@@ -1,0 +1,101 @@
+{
+  "id": 1735,
+  "schema": "genepedia/person@1",
+  "slug": "peter-quinn-1735",
+  "names": {
+    "display": "Peter Quinn",
+    "given": "Peter",
+    "surname": "Quinn",
+    "married": "Quinn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JUN 1887",
+      "year": 1887,
+      "iso": "1887-06-18",
+      "precision": "exact",
+      "display": "June 18, 1887",
+      "place": null
+    },
+    "death": {
+      "date": "14 JUL 1965",
+      "year": 1965,
+      "iso": "1965-07-14",
+      "precision": "exact",
+      "display": "July 14, 1965",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1733,
+      1732
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1734,
+      1736,
+      723
+    ],
+    "parentUnions": [
+      "F455"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1733,
+        "unionId": "F455",
+        "type": "biological"
+      },
+      {
+        "id": 1732,
+        "unionId": "F455",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000060520900844@",
+    "geniId": "6000000060520900844",
+    "rfn": "geni:6000000060520900844",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/1735/",
+    "canonical": "https://www.genepedia.org/people/1735/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

@@ -1,0 +1,110 @@
+{
+  "id": 796,
+  "schema": "genepedia/person@1",
+  "slug": "patricia-ellis",
+  "names": {
+    "display": "Patricia Ellis",
+    "given": "Patricia",
+    "surname": "Ellis",
+    "married": "Schulz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e3/5d/2b/5b/534448665756a27a/jpg_12__original.jpg?hash=063b2ebe2d75d2d1b4e9c87459618011270dbe484d2b5553f3fde70e3a729674.1789455599",
+      "alt": "Patricia Ellis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e3/5d/2b/5b/534448665756a27a/jpg_12__original.jpg?hash=063b2ebe2d75d2d1b4e9c87459618011270dbe484d2b5553f3fde70e3a729674.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      794,
+      795
+    ],
+    "spouses": [
+      1834
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      313,
+      797,
+      798,
+      799
+    ],
+    "parentUnions": [
+      "F222"
+    ],
+    "spouseUnions": [
+      "F486"
+    ],
+    "parentLinks": [
+      {
+        "id": 794,
+        "unionId": "F222",
+        "type": "biological"
+      },
+      {
+        "id": 795,
+        "unionId": "F222",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1834,
+        "unionId": "F486",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207953428862@",
+    "geniId": "6000000207953428862",
+    "rfn": "geni:6000000207953428862",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/796/",
+    "canonical": "https://www.genepedia.org/people/796/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

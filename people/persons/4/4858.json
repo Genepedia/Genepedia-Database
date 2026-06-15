@@ -1,0 +1,144 @@
+{
+  "id": 4858,
+  "schema": "genepedia/person@1",
+  "slug": "zacharias-pretorius",
+  "names": {
+    "display": "Zacharias Pretorius",
+    "given": "Zacharias",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 DEC 1845",
+      "year": 1845,
+      "iso": "1845-12-27",
+      "precision": "exact",
+      "display": "December 27, 1845",
+      "place": null
+    },
+    "death": {
+      "date": "1 NOV 1868",
+      "year": 1868,
+      "iso": "1868-11-01",
+      "precision": "exact",
+      "display": "November 1, 1868",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "18 JAN 1846",
+      "year": 1846,
+      "iso": "1846-01-18",
+      "precision": "exact",
+      "display": "January 18, 1846",
+      "place": "bo-Seekoeirivier, Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "bo-Seekoeirivier, Colesberg, Northern Cape, South Africa",
+        "placeName": "bo-Seekoeirivier",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4859
+    ],
+    "exSpouses": [],
+    "children": [
+      1904,
+      4860
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1156"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4859,
+        "unionId": "F1156",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1904,
+        "unionId": "F1156",
+        "type": "biological"
+      },
+      {
+        "id": 4860,
+        "unionId": "F1156",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000077983702006@",
+    "geniId": "6000000077983702006",
+    "rfn": "geni:6000000077983702006",
+    "changed": "08 APR 2025"
+  },
+  "page": {
+    "route": "people/4858/",
+    "canonical": "https://www.genepedia.org/people/4858/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

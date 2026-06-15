@@ -1,0 +1,93 @@
+{
+  "id": 2632,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-martha-peyper",
+  "names": {
+    "display": "Catharina Martha Peyper",
+    "given": "Catharina Martha",
+    "surname": "Peyper",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2629,
+      1068
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2630,
+      2631,
+      2633,
+      2634,
+      2635,
+      2636,
+      2637,
+      2638,
+      2639
+    ],
+    "parentUnions": [
+      "F645"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2629,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 1068,
+        "unionId": "F645",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000220242563863@",
+    "geniId": "6000000220242563863",
+    "rfn": "geni:6000000220242563863",
+    "changed": "26 JUL 2025"
+  },
+  "page": {
+    "route": "people/2632/",
+    "canonical": "https://www.genepedia.org/people/2632/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

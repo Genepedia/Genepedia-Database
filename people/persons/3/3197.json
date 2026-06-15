@@ -1,0 +1,107 @@
+{
+  "id": 3197,
+  "schema": "genepedia/person@1",
+  "slug": "andries-jacobus-vorster",
+  "names": {
+    "display": "Andries Jacobus Vorster",
+    "given": "Andries Jacobus",
+    "surname": "Vorster",
+    "married": "Vorster",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 MAR 1897",
+      "year": 1897,
+      "iso": "1897-03-07",
+      "precision": "exact",
+      "display": "March 7, 1897",
+      "place": null
+    },
+    "death": {
+      "date": "29 FEB 1968",
+      "year": 1968,
+      "iso": "1968-02-29",
+      "precision": "exact",
+      "display": "February 29, 1968",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3196,
+      3195
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1284,
+      3198,
+      3199,
+      3200,
+      3201,
+      3202,
+      3203,
+      3204,
+      3205
+    ],
+    "parentUnions": [
+      "F787"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3196,
+        "unionId": "F787",
+        "type": "biological"
+      },
+      {
+        "id": 3195,
+        "unionId": "F787",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025542643409@",
+    "geniId": "6000000025542643409",
+    "rfn": "geni:6000000025542643409",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3197/",
+    "canonical": "https://www.genepedia.org/people/3197/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

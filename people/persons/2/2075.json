@@ -1,0 +1,90 @@
+{
+  "id": 2075,
+  "schema": "genepedia/person@1",
+  "slug": "private4-meyer",
+  "names": {
+    "display": "<Private4> Meyer",
+    "given": "<Private4>",
+    "surname": "Pretorius",
+    "married": "Meyer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2073,
+      858
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2074,
+      2076,
+      2077,
+      2078,
+      2079,
+      2080
+    ],
+    "parentUnions": [
+      "F542"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2073,
+        "unionId": "F542",
+        "type": "biological"
+      },
+      {
+        "id": 858,
+        "unionId": "F542",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066616522901@",
+    "geniId": "6000000066616522901",
+    "rfn": "geni:6000000066616522901",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2075/",
+    "canonical": "https://www.genepedia.org/people/2075/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

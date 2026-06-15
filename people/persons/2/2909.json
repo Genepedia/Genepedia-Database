@@ -1,0 +1,85 @@
+{
+  "id": 2909,
+  "schema": "genepedia/person@1",
+  "slug": "wilma-human",
+  "names": {
+    "display": "Wilma Human",
+    "given": "Wilma",
+    "surname": "Human",
+    "married": "du Plessis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2907,
+      1162
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2908
+    ],
+    "parentUnions": [
+      "F716"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2907,
+        "unionId": "F716",
+        "type": "biological"
+      },
+      {
+        "id": 1162,
+        "unionId": "F716",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000068692415821@",
+    "geniId": "6000000068692415821",
+    "rfn": "geni:6000000068692415821",
+    "changed": "08 OCT 2017"
+  },
+  "page": {
+    "route": "people/2909/",
+    "canonical": "https://www.genepedia.org/people/2909/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

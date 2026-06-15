@@ -1,0 +1,199 @@
+{
+  "id": 650,
+  "schema": "genepedia/person@1",
+  "slug": "frederik-stephanus-jacobus-de-beer",
+  "names": {
+    "display": "Frederik Stephanus Jacobus De Beer",
+    "given": "Frederik Stephanus Jacobus",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 AUG 1877",
+      "year": 1877,
+      "iso": "1877-08-23",
+      "precision": "exact",
+      "display": "August 23, 1877",
+      "place": "Wepener, Orange Free State, South Africa",
+      "location": {
+        "label": "Wepener, Orange Free State, South Africa",
+        "placeName": "Wepener, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 NOV 1939",
+      "year": 1939,
+      "iso": "1939-11-10",
+      "precision": "exact",
+      "display": "November 10, 1939",
+      "place": "Alberton, Transvaal, South Africa",
+      "location": {
+        "label": "Alberton, Transvaal, South Africa",
+        "placeName": "Alberton, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Germiston, Transvaal, South Africa",
+      "location": {
+        "label": "Germiston, Transvaal, South Africa",
+        "placeName": "Germiston, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/69/10/94/3b/5344486631cbb7dd/abw_pow_bermuda_original.jpg?hash=fbac464bc66db24031a9ab54d9927e816289437cf0c3eb04a51d01dc6edbfc86.1789455599",
+      "alt": "Frederik Stephanus Jacobus De Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/69/10/94/3b/5344486631cbb7dd/abw_pow_bermuda_original.jpg?hash=fbac464bc66db24031a9ab54d9927e816289437cf0c3eb04a51d01dc6edbfc86.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      646,
+      645
+    ],
+    "spouses": [
+      1620,
+      1622
+    ],
+    "exSpouses": [],
+    "children": [
+      1621
+    ],
+    "siblings": [
+      647,
+      648,
+      649,
+      651,
+      652,
+      653,
+      654,
+      247
+    ],
+    "parentUnions": [
+      "F181"
+    ],
+    "spouseUnions": [
+      "F413",
+      "F414"
+    ],
+    "parentLinks": [
+      {
+        "id": 646,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 645,
+        "unionId": "F181",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1620,
+        "unionId": "F413",
+        "role": "wife"
+      },
+      {
+        "id": 1622,
+        "unionId": "F414",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1621,
+        "unionId": "F413",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000061611031375@",
+    "geniId": "6000000061611031375",
+    "rfn": "geni:6000000061611031375",
+    "changed": "13 DEC 2025"
+  },
+  "page": {
+    "route": "people/650/",
+    "canonical": "https://www.genepedia.org/people/650/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,141 @@
+{
+  "id": 4081,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-margaretha-snyders",
+  "names": {
+    "display": "Johanna Margaretha Snyders",
+    "given": "Johanna Margaretha",
+    "surname": "Snyders",
+    "married": "Jacobs",
+    "nick": "Snijders",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 JUN 1825",
+      "year": 1825,
+      "iso": "1825-06-07",
+      "precision": "exact",
+      "display": "June 7, 1825",
+      "place": "Nuweveld, Cape Colony, Suid Afrika",
+      "location": {
+        "label": "Nuweveld, Cape Colony, Suid Afrika",
+        "placeName": "Nuweveld",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "Suid Afrika",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 FEB 1856",
+      "year": 1856,
+      "iso": "1856-02-10",
+      "precision": "exact",
+      "display": "February 10, 1856",
+      "place": "Rietfontein, Cape Colony, South Africa",
+      "location": {
+        "label": "Rietfontein, Cape Colony, South Africa",
+        "placeName": "Rietfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4078,
+      4077
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4079,
+      4080,
+      1550,
+      4082,
+      4083,
+      4084,
+      4085,
+      4086,
+      4087,
+      4088,
+      4089
+    ],
+    "parentUnions": [
+      "F947"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4078,
+        "unionId": "F947",
+        "type": "biological"
+      },
+      {
+        "id": 4077,
+        "unionId": "F947",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029847794053@",
+    "geniId": "6000000029847794053",
+    "rfn": "geni:6000000029847794053",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/4081/",
+    "canonical": "https://www.genepedia.org/people/4081/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

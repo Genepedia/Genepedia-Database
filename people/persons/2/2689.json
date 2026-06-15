@@ -1,0 +1,214 @@
+{
+  "id": 2689,
+  "schema": "genepedia/person@1",
+  "slug": "aletta-johanna-maria-janse-van-vuuren",
+  "names": {
+    "display": "Aletta Johanna Maria Janse van Vuuren",
+    "given": "Aletta Johanna Maria",
+    "surname": "Janse van Vuuren",
+    "married": "Kotze",
+    "nick": "",
+    "aliases": [
+      "Aletta Johanna Maria Kotze (Janse van Vuuren)"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 AUG 1871",
+      "year": 1871,
+      "iso": "1871-08-09",
+      "precision": "exact",
+      "display": "August 9, 1871",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 FEB 1942",
+      "year": 1942,
+      "iso": "1942-02-11",
+      "precision": "exact",
+      "display": "February 11, 1942",
+      "place": "Kimberley Hospitaal, Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley Hospitaal, Kimberley, Northern Cape, South Africa",
+        "placeName": "Kimberley Hospitaal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Main Cemetery, Bucklands",
+      "location": {
+        "label": "Main Cemetery, Bucklands",
+        "placeName": "Main Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bucklands",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Huisvrou",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/10/c7/f1/46/53444862f6d7c0bc/imgp0407_original.jpg?hash=940ddfd90444596516a15019445b3a39ba9ed5081dfc6ea1df92eaef3ddf260e.1789455599",
+      "alt": "Aletta Johanna Maria Janse van Vuuren"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/10/c7/f1/46/53444862f6d7c0bc/imgp0407_original.jpg?hash=940ddfd90444596516a15019445b3a39ba9ed5081dfc6ea1df92eaef3ddf260e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/14/0f/9e/b8/53444862f6d5e044/record-image__original.jpg?hash=0cc855d79419af81ec1d9886123e60115424a4c089de34addfe2381c0e5dd42a.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/4a/0a/35/c6/53444862f6db46cd/record-image__original.jpg?hash=ba3d43f0838c9a6e2c6221031ea145bb2196435e73a213e4c4f567d45491e613.1789455599",
+        "form": "",
+        "title": "record-image_trou 1896 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2709
+    ],
+    "spouses": [
+      1079
+    ],
+    "exSpouses": [],
+    "children": [
+      2690,
+      2691,
+      2692,
+      2693
+    ],
+    "siblings": [
+      2557,
+      2724
+    ],
+    "parentUnions": [
+      "F1566"
+    ],
+    "spouseUnions": [
+      "F659"
+    ],
+    "parentLinks": [
+      {
+        "id": 2709,
+        "unionId": "F1566",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1079,
+        "unionId": "F659",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2690,
+        "unionId": "F659",
+        "type": "biological"
+      },
+      {
+        "id": 2691,
+        "unionId": "F659",
+        "type": "biological"
+      },
+      {
+        "id": 2692,
+        "unionId": "F659",
+        "type": "biological"
+      },
+      {
+        "id": 2693,
+        "unionId": "F659",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000070628977469@",
+    "geniId": "6000000070628977469",
+    "rfn": "geni:6000000070628977469",
+    "changed": "25 SEP 2025"
+  },
+  "page": {
+    "route": "people/2689/",
+    "canonical": "https://www.genepedia.org/people/2689/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

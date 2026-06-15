@@ -1,0 +1,157 @@
+{
+  "id": 731,
+  "schema": "genepedia/person@1",
+  "slug": "jacob-lurie",
+  "names": {
+    "display": "Jacob Lurie",
+    "given": "Jacob",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "Jack",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1898",
+      "year": 1898,
+      "iso": "1898",
+      "precision": "exact",
+      "display": "1898",
+      "place": "Laižuva, Telšiai County, Lithuania",
+      "location": {
+        "label": "Laižuva, Telšiai County, Lithuania",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Laižuva",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Telšiai County",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 MAR 1954",
+      "year": 1954,
+      "iso": "1954-03-27",
+      "precision": "exact",
+      "display": "March 27, 1954",
+      "place": "Queens Central Hospital, South Africa",
+      "location": {
+        "label": "Queens Central Hospital, South Africa",
+        "placeName": "Queens Central Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Shop Keeper",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d6/f6/d2/d9/534448667d11a96d/image_3__original.jpg?hash=3d9f2c41b7f1ad99de55c3d0b304fffca79f819586532e742048af5e81524bd1.1789455599",
+      "alt": "Jacob Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d6/f6/d2/d9/534448667d11a96d/image_3__original.jpg?hash=3d9f2c41b7f1ad99de55c3d0b304fffca79f819586532e742048af5e81524bd1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/7b/ab/66/95/534448667d1143e5/image_2__original.jpg?hash=49746ac6c4caab371e7c4955f682cd8c0da01a816eb0dade9fab3357a6cd6171.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      725,
+      726
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      727,
+      728,
+      729,
+      730,
+      297,
+      732,
+      733,
+      734
+    ],
+    "parentUnions": [
+      "F206"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 725,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 726,
+        "unionId": "F206",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208585960911@",
+    "geniId": "6000000208585960911",
+    "rfn": "geni:6000000208585960911",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/731/",
+    "canonical": "https://www.genepedia.org/people/731/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

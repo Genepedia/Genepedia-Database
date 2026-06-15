@@ -1,0 +1,87 @@
+{
+  "id": 4539,
+  "schema": "genepedia/person@1",
+  "slug": "kathleen-harriet-van-zyl",
+  "names": {
+    "display": "Kathleen Harriet Van Zyl",
+    "given": "Kathleen Harriet",
+    "surname": "Van Zyl",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1784,
+      4537
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4538,
+      4540,
+      4541
+    ],
+    "parentUnions": [
+      "F1081"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1784,
+        "unionId": "F1081",
+        "type": "biological"
+      },
+      {
+        "id": 4537,
+        "unionId": "F1081",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204898336837@",
+    "geniId": "6000000204898336837",
+    "rfn": "geni:6000000204898336837",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/4539/",
+    "canonical": "https://www.genepedia.org/people/4539/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

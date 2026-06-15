@@ -1,0 +1,202 @@
+{
+  "id": 1948,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-jooste",
+  "names": {
+    "display": "Martha Maria Jooste",
+    "given": "Martha Maria",
+    "surname": "Jooste",
+    "married": "du Plessis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 DEC 1824",
+      "year": 1824,
+      "iso": "1824-12-07",
+      "precision": "exact",
+      "display": "December 7, 1824",
+      "place": "Cradock, Eastern Cape, South Africa",
+      "location": {
+        "label": "Cradock, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cradock",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 MAY 1873",
+      "year": 1873,
+      "iso": "1873-05-09",
+      "precision": "exact",
+      "display": "May 9, 1873",
+      "place": null
+    },
+    "baptism": {
+      "date": "17 APR 1825",
+      "year": 1825,
+      "iso": "1825-04-17",
+      "precision": "exact",
+      "display": "April 17, 1825",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/72/66/71/6a/5344483ff5b938df/marthamaria_duplessis_1873_1082419_1__original.jpg?hash=9afc81ffb4e1b9e6b78ec0ce141c921355dd8c4ee62ab1ae6ad02ceb4da6261d.1789455599",
+      "alt": "Martha Maria Jooste"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/72/66/71/6a/5344483ff5b938df/marthamaria_duplessis_1873_1082419_1__original.jpg?hash=9afc81ffb4e1b9e6b78ec0ce141c921355dd8c4ee62ab1ae6ad02ceb4da6261d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1947
+    ],
+    "exSpouses": [],
+    "children": [
+      1949,
+      1950,
+      820,
+      1951,
+      1952,
+      1953,
+      1954,
+      1955,
+      1956,
+      1957,
+      1958,
+      1959
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1193"
+    ],
+    "spouseUnions": [
+      "F509"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1947,
+        "unionId": "F509",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1949,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1950,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 820,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1951,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1952,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1953,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1954,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1955,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1956,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1957,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1958,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1959,
+        "unionId": "F509",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000033373012560@",
+    "geniId": "6000000033373012560",
+    "rfn": "geni:6000000033373012560",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1948/",
+    "canonical": "https://www.genepedia.org/people/1948/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

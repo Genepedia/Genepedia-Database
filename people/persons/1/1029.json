@@ -1,0 +1,143 @@
+{
+  "id": 1029,
+  "schema": "genepedia/person@1",
+  "slug": "anna-barbara-jacobs",
+  "names": {
+    "display": "Anna Barbara Jacobs",
+    "given": "Anna Barbara",
+    "surname": "Jacobs",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 JUL 1911",
+      "year": 1911,
+      "iso": "1911-07-28",
+      "precision": "exact",
+      "display": "July 28, 1911",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 NOV 1914",
+      "year": 1914,
+      "iso": "1914-11-06",
+      "precision": "exact",
+      "display": "November 6, 1914",
+      "place": "Kimberley",
+      "location": {
+        "label": "Kimberley",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/1d/24/f1/de/53444865c1a285da/image_original.jpg?hash=02547eff55085309cb575f53316dc33736a18b8bf31696d3578223e9070cdad3.1789455599",
+      "alt": "Anna Barbara Jacobs"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/1d/24/f1/de/53444865c1a285da/image_original.jpg?hash=02547eff55085309cb575f53316dc33736a18b8bf31696d3578223e9070cdad3.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1026,
+      1027
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1028,
+      1030,
+      1031,
+      1032,
+      1033,
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      424
+    ],
+    "parentUnions": [
+      "F281"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1026,
+        "unionId": "F281",
+        "type": "biological"
+      },
+      {
+        "id": 1027,
+        "unionId": "F281",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000014388257061@",
+    "geniId": "6000000014388257061",
+    "rfn": "geni:6000000014388257061",
+    "changed": "01 MAY 2024"
+  },
+  "page": {
+    "route": "people/1029/",
+    "canonical": "https://www.genepedia.org/people/1029/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

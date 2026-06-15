@@ -1,0 +1,139 @@
+{
+  "id": 3971,
+  "schema": "genepedia/person@1",
+  "slug": "francois-johannes-jacobs",
+  "names": {
+    "display": "Francois Johannes Jacobs",
+    "given": "Francois Johannes",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "Frans",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 JUL 1889",
+      "year": 1889,
+      "iso": "1889-07-21",
+      "precision": "exact",
+      "display": "July 21, 1889",
+      "place": "Barkly West, NC, South Africa",
+      "location": {
+        "label": "Barkly West, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Barkly West",
+        "postalCode": "8375",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 MAR 1958",
+      "year": 1958,
+      "iso": "1958-03-02",
+      "precision": "exact",
+      "display": "March 2, 1958",
+      "place": "Beststraat 73, Chrsitiana, North West, South Africa",
+      "location": {
+        "label": "Beststraat 73, Chrsitiana, North West, South Africa",
+        "placeName": "Beststraat 73",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Chrsitiana",
+        "postalCode": "2680",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1536,
+      3968
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3969,
+      3970,
+      3972,
+      3973,
+      3974,
+      3975,
+      3976,
+      3977,
+      3978
+    ],
+    "parentUnions": [
+      "F931"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1536,
+        "unionId": "F931",
+        "type": "biological"
+      },
+      {
+        "id": 3968,
+        "unionId": "F931",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040061821861@",
+    "geniId": "6000000040061821861",
+    "rfn": "geni:6000000040061821861",
+    "changed": "02 JUN 2024"
+  },
+  "page": {
+    "route": "people/3971/",
+    "canonical": "https://www.genepedia.org/people/3971/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 4530,
+  "schema": "genepedia/person@1",
+  "slug": "karl-andrew-gedrowitz",
+  "names": {
+    "display": "Karl Andrew Gedrowitz",
+    "given": "Karl Andrew",
+    "surname": "Gedrowitz",
+    "married": "Gedrowitz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 DEC 1885",
+      "year": 1885,
+      "iso": "1885-12-26",
+      "precision": "exact",
+      "display": "December 26, 1885",
+      "place": null
+    },
+    "death": {
+      "date": "8 MAY 1948",
+      "year": 1948,
+      "iso": "1948-05-08",
+      "precision": "exact",
+      "display": "May 8, 1948",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/6d/dc/37/e5/5344486a0a2f3f95/jpg_5__original.jpg?hash=c2a363dcb9627688012e01ab88d71bab0d2b23b97e5ca07b33a6bc4021b368b4.1789455599",
+      "alt": "Karl Andrew Gedrowitz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/6d/dc/37/e5/5344486a0a2f3f95/jpg_5__original.jpg?hash=c2a363dcb9627688012e01ab88d71bab0d2b23b97e5ca07b33a6bc4021b368b4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1778
+    ],
+    "exSpouses": [],
+    "children": [
+      4531,
+      4532
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1078"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1778,
+        "unionId": "F1078",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4531,
+        "unionId": "F1078",
+        "type": "biological"
+      },
+      {
+        "id": 4532,
+        "unionId": "F1078",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217943581853@",
+    "geniId": "6000000217943581853",
+    "rfn": "geni:6000000217943581853",
+    "changed": "12 FEB 2026"
+  },
+  "page": {
+    "route": "people/4530/",
+    "canonical": "https://www.genepedia.org/people/4530/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

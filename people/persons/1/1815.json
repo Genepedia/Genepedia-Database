@@ -1,0 +1,104 @@
+{
+  "id": 1815,
+  "schema": "genepedia/person@1",
+  "slug": "nicolette",
+  "names": {
+    "display": "Nicolette",
+    "given": "Nicolette",
+    "surname": "Mapeno",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1812,
+      787
+    ],
+    "spouses": [
+      4564
+    ],
+    "exSpouses": [],
+    "children": [
+      4565
+    ],
+    "siblings": [
+      1813,
+      1814
+    ],
+    "parentUnions": [
+      "F479"
+    ],
+    "spouseUnions": [
+      "F1094"
+    ],
+    "parentLinks": [
+      {
+        "id": 1812,
+        "unionId": "F479",
+        "type": "biological"
+      },
+      {
+        "id": 787,
+        "unionId": "F479",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4564,
+        "unionId": "F1094",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4565,
+        "unionId": "F1094",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207544619865@",
+    "geniId": "6000000207544619865",
+    "rfn": "geni:6000000207544619865",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1815/",
+    "canonical": "https://www.genepedia.org/people/1815/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

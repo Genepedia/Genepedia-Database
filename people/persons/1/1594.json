@@ -1,0 +1,115 @@
+{
+  "id": 1594,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobus-basie-bezuidenhout",
+  "names": {
+    "display": "Johannes Jacobus (Basie) Bezuidenhout",
+    "given": "Johannes Jacobus (Basie)",
+    "surname": "Bezuidenhout",
+    "married": "Bezuidenhout",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1592,
+      637
+    ],
+    "spouses": [
+      4198
+    ],
+    "exSpouses": [],
+    "children": [
+      4199,
+      4200,
+      4201
+    ],
+    "siblings": [
+      1593
+    ],
+    "parentUnions": [
+      "F403"
+    ],
+    "spouseUnions": [
+      "F986"
+    ],
+    "parentLinks": [
+      {
+        "id": 1592,
+        "unionId": "F403",
+        "type": "biological"
+      },
+      {
+        "id": 637,
+        "unionId": "F403",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4198,
+        "unionId": "F986",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4199,
+        "unionId": "F986",
+        "type": "biological"
+      },
+      {
+        "id": 4200,
+        "unionId": "F986",
+        "type": "biological"
+      },
+      {
+        "id": 4201,
+        "unionId": "F986",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002433050053@",
+    "geniId": "6000000002433050053",
+    "rfn": "geni:6000000002433050053",
+    "changed": "21 NOV 2014"
+  },
+  "page": {
+    "route": "people/1594/",
+    "canonical": "https://www.genepedia.org/people/1594/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

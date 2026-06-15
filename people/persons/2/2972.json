@@ -1,0 +1,94 @@
+{
+  "id": 2972,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-catharina-de-klerk",
+  "names": {
+    "display": "Magdalena Catharina de Klerk",
+    "given": "Magdalena Catharina",
+    "surname": "de Klerk",
+    "married": "Strauss",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 NOV 1925",
+      "year": 1925,
+      "iso": "1925-11-20",
+      "precision": "exact",
+      "display": "November 20, 1925",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1181,
+      2969
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2970,
+      2971,
+      2973
+    ],
+    "parentUnions": [
+      "F726"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1181,
+        "unionId": "F726",
+        "type": "biological"
+      },
+      {
+        "id": 2969,
+        "unionId": "F726",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056759004821@",
+    "geniId": "6000000056759004821",
+    "rfn": "geni:6000000056759004821",
+    "changed": "23 DEC 2023"
+  },
+  "page": {
+    "route": "people/2972/",
+    "canonical": "https://www.genepedia.org/people/2972/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

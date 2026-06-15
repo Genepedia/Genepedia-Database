@@ -1,0 +1,100 @@
+{
+  "id": 3134,
+  "schema": "genepedia/person@1",
+  "slug": "anna-susanna-marais-3134",
+  "names": {
+    "display": "Anna Susanna Marais",
+    "given": "Anna Susanna",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 APR 1839",
+      "year": 1839,
+      "iso": "1839-04-29",
+      "precision": "exact",
+      "display": "April 29, 1839",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3127,
+      3128
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3129,
+      3130,
+      3131,
+      3132,
+      3133,
+      1258,
+      3135,
+      3136,
+      3137
+    ],
+    "parentUnions": [
+      "F773"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3127,
+        "unionId": "F773",
+        "type": "biological"
+      },
+      {
+        "id": 3128,
+        "unionId": "F773",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027720676780@",
+    "geniId": "6000000027720676780",
+    "rfn": "geni:6000000027720676780",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3134/",
+    "canonical": "https://www.genepedia.org/people/3134/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

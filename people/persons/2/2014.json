@@ -1,0 +1,206 @@
+{
+  "id": 2014,
+  "schema": "genepedia/person@1",
+  "slug": "jacob-petrus-naude",
+  "names": {
+    "display": "Jacob Petrus Naude",
+    "given": "Jacob Petrus",
+    "surname": "Naude",
+    "married": "Naudé",
+    "nick": "Japie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 MAR 1900",
+      "year": 1900,
+      "iso": "1900-03-06",
+      "precision": "exact",
+      "display": "March 6, 1900",
+      "place": "'Kwestfontein\", Hanover",
+      "location": {
+        "label": "'Kwestfontein\", Hanover",
+        "placeName": "'Kwestfontein\", Hanover",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 MAY 1973",
+      "year": 1973,
+      "iso": "1973-05-04",
+      "precision": "exact",
+      "display": "May 4, 1973",
+      "place": "Potchefstroom, South Africa",
+      "location": {
+        "label": "Potchefstroom, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "6 MAY 1900",
+      "year": 1900,
+      "iso": "1900-05-06",
+      "precision": "exact",
+      "display": "May 6, 1900",
+      "place": "Hanover",
+      "location": {
+        "label": "Hanover",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hanover",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Potchefstroom Main Cemetery, Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Potchefstroom Main Cemetery, Potchefstroom, North West, South Africa",
+        "placeName": "Potchefstroom Main Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/01/3b/f7/5b/5344483eed319403/jacob_petrus_naude_original.jpg?hash=88c69ac5851836d3b5154d546c93ca3112277b57e153ecb50f23f12fed04f108.1789455599",
+      "alt": "Jacob Petrus Naude"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/01/3b/f7/5b/5344483eed319403/jacob_petrus_naude_original.jpg?hash=88c69ac5851836d3b5154d546c93ca3112277b57e153ecb50f23f12fed04f108.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/76/b6/91/5d/5344483eeafe3d98/naude_jacob_petrus_original.jpg?hash=bc31209755c8ecb3a81047e8a3fa63d91602947cc70da19ede6bb7aa08336e73.1789455599",
+        "form": "",
+        "title": "Naude Jacob Petrus.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      839
+    ],
+    "exSpouses": [],
+    "children": [
+      2015,
+      2016
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1232"
+    ],
+    "spouseUnions": [
+      "F526",
+      "F1231"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 839,
+        "unionId": "F526",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2015,
+        "unionId": "F526",
+        "type": "biological"
+      },
+      {
+        "id": 2016,
+        "unionId": "F526",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000006355620233@",
+    "geniId": "6000000006355620233",
+    "rfn": "geni:6000000006355620233",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2014/",
+    "canonical": "https://www.genepedia.org/people/2014/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

@@ -1,0 +1,149 @@
+{
+  "id": 568,
+  "schema": "genepedia/person@1",
+  "slug": "anna-wilhelmina-de-beer",
+  "names": {
+    "display": "Anna Wilhelmina de Beer",
+    "given": "Anna Wilhelmina",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 OCT 1879",
+      "year": 1879,
+      "iso": "1879-10-17",
+      "precision": "exact",
+      "display": "October 17, 1879",
+      "place": null
+    },
+    "death": {
+      "date": "17 NOV 1902",
+      "year": 1902,
+      "iso": "1902-11-17",
+      "precision": "exact",
+      "display": "November 17, 1902",
+      "place": "Biesjesfontein, Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Biesjesfontein, Calvinia, Cape Province, South Africa",
+        "placeName": "Biesjesfontein, Calvinia, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "7 DEC 1879",
+      "year": 1879,
+      "iso": "1879-12-07",
+      "precision": "exact",
+      "display": "December 7, 1879",
+      "place": "Aberdeen, Cape Province, South Africa",
+      "location": {
+        "label": "Aberdeen, Cape Province, South Africa",
+        "placeName": "Aberdeen, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      563,
+      564
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      565,
+      566,
+      567,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      214,
+      575,
+      576
+    ],
+    "parentUnions": [
+      "F164"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 563,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 564,
+        "unionId": "F164",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028799433849@",
+    "geniId": "6000000028799433849",
+    "rfn": "geni:6000000028799433849",
+    "changed": "04 JUL 2023"
+  },
+  "page": {
+    "route": "people/568/",
+    "canonical": "https://www.genepedia.org/people/568/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

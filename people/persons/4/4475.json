@@ -1,0 +1,87 @@
+{
+  "id": 4475,
+  "schema": "genepedia/person@1",
+  "slug": "chaim-hyman-lurie",
+  "names": {
+    "display": "Chaim Hyman Lurie",
+    "given": "Chaim Hyman",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1746,
+      4471
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4472,
+      4473,
+      4474
+    ],
+    "parentUnions": [
+      "F1059"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1746,
+        "unionId": "F1059",
+        "type": "biological"
+      },
+      {
+        "id": 4471,
+        "unionId": "F1059",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291112@",
+    "geniId": "6000000003658291112",
+    "rfn": "geni:6000000003658291112",
+    "changed": "06 OCT 2024"
+  },
+  "page": {
+    "route": "people/4475/",
+    "canonical": "https://www.genepedia.org/people/4475/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

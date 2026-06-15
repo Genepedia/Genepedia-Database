@@ -1,0 +1,179 @@
+{
+  "id": 2271,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-nel",
+  "names": {
+    "display": "Johannes Petrus Nel",
+    "given": "Johannes Petrus",
+    "surname": "Nel",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 MAY 1928",
+      "year": 1928,
+      "iso": "1928-05-06",
+      "precision": "exact",
+      "display": "May 6, 1928",
+      "place": null
+    },
+    "death": {
+      "date": "12 JUL 1988",
+      "year": 1988,
+      "iso": "1988-07-12",
+      "precision": "exact",
+      "display": "July 12, 1988",
+      "place": "Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Potchefstroom, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Potchefstroom Main Cemetery, Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Potchefstroom Main Cemetery, Potchefstroom, North West, South Africa",
+        "placeName": "Potchefstroom Main Cemetery, Potchefstroom, North West, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/88/3c/22/96/5344485f4d87cddb/jp_nel2_original.jpg?hash=97d477eb678a2e1036dc3ae3f82c208d546318be3210aed0c266026dabb03deb.1789455599",
+      "alt": "Johannes Petrus Nel"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/88/3c/22/96/5344485f4d87cddb/jp_nel2_original.jpg?hash=97d477eb678a2e1036dc3ae3f82c208d546318be3210aed0c266026dabb03deb.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/bc/82/42/ef/53444857783a3646/oupa_jan_original.jpg?hash=21ff7209a9b47637a1813e38b1a22f25343008d8c85613291bc5a9f4e56f4690.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/eb/06/40/7f/5344484893303ea2/oupa_jan_original.jpg?hash=8a5d1fba3390ec27148c9a0c889a54aad2281a24c35b023d5eb0e37595f195ad.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      916
+    ],
+    "exSpouses": [],
+    "children": [
+      2272,
+      2273,
+      2274
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1411"
+    ],
+    "spouseUnions": [
+      "F576"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 916,
+        "unionId": "F576",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2272,
+        "unionId": "F576",
+        "type": "biological"
+      },
+      {
+        "id": 2273,
+        "unionId": "F576",
+        "type": "biological"
+      },
+      {
+        "id": 2274,
+        "unionId": "F576",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000026551821962@",
+    "geniId": "6000000026551821962",
+    "rfn": "geni:6000000026551821962",
+    "changed": "12 AUG 2021"
+  },
+  "page": {
+    "route": "people/2271/",
+    "canonical": "https://www.genepedia.org/people/2271/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

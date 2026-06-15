@@ -1,0 +1,100 @@
+{
+  "id": 3201,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-christiaan-vorster-3201",
+  "names": {
+    "display": "Johannes Christiaan Vorster",
+    "given": "Johannes Christiaan",
+    "surname": "Vorster",
+    "married": "Vorster",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 NOV 1894",
+      "year": 1894,
+      "iso": "1894-11-27",
+      "precision": "exact",
+      "display": "November 27, 1894",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3196,
+      3195
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1284,
+      3197,
+      3198,
+      3199,
+      3200,
+      3202,
+      3203,
+      3204,
+      3205
+    ],
+    "parentUnions": [
+      "F787"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3196,
+        "unionId": "F787",
+        "type": "biological"
+      },
+      {
+        "id": 3195,
+        "unionId": "F787",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025542941995@",
+    "geniId": "6000000025542941995",
+    "rfn": "geni:6000000025542941995",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3201/",
+    "canonical": "https://www.genepedia.org/people/3201/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

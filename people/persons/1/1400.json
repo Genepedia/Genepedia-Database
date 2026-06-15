@@ -1,0 +1,199 @@
+{
+  "id": 1400,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-elizabeth-meintjes",
+  "names": {
+    "display": "Johanna Elizabeth Meintjes",
+    "given": "Johanna Elizabeth",
+    "surname": "Meintjes",
+    "married": "Oosthuizen",
+    "nick": "Meintjies",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 DEC 1851",
+      "year": 1851,
+      "iso": "1851-12-25",
+      "precision": "exact",
+      "display": "December 25, 1851",
+      "place": "Aberdeen, Cape Province, South Africa",
+      "location": {
+        "label": "Aberdeen, Cape Province, South Africa",
+        "placeName": "Aberdeen",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 JUN 1932",
+      "year": 1932,
+      "iso": "1932-06-18",
+      "precision": "exact",
+      "display": "June 18, 1932",
+      "place": "Vrededorp, Transvaal, South Africa",
+      "location": {
+        "label": "Vrededorp, Transvaal, South Africa",
+        "placeName": "Vrededorp",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1396,
+      1395
+    ],
+    "spouses": [
+      3600
+    ],
+    "exSpouses": [],
+    "children": [
+      3601,
+      3602,
+      3603,
+      3604,
+      3605,
+      3606,
+      3607,
+      3608
+    ],
+    "siblings": [
+      1397,
+      1398,
+      1399,
+      564,
+      1401,
+      1402,
+      1403,
+      1404,
+      1405
+    ],
+    "parentUnions": [
+      "F359"
+    ],
+    "spouseUnions": [
+      "F873"
+    ],
+    "parentLinks": [
+      {
+        "id": 1396,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1395,
+        "unionId": "F359",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3600,
+        "unionId": "F873",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3601,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3602,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3603,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3604,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3605,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3606,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3607,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3608,
+        "unionId": "F873",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000010559659091@",
+    "geniId": "6000000010559659091",
+    "rfn": "geni:6000000010559659091",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1400/",
+    "canonical": "https://www.genepedia.org/people/1400/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

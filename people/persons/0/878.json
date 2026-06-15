@@ -1,0 +1,85 @@
+{
+  "id": 878,
+  "schema": "genepedia/person@1",
+  "slug": "profile-878",
+  "names": {
+    "display": "",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      877,
+      367
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      879
+    ],
+    "parentUnions": [
+      "F248"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 877,
+        "unionId": "F248",
+        "type": "biological"
+      },
+      {
+        "id": 367,
+        "unionId": "F248",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204057715826@",
+    "geniId": "6000000204057715826",
+    "rfn": "geni:6000000204057715826",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/878/",
+    "canonical": "https://www.genepedia.org/people/878/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

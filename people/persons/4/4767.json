@@ -1,0 +1,94 @@
+{
+  "id": 4767,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-j-o-de-meillon",
+  "names": {
+    "display": "Gabriel J O De Meillon",
+    "given": "Gabriel J O",
+    "surname": "De Meillon",
+    "married": "De Meillon",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 FEB 1922",
+      "year": 1922,
+      "iso": "1922-02-18",
+      "precision": "exact",
+      "display": "February 18, 1922",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4763,
+      1882
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4764,
+      4765,
+      4766
+    ],
+    "parentUnions": [
+      "F1133"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4763,
+        "unionId": "F1133",
+        "type": "biological"
+      },
+      {
+        "id": 1882,
+        "unionId": "F1133",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000007386091255@",
+    "geniId": "6000000007386091255",
+    "rfn": "geni:6000000007386091255",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/4767/",
+    "canonical": "https://www.genepedia.org/people/4767/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

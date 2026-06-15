@@ -1,0 +1,228 @@
+{
+  "id": 239,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-johannes-van-niekerk-239",
+  "names": {
+    "display": "Pieter Johannes van Niekerk",
+    "given": "Pieter Johannes",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 APR 1869",
+      "year": 1869,
+      "iso": "1869-04-18",
+      "precision": "exact",
+      "display": "April 18, 1869",
+      "place": null
+    },
+    "death": {
+      "date": "16 JAN 1928",
+      "year": 1928,
+      "iso": "1928-01-16",
+      "precision": "exact",
+      "display": "January 16, 1928",
+      "place": "Rietfontein, Bloemhof, North West, South Africa",
+      "location": {
+        "label": "Rietfontein, Bloemhof, North West, South Africa",
+        "placeName": "Rietfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "1928",
+      "year": 1928,
+      "iso": "1928",
+      "precision": "exact",
+      "display": "1928",
+      "place": "Rietfontein Farm Cemetery, Bloemhof, North West, South Africa",
+      "location": {
+        "label": "Rietfontein Farm Cemetery, Bloemhof, North West, South Africa",
+        "placeName": "Rietfontein Farm Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/06/b0/68/b0/5344483bb4ccd891/nur29yuw_original.jpg?hash=de7df6688559099bafbc3af9f762c935fdc26d4d11722343bfe74e9713e7917c.1789455599",
+      "alt": "Pieter Johannes van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/06/b0/68/b0/5344483bb4ccd891/nur29yuw_original.jpg?hash=de7df6688559099bafbc3af9f762c935fdc26d4d11722343bfe74e9713e7917c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/a6/81/2b/ef/5344483b3ab7de14/pieter_johannes_v_niekerk_en_catharina_susanna_germizhuizen_1869_en_1873_original.jpg?hash=bc6e25455006cbc4156f31e17ff8cac09d7d97627c4b831828812e6d381c229d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/7e/c4/21/90/5344483bb4ccd8e5/pieter_johannes_van_niekerk_dn_1869-1928_original.jpg?hash=a3ec6752bf84388125a108c74969c5ed094fe66cc690ce788fb7406160ec18c9.1789455599",
+        "form": "",
+        "title": "Pieter Johannes van Niekerk DN 1869-1928.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      628,
+      629
+    ],
+    "spouses": [
+      238
+    ],
+    "exSpouses": [],
+    "children": [
+      240,
+      241,
+      242,
+      243,
+      244,
+      79,
+      245,
+      246
+    ],
+    "siblings": [
+      630,
+      631,
+      632,
+      633
+    ],
+    "parentUnions": [
+      "F176"
+    ],
+    "spouseUnions": [
+      "F77"
+    ],
+    "parentLinks": [
+      {
+        "id": 628,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 629,
+        "unionId": "F176",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 238,
+        "unionId": "F77",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 240,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 241,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 242,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 243,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 244,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 79,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 245,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 246,
+        "unionId": "F77",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024837783844@",
+    "geniId": "6000000024837783844",
+    "rfn": "geni:6000000024837783844",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/239/",
+    "canonical": "https://www.genepedia.org/people/239/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

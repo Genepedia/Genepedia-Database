@@ -1,0 +1,151 @@
+{
+  "id": 1891,
+  "schema": "genepedia/person@1",
+  "slug": "gerbrecht-elizabeth-bester-1891",
+  "names": {
+    "display": "Gerbrecht Elizabeth Bester",
+    "given": "Gerbrecht Elizabeth",
+    "surname": "Bester",
+    "married": "Stamp",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 MAY 1885",
+      "year": 1885,
+      "iso": "1885-05-27",
+      "precision": "exact",
+      "display": "May 27, 1885",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "5 JUL 1885",
+      "year": 1885,
+      "iso": "1885-07-05",
+      "precision": "exact",
+      "display": "July 5, 1885",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1884,
+      814
+    ],
+    "spouses": [
+      4789
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1885,
+      1886,
+      1887,
+      1888,
+      1889,
+      1890,
+      1892,
+      1893,
+      1894,
+      1895,
+      1896
+    ],
+    "parentUnions": [
+      "F499"
+    ],
+    "spouseUnions": [
+      "F1140"
+    ],
+    "parentLinks": [
+      {
+        "id": 1884,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 814,
+        "unionId": "F499",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4789,
+        "unionId": "F1140",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065526941178@",
+    "geniId": "6000000065526941178",
+    "rfn": "geni:6000000065526941178",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/1891/",
+    "canonical": "https://www.genepedia.org/people/1891/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

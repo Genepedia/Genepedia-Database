@@ -1,0 +1,182 @@
+{
+  "id": 2585,
+  "schema": "genepedia/person@1",
+  "slug": "john-charles-pringle",
+  "names": {
+    "display": "John Charles Pringle",
+    "given": "John Charles",
+    "surname": "Pringle",
+    "married": "Pringle",
+    "nick": "Johan Karel",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 8 DEC 1800",
+      "year": 1800,
+      "iso": "1800-12-08",
+      "precision": "before",
+      "display": "before December 8, 1800",
+      "place": "Cape Town, South Africa",
+      "location": {
+        "label": "Cape Town, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 AUG 1874",
+      "year": 1874,
+      "iso": "1874-08-04",
+      "precision": "exact",
+      "display": "August 4, 1874",
+      "place": "''Wildebeestfontein'', Beaufort West, Cape Colony, South Africa",
+      "location": {
+        "label": "''Wildebeestfontein'', Beaufort West, Cape Colony, South Africa",
+        "placeName": "''Wildebeestfontein''",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Land Bouer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/22/b7/22/6c/53444847f85162c1/record-image_3q9m-cs92-873d-s_original.jpg?hash=97eb0dfc98dba1167109235b5bfd1fc4e07c4a13c524e3e12ea9b6138fc2485e.1789455599",
+      "alt": "John Charles Pringle"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/22/b7/22/6c/53444847f85162c1/record-image_3q9m-cs92-873d-s_original.jpg?hash=97eb0dfc98dba1167109235b5bfd1fc4e07c4a13c524e3e12ea9b6138fc2485e.1789455599",
+        "form": "",
+        "title": "John Charles Pringle DN 4 Aug 1874",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1064
+    ],
+    "exSpouses": [],
+    "children": [
+      2586,
+      2587,
+      2588,
+      2589,
+      2590,
+      2591,
+      2592
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1580"
+    ],
+    "spouseUnions": [
+      "F641",
+      "F1579"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1064,
+        "unionId": "F641",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2586,
+        "unionId": "F641",
+        "type": "biological"
+      },
+      {
+        "id": 2587,
+        "unionId": "F641",
+        "type": "biological"
+      },
+      {
+        "id": 2588,
+        "unionId": "F641",
+        "type": "biological"
+      },
+      {
+        "id": 2589,
+        "unionId": "F641",
+        "type": "biological"
+      },
+      {
+        "id": 2590,
+        "unionId": "F641",
+        "type": "biological"
+      },
+      {
+        "id": 2591,
+        "unionId": "F641",
+        "type": "biological"
+      },
+      {
+        "id": 2592,
+        "unionId": "F641",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000059968946005@",
+    "geniId": "6000000059968946005",
+    "rfn": "geni:6000000059968946005",
+    "changed": "11 NOV 2025"
+  },
+  "page": {
+    "route": "people/2585/",
+    "canonical": "https://www.genepedia.org/people/2585/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

@@ -1,0 +1,188 @@
+{
+  "id": 1745,
+  "schema": "genepedia/person@1",
+  "slug": "eliahu-lurie",
+  "names": {
+    "display": "Eliahu Lurie",
+    "given": "Eliahu",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1873",
+      "year": 1873,
+      "iso": "1873",
+      "precision": "about",
+      "display": "about 1873",
+      "place": "Kurshan",
+      "location": {
+        "label": "Kurshan",
+        "placeName": "Kurshan",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Shavli, šiauliai, Kovno Gubernia, Lithuania",
+      "location": {
+        "label": "Shavli, šiauliai, Kovno Gubernia, Lithuania",
+        "placeName": "Shavli",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "šiauliai",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kovno Gubernia",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1742,
+      1743
+    ],
+    "spouses": [
+      4460
+    ],
+    "exSpouses": [],
+    "children": [
+      4461,
+      4462,
+      4463,
+      4464,
+      4465,
+      4466,
+      4467
+    ],
+    "siblings": [
+      725,
+      1744,
+      1746,
+      1747
+    ],
+    "parentUnions": [
+      "F457"
+    ],
+    "spouseUnions": [
+      "F1057"
+    ],
+    "parentLinks": [
+      {
+        "id": 1742,
+        "unionId": "F457",
+        "type": "biological"
+      },
+      {
+        "id": 1743,
+        "unionId": "F457",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4460,
+        "unionId": "F1057",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4461,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4462,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4463,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4464,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4465,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4466,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4467,
+        "unionId": "F1057",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291039@",
+    "geniId": "6000000003658291039",
+    "rfn": "geni:6000000003658291039",
+    "changed": "01 APR 2024"
+  },
+  "page": {
+    "route": "people/1745/",
+    "canonical": "https://www.genepedia.org/people/1745/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

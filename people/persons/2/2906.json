@@ -1,0 +1,104 @@
+{
+  "id": 2906,
+  "schema": "genepedia/person@1",
+  "slug": "stanley-john-davis",
+  "names": {
+    "display": "Stanley John Davis",
+    "given": "Stanley John",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "14 JAN 1931",
+      "year": 1931,
+      "iso": "1931-01-14",
+      "precision": "exact",
+      "display": "January 14, 1931",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/23/10/18/2a/53444838c500edf6/p17_aux_190_256_original.jpg?hash=90d96d110d8cdf7f9cc49ea646b30132fdd95a60ada5363aadf672dd70212d03.1789455599",
+      "alt": "Stanley John Davis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/23/10/18/2a/53444838c500edf6/p17_aux_190_256_original.jpg?hash=90d96d110d8cdf7f9cc49ea646b30132fdd95a60ada5363aadf672dd70212d03.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1160,
+      2905
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F715"
+    ],
+    "spouseUnions": [
+      "F1813"
+    ],
+    "parentLinks": [
+      {
+        "id": 1160,
+        "unionId": "F715",
+        "type": "biological"
+      },
+      {
+        "id": 2905,
+        "unionId": "F715",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000012223553060@",
+    "geniId": "6000000012223553060",
+    "rfn": "geni:6000000012223553060",
+    "changed": "11 FEB 2015"
+  },
+  "page": {
+    "route": "people/2906/",
+    "canonical": "https://www.genepedia.org/people/2906/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

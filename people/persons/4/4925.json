@@ -1,0 +1,82 @@
+{
+  "id": 4925,
+  "schema": "genepedia/person@1",
+  "slug": "private-4925",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1916
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4926,
+      4927,
+      4928,
+      4929
+    ],
+    "parentUnions": [
+      "F1168"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1916,
+        "unionId": "F1168",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000193412447849@",
+    "geniId": "6000000193412447849",
+    "rfn": "geni:6000000193412447849",
+    "changed": "04 APR 2023"
+  },
+  "page": {
+    "route": "people/4925/",
+    "canonical": "https://www.genepedia.org/people/4925/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 4591,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-petrus-bester",
+  "names": {
+    "display": "Gerrit Petrus Bester",
+    "given": "Gerrit Petrus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1861",
+      "year": 1861,
+      "iso": "1861",
+      "precision": "about",
+      "display": "about 1861",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "22 FEB 1931",
+      "year": 1931,
+      "iso": "1931-02-22",
+      "precision": "exact",
+      "display": "February 22, 1931",
+      "place": "'Blaauwkoppie', Fauresmith, Free State, South Africa",
+      "location": {
+        "label": "'Blaauwkoppie', Fauresmith, Free State, South Africa",
+        "placeName": "'Blaauwkoppie'",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fauresmith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1845,
+      4586
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1884,
+      4587,
+      4588,
+      4589,
+      4590
+    ],
+    "parentUnions": [
+      "F1100"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1845,
+        "unionId": "F1100",
+        "type": "biological"
+      },
+      {
+        "id": 4586,
+        "unionId": "F1100",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065965822821@",
+    "geniId": "6000000065965822821",
+    "rfn": "geni:6000000065965822821",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4591/",
+    "canonical": "https://www.genepedia.org/people/4591/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

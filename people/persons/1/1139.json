@@ -1,0 +1,106 @@
+{
+  "id": 1139,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-magdalena-koekemoer",
+  "names": {
+    "display": "Cornelia Magdalena Koekemoer",
+    "given": "Cornelia Magdalena",
+    "surname": "Koekemoer",
+    "married": "Koekemoer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "17 OCT 1936",
+      "year": 1936,
+      "iso": "1936-10-17",
+      "precision": "exact",
+      "display": "October 17, 1936",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1137,
+      443
+    ],
+    "spouses": [
+      2812
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1138,
+      1140,
+      1141,
+      1142,
+      1143
+    ],
+    "parentUnions": [
+      "F301"
+    ],
+    "spouseUnions": [
+      "F696"
+    ],
+    "parentLinks": [
+      {
+        "id": 1137,
+        "unionId": "F301",
+        "type": "biological"
+      },
+      {
+        "id": 443,
+        "unionId": "F301",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2812,
+        "unionId": "F696",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000006862709585@",
+    "geniId": "6000000006862709585",
+    "rfn": "geni:6000000006862709585",
+    "changed": "21 JUN 2016"
+  },
+  "page": {
+    "route": "people/1139/",
+    "canonical": "https://www.genepedia.org/people/1139/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,195 @@
+{
+  "id": 1017,
+  "schema": "genepedia/person@1",
+  "slug": "susara-jacoba-van-der-bank",
+  "names": {
+    "display": "Susara Jacoba van der Bank",
+    "given": "Susara Jacoba",
+    "surname": "van der Bank",
+    "married": "Visser",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JUL 1848",
+      "year": 1848,
+      "iso": "1848-07-22",
+      "precision": "exact",
+      "display": "July 22, 1848",
+      "place": "Riversdale, Cape Province, South Africa",
+      "location": {
+        "label": "Riversdale, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Riversdale",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "21 NOV 1848",
+      "year": 1848,
+      "iso": "1848-11-21",
+      "precision": "exact",
+      "display": "November 21, 1848",
+      "place": "Riversdale, Cape Province, South Africa",
+      "location": {
+        "label": "Riversdale, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Riversdale",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1009,
+      1008
+    ],
+    "spouses": [
+      2508
+    ],
+    "exSpouses": [],
+    "children": [
+      2509,
+      2510,
+      2511,
+      2512,
+      2513,
+      2514,
+      2515
+    ],
+    "siblings": [
+      1010,
+      1011,
+      1012,
+      1013,
+      1014,
+      1015,
+      1016,
+      1018,
+      417,
+      1019,
+      1020
+    ],
+    "parentUnions": [
+      "F278"
+    ],
+    "spouseUnions": [
+      "F627"
+    ],
+    "parentLinks": [
+      {
+        "id": 1009,
+        "unionId": "F278",
+        "type": "biological"
+      },
+      {
+        "id": 1008,
+        "unionId": "F278",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2508,
+        "unionId": "F627",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2509,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2510,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2511,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2512,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2513,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2514,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 2515,
+        "unionId": "F627",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000041567571958@",
+    "geniId": "6000000041567571958",
+    "rfn": "geni:6000000041567571958",
+    "changed": "29 AUG 2023"
+  },
+  "page": {
+    "route": "people/1017/",
+    "canonical": "https://www.genepedia.org/people/1017/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

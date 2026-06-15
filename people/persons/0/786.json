@@ -1,0 +1,141 @@
+{
+  "id": 786,
+  "schema": "genepedia/person@1",
+  "slug": "thanks-mupombwa",
+  "names": {
+    "display": "Thanks Mupombwa",
+    "given": "Thanks",
+    "surname": "Mupombwa",
+    "married": "Mupombwa",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1978",
+      "year": 1978,
+      "iso": "1978",
+      "precision": "exact",
+      "display": "1978",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      785,
+      784
+    ],
+    "spouses": [
+      1805
+    ],
+    "exSpouses": [],
+    "children": [
+      1806,
+      1807,
+      1808
+    ],
+    "siblings": [
+      307,
+      787,
+      788,
+      789
+    ],
+    "parentUnions": [
+      "F218"
+    ],
+    "spouseUnions": [
+      "F477"
+    ],
+    "parentLinks": [
+      {
+        "id": 785,
+        "unionId": "F218",
+        "type": "biological"
+      },
+      {
+        "id": 784,
+        "unionId": "F218",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1805,
+        "unionId": "F477",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1806,
+        "unionId": "F477",
+        "type": "biological"
+      },
+      {
+        "id": 1807,
+        "unionId": "F477",
+        "type": "biological"
+      },
+      {
+        "id": 1808,
+        "unionId": "F477",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207539634822@",
+    "geniId": "6000000207539634822",
+    "rfn": "geni:6000000207539634822",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/786/",
+    "canonical": "https://www.genepedia.org/people/786/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

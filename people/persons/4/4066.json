@@ -1,0 +1,108 @@
+{
+  "id": 4066,
+  "schema": "genepedia/person@1",
+  "slug": "jan-daniel-mellet-4066",
+  "names": {
+    "display": "Jan Daniel Mellet",
+    "given": "Jan Daniel",
+    "surname": "Mellet",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1806",
+      "year": 1806,
+      "iso": "1806",
+      "precision": "exact",
+      "display": "1806",
+      "place": null
+    },
+    "death": {
+      "date": "1815",
+      "year": 1815,
+      "iso": "1815",
+      "precision": "exact",
+      "display": "1815",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4062,
+      4063
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4064,
+      4065,
+      4067,
+      1549,
+      4068,
+      4069,
+      4070,
+      4071,
+      4072,
+      4073
+    ],
+    "parentUnions": [
+      "F945"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4062,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4063,
+        "unionId": "F945",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025720823176@",
+    "geniId": "6000000025720823176",
+    "rfn": "geni:6000000025720823176",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/4066/",
+    "canonical": "https://www.genepedia.org/people/4066/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": 740,
+  "schema": "genepedia/person@1",
+  "slug": "elsie-jacobus-lurie",
+  "names": {
+    "display": "Elsie Jacobus Lurie",
+    "given": "Elsie Jacobus",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      299
+    ],
+    "exSpouses": [],
+    "children": [
+      741,
+      742,
+      743,
+      744
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F209"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 299,
+        "unionId": "F209",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 741,
+        "unionId": "F209",
+        "type": "biological"
+      },
+      {
+        "id": 742,
+        "unionId": "F209",
+        "type": "biological"
+      },
+      {
+        "id": 743,
+        "unionId": "F209",
+        "type": "biological"
+      },
+      {
+        "id": 744,
+        "unionId": "F209",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209507015832@",
+    "geniId": "6000000209507015832",
+    "rfn": "geni:6000000209507015832",
+    "changed": "20 JAN 2025"
+  },
+  "page": {
+    "route": "people/740/",
+    "canonical": "https://www.genepedia.org/people/740/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

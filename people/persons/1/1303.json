@@ -1,0 +1,123 @@
+{
+  "id": 1303,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-van-taak-1303",
+  "names": {
+    "display": "Pieter Andries van Taak",
+    "given": "Pieter Andries",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 JUL 1868",
+      "year": 1868,
+      "iso": "1868-07-26",
+      "precision": "exact",
+      "display": "July 26, 1868",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "8 DEC 1868",
+      "year": 1868,
+      "iso": "1868-12-08",
+      "precision": "exact",
+      "display": "December 8, 1868",
+      "place": "Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1302,
+      1301
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1304,
+      1305,
+      538,
+      1306,
+      1307,
+      1308,
+      1309,
+      1310,
+      1311
+    ],
+    "parentUnions": [
+      "F337"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1302,
+        "unionId": "F337",
+        "type": "biological"
+      },
+      {
+        "id": 1301,
+        "unionId": "F337",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020383767134@",
+    "geniId": "6000000020383767134",
+    "rfn": "geni:6000000020383767134",
+    "changed": "06 OCT 2020"
+  },
+  "page": {
+    "route": "people/1303/",
+    "canonical": "https://www.genepedia.org/people/1303/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,131 @@
+{
+  "id": 4597,
+  "schema": "genepedia/person@1",
+  "slug": "anna-francina-engela-viljoen",
+  "names": {
+    "display": "Anna Francina Engela Viljoen",
+    "given": "Anna Francina Engela",
+    "surname": "Viljoen",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1825",
+      "year": 1825,
+      "iso": "1825",
+      "precision": "exact",
+      "display": "1825",
+      "place": "District, Richmond, Northern Cape, South Africa",
+      "location": {
+        "label": "District, Richmond, Northern Cape, South Africa",
+        "placeName": "District",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Richmond",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 NOV 1868",
+      "year": 1868,
+      "iso": "1868-11-23",
+      "precision": "exact",
+      "display": "November 23, 1868",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1845
+    ],
+    "exSpouses": [],
+    "children": [
+      4598
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1102"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1845,
+        "unionId": "F1102",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4598,
+        "unionId": "F1102",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000062651846867@",
+    "geniId": "6000000062651846867",
+    "rfn": "geni:6000000062651846867",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/4597/",
+    "canonical": "https://www.genepedia.org/people/4597/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

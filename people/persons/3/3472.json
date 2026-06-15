@@ -1,0 +1,105 @@
+{
+  "id": 3472,
+  "schema": "genepedia/person@1",
+  "slug": "maria-catharina-lombard",
+  "names": {
+    "display": "Maria Catharina Lombard",
+    "given": "Maria Catharina",
+    "surname": "Lombard",
+    "married": "Lombard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 1804",
+      "year": 1804,
+      "iso": "1804",
+      "precision": "before",
+      "display": "before 1804",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3466,
+      3467
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3468,
+      3469,
+      3470,
+      3471,
+      3473,
+      3474,
+      3475,
+      3476,
+      3477,
+      3478,
+      3479,
+      1384,
+      3480,
+      3481
+    ],
+    "parentUnions": [
+      "F855"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3466,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3467,
+        "unionId": "F855",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000034183166052@",
+    "geniId": "6000000034183166052",
+    "rfn": "geni:6000000034183166052",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3472/",
+    "canonical": "https://www.genepedia.org/people/3472/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

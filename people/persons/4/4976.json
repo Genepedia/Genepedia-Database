@@ -1,0 +1,153 @@
+{
+  "id": 4976,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-johannes-hendrik-bester-4976",
+  "names": {
+    "display": "Marthinus Johannes Hendrik Bester",
+    "given": "Marthinus Johannes Hendrik",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 NOV 1921",
+      "year": 1921,
+      "iso": "1921-11-19",
+      "precision": "exact",
+      "display": "November 19, 1921",
+      "place": null
+    },
+    "death": {
+      "date": "16 JAN 1994",
+      "year": 1994,
+      "iso": "1994-01-16",
+      "precision": "exact",
+      "display": "January 16, 1994",
+      "place": "Port Elizabeth, Eastern Cape, South Africa",
+      "location": {
+        "label": "Port Elizabeth, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Elizabeth",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Forrest Hill cemetery, Port Elizabeth, Eastern Cape, South Africa",
+      "location": {
+        "label": "Forrest Hill cemetery, Port Elizabeth, Eastern Cape, South Africa",
+        "placeName": "Forrest Hill cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Elizabeth",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ed/8d/c3/6f/534448457fb823eb/bester_marthinus_johannes_hendrik_1921_original.jpg?hash=e2d17a79def65d7cab614b7f50143f3b721483f9889a50e4a5eaea3b7e005226.1789455599",
+      "alt": "Marthinus Johannes Hendrik Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ed/8d/c3/6f/534448457fb823eb/bester_marthinus_johannes_hendrik_1921_original.jpg?hash=e2d17a79def65d7cab614b7f50143f3b721483f9889a50e4a5eaea3b7e005226.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1936,
+      4975
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4977,
+      4978,
+      4979
+    ],
+    "parentUnions": [
+      "F1181"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1936,
+        "unionId": "F1181",
+        "type": "biological"
+      },
+      {
+        "id": 4975,
+        "unionId": "F1181",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066847969895@",
+    "geniId": "6000000066847969895",
+    "rfn": "geni:6000000066847969895",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/4976/",
+    "canonical": "https://www.genepedia.org/people/4976/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

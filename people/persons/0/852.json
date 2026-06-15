@@ -1,0 +1,135 @@
+{
+  "id": 852,
+  "schema": "genepedia/person@1",
+  "slug": "dirkie-jacoba-albertha-van-zyl",
+  "names": {
+    "display": "Dirkie Jacoba Albertha Van Zyl",
+    "given": "Dirkie Jacoba Albertha",
+    "surname": "Van Zyl",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 SEP 1904",
+      "year": 1904,
+      "iso": "1904-09-16",
+      "precision": "exact",
+      "display": "September 16, 1904",
+      "place": null
+    },
+    "death": {
+      "date": "30 DEC 1989",
+      "year": 1989,
+      "iso": "1989-12-30",
+      "precision": "exact",
+      "display": "December 30, 1989",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      338
+    ],
+    "exSpouses": [],
+    "children": [
+      853,
+      854,
+      855
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F236"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 338,
+        "unionId": "F236",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 853,
+        "unionId": "F236",
+        "type": "biological"
+      },
+      {
+        "id": 854,
+        "unionId": "F236",
+        "type": "biological"
+      },
+      {
+        "id": 855,
+        "unionId": "F236",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066579122924@",
+    "geniId": "6000000066579122924",
+    "rfn": "geni:6000000066579122924",
+    "changed": "17 MAR 2019"
+  },
+  "page": {
+    "route": "people/852/",
+    "canonical": "https://www.genepedia.org/people/852/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

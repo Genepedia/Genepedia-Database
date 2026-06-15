@@ -1,0 +1,129 @@
+{
+  "id": 3805,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-wilhelmina-jacoba-brynard-3805",
+  "names": {
+    "display": "Elizabeth Wilhelmina Jacoba Brynard",
+    "given": "Elizabeth Wilhelmina Jacoba",
+    "surname": "Brynard",
+    "married": "Brynard",
+    "nick": "",
+    "aliases": [
+      "Brynard"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 OCT 1909",
+      "year": 1909,
+      "iso": "1909-10-07",
+      "precision": "exact",
+      "display": "October 7, 1909",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "3 APR 1910",
+      "year": 1910,
+      "iso": "1910-04-03",
+      "precision": "exact",
+      "display": "April 3, 1910",
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1442,
+      3803
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3804,
+      3806,
+      3807,
+      3808,
+      3809,
+      3810,
+      3811,
+      3812,
+      3813,
+      3814,
+      3815,
+      3816,
+      3817
+    ],
+    "parentUnions": [
+      "F906"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1442,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3803,
+        "unionId": "F906",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000150190841823@",
+    "geniId": "6000000150190841823",
+    "rfn": "geni:6000000150190841823",
+    "changed": "19 JAN 2026"
+  },
+  "page": {
+    "route": "people/3805/",
+    "canonical": "https://www.genepedia.org/people/3805/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

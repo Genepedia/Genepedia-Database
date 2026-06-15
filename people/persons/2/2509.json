@@ -1,0 +1,106 @@
+{
+  "id": 2509,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-abraham-visser-g12h-1",
+  "names": {
+    "display": "Johannes Abraham Visser G12h`1",
+    "given": "Johannes Abraham",
+    "surname": "Visser",
+    "married": "Visser",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 JUL 1867",
+      "year": 1867,
+      "iso": "1867-07-07",
+      "precision": "exact",
+      "display": "July 7, 1867",
+      "place": null
+    },
+    "death": {
+      "date": "21 DEC 1895",
+      "year": 1895,
+      "iso": "1895-12-21",
+      "precision": "exact",
+      "display": "December 21, 1895",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2508,
+      1017
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2510,
+      2511,
+      2512,
+      2513,
+      2514,
+      2515
+    ],
+    "parentUnions": [
+      "F627"
+    ],
+    "spouseUnions": [
+      "F1538"
+    ],
+    "parentLinks": [
+      {
+        "id": 2508,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 1017,
+        "unionId": "F627",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000011878989031@",
+    "geniId": "6000000011878989031",
+    "rfn": "geni:6000000011878989031",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/2509/",
+    "canonical": "https://www.genepedia.org/people/2509/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,179 @@
+{
+  "id": 4819,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-magdalena-oberholtzer",
+  "names": {
+    "display": "Johanna Magdalena Oberholtzer",
+    "given": "Johanna Magdalena",
+    "surname": "Oberholtzer",
+    "married": "Weideman",
+    "nick": "Visagie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1823",
+      "year": 1823,
+      "iso": "1823",
+      "precision": "about",
+      "display": "about 1823",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "AFT 7 JAN 1917",
+      "year": 1917,
+      "iso": "1917-01-07",
+      "precision": "after",
+      "display": "after January 7, 1917",
+      "place": "Poortje, Jacobsdal, Orange Free State Province, Union of South Africa",
+      "location": {
+        "label": "Poortje, Jacobsdal, Orange Free State Province, Union of South Africa",
+        "placeName": "Poortje",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Jacobsdal",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State Province",
+        "country": "Union of South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4818
+    ],
+    "exSpouses": [],
+    "children": [
+      4820,
+      1897,
+      4821,
+      4822,
+      4823,
+      4824,
+      4825,
+      4826,
+      4827
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1147"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4818,
+        "unionId": "F1147",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4820,
+        "unionId": "F1147",
+        "type": "biological"
+      },
+      {
+        "id": 1897,
+        "unionId": "F1147",
+        "type": "biological"
+      },
+      {
+        "id": 4821,
+        "unionId": "F1147",
+        "type": "biological"
+      },
+      {
+        "id": 4822,
+        "unionId": "F1147",
+        "type": "biological"
+      },
+      {
+        "id": 4823,
+        "unionId": "F1147",
+        "type": "biological"
+      },
+      {
+        "id": 4824,
+        "unionId": "F1147",
+        "type": "biological"
+      },
+      {
+        "id": 4825,
+        "unionId": "F1147",
+        "type": "biological"
+      },
+      {
+        "id": 4826,
+        "unionId": "F1147",
+        "type": "biological"
+      },
+      {
+        "id": 4827,
+        "unionId": "F1147",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000036712951104@",
+    "geniId": "6000000036712951104",
+    "rfn": "geni:6000000036712951104",
+    "changed": "18 JUL 2023"
+  },
+  "page": {
+    "route": "people/4819/",
+    "canonical": "https://www.genepedia.org/people/4819/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

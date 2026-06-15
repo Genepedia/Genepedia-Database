@@ -1,0 +1,116 @@
+{
+  "id": 4526,
+  "schema": "genepedia/person@1",
+  "slug": "erna-pauline-masurevitz",
+  "names": {
+    "display": "Erna Pauline Masurevitz",
+    "given": "Erna Pauline",
+    "surname": "Masurevitz",
+    "married": "Malchin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1898",
+      "year": 1898,
+      "iso": "1898",
+      "precision": "exact",
+      "display": "1898",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/80/12/8b/b4/53444868aafab065/jpg_13__original.jpg?hash=1e828730ffeba2f349c981ada92bec111791bd39071a91e47cb4788b66e7936c.1789455599",
+      "alt": "Erna Pauline Masurevitz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/80/12/8b/b4/53444868aafab065/jpg_13__original.jpg?hash=1e828730ffeba2f349c981ada92bec111791bd39071a91e47cb4788b66e7936c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1777
+    ],
+    "exSpouses": [],
+    "children": [
+      4527,
+      4528,
+      4529
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1077"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1777,
+        "unionId": "F1077",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4527,
+        "unionId": "F1077",
+        "type": "biological"
+      },
+      {
+        "id": 4528,
+        "unionId": "F1077",
+        "type": "biological"
+      },
+      {
+        "id": 4529,
+        "unionId": "F1077",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217944208821@",
+    "geniId": "6000000217944208821",
+    "rfn": "geni:6000000217944208821",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/4526/",
+    "canonical": "https://www.genepedia.org/people/4526/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

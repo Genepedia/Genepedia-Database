@@ -1,0 +1,133 @@
+{
+  "id": 724,
+  "schema": "genepedia/person@1",
+  "slug": "annie-lurie",
+  "names": {
+    "display": "Annie Lurie",
+    "given": "Annie",
+    "surname": "Lurie",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 AUG 1927",
+      "year": 1927,
+      "iso": "1927-08-01",
+      "precision": "exact",
+      "display": "August 1, 1927",
+      "place": null
+    },
+    "death": {
+      "date": "1977",
+      "year": 1977,
+      "iso": "1977",
+      "precision": "exact",
+      "display": "1977",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      297,
+      723
+    ],
+    "spouses": [
+      1737
+    ],
+    "exSpouses": [],
+    "children": [
+      1738,
+      1739,
+      1740,
+      1741
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F205"
+    ],
+    "spouseUnions": [
+      "F456"
+    ],
+    "parentLinks": [
+      {
+        "id": 297,
+        "unionId": "F205",
+        "type": "biological"
+      },
+      {
+        "id": 723,
+        "unionId": "F205",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1737,
+        "unionId": "F456",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1738,
+        "unionId": "F456",
+        "type": "biological"
+      },
+      {
+        "id": 1739,
+        "unionId": "F456",
+        "type": "biological"
+      },
+      {
+        "id": 1740,
+        "unionId": "F456",
+        "type": "biological"
+      },
+      {
+        "id": 1741,
+        "unionId": "F456",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204898083075@",
+    "geniId": "6000000204898083075",
+    "rfn": "geni:6000000204898083075",
+    "changed": "07 NOV 2024"
+  },
+  "page": {
+    "route": "people/724/",
+    "canonical": "https://www.genepedia.org/people/724/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

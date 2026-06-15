@@ -1,0 +1,122 @@
+{
+  "id": 3909,
+  "schema": "genepedia/person@1",
+  "slug": "willem-andries-germishuysen",
+  "names": {
+    "display": "Willem Andries Germishuysen",
+    "given": "Willem Andries",
+    "surname": "Germishuysen",
+    "married": "Germishuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 JUL 1876",
+      "year": 1876,
+      "iso": "1876-07-02",
+      "precision": "exact",
+      "display": "July 2, 1876",
+      "place": null
+    },
+    "death": {
+      "date": "21 OCT 1899",
+      "year": 1899,
+      "iso": "1899-10-21",
+      "precision": "exact",
+      "display": "October 21, 1899",
+      "place": "Battle of Elandslaagte, kwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Battle of Elandslaagte, kwaZulu-Natal, South Africa",
+        "placeName": "Battle of Elandslaagte",
+        "addressLine1": ", Klip River,",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "kwaZulu-Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1530,
+      3901
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3902,
+      3903,
+      3904,
+      3905,
+      3906,
+      3907,
+      3908,
+      3910
+    ],
+    "parentUnions": [
+      "F922"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1530,
+        "unionId": "F922",
+        "type": "biological"
+      },
+      {
+        "id": 3901,
+        "unionId": "F922",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000205453752898@",
+    "geniId": "6000000205453752898",
+    "rfn": "geni:6000000205453752898",
+    "changed": "29 DEC 2024"
+  },
+  "page": {
+    "route": "people/3909/",
+    "canonical": "https://www.genepedia.org/people/3909/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

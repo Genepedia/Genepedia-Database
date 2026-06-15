@@ -1,0 +1,93 @@
+{
+  "id": 78,
+  "schema": "genepedia/person@1",
+  "slug": "scheepers-78",
+  "names": {
+    "display": "? Scheepers",
+    "given": "?",
+    "surname": "Scheepers",
+    "married": "Scheepers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      236,
+      237
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      19
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F76"
+    ],
+    "spouseUnions": [
+      "F28"
+    ],
+    "parentLinks": [
+      {
+        "id": 236,
+        "unionId": "F76",
+        "type": "biological"
+      },
+      {
+        "id": 237,
+        "unionId": "F76",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 19,
+        "unionId": "F28",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207417742821@",
+    "geniId": "6000000207417742821",
+    "rfn": "geni:6000000207417742821",
+    "changed": "18 JUL 2024"
+  },
+  "page": {
+    "route": "people/78/",
+    "canonical": "https://www.genepedia.org/people/78/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

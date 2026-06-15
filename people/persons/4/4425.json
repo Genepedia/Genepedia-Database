@@ -1,0 +1,110 @@
+{
+  "id": 4425,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-christina-hendrika-kuun",
+  "names": {
+    "display": "Susanna Christina Hendrika Kuun",
+    "given": "Susanna Christina Hendrika",
+    "surname": "Kuun",
+    "married": "De Lange",
+    "nick": "Koen",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 1842",
+      "year": 1842,
+      "iso": "1842",
+      "precision": "before",
+      "display": "before 1842",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4424
+    ],
+    "exSpouses": [],
+    "children": [
+      1732,
+      4426,
+      4427,
+      4428
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1048"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4424,
+        "unionId": "F1048",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1732,
+        "unionId": "F1048",
+        "type": "biological"
+      },
+      {
+        "id": 4426,
+        "unionId": "F1048",
+        "type": "biological"
+      },
+      {
+        "id": 4427,
+        "unionId": "F1048",
+        "type": "biological"
+      },
+      {
+        "id": 4428,
+        "unionId": "F1048",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217947161837@",
+    "geniId": "6000000217947161837",
+    "rfn": "geni:6000000217947161837",
+    "changed": "06 JUN 2025"
+  },
+  "page": {
+    "route": "people/4425/",
+    "canonical": "https://www.genepedia.org/people/4425/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

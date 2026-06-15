@@ -1,0 +1,185 @@
+{
+  "id": 4763,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-gerhardus-olivier-de-meillon",
+  "names": {
+    "display": "Johannes Gerhardus Olivier De Meillon",
+    "given": "Johannes Gerhardus Olivier",
+    "surname": "De Meillon",
+    "married": "De Meillon",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 MAR 1882",
+      "year": 1882,
+      "iso": "1882-03-31",
+      "precision": "exact",
+      "display": "March 31, 1882",
+      "place": "Victoria West, Cape Province, South Africa",
+      "location": {
+        "label": "Victoria West, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 APR 1947",
+      "year": 1947,
+      "iso": "1947-04-11",
+      "precision": "exact",
+      "display": "April 11, 1947",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/50/70/e3/75/5344484b731bd62a/yem33rif_original.jpg?hash=2ad12adb8ce21785eec2fc19c10ad4fd74d0ff11760e33b210e2383f7fefba3d.1789455599",
+      "alt": "Johannes Gerhardus Olivier De Meillon"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/50/70/e3/75/5344484b731bd62a/yem33rif_original.jpg?hash=2ad12adb8ce21785eec2fc19c10ad4fd74d0ff11760e33b210e2383f7fefba3d.1789455599",
+        "form": "",
+        "title": "Johannes Gerhardus Olivier De Meillon",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1882
+    ],
+    "exSpouses": [],
+    "children": [
+      4764,
+      4765,
+      4766,
+      4767
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1133"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1882,
+        "unionId": "F1133",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4764,
+        "unionId": "F1133",
+        "type": "biological"
+      },
+      {
+        "id": 4765,
+        "unionId": "F1133",
+        "type": "biological"
+      },
+      {
+        "id": 4766,
+        "unionId": "F1133",
+        "type": "biological"
+      },
+      {
+        "id": 4767,
+        "unionId": "F1133",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007386071223@",
+    "geniId": "6000000007386071223",
+    "rfn": "geni:6000000007386071223",
+    "changed": "22 APR 2023"
+  },
+  "page": {
+    "route": "people/4763/",
+    "canonical": "https://www.genepedia.org/people/4763/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

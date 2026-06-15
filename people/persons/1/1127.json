@@ -1,0 +1,96 @@
+{
+  "id": 1127,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobus-fourie-1127",
+  "names": {
+    "display": "Daniel Jacobus Fourie",
+    "given": "Daniel Jacobus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 SEP 1888",
+      "year": 1888,
+      "iso": "1888-09-12",
+      "precision": "exact",
+      "display": "September 12, 1888",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      441,
+      1126
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1128,
+      1129,
+      1130,
+      1131,
+      1132
+    ],
+    "parentUnions": [
+      "F298"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 441,
+        "unionId": "F298",
+        "type": "biological"
+      },
+      {
+        "id": 1126,
+        "unionId": "F298",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000186940306893@",
+    "geniId": "6000000186940306893",
+    "rfn": "geni:6000000186940306893",
+    "changed": "02 SEP 2022"
+  },
+  "page": {
+    "route": "people/1127/",
+    "canonical": "https://www.genepedia.org/people/1127/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

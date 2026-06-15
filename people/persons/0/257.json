@@ -1,0 +1,123 @@
+{
+  "id": 257,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-johana-magrita-minaar",
+  "names": {
+    "display": "Susanna Johana Magrita Minaar",
+    "given": "Susanna Johana Magrita",
+    "surname": "Minaar",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 APR 1933",
+      "year": 1933,
+      "iso": "1933-04-16",
+      "precision": "exact",
+      "display": "April 16, 1933",
+      "place": null
+    },
+    "death": {
+      "date": "7 JUL 2022",
+      "year": 2022,
+      "iso": "2022-07-07",
+      "precision": "exact",
+      "display": "July 7, 2022",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ea/3f/56/5c/534448657664aeb9/img-20200105-wa0543_original.jpg?hash=e7875669086c95d8fe3e332bd76c6ced34334c812716bf00d4429df776c4631b.1789455599",
+      "alt": "Susanna Johana Magrita Minaar"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ea/3f/56/5c/534448657664aeb9/img-20200105-wa0543_original.jpg?hash=e7875669086c95d8fe3e332bd76c6ced34334c812716bf00d4429df776c4631b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      256
+    ],
+    "exSpouses": [],
+    "children": [
+      94,
+      258,
+      259
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F81"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 256,
+        "unionId": "F81",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 94,
+        "unionId": "F81",
+        "type": "biological"
+      },
+      {
+        "id": 258,
+        "unionId": "F81",
+        "type": "biological"
+      },
+      {
+        "id": 259,
+        "unionId": "F81",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204178011825@",
+    "geniId": "6000000204178011825",
+    "rfn": "geni:6000000204178011825",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/257/",
+    "canonical": "https://www.genepedia.org/people/257/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

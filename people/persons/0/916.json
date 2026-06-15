@@ -1,0 +1,184 @@
+{
+  "id": 916,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-catharina-adriana-magdelena-roselt",
+  "names": {
+    "display": "Johanna Catharina Adriana Magdelena Roselt",
+    "given": "Johanna Catharina Adriana Magdelena",
+    "surname": "Roselt",
+    "married": "Nel",
+    "nick": "Botes",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "20 OCT 2013",
+      "year": 2013,
+      "iso": "2013-10-20",
+      "precision": "exact",
+      "display": "October 20, 2013",
+      "place": "Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Potchefstroom, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "20 OCT 2013",
+      "year": 2013,
+      "iso": "2013-10-20",
+      "precision": "exact",
+      "display": "October 20, 2013",
+      "place": null,
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/cf/d2/a2/aa/5344483cc58db154/wur37mib_original.jpg?hash=1fa7a341a0cb49ac76106bf375a5c0e871096d677bc45fb82dd16e42615e9a58.1789455599",
+      "alt": "Johanna Catharina Adriana Magdelena Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/cf/d2/a2/aa/5344483cc58db154/wur37mib_original.jpg?hash=1fa7a341a0cb49ac76106bf375a5c0e871096d677bc45fb82dd16e42615e9a58.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/96/63/c9/6f/534448634ecf5c3d/record-image__original.jpg?hash=4c1db227dfb95fdaf19c19bb517046177b8ca2ee65493d807947175a74b0d147.1789455599",
+        "form": "",
+        "title": "record-image_trou 1953 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      372,
+      384
+    ],
+    "spouses": [
+      2271
+    ],
+    "exSpouses": [
+      2269
+    ],
+    "children": [
+      2270,
+      2272,
+      2273,
+      2274
+    ],
+    "siblings": [
+      910,
+      911,
+      912,
+      913,
+      914,
+      915
+    ],
+    "parentUnions": [
+      "F254"
+    ],
+    "spouseUnions": [
+      "F575",
+      "F576"
+    ],
+    "parentLinks": [
+      {
+        "id": 372,
+        "unionId": "F254",
+        "type": "biological"
+      },
+      {
+        "id": 384,
+        "unionId": "F254",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2269,
+        "unionId": "F575",
+        "role": "ex-husband"
+      },
+      {
+        "id": 2271,
+        "unionId": "F576",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2270,
+        "unionId": "F575",
+        "type": "biological"
+      },
+      {
+        "id": 2272,
+        "unionId": "F576",
+        "type": "biological"
+      },
+      {
+        "id": 2273,
+        "unionId": "F576",
+        "type": "biological"
+      },
+      {
+        "id": 2274,
+        "unionId": "F576",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000026551821968@",
+    "geniId": "6000000026551821968",
+    "rfn": "geni:6000000026551821968",
+    "changed": "27 MAY 2023"
+  },
+  "page": {
+    "route": "people/916/",
+    "canonical": "https://www.genepedia.org/people/916/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

@@ -1,0 +1,164 @@
+{
+  "id": 683,
+  "schema": "genepedia/person@1",
+  "slug": "alice-marie-meilhon",
+  "names": {
+    "display": "Alice Marie Meilhon",
+    "given": "Alice Marie",
+    "surname": "Meilhon",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Durban, Natal, South Africa",
+      "location": {
+        "label": "Durban, Natal, South Africa",
+        "placeName": "Durban, Natal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1982",
+      "year": 1982,
+      "iso": "1982",
+      "precision": "exact",
+      "display": "1982",
+      "place": "East London, Eastern Cape, South Africa",
+      "location": {
+        "label": "East London, Eastern Cape, South Africa",
+        "placeName": "East London, Eastern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Alice Marie Meilhon"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Family Tree",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Graham Web Site",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      671,
+      670
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      672,
+      673,
+      674,
+      675,
+      676,
+      268,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      684,
+      685,
+      686
+    ],
+    "parentUnions": [
+      "F191"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 671,
+        "unionId": "F191",
+        "type": "biological"
+      },
+      {
+        "id": 670,
+        "unionId": "F191",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003274759248@",
+    "geniId": "6000000003274759248",
+    "rfn": "geni:6000000003274759248",
+    "changed": "22 OCT 2024"
+  },
+  "page": {
+    "route": "people/683/",
+    "canonical": "https://www.genepedia.org/people/683/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

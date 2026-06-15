@@ -1,0 +1,129 @@
+{
+  "id": 104,
+  "schema": "genepedia/person@1",
+  "slug": "deidre-hope-edwards",
+  "names": {
+    "display": "Deidre Hope Edwards",
+    "given": "Deidre Hope",
+    "surname": "Edwards",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/3c/f8/db/38/534448660ed2f5c5/38851746_10217366285330299_8315486426598735872_n_original.jpg?hash=f8ebb15ca728a7a3f1845a8395851fa11b36346f279f6a22e2b1e951a6ec05c9.1789455599",
+      "alt": "Deidre Hope Edwards"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/3c/f8/db/38/534448660ed2f5c5/38851746_10217366285330299_8315486426598735872_n_original.jpg?hash=f8ebb15ca728a7a3f1845a8395851fa11b36346f279f6a22e2b1e951a6ec05c9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      102,
+      101
+    ],
+    "spouses": [
+      277,
+      280
+    ],
+    "exSpouses": [],
+    "children": [
+      278,
+      279
+    ],
+    "siblings": [
+      31,
+      103
+    ],
+    "parentUnions": [
+      "F37"
+    ],
+    "spouseUnions": [
+      "F90",
+      "F91"
+    ],
+    "parentLinks": [
+      {
+        "id": 102,
+        "unionId": "F37",
+        "type": "biological"
+      },
+      {
+        "id": 101,
+        "unionId": "F37",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 277,
+        "unionId": "F90",
+        "role": "partner"
+      },
+      {
+        "id": 280,
+        "unionId": "F91",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 278,
+        "unionId": "F90",
+        "type": "biological"
+      },
+      {
+        "id": 279,
+        "unionId": "F90",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206736374886@",
+    "geniId": "6000000206736374886",
+    "rfn": "geni:6000000206736374886",
+    "changed": "23 JUN 2024"
+  },
+  "page": {
+    "route": "people/104/",
+    "canonical": "https://www.genepedia.org/people/104/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

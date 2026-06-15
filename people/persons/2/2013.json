@@ -1,0 +1,110 @@
+{
+  "id": 2013,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-josua-mitchell",
+  "names": {
+    "display": "Pieter Josua Mitchell",
+    "given": "Pieter Josua",
+    "surname": "Mitchell",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 MAR 1946",
+      "year": 1946,
+      "iso": "1946-03-24",
+      "precision": "exact",
+      "display": "March 24, 1946",
+      "place": "Germiston, Transvaal",
+      "location": {
+        "label": "Germiston, Transvaal",
+        "placeName": "Germiston, Transvaal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      838,
+      2011
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2012
+    ],
+    "parentUnions": [
+      "F525"
+    ],
+    "spouseUnions": [
+      "F1230"
+    ],
+    "parentLinks": [
+      {
+        "id": 838,
+        "unionId": "F525",
+        "type": "biological"
+      },
+      {
+        "id": 2011,
+        "unionId": "F525",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000176648590840@",
+    "geniId": "6000000176648590840",
+    "rfn": "geni:6000000176648590840",
+    "changed": "27 JUN 2021"
+  },
+  "page": {
+    "route": "people/2013/",
+    "canonical": "https://www.genepedia.org/people/2013/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

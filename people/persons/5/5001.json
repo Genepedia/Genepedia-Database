@@ -1,0 +1,96 @@
+{
+  "id": 5001,
+  "schema": "genepedia/person@1",
+  "slug": "anna-cecilia-struwig",
+  "names": {
+    "display": "Anna Cecilia Struwig",
+    "given": "Anna Cecilia",
+    "surname": "Struwig",
+    "married": "du Plessis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1870",
+      "year": 1870,
+      "iso": "1870",
+      "precision": "exact",
+      "display": "1870",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/fc/21/cd/9d/534448429f0ac510/000311_19131375e13bm00y2acco3_original.jpg?hash=b760c046b64de8a77ac852691e2bafaa407e16205abfb04db6efbcf41c3088c6.1789455599",
+      "alt": "Anna Cecilia Struwig"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/fc/21/cd/9d/534448429f0ac510/000311_19131375e13bm00y2acco3_original.jpg?hash=b760c046b64de8a77ac852691e2bafaa407e16205abfb04db6efbcf41c3088c6.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1947
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1190"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1947,
+        "unionId": "F1190",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000039289092039@",
+    "geniId": "6000000039289092039",
+    "rfn": "geni:6000000039289092039",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/5001/",
+    "canonical": "https://www.genepedia.org/people/5001/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

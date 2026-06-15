@@ -1,0 +1,92 @@
+{
+  "id": 1473,
+  "schema": "genepedia/person@1",
+  "slug": "andre-fourie-1473",
+  "names": {
+    "display": "Andre Fourie",
+    "given": "Andre",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "17 JUL 1958",
+      "year": 1958,
+      "iso": "1958-07-17",
+      "precision": "exact",
+      "display": "July 17, 1958",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      591
+    ],
+    "exSpouses": [],
+    "children": [
+      1474
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F375"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 591,
+        "unionId": "F375",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1474,
+        "unionId": "F375",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206608319826@",
+    "geniId": "6000000206608319826",
+    "rfn": "geni:6000000206608319826",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1473/",
+    "canonical": "https://www.genepedia.org/people/1473/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

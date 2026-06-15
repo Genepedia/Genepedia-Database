@@ -1,0 +1,94 @@
+{
+  "id": 3350,
+  "schema": "genepedia/person@1",
+  "slug": "louise-mannatt",
+  "names": {
+    "display": "Louise Mannatt",
+    "given": "Louise",
+    "surname": "Viljoen",
+    "married": "Mannatt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "27 APR 1973",
+      "year": 1973,
+      "iso": "1973-04-27",
+      "precision": "exact",
+      "display": "April 27, 1973",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3346,
+      1321
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3347,
+      3348,
+      3349
+    ],
+    "parentUnions": [
+      "F821"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3346,
+        "unionId": "F821",
+        "type": "biological"
+      },
+      {
+        "id": 1321,
+        "unionId": "F821",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227603063@",
+    "geniId": "6000000027227603063",
+    "rfn": "geni:6000000027227603063",
+    "changed": "11 MAR 2015"
+  },
+  "page": {
+    "route": "people/3350/",
+    "canonical": "https://www.genepedia.org/people/3350/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

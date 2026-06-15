@@ -1,0 +1,112 @@
+{
+  "id": 534,
+  "schema": "genepedia/person@1",
+  "slug": "duan-de-leeuw",
+  "names": {
+    "display": "Duan de Leeuw",
+    "given": "Duan",
+    "surname": "de Leeuw",
+    "married": "de Leeuw",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "22 JUL 1973",
+      "year": 1973,
+      "iso": "1973-07-22",
+      "precision": "exact",
+      "display": "July 22, 1973",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      532,
+      533
+    ],
+    "spouses": [
+      1281
+    ],
+    "exSpouses": [],
+    "children": [
+      1282
+    ],
+    "siblings": [
+      207,
+      535,
+      209
+    ],
+    "parentUnions": [
+      "F157"
+    ],
+    "spouseUnions": [
+      "F333"
+    ],
+    "parentLinks": [
+      {
+        "id": 532,
+        "unionId": "F157",
+        "type": "biological"
+      },
+      {
+        "id": 533,
+        "unionId": "F157",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1281,
+        "unionId": "F333",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1282,
+        "unionId": "F333",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204095329844@",
+    "geniId": "6000000204095329844",
+    "rfn": "geni:6000000204095329844",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/534/",
+    "canonical": "https://www.genepedia.org/people/534/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

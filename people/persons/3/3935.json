@@ -1,0 +1,129 @@
+{
+  "id": 3935,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-maria-jacoba-vermeulen",
+  "names": {
+    "display": "Catharina Maria Jacoba Vermeulen",
+    "given": "Catharina Maria Jacoba",
+    "surname": "Vermeulen",
+    "married": "Summerlee",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1861",
+      "year": 1861,
+      "iso": "1861",
+      "precision": "exact",
+      "display": "1861",
+      "place": null
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "(b3c4d5e2f22)",
+      "location": {
+        "label": "(b3c4d5e2f22)",
+        "placeName": "(b3c4d5e2f22)",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3921,
+      1533
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3922,
+      3923,
+      3924,
+      3925,
+      3926,
+      3927,
+      3928,
+      3929,
+      3930,
+      3931,
+      3932,
+      3933,
+      3934,
+      3936,
+      3937
+    ],
+    "parentUnions": [
+      "F925"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3921,
+        "unionId": "F925",
+        "type": "biological"
+      },
+      {
+        "id": 1533,
+        "unionId": "F925",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024929011291@",
+    "geniId": "6000000024929011291",
+    "rfn": "geni:6000000024929011291",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3935/",
+    "canonical": "https://www.genepedia.org/people/3935/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

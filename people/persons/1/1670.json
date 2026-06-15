@@ -1,0 +1,189 @@
+{
+  "id": 1670,
+  "schema": "genepedia/person@1",
+  "slug": "willian-ronald-nicholas",
+  "names": {
+    "display": "Willian Ronald Nicholas",
+    "given": "Willian  Ronald",
+    "surname": "Nicholas",
+    "married": "Nicholas",
+    "nick": "",
+    "aliases": [
+      "Ronnie"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 AUG 1929",
+      "year": 1929,
+      "iso": "1929-08-09",
+      "precision": "exact",
+      "display": "August 9, 1929",
+      "place": "Durban, KZN, South Africa",
+      "location": {
+        "label": "Durban, KZN, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Durban",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KZN",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 DEC 2011",
+      "year": 2011,
+      "iso": "2011-12-20",
+      "precision": "exact",
+      "display": "December 20, 2011",
+      "place": "Port Edward, KZN, South Africa",
+      "location": {
+        "label": "Port Edward, KZN, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Edward",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KZN",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Port Edward, KZN, South Africa",
+      "location": {
+        "label": "Port Edward, KZN, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Edward",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KZN",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1669,
+      673
+    ],
+    "spouses": [
+      4342
+    ],
+    "exSpouses": [],
+    "children": [
+      4343,
+      4344,
+      4345
+    ],
+    "siblings": [
+      1671,
+      1672,
+      1673
+    ],
+    "parentUnions": [
+      "F433"
+    ],
+    "spouseUnions": [
+      "F1025"
+    ],
+    "parentLinks": [
+      {
+        "id": 1669,
+        "unionId": "F433",
+        "type": "biological"
+      },
+      {
+        "id": 673,
+        "unionId": "F433",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4342,
+        "unionId": "F1025",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4343,
+        "unionId": "F1025",
+        "type": "biological"
+      },
+      {
+        "id": 4344,
+        "unionId": "F1025",
+        "type": "biological"
+      },
+      {
+        "id": 4345,
+        "unionId": "F1025",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I3944036752680077135@",
+    "geniId": "3944036752680077135",
+    "rfn": "geni:3944036752680077135",
+    "changed": "12 APR 2023"
+  },
+  "page": {
+    "route": "people/1670/",
+    "canonical": "https://www.genepedia.org/people/1670/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

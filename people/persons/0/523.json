@@ -1,0 +1,85 @@
+{
+  "id": 523,
+  "schema": "genepedia/person@1",
+  "slug": "swanepoel-523",
+  "names": {
+    "display": "? Swanepoel",
+    "given": "?",
+    "surname": "Swanepoel",
+    "married": "Swanepoel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      522
+    ],
+    "exSpouses": [],
+    "children": [
+      198
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F153"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 522,
+        "unionId": "F153",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 198,
+        "unionId": "F153",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217951784828@",
+    "geniId": "6000000217951784828",
+    "rfn": "geni:6000000217951784828",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/523/",
+    "canonical": "https://www.genepedia.org/people/523/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

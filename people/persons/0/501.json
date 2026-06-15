@@ -1,0 +1,100 @@
+{
+  "id": 501,
+  "schema": "genepedia/person@1",
+  "slug": "fourie-501",
+  "names": {
+    "display": "? Fourie",
+    "given": "?",
+    "surname": "Fourie",
+    "married": "Sessin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      175,
+      494
+    ],
+    "spouses": [
+      1239
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      495,
+      496,
+      497,
+      498,
+      499,
+      500
+    ],
+    "parentUnions": [
+      "F143"
+    ],
+    "spouseUnions": [
+      "F322"
+    ],
+    "parentLinks": [
+      {
+        "id": 175,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 494,
+        "unionId": "F143",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1239,
+        "unionId": "F322",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204146417844@",
+    "geniId": "6000000204146417844",
+    "rfn": "geni:6000000204146417844",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/501/",
+    "canonical": "https://www.genepedia.org/people/501/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,245 @@
+{
+  "id": 372,
+  "schema": "genepedia/person@1",
+  "slug": "henry-stephen-roselt",
+  "names": {
+    "display": "Henry Stephen Roselt",
+    "given": "Henry Stephen",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "Henry Thomas Roselt",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 OCT 1894",
+      "year": 1894,
+      "iso": "1894-10-01",
+      "precision": "exact",
+      "display": "October 1, 1894",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 JUL 1944",
+      "year": 1944,
+      "iso": "1944-07-12",
+      "precision": "exact",
+      "display": "July 12, 1944",
+      "place": "Kimberley Hospital, Kimberley, South Africa",
+      "location": {
+        "label": "Kimberley Hospital, Kimberley, South Africa",
+        "placeName": "Kimberley Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "1944",
+      "year": 1944,
+      "iso": "1944",
+      "precision": "exact",
+      "display": "1944",
+      "place": "Main Cemetry, Buklands, Noord Kaap, South Africa",
+      "location": {
+        "label": "Main Cemetry, Buklands, Noord Kaap, South Africa",
+        "placeName": "Main Cemetry",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Buklands",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Noord Kaap",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Tuinboer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/38/bb/5c/76/5344483cc5bcc648/jix79rip_original.jpg?hash=bf3b86d97a20f60b4f0412b018179e74e5eec0993cb62d81e447c17e7b5dd7e1.1789455599",
+      "alt": "Henry Stephen Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/38/bb/5c/76/5344483cc5bcc648/jix79rip_original.jpg?hash=bf3b86d97a20f60b4f0412b018179e74e5eec0993cb62d81e447c17e7b5dd7e1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/d9/e0/71/5e/5344483cc5c1fd9c/xit99xaj_original.jpg?hash=1842e908a9d0156cd82c7fba54e974e2b79da0434bbb466225a8ad68f657d806.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/11/e0/b7/7e/53444863621b3d7b/record-image__original.jpg?hash=f6667cfd8d2ac549f9fabd39d7c305367753d27aac6105207649492bba8a98cd.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      368,
+      369
+    ],
+    "spouses": [
+      384
+    ],
+    "exSpouses": [],
+    "children": [
+      910,
+      911,
+      912,
+      913,
+      914,
+      915,
+      916
+    ],
+    "siblings": [
+      370,
+      138,
+      371,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380
+    ],
+    "parentUnions": [
+      "F117"
+    ],
+    "spouseUnions": [
+      "F254"
+    ],
+    "parentLinks": [
+      {
+        "id": 368,
+        "unionId": "F117",
+        "type": "biological"
+      },
+      {
+        "id": 369,
+        "unionId": "F117",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 384,
+        "unionId": "F254",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 910,
+        "unionId": "F254",
+        "type": "biological"
+      },
+      {
+        "id": 911,
+        "unionId": "F254",
+        "type": "biological"
+      },
+      {
+        "id": 912,
+        "unionId": "F254",
+        "type": "biological"
+      },
+      {
+        "id": 913,
+        "unionId": "F254",
+        "type": "biological"
+      },
+      {
+        "id": 914,
+        "unionId": "F254",
+        "type": "biological"
+      },
+      {
+        "id": 915,
+        "unionId": "F254",
+        "type": "biological"
+      },
+      {
+        "id": 916,
+        "unionId": "F254",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000026552378934@",
+    "geniId": "6000000026552378934",
+    "rfn": "geni:6000000026552378934",
+    "changed": "07 JUN 2023"
+  },
+  "page": {
+    "route": "people/372/",
+    "canonical": "https://www.genepedia.org/people/372/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

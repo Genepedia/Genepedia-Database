@@ -1,0 +1,154 @@
+{
+  "id": 3551,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-jacobus-pretorius",
+  "names": {
+    "display": "Petrus Jacobus Pretorius",
+    "given": "Petrus Jacobus",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "Pieter",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 FEB 1839",
+      "year": 1839,
+      "iso": "1839-02-28",
+      "precision": "exact",
+      "display": "February 28, 1839",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 MAY 1898",
+      "year": 1898,
+      "iso": "1898-05-24",
+      "precision": "exact",
+      "display": "May 24, 1898",
+      "place": "Oudedorp, Graaff Reinet, Suid Afrika",
+      "location": {
+        "label": "Oudedorp, Graaff Reinet, Suid Afrika",
+        "placeName": "Oudedorp",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Suid Afrika",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "12 MAY 1839",
+      "year": 1839,
+      "iso": "1839-05-12",
+      "precision": "exact",
+      "display": "May 12, 1839",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1394
+    ],
+    "exSpouses": [],
+    "children": [
+      3552
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F865"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1394,
+        "unionId": "F865",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3552,
+        "unionId": "F865",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028576432491@",
+    "geniId": "6000000028576432491",
+    "rfn": "geni:6000000028576432491",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3551/",
+    "canonical": "https://www.genepedia.org/people/3551/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

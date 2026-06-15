@@ -1,0 +1,207 @@
+{
+  "id": 912,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-roselt-912",
+  "names": {
+    "display": "Pieter Andries Roselt",
+    "given": "Pieter  Andries",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 NOV 1927",
+      "year": 1927,
+      "iso": "1927-11-15",
+      "precision": "exact",
+      "display": "November 15, 1927",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 DEC 1986",
+      "year": 1986,
+      "iso": "1986-12-23",
+      "precision": "exact",
+      "display": "December 23, 1986",
+      "place": "Rustenburg",
+      "location": {
+        "label": "Rustenburg",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Rustenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "11 DEC 1927",
+      "year": 1927,
+      "iso": "1927-12-11",
+      "precision": "exact",
+      "display": "December 11, 1927",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      372,
+      384
+    ],
+    "spouses": [
+      2243
+    ],
+    "exSpouses": [],
+    "children": [
+      2244,
+      2245,
+      2246,
+      2247,
+      2248,
+      2249
+    ],
+    "siblings": [
+      910,
+      911,
+      913,
+      914,
+      915,
+      916
+    ],
+    "parentUnions": [
+      "F254"
+    ],
+    "spouseUnions": [
+      "F571"
+    ],
+    "parentLinks": [
+      {
+        "id": 372,
+        "unionId": "F254",
+        "type": "biological"
+      },
+      {
+        "id": 384,
+        "unionId": "F254",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2243,
+        "unionId": "F571",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2244,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2245,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2246,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2247,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2248,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2249,
+        "unionId": "F571",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000026555829151@",
+    "geniId": "6000000026555829151",
+    "rfn": "geni:6000000026555829151",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/912/",
+    "canonical": "https://www.genepedia.org/people/912/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

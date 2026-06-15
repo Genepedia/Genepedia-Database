@@ -1,0 +1,182 @@
+{
+  "id": 2760,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-maria-magdalena-janse-van-vuuren-2760",
+  "names": {
+    "display": "Cornelia Maria Magdalena Janse van Vuuren",
+    "given": "Cornelia Maria Magdalena",
+    "surname": "Janse van Vuuren",
+    "married": "Scheepers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 MAY 1840",
+      "year": 1840,
+      "iso": "1840-05-13",
+      "precision": "exact",
+      "display": "May 13, 1840",
+      "place": null
+    },
+    "death": {
+      "date": "18 NOV 1906",
+      "year": 1906,
+      "iso": "1906-11-18",
+      "precision": "exact",
+      "display": "November 18, 1906",
+      "place": "Griekwastad, NC, South Africa",
+      "location": {
+        "label": "Griekwastad, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "Grootfontein",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "5 OCT 1840",
+      "year": 1840,
+      "iso": "1840-10-05",
+      "precision": "exact",
+      "display": "October 5, 1840",
+      "place": "Beaufort West, WC, South Africa",
+      "location": {
+        "label": "Beaufort West, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "6970",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Huisvrou",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/bb/31/58/0d/534448638e8cae5d/record-image__original.jpg?hash=25a8613dcd51ba13dadf3ae4fa210e454a8d911ca2e0c6281ca6393b9d0e8398.1789455599",
+      "alt": "Cornelia Maria Magdalena Janse van Vuuren"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/bb/31/58/0d/534448638e8cae5d/record-image__original.jpg?hash=25a8613dcd51ba13dadf3ae4fa210e454a8d911ca2e0c6281ca6393b9d0e8398.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2759
+    ],
+    "exSpouses": [],
+    "children": [
+      1120,
+      2761,
+      2762,
+      2763,
+      2764,
+      2765
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1711"
+    ],
+    "spouseUnions": [
+      "F683"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2759,
+        "unionId": "F683",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1120,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2761,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2762,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2763,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2764,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2765,
+        "unionId": "F683",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000173919432883@",
+    "geniId": "6000000173919432883",
+    "rfn": "geni:6000000173919432883",
+    "changed": "03 JUL 2023"
+  },
+  "page": {
+    "route": "people/2760/",
+    "canonical": "https://www.genepedia.org/people/2760/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

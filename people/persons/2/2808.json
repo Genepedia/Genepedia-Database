@@ -1,0 +1,104 @@
+{
+  "id": 2808,
+  "schema": "genepedia/person@1",
+  "slug": "barendina-dalina-dina-koekemoer",
+  "names": {
+    "display": "Barendina Dalina (Dina) Koekemoer",
+    "given": "Barendina Dalina (Dina)",
+    "surname": "Van Tonder",
+    "married": "Koekemoer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 JUL 1943",
+      "year": 1943,
+      "iso": "1943-07-15",
+      "precision": "exact",
+      "display": "July 15, 1943",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1138
+    ],
+    "exSpouses": [],
+    "children": [
+      2809,
+      2810,
+      2811
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F695"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1138,
+        "unionId": "F695",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2809,
+        "unionId": "F695",
+        "type": "biological"
+      },
+      {
+        "id": 2810,
+        "unionId": "F695",
+        "type": "biological"
+      },
+      {
+        "id": 2811,
+        "unionId": "F695",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000006862590774@",
+    "geniId": "6000000006862590774",
+    "rfn": "geni:6000000006862590774",
+    "changed": "21 JUN 2016"
+  },
+  "page": {
+    "route": "people/2808/",
+    "canonical": "https://www.genepedia.org/people/2808/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

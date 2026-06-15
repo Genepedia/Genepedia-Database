@@ -1,0 +1,122 @@
+{
+  "id": 2880,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-jacobus-theron",
+  "names": {
+    "display": "Petrus Jacobus Theron",
+    "given": "Petrus Jacobus",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 AUG 1826",
+      "year": 1826,
+      "iso": "1826-08-05",
+      "precision": "exact",
+      "display": "August 5, 1826",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "11 OCT 1826",
+      "year": 1826,
+      "iso": "1826-10-11",
+      "precision": "exact",
+      "display": "October 11, 1826",
+      "place": "Worcester, Western Cape, South Africa",
+      "location": {
+        "label": "Worcester, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2877,
+      2878
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1154,
+      2879,
+      2881,
+      2882,
+      2883,
+      2884
+    ],
+    "parentUnions": [
+      "F710"
+    ],
+    "spouseUnions": [
+      "F1790"
+    ],
+    "parentLinks": [
+      {
+        "id": 2877,
+        "unionId": "F710",
+        "type": "biological"
+      },
+      {
+        "id": 2878,
+        "unionId": "F710",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029777801478@",
+    "geniId": "6000000029777801478",
+    "rfn": "geni:6000000029777801478",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2880/",
+    "canonical": "https://www.genepedia.org/people/2880/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

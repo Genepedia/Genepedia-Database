@@ -1,0 +1,98 @@
+{
+  "id": 4944,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-maria-roux-4944",
+  "names": {
+    "display": "Johanna Maria Roux",
+    "given": "Johanna Maria",
+    "surname": "Roux",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1854",
+      "year": 1854,
+      "iso": "1854",
+      "precision": "exact",
+      "display": "1854",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4942,
+      4941
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4943,
+      4945,
+      1923,
+      4946,
+      4947,
+      4948,
+      4949
+    ],
+    "parentUnions": [
+      "F1174"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4942,
+        "unionId": "F1174",
+        "type": "biological"
+      },
+      {
+        "id": 4941,
+        "unionId": "F1174",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000186422842852@",
+    "geniId": "6000000186422842852",
+    "rfn": "geni:6000000186422842852",
+    "changed": "13 AUG 2022"
+  },
+  "page": {
+    "route": "people/4944/",
+    "canonical": "https://www.genepedia.org/people/4944/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

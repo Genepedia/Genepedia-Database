@@ -1,0 +1,196 @@
+{
+  "id": 1145,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-aletta-magdalena-fourie",
+  "names": {
+    "display": "Gertruida Aletta Magdalena Fourie",
+    "given": "Gertruida Aletta Magdalena",
+    "surname": "Fourie",
+    "married": "Naude",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 FEB 1900",
+      "year": 1900,
+      "iso": "1900-02-13",
+      "precision": "exact",
+      "display": "February 13, 1900",
+      "place": null
+    },
+    "death": {
+      "date": "27 JUL 1946",
+      "year": 1946,
+      "iso": "1946-07-27",
+      "precision": "exact",
+      "display": "July 27, 1946",
+      "place": "Niekerkshoop, Northern Cape, South Africa",
+      "location": {
+        "label": "Niekerkshoop, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Niekerkshoop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/19/3c/b2/e1/5344483f56b1c969/6000000024814531611_original.png?hash=195a73df8dc1fd7ccd3b88a7e9e16150b672369034a1abe00585f29365d829e5.1789455599",
+      "alt": "Gertruida Aletta Magdalena Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/19/3c/b2/e1/5344483f56b1c969/6000000024814531611_original.png?hash=195a73df8dc1fd7ccd3b88a7e9e16150b672369034a1abe00585f29365d829e5.1789455599",
+        "form": "",
+        "title": "Family Tree - GeniError: Not Found",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/2e/4c/4a/ec/5344486603fd4b38/1_1_6krq-2y3t_original.png?hash=0b80f2e9abc3eb85a76339b6572ea92a41f87e4a0863e3d492a3d3a75ea0b28b.1789455599",
+        "form": "",
+        "title": "https://www.familysearch.org/ark:/61903/1:1:6KRQ-2Y3T",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/94/d4/e6/1c/5344486603fbbc96/image_9__original.jpg?hash=d4f612373576c87eda3fe68c3142c5b880832fb5c45b9f282cbf5f4ff7fc78e2.1789455599",
+        "form": "",
+        "title": "image(9).jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      444,
+      1144
+    ],
+    "spouses": [
+      2827
+    ],
+    "exSpouses": [],
+    "children": [
+      2828,
+      2829,
+      2830,
+      2831,
+      2832,
+      2833,
+      2834
+    ],
+    "siblings": [
+      1146,
+      1147
+    ],
+    "parentUnions": [
+      "F302"
+    ],
+    "spouseUnions": [
+      "F700"
+    ],
+    "parentLinks": [
+      {
+        "id": 444,
+        "unionId": "F302",
+        "type": "biological"
+      },
+      {
+        "id": 1144,
+        "unionId": "F302",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2827,
+        "unionId": "F700",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2828,
+        "unionId": "F700",
+        "type": "biological"
+      },
+      {
+        "id": 2829,
+        "unionId": "F700",
+        "type": "biological"
+      },
+      {
+        "id": 2830,
+        "unionId": "F700",
+        "type": "biological"
+      },
+      {
+        "id": 2831,
+        "unionId": "F700",
+        "type": "biological"
+      },
+      {
+        "id": 2832,
+        "unionId": "F700",
+        "type": "biological"
+      },
+      {
+        "id": 2833,
+        "unionId": "F700",
+        "type": "biological"
+      },
+      {
+        "id": 2834,
+        "unionId": "F700",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024814531611@",
+    "geniId": "6000000024814531611",
+    "rfn": "geni:6000000024814531611",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/1145/",
+    "canonical": "https://www.genepedia.org/people/1145/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

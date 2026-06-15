@@ -1,0 +1,108 @@
+{
+  "id": 779,
+  "schema": "genepedia/person@1",
+  "slug": "william-morudu",
+  "names": {
+    "display": "William Morudu",
+    "given": "William",
+    "surname": "Morudu",
+    "married": "Morudu",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      307
+    ],
+    "exSpouses": [],
+    "children": [
+      780
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F216"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 307,
+        "unionId": "F216",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 780,
+        "unionId": "F216",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207501562865@",
+    "geniId": "6000000207501562865",
+    "rfn": "geni:6000000207501562865",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/779/",
+    "canonical": "https://www.genepedia.org/people/779/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

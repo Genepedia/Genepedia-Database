@@ -1,0 +1,98 @@
+{
+  "id": 3756,
+  "schema": "genepedia/person@1",
+  "slug": "sarah-johanna-maria-stoman",
+  "names": {
+    "display": "Sarah Johanna Maria Stoman",
+    "given": "Sarah Johanna Maria",
+    "surname": "Stoman",
+    "married": "Vermeulen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 10 DEC 1842",
+      "year": 1842,
+      "iso": "1842-12-10",
+      "precision": "about",
+      "display": "about December 10, 1842",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3755,
+      3754
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3757,
+      1434,
+      3758,
+      3759,
+      3760,
+      3761,
+      3762
+    ],
+    "parentUnions": [
+      "F899"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3755,
+        "unionId": "F899",
+        "type": "biological"
+      },
+      {
+        "id": 3754,
+        "unionId": "F899",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003422749064@",
+    "geniId": "6000000003422749064",
+    "rfn": "geni:6000000003422749064",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3756/",
+    "canonical": "https://www.genepedia.org/people/3756/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

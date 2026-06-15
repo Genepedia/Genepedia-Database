@@ -1,0 +1,100 @@
+{
+  "id": 2867,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-elizabeth-joubert",
+  "names": {
+    "display": "Catharina Elizabeth Joubert",
+    "given": "Catharina Elizabeth",
+    "surname": "Joubert",
+    "married": "Maritz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1833",
+      "year": 1833,
+      "iso": "1833",
+      "precision": "exact",
+      "display": "1833",
+      "place": "Britstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Britstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Britstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1153
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F708"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1153,
+        "unionId": "F708",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021492078799@",
+    "geniId": "6000000021492078799",
+    "rfn": "geni:6000000021492078799",
+    "changed": "20 JAN 2022"
+  },
+  "page": {
+    "route": "people/2867/",
+    "canonical": "https://www.genepedia.org/people/2867/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

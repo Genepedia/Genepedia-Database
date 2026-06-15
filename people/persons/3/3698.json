@@ -1,0 +1,131 @@
+{
+  "id": 3698,
+  "schema": "genepedia/person@1",
+  "slug": "percival-george-schrickker",
+  "names": {
+    "display": "Percival George Schrickker",
+    "given": "Percival George",
+    "surname": "Schrickker",
+    "married": "Schrickker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JUL 1904",
+      "year": 1904,
+      "iso": "1904-07-22",
+      "precision": "exact",
+      "display": "July 22, 1904",
+      "place": "Mowbray, Cape Province, South Africa",
+      "location": {
+        "label": "Mowbray, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Mowbray",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "14 SEP 1971",
+      "year": 1971,
+      "iso": "1971-09-14",
+      "precision": "exact",
+      "display": "September 14, 1971",
+      "place": "Bellville, Cape Province, South Africa",
+      "location": {
+        "label": "Bellville, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bellville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1414
+    ],
+    "exSpouses": [],
+    "children": [
+      3699
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F886"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1414,
+        "unionId": "F886",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3699,
+        "unionId": "F886",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000181904127822@",
+    "geniId": "6000000181904127822",
+    "rfn": "geni:6000000181904127822",
+    "changed": "22 JAN 2022"
+  },
+  "page": {
+    "route": "people/3698/",
+    "canonical": "https://www.genepedia.org/people/3698/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

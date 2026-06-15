@@ -1,0 +1,86 @@
+{
+  "id": 3091,
+  "schema": "genepedia/person@1",
+  "slug": "tobias-johannes-winterbach-muller",
+  "names": {
+    "display": "Tobias Johannes Winterbach Muller",
+    "given": "Tobias Johannes Winterbach",
+    "surname": "Muller",
+    "married": "Muller",
+    "nick": "Tobie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "13 SEP 1978",
+      "year": 1978,
+      "iso": "1978-09-13",
+      "precision": "exact",
+      "display": "September 13, 1978",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1236
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1912"
+    ],
+    "spouseUnions": [
+      "F763"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1236,
+        "unionId": "F763",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000222126221858@",
+    "geniId": "6000000222126221858",
+    "rfn": "geni:6000000222126221858",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3091/",
+    "canonical": "https://www.genepedia.org/people/3091/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

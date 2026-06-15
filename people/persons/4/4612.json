@@ -1,0 +1,123 @@
+{
+  "id": 4612,
+  "schema": "genepedia/person@1",
+  "slug": "anna-geertruida-susanna-havenga",
+  "names": {
+    "display": "Anna Geertruida Susanna Havenga",
+    "given": "Anna Geertruida Susanna",
+    "surname": "Havenga",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 NOV 1826",
+      "year": 1826,
+      "iso": "1826-11-17",
+      "precision": "exact",
+      "display": "November 17, 1826",
+      "place": "Graaff-Reinet, Cape Colony, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 MAY 1865",
+      "year": 1865,
+      "iso": "1865-05-17",
+      "precision": "exact",
+      "display": "May 17, 1865",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1849
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1105"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1849,
+        "unionId": "F1105",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024654040739@",
+    "geniId": "6000000024654040739",
+    "rfn": "geni:6000000024654040739",
+    "changed": "02 MAY 2026"
+  },
+  "page": {
+    "route": "people/4612/",
+    "canonical": "https://www.genepedia.org/people/4612/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

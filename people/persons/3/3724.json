@@ -1,0 +1,95 @@
+{
+  "id": 3724,
+  "schema": "genepedia/person@1",
+  "slug": "jan-abraham-nel-augustyn",
+  "names": {
+    "display": "Jan Abraham Nel Augustyn",
+    "given": "Jan Abraham Nel",
+    "surname": "Augustyn",
+    "married": "Augustyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 JUN 1863",
+      "year": 1863,
+      "iso": "1863-06-14",
+      "precision": "exact",
+      "display": "June 14, 1863",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1426,
+      3723
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3725,
+      3726,
+      3727,
+      3728
+    ],
+    "parentUnions": [
+      "F894"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1426,
+        "unionId": "F894",
+        "type": "biological"
+      },
+      {
+        "id": 3723,
+        "unionId": "F894",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041021958480@",
+    "geniId": "6000000041021958480",
+    "rfn": "geni:6000000041021958480",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3724/",
+    "canonical": "https://www.genepedia.org/people/3724/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

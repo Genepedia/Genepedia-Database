@@ -1,0 +1,87 @@
+{
+  "id": 1798,
+  "schema": "genepedia/person@1",
+  "slug": "michael-lurie-1798",
+  "names": {
+    "display": "Michael Lurie",
+    "given": "Michael",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      758,
+      1794
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1795,
+      1796,
+      1797
+    ],
+    "parentUnions": [
+      "F472"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 758,
+        "unionId": "F472",
+        "type": "biological"
+      },
+      {
+        "id": 1794,
+        "unionId": "F472",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149521821@",
+    "geniId": "6000000204149521821",
+    "rfn": "geni:6000000204149521821",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/1798/",
+    "canonical": "https://www.genepedia.org/people/1798/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

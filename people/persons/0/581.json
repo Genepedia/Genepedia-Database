@@ -1,0 +1,188 @@
+{
+  "id": 581,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-christina-augustyn",
+  "names": {
+    "display": "Johanna Christina Augustyn",
+    "given": "Johanna Christina",
+    "surname": "Augustyn",
+    "married": "Herbert",
+    "nick": "Johanna Christina Herbert",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1888",
+      "year": 1888,
+      "iso": "1888",
+      "precision": "exact",
+      "display": "1888",
+      "place": "Vlakrivier, Calvinia",
+      "location": {
+        "label": "Vlakrivier, Calvinia",
+        "placeName": "Vlakrivier, Calvinia",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "26 FEB 1941",
+      "year": 1941,
+      "iso": "1941-02-26",
+      "precision": "exact",
+      "display": "February 26, 1941",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d3/2d/b0/d6/5344483f25c44e11/piq49raw_original.jpg?hash=e9af068e8caa09db3d5103f82bcf1699ae11b6a1bc33abcb24041d98a27752fd.1789455599",
+      "alt": "Johanna Christina Augustyn"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d3/2d/b0/d6/5344483f25c44e11/piq49raw_original.jpg?hash=e9af068e8caa09db3d5103f82bcf1699ae11b6a1bc33abcb24041d98a27752fd.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/13/03/eb/e2/53444847b08e05f1/record-image_3q9m-c91w-pw5d-s_original.jpg?hash=7d499793c8c26baa90e9ad39c1527749a216a272f8170f048ab6ef006d0fdf08.1789455599",
+        "form": "",
+        "title": "Johanna Christina Augustyn",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      577,
+      578
+    ],
+    "spouses": [
+      1455
+    ],
+    "exSpouses": [],
+    "children": [
+      1456,
+      1457,
+      1458
+    ],
+    "siblings": [
+      579,
+      580,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      215
+    ],
+    "parentUnions": [
+      "F165"
+    ],
+    "spouseUnions": [
+      "F367"
+    ],
+    "parentLinks": [
+      {
+        "id": 577,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 578,
+        "unionId": "F165",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1455,
+        "unionId": "F367",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1456,
+        "unionId": "F367",
+        "type": "biological"
+      },
+      {
+        "id": 1457,
+        "unionId": "F367",
+        "type": "biological"
+      },
+      {
+        "id": 1458,
+        "unionId": "F367",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000076304543161@",
+    "geniId": "6000000076304543161",
+    "rfn": "geni:6000000076304543161",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/581/",
+    "canonical": "https://www.genepedia.org/people/581/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,154 @@
+{
+  "id": 2677,
+  "schema": "genepedia/person@1",
+  "slug": "wilhelmina-sophia-pretorius",
+  "names": {
+    "display": "Wilhelmina Sophia Pretorius",
+    "given": "Wilhelmina Sophia",
+    "surname": "Pretorius",
+    "married": "Meyer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 OCT 1893",
+      "year": 1893,
+      "iso": "1893-10-27",
+      "precision": "exact",
+      "display": "October 27, 1893",
+      "place": null
+    },
+    "death": {
+      "date": "29 MAR 1982",
+      "year": 1982,
+      "iso": "1982-03-29",
+      "precision": "exact",
+      "display": "March 29, 1982",
+      "place": null
+    },
+    "baptism": {
+      "date": "3 DEC 1893",
+      "year": 1893,
+      "iso": "1893-12-03",
+      "precision": "exact",
+      "display": "December 3, 1893",
+      "place": "Zeerust, North West, South Africa",
+      "location": {
+        "label": "Zeerust, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Zeerust",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Brits, South Africa",
+      "location": {
+        "label": "Brits, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Brits",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2675,
+      1076
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2676,
+      2678,
+      2679,
+      2680,
+      2681,
+      2682,
+      2683
+    ],
+    "parentUnions": [
+      "F655"
+    ],
+    "spouseUnions": [
+      "F1654"
+    ],
+    "parentLinks": [
+      {
+        "id": 2675,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 1076,
+        "unionId": "F655",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057261266131@",
+    "geniId": "6000000057261266131",
+    "rfn": "geni:6000000057261266131",
+    "changed": "06 AUG 2025"
+  },
+  "page": {
+    "route": "people/2677/",
+    "canonical": "https://www.genepedia.org/people/2677/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

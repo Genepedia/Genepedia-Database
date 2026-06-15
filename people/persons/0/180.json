@@ -1,0 +1,97 @@
+{
+  "id": 180,
+  "schema": "genepedia/person@1",
+  "slug": "liezel-engelbrecht",
+  "names": {
+    "display": "Liezel Engelbrecht",
+    "given": "Liezel",
+    "surname": "Engelbrecht",
+    "married": "Frazer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/eb/8c/2b/34/534448656e31ddab/1000108645_original.jpg?hash=ccca580d1f454bc738a9b3c8164ac3f5640c61b144fdbb561106bed2e632924b.1789455599",
+      "alt": "Liezel Engelbrecht"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/eb/8c/2b/34/534448656e31ddab/1000108645_original.jpg?hash=ccca580d1f454bc738a9b3c8164ac3f5640c61b144fdbb561106bed2e632924b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      179,
+      46
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      181
+    ],
+    "parentUnions": [
+      "F53"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 179,
+        "unionId": "F53",
+        "type": "biological"
+      },
+      {
+        "id": 46,
+        "unionId": "F53",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204032629843@",
+    "geniId": "6000000204032629843",
+    "rfn": "geni:6000000204032629843",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/180/",
+    "canonical": "https://www.genepedia.org/people/180/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

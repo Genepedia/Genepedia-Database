@@ -1,0 +1,117 @@
+{
+  "id": 1307,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-maria-magdalena-van-taak",
+  "names": {
+    "display": "Elizabeth Maria Magdalena van Taak",
+    "given": "Elizabeth Maria Magdalena",
+    "surname": "van Taak",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 SEP 1878",
+      "year": 1878,
+      "iso": "1878-09-28",
+      "precision": "exact",
+      "display": "September 28, 1878",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "1 FEB 1880",
+      "year": 1880,
+      "iso": "1880-02-01",
+      "precision": "exact",
+      "display": "February 1, 1880",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1302,
+      1301
+    ],
+    "spouses": [
+      3295
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1303,
+      1304,
+      1305,
+      538,
+      1306,
+      1308,
+      1309,
+      1310,
+      1311
+    ],
+    "parentUnions": [
+      "F337"
+    ],
+    "spouseUnions": [
+      "F809"
+    ],
+    "parentLinks": [
+      {
+        "id": 1302,
+        "unionId": "F337",
+        "type": "biological"
+      },
+      {
+        "id": 1301,
+        "unionId": "F337",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3295,
+        "unionId": "F809",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020387313332@",
+    "geniId": "6000000020387313332",
+    "rfn": "geni:6000000020387313332",
+    "changed": "07 SEP 2020"
+  },
+  "page": {
+    "route": "people/1307/",
+    "canonical": "https://www.genepedia.org/people/1307/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,152 @@
+{
+  "id": 4050,
+  "schema": "genepedia/person@1",
+  "slug": "lukas-johannes-meyer",
+  "names": {
+    "display": "Lukas Johannes Meyer",
+    "given": "Lukas Johannes",
+    "surname": "Meyer",
+    "married": "Meyer",
+    "nick": "Lucas Johannes",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 AUG 1857",
+      "year": 1857,
+      "iso": "1857-08-01",
+      "precision": "exact",
+      "display": "August 1, 1857",
+      "place": null
+    },
+    "death": {
+      "date": "9 DEC 1899",
+      "year": 1899,
+      "iso": "1899-12-09",
+      "precision": "exact",
+      "display": "December 9, 1899",
+      "place": "Kimberley, Kaapkolonie",
+      "location": {
+        "label": "Kimberley, Kaapkolonie",
+        "placeName": "Kimberley, Kaapkolonie",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "11 OCT 1857",
+      "year": 1857,
+      "iso": "1857-10-11",
+      "precision": "exact",
+      "display": "October 11, 1857",
+      "place": "Potchefstroom, NW, South Africa",
+      "location": {
+        "label": "Potchefstroom, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Veeboer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/c9/75/17/c1/534448489e4c1a5b/lukas_johannes_meyer_marriage_29_april_1882_zeerust_original.jpg?hash=6dcb15fc6163ad326a187a989f552878a386eedede621bac98e282009e982968.1789455599",
+      "alt": "Lukas Johannes Meyer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/c9/75/17/c1/534448489e4c1a5b/lukas_johannes_meyer_marriage_29_april_1882_zeerust_original.jpg?hash=6dcb15fc6163ad326a187a989f552878a386eedede621bac98e282009e982968.1789455599",
+        "form": "",
+        "title": "Lukas Johannes Meyer Marriage 29 April 1882 Zeerust.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1548,
+      4049
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4051,
+      4052,
+      4053
+    ],
+    "parentUnions": [
+      "F943"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1548,
+        "unionId": "F943",
+        "type": "biological"
+      },
+      {
+        "id": 4049,
+        "unionId": "F943",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000014813107840@",
+    "geniId": "6000000014813107840",
+    "rfn": "geni:6000000014813107840",
+    "changed": "11 OCT 2025"
+  },
+  "page": {
+    "route": "people/4050/",
+    "canonical": "https://www.genepedia.org/people/4050/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

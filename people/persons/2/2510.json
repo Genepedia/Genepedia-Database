@@ -1,0 +1,113 @@
+{
+  "id": 2510,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-visser",
+  "names": {
+    "display": "Jacobus Marthinus Visser",
+    "given": "Jacobus Marthinus",
+    "surname": "Visser",
+    "married": "Visser",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 APR 1869",
+      "year": 1869,
+      "iso": "1869-04-17",
+      "precision": "exact",
+      "display": "April 17, 1869",
+      "place": "Victoria West, Northern Cape, South Africa",
+      "location": {
+        "label": "Victoria West, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2508,
+      1017
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2509,
+      2511,
+      2512,
+      2513,
+      2514,
+      2515
+    ],
+    "parentUnions": [
+      "F627"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2508,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 1017,
+        "unionId": "F627",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000042581913610@",
+    "geniId": "6000000042581913610",
+    "rfn": "geni:6000000042581913610",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2510/",
+    "canonical": "https://www.genepedia.org/people/2510/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

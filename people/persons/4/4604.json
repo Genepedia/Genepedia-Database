@@ -1,0 +1,146 @@
+{
+  "id": 4604,
+  "schema": "genepedia/person@1",
+  "slug": "andries-jacobus-strauss",
+  "names": {
+    "display": "Andries Jacobus Strauss",
+    "given": "Andries Jacobus",
+    "surname": "Strauss",
+    "married": "Strauss",
+    "nick": "Straus",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "JUL 1852",
+      "year": 1852,
+      "iso": "1852-07",
+      "precision": "exact",
+      "display": "July 1852",
+      "place": "\"Mooifontein\" distrik Colesberg",
+      "location": {
+        "label": "\"Mooifontein\" distrik Colesberg",
+        "placeName": "\"Mooifontein\" distrik Colesberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 SEP 1923",
+      "year": 1923,
+      "iso": "1923-09-10",
+      "precision": "exact",
+      "display": "September 10, 1923",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Colesberg",
+      "location": {
+        "label": "Colesberg",
+        "placeName": "Colesberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4602,
+      1848
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4603,
+      4605,
+      4606,
+      4607,
+      4608,
+      4609,
+      4610,
+      4611
+    ],
+    "parentUnions": [
+      "F1104"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4602,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 1848,
+        "unionId": "F1104",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000076031493003@",
+    "geniId": "6000000076031493003",
+    "rfn": "geni:6000000076031493003",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/4604/",
+    "canonical": "https://www.genepedia.org/people/4604/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

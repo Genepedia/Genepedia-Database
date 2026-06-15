@@ -1,0 +1,135 @@
+{
+  "id": 1460,
+  "schema": "genepedia/person@1",
+  "slug": "david-wander-josephus-augustyn",
+  "names": {
+    "display": "David Wander Josephus Augustyn",
+    "given": "David Wander Josephus",
+    "surname": "Augustyn",
+    "married": "Augustyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JUL 1894",
+      "year": 1894,
+      "iso": "1894-07-23",
+      "precision": "exact",
+      "display": "July 23, 1894",
+      "place": null
+    },
+    "death": {
+      "date": "4 JAN 1970",
+      "year": 1970,
+      "iso": "1970-01-04",
+      "precision": "exact",
+      "display": "January 4, 1970",
+      "place": null
+    },
+    "baptism": {
+      "date": "23 DEC 1894",
+      "year": 1894,
+      "iso": "1894-12-23",
+      "precision": "exact",
+      "display": "December 23, 1894",
+      "place": "Fraserburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Fraserburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fraserburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3841,
+      3842
+    ],
+    "spouses": [
+      585
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3843,
+      3844,
+      3845,
+      3846
+    ],
+    "parentUnions": [
+      "F912"
+    ],
+    "spouseUnions": [
+      "F369"
+    ],
+    "parentLinks": [
+      {
+        "id": 3841,
+        "unionId": "F912",
+        "type": "biological"
+      },
+      {
+        "id": 3842,
+        "unionId": "F912",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 585,
+        "unionId": "F369",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028994124489@",
+    "geniId": "6000000028994124489",
+    "rfn": "geni:6000000028994124489",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1460/",
+    "canonical": "https://www.genepedia.org/people/1460/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

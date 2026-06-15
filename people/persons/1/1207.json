@@ -1,0 +1,185 @@
+{
+  "id": 1207,
+  "schema": "genepedia/person@1",
+  "slug": "ockert-johannes-duvenhage",
+  "names": {
+    "display": "Ockert Johannes Duvenhage",
+    "given": "Ockert Johannes",
+    "surname": "Duvenhage",
+    "married": "Duvenhage",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 AUG 1922",
+      "year": 1922,
+      "iso": "1922-08-14",
+      "precision": "exact",
+      "display": "August 14, 1922",
+      "place": null
+    },
+    "death": {
+      "date": "18 JUN 1990",
+      "year": 1990,
+      "iso": "1990-06-18",
+      "precision": "exact",
+      "display": "June 18, 1990",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "Kimberley, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Griekwastad, Pixley ka Seme District Municipality, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Pixley ka Seme District Municipality, Northern Cape, South Africa",
+        "placeName": "Griekwastad, Pixley ka Seme District Municipality, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/44/64/a1/8d/534448683fe61f30/image_original.jpg?hash=8166d7c728e94619b64480bef08168820e0454aff0271164eaf04afecd95d6a4.1789455599",
+      "alt": "Ockert Johannes Duvenhage"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/44/64/a1/8d/534448683fe61f30/image_original.jpg?hash=8166d7c728e94619b64480bef08168820e0454aff0271164eaf04afecd95d6a4.1789455599",
+        "form": "",
+        "title": "image - trou 1947 .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Stamboom",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3029,
+      3028
+    ],
+    "spouses": [
+      488
+    ],
+    "exSpouses": [],
+    "children": [
+      1208,
+      1209
+    ],
+    "siblings": [
+      3030,
+      3031,
+      3032,
+      3033
+    ],
+    "parentUnions": [
+      "F742"
+    ],
+    "spouseUnions": [
+      "F312"
+    ],
+    "parentLinks": [
+      {
+        "id": 3029,
+        "unionId": "F742",
+        "type": "biological"
+      },
+      {
+        "id": 3028,
+        "unionId": "F742",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 488,
+        "unionId": "F312",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1208,
+        "unionId": "F312",
+        "type": "biological"
+      },
+      {
+        "id": 1209,
+        "unionId": "F312",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207510938844@",
+    "geniId": "6000000207510938844",
+    "rfn": "geni:6000000207510938844",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1207/",
+    "canonical": "https://www.genepedia.org/people/1207/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

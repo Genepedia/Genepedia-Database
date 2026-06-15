@@ -1,0 +1,172 @@
+{
+  "id": 1160,
+  "schema": "genepedia/person@1",
+  "slug": "john-henry-jacob-davis-1160",
+  "names": {
+    "display": "John Henry Jacob Davis",
+    "given": "John Henry Jacob",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 AUG 1905",
+      "year": 1905,
+      "iso": "1905-08-28",
+      "precision": "exact",
+      "display": "August 28, 1905",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 OCT 1972",
+      "year": 1972,
+      "iso": "1972-10-01",
+      "precision": "exact",
+      "display": "October 1, 1972",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/4f/69/7a/fe/53444838c503a157/p19_aux_192_256_original.jpg?hash=6e6d5502f86ca1d2a1a3c4a7462a0c8dedd2a85c8faf0eaca3684af0742a613e.1789455599",
+      "alt": "John Henry Jacob Davis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/4f/69/7a/fe/53444838c503a157/p19_aux_192_256_original.jpg?hash=6e6d5502f86ca1d2a1a3c4a7462a0c8dedd2a85c8faf0eaca3684af0742a613e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      451,
+      1159
+    ],
+    "spouses": [
+      2905
+    ],
+    "exSpouses": [],
+    "children": [
+      2906
+    ],
+    "siblings": [
+      1161,
+      1162,
+      1163,
+      1164
+    ],
+    "parentUnions": [
+      "F306"
+    ],
+    "spouseUnions": [
+      "F715"
+    ],
+    "parentLinks": [
+      {
+        "id": 451,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1159,
+        "unionId": "F306",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2905,
+        "unionId": "F715",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2906,
+        "unionId": "F715",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000012224581310@",
+    "geniId": "6000000012224581310",
+    "rfn": "geni:6000000012224581310",
+    "changed": "14 JAN 2017"
+  },
+  "page": {
+    "route": "people/1160/",
+    "canonical": "https://www.genepedia.org/people/1160/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

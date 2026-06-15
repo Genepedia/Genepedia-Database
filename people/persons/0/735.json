@@ -1,0 +1,112 @@
+{
+  "id": 735,
+  "schema": "genepedia/person@1",
+  "slug": "gothards-dirikis",
+  "names": {
+    "display": "Gothards Dīriķis",
+    "given": "Gothards",
+    "surname": "Dīriķis",
+    "married": "Dīriķis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 NOV 1893",
+      "year": 1893,
+      "iso": "1893-11-13",
+      "precision": "exact",
+      "display": "November 13, 1893",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/da/fa/3c/89/5344486a0a37029d/jpg_4__original.jpg?hash=26f6685bb6e7cd85b3aad6825d836d52e6187d646d218895a8209beedd113f85.1789455599",
+      "alt": "Gothards Dīriķis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/da/fa/3c/89/5344486a0a37029d/jpg_4__original.jpg?hash=26f6685bb6e7cd85b3aad6825d836d52e6187d646d218895a8209beedd113f85.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1772,
+      1773
+    ],
+    "spouses": [
+      298
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F464"
+    ],
+    "spouseUnions": [
+      "F207"
+    ],
+    "parentLinks": [
+      {
+        "id": 1772,
+        "unionId": "F464",
+        "type": "biological"
+      },
+      {
+        "id": 1773,
+        "unionId": "F464",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 298,
+        "unionId": "F207",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000223839315917@",
+    "geniId": "6000000223839315917",
+    "rfn": "geni:6000000223839315917",
+    "changed": "12 FEB 2026"
+  },
+  "page": {
+    "route": "people/735/",
+    "canonical": "https://www.genepedia.org/people/735/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

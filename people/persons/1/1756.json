@@ -1,0 +1,117 @@
+{
+  "id": 1756,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-myer-lurie",
+  "names": {
+    "display": "Joseph Myer Lurie",
+    "given": "Joseph Myer",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 FEB 1924",
+      "year": 1924,
+      "iso": "1924-02-04",
+      "precision": "exact",
+      "display": "February 4, 1924",
+      "place": "Fort Dodge, IA, United States",
+      "location": {
+        "label": "Fort Dodge, IA, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fort Dodge",
+        "postalCode": "50501",
+        "county": "",
+        "stateProvince": "IA",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "AFT 1930",
+      "year": 1930,
+      "iso": "1930",
+      "precision": "after",
+      "display": "after 1930",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      728,
+      1752
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1753,
+      1754,
+      1755
+    ],
+    "parentUnions": [
+      "F460"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 728,
+        "unionId": "F460",
+        "type": "biological"
+      },
+      {
+        "id": 1752,
+        "unionId": "F460",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208587712912@",
+    "geniId": "6000000208587712912",
+    "rfn": "geni:6000000208587712912",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/1756/",
+    "canonical": "https://www.genepedia.org/people/1756/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

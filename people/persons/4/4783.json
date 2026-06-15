@@ -1,0 +1,109 @@
+{
+  "id": 4783,
+  "schema": "genepedia/person@1",
+  "slug": "cornelis-johannes-van-der-westhuizen",
+  "names": {
+    "display": "Cornelis Johannes Van der Westhuizen",
+    "given": "Cornelis Johannes",
+    "surname": "Van der Westhuizen",
+    "married": "Van der Westhuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1890
+    ],
+    "exSpouses": [],
+    "children": [
+      4784,
+      4785,
+      4786,
+      4787,
+      4788
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1139"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1890,
+        "unionId": "F1139",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4784,
+        "unionId": "F1139",
+        "type": "biological"
+      },
+      {
+        "id": 4785,
+        "unionId": "F1139",
+        "type": "biological"
+      },
+      {
+        "id": 4786,
+        "unionId": "F1139",
+        "type": "biological"
+      },
+      {
+        "id": 4787,
+        "unionId": "F1139",
+        "type": "biological"
+      },
+      {
+        "id": 4788,
+        "unionId": "F1139",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065520667823@",
+    "geniId": "6000000065520667823",
+    "rfn": "geni:6000000065520667823",
+    "changed": "23 AUG 2017"
+  },
+  "page": {
+    "route": "people/4783/",
+    "canonical": "https://www.genepedia.org/people/4783/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

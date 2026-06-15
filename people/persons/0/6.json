@@ -1,0 +1,219 @@
+{
+  "id": 6,
+  "schema": "genepedia/person@1",
+  "slug": "thomas-henry-roselt",
+  "names": {
+    "display": "Thomas Henry Roselt",
+    "given": "Thomas Henry",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "Tommy",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 FEB 1955",
+      "year": 1955,
+      "iso": "1955-02-24",
+      "precision": "exact",
+      "display": "February 24, 1955",
+      "place": "Hester Malan Hospital, Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Hester Malan Hospital, Douglas, Northern Cape, South Africa",
+        "placeName": "Hester Malan Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 AUG 2010",
+      "year": 2010,
+      "iso": "2010-08-15",
+      "precision": "exact",
+      "display": "August 15, 2010",
+      "place": "Medi Clinic Hospital, Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Medi Clinic Hospital, Bloemfontein, Free-State, South Africa",
+        "placeName": "Medi Clinic Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "9301",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "AFT 16 AUG 2010",
+      "year": 2010,
+      "iso": "2010-08-16",
+      "precision": "after",
+      "display": "after August 16, 2010",
+      "place": "NG Kerk: Universitas-Wes, Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "NG Kerk: Universitas-Wes, Bloemfontein, Free-State, South Africa",
+        "placeName": "NG Kerk: Universitas-Wes",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "9301",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/53/b4/6d/2c/534448669d01374a/screenshot_2024-09-18_015839_original.jpg?hash=28c058067b6755b783a87ebe663e8b2d2c09e7debec06a8d89fd5056020339a1.1789455599",
+      "alt": "Thomas Henry Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/53/b4/6d/2c/534448669d01374a/screenshot_2024-09-18_015839_original.jpg?hash=28c058067b6755b783a87ebe663e8b2d2c09e7debec06a8d89fd5056020339a1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/b9/79/84/7e/534448656cb69bcd/screenshot_2024-03-12_151019_original.jpg?hash=c5b767ab2d0f537b961aafca814bc77a9dc1c6700e112300a578fa3b0cef358e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      40,
+      39
+    ],
+    "spouses": [
+      7,
+      37
+    ],
+    "exSpouses": [],
+    "children": [
+      8,
+      9,
+      1,
+      38
+    ],
+    "siblings": [
+      41,
+      42,
+      43
+    ],
+    "parentUnions": [
+      "F14"
+    ],
+    "spouseUnions": [
+      "F3",
+      "F13"
+    ],
+    "parentLinks": [
+      {
+        "id": 40,
+        "unionId": "F14",
+        "type": "biological"
+      },
+      {
+        "id": 39,
+        "unionId": "F14",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 7,
+        "unionId": "F3",
+        "role": "wife"
+      },
+      {
+        "id": 37,
+        "unionId": "F13",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 8,
+        "unionId": "F3",
+        "type": "biological"
+      },
+      {
+        "id": 9,
+        "unionId": "F3",
+        "type": "biological"
+      },
+      {
+        "id": 1,
+        "unionId": "F3",
+        "type": "adopted"
+      },
+      {
+        "id": 38,
+        "unionId": "F13",
+        "type": "foster"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204013060828@",
+    "geniId": "6000000204013060828",
+    "rfn": "geni:6000000204013060828",
+    "changed": "21 FEB 2025"
+  },
+  "page": {
+    "route": "people/6/",
+    "canonical": "https://www.genepedia.org/people/6/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

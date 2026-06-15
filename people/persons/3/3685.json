@@ -1,0 +1,135 @@
+{
+  "id": 3685,
+  "schema": "genepedia/person@1",
+  "slug": "benjamin-van-bosch",
+  "names": {
+    "display": "Benjamin van Bosch",
+    "given": "Benjamin",
+    "surname": "van Bosch",
+    "married": "van Bosch",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JAN 1916",
+      "year": 1916,
+      "iso": "1916-01-18",
+      "precision": "exact",
+      "display": "January 18, 1916",
+      "place": null
+    },
+    "death": {
+      "date": "21 AUG 1979",
+      "year": 1979,
+      "iso": "1979-08-21",
+      "precision": "exact",
+      "display": "August 21, 1979",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3679,
+      3678
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1410,
+      3680,
+      3681,
+      3682,
+      3683,
+      3684,
+      3686,
+      3687,
+      3688,
+      3689,
+      3690,
+      3691,
+      3692
+    ],
+    "parentUnions": [
+      "F883"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3679,
+        "unionId": "F883",
+        "type": "biological"
+      },
+      {
+        "id": 3678,
+        "unionId": "F883",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021197032907@",
+    "geniId": "6000000021197032907",
+    "rfn": "geni:6000000021197032907",
+    "changed": "05 MAY 2022"
+  },
+  "page": {
+    "route": "people/3685/",
+    "canonical": "https://www.genepedia.org/people/3685/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

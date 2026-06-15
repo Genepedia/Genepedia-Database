@@ -1,0 +1,149 @@
+{
+  "id": 224,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-susanna-margaretha-de-beer",
+  "names": {
+    "display": "Gertruida Susanna Margaretha de Beer",
+    "given": "Gertruida Susanna Margaretha",
+    "surname": "de Beer",
+    "married": "van der Linde",
+    "nick": "Toelina",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 MAY 1952",
+      "year": 1952,
+      "iso": "1952-05-15",
+      "precision": "exact",
+      "display": "May 15, 1952",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/6a/db/65/c2/5344486605e66de0/jpg_original.jpg?hash=8e3667edd4cc11c94e7a120efccbfa489c17b1561f254f65c50849c650401f62.1789455599",
+      "alt": "Gertruida Susanna Margaretha de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/6a/db/65/c2/5344486605e66de0/jpg_original.jpg?hash=8e3667edd4cc11c94e7a120efccbfa489c17b1561f254f65c50849c650401f62.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      214,
+      215
+    ],
+    "spouses": [
+      611
+    ],
+    "exSpouses": [],
+    "children": [
+      612,
+      613,
+      614,
+      615
+    ],
+    "siblings": [
+      216,
+      217,
+      66,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      225
+    ],
+    "parentUnions": [
+      "F69"
+    ],
+    "spouseUnions": [
+      "F172"
+    ],
+    "parentLinks": [
+      {
+        "id": 214,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 215,
+        "unionId": "F69",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 611,
+        "unionId": "F172",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 612,
+        "unionId": "F172",
+        "type": "biological"
+      },
+      {
+        "id": 613,
+        "unionId": "F172",
+        "type": "biological"
+      },
+      {
+        "id": 614,
+        "unionId": "F172",
+        "type": "biological"
+      },
+      {
+        "id": 615,
+        "unionId": "F172",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000205253283821@",
+    "geniId": "6000000205253283821",
+    "rfn": "geni:6000000205253283821",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/224/",
+    "canonical": "https://www.genepedia.org/people/224/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

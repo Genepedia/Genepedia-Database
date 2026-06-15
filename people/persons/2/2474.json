@@ -1,0 +1,115 @@
+{
+  "id": 2474,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-catharina-mitchell",
+  "names": {
+    "display": "Susanna Catharina Mitchell",
+    "given": "Susanna Catharina",
+    "surname": "Mitchell",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 FEB 1858",
+      "year": 1858,
+      "iso": "1858-02-15",
+      "precision": "exact",
+      "display": "February 15, 1858",
+      "place": null
+    },
+    "death": {
+      "date": "13 JUN 1905",
+      "year": 1905,
+      "iso": "1905-06-13",
+      "precision": "exact",
+      "display": "June 13, 1905",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": "23 JUN 1905",
+      "year": 1905,
+      "iso": "1905-06-23",
+      "precision": "exact",
+      "display": "June 23, 1905",
+      "place": null,
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2473,
+      1012
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1995,
+      2475,
+      2476,
+      2477,
+      2478,
+      2479,
+      2480
+    ],
+    "parentUnions": [
+      "F622"
+    ],
+    "spouseUnions": [
+      "F1520"
+    ],
+    "parentLinks": [
+      {
+        "id": 2473,
+        "unionId": "F622",
+        "type": "biological"
+      },
+      {
+        "id": 1012,
+        "unionId": "F622",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000005610874059@",
+    "geniId": "6000000005610874059",
+    "rfn": "geni:6000000005610874059",
+    "changed": "08 MAY 2022"
+  },
+  "page": {
+    "route": "people/2474/",
+    "canonical": "https://www.genepedia.org/people/2474/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

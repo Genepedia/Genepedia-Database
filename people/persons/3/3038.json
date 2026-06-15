@@ -1,0 +1,197 @@
+{
+  "id": 3038,
+  "schema": "genepedia/person@1",
+  "slug": "johan-christoffel-landman-crous",
+  "names": {
+    "display": "Johan Christoffel Landman Crous",
+    "given": "Johan Christoffel Landman",
+    "surname": "Crous",
+    "married": "Crous",
+    "nick": "Johann Christoffel Landman",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 NOV 1884",
+      "year": 1884,
+      "iso": "1884-11-01",
+      "precision": "exact",
+      "display": "November 1, 1884",
+      "place": "Alexandria, Kaap",
+      "location": {
+        "label": "Alexandria, Kaap",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Alexandria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaap",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 JUL 1971",
+      "year": 1971,
+      "iso": "1971-07-01",
+      "precision": "exact",
+      "display": "July 1, 1971",
+      "place": null
+    },
+    "baptism": {
+      "date": "5 JUL 1885",
+      "year": 1885,
+      "iso": "1885-07-05",
+      "precision": "exact",
+      "display": "July 5, 1885",
+      "place": "Alexandria, EC, South Africa",
+      "location": {
+        "label": "Alexandria, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Alexandria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "New Cemetery, Griekwastad",
+      "location": {
+        "label": "New Cemetery, Griekwastad",
+        "placeName": "New Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b4/be/46/ec/534448684272fbfd/img_1918_original.jpg?hash=f9ef791574c046fe4607e0b2d24167ed020c66109b45f867b267148080e3779b.1789455599",
+      "alt": "Johan Christoffel Landman Crous"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b4/be/46/ec/534448684272fbfd/img_1918_original.jpg?hash=f9ef791574c046fe4607e0b2d24167ed020c66109b45f867b267148080e3779b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/51/bb/bd/3e/53444868428b0072/image_original.jpg?hash=94ceac359cb5bb38e5af7046085b7a84eed608b6aa227efd6546f0e37eba97d2.1789455599",
+        "form": "",
+        "title": "image - trou 1959 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/9c/a8/50/99/5344486842691ca5/image_original.jpg?hash=2c178aaa11531d92ab564ad0e918c4267c5812ad3e16b94429372c3ea238ec12.1789455599",
+        "form": "",
+        "title": "image - trou 1912 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3039
+    ],
+    "exSpouses": [],
+    "children": [
+      3040,
+      1215
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1891"
+    ],
+    "spouseUnions": [
+      "F744",
+      "F1890"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3039,
+        "unionId": "F744",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3040,
+        "unionId": "F744",
+        "type": "biological"
+      },
+      {
+        "id": 1215,
+        "unionId": "F744",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209123429839@",
+    "geniId": "6000000209123429839",
+    "rfn": "geni:6000000209123429839",
+    "changed": "06 MAY 2026"
+  },
+  "page": {
+    "route": "people/3038/",
+    "canonical": "https://www.genepedia.org/people/3038/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

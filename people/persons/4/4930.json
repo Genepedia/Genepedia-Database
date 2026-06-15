@@ -1,0 +1,172 @@
+{
+  "id": 4930,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-magdalena-van-der-merwe-10",
+  "names": {
+    "display": "Elizabeth Magdalena van der Merwe 10",
+    "given": "Elizabeth Magdalena",
+    "surname": "van der Merwe",
+    "married": "Droskie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 NOV 1841",
+      "year": 1841,
+      "iso": "1841-11-23",
+      "precision": "exact",
+      "display": "November 23, 1841",
+      "place": "Winburg, FS, South Africa",
+      "location": {
+        "label": "Winburg, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Winburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "30 JUN 1905",
+      "year": 1905,
+      "iso": "1905-06-30",
+      "precision": "exact",
+      "display": "June 30, 1905",
+      "place": "Smithfield, Transvaal, South Africa",
+      "location": {
+        "label": "Smithfield, Transvaal, South Africa",
+        "placeName": "Smithfield, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "2 APR 1842",
+      "year": 1842,
+      "iso": "1842-04-02",
+      "precision": "exact",
+      "display": "April 2, 1842",
+      "place": "'Doornkop', Aan Sandrivier, Winburg, Oranje-Vrystaat, Suid-Afrika",
+      "location": {
+        "label": "'Doornkop', Aan Sandrivier, Winburg, Oranje-Vrystaat, Suid-Afrika",
+        "placeName": "'Doornkop', Aan Sandrivier, Winburg, Oranje-Vrystaat, Suid-Afrika",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4931
+    ],
+    "exSpouses": [],
+    "children": [
+      4932,
+      1916,
+      4933,
+      4934
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1169"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4931,
+        "unionId": "F1169",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4932,
+        "unionId": "F1169",
+        "type": "biological"
+      },
+      {
+        "id": 1916,
+        "unionId": "F1169",
+        "type": "biological"
+      },
+      {
+        "id": 4933,
+        "unionId": "F1169",
+        "type": "biological"
+      },
+      {
+        "id": 4934,
+        "unionId": "F1169",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000075251276931@",
+    "geniId": "6000000075251276931",
+    "rfn": "geni:6000000075251276931",
+    "changed": "10 AUG 2023"
+  },
+  "page": {
+    "route": "people/4930/",
+    "canonical": "https://www.genepedia.org/people/4930/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

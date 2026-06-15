@@ -1,0 +1,227 @@
+{
+  "id": 1903,
+  "schema": "genepedia/person@1",
+  "slug": "douw-gerbrandt-grobler",
+  "names": {
+    "display": "Douw Gerbrandt Grobler",
+    "given": "Douw Gerbrandt",
+    "surname": "Grobler",
+    "married": "Grobler",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 MAR 1824",
+      "year": 1824,
+      "iso": "1824-03-11",
+      "precision": "exact",
+      "display": "March 11, 1824",
+      "place": "Cradock, EC, South Africa",
+      "location": {
+        "label": "Cradock, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cradock",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 JUL 1915",
+      "year": 1915,
+      "iso": "1915-07-12",
+      "precision": "exact",
+      "display": "July 12, 1915",
+      "place": "Philipstown, NC, South Africa",
+      "location": {
+        "label": "Philipstown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "5 APR 1824",
+      "year": 1824,
+      "iso": "1824-04-05",
+      "precision": "exact",
+      "display": "April 5, 1824",
+      "place": "Cradock, Cape, South Africa",
+      "location": {
+        "label": "Cradock, Cape, South Africa",
+        "placeName": "Cradock",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4846,
+      4845
+    ],
+    "spouses": [
+      815,
+      4837,
+      4843,
+      4844
+    ],
+    "exSpouses": [],
+    "children": [
+      4838,
+      4839,
+      4840,
+      4841,
+      4842
+    ],
+    "siblings": [
+      4847,
+      4848,
+      4849,
+      4850,
+      4851,
+      4852,
+      4853,
+      4854,
+      4855,
+      4856,
+      4857
+    ],
+    "parentUnions": [
+      "F1155"
+    ],
+    "spouseUnions": [
+      "F503",
+      "F1152",
+      "F1153",
+      "F1154"
+    ],
+    "parentLinks": [
+      {
+        "id": 4846,
+        "unionId": "F1155",
+        "type": "biological"
+      },
+      {
+        "id": 4845,
+        "unionId": "F1155",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 815,
+        "unionId": "F503",
+        "role": "wife"
+      },
+      {
+        "id": 4837,
+        "unionId": "F1152",
+        "role": "wife"
+      },
+      {
+        "id": 4843,
+        "unionId": "F1153",
+        "role": "partner"
+      },
+      {
+        "id": 4844,
+        "unionId": "F1154",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4838,
+        "unionId": "F1152",
+        "type": "biological"
+      },
+      {
+        "id": 4839,
+        "unionId": "F1152",
+        "type": "biological"
+      },
+      {
+        "id": 4840,
+        "unionId": "F1152",
+        "type": "biological"
+      },
+      {
+        "id": 4841,
+        "unionId": "F1152",
+        "type": "biological"
+      },
+      {
+        "id": 4842,
+        "unionId": "F1152",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020145381034@",
+    "geniId": "6000000020145381034",
+    "rfn": "geni:6000000020145381034",
+    "changed": "11 JUN 2025"
+  },
+  "page": {
+    "route": "people/1903/",
+    "canonical": "https://www.genepedia.org/people/1903/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

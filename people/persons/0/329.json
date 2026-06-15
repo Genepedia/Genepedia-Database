@@ -1,0 +1,91 @@
+{
+  "id": 329,
+  "schema": "genepedia/person@1",
+  "slug": "du-toit",
+  "names": {
+    "display": "? Du Toit",
+    "given": "?",
+    "surname": "Du Toit",
+    "married": "Du Toit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      328
+    ],
+    "exSpouses": [],
+    "children": [
+      127,
+      330
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F106"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 328,
+        "unionId": "F106",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 127,
+        "unionId": "F106",
+        "type": "biological"
+      },
+      {
+        "id": 330,
+        "unionId": "F106",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000216569728850@",
+    "geniId": "6000000216569728850",
+    "rfn": "geni:6000000216569728850",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/329/",
+    "canonical": "https://www.genepedia.org/people/329/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,116 @@
+{
+  "id": 4987,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-johannes-hendrik-bester-4987",
+  "names": {
+    "display": "Marthinus Johannes Hendrik Bester",
+    "given": "Marthinus Johannes Hendrik",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 NOV 1925",
+      "year": 1925,
+      "iso": "1925-11-04",
+      "precision": "exact",
+      "display": "November 4, 1925",
+      "place": null
+    },
+    "death": {
+      "date": "1 JAN 2004",
+      "year": 2004,
+      "iso": "2004-01-01",
+      "precision": "exact",
+      "display": "January 1, 2004",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1937,
+      4986
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4988,
+      4989
+    ],
+    "parentUnions": [
+      "F1183"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1937,
+        "unionId": "F1183",
+        "type": "biological"
+      },
+      {
+        "id": 4986,
+        "unionId": "F1183",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066965371950@",
+    "geniId": "6000000066965371950",
+    "rfn": "geni:6000000066965371950",
+    "changed": "12 SEP 2017"
+  },
+  "page": {
+    "route": "people/4987/",
+    "canonical": "https://www.genepedia.org/people/4987/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

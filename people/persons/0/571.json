@@ -1,0 +1,150 @@
+{
+  "id": 571,
+  "schema": "genepedia/person@1",
+  "slug": "alida-jacoba-de-beer-571",
+  "names": {
+    "display": "Alida Jacoba De Beer",
+    "given": "Alida Jacoba",
+    "surname": "De Beer",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 AUG 1886",
+      "year": 1886,
+      "iso": "1886-08-04",
+      "precision": "exact",
+      "display": "August 4, 1886",
+      "place": null
+    },
+    "death": {
+      "date": "1 DEC 1954",
+      "year": 1954,
+      "iso": "1954-12-01",
+      "precision": "exact",
+      "display": "December 1, 1954",
+      "place": "Epping, Cape Province, South Africa",
+      "location": {
+        "label": "Epping, Cape Province, South Africa",
+        "placeName": "Epping, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Maitland, South Africa",
+      "location": {
+        "label": "Maitland, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Maitland",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      563,
+      564
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      572,
+      573,
+      574,
+      214,
+      575,
+      576
+    ],
+    "parentUnions": [
+      "F164"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 563,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 564,
+        "unionId": "F164",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028798945094@",
+    "geniId": "6000000028798945094",
+    "rfn": "geni:6000000028798945094",
+    "changed": "04 JUL 2023"
+  },
+  "page": {
+    "route": "people/571/",
+    "canonical": "https://www.genepedia.org/people/571/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,200 @@
+{
+  "id": 646,
+  "schema": "genepedia/person@1",
+  "slug": "zacharias-andreas-de-beer",
+  "names": {
+    "display": "Zacharias Andreas De Beer",
+    "given": "Zacharias Andreas",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 NOV 1850",
+      "year": 1850,
+      "iso": "1850-11-20",
+      "precision": "exact",
+      "display": "November 20, 1850",
+      "place": "Caledon River, Orange Free State, South Africa",
+      "location": {
+        "label": "Caledon River, Orange Free State, South Africa",
+        "placeName": "Caledon River, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 JAN 1891",
+      "year": 1891,
+      "iso": "1891-01-18",
+      "precision": "exact",
+      "display": "January 18, 1891",
+      "place": "Dewetsdorp, Orange Free State, South Africa",
+      "location": {
+        "label": "Dewetsdorp, Orange Free State, South Africa",
+        "placeName": "Dewetsdorp, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1606,
+      1605
+    ],
+    "spouses": [
+      645
+    ],
+    "exSpouses": [],
+    "children": [
+      647,
+      648,
+      649,
+      650,
+      651,
+      652,
+      653,
+      654,
+      247
+    ],
+    "siblings": [
+      1607,
+      1608,
+      1609,
+      1610
+    ],
+    "parentUnions": [
+      "F409"
+    ],
+    "spouseUnions": [
+      "F181"
+    ],
+    "parentLinks": [
+      {
+        "id": 1606,
+        "unionId": "F409",
+        "type": "biological"
+      },
+      {
+        "id": 1605,
+        "unionId": "F409",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 645,
+        "unionId": "F181",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 647,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 648,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 649,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 650,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 651,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 652,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 653,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 654,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 247,
+        "unionId": "F181",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000060918072907@",
+    "geniId": "6000000060918072907",
+    "rfn": "geni:6000000060918072907",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/646/",
+    "canonical": "https://www.genepedia.org/people/646/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

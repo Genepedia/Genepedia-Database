@@ -1,0 +1,171 @@
+{
+  "id": 785,
+  "schema": "genepedia/person@1",
+  "slug": "ragai-mupombwa",
+  "names": {
+    "display": "Ragai Mupombwa",
+    "given": "Ragai",
+    "surname": "Mupombwa",
+    "married": "Mupombwa",
+    "nick": "Reggie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 JAN 1943",
+      "year": 1943,
+      "iso": "1943-01-01",
+      "precision": "exact",
+      "display": "January 1, 1943",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "29 AUG 2014",
+      "year": 2014,
+      "iso": "2014-08-29",
+      "precision": "exact",
+      "display": "August 29, 2014",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1804,
+      1803
+    ],
+    "spouses": [
+      784
+    ],
+    "exSpouses": [],
+    "children": [
+      307,
+      786,
+      787,
+      788,
+      789
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F476"
+    ],
+    "spouseUnions": [
+      "F218"
+    ],
+    "parentLinks": [
+      {
+        "id": 1804,
+        "unionId": "F476",
+        "type": "biological"
+      },
+      {
+        "id": 1803,
+        "unionId": "F476",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 784,
+        "unionId": "F218",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 307,
+        "unionId": "F218",
+        "type": "biological"
+      },
+      {
+        "id": 786,
+        "unionId": "F218",
+        "type": "biological"
+      },
+      {
+        "id": 787,
+        "unionId": "F218",
+        "type": "biological"
+      },
+      {
+        "id": 788,
+        "unionId": "F218",
+        "type": "biological"
+      },
+      {
+        "id": 789,
+        "unionId": "F218",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207500823829@",
+    "geniId": "6000000207500823829",
+    "rfn": "geni:6000000207500823829",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/785/",
+    "canonical": "https://www.genepedia.org/people/785/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

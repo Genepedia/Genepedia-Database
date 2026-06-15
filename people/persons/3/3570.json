@@ -1,0 +1,188 @@
+{
+  "id": 3570,
+  "schema": "genepedia/person@1",
+  "slug": "hester-christina-wilhelmina-de-beer",
+  "names": {
+    "display": "Hester Christina Wilhelmina de Beer",
+    "given": "Hester Christina Wilhelmina",
+    "surname": "de Beer",
+    "married": "Meintjies",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 OCT 1799",
+      "year": 1799,
+      "iso": "1799-10-27",
+      "precision": "exact",
+      "display": "October 27, 1799",
+      "place": "Graaff-Reinet, Cape Colony, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 APR 1893",
+      "year": 1893,
+      "iso": "1893-04-08",
+      "precision": "exact",
+      "display": "April 8, 1893",
+      "place": null
+    },
+    "baptism": {
+      "date": "17 OCT 1799",
+      "year": 1799,
+      "iso": "1799-10-17",
+      "precision": "exact",
+      "display": "October 17, 1799",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3571
+    ],
+    "exSpouses": [],
+    "children": [
+      1396,
+      3572,
+      3573,
+      3574,
+      3575,
+      3576,
+      3577,
+      3578,
+      3579,
+      3580,
+      3581,
+      3582
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F869"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3571,
+        "unionId": "F869",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1396,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3572,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3573,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3574,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3575,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3576,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3577,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3578,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3579,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3580,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3581,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3582,
+        "unionId": "F869",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000010557030926@",
+    "geniId": "6000000010557030926",
+    "rfn": "geni:6000000010557030926",
+    "changed": "05 SEP 2023"
+  },
+  "page": {
+    "route": "people/3570/",
+    "canonical": "https://www.genepedia.org/people/3570/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

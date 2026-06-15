@@ -1,0 +1,198 @@
+{
+  "id": 4002,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-van-niekerk",
+  "names": {
+    "display": "Gerrit van Niekerk",
+    "given": "Gerrit",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "van Nieuwkerken",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 24 AUG 1766",
+      "year": 1766,
+      "iso": "1766-08-24",
+      "precision": "before",
+      "display": "before August 24, 1766",
+      "place": "Cape Town, Cape of Good Hope, South Africa",
+      "location": {
+        "label": "Cape Town, Cape of Good Hope, South Africa",
+        "placeName": "Cape Town, Cape of Good Hope, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1833",
+      "year": 1833,
+      "iso": "1833",
+      "precision": "exact",
+      "display": "1833",
+      "place": null
+    },
+    "baptism": {
+      "date": "24 AUG 1766",
+      "year": 1766,
+      "iso": "1766-08-24",
+      "precision": "exact",
+      "display": "August 24, 1766",
+      "place": "Cape Town, Cape of Good Hope, South Africa",
+      "location": {
+        "label": "Cape Town, Cape of Good Hope, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape of Good Hope",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4001
+    ],
+    "exSpouses": [],
+    "children": [
+      4003,
+      4004,
+      4005,
+      4006,
+      1539,
+      4007,
+      4008,
+      4009,
+      4010,
+      4011,
+      4012
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F936"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4001,
+        "unionId": "F936",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4003,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4004,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4005,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4006,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 1539,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4007,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4008,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4009,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4010,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4011,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4012,
+        "unionId": "F936",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000018763145119@",
+    "geniId": "6000000018763145119",
+    "rfn": "geni:6000000018763145119",
+    "changed": "02 FEB 2024"
+  },
+  "page": {
+    "route": "people/4002/",
+    "canonical": "https://www.genepedia.org/people/4002/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

@@ -1,0 +1,123 @@
+{
+  "id": 2875,
+  "schema": "genepedia/person@1",
+  "slug": "frans-albertus-stephanus-maritz",
+  "names": {
+    "display": "Frans Albertus Stephanus Maritz",
+    "given": "Frans Albertus Stephanus",
+    "surname": "Maritz",
+    "married": "Maritz",
+    "nick": "Albert",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 NOV 1830",
+      "year": 1830,
+      "iso": "1830-11-26",
+      "precision": "exact",
+      "display": "November 26, 1830",
+      "place": "Worcester, Western Cape, South Africa",
+      "location": {
+        "label": "Worcester, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "11 SEP 1831",
+      "year": 1831,
+      "iso": "1831-09-11",
+      "precision": "exact",
+      "display": "September 11, 1831",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2869,
+      2868
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2870,
+      1153,
+      2871,
+      2872,
+      2873,
+      2874,
+      2876
+    ],
+    "parentUnions": [
+      "F709"
+    ],
+    "spouseUnions": [
+      "F1785"
+    ],
+    "parentLinks": [
+      {
+        "id": 2869,
+        "unionId": "F709",
+        "type": "biological"
+      },
+      {
+        "id": 2868,
+        "unionId": "F709",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036079187133@",
+    "geniId": "6000000036079187133",
+    "rfn": "geni:6000000036079187133",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2875/",
+    "canonical": "https://www.genepedia.org/people/2875/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

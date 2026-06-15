@@ -1,0 +1,122 @@
+{
+  "id": 4747,
+  "schema": "genepedia/person@1",
+  "slug": "gerbrecht-jacoba-venter",
+  "names": {
+    "display": "Gerbrecht Jacoba Venter",
+    "given": "Gerbrecht Jacoba",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 JUL 1925",
+      "year": 1925,
+      "iso": "1925-07-15",
+      "precision": "exact",
+      "display": "July 15, 1925",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "17 OCT 1925",
+      "year": 1925,
+      "iso": "1925-10-17",
+      "precision": "exact",
+      "display": "October 17, 1925",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4742,
+      1879
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4743,
+      4744,
+      4745,
+      4746,
+      4748,
+      4749,
+      4750,
+      4751
+    ],
+    "parentUnions": [
+      "F1130"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4742,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 1879,
+        "unionId": "F1130",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066432304828@",
+    "geniId": "6000000066432304828",
+    "rfn": "geni:6000000066432304828",
+    "changed": "04 SEP 2017"
+  },
+  "page": {
+    "route": "people/4747/",
+    "canonical": "https://www.genepedia.org/people/4747/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

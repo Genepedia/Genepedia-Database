@@ -1,0 +1,173 @@
+{
+  "id": 302,
+  "schema": "genepedia/person@1",
+  "slug": "arthur-lurie",
+  "names": {
+    "display": "Arthur Lurie",
+    "given": "Arthur",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      297,
+      298
+    ],
+    "spouses": [
+      757
+    ],
+    "exSpouses": [],
+    "children": [
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765
+    ],
+    "siblings": [
+      110,
+      299,
+      300,
+      301,
+      303,
+      304
+    ],
+    "parentUnions": [
+      "F97"
+    ],
+    "spouseUnions": [
+      "F212"
+    ],
+    "parentLinks": [
+      {
+        "id": 297,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 298,
+        "unionId": "F97",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 757,
+        "unionId": "F212",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 758,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 759,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 760,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 761,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 762,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 763,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 764,
+        "unionId": "F212",
+        "type": "biological"
+      },
+      {
+        "id": 765,
+        "unionId": "F212",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204087674821@",
+    "geniId": "6000000204087674821",
+    "rfn": "geni:6000000204087674821",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/302/",
+    "canonical": "https://www.genepedia.org/people/302/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1121,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-janse-van-vuuren",
+  "names": {
+    "display": "Martha Maria Janse van Vuuren",
+    "given": "Martha Maria",
+    "surname": "Scheepers",
+    "married": "Janse van Vuuren",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 AUG 1897",
+      "year": 1897,
+      "iso": "1897-08-23",
+      "precision": "exact",
+      "display": "August 23, 1897",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1120,
+      440
+    ],
+    "spouses": [
+      2766
+    ],
+    "exSpouses": [],
+    "children": [
+      2767
+    ],
+    "siblings": [
+      1122,
+      1123,
+      1124
+    ],
+    "parentUnions": [
+      "F296"
+    ],
+    "spouseUnions": [
+      "F684"
+    ],
+    "parentLinks": [
+      {
+        "id": 1120,
+        "unionId": "F296",
+        "type": "biological"
+      },
+      {
+        "id": 440,
+        "unionId": "F296",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2766,
+        "unionId": "F684",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2767,
+        "unionId": "F684",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000055520659877@",
+    "geniId": "6000000055520659877",
+    "rfn": "geni:6000000055520659877",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1121/",
+    "canonical": "https://www.genepedia.org/people/1121/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

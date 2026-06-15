@@ -1,0 +1,133 @@
+{
+  "id": 1408,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-elizabeth-de-beer",
+  "names": {
+    "display": "Johanna Elizabeth De Beer",
+    "given": "Johanna Elizabeth",
+    "surname": "De Beer",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 JAN 1919",
+      "year": 1919,
+      "iso": "1919-01-17",
+      "precision": "exact",
+      "display": "January 17, 1919",
+      "place": null
+    },
+    "death": {
+      "date": "2 JAN 1976",
+      "year": 1976,
+      "iso": "1976-01-02",
+      "precision": "exact",
+      "display": "January 2, 1976",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Malmesbury, Western Cape, South Africa",
+      "location": {
+        "label": "Malmesbury, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Malmesbury",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      567,
+      1406
+    ],
+    "spouses": [
+      3664
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1407
+    ],
+    "parentUnions": [
+      "F360"
+    ],
+    "spouseUnions": [
+      "F881"
+    ],
+    "parentLinks": [
+      {
+        "id": 567,
+        "unionId": "F360",
+        "type": "biological"
+      },
+      {
+        "id": 1406,
+        "unionId": "F360",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3664,
+        "unionId": "F881",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000038278426976@",
+    "geniId": "6000000038278426976",
+    "rfn": "geni:6000000038278426976",
+    "changed": "30 NOV 2015"
+  },
+  "page": {
+    "route": "people/1408/",
+    "canonical": "https://www.genepedia.org/people/1408/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

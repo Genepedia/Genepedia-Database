@@ -1,0 +1,143 @@
+{
+  "id": 1744,
+  "schema": "genepedia/person@1",
+  "slug": "hinde-lurie",
+  "names": {
+    "display": "Hinde Lurie",
+    "given": "Hinde",
+    "surname": "Lurie",
+    "married": "Strimling",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1865",
+      "year": 1865,
+      "iso": "1865",
+      "precision": "about",
+      "display": "about 1865",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1742,
+      1743
+    ],
+    "spouses": [
+      4453
+    ],
+    "exSpouses": [],
+    "children": [
+      4454,
+      4455,
+      4456,
+      4457,
+      4458,
+      4459
+    ],
+    "siblings": [
+      725,
+      1745,
+      1746,
+      1747
+    ],
+    "parentUnions": [
+      "F457"
+    ],
+    "spouseUnions": [
+      "F1056"
+    ],
+    "parentLinks": [
+      {
+        "id": 1742,
+        "unionId": "F457",
+        "type": "biological"
+      },
+      {
+        "id": 1743,
+        "unionId": "F457",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4453,
+        "unionId": "F1056",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4454,
+        "unionId": "F1056",
+        "type": "biological"
+      },
+      {
+        "id": 4455,
+        "unionId": "F1056",
+        "type": "biological"
+      },
+      {
+        "id": 4456,
+        "unionId": "F1056",
+        "type": "biological"
+      },
+      {
+        "id": 4457,
+        "unionId": "F1056",
+        "type": "biological"
+      },
+      {
+        "id": 4458,
+        "unionId": "F1056",
+        "type": "biological"
+      },
+      {
+        "id": 4459,
+        "unionId": "F1056",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291017@",
+    "geniId": "6000000003658291017",
+    "rfn": "geni:6000000003658291017",
+    "changed": "11 JUN 2021"
+  },
+  "page": {
+    "route": "people/1744/",
+    "canonical": "https://www.genepedia.org/people/1744/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

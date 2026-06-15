@@ -1,0 +1,89 @@
+{
+  "id": 2415,
+  "schema": "genepedia/person@1",
+  "slug": "billy-de-koker",
+  "names": {
+    "display": "Billy De Koker",
+    "given": "Billy",
+    "surname": "De Koker",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      981,
+      2412
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2413,
+      2414,
+      2416,
+      2417,
+      2418
+    ],
+    "parentUnions": [
+      "F610"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 981,
+        "unionId": "F610",
+        "type": "biological"
+      },
+      {
+        "id": 2412,
+        "unionId": "F610",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000221761396829@",
+    "geniId": "6000000221761396829",
+    "rfn": "geni:6000000221761396829",
+    "changed": "16 OCT 2025"
+  },
+  "page": {
+    "route": "people/2415/",
+    "canonical": "https://www.genepedia.org/people/2415/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

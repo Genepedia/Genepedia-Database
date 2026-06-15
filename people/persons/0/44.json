@@ -1,0 +1,173 @@
+{
+  "id": 44,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-sophia-hendrika-van-der-bank",
+  "names": {
+    "display": "Susanna Sophia Hendrika van der Bank",
+    "given": "Susanna Sophia Hendrika",
+    "surname": "van der Bank",
+    "married": "Fourie",
+    "nick": "Sannie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JUL 1921",
+      "year": 1921,
+      "iso": "1921-07-12",
+      "precision": "exact",
+      "display": "July 12, 1921",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "AFT 2012",
+      "year": 2012,
+      "iso": "2012",
+      "precision": "after",
+      "display": "after 2012",
+      "place": "Kimberley, North Cape, South Africa",
+      "location": {
+        "label": "Kimberley, North Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e9/f2/c8/0d/534448656e314932/1000108616_original.jpg?hash=81cb711375bd79ad66db985de1b4ad81bd71babc5aee51b1062753cefe562521.1789455599",
+      "alt": "Susanna Sophia Hendrika van der Bank"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e9/f2/c8/0d/534448656e314932/1000108616_original.jpg?hash=81cb711375bd79ad66db985de1b4ad81bd71babc5aee51b1062753cefe562521.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      159,
+      158
+    ],
+    "spouses": [
+      45
+    ],
+    "exSpouses": [],
+    "children": [
+      46,
+      7
+    ],
+    "siblings": [
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166
+    ],
+    "parentUnions": [
+      "F51"
+    ],
+    "spouseUnions": [
+      "F15"
+    ],
+    "parentLinks": [
+      {
+        "id": 159,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 158,
+        "unionId": "F51",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 45,
+        "unionId": "F15",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 46,
+        "unionId": "F15",
+        "type": "biological"
+      },
+      {
+        "id": 7,
+        "unionId": "F15",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204040610841@",
+    "geniId": "6000000204040610841",
+    "rfn": "geni:6000000204040610841",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/44/",
+    "canonical": "https://www.genepedia.org/people/44/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

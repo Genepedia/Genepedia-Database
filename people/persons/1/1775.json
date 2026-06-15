@@ -1,0 +1,151 @@
+{
+  "id": 1775,
+  "schema": "genepedia/person@1",
+  "slug": "marie-bernstein",
+  "names": {
+    "display": "Marie Bernstein",
+    "given": "Marie",
+    "surname": "Bernstein",
+    "married": "Malchin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1852",
+      "year": 1852,
+      "iso": "1852",
+      "precision": "exact",
+      "display": "1852",
+      "place": null
+    },
+    "death": {
+      "date": "1929",
+      "year": 1929,
+      "iso": "1929",
+      "precision": "exact",
+      "display": "1929",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b9/88/43/0a/53444868aafb19d8/jpg_15__original.jpg?hash=0b5d6ba1efeaf519c15a429baed9abe07e64c9afcc68bc121ea6c32375212ed7.1789455599",
+      "alt": "Marie Bernstein"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b9/88/43/0a/53444868aafb19d8/jpg_15__original.jpg?hash=0b5d6ba1efeaf519c15a429baed9abe07e64c9afcc68bc121ea6c32375212ed7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4520,
+      4521
+    ],
+    "spouses": [
+      1774
+    ],
+    "exSpouses": [],
+    "children": [
+      1776,
+      736,
+      1777,
+      1778,
+      1779
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1075"
+    ],
+    "spouseUnions": [
+      "F465"
+    ],
+    "parentLinks": [
+      {
+        "id": 4520,
+        "unionId": "F1075",
+        "type": "biological"
+      },
+      {
+        "id": 4521,
+        "unionId": "F1075",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1774,
+        "unionId": "F465",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1776,
+        "unionId": "F465",
+        "type": "biological"
+      },
+      {
+        "id": 736,
+        "unionId": "F465",
+        "type": "biological"
+      },
+      {
+        "id": 1777,
+        "unionId": "F465",
+        "type": "biological"
+      },
+      {
+        "id": 1778,
+        "unionId": "F465",
+        "type": "biological"
+      },
+      {
+        "id": 1779,
+        "unionId": "F465",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217942465846@",
+    "geniId": "6000000217942465846",
+    "rfn": "geni:6000000217942465846",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/1775/",
+    "canonical": "https://www.genepedia.org/people/1775/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

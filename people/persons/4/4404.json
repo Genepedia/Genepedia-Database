@@ -1,0 +1,128 @@
+{
+  "id": 4404,
+  "schema": "genepedia/person@1",
+  "slug": "clarissa-eleanor-carr",
+  "names": {
+    "display": "Clarissa Eleanor Carr",
+    "given": "Clarissa Eleanor",
+    "surname": "Carr",
+    "married": "Fossey",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1914",
+      "year": 1914,
+      "iso": "1914",
+      "precision": "about",
+      "display": "about 1914",
+      "place": null
+    },
+    "death": {
+      "date": "12 DEC 1989",
+      "year": 1989,
+      "iso": "1989-12-12",
+      "precision": "exact",
+      "display": "December 12, 1989",
+      "place": "Durban, Natal, South Africa",
+      "location": {
+        "label": "Durban, Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Durban",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/fe/86/29/5e/534448408f061625/dsc01378_original.jpg?hash=982eaaa242c1feb49c6ea72d3928f16e5b981d8d2e39f491c81eb674abe9db6b.1789455599",
+      "alt": "Clarissa Eleanor Carr"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/fe/86/29/5e/534448408f061625/dsc01378_original.jpg?hash=982eaaa242c1feb49c6ea72d3928f16e5b981d8d2e39f491c81eb674abe9db6b.1789455599",
+        "form": "",
+        "title": "CARR(born CORRIE), M.S. Death Notice",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4402,
+      1720
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4403,
+      4405
+    ],
+    "parentUnions": [
+      "F1040"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4402,
+        "unionId": "F1040",
+        "type": "biological"
+      },
+      {
+        "id": 1720,
+        "unionId": "F1040",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041008865886@",
+    "geniId": "6000000041008865886",
+    "rfn": "geni:6000000041008865886",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/4404/",
+    "canonical": "https://www.genepedia.org/people/4404/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

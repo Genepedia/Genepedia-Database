@@ -1,0 +1,133 @@
+{
+  "id": 3369,
+  "schema": "genepedia/person@1",
+  "slug": "louisa-elisa-meurant-smit",
+  "names": {
+    "display": "Louisa Elisa Meurant Smit",
+    "given": "Louisa Elisa Meurant",
+    "surname": "Smit",
+    "married": "Visagie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3370
+    ],
+    "exSpouses": [],
+    "children": [
+      1333,
+      3371,
+      3372,
+      3373,
+      3374,
+      3375,
+      3376,
+      3377,
+      3378
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F830"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3370,
+        "unionId": "F830",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1333,
+        "unionId": "F830",
+        "type": "biological"
+      },
+      {
+        "id": 3371,
+        "unionId": "F830",
+        "type": "biological"
+      },
+      {
+        "id": 3372,
+        "unionId": "F830",
+        "type": "biological"
+      },
+      {
+        "id": 3373,
+        "unionId": "F830",
+        "type": "biological"
+      },
+      {
+        "id": 3374,
+        "unionId": "F830",
+        "type": "biological"
+      },
+      {
+        "id": 3375,
+        "unionId": "F830",
+        "type": "biological"
+      },
+      {
+        "id": 3376,
+        "unionId": "F830",
+        "type": "biological"
+      },
+      {
+        "id": 3377,
+        "unionId": "F830",
+        "type": "biological"
+      },
+      {
+        "id": 3378,
+        "unionId": "F830",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208124301827@",
+    "geniId": "6000000208124301827",
+    "rfn": "geni:6000000208124301827",
+    "changed": "13 AUG 2024"
+  },
+  "page": {
+    "route": "people/3369/",
+    "canonical": "https://www.genepedia.org/people/3369/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

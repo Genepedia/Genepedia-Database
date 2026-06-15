@@ -1,0 +1,103 @@
+{
+  "id": 3242,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-mulder-mouton",
+  "names": {
+    "display": "Jacobus Mulder Mouton",
+    "given": "Jacobus Mulder",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 APR 1933",
+      "year": 1933,
+      "iso": "1933-04-13",
+      "precision": "exact",
+      "display": "April 13, 1933",
+      "place": null
+    },
+    "death": {
+      "date": "29 JUL 1984",
+      "year": 1984,
+      "iso": "1984-07-29",
+      "precision": "exact",
+      "display": "July 29, 1984",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1293,
+      3236
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3237,
+      3238,
+      3239,
+      3240,
+      3241
+    ],
+    "parentUnions": [
+      "F796"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1293,
+        "unionId": "F796",
+        "type": "biological"
+      },
+      {
+        "id": 3236,
+        "unionId": "F796",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107533037957@",
+    "geniId": "6000000107533037957",
+    "rfn": "geni:6000000107533037957",
+    "changed": "24 SEP 2019"
+  },
+  "page": {
+    "route": "people/3242/",
+    "canonical": "https://www.genepedia.org/people/3242/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

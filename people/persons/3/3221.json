@@ -1,0 +1,134 @@
+{
+  "id": 3221,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-spangenberg-van-zyl",
+  "names": {
+    "display": "Johannes Petrus Spangenberg Van Zyl",
+    "given": "Johannes Petrus Spangenberg",
+    "surname": "Van Zyl",
+    "married": "Van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 DEC 1870",
+      "year": 1870,
+      "iso": "1870-12-09",
+      "precision": "exact",
+      "display": "December 9, 1870",
+      "place": "\"Pakhuis\", South Africa",
+      "location": {
+        "label": "\"Pakhuis\", South Africa",
+        "placeName": "\"Pakhuis\"",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "24 FEB 1871",
+      "year": 1871,
+      "iso": "1871-02-24",
+      "precision": "exact",
+      "display": "February 24, 1871",
+      "place": "Clanwilliam, WC, South Africa",
+      "location": {
+        "label": "Clanwilliam, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3217,
+      3216
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3218,
+      1291,
+      3219,
+      3220
+    ],
+    "parentUnions": [
+      "F793"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3217,
+        "unionId": "F793",
+        "type": "biological"
+      },
+      {
+        "id": 3216,
+        "unionId": "F793",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025812104738@",
+    "geniId": "6000000025812104738",
+    "rfn": "geni:6000000025812104738",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3221/",
+    "canonical": "https://www.genepedia.org/people/3221/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

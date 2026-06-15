@@ -1,0 +1,87 @@
+{
+  "id": 3983,
+  "schema": "genepedia/person@1",
+  "slug": "private-3983",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1537,
+      3979
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3980,
+      3981,
+      3982
+    ],
+    "parentUnions": [
+      "F932"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1537,
+        "unionId": "F932",
+        "type": "biological"
+      },
+      {
+        "id": 3979,
+        "unionId": "F932",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000140298197011@",
+    "geniId": "6000000140298197011",
+    "rfn": "geni:6000000140298197011",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/3983/",
+    "canonical": "https://www.genepedia.org/people/3983/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

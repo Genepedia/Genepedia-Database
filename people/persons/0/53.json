@@ -1,0 +1,125 @@
+{
+  "id": 53,
+  "schema": "genepedia/person@1",
+  "slug": "elanrie-booyens",
+  "names": {
+    "display": "Elanrie Booyens",
+    "given": "Elanrie",
+    "surname": "Booyens",
+    "married": "Booyens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "2011",
+      "year": 2011,
+      "iso": "2011",
+      "precision": "exact",
+      "display": "2011",
+      "place": "Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free-State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/4b/f6/44/e5/534448674b84d7ae/screenshot_20241206_133218_original.jpg?hash=cbb8ef1228c1157d739e1a0c79e35f1169ed5557a405237a47bd448ca13658d5.1789455599",
+      "alt": "Elanrie Booyens"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/4b/f6/44/e5/534448674b84d7ae/screenshot_20241206_133218_original.jpg?hash=cbb8ef1228c1157d739e1a0c79e35f1169ed5557a405237a47bd448ca13658d5.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/8f/90/61/f7/534448674b63694c/screenshot_20241206_124236_original.jpg?hash=3bbc5315d89f0c5000f650f361609bbc4d26ef751111a85abfa9e56ee97661c4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      52,
+      9
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F18"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 52,
+        "unionId": "F18",
+        "type": "biological"
+      },
+      {
+        "id": 9,
+        "unionId": "F18",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204042511830@",
+    "geniId": "6000000204042511830",
+    "rfn": "geni:6000000204042511830",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/53/",
+    "canonical": "https://www.genepedia.org/people/53/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

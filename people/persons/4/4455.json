@@ -1,0 +1,89 @@
+{
+  "id": 4455,
+  "schema": "genepedia/person@1",
+  "slug": "tevye-steinberg",
+  "names": {
+    "display": "Tevye Steinberg",
+    "given": "Tevye",
+    "surname": "Steinberg",
+    "married": "Steinberg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4453,
+      1744
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4454,
+      4456,
+      4457,
+      4458,
+      4459
+    ],
+    "parentUnions": [
+      "F1056"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4453,
+        "unionId": "F1056",
+        "type": "biological"
+      },
+      {
+        "id": 1744,
+        "unionId": "F1056",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291194@",
+    "geniId": "6000000003658291194",
+    "rfn": "geni:6000000003658291194",
+    "changed": "11 JUN 2021"
+  },
+  "page": {
+    "route": "people/4455/",
+    "canonical": "https://www.genepedia.org/people/4455/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1767,
+  "schema": "genepedia/person@1",
+  "slug": "mary-lurie-1767",
+  "names": {
+    "display": "Mary Lurie",
+    "given": "Mary",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      733
+    ],
+    "exSpouses": [],
+    "children": [
+      1768,
+      1769,
+      1770,
+      1771
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F463"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 733,
+        "unionId": "F463",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1768,
+        "unionId": "F463",
+        "type": "biological"
+      },
+      {
+        "id": 1769,
+        "unionId": "F463",
+        "type": "biological"
+      },
+      {
+        "id": 1770,
+        "unionId": "F463",
+        "type": "biological"
+      },
+      {
+        "id": 1771,
+        "unionId": "F463",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204087928821@",
+    "geniId": "6000000204087928821",
+    "rfn": "geni:6000000204087928821",
+    "changed": "14 MAR 2024"
+  },
+  "page": {
+    "route": "people/1767/",
+    "canonical": "https://www.genepedia.org/people/1767/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

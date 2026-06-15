@@ -1,0 +1,85 @@
+{
+  "id": 1573,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-serlotta-elizabeth-kotzee",
+  "names": {
+    "display": "Rachel Serlotta Elizabeth Kotzee",
+    "given": "Rachel Serlotta Elizabeth",
+    "surname": "Kotzee",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      632
+    ],
+    "exSpouses": [],
+    "children": [
+      1574
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F399"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 632,
+        "unionId": "F399",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1574,
+        "unionId": "F399",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207553108821@",
+    "geniId": "6000000207553108821",
+    "rfn": "geni:6000000207553108821",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1573/",
+    "canonical": "https://www.genepedia.org/people/1573/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

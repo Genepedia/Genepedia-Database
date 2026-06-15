@@ -1,0 +1,97 @@
+{
+  "id": 156,
+  "schema": "genepedia/person@1",
+  "slug": "oosie-oosthuizen",
+  "names": {
+    "display": "Oosie Oosthuizen",
+    "given": "Oosie",
+    "surname": "Oosthuizen",
+    "married": "Oosthuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/8d/6e/4a/cb/534448662334dae2/screenshot_2024-07-05_181915_original.jpg?hash=4dad156d77b6b4d7609fccc27132730aeca1c8d836c1b492abdc6d5f21a51d31.1789455599",
+      "alt": "Oosie Oosthuizen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/8d/6e/4a/cb/534448662334dae2/screenshot_2024-07-05_181915_original.jpg?hash=4dad156d77b6b4d7609fccc27132730aeca1c8d836c1b492abdc6d5f21a51d31.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      43
+    ],
+    "exSpouses": [],
+    "children": [
+      157
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F50"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 43,
+        "unionId": "F50",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 157,
+        "unionId": "F50",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207077134832@",
+    "geniId": "6000000207077134832",
+    "rfn": "geni:6000000207077134832",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/156/",
+    "canonical": "https://www.genepedia.org/people/156/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

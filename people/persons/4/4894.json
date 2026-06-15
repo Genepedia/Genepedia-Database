@@ -1,0 +1,119 @@
+{
+  "id": 4894,
+  "schema": "genepedia/person@1",
+  "slug": "jan-frederick-bester-4894",
+  "names": {
+    "display": "Jan Frederick Bester",
+    "given": "Jan Frederick",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 AUG 1947",
+      "year": 1947,
+      "iso": "1947-08-17",
+      "precision": "exact",
+      "display": "August 17, 1947",
+      "place": null
+    },
+    "death": {
+      "date": "26 AUG 2016",
+      "year": 2016,
+      "iso": "2016-08-26",
+      "precision": "exact",
+      "display": "August 26, 2016",
+      "place": "Rustenburg, North West, South Africa",
+      "location": {
+        "label": "Rustenburg, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Rustenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1912,
+      4892
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4893,
+      4895,
+      4896,
+      4897,
+      4898
+    ],
+    "parentUnions": [
+      "F1163"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1912,
+        "unionId": "F1163",
+        "type": "biological"
+      },
+      {
+        "id": 4892,
+        "unionId": "F1163",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066678243844@",
+    "geniId": "6000000066678243844",
+    "rfn": "geni:6000000066678243844",
+    "changed": "20 MAR 2019"
+  },
+  "page": {
+    "route": "people/4894/",
+    "canonical": "https://www.genepedia.org/people/4894/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

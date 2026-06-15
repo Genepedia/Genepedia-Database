@@ -1,0 +1,150 @@
+{
+  "id": 29,
+  "schema": "genepedia/person@1",
+  "slug": "albertus-smith",
+  "names": {
+    "display": "Albertus Smith",
+    "given": "Albertus",
+    "surname": "Smith",
+    "married": "Els",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "23 FEB 1982",
+      "year": 1982,
+      "iso": "1982-02-23",
+      "precision": "exact",
+      "display": "February 23, 1982",
+      "place": "Standerton, Mpumalanga, South Africa",
+      "location": {
+        "label": "Standerton, Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Standerton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/9d/07/23/7f/534448656cb678a7/screenshot_2024-03-12_151401_original.jpg?hash=4da8dd6006997fed4d6909454943f2176275ea1631ef557902c2325b7cc4c888.1789455599",
+      "alt": "Albertus Smith"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/9d/07/23/7f/534448656cb678a7/screenshot_2024-03-12_151401_original.jpg?hash=4da8dd6006997fed4d6909454943f2176275ea1631ef557902c2325b7cc4c888.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      95,
+      94,
+      96
+    ],
+    "spouses": [
+      5
+    ],
+    "exSpouses": [],
+    "children": [
+      30
+    ],
+    "siblings": [
+      97
+    ],
+    "parentUnions": [
+      "F34",
+      "F35"
+    ],
+    "spouseUnions": [
+      "F10"
+    ],
+    "parentLinks": [
+      {
+        "id": 95,
+        "unionId": "F34",
+        "type": "biological"
+      },
+      {
+        "id": 94,
+        "unionId": "F34",
+        "type": "biological"
+      },
+      {
+        "id": 96,
+        "unionId": "F35",
+        "type": "adopted"
+      },
+      {
+        "id": 94,
+        "unionId": "F35",
+        "type": "adopted"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 5,
+        "unionId": "F10",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 30,
+        "unionId": "F10",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204013800836@",
+    "geniId": "6000000204013800836",
+    "rfn": "geni:6000000204013800836",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/29/",
+    "canonical": "https://www.genepedia.org/people/29/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

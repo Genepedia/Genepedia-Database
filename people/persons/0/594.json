@@ -1,0 +1,118 @@
+{
+  "id": 594,
+  "schema": "genepedia/person@1",
+  "slug": "cedric-de-beer",
+  "names": {
+    "display": "Cedric de Beer",
+    "given": "Cedric",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "20 DEC 1960",
+      "year": 1960,
+      "iso": "1960-12-20",
+      "precision": "exact",
+      "display": "December 20, 1960",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      218,
+      593
+    ],
+    "spouses": [
+      1479
+    ],
+    "exSpouses": [],
+    "children": [
+      1480,
+      1481
+    ],
+    "siblings": [
+      595,
+      596,
+      597
+    ],
+    "parentUnions": [
+      "F167"
+    ],
+    "spouseUnions": [
+      "F378"
+    ],
+    "parentLinks": [
+      {
+        "id": 218,
+        "unionId": "F167",
+        "type": "biological"
+      },
+      {
+        "id": 593,
+        "unionId": "F167",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1479,
+        "unionId": "F378",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1480,
+        "unionId": "F378",
+        "type": "biological"
+      },
+      {
+        "id": 1481,
+        "unionId": "F378",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587618903@",
+    "geniId": "6000000206587618903",
+    "rfn": "geni:6000000206587618903",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/594/",
+    "canonical": "https://www.genepedia.org/people/594/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

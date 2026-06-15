@@ -1,0 +1,98 @@
+{
+  "id": 2807,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-petronella-knox",
+  "names": {
+    "display": "Johanna Petronella Knox",
+    "given": "Johanna Petronella",
+    "surname": "Botes",
+    "married": "Knox",
+    "nick": "Katinka Knox",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "5 MAR 1948",
+      "year": 1948,
+      "iso": "1948-03-05",
+      "precision": "exact",
+      "display": "March 5, 1948",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2801,
+      1135
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2802,
+      2803,
+      2804,
+      2805,
+      2806
+    ],
+    "parentUnions": [
+      "F694"
+    ],
+    "spouseUnions": [
+      "F1745"
+    ],
+    "parentLinks": [
+      {
+        "id": 2801,
+        "unionId": "F694",
+        "type": "biological"
+      },
+      {
+        "id": 1135,
+        "unionId": "F694",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056815439012@",
+    "geniId": "6000000056815439012",
+    "rfn": "geni:6000000056815439012",
+    "changed": "12 JUL 2025"
+  },
+  "page": {
+    "route": "people/2807/",
+    "canonical": "https://www.genepedia.org/people/2807/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

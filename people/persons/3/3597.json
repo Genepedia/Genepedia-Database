@@ -1,0 +1,102 @@
+{
+  "id": 3597,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-francina-joubert",
+  "names": {
+    "display": "Johanna Francina Joubert",
+    "given": "Johanna Francina",
+    "surname": "Joubert",
+    "married": "Naude",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/c8/bd/5c/82/5344484bbae603e5/tcj_naudes1945_original.jpg?hash=4aba4cba697d83b66f4840646dbef4fe9781ed219e8b80c8ccfea2c94acfe6a5.1789455599",
+      "alt": "Johanna Francina Joubert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/c8/bd/5c/82/5344484bbae603e5/tcj_naudes1945_original.jpg?hash=4aba4cba697d83b66f4840646dbef4fe9781ed219e8b80c8ccfea2c94acfe6a5.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3592,
+      1399
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3593,
+      3594,
+      3595,
+      3596,
+      3598,
+      3599
+    ],
+    "parentUnions": [
+      "F872"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3592,
+        "unionId": "F872",
+        "type": "biological"
+      },
+      {
+        "id": 1399,
+        "unionId": "F872",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000064781287050@",
+    "geniId": "6000000064781287050",
+    "rfn": "geni:6000000064781287050",
+    "changed": "18 MAY 2019"
+  },
+  "page": {
+    "route": "people/3597/",
+    "canonical": "https://www.genepedia.org/people/3597/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

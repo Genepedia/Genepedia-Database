@@ -1,0 +1,103 @@
+{
+  "id": 1374,
+  "schema": "genepedia/person@1",
+  "slug": "matwis-johan-bekker",
+  "names": {
+    "display": "Matwis Johan Bekker",
+    "given": "Matwis Johan",
+    "surname": "Bekker",
+    "married": "Bekker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c6/cc/35/c5/5344486602b99032/screenshot_2024-06-15_192210_original.jpg?hash=fdcd2d094c9ee9a73ce4f113821b5b52971663909fb61e17583ecbc1b8352464.1789455599",
+      "alt": "Matwis Johan Bekker"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c6/cc/35/c5/5344486602b99032/screenshot_2024-06-15_192210_original.jpg?hash=fdcd2d094c9ee9a73ce4f113821b5b52971663909fb61e17583ecbc1b8352464.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      560
+    ],
+    "exSpouses": [],
+    "children": [
+      1375,
+      1376
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F354"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 560,
+        "unionId": "F354",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1375,
+        "unionId": "F354",
+        "type": "biological"
+      },
+      {
+        "id": 1376,
+        "unionId": "F354",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228549110@",
+    "geniId": "6000000027228549110",
+    "rfn": "geni:6000000027228549110",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1374/",
+    "canonical": "https://www.genepedia.org/people/1374/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

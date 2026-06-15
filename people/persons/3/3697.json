@@ -1,0 +1,83 @@
+{
+  "id": 3697,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-de-beer-3697",
+  "names": {
+    "display": "Daniel Johannes De Beer",
+    "given": "Daniel Johannes",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1413,
+      3696
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F885"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1413,
+        "unionId": "F885",
+        "type": "biological"
+      },
+      {
+        "id": 3696,
+        "unionId": "F885",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000038285269013@",
+    "geniId": "6000000038285269013",
+    "rfn": "geni:6000000038285269013",
+    "changed": "18 SEP 2021"
+  },
+  "page": {
+    "route": "people/3697/",
+    "canonical": "https://www.genepedia.org/people/3697/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

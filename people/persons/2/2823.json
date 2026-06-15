@@ -1,0 +1,158 @@
+{
+  "id": 2823,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-lodewikus-du-preez",
+  "names": {
+    "display": "Johannes Lodewikus du Preez",
+    "given": "Johannes Lodewikus",
+    "surname": "du Preez",
+    "married": "du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 JUL 1852",
+      "year": 1852,
+      "iso": "1852-07-24",
+      "precision": "exact",
+      "display": "July 24, 1852",
+      "place": "Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Potchefstroom, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "14 JUL 1927",
+      "year": 1927,
+      "iso": "1927-07-14",
+      "precision": "exact",
+      "display": "July 14, 1927",
+      "place": "Plaas Doornfontein, Distrik Potgieterust",
+      "location": {
+        "label": "Plaas Doornfontein, Distrik Potgieterust",
+        "placeName": "Plaas Doornfontein, Distrik Potgieterust",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/fc/84/d1/11/534448683d5961af/img-20250222-wa0002_original.jpg?hash=34feb65969e5833c2811c6c5f3ca448c1d18791227f32a9e0b1779f4497a8cab.1789455599",
+      "alt": "Johannes Lodewikus du Preez"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/fc/84/d1/11/534448683d5961af/img-20250222-wa0002_original.jpg?hash=34feb65969e5833c2811c6c5f3ca448c1d18791227f32a9e0b1779f4497a8cab.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1143
+    ],
+    "exSpouses": [],
+    "children": [
+      2824,
+      2825,
+      2826
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1748"
+    ],
+    "spouseUnions": [
+      "F699",
+      "F1747"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1143,
+        "unionId": "F699",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2824,
+        "unionId": "F699",
+        "type": "biological"
+      },
+      {
+        "id": 2825,
+        "unionId": "F699",
+        "type": "biological"
+      },
+      {
+        "id": 2826,
+        "unionId": "F699",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000058250420821@",
+    "geniId": "6000000058250420821",
+    "rfn": "geni:6000000058250420821",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/2823/",
+    "canonical": "https://www.genepedia.org/people/2823/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

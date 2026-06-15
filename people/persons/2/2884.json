@@ -1,0 +1,145 @@
+{
+  "id": 2884,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-nicolaas-theron",
+  "names": {
+    "display": "Johannes Nicolaas Theron",
+    "given": "Johannes Nicolaas",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 JAN 1839",
+      "year": 1839,
+      "iso": "1839-01-08",
+      "precision": "exact",
+      "display": "January 8, 1839",
+      "place": null
+    },
+    "death": {
+      "date": "1881",
+      "year": 1881,
+      "iso": "1881",
+      "precision": "exact",
+      "display": "1881",
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "19 NOV 1839",
+      "year": 1839,
+      "iso": "1839-11-19",
+      "precision": "exact",
+      "display": "November 19, 1839",
+      "place": "Worcester, Western Cape, South Africa",
+      "location": {
+        "label": "Worcester, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2877,
+      2878
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1154,
+      2879,
+      2880,
+      2881,
+      2882,
+      2883
+    ],
+    "parentUnions": [
+      "F710"
+    ],
+    "spouseUnions": [
+      "F1795"
+    ],
+    "parentLinks": [
+      {
+        "id": 2877,
+        "unionId": "F710",
+        "type": "biological"
+      },
+      {
+        "id": 2878,
+        "unionId": "F710",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000083699172148@",
+    "geniId": "6000000083699172148",
+    "rfn": "geni:6000000083699172148",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2884/",
+    "canonical": "https://www.genepedia.org/people/2884/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

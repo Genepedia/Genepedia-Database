@@ -1,0 +1,187 @@
+{
+  "id": 63,
+  "schema": "genepedia/person@1",
+  "slug": "jannie-marais",
+  "names": {
+    "display": "Jannie Marais",
+    "given": "Jannie",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 JAN 1968",
+      "year": 1968,
+      "iso": "1968-01-19",
+      "precision": "exact",
+      "display": "January 19, 1968",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 JUN 2020",
+      "year": 2020,
+      "iso": "2020-06-15",
+      "precision": "exact",
+      "display": "June 15, 2020",
+      "place": "Port Elizabeth, South Africa",
+      "location": {
+        "label": "Port Elizabeth, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Elizabeth",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Struisbaai, WC, South Africa",
+      "location": {
+        "label": "Struisbaai, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Struisbaai",
+        "postalCode": "7285",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d4/e0/8c/b0/534448659f311039/whatsapp_image_2024-04-06_at_19_original.jpg?hash=873d69887657ace25059bd9ff9faa4ba2d9ed507d8f29c337680797f08f7a782.1789455599",
+      "alt": "Jannie Marais"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d4/e0/8c/b0/534448659f311039/whatsapp_image_2024-04-06_at_19_original.jpg?hash=873d69887657ace25059bd9ff9faa4ba2d9ed507d8f29c337680797f08f7a782.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      60,
+      61
+    ],
+    "spouses": [
+      205
+    ],
+    "exSpouses": [],
+    "children": [
+      206
+    ],
+    "siblings": [
+      11,
+      62,
+      64
+    ],
+    "parentUnions": [
+      "F21"
+    ],
+    "spouseUnions": [
+      "F65"
+    ],
+    "parentLinks": [
+      {
+        "id": 60,
+        "unionId": "F21",
+        "type": "biological"
+      },
+      {
+        "id": 61,
+        "unionId": "F21",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 205,
+        "unionId": "F65",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 206,
+        "unionId": "F65",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000110818675874@",
+    "geniId": "6000000110818675874",
+    "rfn": "geni:6000000110818675874",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/63/",
+    "canonical": "https://www.genepedia.org/people/63/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

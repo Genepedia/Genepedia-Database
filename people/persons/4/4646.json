@@ -1,0 +1,163 @@
+{
+  "id": 4646,
+  "schema": "genepedia/person@1",
+  "slug": "anna-catharina-brits",
+  "names": {
+    "display": "Anna Catharina Brits",
+    "given": "Anna Catharina",
+    "surname": "Brits",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1839",
+      "year": 1839,
+      "iso": "1839",
+      "precision": "exact",
+      "display": "1839",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1895",
+      "year": 1895,
+      "iso": "1895",
+      "precision": "about",
+      "display": "about 1895",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1856
+    ],
+    "exSpouses": [],
+    "children": [
+      4647,
+      4648,
+      4649,
+      4650,
+      4651,
+      4652,
+      4653,
+      4654,
+      4655
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1110"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1856,
+        "unionId": "F1110",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4647,
+        "unionId": "F1110",
+        "type": "biological"
+      },
+      {
+        "id": 4648,
+        "unionId": "F1110",
+        "type": "biological"
+      },
+      {
+        "id": 4649,
+        "unionId": "F1110",
+        "type": "biological"
+      },
+      {
+        "id": 4650,
+        "unionId": "F1110",
+        "type": "biological"
+      },
+      {
+        "id": 4651,
+        "unionId": "F1110",
+        "type": "biological"
+      },
+      {
+        "id": 4652,
+        "unionId": "F1110",
+        "type": "biological"
+      },
+      {
+        "id": 4653,
+        "unionId": "F1110",
+        "type": "biological"
+      },
+      {
+        "id": 4654,
+        "unionId": "F1110",
+        "type": "biological"
+      },
+      {
+        "id": 4655,
+        "unionId": "F1110",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000039901690827@",
+    "geniId": "6000000039901690827",
+    "rfn": "geni:6000000039901690827",
+    "changed": "25 MAY 2018"
+  },
+  "page": {
+    "route": "people/4646/",
+    "canonical": "https://www.genepedia.org/people/4646/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

@@ -1,0 +1,192 @@
+{
+  "id": 35,
+  "schema": "genepedia/person@1",
+  "slug": "rosemary-lurie",
+  "names": {
+    "display": "Rosemary Lurie",
+    "given": "Rosemary",
+    "surname": "Lurie",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": [
+      "Rosemary Lurie"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 MAY 1953",
+      "year": 1953,
+      "iso": "1953-05-04",
+      "precision": "exact",
+      "display": "May 4, 1953",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "OCT 2007",
+      "year": 2007,
+      "iso": "2007-10",
+      "precision": "exact",
+      "display": "October 2007",
+      "place": "Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free-State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free-State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      110,
+      109
+    ],
+    "spouses": [
+      36,
+      107
+    ],
+    "exSpouses": [],
+    "children": [
+      5,
+      108
+    ],
+    "siblings": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "parentUnions": [
+      "F40"
+    ],
+    "spouseUnions": [
+      "F12",
+      "F39"
+    ],
+    "parentLinks": [
+      {
+        "id": 110,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 109,
+        "unionId": "F40",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 36,
+        "unionId": "F12",
+        "role": "partner"
+      },
+      {
+        "id": 107,
+        "unionId": "F39",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 5,
+        "unionId": "F12",
+        "type": "biological"
+      },
+      {
+        "id": 108,
+        "unionId": "F39",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204015395824@",
+    "geniId": "6000000204015395824",
+    "rfn": "geni:6000000204015395824",
+    "changed": "19 FEB 2025"
+  },
+  "page": {
+    "route": "people/35/",
+    "canonical": "https://www.genepedia.org/people/35/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

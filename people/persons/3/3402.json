@@ -1,0 +1,97 @@
+{
+  "id": 3402,
+  "schema": "genepedia/person@1",
+  "slug": "cecilia-aletta-jacoba-van-baalen",
+  "names": {
+    "display": "Cecilia Aletta Jacoba Van Baalen",
+    "given": "Cecilia Aletta Jacoba",
+    "surname": "Van Baalen",
+    "married": "van Niekerk",
+    "nick": "Koba",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1337
+    ],
+    "exSpouses": [],
+    "children": [
+      3403,
+      3404,
+      3405
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F834"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1337,
+        "unionId": "F834",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3403,
+        "unionId": "F834",
+        "type": "biological"
+      },
+      {
+        "id": 3404,
+        "unionId": "F834",
+        "type": "biological"
+      },
+      {
+        "id": 3405,
+        "unionId": "F834",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208581817843@",
+    "geniId": "6000000208581817843",
+    "rfn": "geni:6000000208581817843",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/3402/",
+    "canonical": "https://www.genepedia.org/people/3402/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

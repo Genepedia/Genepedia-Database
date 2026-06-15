@@ -1,0 +1,131 @@
+{
+  "id": 4275,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-jacobus-olivier",
+  "names": {
+    "display": "Johannes Petrus Jacobus Olivier",
+    "given": "Johannes Petrus Jacobus",
+    "surname": "Olivier",
+    "married": "Olivier",
+    "nick": "Jan Olivier",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1871",
+      "year": 1871,
+      "iso": "1871",
+      "precision": "exact",
+      "display": "1871",
+      "place": "Distrik Smithfield",
+      "location": {
+        "label": "Distrik Smithfield",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Distrik Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "31 AUG 1955",
+      "year": 1955,
+      "iso": "1955-08-31",
+      "precision": "exact",
+      "display": "August 31, 1955",
+      "place": "van Soelenstraat, Hobhouse",
+      "location": {
+        "label": "van Soelenstraat, Hobhouse",
+        "placeName": "van Soelenstraat",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hobhouse",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4274,
+      4273
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1618
+    ],
+    "parentUnions": [
+      "F1005"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4274,
+        "unionId": "F1005",
+        "type": "biological"
+      },
+      {
+        "id": 4273,
+        "unionId": "F1005",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000178272221852@",
+    "geniId": "6000000178272221852",
+    "rfn": "geni:6000000178272221852",
+    "changed": "05 FEB 2025"
+  },
+  "page": {
+    "route": "people/4275/",
+    "canonical": "https://www.genepedia.org/people/4275/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

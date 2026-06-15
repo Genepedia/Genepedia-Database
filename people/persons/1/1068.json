@@ -1,0 +1,235 @@
+{
+  "id": 1068,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-catharina-graaff",
+  "names": {
+    "display": "Martha Maria Catharina Graaff",
+    "given": "Martha Maria Catharina",
+    "surname": "Graaff",
+    "married": "",
+    "nick": "Peyper",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 APR 1837",
+      "year": 1837,
+      "iso": "1837-04-11",
+      "precision": "exact",
+      "display": "April 11, 1837",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "25 OCT 1879",
+      "year": 1879,
+      "iso": "1879-10-25",
+      "precision": "exact",
+      "display": "October 25, 1879",
+      "place": "Farm: Vergenoeg, Transvaal, South Africa",
+      "location": {
+        "label": "Farm: Vergenoeg, Transvaal, South Africa",
+        "placeName": "Farm: Vergenoeg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1066,
+      1065
+    ],
+    "spouses": [
+      2629,
+      2640
+    ],
+    "exSpouses": [],
+    "children": [
+      2630,
+      2631,
+      2632,
+      2633,
+      2634,
+      2635,
+      2636,
+      2637,
+      2638,
+      2639,
+      2641,
+      2642,
+      2643
+    ],
+    "siblings": [
+      430,
+      1067,
+      1069,
+      1070,
+      1071,
+      1072,
+      1073,
+      1074
+    ],
+    "parentUnions": [
+      "F286"
+    ],
+    "spouseUnions": [
+      "F645",
+      "F646"
+    ],
+    "parentLinks": [
+      {
+        "id": 1066,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1065,
+        "unionId": "F286",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2629,
+        "unionId": "F645",
+        "role": "husband"
+      },
+      {
+        "id": 2640,
+        "unionId": "F646",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2630,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2631,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2632,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2633,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2634,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2635,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2636,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2637,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2638,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2639,
+        "unionId": "F645",
+        "type": "biological"
+      },
+      {
+        "id": 2641,
+        "unionId": "F646",
+        "type": "biological"
+      },
+      {
+        "id": 2642,
+        "unionId": "F646",
+        "type": "biological"
+      },
+      {
+        "id": 2643,
+        "unionId": "F646",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000021309633857@",
+    "geniId": "6000000021309633857",
+    "rfn": "geni:6000000021309633857",
+    "changed": "26 JUL 2025"
+  },
+  "page": {
+    "route": "people/1068/",
+    "canonical": "https://www.genepedia.org/people/1068/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

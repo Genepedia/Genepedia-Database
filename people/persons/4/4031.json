@@ -1,0 +1,176 @@
+{
+  "id": 4031,
+  "schema": "genepedia/person@1",
+  "slug": "alida-susanna-coetzee",
+  "names": {
+    "display": "Alida Susanna Coetzee",
+    "given": "Alida Susanna",
+    "surname": "Coetzee",
+    "married": "van Niekerk",
+    "nick": "van Niekerk",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1848",
+      "year": 1848,
+      "iso": "1848",
+      "precision": "about",
+      "display": "about 1848",
+      "place": null
+    },
+    "death": {
+      "date": "6 MAY 1892",
+      "year": 1892,
+      "iso": "1892-05-06",
+      "precision": "exact",
+      "display": "May 6, 1892",
+      "place": "Rietfontein, Bloemhof, North West, South Africa",
+      "location": {
+        "label": "Rietfontein, Bloemhof, North West, South Africa",
+        "placeName": "Rietfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/55/91/a0/a4/5344483b02fb83af/alida_susanna_van_niekerk_coetzer_death_notice_1848-1892_original.jpg?hash=ef3912e3764b249c4dbb408afc6701b77aed1683f48ef33820c7f52032f35aa5.1789455599",
+      "alt": "Alida Susanna Coetzee"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/55/91/a0/a4/5344483b02fb83af/alida_susanna_van_niekerk_coetzer_death_notice_1848-1892_original.jpg?hash=ef3912e3764b249c4dbb408afc6701b77aed1683f48ef33820c7f52032f35aa5.1789455599",
+        "form": "",
+        "title": "Alida Susanna van Niekerk (Coetzer) Death Notice 1848-1892.JPG",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/07/0d/34/0d/5344483b9f58f06d/alida_susanna_van_niekerk_coetzee_1848-1892_original.jpg?hash=91a0e972b2a190f27254e4c9af47e2c0f132ef6cf8af1b0d3b6fed6fa0fbd13d.1789455599",
+        "form": "",
+        "title": "Alida Susanna van Niekerk (Coetzee) 1848-1892.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1543
+    ],
+    "exSpouses": [],
+    "children": [
+      4032,
+      4033,
+      4034,
+      4035,
+      4036,
+      4037,
+      4038,
+      4039
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F940"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1543,
+        "unionId": "F940",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4032,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4033,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4034,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4035,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4036,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4037,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4038,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4039,
+        "unionId": "F940",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000017626085222@",
+    "geniId": "6000000017626085222",
+    "rfn": "geni:6000000017626085222",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/4031/",
+    "canonical": "https://www.genepedia.org/people/4031/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

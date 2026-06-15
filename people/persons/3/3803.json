@@ -1,0 +1,235 @@
+{
+  "id": 3803,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-jacoba-agdalena-ras",
+  "names": {
+    "display": "Susanna Jacoba Agdalena Ras",
+    "given": "Susanna Jacoba Agdalena",
+    "surname": "Ras",
+    "married": "Brynard",
+    "nick": "Sannie",
+    "aliases": [
+      "Susanna Jacoba Agdalena Ras"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 APR 1889",
+      "year": 1889,
+      "iso": "1889-04-23",
+      "precision": "exact",
+      "display": "April 23, 1889",
+      "place": "Matjiesfontein, Calvinia",
+      "location": {
+        "label": "Matjiesfontein, Calvinia",
+        "placeName": "Matjiesfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "22 JUN 1972",
+      "year": 1972,
+      "iso": "1972-06-22",
+      "precision": "exact",
+      "display": "June 22, 1972",
+      "place": "Kaapstad, WC, South Africa",
+      "location": {
+        "label": "Kaapstad, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kaapstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Woltemade Cemetry, Cape Town, WC, South Africa",
+      "location": {
+        "label": "Woltemade Cemetry, Cape Town, WC, South Africa",
+        "placeName": "Woltemade Cemetry",
+        "addressLine1": "Grafnr 63212",
+        "addressLine2": "Maitland",
+        "addressLine3": "Voortrekker Road",
+        "city": "Cape Town",
+        "postalCode": "7404",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1442
+    ],
+    "exSpouses": [],
+    "children": [
+      3804,
+      3805,
+      3806,
+      3807,
+      3808,
+      3809,
+      3810,
+      3811,
+      3812,
+      3813,
+      3814,
+      3815,
+      3816,
+      3817
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F906"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1442,
+        "unionId": "F906",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3804,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3805,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3806,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3807,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3808,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3809,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3810,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3811,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3812,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3813,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3814,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3815,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3816,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3817,
+        "unionId": "F906",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000078844308092@",
+    "geniId": "6000000078844308092",
+    "rfn": "geni:6000000078844308092",
+    "changed": "07 AUG 2022"
+  },
+  "page": {
+    "route": "people/3803/",
+    "canonical": "https://www.genepedia.org/people/3803/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

@@ -1,0 +1,143 @@
+{
+  "id": 533,
+  "schema": "genepedia/person@1",
+  "slug": "anna-catharina-le-roux",
+  "names": {
+    "display": "Anna Catharina Le Roux",
+    "given": "Anna Catharina",
+    "surname": "Le Roux",
+    "married": "de Leeuw",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "12 SEP 1950",
+      "year": 1950,
+      "iso": "1950-09-12",
+      "precision": "exact",
+      "display": "September 12, 1950",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/40/65/f8/60/534448663c96b420/screenshot_2024-07-21_201125_original.jpg?hash=0f7bf4f3c137d88e844b2dd22288ae0abfc1fbd53b5a780a80b0120eeeaedcf3.1789455599",
+      "alt": "Anna Catharina Le Roux"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/40/65/f8/60/534448663c96b420/screenshot_2024-07-21_201125_original.jpg?hash=0f7bf4f3c137d88e844b2dd22288ae0abfc1fbd53b5a780a80b0120eeeaedcf3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1275,
+      1276
+    ],
+    "spouses": [
+      532
+    ],
+    "exSpouses": [],
+    "children": [
+      534,
+      207,
+      535,
+      209
+    ],
+    "siblings": [
+      1277,
+      1278,
+      1279,
+      1280
+    ],
+    "parentUnions": [
+      "F332"
+    ],
+    "spouseUnions": [
+      "F157"
+    ],
+    "parentLinks": [
+      {
+        "id": 1275,
+        "unionId": "F332",
+        "type": "biological"
+      },
+      {
+        "id": 1276,
+        "unionId": "F332",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 532,
+        "unionId": "F157",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 534,
+        "unionId": "F157",
+        "type": "biological"
+      },
+      {
+        "id": 207,
+        "unionId": "F157",
+        "type": "biological"
+      },
+      {
+        "id": 535,
+        "unionId": "F157",
+        "type": "biological"
+      },
+      {
+        "id": 209,
+        "unionId": "F157",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204860936837@",
+    "geniId": "6000000204860936837",
+    "rfn": "geni:6000000204860936837",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/533/",
+    "canonical": "https://www.genepedia.org/people/533/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

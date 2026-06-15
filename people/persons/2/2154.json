@@ -1,0 +1,102 @@
+{
+  "id": 2154,
+  "schema": "genepedia/person@1",
+  "slug": "john-richard-hibbert",
+  "names": {
+    "display": "John Richard Hibbert",
+    "given": "John Richard",
+    "surname": "Hibbert",
+    "married": "Hibbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1883",
+      "year": 1883,
+      "iso": "1883",
+      "precision": "exact",
+      "display": "1883",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2149,
+      892
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2150,
+      2151,
+      2152,
+      2153,
+      2155,
+      2156,
+      2157,
+      2158,
+      2159,
+      2160,
+      2161
+    ],
+    "parentUnions": [
+      "F555"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2149,
+        "unionId": "F555",
+        "type": "biological"
+      },
+      {
+        "id": 892,
+        "unionId": "F555",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000049631763914@",
+    "geniId": "6000000049631763914",
+    "rfn": "geni:6000000049631763914",
+    "changed": "14 NOV 2016"
+  },
+  "page": {
+    "route": "people/2154/",
+    "canonical": "https://www.genepedia.org/people/2154/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

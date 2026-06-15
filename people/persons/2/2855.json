@@ -1,0 +1,168 @@
+{
+  "id": 2855,
+  "schema": "genepedia/person@1",
+  "slug": "catherine-louisa-roach",
+  "names": {
+    "display": "Catherine Louisa Roach",
+    "given": "Catherine Louisa",
+    "surname": "Roach",
+    "married": "Davis",
+    "nick": "Catherine Louise",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1839",
+      "year": 1839,
+      "iso": "1839",
+      "precision": "exact",
+      "display": "1839",
+      "place": null
+    },
+    "death": {
+      "date": "8 NOV 1871",
+      "year": 1871,
+      "iso": "1871-11-08",
+      "precision": "exact",
+      "display": "November 8, 1871",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kimberley, NC, South Africa",
+      "location": {
+        "label": "Kimberley, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "8301",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/1f/46/a6/2b/53444845d86dbc55/henry_john_foster_davis_en_louisa_catherine_roach-1_original.jpg?hash=7768620ea76bc12da1f42d1e0fad60d8208fcea8f36a223cc97fcfda2a16e693.1789455599",
+      "alt": "Catherine Louisa Roach"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/1f/46/a6/2b/53444845d86dbc55/henry_john_foster_davis_en_louisa_catherine_roach-1_original.jpg?hash=7768620ea76bc12da1f42d1e0fad60d8208fcea8f36a223cc97fcfda2a16e693.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/46/11/ed/50/534448423cfbc675/henry_john_foster_davis_marriage_to_louisa_roach-crop_original.jpg?hash=4113abf10c873347fba303237cf2b134605cedf59aa30bdd0479dc5de8994664.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1152
+    ],
+    "exSpouses": [],
+    "children": [
+      2856,
+      2857,
+      2858,
+      2859,
+      2860
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1774"
+    ],
+    "spouseUnions": [
+      "F705"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1152,
+        "unionId": "F705",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2856,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2857,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2858,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2859,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2860,
+        "unionId": "F705",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024382841313@",
+    "geniId": "6000000024382841313",
+    "rfn": "geni:6000000024382841313",
+    "changed": "29 MAY 2025"
+  },
+  "page": {
+    "route": "people/2855/",
+    "canonical": "https://www.genepedia.org/people/2855/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

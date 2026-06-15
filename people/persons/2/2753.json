@@ -1,0 +1,79 @@
+{
+  "id": 2753,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-cloete",
+  "names": {
+    "display": "Jacoba Cloete",
+    "given": "Jacoba",
+    "surname": "Cloete",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": [
+      "Fourie"
+    ]
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1115
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F678"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1115,
+        "unionId": "F678",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056970095107@",
+    "geniId": "6000000056970095107",
+    "rfn": "geni:6000000056970095107",
+    "changed": "04 APR 2017"
+  },
+  "page": {
+    "route": "people/2753/",
+    "canonical": "https://www.genepedia.org/people/2753/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

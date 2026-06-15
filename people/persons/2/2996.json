@@ -1,0 +1,77 @@
+{
+  "id": 2996,
+  "schema": "genepedia/person@1",
+  "slug": "schalk-botha",
+  "names": {
+    "display": "Schalk Botha",
+    "given": "Schalk",
+    "surname": "Botha",
+    "married": "Botha",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1186
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F731"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1186,
+        "unionId": "F731",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027854387549@",
+    "geniId": "6000000027854387549",
+    "rfn": "geni:6000000027854387549",
+    "changed": "12 MAR 2015"
+  },
+  "page": {
+    "route": "people/2996/",
+    "canonical": "https://www.genepedia.org/people/2996/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

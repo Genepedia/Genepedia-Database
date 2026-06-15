@@ -1,0 +1,181 @@
+{
+  "id": 1874,
+  "schema": "genepedia/person@1",
+  "slug": "jan-hendrik-george-bester",
+  "names": {
+    "display": "Jan Hendrik George Bester",
+    "given": "Jan Hendrik George",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 APR 1887",
+      "year": 1887,
+      "iso": "1887-04-07",
+      "precision": "exact",
+      "display": "April 7, 1887",
+      "place": "Uitzicht, Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Uitzicht, Smithfield, Free State, South Africa",
+        "placeName": "Uitzicht",
+        "addressLine1": "District",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      813,
+      1872
+    ],
+    "spouses": [
+      4723
+    ],
+    "exSpouses": [],
+    "children": [
+      4724,
+      4725,
+      4726,
+      4727,
+      4728
+    ],
+    "siblings": [
+      1873,
+      1875,
+      1876,
+      1877,
+      1878,
+      1879,
+      1880,
+      1881,
+      1882
+    ],
+    "parentUnions": [
+      "F497"
+    ],
+    "spouseUnions": [
+      "F1125"
+    ],
+    "parentLinks": [
+      {
+        "id": 813,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1872,
+        "unionId": "F497",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4723,
+        "unionId": "F1125",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4724,
+        "unionId": "F1125",
+        "type": "biological"
+      },
+      {
+        "id": 4725,
+        "unionId": "F1125",
+        "type": "biological"
+      },
+      {
+        "id": 4726,
+        "unionId": "F1125",
+        "type": "biological"
+      },
+      {
+        "id": 4727,
+        "unionId": "F1125",
+        "type": "biological"
+      },
+      {
+        "id": 4728,
+        "unionId": "F1125",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000074464935914@",
+    "geniId": "6000000074464935914",
+    "rfn": "geni:6000000074464935914",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/1874/",
+    "canonical": "https://www.genepedia.org/people/1874/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

@@ -1,0 +1,127 @@
+{
+  "id": 3267,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-maria-magdalena-van-wyk",
+  "names": {
+    "display": "Elizabeth Maria Magdalena van Wyk",
+    "given": "Elizabeth Maria Magdalena",
+    "surname": "van Wyk",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1892",
+      "year": 1892,
+      "iso": "1892",
+      "precision": "about",
+      "display": "about 1892",
+      "place": null
+    },
+    "death": {
+      "date": "4 SEP 1916",
+      "year": 1916,
+      "iso": "1916-09-04",
+      "precision": "exact",
+      "display": "September 4, 1916",
+      "place": "Brakfontein, Clanwilliam, WC, South Africa",
+      "location": {
+        "label": "Brakfontein, Clanwilliam, WC, South Africa",
+        "placeName": "Brakfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "8135",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/31/5e/87/52/5344485777053c9d/elizabeth_maria_mouton_van_wyk_1892_-_1916_original.jpg?hash=10da6041f4f5b51e450c96fa4b77f24bb4ee267bd80d84f2f815b7113164e279.1789455599",
+      "alt": "Elizabeth Maria Magdalena van Wyk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/31/5e/87/52/5344485777053c9d/elizabeth_maria_mouton_van_wyk_1892_-_1916_original.jpg?hash=10da6041f4f5b51e450c96fa4b77f24bb4ee267bd80d84f2f815b7113164e279.1789455599",
+        "form": "",
+        "title": "Elizabeth Maria Mouton (van Wyk) 1892 - 1916.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1299
+    ],
+    "exSpouses": [],
+    "children": [
+      3268
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F803"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1299,
+        "unionId": "F803",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3268,
+        "unionId": "F803",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000144060317838@",
+    "geniId": "6000000144060317838",
+    "rfn": "geni:6000000144060317838",
+    "changed": "24 JUL 2020"
+  },
+  "page": {
+    "route": "people/3267/",
+    "canonical": "https://www.genepedia.org/people/3267/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

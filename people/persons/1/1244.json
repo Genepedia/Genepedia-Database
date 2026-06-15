@@ -1,0 +1,103 @@
+{
+  "id": 1244,
+  "schema": "genepedia/person@1",
+  "slug": "johan-claasen",
+  "names": {
+    "display": "Johan Claasen",
+    "given": "Johan",
+    "surname": "Claasen",
+    "married": "Claasen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c4/87/87/30/5344486629bab74e/screenshot_2024-07-09_145949_original.jpg?hash=dc5ca9f8b96968794d44a7892fa08b1e58a9b3bb2bc2d282cedbaf8c62a49d1b.1789455599",
+      "alt": "Johan Claasen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c4/87/87/30/5344486629bab74e/screenshot_2024-07-09_145949_original.jpg?hash=dc5ca9f8b96968794d44a7892fa08b1e58a9b3bb2bc2d282cedbaf8c62a49d1b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      511
+    ],
+    "exSpouses": [],
+    "children": [
+      1245,
+      1246
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F325"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 511,
+        "unionId": "F325",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1245,
+        "unionId": "F325",
+        "type": "biological"
+      },
+      {
+        "id": 1246,
+        "unionId": "F325",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207188365865@",
+    "geniId": "6000000207188365865",
+    "rfn": "geni:6000000207188365865",
+    "changed": "09 JUL 2024"
+  },
+  "page": {
+    "route": "people/1244/",
+    "canonical": "https://www.genepedia.org/people/1244/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

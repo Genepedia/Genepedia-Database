@@ -1,0 +1,141 @@
+{
+  "id": 2658,
+  "schema": "genepedia/person@1",
+  "slug": "frans-willem-swanepoel",
+  "names": {
+    "display": "Frans Willem Swanepoel",
+    "given": "Frans Willem",
+    "surname": "Swanepoel",
+    "married": "Swanepoel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1879",
+      "year": 1879,
+      "iso": "1879",
+      "precision": "about",
+      "display": "about 1879",
+      "place": "Bultfontein, Free State, South Africa",
+      "location": {
+        "label": "Bultfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bultfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 MAY 1937",
+      "year": 1937,
+      "iso": "1937-05-18",
+      "precision": "exact",
+      "display": "May 18, 1937",
+      "place": "Newlands, Randburg, Gauteng, South Africa",
+      "location": {
+        "label": "Newlands, Randburg, Gauteng, South Africa",
+        "placeName": "Newlands",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Randburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2649,
+      1073
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2650,
+      2651,
+      2652,
+      2653,
+      2654,
+      2655,
+      2656,
+      2657
+    ],
+    "parentUnions": [
+      "F650"
+    ],
+    "spouseUnions": [
+      "F1640",
+      "F1641"
+    ],
+    "parentLinks": [
+      {
+        "id": 2649,
+        "unionId": "F650",
+        "type": "biological"
+      },
+      {
+        "id": 1073,
+        "unionId": "F650",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024089246834@",
+    "geniId": "6000000024089246834",
+    "rfn": "geni:6000000024089246834",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2658/",
+    "canonical": "https://www.genepedia.org/people/2658/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

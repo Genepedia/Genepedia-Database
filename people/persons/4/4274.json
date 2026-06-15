@@ -1,0 +1,98 @@
+{
+  "id": 4274,
+  "schema": "genepedia/person@1",
+  "slug": "gerhardus-cornelis-johannes-jacobus-olivier",
+  "names": {
+    "display": "Gerhardus Cornelis Johannes Jacobus Olivier",
+    "given": "Gerhardus Cornelis Johannes Jacobus",
+    "surname": "Olivier",
+    "married": "Olivier",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1849",
+      "year": 1849,
+      "iso": "1849",
+      "precision": "about",
+      "display": "about 1849",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4273
+    ],
+    "exSpouses": [],
+    "children": [
+      1618,
+      4275
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1005"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4273,
+        "unionId": "F1005",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1618,
+        "unionId": "F1005",
+        "type": "biological"
+      },
+      {
+        "id": 4275,
+        "unionId": "F1005",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207333651830@",
+    "geniId": "6000000207333651830",
+    "rfn": "geni:6000000207333651830",
+    "changed": "05 FEB 2025"
+  },
+  "page": {
+    "route": "people/4274/",
+    "canonical": "https://www.genepedia.org/people/4274/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

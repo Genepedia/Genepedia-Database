@@ -1,0 +1,117 @@
+{
+  "id": 4889,
+  "schema": "genepedia/person@1",
+  "slug": "anna-elizabeth-bester",
+  "names": {
+    "display": "Anna Elizabeth Bester",
+    "given": "Anna Elizabeth",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 SEP 1926",
+      "year": 1926,
+      "iso": "1926-09-23",
+      "precision": "exact",
+      "display": "September 23, 1926",
+      "place": null
+    },
+    "death": {
+      "date": "26 JUN 1990",
+      "year": 1990,
+      "iso": "1990-06-26",
+      "precision": "exact",
+      "display": "June 26, 1990",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1911,
+      4887
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4888,
+      4890,
+      4891
+    ],
+    "parentUnions": [
+      "F1162"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1911,
+        "unionId": "F1162",
+        "type": "biological"
+      },
+      {
+        "id": 4887,
+        "unionId": "F1162",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066640474821@",
+    "geniId": "6000000066640474821",
+    "rfn": "geni:6000000066640474821",
+    "changed": "07 SEP 2017"
+  },
+  "page": {
+    "route": "people/4889/",
+    "canonical": "https://www.genepedia.org/people/4889/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

@@ -1,0 +1,130 @@
+{
+  "id": 1501,
+  "schema": "genepedia/person@1",
+  "slug": "keith-patrick-william-stead",
+  "names": {
+    "display": "Keith Patrick William Stead",
+    "given": "Keith Patrick William",
+    "surname": "Stead",
+    "married": "Stead",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "8 SEP 1964",
+      "year": 1964,
+      "iso": "1964-09-08",
+      "precision": "exact",
+      "display": "September 8, 1964",
+      "place": "Evesham, England, United Kingdom",
+      "location": {
+        "label": "Evesham, England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Evesham",
+        "postalCode": "WR11",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3849,
+      3848
+    ],
+    "spouses": [
+      603
+    ],
+    "exSpouses": [],
+    "children": [
+      1502,
+      1503
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F914"
+    ],
+    "spouseUnions": [
+      "F384"
+    ],
+    "parentLinks": [
+      {
+        "id": 3849,
+        "unionId": "F914",
+        "type": "biological"
+      },
+      {
+        "id": 3848,
+        "unionId": "F914",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 603,
+        "unionId": "F384",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1502,
+        "unionId": "F384",
+        "type": "biological"
+      },
+      {
+        "id": 1503,
+        "unionId": "F384",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587428867@",
+    "geniId": "6000000206587428867",
+    "rfn": "geni:6000000206587428867",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1501/",
+    "canonical": "https://www.genepedia.org/people/1501/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1125,
+  "schema": "genepedia/person@1",
+  "slug": "jan-harm-nieuwoudt",
+  "names": {
+    "display": "Jan Harm Nieuwoudt",
+    "given": "Jan Harm",
+    "surname": "Nieuwoudt",
+    "married": "Nieuwoudt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1859",
+      "year": 1859,
+      "iso": "1859",
+      "precision": "exact",
+      "display": "1859",
+      "place": "Oranje Vrijstaat",
+      "location": {
+        "label": "Oranje Vrijstaat",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Oranje Vrijstaat",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      440
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F297"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 440,
+        "unionId": "F297",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000199907980841@",
+    "geniId": "6000000199907980841",
+    "rfn": "geni:6000000199907980841",
+    "changed": "07 NOV 2023"
+  },
+  "page": {
+    "route": "people/1125/",
+    "canonical": "https://www.genepedia.org/people/1125/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

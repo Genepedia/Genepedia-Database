@@ -1,0 +1,77 @@
+{
+  "id": 3439,
+  "schema": "genepedia/person@1",
+  "slug": "bradley",
+  "names": {
+    "display": "? Bradley",
+    "given": "?",
+    "surname": "Bradley",
+    "married": "Bradley",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      1352
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F845"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 1352,
+        "unionId": "F845",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208582142823@",
+    "geniId": "6000000208582142823",
+    "rfn": "geni:6000000208582142823",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/3439/",
+    "canonical": "https://www.genepedia.org/people/3439/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

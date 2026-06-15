@@ -1,0 +1,95 @@
+{
+  "id": 4782,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-maria-bester",
+  "names": {
+    "display": "Gertruida Maria Bester",
+    "given": "Gertruida Maria",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "ABT 1953",
+      "year": 1953,
+      "iso": "1953",
+      "precision": "about",
+      "display": "about 1953",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1889,
+      4777
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4778,
+      4779,
+      4780,
+      4781
+    ],
+    "parentUnions": [
+      "F1138"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1889,
+        "unionId": "F1138",
+        "type": "biological"
+      },
+      {
+        "id": 4777,
+        "unionId": "F1138",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065499487876@",
+    "geniId": "6000000065499487876",
+    "rfn": "geni:6000000065499487876",
+    "changed": "22 AUG 2017"
+  },
+  "page": {
+    "route": "people/4782/",
+    "canonical": "https://www.genepedia.org/people/4782/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

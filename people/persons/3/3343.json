@@ -1,0 +1,144 @@
+{
+  "id": 3343,
+  "schema": "genepedia/person@1",
+  "slug": "janetta-helena-christina-volgraaff",
+  "names": {
+    "display": "Janetta Helena Christina Volgraaff",
+    "given": "Janetta Helena Christina",
+    "surname": "Volgraaff",
+    "married": "van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 OCT 1881",
+      "year": 1881,
+      "iso": "1881-10-11",
+      "precision": "exact",
+      "display": "October 11, 1881",
+      "place": null
+    },
+    "death": {
+      "date": "7 JAN 1947",
+      "year": 1947,
+      "iso": "1947-01-07",
+      "precision": "exact",
+      "display": "January 7, 1947",
+      "place": "Kalkgat, Calvinia, Cape province, South Africa",
+      "location": {
+        "label": "Kalkgat, Calvinia, Cape province, South Africa",
+        "placeName": "Kalkgat",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "9 APR 1882",
+      "year": 1882,
+      "iso": "1882-04-09",
+      "precision": "exact",
+      "display": "April 9, 1882",
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3344
+    ],
+    "exSpouses": [],
+    "children": [
+      3345,
+      1319
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F820"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3344,
+        "unionId": "F820",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3345,
+        "unionId": "F820",
+        "type": "biological"
+      },
+      {
+        "id": 1319,
+        "unionId": "F820",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000025656561984@",
+    "geniId": "6000000025656561984",
+    "rfn": "geni:6000000025656561984",
+    "changed": "16 JUL 2024"
+  },
+  "page": {
+    "route": "people/3343/",
+    "canonical": "https://www.genepedia.org/people/3343/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

@@ -1,0 +1,141 @@
+{
+  "id": 547,
+  "schema": "genepedia/person@1",
+  "slug": "charles-edward-palvie",
+  "names": {
+    "display": "Charles Edward Palvie",
+    "given": "Charles Edward",
+    "surname": "Palvie",
+    "married": "Palvie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 NOV 1872",
+      "year": 1872,
+      "iso": "1872-11-23",
+      "precision": "exact",
+      "display": "November 23, 1872",
+      "place": null
+    },
+    "death": {
+      "date": "1941",
+      "year": 1941,
+      "iso": "1941",
+      "precision": "exact",
+      "display": "1941",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1344,
+      1343
+    ],
+    "spouses": [
+      546
+    ],
+    "exSpouses": [],
+    "children": [
+      211,
+      548,
+      549,
+      550
+    ],
+    "siblings": [
+      1345,
+      1346,
+      1347,
+      1348,
+      1349,
+      1350,
+      1351
+    ],
+    "parentUnions": [
+      "F346"
+    ],
+    "spouseUnions": [
+      "F160"
+    ],
+    "parentLinks": [
+      {
+        "id": 1344,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 1343,
+        "unionId": "F346",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 546,
+        "unionId": "F160",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 211,
+        "unionId": "F160",
+        "type": "biological"
+      },
+      {
+        "id": 548,
+        "unionId": "F160",
+        "type": "biological"
+      },
+      {
+        "id": 549,
+        "unionId": "F160",
+        "type": "biological"
+      },
+      {
+        "id": 550,
+        "unionId": "F160",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000092604985848@",
+    "geniId": "6000000092604985848",
+    "rfn": "geni:6000000092604985848",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/547/",
+    "canonical": "https://www.genepedia.org/people/547/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

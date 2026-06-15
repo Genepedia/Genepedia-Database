@@ -1,0 +1,85 @@
+{
+  "id": 720,
+  "schema": "genepedia/person@1",
+  "slug": "private-van-der-merwe",
+  "names": {
+    "display": "<private> van der Merwe",
+    "given": "<private>",
+    "surname": "van der Merwe",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      288,
+      719
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      721
+    ],
+    "parentUnions": [
+      "F203"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 288,
+        "unionId": "F203",
+        "type": "biological"
+      },
+      {
+        "id": 719,
+        "unionId": "F203",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000221802570845@",
+    "geniId": "6000000221802570845",
+    "rfn": "geni:6000000221802570845",
+    "changed": "18 OCT 2025"
+  },
+  "page": {
+    "route": "people/720/",
+    "canonical": "https://www.genepedia.org/people/720/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

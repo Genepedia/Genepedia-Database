@@ -1,0 +1,109 @@
+{
+  "id": 2655,
+  "schema": "genepedia/person@1",
+  "slug": "jan-adam-petrus-swanepoel",
+  "names": {
+    "display": "Jan Adam Petrus Swanepoel",
+    "given": "Jan Adam Petrus",
+    "surname": "Swanepoel",
+    "married": "Swanepoel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 OCT 1875",
+      "year": 1875,
+      "iso": "1875-10-08",
+      "precision": "exact",
+      "display": "October 8, 1875",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "21 NOV 1875",
+      "year": 1875,
+      "iso": "1875-11-21",
+      "precision": "exact",
+      "display": "November 21, 1875",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2649,
+      1073
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2650,
+      2651,
+      2652,
+      2653,
+      2654,
+      2656,
+      2657,
+      2658
+    ],
+    "parentUnions": [
+      "F650"
+    ],
+    "spouseUnions": [
+      "F1637",
+      "F1638"
+    ],
+    "parentLinks": [
+      {
+        "id": 2649,
+        "unionId": "F650",
+        "type": "biological"
+      },
+      {
+        "id": 1073,
+        "unionId": "F650",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000050616873184@",
+    "geniId": "6000000050616873184",
+    "rfn": "geni:6000000050616873184",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2655/",
+    "canonical": "https://www.genepedia.org/people/2655/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

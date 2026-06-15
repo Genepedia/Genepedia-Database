@@ -1,0 +1,133 @@
+{
+  "id": 54,
+  "schema": "genepedia/person@1",
+  "slug": "marius-shawn-heymans",
+  "names": {
+    "display": "Marius Shawn Heymans",
+    "given": "Marius Shawn",
+    "surname": "Heymans",
+    "married": "Heymans",
+    "nick": "Polony",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "9 JAN 1972",
+      "year": 1972,
+      "iso": "1972-01-09",
+      "precision": "exact",
+      "display": "January 9, 1972",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/6a/6e/39/18/534448674b3eaae8/61600038_145676193265169_2300657845521088512_n_original.jpg?hash=b46c7efc81f339831f66515c59b0ebf00abbeb02a123f56d9fddb738d4ada0bb.1789455599",
+      "alt": "Marius Shawn Heymans"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/6a/6e/39/18/534448674b3eaae8/61600038_145676193265169_2300657845521088512_n_original.jpg?hash=b46c7efc81f339831f66515c59b0ebf00abbeb02a123f56d9fddb738d4ada0bb.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      193,
+      194
+    ],
+    "spouses": [
+      9,
+      191
+    ],
+    "exSpouses": [],
+    "children": [
+      55,
+      192
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F59"
+    ],
+    "spouseUnions": [
+      "F19",
+      "F58"
+    ],
+    "parentLinks": [
+      {
+        "id": 193,
+        "unionId": "F59",
+        "type": "biological"
+      },
+      {
+        "id": 194,
+        "unionId": "F59",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 9,
+        "unionId": "F19",
+        "role": "partner"
+      },
+      {
+        "id": 191,
+        "unionId": "F58",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 55,
+        "unionId": "F19",
+        "type": "biological"
+      },
+      {
+        "id": 192,
+        "unionId": "F58",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208166378823@",
+    "geniId": "6000000208166378823",
+    "rfn": "geni:6000000208166378823",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/54/",
+    "canonical": "https://www.genepedia.org/people/54/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

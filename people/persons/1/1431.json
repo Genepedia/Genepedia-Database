@@ -1,0 +1,143 @@
+{
+  "id": 1431,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-margaretha-augustyn",
+  "names": {
+    "display": "Susanna Margaretha Augustyn",
+    "given": "Susanna Margaretha",
+    "surname": "Augustyn",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 AUG 1856",
+      "year": 1856,
+      "iso": "1856-08-02",
+      "precision": "exact",
+      "display": "August 2, 1856",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "21 SEP 1856",
+      "year": 1856,
+      "iso": "1856-09-21",
+      "precision": "exact",
+      "display": "September 21, 1856",
+      "place": "Calvinia",
+      "location": {
+        "label": "Calvinia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/70/1a/ba/74/5344486695e3cd96/image_original.jpg?hash=ac3d3a4c7c089e1f78fcf27d43052c5da9d28c462155a7ddf066103fee219be3.1789455599",
+      "alt": "Susanna Margaretha Augustyn"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/70/1a/ba/74/5344486695e3cd96/image_original.jpg?hash=ac3d3a4c7c089e1f78fcf27d43052c5da9d28c462155a7ddf066103fee219be3.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1426,
+      1425
+    ],
+    "spouses": [
+      3753
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1427,
+      1428,
+      1429,
+      577,
+      1430,
+      1432,
+      1433
+    ],
+    "parentUnions": [
+      "F363"
+    ],
+    "spouseUnions": [
+      "F898"
+    ],
+    "parentLinks": [
+      {
+        "id": 1426,
+        "unionId": "F363",
+        "type": "biological"
+      },
+      {
+        "id": 1425,
+        "unionId": "F363",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3753,
+        "unionId": "F898",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041022149062@",
+    "geniId": "6000000041022149062",
+    "rfn": "geni:6000000041022149062",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1431/",
+    "canonical": "https://www.genepedia.org/people/1431/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

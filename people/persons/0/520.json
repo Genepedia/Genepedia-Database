@@ -1,0 +1,99 @@
+{
+  "id": 520,
+  "schema": "genepedia/person@1",
+  "slug": "heymans-520",
+  "names": {
+    "display": "? Heymans",
+    "given": "?",
+    "surname": "Heymans",
+    "married": "Heymans",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 1933",
+      "year": 1933,
+      "iso": "1933",
+      "precision": "before",
+      "display": "before 1933",
+      "place": null
+    },
+    "death": {
+      "date": "AFT 1948",
+      "year": 1948,
+      "iso": "1948",
+      "precision": "after",
+      "display": "after 1948",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      521
+    ],
+    "exSpouses": [],
+    "children": [
+      193
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F151"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 521,
+        "unionId": "F151",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 193,
+        "unionId": "F151",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000214134726824@",
+    "geniId": "6000000214134726824",
+    "rfn": "geni:6000000214134726824",
+    "changed": "19 JAN 2025"
+  },
+  "page": {
+    "route": "people/520/",
+    "canonical": "https://www.genepedia.org/people/520/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

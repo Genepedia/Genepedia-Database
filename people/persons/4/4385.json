@@ -1,0 +1,132 @@
+{
+  "id": 4385,
+  "schema": "genepedia/person@1",
+  "slug": "jan-daniel-viljoen",
+  "names": {
+    "display": "Jan Daniel Viljoen",
+    "given": "Jan Daniel",
+    "surname": "Viljoen",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JUN 1874",
+      "year": 1874,
+      "iso": "1874-06-23",
+      "precision": "exact",
+      "display": "June 23, 1874",
+      "place": null
+    },
+    "death": {
+      "date": "26 DEC 1957",
+      "year": 1957,
+      "iso": "1957-12-26",
+      "precision": "exact",
+      "display": "December 26, 1957",
+      "place": null
+    },
+    "baptism": {
+      "date": "10 NOV 1874",
+      "year": 1874,
+      "iso": "1874-11-10",
+      "precision": "exact",
+      "display": "November 10, 1874",
+      "place": "Kroonstad, Free State, South Africa",
+      "location": {
+        "label": "Kroonstad, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4380,
+      4381
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1718,
+      4382,
+      4383,
+      4384,
+      4386,
+      4387,
+      4388,
+      4389,
+      4390,
+      4391,
+      4392
+    ],
+    "parentUnions": [
+      "F1038"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4380,
+        "unionId": "F1038",
+        "type": "biological"
+      },
+      {
+        "id": 4381,
+        "unionId": "F1038",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000047286941049@",
+    "geniId": "6000000047286941049",
+    "rfn": "geni:6000000047286941049",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/4385/",
+    "canonical": "https://www.genepedia.org/people/4385/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,107 @@
+{
+  "id": 3060,
+  "schema": "genepedia/person@1",
+  "slug": "lynnette-magdaleen-de-klerk",
+  "names": {
+    "display": "Lynnette Magdaleen De Klerk",
+    "given": "Lynnette Magdaleen",
+    "surname": "De Klerk",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 NOV 1962",
+      "year": 1962,
+      "iso": "1962-11-30",
+      "precision": "exact",
+      "display": "November 30, 1962",
+      "place": null
+    },
+    "death": {
+      "date": "11 FEB 2006",
+      "year": 2006,
+      "iso": "2006-02-11",
+      "precision": "exact",
+      "display": "February 11, 2006",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1224
+    ],
+    "exSpouses": [],
+    "children": [
+      3061,
+      3062
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1900"
+    ],
+    "spouseUnions": [
+      "F751"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1224,
+        "unionId": "F751",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3061,
+        "unionId": "F751",
+        "type": "biological"
+      },
+      {
+        "id": 3062,
+        "unionId": "F751",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222126483920@",
+    "geniId": "6000000222126483920",
+    "rfn": "geni:6000000222126483920",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3060/",
+    "canonical": "https://www.genepedia.org/people/3060/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

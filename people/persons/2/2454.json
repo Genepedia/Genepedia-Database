@@ -1,0 +1,170 @@
+{
+  "id": 2454,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-johannes-jacobus-oosthuizen",
+  "names": {
+    "display": "Gerrit Johannes Jacobus Oosthuizen",
+    "given": "Gerrit Johannes Jacobus",
+    "surname": "Oosthuizen",
+    "married": "Oosthuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 OCT 1786",
+      "year": 1786,
+      "iso": "1786-10-11",
+      "precision": "exact",
+      "display": "October 11, 1786",
+      "place": "Grootrivier, Kaap",
+      "location": {
+        "label": "Grootrivier, Kaap",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Grootrivier",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaap",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 JUL 1845",
+      "year": 1845,
+      "iso": "1845-07-20",
+      "precision": "exact",
+      "display": "July 20, 1845",
+      "place": null
+    },
+    "baptism": {
+      "date": "7 JAN 1787",
+      "year": 1787,
+      "iso": "1787-01-07",
+      "precision": "exact",
+      "display": "January 7, 1787",
+      "place": "Kaap",
+      "location": {
+        "label": "Kaap",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaap",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f0/3d/3f/8d/5344484e89ff0960/kab_8017_gert_johannes_jacobus_oosthuizen_record-image_undefined_original.jpg?hash=c445ad73d96f1425e0094f43bb3363c905049c52a07250493f94440f0f8bccfa.1789455599",
+      "alt": "Gerrit Johannes Jacobus Oosthuizen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f0/3d/3f/8d/5344484e89ff0960/kab_8017_gert_johannes_jacobus_oosthuizen_record-image_undefined_original.jpg?hash=c445ad73d96f1425e0094f43bb3363c905049c52a07250493f94440f0f8bccfa.1789455599",
+        "form": "",
+        "title": "KAB 8017 Gert Johannes Jacobus Oosthuizen record-image_undefined.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2455
+    ],
+    "exSpouses": [],
+    "children": [
+      1008,
+      2456,
+      2457,
+      2458
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1499"
+    ],
+    "spouseUnions": [
+      "F618"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2455,
+        "unionId": "F618",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1008,
+        "unionId": "F618",
+        "type": "biological"
+      },
+      {
+        "id": 2456,
+        "unionId": "F618",
+        "type": "biological"
+      },
+      {
+        "id": 2457,
+        "unionId": "F618",
+        "type": "biological"
+      },
+      {
+        "id": 2458,
+        "unionId": "F618",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003356217977@",
+    "geniId": "6000000003356217977",
+    "rfn": "geni:6000000003356217977",
+    "changed": "19 APR 2025"
+  },
+  "page": {
+    "route": "people/2454/",
+    "canonical": "https://www.genepedia.org/people/2454/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,136 @@
+{
+  "id": 2858,
+  "schema": "genepedia/person@1",
+  "slug": "arthur-william-foster-davis",
+  "names": {
+    "display": "Arthur William Foster Davis",
+    "given": "Arthur William Foster",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 NOV 1862",
+      "year": 1862,
+      "iso": "1862-11-21",
+      "precision": "exact",
+      "display": "November 21, 1862",
+      "place": "Bethulie, Free State, South Africa",
+      "location": {
+        "label": "Bethulie, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bethulie",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "19 SEP 1934",
+      "year": 1934,
+      "iso": "1934-09-19",
+      "precision": "exact",
+      "display": "September 19, 1934",
+      "place": "Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Pretoria, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1152,
+      2855
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2856,
+      2857,
+      2859,
+      2860
+    ],
+    "parentUnions": [
+      "F705"
+    ],
+    "spouseUnions": [
+      "F1776"
+    ],
+    "parentLinks": [
+      {
+        "id": 1152,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2855,
+        "unionId": "F705",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052892970905@",
+    "geniId": "6000000052892970905",
+    "rfn": "geni:6000000052892970905",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2858/",
+    "canonical": "https://www.genepedia.org/people/2858/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

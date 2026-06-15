@@ -1,0 +1,101 @@
+{
+  "id": 4435,
+  "schema": "genepedia/person@1",
+  "slug": "eileen-ivy-quinn",
+  "names": {
+    "display": "Eileen Ivy Quinn",
+    "given": "Eileen Ivy",
+    "surname": "Quinn",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 AUG 1920",
+      "year": 1920,
+      "iso": "1920-08-24",
+      "precision": "exact",
+      "display": "August 24, 1920",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1736,
+      4434
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4436,
+      4437,
+      4438,
+      4439,
+      4440,
+      4441,
+      4442,
+      4443,
+      4444,
+      4445
+    ],
+    "parentUnions": [
+      "F1052"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1736,
+        "unionId": "F1052",
+        "type": "biological"
+      },
+      {
+        "id": 4434,
+        "unionId": "F1052",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000054918066821@",
+    "geniId": "6000000054918066821",
+    "rfn": "geni:6000000054918066821",
+    "changed": "23 FEB 2017"
+  },
+  "page": {
+    "route": "people/4435/",
+    "canonical": "https://www.genepedia.org/people/4435/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

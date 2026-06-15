@@ -1,0 +1,201 @@
+{
+  "id": 813,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-jacobus-bester-813",
+  "names": {
+    "display": "Gabriel Jacobus Bester",
+    "given": "Gabriel Jacobus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1854",
+      "year": 1854,
+      "iso": "1854",
+      "precision": "about",
+      "display": "about 1854",
+      "place": null
+    },
+    "death": {
+      "date": "2 JUN 1938",
+      "year": 1938,
+      "iso": "1938-06-02",
+      "precision": "exact",
+      "display": "June 2, 1938",
+      "place": "Edenburg, Free State, South Africa",
+      "location": {
+        "label": "Edenburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Edenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      810,
+      811
+    ],
+    "spouses": [
+      1872,
+      1883
+    ],
+    "exSpouses": [],
+    "children": [
+      1873,
+      1874,
+      1875,
+      1876,
+      1877,
+      1878,
+      1879,
+      1880,
+      1881,
+      1882
+    ],
+    "siblings": [
+      812,
+      814,
+      815,
+      331,
+      816,
+      817,
+      818,
+      819
+    ],
+    "parentUnions": [
+      "F228"
+    ],
+    "spouseUnions": [
+      "F497",
+      "F498"
+    ],
+    "parentLinks": [
+      {
+        "id": 810,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 811,
+        "unionId": "F228",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1872,
+        "unionId": "F497",
+        "role": "partner"
+      },
+      {
+        "id": 1883,
+        "unionId": "F498",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1873,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1874,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1875,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1876,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1877,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1878,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1879,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1880,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1881,
+        "unionId": "F497",
+        "type": "biological"
+      },
+      {
+        "id": 1882,
+        "unionId": "F497",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000018408500615@",
+    "geniId": "6000000018408500615",
+    "rfn": "geni:6000000018408500615",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/813/",
+    "canonical": "https://www.genepedia.org/people/813/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

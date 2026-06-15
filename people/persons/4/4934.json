@@ -1,0 +1,94 @@
+{
+  "id": 4934,
+  "schema": "genepedia/person@1",
+  "slug": "anna-elizabeth-magdalena-droskie",
+  "names": {
+    "display": "Anna Elizabeth Magdalena Droskie",
+    "given": "Anna Elizabeth Magdalena",
+    "surname": "Droskie",
+    "married": "Klopper",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1876",
+      "year": 1876,
+      "iso": "1876",
+      "precision": "exact",
+      "display": "1876",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4931,
+      4930
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4932,
+      1916,
+      4933
+    ],
+    "parentUnions": [
+      "F1169"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4931,
+        "unionId": "F1169",
+        "type": "biological"
+      },
+      {
+        "id": 4930,
+        "unionId": "F1169",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028708839394@",
+    "geniId": "6000000028708839394",
+    "rfn": "geni:6000000028708839394",
+    "changed": "02 MAY 2019"
+  },
+  "page": {
+    "route": "people/4934/",
+    "canonical": "https://www.genepedia.org/people/4934/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

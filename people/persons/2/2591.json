@@ -1,0 +1,113 @@
+{
+  "id": 2591,
+  "schema": "genepedia/person@1",
+  "slug": "samuel-albertus-pringle",
+  "names": {
+    "display": "Samuel Albertus Pringle",
+    "given": "Samuel Albertus",
+    "surname": "Pringle",
+    "married": "Pringle",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 AUG 1861",
+      "year": 1861,
+      "iso": "1861-08-13",
+      "precision": "exact",
+      "display": "August 13, 1861",
+      "place": "Harrismith, Free State, South Africa",
+      "location": {
+        "label": "Harrismith, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Harrismith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2585,
+      1064
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2586,
+      2587,
+      2588,
+      2589,
+      2590,
+      2592
+    ],
+    "parentUnions": [
+      "F641"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2585,
+        "unionId": "F641",
+        "type": "biological"
+      },
+      {
+        "id": 1064,
+        "unionId": "F641",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057007447866@",
+    "geniId": "6000000057007447866",
+    "rfn": "geni:6000000057007447866",
+    "changed": "11 NOV 2025"
+  },
+  "page": {
+    "route": "people/2591/",
+    "canonical": "https://www.genepedia.org/people/2591/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 428,
+  "schema": "genepedia/person@1",
+  "slug": "mellet-428",
+  "names": {
+    "display": "? Mellet",
+    "given": "?",
+    "surname": "Mellet",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BEF 1978",
+      "year": 1978,
+      "iso": "1978",
+      "precision": "before",
+      "display": "before 1978",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      426,
+      161
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      427
+    ],
+    "parentUnions": [
+      "F134"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 426,
+        "unionId": "F134",
+        "type": "biological"
+      },
+      {
+        "id": 161,
+        "unionId": "F134",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000209122268876@",
+    "geniId": "6000000209122268876",
+    "rfn": "geni:6000000209122268876",
+    "changed": "17 SEP 2024"
+  },
+  "page": {
+    "route": "people/428/",
+    "canonical": "https://www.genepedia.org/people/428/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

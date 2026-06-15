@@ -1,0 +1,185 @@
+{
+  "id": 1016,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-petronella-van-der-bank",
+  "names": {
+    "display": "Catharina Petronella van der Bank",
+    "given": "Catharina Petronella",
+    "surname": "van der Bank",
+    "married": "Botma",
+    "nick": "",
+    "aliases": [
+      "Catharina Petronella Botma (van der Bank)"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 JUL 1846",
+      "year": 1846,
+      "iso": "1846-07-10",
+      "precision": "exact",
+      "display": "July 10, 1846",
+      "place": "Northern Cape Province, South Africa",
+      "location": {
+        "label": "Northern Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 MAY 1869",
+      "year": 1869,
+      "iso": "1869-05-27",
+      "precision": "exact",
+      "display": "May 27, 1869",
+      "place": "kalk Gat",
+      "location": {
+        "label": "kalk Gat",
+        "placeName": "kalk Gat",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/2c/b3/45/69/5344484e89e6ba6f/kab_catrina_p_vd_bank_1869_original.jpg?hash=2b892373230b1264a8619b221b9f3cdf33343e6976771a24c6c24c1d1c850b4e.1789455599",
+      "alt": "Catharina Petronella van der Bank"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/2c/b3/45/69/5344484e89e6ba6f/kab_catrina_p_vd_bank_1869_original.jpg?hash=2b892373230b1264a8619b221b9f3cdf33343e6976771a24c6c24c1d1c850b4e.1789455599",
+        "form": "",
+        "title": "KAB Catrina P vd Bank 1869.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1009,
+      1008
+    ],
+    "spouses": [
+      2504
+    ],
+    "exSpouses": [],
+    "children": [
+      2505,
+      2506,
+      2507
+    ],
+    "siblings": [
+      1010,
+      1011,
+      1012,
+      1013,
+      1014,
+      1015,
+      1017,
+      1018,
+      417,
+      1019,
+      1020
+    ],
+    "parentUnions": [
+      "F278"
+    ],
+    "spouseUnions": [
+      "F626"
+    ],
+    "parentLinks": [
+      {
+        "id": 1009,
+        "unionId": "F278",
+        "type": "biological"
+      },
+      {
+        "id": 1008,
+        "unionId": "F278",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2504,
+        "unionId": "F626",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2505,
+        "unionId": "F626",
+        "type": "biological"
+      },
+      {
+        "id": 2506,
+        "unionId": "F626",
+        "type": "biological"
+      },
+      {
+        "id": 2507,
+        "unionId": "F626",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000039971024769@",
+    "geniId": "6000000039971024769",
+    "rfn": "geni:6000000039971024769",
+    "changed": "24 OCT 2022"
+  },
+  "page": {
+    "route": "people/1016/",
+    "canonical": "https://www.genepedia.org/people/1016/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

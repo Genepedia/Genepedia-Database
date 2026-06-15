@@ -1,0 +1,196 @@
+{
+  "id": 4221,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-botha-4221",
+  "names": {
+    "display": "Johannes Petrus Botha",
+    "given": "Johannes Petrus",
+    "surname": "Botha",
+    "married": "Botha",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 13 NOV 1789",
+      "year": 1789,
+      "iso": "1789-11-13",
+      "precision": "before",
+      "display": "before November 13, 1789",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "Swellendam, Western Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "BEF JUN 1833",
+      "year": 1833,
+      "iso": "1833-06",
+      "precision": "before",
+      "display": "before June 1833",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "13 NOV 1789",
+      "year": 1789,
+      "iso": "1789-11-13",
+      "precision": "exact",
+      "display": "November 13, 1789",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "Swellendam, Western Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/0d/fa/0c/52/5344485ed76c1d4f/baptism_records_8__original.jpg?hash=6d24cfd959b6f8a2fe0266f0ec0d6d257684930dd4a8dd096b7b59a3110d3344.1789455599",
+      "alt": "Johannes Petrus Botha"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/0d/fa/0c/52/5344485ed76c1d4f/baptism_records_8__original.jpg?hash=6d24cfd959b6f8a2fe0266f0ec0d6d257684930dd4a8dd096b7b59a3110d3344.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4222
+    ],
+    "exSpouses": [],
+    "children": [
+      4223,
+      2563,
+      4224,
+      4225,
+      4226,
+      1602
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F991"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4222,
+        "unionId": "F991",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4223,
+        "unionId": "F991",
+        "type": "biological"
+      },
+      {
+        "id": 2563,
+        "unionId": "F991",
+        "type": "biological"
+      },
+      {
+        "id": 4224,
+        "unionId": "F991",
+        "type": "biological"
+      },
+      {
+        "id": 4225,
+        "unionId": "F991",
+        "type": "biological"
+      },
+      {
+        "id": 4226,
+        "unionId": "F991",
+        "type": "biological"
+      },
+      {
+        "id": 1602,
+        "unionId": "F991",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003356104004@",
+    "geniId": "6000000003356104004",
+    "rfn": "geni:6000000003356104004",
+    "changed": "02 SEP 2025"
+  },
+  "page": {
+    "route": "people/4221/",
+    "canonical": "https://www.genepedia.org/people/4221/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

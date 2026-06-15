@@ -1,0 +1,192 @@
+{
+  "id": 4409,
+  "schema": "genepedia/person@1",
+  "slug": "william-frank-maurer",
+  "names": {
+    "display": "William Frank Maurer",
+    "given": "William Frank",
+    "surname": "Maurer",
+    "married": "Maurer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 AUG 1895",
+      "year": 1895,
+      "iso": "1895-08-12",
+      "precision": "exact",
+      "display": "August 12, 1895",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 MAY 1935",
+      "year": 1935,
+      "iso": "1935-05-04",
+      "precision": "exact",
+      "display": "May 4, 1935",
+      "place": "Zambia",
+      "location": {
+        "label": "Zambia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zambia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "6 OCT 1895",
+      "year": 1895,
+      "iso": "1895-10-06",
+      "precision": "exact",
+      "display": "October 6, 1895",
+      "place": null
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zambia",
+      "location": {
+        "label": "Zambia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zambia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/51/e4/ac/76/5344483f9e6fd3f6/record-image_33s7-9t43-8lj_original.jpg?hash=f3c3a881b8c821bf918d0d84d4a26c24aaf93c992e0dfd338e195b1a630ab68f.1789455599",
+      "alt": "William Frank Maurer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/51/e4/ac/76/5344483f9e6fd3f6/record-image_33s7-9t43-8lj_original.jpg?hash=f3c3a881b8c821bf918d0d84d4a26c24aaf93c992e0dfd338e195b1a630ab68f.1789455599",
+        "form": "",
+        "title": "MAURER, W.F. Baptism",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1721
+    ],
+    "exSpouses": [],
+    "children": [
+      4410,
+      4411,
+      4412,
+      4413
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1042"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1721,
+        "unionId": "F1042",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4410,
+        "unionId": "F1042",
+        "type": "biological"
+      },
+      {
+        "id": 4411,
+        "unionId": "F1042",
+        "type": "biological"
+      },
+      {
+        "id": 4412,
+        "unionId": "F1042",
+        "type": "biological"
+      },
+      {
+        "id": 4413,
+        "unionId": "F1042",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024077228324@",
+    "geniId": "6000000024077228324",
+    "rfn": "geni:6000000024077228324",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/4409/",
+    "canonical": "https://www.genepedia.org/people/4409/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

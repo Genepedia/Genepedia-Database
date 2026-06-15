@@ -1,0 +1,113 @@
+{
+  "id": 1656,
+  "schema": "genepedia/person@1",
+  "slug": "john-de-beyer",
+  "names": {
+    "display": "John De Beyer",
+    "given": "John",
+    "surname": "De Beyer",
+    "married": "De Beyer",
+    "nick": "James Bernard William De Beyer",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1872",
+      "year": 1872,
+      "iso": "1872",
+      "precision": "exact",
+      "display": "1872",
+      "place": "Belgium",
+      "location": {
+        "label": "Belgium",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Belgium",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Carpenter",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/54/35/c0/13/53444843ac05e390/meilhon_marr_3_dec_1932_josephine_noelie_b_hardouin_b_1877_widowed_marr_john_de_beyer_b_1862_original.jpg?hash=a2ba1fd6f9b7848dad4155d95d3458372b1c453de04ae71055477df6b0bc041e.1789455599",
+      "alt": "John De Beyer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/54/35/c0/13/53444843ac05e390/meilhon_marr_3_dec_1932_josephine_noelie_b_hardouin_b_1877_widowed_marr_john_de_beyer_b_1862_original.jpg?hash=a2ba1fd6f9b7848dad4155d95d3458372b1c453de04ae71055477df6b0bc041e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      670
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F428",
+      "F1019"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 670,
+        "unionId": "F428",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000059049596914@",
+    "geniId": "6000000059049596914",
+    "rfn": "geni:6000000059049596914",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1656/",
+    "canonical": "https://www.genepedia.org/people/1656/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

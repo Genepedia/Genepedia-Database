@@ -1,0 +1,85 @@
+{
+  "id": 1281,
+  "schema": "genepedia/person@1",
+  "slug": "cornel-de-leeuw",
+  "names": {
+    "display": "Cornel de Leeuw",
+    "given": "Cornel",
+    "surname": "Fourie",
+    "married": "de Leeuw",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      534
+    ],
+    "exSpouses": [],
+    "children": [
+      1282
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F333"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 534,
+        "unionId": "F333",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1282,
+        "unionId": "F333",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781351534@",
+    "geniId": "6000000007781351534",
+    "rfn": "geni:6000000007781351534",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/1281/",
+    "canonical": "https://www.genepedia.org/people/1281/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

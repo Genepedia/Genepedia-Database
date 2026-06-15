@@ -1,0 +1,85 @@
+{
+  "id": 1508,
+  "schema": "genepedia/person@1",
+  "slug": "du-preez-1508",
+  "names": {
+    "display": "? du Preez",
+    "given": "?",
+    "surname": "du Preez",
+    "married": "du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      606,
+      1507
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1509
+    ],
+    "parentUnions": [
+      "F386"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 606,
+        "unionId": "F386",
+        "type": "biological"
+      },
+      {
+        "id": 1507,
+        "unionId": "F386",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206608012821@",
+    "geniId": "6000000206608012821",
+    "rfn": "geni:6000000206608012821",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1508/",
+    "canonical": "https://www.genepedia.org/people/1508/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

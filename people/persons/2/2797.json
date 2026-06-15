@@ -1,0 +1,122 @@
+{
+  "id": 2797,
+  "schema": "genepedia/person@1",
+  "slug": "elsie-maria-brits",
+  "names": {
+    "display": "Elsie Maria Brits",
+    "given": "Elsie Maria",
+    "surname": "Brits",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 AUG 1887",
+      "year": 1887,
+      "iso": "1887-08-23",
+      "precision": "exact",
+      "display": "August 23, 1887",
+      "place": "Britstown, NC, South Africa",
+      "location": {
+        "label": "Britstown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Britstown",
+        "postalCode": "8782",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "NOV 1972",
+      "year": 1972,
+      "iso": "1972-11",
+      "precision": "exact",
+      "display": "November 1972",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2794,
+      2793
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1133,
+      2795,
+      2796,
+      2798,
+      2799,
+      2800
+    ],
+    "parentUnions": [
+      "F693"
+    ],
+    "spouseUnions": [
+      "F1735"
+    ],
+    "parentLinks": [
+      {
+        "id": 2794,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2793,
+        "unionId": "F693",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000192091099821@",
+    "geniId": "6000000192091099821",
+    "rfn": "geni:6000000192091099821",
+    "changed": "02 JUN 2023"
+  },
+  "page": {
+    "route": "people/2797/",
+    "canonical": "https://www.genepedia.org/people/2797/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

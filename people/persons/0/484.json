@@ -1,0 +1,87 @@
+{
+  "id": 484,
+  "schema": "genepedia/person@1",
+  "slug": "fourie",
+  "names": {
+    "display": "? Fourie",
+    "given": "?",
+    "surname": "Fourie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      173,
+      482
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      483,
+      485,
+      486
+    ],
+    "parentUnions": [
+      "F141"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 173,
+        "unionId": "F141",
+        "type": "biological"
+      },
+      {
+        "id": 482,
+        "unionId": "F141",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204145912862@",
+    "geniId": "6000000204145912862",
+    "rfn": "geni:6000000204145912862",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/484/",
+    "canonical": "https://www.genepedia.org/people/484/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

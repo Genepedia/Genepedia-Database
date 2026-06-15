@@ -1,0 +1,103 @@
+{
+  "id": 400,
+  "schema": "genepedia/person@1",
+  "slug": "jan-barnard",
+  "names": {
+    "display": "Jan Barnard",
+    "given": "Jan",
+    "surname": "Barnard",
+    "married": "Barnard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/f6/19/44/47/5344486859d7345e/337286510_158406207137826_1832495389607866219_n_original.jpg?hash=bce112b76941c7fd53ae124a735af1776800aa374a9861cbf0173b2cbbae73ee.1789455599",
+      "alt": "Jan Barnard"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/f6/19/44/47/5344486859d7345e/337286510_158406207137826_1832495389607866219_n_original.jpg?hash=bce112b76941c7fd53ae124a735af1776800aa374a9861cbf0173b2cbbae73ee.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      401
+    ],
+    "exSpouses": [],
+    "children": [
+      402,
+      149
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F126"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 401,
+        "unionId": "F126",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 402,
+        "unionId": "F126",
+        "type": "biological"
+      },
+      {
+        "id": 149,
+        "unionId": "F126",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000216585257837@",
+    "geniId": "6000000216585257837",
+    "rfn": "geni:6000000216585257837",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/400/",
+    "canonical": "https://www.genepedia.org/people/400/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

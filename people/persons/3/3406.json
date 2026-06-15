@@ -1,0 +1,149 @@
+{
+  "id": 3406,
+  "schema": "genepedia/person@1",
+  "slug": "louisa-jacoba-burger-mouton",
+  "names": {
+    "display": "Louisa Jacoba Burger Mouton",
+    "given": "Louisa Jacoba Burger",
+    "surname": "Mouton",
+    "married": "van Nieuwholtz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 JUL 1864",
+      "year": 1864,
+      "iso": "1864-07-02",
+      "precision": "exact",
+      "display": "July 2, 1864",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "26 FEB 1865",
+      "year": 1865,
+      "iso": "1865-02-26",
+      "precision": "exact",
+      "display": "February 26, 1865",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d9/8d/87/d0/5344484ca83c4d30/louisa_jacoba_burger_nieuwhotz_mouton_1865_-_original.jpg?hash=574e0a65e66b65f5b2fdfb7ee14eafe973446e0ad0e06c5601c88d7cc7f10661.1789455599",
+      "alt": "Louisa Jacoba Burger Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d9/8d/87/d0/5344484ca83c4d30/louisa_jacoba_burger_nieuwhotz_mouton_1865_-_original.jpg?hash=574e0a65e66b65f5b2fdfb7ee14eafe973446e0ad0e06c5601c88d7cc7f10661.1789455599",
+        "form": "",
+        "title": "Louisa Jacoba Burger Nieuwhotz (Mouton) 1865 -.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1339
+    ],
+    "exSpouses": [],
+    "children": [
+      3407,
+      3408
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F835"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1339,
+        "unionId": "F835",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3407,
+        "unionId": "F835",
+        "type": "biological"
+      },
+      {
+        "id": 3408,
+        "unionId": "F835",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000074400903821@",
+    "geniId": "6000000074400903821",
+    "rfn": "geni:6000000074400903821",
+    "changed": "16 AUG 2024"
+  },
+  "page": {
+    "route": "people/3406/",
+    "canonical": "https://www.genepedia.org/people/3406/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.197Z"
+}

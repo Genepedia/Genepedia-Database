@@ -1,0 +1,77 @@
+{
+  "id": 2010,
+  "schema": "genepedia/person@1",
+  "slug": "louis-laubscher-haarhoff",
+  "names": {
+    "display": "Louis Laubscher Haarhoff",
+    "given": "Louis Laubscher",
+    "surname": "Haarhoff",
+    "married": "Haarhoff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      837
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F524"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 837,
+        "unionId": "F524",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066539331908@",
+    "geniId": "6000000066539331908",
+    "rfn": "geni:6000000066539331908",
+    "changed": "05 SEP 2017"
+  },
+  "page": {
+    "route": "people/2010/",
+    "canonical": "https://www.genepedia.org/people/2010/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

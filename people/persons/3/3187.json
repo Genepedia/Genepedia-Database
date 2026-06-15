@@ -1,0 +1,103 @@
+{
+  "id": 3187,
+  "schema": "genepedia/person@1",
+  "slug": "sophia-le-roux",
+  "names": {
+    "display": "Sophia Le Roux",
+    "given": "Sophia",
+    "surname": "Le Roux",
+    "married": "Le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1278
+    ],
+    "exSpouses": [],
+    "children": [
+      3188,
+      3189,
+      3190,
+      3191
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F784"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1278,
+        "unionId": "F784",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3188,
+        "unionId": "F784",
+        "type": "biological"
+      },
+      {
+        "id": 3189,
+        "unionId": "F784",
+        "type": "biological"
+      },
+      {
+        "id": 3190,
+        "unionId": "F784",
+        "type": "biological"
+      },
+      {
+        "id": 3191,
+        "unionId": "F784",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781804359@",
+    "geniId": "6000000007781804359",
+    "rfn": "geni:6000000007781804359",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/3187/",
+    "canonical": "https://www.genepedia.org/people/3187/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

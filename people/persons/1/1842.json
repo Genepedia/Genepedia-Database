@@ -1,0 +1,77 @@
+{
+  "id": 1842,
+  "schema": "genepedia/person@1",
+  "slug": "du-toit-1842",
+  "names": {
+    "display": "? Du Toit",
+    "given": "?",
+    "surname": "Du Toit",
+    "married": "Du Toit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      807
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F492"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 807,
+        "unionId": "F492",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000216569903837@",
+    "geniId": "6000000216569903837",
+    "rfn": "geni:6000000216569903837",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/1842/",
+    "canonical": "https://www.genepedia.org/people/1842/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

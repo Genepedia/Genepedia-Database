@@ -1,0 +1,90 @@
+{
+  "id": 1332,
+  "schema": "genepedia/person@1",
+  "slug": "helene",
+  "names": {
+    "display": "Helene",
+    "given": "Helene",
+    "surname": "van Taak",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "ABT 8 JUL 1956",
+      "year": 1956,
+      "iso": "1956-07-08",
+      "precision": "about",
+      "display": "about July 8, 1956",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      544,
+      1331
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F343"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 544,
+        "unionId": "F343",
+        "type": "biological"
+      },
+      {
+        "id": 1331,
+        "unionId": "F343",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029307862368@",
+    "geniId": "6000000029307862368",
+    "rfn": "geni:6000000029307862368",
+    "changed": "07 NOV 2014"
+  },
+  "page": {
+    "route": "people/1332/",
+    "canonical": "https://www.genepedia.org/people/1332/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

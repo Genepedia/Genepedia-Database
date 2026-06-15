@@ -1,0 +1,129 @@
+{
+  "id": 531,
+  "schema": "genepedia/person@1",
+  "slug": "christeline-van-deventer",
+  "names": {
+    "display": "Christeline Van Deventer",
+    "given": "Christeline",
+    "surname": "Van Deventer",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BEF 1970",
+      "year": 1970,
+      "iso": "1970",
+      "precision": "before",
+      "display": "before 1970",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/9d/e0/ea/a7/534448659f298ea7/screenshot_2024-04-06_195433_original.jpg?hash=ab8336f6adc5f74d76e1091e2050db5bb7fcc97644b9258a963d7f8aa9a97ebe.1789455599",
+      "alt": "Christeline Van Deventer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/9d/e0/ea/a7/534448659f298ea7/screenshot_2024-04-06_195433_original.jpg?hash=ab8336f6adc5f74d76e1091e2050db5bb7fcc97644b9258a963d7f8aa9a97ebe.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      528,
+      529
+    ],
+    "spouses": [
+      1268
+    ],
+    "exSpouses": [],
+    "children": [
+      1269,
+      1270
+    ],
+    "siblings": [
+      530,
+      205
+    ],
+    "parentUnions": [
+      "F156"
+    ],
+    "spouseUnions": [
+      "F330"
+    ],
+    "parentLinks": [
+      {
+        "id": 528,
+        "unionId": "F156",
+        "type": "biological"
+      },
+      {
+        "id": 529,
+        "unionId": "F156",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1268,
+        "unionId": "F330",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1269,
+        "unionId": "F330",
+        "type": "biological"
+      },
+      {
+        "id": 1270,
+        "unionId": "F330",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204862445884@",
+    "geniId": "6000000204862445884",
+    "rfn": "geni:6000000204862445884",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/531/",
+    "canonical": "https://www.genepedia.org/people/531/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

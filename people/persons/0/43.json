@@ -1,0 +1,124 @@
+{
+  "id": 43,
+  "schema": "genepedia/person@1",
+  "slug": "hendrina-francina-roselt",
+  "names": {
+    "display": "Hendrina Francina Roselt",
+    "given": "Hendrina Francina",
+    "surname": "Roselt",
+    "married": "Oosthuizen",
+    "nick": "Nerine",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "6 MAY 1963",
+      "year": 1963,
+      "iso": "1963-05-06",
+      "precision": "exact",
+      "display": "May 6, 1963",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/a9/c7/0b/59/534448656e922e13/screenshot_2024-03-13_135339_original.jpg?hash=dff14983c7de347477369f42a1875e3e015afcdbe08219914e1e6b8ac4b62a7d.1789455599",
+      "alt": "Hendrina Francina Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/a9/c7/0b/59/534448656e922e13/screenshot_2024-03-13_135339_original.jpg?hash=dff14983c7de347477369f42a1875e3e015afcdbe08219914e1e6b8ac4b62a7d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      40,
+      39
+    ],
+    "spouses": [
+      156
+    ],
+    "exSpouses": [],
+    "children": [
+      157
+    ],
+    "siblings": [
+      6,
+      41,
+      42
+    ],
+    "parentUnions": [
+      "F14"
+    ],
+    "spouseUnions": [
+      "F50"
+    ],
+    "parentLinks": [
+      {
+        "id": 40,
+        "unionId": "F14",
+        "type": "biological"
+      },
+      {
+        "id": 39,
+        "unionId": "F14",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 156,
+        "unionId": "F50",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 157,
+        "unionId": "F50",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000054671472847@",
+    "geniId": "6000000054671472847",
+    "rfn": "geni:6000000054671472847",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/43/",
+    "canonical": "https://www.genepedia.org/people/43/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

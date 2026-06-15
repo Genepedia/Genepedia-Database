@@ -1,0 +1,97 @@
+{
+  "id": 3174,
+  "schema": "genepedia/person@1",
+  "slug": "flip-van-zyl",
+  "names": {
+    "display": "Flip Van Zyl",
+    "given": "Flip",
+    "surname": "Van Zyl",
+    "married": "Van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1273
+    ],
+    "exSpouses": [],
+    "children": [
+      3175,
+      3176,
+      3177
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F779"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1273,
+        "unionId": "F779",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3175,
+        "unionId": "F779",
+        "type": "biological"
+      },
+      {
+        "id": 3176,
+        "unionId": "F779",
+        "type": "biological"
+      },
+      {
+        "id": 3177,
+        "unionId": "F779",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781934280@",
+    "geniId": "6000000007781934280",
+    "rfn": "geni:6000000007781934280",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/3174/",
+    "canonical": "https://www.genepedia.org/people/3174/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

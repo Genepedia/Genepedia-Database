@@ -1,0 +1,176 @@
+{
+  "id": 2183,
+  "schema": "genepedia/person@1",
+  "slug": "frederik-petrus-stephanus-sinden",
+  "names": {
+    "display": "Frederik Petrus Stephanus Sinden",
+    "given": "Frederik Petrus Stephanus",
+    "surname": "Sinden",
+    "married": "Sinden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JUL 1909",
+      "year": 1909,
+      "iso": "1909-07-12",
+      "precision": "exact",
+      "display": "July 12, 1909",
+      "place": null
+    },
+    "death": {
+      "date": "1 SEP 1950",
+      "year": 1950,
+      "iso": "1950-09-01",
+      "precision": "exact",
+      "display": "September 1, 1950",
+      "place": "\"Boplaas\", Danielskuil",
+      "location": {
+        "label": "\"Boplaas\", Danielskuil",
+        "placeName": "\"Boplaas\"",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Danielskuil",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "30 OCT 1909",
+      "year": 1909,
+      "iso": "1909-10-30",
+      "precision": "exact",
+      "display": "October 30, 1909",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Algemene arbeider / Carpenter",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/7d/89/58/5d/53444840f8909917/record-image_s3hy-65m9-7nq_original.jpg?hash=bfe814eb53a03835cd8fb774d64004f3619dfccb908ad0c92f8ef2cf55ac3e5e.1789455599",
+      "alt": "Frederik Petrus Stephanus Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/7d/89/58/5d/53444840f8909917/record-image_s3hy-65m9-7nq_original.jpg?hash=bfe814eb53a03835cd8fb774d64004f3619dfccb908ad0c92f8ef2cf55ac3e5e.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/00/e5/80/77/53444864089c0aac/record-image__original.jpg?hash=a58eecddebbc798ad22b49171e404f5085641dfd95e2ebfba985d621c54ed6aa.1789455599",
+        "form": "",
+        "title": "record-image_trou 1939 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/51/f1/0a/7a/53444864089aab24/record-image_1__original.jpg?hash=eafcb7d463601390916182c17d3510219e0c730da9d8897c1a8ee808674db307.1789455599",
+        "form": "",
+        "title": "record-image_ dood 1 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      895,
+      2173
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2174,
+      2175,
+      2176,
+      2177,
+      2178,
+      2179,
+      2180,
+      2181,
+      2182,
+      2184,
+      2185
+    ],
+    "parentUnions": [
+      "F557"
+    ],
+    "spouseUnions": [
+      "F1345"
+    ],
+    "parentLinks": [
+      {
+        "id": 895,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2173,
+        "unionId": "F557",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028409565352@",
+    "geniId": "6000000028409565352",
+    "rfn": "geni:6000000028409565352",
+    "changed": "09 SEP 2023"
+  },
+  "page": {
+    "route": "people/2183/",
+    "canonical": "https://www.genepedia.org/people/2183/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

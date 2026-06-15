@@ -1,0 +1,192 @@
+{
+  "id": 3888,
+  "schema": "genepedia/person@1",
+  "slug": "schalk-willem-lubbe",
+  "names": {
+    "display": "Schalk Willem Lubbe",
+    "given": "Schalk Willem",
+    "surname": "Lubbe",
+    "married": "Lubbe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 APR 1848",
+      "year": 1848,
+      "iso": "1848-04-11",
+      "precision": "exact",
+      "display": "April 11, 1848",
+      "place": "Richmond, Northern Cape, South Africa",
+      "location": {
+        "label": "Richmond, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Richmond",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 NOV 1904",
+      "year": 1904,
+      "iso": "1904-11-09",
+      "precision": "exact",
+      "display": "November 9, 1904",
+      "place": null
+    },
+    "baptism": {
+      "date": "1 OCT 1848",
+      "year": 1848,
+      "iso": "1848-10-01",
+      "precision": "exact",
+      "display": "October 1, 1848",
+      "place": "NG Kerk, Richmond - NC, Northern Cape, South Africa",
+      "location": {
+        "label": "NG Kerk, Richmond - NC, Northern Cape, South Africa",
+        "placeName": "NG Kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Richmond - NC",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer / Boer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Schalk Willem Lubbe"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Geni World Family Tree",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1524
+    ],
+    "exSpouses": [],
+    "children": [
+      3889,
+      3890,
+      3891,
+      3892,
+      3893,
+      3894,
+      3895,
+      3896
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F920"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1524,
+        "unionId": "F920",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3889,
+        "unionId": "F920",
+        "type": "biological"
+      },
+      {
+        "id": 3890,
+        "unionId": "F920",
+        "type": "biological"
+      },
+      {
+        "id": 3891,
+        "unionId": "F920",
+        "type": "biological"
+      },
+      {
+        "id": 3892,
+        "unionId": "F920",
+        "type": "biological"
+      },
+      {
+        "id": 3893,
+        "unionId": "F920",
+        "type": "biological"
+      },
+      {
+        "id": 3894,
+        "unionId": "F920",
+        "type": "biological"
+      },
+      {
+        "id": 3895,
+        "unionId": "F920",
+        "type": "biological"
+      },
+      {
+        "id": 3896,
+        "unionId": "F920",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000016552982766@",
+    "geniId": "6000000016552982766",
+    "rfn": "geni:6000000016552982766",
+    "changed": "19 JUL 2018"
+  },
+  "page": {
+    "route": "people/3888/",
+    "canonical": "https://www.genepedia.org/people/3888/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

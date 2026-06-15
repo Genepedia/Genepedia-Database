@@ -1,0 +1,115 @@
+{
+  "id": 1495,
+  "schema": "genepedia/person@1",
+  "slug": "susarah-susanna-botha",
+  "names": {
+    "display": "Susarah Susanna Botha",
+    "given": "Susarah Susanna",
+    "surname": "Botha",
+    "married": "van Zyl",
+    "nick": "San",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1494
+    ],
+    "exSpouses": [],
+    "children": [
+      602,
+      1496,
+      1497,
+      1498,
+      1499,
+      1500
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F383"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1494,
+        "unionId": "F383",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 602,
+        "unionId": "F383",
+        "type": "biological"
+      },
+      {
+        "id": 1496,
+        "unionId": "F383",
+        "type": "biological"
+      },
+      {
+        "id": 1497,
+        "unionId": "F383",
+        "type": "biological"
+      },
+      {
+        "id": 1498,
+        "unionId": "F383",
+        "type": "biological"
+      },
+      {
+        "id": 1499,
+        "unionId": "F383",
+        "type": "biological"
+      },
+      {
+        "id": 1500,
+        "unionId": "F383",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000205256950835@",
+    "geniId": "6000000205256950835",
+    "rfn": "geni:6000000205256950835",
+    "changed": "23 APR 2024"
+  },
+  "page": {
+    "route": "people/1495/",
+    "canonical": "https://www.genepedia.org/people/1495/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

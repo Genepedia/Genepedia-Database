@@ -1,0 +1,136 @@
+{
+  "id": 337,
+  "schema": "genepedia/person@1",
+  "slug": "anna-magdalena-bester-337",
+  "names": {
+    "display": "Anna Magdalena Bester",
+    "given": "Anna Magdalena",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "Annie",
+    "aliases": [
+      "Anna Magdalena Bester"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 JUL 1894",
+      "year": 1894,
+      "iso": "1894-07-01",
+      "precision": "exact",
+      "display": "July 1, 1894",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 APR 1975",
+      "year": 1975,
+      "iso": "1975-04-02",
+      "precision": "exact",
+      "display": "April 2, 1975",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      331,
+      332
+    ],
+    "spouses": [
+      851
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      333,
+      334,
+      335,
+      336,
+      338,
+      339,
+      340,
+      129,
+      341,
+      342
+    ],
+    "parentUnions": [
+      "F107"
+    ],
+    "spouseUnions": [
+      "F235"
+    ],
+    "parentLinks": [
+      {
+        "id": 331,
+        "unionId": "F107",
+        "type": "biological"
+      },
+      {
+        "id": 332,
+        "unionId": "F107",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 851,
+        "unionId": "F235",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065161668844@",
+    "geniId": "6000000065161668844",
+    "rfn": "geni:6000000065161668844",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/337/",
+    "canonical": "https://www.genepedia.org/people/337/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

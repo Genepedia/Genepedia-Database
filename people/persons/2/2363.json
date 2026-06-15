@@ -1,0 +1,103 @@
+{
+  "id": 2363,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-catharina-adriana-magdalena-van-niekerk",
+  "names": {
+    "display": "Johanna Catharina Adriana Magdalena Van Niekerk",
+    "given": "Johanna Catharina Adriana Magdalena",
+    "surname": "Van Niekerk",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1898",
+      "year": 1898,
+      "iso": "1898",
+      "precision": "about",
+      "display": "about 1898",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2360,
+      947
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2361,
+      2362,
+      2364,
+      2365,
+      2366,
+      2367,
+      2368,
+      2369,
+      2370,
+      2371,
+      2372,
+      2373
+    ],
+    "parentUnions": [
+      "F598"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2360,
+        "unionId": "F598",
+        "type": "biological"
+      },
+      {
+        "id": 947,
+        "unionId": "F598",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208124802821@",
+    "geniId": "6000000208124802821",
+    "rfn": "geni:6000000208124802821",
+    "changed": "13 AUG 2024"
+  },
+  "page": {
+    "route": "people/2363/",
+    "canonical": "https://www.genepedia.org/people/2363/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

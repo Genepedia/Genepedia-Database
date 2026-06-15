@@ -1,0 +1,131 @@
+{
+  "id": 4556,
+  "schema": "genepedia/person@1",
+  "slug": "naswi-nyashanu",
+  "names": {
+    "display": "Naswi Nyashanu",
+    "given": "Naswi",
+    "surname": "Nyashanu",
+    "married": "Nyashanu",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 JUN 1905",
+      "year": 1905,
+      "iso": "1905-06-19",
+      "precision": "exact",
+      "display": "June 19, 1905",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "26 FEB 1993",
+      "year": 1993,
+      "iso": "1993-02-26",
+      "precision": "exact",
+      "display": "February 26, 1993",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4557
+    ],
+    "exSpouses": [],
+    "children": [
+      1802
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1089"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4557,
+        "unionId": "F1089",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1802,
+        "unionId": "F1089",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207500527870@",
+    "geniId": "6000000207500527870",
+    "rfn": "geni:6000000207500527870",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/4556/",
+    "canonical": "https://www.genepedia.org/people/4556/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

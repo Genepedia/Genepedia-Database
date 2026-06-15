@@ -1,0 +1,87 @@
+{
+  "id": 2285,
+  "schema": "genepedia/person@1",
+  "slug": "robert-mentasti",
+  "names": {
+    "display": "Robert Mentasti",
+    "given": "Robert",
+    "surname": "Mentasti",
+    "married": "Mentasti",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      918,
+      2283
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2284,
+      2286,
+      2287
+    ],
+    "parentUnions": [
+      "F578"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 918,
+        "unionId": "F578",
+        "type": "biological"
+      },
+      {
+        "id": 2283,
+        "unionId": "F578",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000081296209896@",
+    "geniId": "6000000081296209896",
+    "rfn": "geni:6000000081296209896",
+    "changed": "15 AUG 2018"
+  },
+  "page": {
+    "route": "people/2285/",
+    "canonical": "https://www.genepedia.org/people/2285/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

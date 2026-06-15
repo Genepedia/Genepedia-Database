@@ -1,0 +1,88 @@
+{
+  "id": 3002,
+  "schema": "genepedia/person@1",
+  "slug": "helena",
+  "names": {
+    "display": "Helena",
+    "given": "Helena",
+    "surname": "Fourie",
+    "married": "",
+    "nick": "Helen",
+    "aliases": [
+      "Helen Fourie"
+    ]
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 MAY 1963",
+      "year": 1963,
+      "iso": "1963-05-03",
+      "precision": "exact",
+      "display": "May 3, 1963",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1191
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1885"
+    ],
+    "spouseUnions": [
+      "F735"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1191,
+        "unionId": "F735",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024192856518@",
+    "geniId": "6000000024192856518",
+    "rfn": "geni:6000000024192856518",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3002/",
+    "canonical": "https://www.genepedia.org/people/3002/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

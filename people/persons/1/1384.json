@@ -1,0 +1,263 @@
+{
+  "id": 1384,
+  "schema": "genepedia/person@1",
+  "slug": "anna-wilhelmina-lombard",
+  "names": {
+    "display": "Anna Wilhelmina Lombard",
+    "given": "Anna Wilhelmina",
+    "surname": "Lombard",
+    "married": "de Beer",
+    "nick": "Anna Wilhelmina de Beer",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 MAR 1815",
+      "year": 1815,
+      "iso": "1815-03-30",
+      "precision": "exact",
+      "display": "March 30, 1815",
+      "place": "Beaufort West, Cape Province, South Africa",
+      "location": {
+        "label": "Beaufort West, Cape Province, South Africa",
+        "placeName": "Beaufort West, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 AUG 1869",
+      "year": 1869,
+      "iso": "1869-08-09",
+      "precision": "exact",
+      "display": "August 9, 1869",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "27 OCT 1816",
+      "year": 1816,
+      "iso": "1816-10-27",
+      "precision": "exact",
+      "display": "October 27, 1816",
+      "place": "Paarl, Cape Province, South Africa",
+      "location": {
+        "label": "Paarl, Cape Province, South Africa",
+        "placeName": "Paarl, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3466,
+      3467
+    ],
+    "spouses": [
+      1385
+    ],
+    "exSpouses": [],
+    "children": [
+      1386,
+      1387,
+      1388,
+      1389,
+      1390,
+      563,
+      1391,
+      1392,
+      1393,
+      1394
+    ],
+    "siblings": [
+      3468,
+      3469,
+      3470,
+      3471,
+      3472,
+      3473,
+      3474,
+      3475,
+      3476,
+      3477,
+      3478,
+      3479,
+      3480,
+      3481
+    ],
+    "parentUnions": [
+      "F855"
+    ],
+    "spouseUnions": [
+      "F358"
+    ],
+    "parentLinks": [
+      {
+        "id": 3466,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3467,
+        "unionId": "F855",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1385,
+        "unionId": "F358",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1386,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1387,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1388,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1389,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1390,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 563,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1391,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1392,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1393,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1394,
+        "unionId": "F358",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000012204840827@",
+    "geniId": "6000000012204840827",
+    "rfn": "geni:6000000012204840827",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/1384/",
+    "canonical": "https://www.genepedia.org/people/1384/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

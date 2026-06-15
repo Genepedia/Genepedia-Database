@@ -1,0 +1,123 @@
+{
+  "id": 160,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-van-der-bank",
+  "names": {
+    "display": "Maria Elizabeth van der Bank",
+    "given": "Maria Elizabeth",
+    "surname": "van der Bank",
+    "married": "Jacobs",
+    "nick": "Miemie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 MAY 1920",
+      "year": 1920,
+      "iso": "1920-05-24",
+      "precision": "exact",
+      "display": "May 24, 1920",
+      "place": null
+    },
+    "death": {
+      "date": "15 JAN 2013",
+      "year": 2013,
+      "iso": "2013-01-15",
+      "precision": "exact",
+      "display": "January 15, 2013",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      159,
+      158
+    ],
+    "spouses": [
+      424
+    ],
+    "exSpouses": [],
+    "children": [
+      425
+    ],
+    "siblings": [
+      44,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166
+    ],
+    "parentUnions": [
+      "F51"
+    ],
+    "spouseUnions": [
+      "F133"
+    ],
+    "parentLinks": [
+      {
+        "id": 159,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 158,
+        "unionId": "F51",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 424,
+        "unionId": "F133",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 425,
+        "unionId": "F133",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204083254851@",
+    "geniId": "6000000204083254851",
+    "rfn": "geni:6000000204083254851",
+    "changed": "01 MAY 2024"
+  },
+  "page": {
+    "route": "people/160/",
+    "canonical": "https://www.genepedia.org/people/160/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

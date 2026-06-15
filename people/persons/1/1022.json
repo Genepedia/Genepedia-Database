@@ -1,0 +1,97 @@
+{
+  "id": 1022,
+  "schema": "genepedia/person@1",
+  "slug": "baby-van-der-bank",
+  "names": {
+    "display": "baby ???? van der Bank",
+    "given": "baby ????",
+    "surname": "van der Bank",
+    "married": "van der Bank",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      422
+    ],
+    "exSpouses": [],
+    "children": [
+      1023,
+      1024,
+      1025
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F280"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 422,
+        "unionId": "F280",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1023,
+        "unionId": "F280",
+        "type": "biological"
+      },
+      {
+        "id": 1024,
+        "unionId": "F280",
+        "type": "biological"
+      },
+      {
+        "id": 1025,
+        "unionId": "F280",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000022831114956@",
+    "geniId": "6000000022831114956",
+    "rfn": "geni:6000000022831114956",
+    "changed": "07 DEC 2016"
+  },
+  "page": {
+    "route": "people/1022/",
+    "canonical": "https://www.genepedia.org/people/1022/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 2356,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-andries-petrus-cloete-2356",
+  "names": {
+    "display": "Johannes Andries Petrus Cloete",
+    "given": "Johannes Andries Petrus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2354,
+      2355
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      946,
+      2357,
+      2358,
+      2359
+    ],
+    "parentUnions": [
+      "F597"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2354,
+        "unionId": "F597",
+        "type": "biological"
+      },
+      {
+        "id": 2355,
+        "unionId": "F597",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206510764857@",
+    "geniId": "6000000206510764857",
+    "rfn": "geni:6000000206510764857",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/2356/",
+    "canonical": "https://www.genepedia.org/people/2356/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

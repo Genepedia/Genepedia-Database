@@ -1,0 +1,85 @@
+{
+  "id": 1219,
+  "schema": "genepedia/person@1",
+  "slug": "myburg-1219",
+  "names": {
+    "display": "? Myburg",
+    "given": "?",
+    "surname": "Myburg",
+    "married": "Myburg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1220
+    ],
+    "exSpouses": [],
+    "children": [
+      494
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F315"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1220,
+        "unionId": "F315",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 494,
+        "unionId": "F315",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207508157821@",
+    "geniId": "6000000207508157821",
+    "rfn": "geni:6000000207508157821",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/1219/",
+    "canonical": "https://www.genepedia.org/people/1219/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

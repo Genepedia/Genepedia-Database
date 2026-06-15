@@ -1,0 +1,185 @@
+{
+  "id": 40,
+  "schema": "genepedia/person@1",
+  "slug": "gert-jacobus-roselt",
+  "names": {
+    "display": "Gert Jacobus Roselt",
+    "given": "Gert Jacobus",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 NOV 1926",
+      "year": 1926,
+      "iso": "1926-11-08",
+      "precision": "exact",
+      "display": "November 8, 1926",
+      "place": null
+    },
+    "death": {
+      "date": "30 NOV 2009",
+      "year": 2009,
+      "iso": "2009-11-30",
+      "precision": "exact",
+      "display": "November 30, 2009",
+      "place": null
+    },
+    "baptism": {
+      "date": "12 DEC 1926",
+      "year": 1926,
+      "iso": "1926-12-12",
+      "precision": "exact",
+      "display": "December 12, 1926",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/8f/a0/4c/54/534448656cb7ad37/screenshot_2024-03-12_151042_original.jpg?hash=681fba10756a9b94fe1ff87ef0bb136588f1c844bb2cdfbe19d63fcbf28b2354.1789455599",
+      "alt": "Gert Jacobus Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/8f/a0/4c/54/534448656cb7ad37/screenshot_2024-03-12_151042_original.jpg?hash=681fba10756a9b94fe1ff87ef0bb136588f1c844bb2cdfbe19d63fcbf28b2354.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/6e/d9/86/8f/53444840c04ea4bb/foto_11_troue_bruid_se_familie_saam_met_bruidspaar_jane_roselt_pienaar_original.jpg?hash=32a18329ca0fd0e22297d249e37f7f123c622f3642ff10a5a9cb3d276f996694.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      138,
+      139
+    ],
+    "spouses": [
+      39
+    ],
+    "exSpouses": [],
+    "children": [
+      6,
+      41,
+      42,
+      43
+    ],
+    "siblings": [
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148
+    ],
+    "parentUnions": [
+      "F47"
+    ],
+    "spouseUnions": [
+      "F14"
+    ],
+    "parentLinks": [
+      {
+        "id": 138,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 139,
+        "unionId": "F47",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 39,
+        "unionId": "F14",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 6,
+        "unionId": "F14",
+        "type": "biological"
+      },
+      {
+        "id": 41,
+        "unionId": "F14",
+        "type": "biological"
+      },
+      {
+        "id": 42,
+        "unionId": "F14",
+        "type": "biological"
+      },
+      {
+        "id": 43,
+        "unionId": "F14",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028170989146@",
+    "geniId": "6000000028170989146",
+    "rfn": "geni:6000000028170989146",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/40/",
+    "canonical": "https://www.genepedia.org/people/40/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

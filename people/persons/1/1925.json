@@ -1,0 +1,140 @@
+{
+  "id": 1925,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-maria-roux",
+  "names": {
+    "display": "Johanna Maria Roux",
+    "given": "Johanna Maria",
+    "surname": "Roux",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 MAR 1886",
+      "year": 1886,
+      "iso": "1886-03-28",
+      "precision": "exact",
+      "display": "March 28, 1886",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1923,
+      818
+    ],
+    "spouses": [
+      4955
+    ],
+    "exSpouses": [],
+    "children": [
+      4956,
+      4957,
+      4958,
+      4959,
+      4960
+    ],
+    "siblings": [
+      1924,
+      1926,
+      1927,
+      1928,
+      1929,
+      1930,
+      1931
+    ],
+    "parentUnions": [
+      "F507"
+    ],
+    "spouseUnions": [
+      "F1176"
+    ],
+    "parentLinks": [
+      {
+        "id": 1923,
+        "unionId": "F507",
+        "type": "biological"
+      },
+      {
+        "id": 818,
+        "unionId": "F507",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4955,
+        "unionId": "F1176",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4956,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 4957,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 4958,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 4959,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 4960,
+        "unionId": "F1176",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000089446556821@",
+    "geniId": "6000000089446556821",
+    "rfn": "geni:6000000089446556821",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1925/",
+    "canonical": "https://www.genepedia.org/people/1925/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": 2554,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-petrus-petrorius-jacobs",
+  "names": {
+    "display": "Daniel Petrus Petrorius Jacobs",
+    "given": "Daniel Petrus Petrorius",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 NOV 1972",
+      "year": 1972,
+      "iso": "1972-11-01",
+      "precision": "exact",
+      "display": "November 1, 1972",
+      "place": null
+    },
+    "death": {
+      "date": "9 APR 2005",
+      "year": 2005,
+      "iso": "2005-04-09",
+      "precision": "exact",
+      "display": "April 9, 2005",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1037,
+      2553
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F633"
+    ],
+    "spouseUnions": [
+      "F1564"
+    ],
+    "parentLinks": [
+      {
+        "id": 1037,
+        "unionId": "F633",
+        "type": "biological"
+      },
+      {
+        "id": 2553,
+        "unionId": "F633",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040070057611@",
+    "geniId": "6000000040070057611",
+    "rfn": "geni:6000000040070057611",
+    "changed": "09 FEB 2016"
+  },
+  "page": {
+    "route": "people/2554/",
+    "canonical": "https://www.genepedia.org/people/2554/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

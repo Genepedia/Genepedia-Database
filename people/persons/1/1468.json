@@ -1,0 +1,85 @@
+{
+  "id": 1468,
+  "schema": "genepedia/person@1",
+  "slug": "koos-jr-de-beer",
+  "names": {
+    "display": "Koos Jr de Beer",
+    "given": "Koos Jr",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      590,
+      1466
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1467
+    ],
+    "parentUnions": [
+      "F372"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 590,
+        "unionId": "F372",
+        "type": "biological"
+      },
+      {
+        "id": 1466,
+        "unionId": "F372",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206608084928@",
+    "geniId": "6000000206608084928",
+    "rfn": "geni:6000000206608084928",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1468/",
+    "canonical": "https://www.genepedia.org/people/1468/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

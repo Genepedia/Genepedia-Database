@@ -1,0 +1,152 @@
+{
+  "id": 64,
+  "schema": "genepedia/person@1",
+  "slug": "francois-marais-64",
+  "names": {
+    "display": "Francois Marais",
+    "given": "Francois",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "AFT 1984",
+      "year": 1984,
+      "iso": "1984",
+      "precision": "after",
+      "display": "after 1984",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Programmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/65/31/29/04/534448659f19754a/screenshot_2024-04-06_184407_original.jpg?hash=7dae89fff08c7d251e110ca5168b37a22f8dcd73e6112899eb7343c7ad5b39d1.1789455599",
+      "alt": "Francois Marais"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/65/31/29/04/534448659f19754a/screenshot_2024-04-06_184407_original.jpg?hash=7dae89fff08c7d251e110ca5168b37a22f8dcd73e6112899eb7343c7ad5b39d1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      60,
+      61
+    ],
+    "spouses": [
+      207,
+      209
+    ],
+    "exSpouses": [],
+    "children": [
+      208
+    ],
+    "siblings": [
+      11,
+      62,
+      63
+    ],
+    "parentUnions": [
+      "F21"
+    ],
+    "spouseUnions": [
+      "F66",
+      "F67"
+    ],
+    "parentLinks": [
+      {
+        "id": 60,
+        "unionId": "F21",
+        "type": "biological"
+      },
+      {
+        "id": 61,
+        "unionId": "F21",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 207,
+        "unionId": "F66",
+        "role": "partner"
+      },
+      {
+        "id": 209,
+        "unionId": "F67",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 208,
+        "unionId": "F66",
+        "type": "biological"
+      },
+      {
+        "id": 208,
+        "unionId": "F67",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000110818658915@",
+    "geniId": "6000000110818658915",
+    "rfn": "geni:6000000110818658915",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/64/",
+    "canonical": "https://www.genepedia.org/people/64/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

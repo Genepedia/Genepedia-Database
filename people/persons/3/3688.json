@@ -1,0 +1,147 @@
+{
+  "id": 3688,
+  "schema": "genepedia/person@1",
+  "slug": "jan-jacob-anthonie-van-bosch",
+  "names": {
+    "display": "Jan Jacob Anthonie van Bosch",
+    "given": "Jan Jacob Anthonie",
+    "surname": "van Bosch",
+    "married": "van Bosch",
+    "nick": "Jan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 AUG 1891",
+      "year": 1891,
+      "iso": "1891-08-30",
+      "precision": "exact",
+      "display": "August 30, 1891",
+      "place": null
+    },
+    "death": {
+      "date": "16 APR 1934",
+      "year": 1934,
+      "iso": "1934-04-16",
+      "precision": "exact",
+      "display": "April 16, 1934",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Augsburg Municipal Cemetery, Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Augsburg Municipal Cemetery, Clanwilliam, Cape Province, South Africa",
+        "placeName": "Augsburg Municipal Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/86/5d/6e/c7/5344486467418895/bosch_jan_jacobus_anthonie_van_1891-1934_original.jpg?hash=dc06b9a933b7bb2bad6c31b854be19742dc24c2662a69cad35b697398fc4d826.1789455599",
+      "alt": "Jan Jacob Anthonie van Bosch"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/86/5d/6e/c7/5344486467418895/bosch_jan_jacobus_anthonie_van_1891-1934_original.jpg?hash=dc06b9a933b7bb2bad6c31b854be19742dc24c2662a69cad35b697398fc4d826.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3679,
+      3678
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1410,
+      3680,
+      3681,
+      3682,
+      3683,
+      3684,
+      3685,
+      3686,
+      3687,
+      3689,
+      3690,
+      3691,
+      3692
+    ],
+    "parentUnions": [
+      "F883"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3679,
+        "unionId": "F883",
+        "type": "biological"
+      },
+      {
+        "id": 3678,
+        "unionId": "F883",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021196770155@",
+    "geniId": "6000000021196770155",
+    "rfn": "geni:6000000021196770155",
+    "changed": "29 OCT 2023"
+  },
+  "page": {
+    "route": "people/3688/",
+    "canonical": "https://www.genepedia.org/people/3688/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

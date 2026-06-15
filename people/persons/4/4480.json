@@ -1,0 +1,156 @@
+{
+  "id": 4480,
+  "schema": "genepedia/person@1",
+  "slug": "yetta-etty-kree",
+  "names": {
+    "display": "Yetta (Etty) Kree",
+    "given": "Yetta (Etty)",
+    "surname": "Kree",
+    "married": "Ginsberg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1885",
+      "year": 1885,
+      "iso": "1885",
+      "precision": "exact",
+      "display": "1885",
+      "place": "Lithuania",
+      "location": {
+        "label": "Lithuania",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 SEP 1943",
+      "year": 1943,
+      "iso": "1943-09-16",
+      "precision": "exact",
+      "display": "September 16, 1943",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1747,
+      4479
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4481,
+      4482
+    ],
+    "parentUnions": [
+      "F1061"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1747,
+        "unionId": "F1061",
+        "type": "biological"
+      },
+      {
+        "id": 4479,
+        "unionId": "F1061",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I312360551020004618@",
+    "geniId": "312360551020004618",
+    "rfn": "geni:312360551020004618",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/4480/",
+    "canonical": "https://www.genepedia.org/people/4480/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 2266,
+  "schema": "genepedia/person@1",
+  "slug": "andre-kruger",
+  "names": {
+    "display": "Andre Kruger",
+    "given": "Andre",
+    "surname": "Kruger",
+    "married": "Kruger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1959",
+      "year": 1959,
+      "iso": "1959",
+      "precision": "exact",
+      "display": "1959",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/4f/9c/c3/ee/5344484dd6a21024/andre_kruger_original.jpg?hash=d9ae4d8aa3814e642b8ee723e9cd4587818569017efb258b47407784302db3ef.1789455599",
+      "alt": "Andre Kruger"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/4f/9c/c3/ee/5344484dd6a21024/andre_kruger_original.jpg?hash=d9ae4d8aa3814e642b8ee723e9cd4587818569017efb258b47407784302db3ef.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2264,
+      915
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2265,
+      2267,
+      2268
+    ],
+    "parentUnions": [
+      "F574"
+    ],
+    "spouseUnions": [
+      "F1406"
+    ],
+    "parentLinks": [
+      {
+        "id": 2264,
+        "unionId": "F574",
+        "type": "biological"
+      },
+      {
+        "id": 915,
+        "unionId": "F574",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029818702855@",
+    "geniId": "6000000029818702855",
+    "rfn": "geni:6000000029818702855",
+    "changed": "08 AUG 2019"
+  },
+  "page": {
+    "route": "people/2266/",
+    "canonical": "https://www.genepedia.org/people/2266/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

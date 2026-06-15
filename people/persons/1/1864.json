@@ -1,0 +1,170 @@
+{
+  "id": 1864,
+  "schema": "genepedia/person@1",
+  "slug": "gertbrech-isabella-bester",
+  "names": {
+    "display": "Gertbrech Isabella Bester",
+    "given": "Gertbrech Isabella",
+    "surname": "Bester",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 APR 1879",
+      "year": 1879,
+      "iso": "1879-04-17",
+      "precision": "exact",
+      "display": "April 17, 1879",
+      "place": null
+    },
+    "death": {
+      "date": "10 NOV 1958",
+      "year": 1958,
+      "iso": "1958-11-10",
+      "precision": "exact",
+      "display": "November 10, 1958",
+      "place": null
+    },
+    "baptism": {
+      "date": "1 JUN 1879",
+      "year": 1879,
+      "iso": "1879-06-01",
+      "precision": "exact",
+      "display": "June 1, 1879",
+      "place": "Colesberg, South Africa",
+      "location": {
+        "label": "Colesberg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      812,
+      1863
+    ],
+    "spouses": [
+      4679
+    ],
+    "exSpouses": [],
+    "children": [
+      4680,
+      4681,
+      4682,
+      4683,
+      4684
+    ],
+    "siblings": [
+      1865,
+      1866,
+      1867,
+      1868,
+      1869,
+      1870,
+      1871
+    ],
+    "parentUnions": [
+      "F496"
+    ],
+    "spouseUnions": [
+      "F1115"
+    ],
+    "parentLinks": [
+      {
+        "id": 812,
+        "unionId": "F496",
+        "type": "biological"
+      },
+      {
+        "id": 1863,
+        "unionId": "F496",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4679,
+        "unionId": "F1115",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4680,
+        "unionId": "F1115",
+        "type": "biological"
+      },
+      {
+        "id": 4681,
+        "unionId": "F1115",
+        "type": "biological"
+      },
+      {
+        "id": 4682,
+        "unionId": "F1115",
+        "type": "biological"
+      },
+      {
+        "id": 4683,
+        "unionId": "F1115",
+        "type": "biological"
+      },
+      {
+        "id": 4684,
+        "unionId": "F1115",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000040337348923@",
+    "geniId": "6000000040337348923",
+    "rfn": "geni:6000000040337348923",
+    "changed": "24 SEP 2023"
+  },
+  "page": {
+    "route": "people/1864/",
+    "canonical": "https://www.genepedia.org/people/1864/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

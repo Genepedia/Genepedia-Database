@@ -1,0 +1,118 @@
+{
+  "id": 4866,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-magdalena-4866",
+  "names": {
+    "display": "Cornelia Magdalena",
+    "given": "Cornelia Magdalena",
+    "surname": "Botes",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 JUL 1919",
+      "year": 1919,
+      "iso": "1919-07-03",
+      "precision": "exact",
+      "display": "July 3, 1919",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "5 OCT 1919",
+      "year": 1919,
+      "iso": "1919-10-05",
+      "precision": "exact",
+      "display": "October 5, 1919",
+      "place": "Phillipstown",
+      "location": {
+        "label": "Phillipstown",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Phillipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4861,
+      1906
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4862,
+      4863,
+      4864,
+      4865
+    ],
+    "parentUnions": [
+      "F1157"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4861,
+        "unionId": "F1157",
+        "type": "biological"
+      },
+      {
+        "id": 1906,
+        "unionId": "F1157",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000190856157833@",
+    "geniId": "6000000190856157833",
+    "rfn": "geni:6000000190856157833",
+    "changed": "03 MAY 2024"
+  },
+  "page": {
+    "route": "people/4866/",
+    "canonical": "https://www.genepedia.org/people/4866/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

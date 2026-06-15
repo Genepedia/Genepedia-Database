@@ -1,0 +1,195 @@
+{
+  "id": 652,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-de-beer",
+  "names": {
+    "display": "Johannes Petrus De Beer",
+    "given": "Johannes Petrus",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 JUL 1881",
+      "year": 1881,
+      "iso": "1881-07-14",
+      "precision": "exact",
+      "display": "July 14, 1881",
+      "place": "Dewetsdorp, Free State, South Africa",
+      "location": {
+        "label": "Dewetsdorp, Free State, South Africa",
+        "placeName": "Dewetsdorp, Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 OCT 1918",
+      "year": 1918,
+      "iso": "1918-10-23",
+      "precision": "exact",
+      "display": "October 23, 1918",
+      "place": "Germiston, Transvaal, South Africa",
+      "location": {
+        "label": "Germiston, Transvaal, South Africa",
+        "placeName": "Germiston, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "6 NOV 1881",
+      "year": 1881,
+      "iso": "1881-11-06",
+      "precision": "exact",
+      "display": "November 6, 1881",
+      "place": "Dewetsdorp, Free State, South Africa",
+      "location": {
+        "label": "Dewetsdorp, Free State, South Africa",
+        "placeName": "Dewetsdorp, Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Germiston, Transvaal, South Africa",
+      "location": {
+        "label": "Germiston, Transvaal, South Africa",
+        "placeName": "Germiston, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      646,
+      645
+    ],
+    "spouses": [
+      1624
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      647,
+      648,
+      649,
+      650,
+      651,
+      653,
+      654,
+      247
+    ],
+    "parentUnions": [
+      "F181"
+    ],
+    "spouseUnions": [
+      "F416"
+    ],
+    "parentLinks": [
+      {
+        "id": 646,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 645,
+        "unionId": "F181",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1624,
+        "unionId": "F416",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000061611647004@",
+    "geniId": "6000000061611647004",
+    "rfn": "geni:6000000061611647004",
+    "changed": "14 JUL 2024"
+  },
+  "page": {
+    "route": "people/652/",
+    "canonical": "https://www.genepedia.org/people/652/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

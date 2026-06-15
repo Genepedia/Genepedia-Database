@@ -1,0 +1,191 @@
+{
+  "id": 1577,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-pretorius",
+  "names": {
+    "display": "Petrus Johannes Pretorius",
+    "given": "Petrus Johannes",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JAN 1891",
+      "year": 1891,
+      "iso": "1891-01-12",
+      "precision": "exact",
+      "display": "January 12, 1891",
+      "place": null
+    },
+    "death": {
+      "date": "21 JUN 1960",
+      "year": 1960,
+      "iso": "1960-06-21",
+      "precision": "exact",
+      "display": "June 21, 1960",
+      "place": null
+    },
+    "baptism": {
+      "date": "29 MAR 1891",
+      "year": 1891,
+      "iso": "1891-03-29",
+      "precision": "exact",
+      "display": "March 29, 1891",
+      "place": "Frankfort, Free State, South Africa",
+      "location": {
+        "label": "Frankfort, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Frankfort",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Benoni Cemetery, Gauteng, South Africa",
+      "location": {
+        "label": "Benoni Cemetery, Gauteng, South Africa",
+        "placeName": "Benoni Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1575,
+      1576
+    ],
+    "spouses": [
+      4160,
+      4162,
+      4163,
+      4164
+    ],
+    "exSpouses": [],
+    "children": [
+      4161
+    ],
+    "siblings": [
+      1578,
+      634,
+      1579,
+      1580,
+      1581,
+      1582,
+      1583
+    ],
+    "parentUnions": [
+      "F400"
+    ],
+    "spouseUnions": [
+      "F969",
+      "F970",
+      "F971",
+      "F972"
+    ],
+    "parentLinks": [
+      {
+        "id": 1575,
+        "unionId": "F400",
+        "type": "biological"
+      },
+      {
+        "id": 1576,
+        "unionId": "F400",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4160,
+        "unionId": "F969",
+        "role": "partner"
+      },
+      {
+        "id": 4162,
+        "unionId": "F970",
+        "role": "partner"
+      },
+      {
+        "id": 4163,
+        "unionId": "F971",
+        "role": "partner"
+      },
+      {
+        "id": 4164,
+        "unionId": "F972",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4161,
+        "unionId": "F969",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000091203615893@",
+    "geniId": "6000000091203615893",
+    "rfn": "geni:6000000091203615893",
+    "changed": "08 JUL 2025"
+  },
+  "page": {
+    "route": "people/1577/",
+    "canonical": "https://www.genepedia.org/people/1577/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

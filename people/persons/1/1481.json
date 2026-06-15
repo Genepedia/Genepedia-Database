@@ -1,0 +1,108 @@
+{
+  "id": 1481,
+  "schema": "genepedia/person@1",
+  "slug": "zani",
+  "names": {
+    "display": "Zani",
+    "given": "Zani",
+    "surname": "de Beer",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "6 DEC 1994",
+      "year": 1994,
+      "iso": "1994-12-06",
+      "precision": "exact",
+      "display": "December 6, 1994",
+      "place": "Femina Clinic, South Africa",
+      "location": {
+        "label": "Femina Clinic, South Africa",
+        "placeName": "Femina Clinic",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      594,
+      1479
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1480
+    ],
+    "parentUnions": [
+      "F378"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 594,
+        "unionId": "F378",
+        "type": "biological"
+      },
+      {
+        "id": 1479,
+        "unionId": "F378",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206611610846@",
+    "geniId": "6000000206611610846",
+    "rfn": "geni:6000000206611610846",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1481/",
+    "canonical": "https://www.genepedia.org/people/1481/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 3079,
+  "schema": "genepedia/person@1",
+  "slug": "lindbergh",
+  "names": {
+    "display": "? Lindbergh",
+    "given": "?",
+    "surname": "Lindbergh",
+    "married": "Lindbergh",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1232
+    ],
+    "exSpouses": [],
+    "children": [
+      3080,
+      3081
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F758"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1232,
+        "unionId": "F758",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3080,
+        "unionId": "F758",
+        "type": "biological"
+      },
+      {
+        "id": 3081,
+        "unionId": "F758",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222068363857@",
+    "geniId": "6000000222068363857",
+    "rfn": "geni:6000000222068363857",
+    "changed": "03 NOV 2025"
+  },
+  "page": {
+    "route": "people/3079/",
+    "canonical": "https://www.genepedia.org/people/3079/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

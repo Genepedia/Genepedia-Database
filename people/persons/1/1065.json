@@ -1,0 +1,185 @@
+{
+  "id": 1065,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-maria-jansen-van-vuuren",
+  "names": {
+    "display": "Susanna Maria Jansen van Vuuren",
+    "given": "Susanna Maria",
+    "surname": "Jansen van Vuuren",
+    "married": "Graaff",
+    "nick": "de Graaff",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 FEB 1807",
+      "year": 1807,
+      "iso": "1807-02-08",
+      "precision": "exact",
+      "display": "February 8, 1807",
+      "place": "Swellendam, WC, South Africa",
+      "location": {
+        "label": "Swellendam, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "6740",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2594,
+      2593
+    ],
+    "spouses": [
+      1066
+    ],
+    "exSpouses": [],
+    "children": [
+      430,
+      1067,
+      1068,
+      1069,
+      1070,
+      1071,
+      1072,
+      1073,
+      1074
+    ],
+    "siblings": [
+      2595,
+      2596,
+      2597,
+      2598,
+      2599,
+      2600,
+      2601,
+      2602,
+      2603,
+      2604,
+      2605,
+      2606
+    ],
+    "parentUnions": [
+      "F642"
+    ],
+    "spouseUnions": [
+      "F286"
+    ],
+    "parentLinks": [
+      {
+        "id": 2594,
+        "unionId": "F642",
+        "type": "biological"
+      },
+      {
+        "id": 2593,
+        "unionId": "F642",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1066,
+        "unionId": "F286",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 430,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1067,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1068,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1069,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1070,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1071,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1072,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1073,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1074,
+        "unionId": "F286",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000017605208108@",
+    "geniId": "6000000017605208108",
+    "rfn": "geni:6000000017605208108",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1065/",
+    "canonical": "https://www.genepedia.org/people/1065/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

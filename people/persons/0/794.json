@@ -1,0 +1,154 @@
+{
+  "id": 794,
+  "schema": "genepedia/person@1",
+  "slug": "john-william-harold-ellis",
+  "names": {
+    "display": "John William Harold Ellis",
+    "given": "John William Harold",
+    "surname": "Ellis",
+    "married": "Ellis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1923",
+      "year": 1923,
+      "iso": "1923",
+      "precision": "exact",
+      "display": "1923",
+      "place": null
+    },
+    "death": {
+      "date": "1982",
+      "year": 1982,
+      "iso": "1982",
+      "precision": "exact",
+      "display": "1982",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/fa/b2/42/f0/534448680c2da4d3/jpg_original.jpg?hash=2edba54cd3ebe3accd3a85e7d761bbc294ce490c2bde9997e7a897a9b9cb5679.1789455599",
+      "alt": "John William Harold Ellis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/fa/b2/42/f0/534448680c2da4d3/jpg_original.jpg?hash=2edba54cd3ebe3accd3a85e7d761bbc294ce490c2bde9997e7a897a9b9cb5679.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1829,
+      1830
+    ],
+    "spouses": [
+      795
+    ],
+    "exSpouses": [],
+    "children": [
+      313,
+      796,
+      797,
+      798,
+      799
+    ],
+    "siblings": [
+      1831,
+      1832
+    ],
+    "parentUnions": [
+      "F484"
+    ],
+    "spouseUnions": [
+      "F222"
+    ],
+    "parentLinks": [
+      {
+        "id": 1829,
+        "unionId": "F484",
+        "type": "biological"
+      },
+      {
+        "id": 1830,
+        "unionId": "F484",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 795,
+        "unionId": "F222",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 313,
+        "unionId": "F222",
+        "type": "biological"
+      },
+      {
+        "id": 796,
+        "unionId": "F222",
+        "type": "biological"
+      },
+      {
+        "id": 797,
+        "unionId": "F222",
+        "type": "biological"
+      },
+      {
+        "id": 798,
+        "unionId": "F222",
+        "type": "biological"
+      },
+      {
+        "id": 799,
+        "unionId": "F222",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207953514833@",
+    "geniId": "6000000207953514833",
+    "rfn": "geni:6000000207953514833",
+    "changed": "11 FEB 2025"
+  },
+  "page": {
+    "route": "people/794/",
+    "canonical": "https://www.genepedia.org/people/794/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

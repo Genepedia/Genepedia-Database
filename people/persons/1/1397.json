@@ -1,0 +1,125 @@
+{
+  "id": 1397,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-meintjes",
+  "names": {
+    "display": "Daniel Johannes Meintjes",
+    "given": "Daniel  Johannes",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 SEP 1844",
+      "year": 1844,
+      "iso": "1844-09-05",
+      "precision": "exact",
+      "display": "September 5, 1844",
+      "place": "Aberdeen, Cape, South Africa",
+      "location": {
+        "label": "Aberdeen, Cape, South Africa",
+        "placeName": "Aberdeen",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 5 SEP 1844",
+      "year": 1844,
+      "iso": "1844-09-05",
+      "precision": "about",
+      "display": "about September 5, 1844",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1396,
+      1395
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1398,
+      1399,
+      1400,
+      564,
+      1401,
+      1402,
+      1403,
+      1404,
+      1405
+    ],
+    "parentUnions": [
+      "F359"
+    ],
+    "spouseUnions": [
+      "F870"
+    ],
+    "parentLinks": [
+      {
+        "id": 1396,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1395,
+        "unionId": "F359",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000010557984976@",
+    "geniId": "6000000010557984976",
+    "rfn": "geni:6000000010557984976",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1397/",
+    "canonical": "https://www.genepedia.org/people/1397/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

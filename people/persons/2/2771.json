@@ -1,0 +1,92 @@
+{
+  "id": 2771,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobus-scheepers",
+  "names": {
+    "display": "Daniel Jacobus Scheepers",
+    "given": "Daniel Jacobus",
+    "surname": "Scheepers",
+    "married": "Scheepers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 JAN 1918",
+      "year": 1918,
+      "iso": "1918-01-30",
+      "precision": "exact",
+      "display": "January 30, 1918",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1123,
+      2770
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F686"
+    ],
+    "spouseUnions": [
+      "F1718"
+    ],
+    "parentLinks": [
+      {
+        "id": 1123,
+        "unionId": "F686",
+        "type": "biological"
+      },
+      {
+        "id": 2770,
+        "unionId": "F686",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000091170708905@",
+    "geniId": "6000000091170708905",
+    "rfn": "geni:6000000091170708905",
+    "changed": "16 APR 2019"
+  },
+  "page": {
+    "route": "people/2771/",
+    "canonical": "https://www.genepedia.org/people/2771/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

@@ -1,0 +1,95 @@
+{
+  "id": 804,
+  "schema": "genepedia/person@1",
+  "slug": "jasmine-crous",
+  "names": {
+    "display": "Jasmine Crous",
+    "given": "Jasmine",
+    "surname": "Crous",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e7/6a/e7/33/53444866573994f0/screenshot_2024-08-07_135504_original.jpg?hash=24108565d4b5aaabaf991a75beb881dedbfc3ee196db5a1af96e9a1d47951be1.1789455599",
+      "alt": "Jasmine Crous"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e7/6a/e7/33/53444866573994f0/screenshot_2024-08-07_135504_original.jpg?hash=24108565d4b5aaabaf991a75beb881dedbfc3ee196db5a1af96e9a1d47951be1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      803,
+      315
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F224"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 803,
+        "unionId": "F224",
+        "type": "biological"
+      },
+      {
+        "id": 315,
+        "unionId": "F224",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207951378879@",
+    "geniId": "6000000207951378879",
+    "rfn": "geni:6000000207951378879",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/804/",
+    "canonical": "https://www.genepedia.org/people/804/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

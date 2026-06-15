@@ -1,0 +1,146 @@
+{
+  "id": 1074,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-hendrik-graaff",
+  "names": {
+    "display": "Daniel Johannes Hendrik Graaff",
+    "given": "Daniel Johannes Hendrik",
+    "surname": "Graaff",
+    "married": "Graaff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 JAN 1848",
+      "year": 1848,
+      "iso": "1848-01-01",
+      "precision": "exact",
+      "display": "January 1, 1848",
+      "place": null
+    },
+    "death": {
+      "date": "3 SEP 1923",
+      "year": 1923,
+      "iso": "1923-09-03",
+      "precision": "exact",
+      "display": "September 3, 1923",
+      "place": "Krokkedildrift, Pretoria, Transvaal.",
+      "location": {
+        "label": "Krokkedildrift, Pretoria, Transvaal.",
+        "placeName": "Krokkedildrift, Pretoria, Transvaal.",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1066,
+      1065
+    ],
+    "spouses": [
+      2663
+    ],
+    "exSpouses": [],
+    "children": [
+      1126,
+      2664
+    ],
+    "siblings": [
+      430,
+      1067,
+      1068,
+      1069,
+      1070,
+      1071,
+      1072,
+      1073
+    ],
+    "parentUnions": [
+      "F286"
+    ],
+    "spouseUnions": [
+      "F652"
+    ],
+    "parentLinks": [
+      {
+        "id": 1066,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1065,
+        "unionId": "F286",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2663,
+        "unionId": "F652",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1126,
+        "unionId": "F652",
+        "type": "biological"
+      },
+      {
+        "id": 2664,
+        "unionId": "F652",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027014050972@",
+    "geniId": "6000000027014050972",
+    "rfn": "geni:6000000027014050972",
+    "changed": "17 NOV 2022"
+  },
+  "page": {
+    "route": "people/1074/",
+    "canonical": "https://www.genepedia.org/people/1074/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

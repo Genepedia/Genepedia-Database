@@ -1,0 +1,91 @@
+{
+  "id": 1136,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-andreas-jansen-van-vuuren",
+  "names": {
+    "display": "Daniël Johannes Andreas Jansen van Vuuren",
+    "given": "Daniël Johannes Andreas",
+    "surname": "Jansen van Vuuren",
+    "married": "Jansen van Vuuren",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1867",
+      "year": 1867,
+      "iso": "1867",
+      "precision": "exact",
+      "display": "1867",
+      "place": null
+    },
+    "death": {
+      "date": "1938",
+      "year": 1938,
+      "iso": "1938",
+      "precision": "exact",
+      "display": "1938",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      442
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F300"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 442,
+        "unionId": "F300",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027004304102@",
+    "geniId": "6000000027004304102",
+    "rfn": "geni:6000000027004304102",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1136/",
+    "canonical": "https://www.genepedia.org/people/1136/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

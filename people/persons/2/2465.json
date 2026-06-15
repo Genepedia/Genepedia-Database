@@ -1,0 +1,96 @@
+{
+  "id": 2465,
+  "schema": "genepedia/person@1",
+  "slug": "jacob-christoffel-van-der-bank",
+  "names": {
+    "display": "Jacob Christoffel van der Bank",
+    "given": "Jacob Christoffel",
+    "surname": "van der Bank",
+    "married": "van der Bank",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 AUG 1825",
+      "year": 1825,
+      "iso": "1825-08-06",
+      "precision": "exact",
+      "display": "August 6, 1825",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1009,
+      2459
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2460,
+      2461,
+      2462,
+      2463,
+      2464
+    ],
+    "parentUnions": [
+      "F619"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1009,
+        "unionId": "F619",
+        "type": "biological"
+      },
+      {
+        "id": 2459,
+        "unionId": "F619",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040374321243@",
+    "geniId": "6000000040374321243",
+    "rfn": "geni:6000000040374321243",
+    "changed": "20 FEB 2016"
+  },
+  "page": {
+    "route": "people/2465/",
+    "canonical": "https://www.genepedia.org/people/2465/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

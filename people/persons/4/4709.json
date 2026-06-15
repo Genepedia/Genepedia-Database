@@ -1,0 +1,120 @@
+{
+  "id": 4709,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-adriana-burger",
+  "names": {
+    "display": "Jacoba Adriana Burger",
+    "given": "Jacoba Adriana",
+    "surname": "Burger",
+    "married": "Burger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "12 OCT 1929",
+      "year": 1929,
+      "iso": "1929-10-12",
+      "precision": "exact",
+      "display": "October 12, 1929",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "16 FEB 1930",
+      "year": 1930,
+      "iso": "1930-02-16",
+      "precision": "exact",
+      "display": "February 16, 1930",
+      "place": "Trompsburg, Free State, South Africa",
+      "location": {
+        "label": "Trompsburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Trompsburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4702,
+      1869
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4703,
+      4704,
+      4705,
+      4706,
+      4707,
+      4708
+    ],
+    "parentUnions": [
+      "F1122"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4702,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 1869,
+        "unionId": "F1122",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066267641951@",
+    "geniId": "6000000066267641951",
+    "rfn": "geni:6000000066267641951",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/4709/",
+    "canonical": "https://www.genepedia.org/people/4709/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

@@ -1,0 +1,151 @@
+{
+  "id": 2448,
+  "schema": "genepedia/person@1",
+  "slug": "christina-geertruyda-esterhuizen",
+  "names": {
+    "display": "Christina Geertruyda Esterhuizen",
+    "given": "Christina Geertruyda",
+    "surname": "Esterhuizen",
+    "married": "Jooste",
+    "nick": "Geertruida",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 NOV 1807",
+      "year": 1807,
+      "iso": "1807-11-10",
+      "precision": "exact",
+      "display": "November 10, 1807",
+      "place": "Worcester, Western Cape, South Africa",
+      "location": {
+        "label": "Worcester, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 DEC 1841",
+      "year": 1841,
+      "iso": "1841-12-21",
+      "precision": "exact",
+      "display": "December 21, 1841",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2447
+    ],
+    "exSpouses": [],
+    "children": [
+      1001,
+      2449,
+      2450,
+      2451
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1494"
+    ],
+    "spouseUnions": [
+      "F616"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2447,
+        "unionId": "F616",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1001,
+        "unionId": "F616",
+        "type": "biological"
+      },
+      {
+        "id": 2449,
+        "unionId": "F616",
+        "type": "biological"
+      },
+      {
+        "id": 2450,
+        "unionId": "F616",
+        "type": "biological"
+      },
+      {
+        "id": 2451,
+        "unionId": "F616",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000008097813399@",
+    "geniId": "6000000008097813399",
+    "rfn": "geni:6000000008097813399",
+    "changed": "26 OCT 2024"
+  },
+  "page": {
+    "route": "people/2448/",
+    "canonical": "https://www.genepedia.org/people/2448/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

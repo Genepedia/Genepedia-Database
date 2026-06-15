@@ -1,0 +1,131 @@
+{
+  "id": 409,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-smit",
+  "names": {
+    "display": "Maria Elizabeth Smit",
+    "given": "Maria Elizabeth",
+    "surname": "Smit",
+    "married": "Beukus",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      994,
+      995
+    ],
+    "spouses": [
+      410
+    ],
+    "exSpouses": [],
+    "children": [
+      158,
+      411,
+      412,
+      413,
+      414,
+      415
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F273"
+    ],
+    "spouseUnions": [
+      "F131"
+    ],
+    "parentLinks": [
+      {
+        "id": 994,
+        "unionId": "F273",
+        "type": "biological"
+      },
+      {
+        "id": 995,
+        "unionId": "F273",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 410,
+        "unionId": "F131",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 158,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 411,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 412,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 413,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 414,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 415,
+        "unionId": "F131",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204876763968@",
+    "geniId": "6000000204876763968",
+    "rfn": "geni:6000000204876763968",
+    "changed": "10 MAR 2025"
+  },
+  "page": {
+    "route": "people/409/",
+    "canonical": "https://www.genepedia.org/people/409/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

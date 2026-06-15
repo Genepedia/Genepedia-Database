@@ -1,0 +1,85 @@
+{
+  "id": 4504,
+  "schema": "genepedia/person@1",
+  "slug": "amy-arkoff",
+  "names": {
+    "display": "Amy Arkoff",
+    "given": "Amy",
+    "surname": "Arkoff",
+    "married": "Arkoff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1764,
+      4503
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4505
+    ],
+    "parentUnions": [
+      "F1070"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1764,
+        "unionId": "F1070",
+        "type": "biological"
+      },
+      {
+        "id": 4503,
+        "unionId": "F1070",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000000500723430@",
+    "geniId": "6000000000500723430",
+    "rfn": "geni:6000000000500723430",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/4504/",
+    "canonical": "https://www.genepedia.org/people/4504/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

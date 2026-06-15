@@ -1,0 +1,160 @@
+{
+  "id": 648,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-matthys-de-beer",
+  "names": {
+    "display": "Johannes Matthys De Beer",
+    "given": "Johannes Matthys",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JAN 1873",
+      "year": 1873,
+      "iso": "1873-01-23",
+      "precision": "exact",
+      "display": "January 23, 1873",
+      "place": "Ventersburg, Orange Free State, South Africa",
+      "location": {
+        "label": "Ventersburg, Orange Free State, South Africa",
+        "placeName": "Ventersburg, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 DEC 1923",
+      "year": 1923,
+      "iso": "1923-12-24",
+      "precision": "exact",
+      "display": "December 24, 1923",
+      "place": "Bloemfontein, Orange Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Orange Free State, South Africa",
+        "placeName": "Bloemfontein, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/5a/83/00/b5/5344486632674c07/abw_leage_of_veterans_original.jpg?hash=f1ac8ac6ebbe2b1d273e4c8fe0ea7c81192139c0311fb4da1600a8c36be52960.1789455599",
+      "alt": "Johannes Matthys De Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/5a/83/00/b5/5344486632674c07/abw_leage_of_veterans_original.jpg?hash=f1ac8ac6ebbe2b1d273e4c8fe0ea7c81192139c0311fb4da1600a8c36be52960.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      646,
+      645
+    ],
+    "spouses": [
+      1618
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      647,
+      649,
+      650,
+      651,
+      652,
+      653,
+      654,
+      247
+    ],
+    "parentUnions": [
+      "F181"
+    ],
+    "spouseUnions": [
+      "F411"
+    ],
+    "parentLinks": [
+      {
+        "id": 646,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 645,
+        "unionId": "F181",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1618,
+        "unionId": "F411",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000061611448156@",
+    "geniId": "6000000061611448156",
+    "rfn": "geni:6000000061611448156",
+    "changed": "14 JUL 2024"
+  },
+  "page": {
+    "route": "people/648/",
+    "canonical": "https://www.genepedia.org/people/648/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1515,
+  "schema": "genepedia/person@1",
+  "slug": "profile-1515",
+  "names": {
+    "display": "?",
+    "given": "?",
+    "surname": "Goodwin",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/32/00/e9/e5/53444866649463bf/screenshot_2024-08-15_112528_original.jpg?hash=dd8c0cd1239603d0f80d4fa28ab2765b0c09bb72dca5df71eb5f65651e3808d1.1789455599",
+      "alt": "?"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/32/00/e9/e5/53444866649463bf/screenshot_2024-08-15_112528_original.jpg?hash=dd8c0cd1239603d0f80d4fa28ab2765b0c09bb72dca5df71eb5f65651e3808d1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      618,
+      1514
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1516,
+      1517
+    ],
+    "parentUnions": [
+      "F390"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 618,
+        "unionId": "F390",
+        "type": "biological"
+      },
+      {
+        "id": 1514,
+        "unionId": "F390",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204861881821@",
+    "geniId": "6000000204861881821",
+    "rfn": "geni:6000000204861881821",
+    "changed": "15 AUG 2024"
+  },
+  "page": {
+    "route": "people/1515/",
+    "canonical": "https://www.genepedia.org/people/1515/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

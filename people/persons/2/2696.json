@@ -1,0 +1,132 @@
+{
+  "id": 2696,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-jacobus-smith-tweeling",
+  "names": {
+    "display": "Hendrik Jacobus Smith Tweeling",
+    "given": "Hendrik Jacobus",
+    "surname": "Smith",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 JUL 1886",
+      "year": 1886,
+      "iso": "1886-07-19",
+      "precision": "exact",
+      "display": "July 19, 1886",
+      "place": null
+    },
+    "death": {
+      "date": "20 MAR 1969",
+      "year": 1969,
+      "iso": "1969-03-20",
+      "precision": "exact",
+      "display": "March 20, 1969",
+      "place": "Zeerust, North West, South Africa",
+      "location": {
+        "label": "Zeerust, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Zeerust",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "19 SEP 1886",
+      "year": 1886,
+      "iso": "1886-09-19",
+      "precision": "exact",
+      "display": "September 19, 1886",
+      "place": "Zeerust, NW, South Africa",
+      "location": {
+        "label": "Zeerust, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Zeerust",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1083
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1665"
+    ],
+    "spouseUnions": [
+      "F662"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1083,
+        "unionId": "F662",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052142517845@",
+    "geniId": "6000000052142517845",
+    "rfn": "geni:6000000052142517845",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/2696/",
+    "canonical": "https://www.genepedia.org/people/2696/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 3074,
+  "schema": "genepedia/person@1",
+  "slug": "dawie-fourie-3074",
+  "names": {
+    "display": "Dawie Fourie",
+    "given": "Dawie",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 FEB 1998",
+      "year": 1998,
+      "iso": "1998-02-18",
+      "precision": "exact",
+      "display": "February 18, 1998",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1230,
+      3072
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3073
+    ],
+    "parentUnions": [
+      "F756"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1230,
+        "unionId": "F756",
+        "type": "biological"
+      },
+      {
+        "id": 3072,
+        "unionId": "F756",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000222126519824@",
+    "geniId": "6000000222126519824",
+    "rfn": "geni:6000000222126519824",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3074/",
+    "canonical": "https://www.genepedia.org/people/3074/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1939,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-bester-1939",
+  "names": {
+    "display": "Martha Maria Bester",
+    "given": "Martha Maria",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 JUN 1905",
+      "year": 1905,
+      "iso": "1905-06-16",
+      "precision": "exact",
+      "display": "June 16, 1905",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      819,
+      830
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1932,
+      1933,
+      1934,
+      1935,
+      1936,
+      1937,
+      1938,
+      1940,
+      1941,
+      1942,
+      1943,
+      1944,
+      1945,
+      1946
+    ],
+    "parentUnions": [
+      "F508"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 819,
+        "unionId": "F508",
+        "type": "biological"
+      },
+      {
+        "id": 830,
+        "unionId": "F508",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066969718858@",
+    "geniId": "6000000066969718858",
+    "rfn": "geni:6000000066969718858",
+    "changed": "12 SEP 2017"
+  },
+  "page": {
+    "route": "people/1939/",
+    "canonical": "https://www.genepedia.org/people/1939/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

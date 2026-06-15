@@ -1,0 +1,83 @@
+{
+  "id": 1454,
+  "schema": "genepedia/person@1",
+  "slug": "jeremia-augustyn-1454",
+  "names": {
+    "display": "Jeremia Augustyn",
+    "given": "Jeremia",
+    "surname": "Augustyn",
+    "married": "Augustyn",
+    "nick": "Jerry",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      580,
+      1453
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F366"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 580,
+        "unionId": "F366",
+        "type": "biological"
+      },
+      {
+        "id": 1453,
+        "unionId": "F366",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000205256591830@",
+    "geniId": "6000000205256591830",
+    "rfn": "geni:6000000205256591830",
+    "changed": "23 APR 2024"
+  },
+  "page": {
+    "route": "people/1454/",
+    "canonical": "https://www.genepedia.org/people/1454/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

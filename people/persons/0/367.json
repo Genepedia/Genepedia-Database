@@ -1,0 +1,124 @@
+{
+  "id": 367,
+  "schema": "genepedia/person@1",
+  "slug": "petronella-stefina-strydom",
+  "names": {
+    "display": "Petronella Stefina Strydom",
+    "given": "Petronella Stefina",
+    "surname": "Strydom",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JAN 1909",
+      "year": 1909,
+      "iso": "1909-01-12",
+      "precision": "exact",
+      "display": "January 12, 1909",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/8d/c1/05/df/53444841849402a5/record-image_3qs7-89sv-lrgl_original.jpg?hash=ce455876a5e6e44cc1ad43eb95bcf8b428de749285810c14ff6c6080d2b1048f.1789455599",
+      "alt": "Petronella Stefina Strydom"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/8d/c1/05/df/53444841849402a5/record-image_3qs7-89sv-lrgl_original.jpg?hash=ce455876a5e6e44cc1ad43eb95bcf8b428de749285810c14ff6c6080d2b1048f.1789455599",
+        "form": "",
+        "title": "record-image_trou 1955 .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/9c/38/20/d1/534448656f1e452c/image_original.jpg?hash=72ee8462349ab0286059c73be376d20154e5bdbe99b9eaced4b1962b91d73409.1789455599",
+        "form": "",
+        "title": "record-image_trou 1927  .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      138,
+      877
+    ],
+    "exSpouses": [],
+    "children": [
+      878,
+      879
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F116",
+      "F248"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 138,
+        "unionId": "F116",
+        "role": "husband"
+      },
+      {
+        "id": 877,
+        "unionId": "F248",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 878,
+        "unionId": "F248",
+        "type": "biological"
+      },
+      {
+        "id": 879,
+        "unionId": "F248",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165496256@",
+    "geniId": "6000000028165496256",
+    "rfn": "geni:6000000028165496256",
+    "changed": "12 MAR 2015"
+  },
+  "page": {
+    "route": "people/367/",
+    "canonical": "https://www.genepedia.org/people/367/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

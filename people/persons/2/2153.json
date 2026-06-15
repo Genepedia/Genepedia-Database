@@ -1,0 +1,193 @@
+{
+  "id": 2153,
+  "schema": "genepedia/person@1",
+  "slug": "thomas-henry-hibbert",
+  "names": {
+    "display": "Thomas Henry Hibbert",
+    "given": "Thomas Henry",
+    "surname": "Hibbert",
+    "married": "Hibbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 DEC 1881",
+      "year": 1881,
+      "iso": "1881-12-16",
+      "precision": "exact",
+      "display": "December 16, 1881",
+      "place": "Grahamstown, Eastern Cape, South Africa",
+      "location": {
+        "label": "Grahamstown, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Grahamstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "29 OCT 1946",
+      "year": 1946,
+      "iso": "1946-10-29",
+      "precision": "exact",
+      "display": "October 29, 1946",
+      "place": "General Hospital, Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "General Hospital, Potchefstroom, North West, South Africa",
+        "placeName": "General Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Potchefstroom, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Military sargent",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/08/c8/1d/54/53444841d14408e4/hibbert_th_original.jpg?hash=c63d58e3f77a5487e1d5538fedc911c83a4775cfea6fe90db5845a7ababaa0b3.1789455599",
+      "alt": "Thomas Henry Hibbert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/08/c8/1d/54/53444841d14408e4/hibbert_th_original.jpg?hash=c63d58e3f77a5487e1d5538fedc911c83a4775cfea6fe90db5845a7ababaa0b3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/86/88/01/ac/5344485e4c6213b6/record-image__original.jpg?hash=036f1d4962aec6b47a6762ed6a81f0f416b3b7c9473c56e7eed937fa534109a6.1789455599",
+        "form": "",
+        "title": "record-image_.dood jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/b0/6a/f3/51/5344485e4c58d85f/record-image__original.jpg?hash=79315bf8c88fe3d52a93732f773f062fdbfe2389ffc70c0ac9b7659f91ef1b36.1789455599",
+        "form": "",
+        "title": "record-image_.dood 1 jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2149,
+      892
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2150,
+      2151,
+      2152,
+      2154,
+      2155,
+      2156,
+      2157,
+      2158,
+      2159,
+      2160,
+      2161
+    ],
+    "parentUnions": [
+      "F555"
+    ],
+    "spouseUnions": [
+      "F1327"
+    ],
+    "parentLinks": [
+      {
+        "id": 2149,
+        "unionId": "F555",
+        "type": "biological"
+      },
+      {
+        "id": 892,
+        "unionId": "F555",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000002522031006@",
+    "geniId": "6000000002522031006",
+    "rfn": "geni:6000000002522031006",
+    "changed": "28 JAN 2023"
+  },
+  "page": {
+    "route": "people/2153/",
+    "canonical": "https://www.genepedia.org/people/2153/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

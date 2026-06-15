@@ -1,0 +1,211 @@
+{
+  "id": 2375,
+  "schema": "genepedia/person@1",
+  "slug": "lea-sophia-brits",
+  "names": {
+    "display": "Lea Sophia Brits",
+    "given": "Lea Sophia",
+    "surname": "Brits",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 MAR 1819",
+      "year": 1819,
+      "iso": "1819-03-08",
+      "precision": "exact",
+      "display": "March 8, 1819",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 AUG 1869",
+      "year": 1869,
+      "iso": "1869-08-23",
+      "precision": "exact",
+      "display": "August 23, 1869",
+      "place": "Hopetown, South Africa",
+      "location": {
+        "label": "Hopetown, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "31 OCT 1819",
+      "year": 1819,
+      "iso": "1819-10-31",
+      "precision": "exact",
+      "display": "October 31, 1819",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/2a/20/29/6a/5344483cf40fee10/brits_lea_sovija_d_original.jpg?hash=4946ca411fd7572bbfe42a5f4e10e620ce2fd37a5df24f59d60ae85be53bd03d.1789455599",
+      "alt": "Lea Sophia Brits"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/2a/20/29/6a/5344483cf40fee10/brits_lea_sovija_d_original.jpg?hash=4946ca411fd7572bbfe42a5f4e10e620ce2fd37a5df24f59d60ae85be53bd03d.1789455599",
+        "form": "",
+        "title": "Brits, Lea Sovija, d.o. Frederik Petrus and Magdalena Maria Margareta Bez, b 8 Mar 1819 bap 31 Oct 1819 Beaufort West.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/7a/cd/6a/34/5344486169408c97/lea_sophia_cloete_brits_death_notice_23_aug_1869_hopetown_original.jpg?hash=048217edffb9450b6c2f454051f974c8b42ef72f86255eb08052a4b27e4d1e8d.1789455599",
+        "form": "",
+        "title": "Lea Sophia Cloete (Brits) Death Notice 23 Aug 1869 Hopetown.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2376
+    ],
+    "exSpouses": [],
+    "children": [
+      954,
+      2377,
+      2378,
+      2379,
+      2380,
+      2381,
+      2382
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1466"
+    ],
+    "spouseUnions": [
+      "F600"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2376,
+        "unionId": "F600",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 954,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2377,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2378,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2379,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2380,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2381,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2382,
+        "unionId": "F600",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020918833611@",
+    "geniId": "6000000020918833611",
+    "rfn": "geni:6000000020918833611",
+    "changed": "27 DEC 2024"
+  },
+  "page": {
+    "route": "people/2375/",
+    "canonical": "https://www.genepedia.org/people/2375/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

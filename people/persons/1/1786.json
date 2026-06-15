@@ -1,0 +1,144 @@
+{
+  "id": 1786,
+  "schema": "genepedia/person@1",
+  "slug": "robert-john-lurie",
+  "names": {
+    "display": "Robert John Lurie",
+    "given": "Robert John",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "Rob",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/fa/e2/25/e1/53444865fb15012f/screenshot_2024-06-10_113258_original.jpg?hash=98ea9035346c4283716528e001c31d49922e2b40570e552e50de73a7dd4b1ce8.1789455599",
+      "alt": "Robert John Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/fa/e2/25/e1/53444865fb15012f/screenshot_2024-06-10_113258_original.jpg?hash=98ea9035346c4283716528e001c31d49922e2b40570e552e50de73a7dd4b1ce8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      746,
+      1785
+    ],
+    "spouses": [
+      4542
+    ],
+    "exSpouses": [],
+    "children": [
+      4543,
+      4544
+    ],
+    "siblings": [
+      1787
+    ],
+    "parentUnions": [
+      "F468"
+    ],
+    "spouseUnions": [
+      "F1082"
+    ],
+    "parentLinks": [
+      {
+        "id": 746,
+        "unionId": "F468",
+        "type": "biological"
+      },
+      {
+        "id": 1785,
+        "unionId": "F468",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4542,
+        "unionId": "F1082",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4543,
+        "unionId": "F1082",
+        "type": "biological"
+      },
+      {
+        "id": 4544,
+        "unionId": "F1082",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204067293824@",
+    "geniId": "6000000204067293824",
+    "rfn": "geni:6000000204067293824",
+    "changed": "10 JUN 2024"
+  },
+  "page": {
+    "route": "people/1786/",
+    "canonical": "https://www.genepedia.org/people/1786/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

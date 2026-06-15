@@ -1,0 +1,113 @@
+{
+  "id": 1264,
+  "schema": "genepedia/person@1",
+  "slug": "willem-francois-jacobus-marais",
+  "names": {
+    "display": "Willem Francois Jacobus Marais",
+    "given": "Willem Francois Jacobus",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 JAN 1870",
+      "year": 1870,
+      "iso": "1870-01-19",
+      "precision": "exact",
+      "display": "January 19, 1870",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1258,
+      1259
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1260,
+      1261,
+      524,
+      1262,
+      1263,
+      1265
+    ],
+    "parentUnions": [
+      "F328"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1258,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1259,
+        "unionId": "F328",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000073581823933@",
+    "geniId": "6000000073581823933",
+    "rfn": "geni:6000000073581823933",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1264/",
+    "canonical": "https://www.genepedia.org/people/1264/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

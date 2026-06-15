@@ -1,0 +1,96 @@
+{
+  "id": 396,
+  "schema": "genepedia/person@1",
+  "slug": "margaret-diedricks",
+  "names": {
+    "display": "Margaret Diedricks",
+    "given": "Margaret",
+    "surname": "Diedricks",
+    "married": "Delport",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      393,
+      144
+    ],
+    "spouses": [
+      973
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      394,
+      395
+    ],
+    "parentUnions": [
+      "F122"
+    ],
+    "spouseUnions": [
+      "F266"
+    ],
+    "parentLinks": [
+      {
+        "id": 393,
+        "unionId": "F122",
+        "type": "biological"
+      },
+      {
+        "id": 144,
+        "unionId": "F122",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 973,
+        "unionId": "F266",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057886875082@",
+    "geniId": "6000000057886875082",
+    "rfn": "geni:6000000057886875082",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/396/",
+    "canonical": "https://www.genepedia.org/people/396/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 2384,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-swanepoel-2384",
+  "names": {
+    "display": "Pieter Andries Swanepoel",
+    "given": "Pieter Andries",
+    "surname": "Swanepoel",
+    "married": "Swanepoel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2383
+    ],
+    "exSpouses": [],
+    "children": [
+      955
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F601"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2383,
+        "unionId": "F601",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 955,
+        "unionId": "F601",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000136294073915@",
+    "geniId": "6000000136294073915",
+    "rfn": "geni:6000000136294073915",
+    "changed": "24 MAY 2020"
+  },
+  "page": {
+    "route": "people/2384/",
+    "canonical": "https://www.genepedia.org/people/2384/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 4506,
+  "schema": "genepedia/person@1",
+  "slug": "helen-leona-arkoff",
+  "names": {
+    "display": "Helen Leona Arkoff",
+    "given": "Helen Leona",
+    "surname": "Richardson",
+    "married": "Arkoff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1927",
+      "year": 1927,
+      "iso": "1927",
+      "precision": "exact",
+      "display": "1927",
+      "place": null
+    },
+    "death": {
+      "date": "2020",
+      "year": 2020,
+      "iso": "2020",
+      "precision": "exact",
+      "display": "2020",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1765
+    ],
+    "exSpouses": [],
+    "children": [
+      4507,
+      4508
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1071"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1765,
+        "unionId": "F1071",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4507,
+        "unionId": "F1071",
+        "type": "biological"
+      },
+      {
+        "id": 4508,
+        "unionId": "F1071",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000000500597844@",
+    "geniId": "6000000000500597844",
+    "rfn": "geni:6000000000500597844",
+    "changed": "07 NOV 2024"
+  },
+  "page": {
+    "route": "people/4506/",
+    "canonical": "https://www.genepedia.org/people/4506/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,131 @@
+{
+  "id": 2332,
+  "schema": "genepedia/person@1",
+  "slug": "christopher-martin",
+  "names": {
+    "display": "Christopher Martin",
+    "given": "Christopher",
+    "surname": "Martin",
+    "married": "Martin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "7 MAR 1951",
+      "year": 1951,
+      "iso": "1951-03-07",
+      "precision": "exact",
+      "display": "March 7, 1951",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Vereeniging, Gauteng, South Africa",
+  "lastResidenceLocation": {
+    "label": "Vereeniging, Gauteng, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Vereeniging",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Gauteng",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/24/17/80/90/534448413336504d/vuv76jup_original.jpg?hash=62f33f930052405b9621a6b896af089ca3fa8faf15130269cdc8b563ba45d363.1789455599",
+      "alt": "Christopher Martin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/24/17/80/90/534448413336504d/vuv76jup_original.jpg?hash=62f33f930052405b9621a6b896af089ca3fa8faf15130269cdc8b563ba45d363.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/aa/dc/53/cb/5344484133252569/10398863_75091812577_130912_n_original.jpg?hash=1e864e979bc4748afd27a38f3302a9a65b0bfff29ab670c1366e2a8bdfb47d24.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2331,
+      931
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2333,
+      2334,
+      2335,
+      2336
+    ],
+    "parentUnions": [
+      "F590"
+    ],
+    "spouseUnions": [
+      "F1440"
+    ],
+    "parentLinks": [
+      {
+        "id": 2331,
+        "unionId": "F590",
+        "type": "biological"
+      },
+      {
+        "id": 931,
+        "unionId": "F590",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000046977701259@",
+    "geniId": "6000000046977701259",
+    "rfn": "geni:6000000046977701259",
+    "changed": "17 OCT 2016"
+  },
+  "page": {
+    "route": "people/2332/",
+    "canonical": "https://www.genepedia.org/people/2332/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,184 @@
+{
+  "id": 908,
+  "schema": "genepedia/person@1",
+  "slug": "evelyn-roselt",
+  "names": {
+    "display": "Evelyn Roselt",
+    "given": "Evelyn",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 JUN 1930",
+      "year": 1930,
+      "iso": "1930-06-27",
+      "precision": "exact",
+      "display": "June 27, 1930",
+      "place": null
+    },
+    "death": {
+      "date": "16 JAN 2002",
+      "year": 2002,
+      "iso": "2002-01-16",
+      "precision": "exact",
+      "display": "January 16, 2002",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "29 SEP 1930",
+      "year": 1930,
+      "iso": "1930-09-29",
+      "precision": "exact",
+      "display": "September 29, 1930",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/89/5e/67/54/53444842e62f43ea/record-image_3qs7-89s6-63vv_original.jpg?hash=0f3f837f920dc048971d11b7205278ea5518bdabe488523b112f7690d17affb9.1789455599",
+      "alt": "Evelyn Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/89/5e/67/54/53444842e62f43ea/record-image_3qs7-89s6-63vv_original.jpg?hash=0f3f837f920dc048971d11b7205278ea5518bdabe488523b112f7690d17affb9.1789455599",
+        "form": "",
+        "title": "record-image_3QS7-89S6-63VV.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/8a/f0/c5/6c/53444842e6372ee8/record-image_3qs7-l9sv-2y6y_original.jpg?hash=cb2bf3b4254057f907ce5f933ef997e7430973f757118fa2a0a8a70ae3a1bc18.1789455599",
+        "form": "",
+        "title": "record-image_3QS7-L9SV-2Y6Y.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      371,
+      905
+    ],
+    "spouses": [
+      2239,
+      2241
+    ],
+    "exSpouses": [],
+    "children": [
+      2240
+    ],
+    "siblings": [
+      906,
+      907,
+      909
+    ],
+    "parentUnions": [
+      "F253"
+    ],
+    "spouseUnions": [
+      "F568",
+      "F569"
+    ],
+    "parentLinks": [
+      {
+        "id": 371,
+        "unionId": "F253",
+        "type": "biological"
+      },
+      {
+        "id": 905,
+        "unionId": "F253",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2239,
+        "unionId": "F568",
+        "role": "wife"
+      },
+      {
+        "id": 2241,
+        "unionId": "F569",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2240,
+        "unionId": "F568",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000049791545837@",
+    "geniId": "6000000049791545837",
+    "rfn": "geni:6000000049791545837",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/908/",
+    "canonical": "https://www.genepedia.org/people/908/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

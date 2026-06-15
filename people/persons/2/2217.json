@@ -1,0 +1,182 @@
+{
+  "id": 2217,
+  "schema": "genepedia/person@1",
+  "slug": "marilyn-boyens",
+  "names": {
+    "display": "Marilyn Boyens",
+    "given": "Marilyn",
+    "surname": "Boyens",
+    "married": "Cornelius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JAN 1951",
+      "year": 1951,
+      "iso": "1951-01-22",
+      "precision": "exact",
+      "display": "January 22, 1951",
+      "place": "Germiston, GP, South Africa",
+      "location": {
+        "label": "Germiston, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Germiston",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 OCT 2022",
+      "year": 2022,
+      "iso": "2022-10-12",
+      "precision": "exact",
+      "display": "October 12, 2022",
+      "place": "Boksburg, GP, South Africa",
+      "location": {
+        "label": "Boksburg, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boksburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Boksburg, GP, South Africa",
+      "location": {
+        "label": "Boksburg, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boksburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/c8/6c/e8/49/53444842fc2f0756/4295_1162546546629_6081232_n_original.jpg?hash=d59fca4f7070923de6f5add25843aaca1869c074e35f8bfe09c66b4199647cf4.1789455599",
+      "alt": "Marilyn Boyens"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/c8/6c/e8/49/53444842fc2f0756/4295_1162546546629_6081232_n_original.jpg?hash=d59fca4f7070923de6f5add25843aaca1869c074e35f8bfe09c66b4199647cf4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/30/b5/27/86/53444842a41b91ae/1274-59_boyens_adam_johannes_a_original.jpg?hash=5502ef2563a9fbeaeb67fa510c5930d36f50e3b7d8832768b930615a010f2bc4.1789455599",
+        "form": "",
+        "title": "image - dood .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2212,
+      902
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2213,
+      2214,
+      2215,
+      2216,
+      2218,
+      2219,
+      2220
+    ],
+    "parentUnions": [
+      "F563"
+    ],
+    "spouseUnions": [
+      "F1372"
+    ],
+    "parentLinks": [
+      {
+        "id": 2212,
+        "unionId": "F563",
+        "type": "biological"
+      },
+      {
+        "id": 902,
+        "unionId": "F563",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000054623096903@",
+    "geniId": "6000000054623096903",
+    "rfn": "geni:6000000054623096903",
+    "changed": "14 MAR 2026"
+  },
+  "page": {
+    "route": "people/2217/",
+    "canonical": "https://www.genepedia.org/people/2217/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,158 @@
+{
+  "id": 1689,
+  "schema": "genepedia/person@1",
+  "slug": "lynette-june-wood",
+  "names": {
+    "display": "Lynette June Wood",
+    "given": "Lynette June",
+    "surname": "Wood",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 JUN 1944",
+      "year": 1944,
+      "iso": "1944-06-10",
+      "precision": "exact",
+      "display": "June 10, 1944",
+      "place": "Durban, Natal, South Africa",
+      "location": {
+        "label": "Durban, Natal, South Africa",
+        "placeName": "Durban, Natal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 JUL 2001",
+      "year": 2001,
+      "iso": "2001-07-02",
+      "precision": "exact",
+      "display": "July 2, 2001",
+      "place": "Olifantsfontein, Gauteng, South Africa",
+      "location": {
+        "label": "Olifantsfontein, Gauteng, South Africa",
+        "placeName": "Olifantsfontein, Gauteng, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1688,
+      679
+    ],
+    "spouses": [
+      4366
+    ],
+    "exSpouses": [],
+    "children": [
+      4367,
+      4368
+    ],
+    "siblings": [
+      1690,
+      1691,
+      1692,
+      1693
+    ],
+    "parentUnions": [
+      "F438"
+    ],
+    "spouseUnions": [
+      "F1032"
+    ],
+    "parentLinks": [
+      {
+        "id": 1688,
+        "unionId": "F438",
+        "type": "biological"
+      },
+      {
+        "id": 679,
+        "unionId": "F438",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4366,
+        "unionId": "F1032",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4367,
+        "unionId": "F1032",
+        "type": "biological"
+      },
+      {
+        "id": 4368,
+        "unionId": "F1032",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000185615685997@",
+    "geniId": "6000000185615685997",
+    "rfn": "geni:6000000185615685997",
+    "changed": "20 JUN 2022"
+  },
+  "page": {
+    "route": "people/1689/",
+    "canonical": "https://www.genepedia.org/people/1689/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

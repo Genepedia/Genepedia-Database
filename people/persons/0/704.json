@@ -1,0 +1,114 @@
+{
+  "id": 704,
+  "schema": "genepedia/person@1",
+  "slug": "elvina-georgina-machin",
+  "names": {
+    "display": "Elvina Georgina Machin",
+    "given": "Elvina Georgina",
+    "surname": "Machin",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 SEP 1929",
+      "year": 1929,
+      "iso": "1929-09-29",
+      "precision": "exact",
+      "display": "September 29, 1929",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1707
+    ],
+    "spouses": [
+      703
+    ],
+    "exSpouses": [],
+    "children": [
+      282,
+      705,
+      706
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F447"
+    ],
+    "spouseUnions": [
+      "F198"
+    ],
+    "parentLinks": [
+      {
+        "id": 1707,
+        "unionId": "F447",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 703,
+        "unionId": "F198",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 282,
+        "unionId": "F198",
+        "type": "biological"
+      },
+      {
+        "id": 705,
+        "unionId": "F198",
+        "type": "biological"
+      },
+      {
+        "id": 706,
+        "unionId": "F198",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207606339861@",
+    "geniId": "6000000207606339861",
+    "rfn": "geni:6000000207606339861",
+    "changed": "25 JUL 2024"
+  },
+  "page": {
+    "route": "people/704/",
+    "canonical": "https://www.genepedia.org/people/704/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

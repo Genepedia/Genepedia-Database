@@ -1,0 +1,115 @@
+{
+  "id": 607,
+  "schema": "genepedia/person@1",
+  "slug": "liesl-du-preez",
+  "names": {
+    "display": "Liesl du Preez",
+    "given": "Liesl",
+    "surname": "du Preez",
+    "married": "Wienand",
+    "nick": "Liezl",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1 AUG 1976",
+      "year": 1976,
+      "iso": "1976-08-01",
+      "precision": "exact",
+      "display": "August 1, 1976",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/08/7d/9a/55/53444866076c3b25/screenshot_2024-06-18_180754_original.jpg?hash=1e71a69a713e090ffb0e5a930b77e07410d899d5f576d56e29ea07721c2c4620.1789455599",
+      "alt": "Liesl du Preez"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/08/7d/9a/55/53444866076c3b25/screenshot_2024-06-18_180754_original.jpg?hash=1e71a69a713e090ffb0e5a930b77e07410d899d5f576d56e29ea07721c2c4620.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      604,
+      222
+    ],
+    "spouses": [
+      1510
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      605,
+      606
+    ],
+    "parentUnions": [
+      "F170"
+    ],
+    "spouseUnions": [
+      "F387"
+    ],
+    "parentLinks": [
+      {
+        "id": 604,
+        "unionId": "F170",
+        "type": "biological"
+      },
+      {
+        "id": 222,
+        "unionId": "F170",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1510,
+        "unionId": "F387",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587502821@",
+    "geniId": "6000000206587502821",
+    "rfn": "geni:6000000206587502821",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/607/",
+    "canonical": "https://www.genepedia.org/people/607/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

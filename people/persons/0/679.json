@@ -1,0 +1,213 @@
+{
+  "id": 679,
+  "schema": "genepedia/person@1",
+  "slug": "irene-marie-meilhon",
+  "names": {
+    "display": "Irene Marie Meilhon",
+    "given": "Irene Marie",
+    "surname": "Meilhon",
+    "married": "Wood",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 JUL 1927",
+      "year": 1927,
+      "iso": "1927-07-07",
+      "precision": "exact",
+      "display": "July 7, 1927",
+      "place": "Durban, KZN, South Africa",
+      "location": {
+        "label": "Durban, KZN, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Durban",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KZN",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 JUN 1977",
+      "year": 1977,
+      "iso": "1977-06-24",
+      "precision": "exact",
+      "display": "June 24, 1977",
+      "place": "Durban, Natal, South Africa",
+      "location": {
+        "label": "Durban, Natal, South Africa",
+        "placeName": "Durban, Natal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/90/73/61/a1/53444866dbb0af4b/meilhon_wood_marr_2_sept_1944_marie_irene_127_b_1927_sidney_21_b1923_monmourth_wales_a_stoker_in_the_royal_navy__original.jpg?hash=445a832cb203fd917ae11b4fee2f9a6ee9dbf1854c13569490bfa51e107620c4.1789455599",
+      "alt": "Irene Marie Meilhon"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/90/73/61/a1/53444866dbb0af4b/meilhon_wood_marr_2_sept_1944_marie_irene_127_b_1927_sidney_21_b1923_monmourth_wales_a_stoker_in_the_royal_navy__original.jpg?hash=445a832cb203fd917ae11b4fee2f9a6ee9dbf1854c13569490bfa51e107620c4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Family Tree",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Graham Web Site",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      671,
+      670
+    ],
+    "spouses": [
+      1688
+    ],
+    "exSpouses": [],
+    "children": [
+      1689,
+      1690,
+      1691,
+      1692,
+      1693
+    ],
+    "siblings": [
+      672,
+      673,
+      674,
+      675,
+      676,
+      268,
+      677,
+      678,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686
+    ],
+    "parentUnions": [
+      "F191"
+    ],
+    "spouseUnions": [
+      "F438"
+    ],
+    "parentLinks": [
+      {
+        "id": 671,
+        "unionId": "F191",
+        "type": "biological"
+      },
+      {
+        "id": 670,
+        "unionId": "F191",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1688,
+        "unionId": "F438",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1689,
+        "unionId": "F438",
+        "type": "biological"
+      },
+      {
+        "id": 1690,
+        "unionId": "F438",
+        "type": "biological"
+      },
+      {
+        "id": 1691,
+        "unionId": "F438",
+        "type": "biological"
+      },
+      {
+        "id": 1692,
+        "unionId": "F438",
+        "type": "biological"
+      },
+      {
+        "id": 1693,
+        "unionId": "F438",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003274519804@",
+    "geniId": "6000000003274519804",
+    "rfn": "geni:6000000003274519804",
+    "changed": "22 OCT 2024"
+  },
+  "page": {
+    "route": "people/679/",
+    "canonical": "https://www.genepedia.org/people/679/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,139 @@
+{
+  "id": 3920,
+  "schema": "genepedia/person@1",
+  "slug": "geretta-maria-petronella-jacobs",
+  "names": {
+    "display": "Geretta Maria Petronella Jacobs",
+    "given": "Geretta Maria Petronella",
+    "surname": "Jacobs",
+    "married": "Gouws (van Jaarsveld)",
+    "nick": "Geretta Johanna Petronella",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 JAN 1819",
+      "year": 1819,
+      "iso": "1819-01-08",
+      "precision": "exact",
+      "display": "January 8, 1819",
+      "place": null
+    },
+    "death": {
+      "date": "13 DEC 1882",
+      "year": 1882,
+      "iso": "1882-12-13",
+      "precision": "exact",
+      "display": "December 13, 1882",
+      "place": "Potchefstroom, South Africa",
+      "location": {
+        "label": "Potchefstroom, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "21 MAR 1819",
+      "year": 1819,
+      "iso": "1819-03-21",
+      "precision": "exact",
+      "display": "March 21, 1819",
+      "place": "Graaff-Reinet, Cape Colony, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3917,
+      3918
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3919,
+      1532
+    ],
+    "parentUnions": [
+      "F924"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3917,
+        "unionId": "F924",
+        "type": "biological"
+      },
+      {
+        "id": 3918,
+        "unionId": "F924",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065858059913@",
+    "geniId": "6000000065858059913",
+    "rfn": "geni:6000000065858059913",
+    "changed": "08 JAN 2026"
+  },
+  "page": {
+    "route": "people/3920/",
+    "canonical": "https://www.genepedia.org/people/3920/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

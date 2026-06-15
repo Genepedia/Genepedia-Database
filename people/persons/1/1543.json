@@ -1,0 +1,247 @@
+{
+  "id": 1543,
+  "schema": "genepedia/person@1",
+  "slug": "cornelis-gregorius-van-niekerk",
+  "names": {
+    "display": "Cornelis Gregorius van Niekerk",
+    "given": "Cornelis Gregorius",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 JAN 1836",
+      "year": 1836,
+      "iso": "1836-01-11",
+      "precision": "exact",
+      "display": "January 11, 1836",
+      "place": "Winterveld, Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Winterveld, Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "Winterveld",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 FEB 1912",
+      "year": 1912,
+      "iso": "1912-02-16",
+      "precision": "exact",
+      "display": "February 16, 1912",
+      "place": "Goedgedacht, Wolmaransstad, North West, South Africa",
+      "location": {
+        "label": "Goedgedacht, Wolmaransstad, North West, South Africa",
+        "placeName": "Goedgedacht",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Goedgedacht, Wolmaransstad, North West, South Africa",
+      "location": {
+        "label": "Goedgedacht, Wolmaransstad, North West, South Africa",
+        "placeName": "Goedgedacht",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer / Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b8/ef/03/82/5344483b138797de/cornelius_gregorius_van_niekerk_1836-1912_original.jpg?hash=08def663553f1438c8ea9d4a865bdca3496c30971df6797916b32119bf703557.1789455599",
+      "alt": "Cornelis Gregorius van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b8/ef/03/82/5344483b138797de/cornelius_gregorius_van_niekerk_1836-1912_original.jpg?hash=08def663553f1438c8ea9d4a865bdca3496c30971df6797916b32119bf703557.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/c4/9c/c9/61/5344483bf5bc77a8/cornelius_gregoriuss_v_niekerk_mhg_19843_1__original.jpg?hash=92fd41da010edb78604009f9c1230c8bd82976451143548cac4319a823f21aaa.1789455599",
+        "form": "",
+        "title": "Cornelius Gregoriuss v Niekerk MHG 19843 (1).jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1539,
+      1540
+    ],
+    "spouses": [
+      4031,
+      4040
+    ],
+    "exSpouses": [],
+    "children": [
+      4032,
+      4033,
+      4034,
+      4035,
+      4036,
+      4037,
+      4038,
+      4039
+    ],
+    "siblings": [
+      1541,
+      1542,
+      1544,
+      628,
+      1545,
+      1546,
+      1547
+    ],
+    "parentUnions": [
+      "F394"
+    ],
+    "spouseUnions": [
+      "F940",
+      "F941"
+    ],
+    "parentLinks": [
+      {
+        "id": 1539,
+        "unionId": "F394",
+        "type": "biological"
+      },
+      {
+        "id": 1540,
+        "unionId": "F394",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4031,
+        "unionId": "F940",
+        "role": "wife"
+      },
+      {
+        "id": 4040,
+        "unionId": "F941",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4032,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4033,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4034,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4035,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4036,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4037,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4038,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4039,
+        "unionId": "F940",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000017626010308@",
+    "geniId": "6000000017626010308",
+    "rfn": "geni:6000000017626010308",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/1543/",
+    "canonical": "https://www.genepedia.org/people/1543/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

@@ -1,0 +1,137 @@
+{
+  "id": 4273,
+  "schema": "genepedia/person@1",
+  "slug": "elsje-maria-sophia-joubert",
+  "names": {
+    "display": "Elsje Maria Sophia Joubert",
+    "given": "Elsje Maria Sophia",
+    "surname": "Joubert",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 JUL 1847",
+      "year": 1847,
+      "iso": "1847-07-26",
+      "precision": "exact",
+      "display": "July 26, 1847",
+      "place": "Cradock, Cape Colony, South Africa",
+      "location": {
+        "label": "Cradock, Cape Colony, South Africa",
+        "placeName": "Cradock, Cape Colony, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "30 JUL 1920",
+      "year": 1920,
+      "iso": "1920-07-30",
+      "precision": "exact",
+      "display": "July 30, 1920",
+      "place": "Wepener, Orange Free State, South Africa",
+      "location": {
+        "label": "Wepener, Orange Free State, South Africa",
+        "placeName": "Wepener, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4274
+    ],
+    "exSpouses": [],
+    "children": [
+      1618,
+      4275
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1005"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4274,
+        "unionId": "F1005",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1618,
+        "unionId": "F1005",
+        "type": "biological"
+      },
+      {
+        "id": 4275,
+        "unionId": "F1005",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000179359539821@",
+    "geniId": "6000000179359539821",
+    "rfn": "geni:6000000179359539821",
+    "changed": "05 FEB 2025"
+  },
+  "page": {
+    "route": "people/4273/",
+    "canonical": "https://www.genepedia.org/people/4273/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

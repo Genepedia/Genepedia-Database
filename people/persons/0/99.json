@@ -1,0 +1,119 @@
+{
+  "id": 99,
+  "schema": "genepedia/person@1",
+  "slug": "trish-edwards",
+  "names": {
+    "display": "Trish Edwards",
+    "given": "Trish",
+    "surname": "Edwards",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/04/59/3d/f3/53444865707f677f/screenshot_2024-03-14_122622_original.jpg?hash=c9b9e80cace8e6845f9e3e6ce093a0b7448d9fd2b269226f30755e33e9c2607d.1789455599",
+      "alt": "Trish Edwards"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/04/59/3d/f3/53444865707f677f/screenshot_2024-03-14_122622_original.jpg?hash=c9b9e80cace8e6845f9e3e6ce093a0b7448d9fd2b269226f30755e33e9c2607d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      31,
+      98
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      262,
+      263,
+      264
+    ],
+    "siblings": [
+      100
+    ],
+    "parentUnions": [
+      "F36"
+    ],
+    "spouseUnions": [
+      "F84"
+    ],
+    "parentLinks": [
+      {
+        "id": 31,
+        "unionId": "F36",
+        "type": "biological"
+      },
+      {
+        "id": 98,
+        "unionId": "F36",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 262,
+        "unionId": "F84",
+        "type": "biological"
+      },
+      {
+        "id": 263,
+        "unionId": "F84",
+        "type": "biological"
+      },
+      {
+        "id": 264,
+        "unionId": "F84",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204069226835@",
+    "geniId": "6000000204069226835",
+    "rfn": "geni:6000000204069226835",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/99/",
+    "canonical": "https://www.genepedia.org/people/99/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

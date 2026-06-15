@@ -1,0 +1,110 @@
+{
+  "id": 1092,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-fourie-1092",
+  "names": {
+    "display": "Petrus Johannes Fourie",
+    "given": "Petrus Johannes",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 MAR 1887",
+      "year": 1887,
+      "iso": "1887-03-04",
+      "precision": "exact",
+      "display": "March 4, 1887",
+      "place": null
+    },
+    "death": {
+      "date": "8 OCT 1969",
+      "year": 1969,
+      "iso": "1969-10-08",
+      "precision": "exact",
+      "display": "October 8, 1969",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      432,
+      1089
+    ],
+    "spouses": [
+      1099
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1090,
+      1091
+    ],
+    "parentUnions": [
+      "F288"
+    ],
+    "spouseUnions": [
+      "F668"
+    ],
+    "parentLinks": [
+      {
+        "id": 432,
+        "unionId": "F288",
+        "type": "biological"
+      },
+      {
+        "id": 1089,
+        "unionId": "F288",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1099,
+        "unionId": "F668",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026998003413@",
+    "geniId": "6000000026998003413",
+    "rfn": "geni:6000000026998003413",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/1092/",
+    "canonical": "https://www.genepedia.org/people/1092/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

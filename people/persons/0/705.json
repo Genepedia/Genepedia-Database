@@ -1,0 +1,110 @@
+{
+  "id": 705,
+  "schema": "genepedia/person@1",
+  "slug": "smit-705",
+  "names": {
+    "display": "? Smit",
+    "given": "?",
+    "surname": "Smit",
+    "married": "Joubert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      703,
+      704
+    ],
+    "spouses": [
+      1708
+    ],
+    "exSpouses": [],
+    "children": [
+      1709,
+      1710
+    ],
+    "siblings": [
+      282,
+      706
+    ],
+    "parentUnions": [
+      "F198"
+    ],
+    "spouseUnions": [
+      "F448"
+    ],
+    "parentLinks": [
+      {
+        "id": 703,
+        "unionId": "F198",
+        "type": "biological"
+      },
+      {
+        "id": 704,
+        "unionId": "F198",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1708,
+        "unionId": "F448",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1709,
+        "unionId": "F448",
+        "type": "biological"
+      },
+      {
+        "id": 1710,
+        "unionId": "F448",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204892388954@",
+    "geniId": "6000000204892388954",
+    "rfn": "geni:6000000204892388954",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/705/",
+    "canonical": "https://www.genepedia.org/people/705/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

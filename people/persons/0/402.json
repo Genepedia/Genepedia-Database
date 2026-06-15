@@ -1,0 +1,104 @@
+{
+  "id": 402,
+  "schema": "genepedia/person@1",
+  "slug": "rene-barnard",
+  "names": {
+    "display": "Rene Barnard",
+    "given": "Rene",
+    "surname": "Barnard",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "10 JUL 1965",
+      "year": 1965,
+      "iso": "1965-07-10",
+      "precision": "exact",
+      "display": "July 10, 1965",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/05/ed/38/50/5344486859d47950/450564051_8136427779700590_6736800003699192278_n_original.jpg?hash=a8a6a9ad8504e1a17bb269df840f36ec3ccd91ccc2354375770e25706dadd35b.1789455599",
+      "alt": "Rene Barnard"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/05/ed/38/50/5344486859d47950/450564051_8136427779700590_6736800003699192278_n_original.jpg?hash=a8a6a9ad8504e1a17bb269df840f36ec3ccd91ccc2354375770e25706dadd35b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      400,
+      401
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      149
+    ],
+    "parentUnions": [
+      "F126"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 400,
+        "unionId": "F126",
+        "type": "biological"
+      },
+      {
+        "id": 401,
+        "unionId": "F126",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216585362837@",
+    "geniId": "6000000216585362837",
+    "rfn": "geni:6000000216585362837",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/402/",
+    "canonical": "https://www.genepedia.org/people/402/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

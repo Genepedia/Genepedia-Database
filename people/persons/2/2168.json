@@ -1,0 +1,123 @@
+{
+  "id": 2168,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-hibbert",
+  "names": {
+    "display": "Jacobus Johannes Hibbert",
+    "given": "Jacobus Johannes",
+    "surname": "Hibbert",
+    "married": "Hibbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JUN 1893",
+      "year": 1893,
+      "iso": "1893-06-12",
+      "precision": "exact",
+      "display": "June 12, 1893",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "12 SEP 1893",
+      "year": 1893,
+      "iso": "1893-09-12",
+      "precision": "exact",
+      "display": "September 12, 1893",
+      "place": "Griekwastad, South Africa",
+      "location": {
+        "label": "Griekwastad, South Africa",
+        "placeName": "Griekwastad",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2162,
+      893
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2163,
+      2164,
+      2165,
+      2166,
+      2167,
+      2169,
+      2170,
+      2171,
+      2172
+    ],
+    "parentUnions": [
+      "F556"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2162,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 893,
+        "unionId": "F556",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029612417303@",
+    "geniId": "6000000029612417303",
+    "rfn": "geni:6000000029612417303",
+    "changed": "26 JUN 2015"
+  },
+  "page": {
+    "route": "people/2168/",
+    "canonical": "https://www.genepedia.org/people/2168/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

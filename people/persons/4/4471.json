@@ -1,0 +1,133 @@
+{
+  "id": 4471,
+  "schema": "genepedia/person@1",
+  "slug": "tauba-kleyn",
+  "names": {
+    "display": "Tauba Kleyn",
+    "given": "Tauba",
+    "surname": "Kleyn",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1860",
+      "year": 1860,
+      "iso": "1860",
+      "precision": "about",
+      "display": "about 1860",
+      "place": null
+    },
+    "death": {
+      "date": "10 SEP 1896",
+      "year": 1896,
+      "iso": "1896-09-10",
+      "precision": "exact",
+      "display": "September 10, 1896",
+      "place": "Kurshan?",
+      "location": {
+        "label": "Kurshan?",
+        "placeName": "Kurshan?",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1746
+    ],
+    "exSpouses": [],
+    "children": [
+      4472,
+      4473,
+      4474,
+      4475
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1059"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1746,
+        "unionId": "F1059",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4472,
+        "unionId": "F1059",
+        "type": "biological"
+      },
+      {
+        "id": 4473,
+        "unionId": "F1059",
+        "type": "biological"
+      },
+      {
+        "id": 4474,
+        "unionId": "F1059",
+        "type": "biological"
+      },
+      {
+        "id": 4475,
+        "unionId": "F1059",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291053@",
+    "geniId": "6000000003658291053",
+    "rfn": "geni:6000000003658291053",
+    "changed": "11 JUN 2021"
+  },
+  "page": {
+    "route": "people/4471/",
+    "canonical": "https://www.genepedia.org/people/4471/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 961,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-maria-margaretha-cloete",
+  "names": {
+    "display": "Magdalena Maria Margaretha Cloete",
+    "given": "Magdalena Maria Margaretha",
+    "surname": "Cloete",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      954,
+      955
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      382,
+      956,
+      957,
+      958,
+      959,
+      960,
+      962,
+      963
+    ],
+    "parentUnions": [
+      "F262"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 954,
+        "unionId": "F262",
+        "type": "biological"
+      },
+      {
+        "id": 955,
+        "unionId": "F262",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000136294463875@",
+    "geniId": "6000000136294463875",
+    "rfn": "geni:6000000136294463875",
+    "changed": "27 AUG 2022"
+  },
+  "page": {
+    "route": "people/961/",
+    "canonical": "https://www.genepedia.org/people/961/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

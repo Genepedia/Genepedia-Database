@@ -1,0 +1,127 @@
+{
+  "id": 3166,
+  "schema": "genepedia/person@1",
+  "slug": "cornelis-pieter-de-leeuw",
+  "names": {
+    "display": "Cornelis Pieter de Leeuw",
+    "given": "Cornelis Pieter",
+    "surname": "de Leeuw",
+    "married": "de Leeuw",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3165
+    ],
+    "exSpouses": [],
+    "children": [
+      3167,
+      1272,
+      3168,
+      3169,
+      3170,
+      3171,
+      3172,
+      3173
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F778"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3165,
+        "unionId": "F778",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3167,
+        "unionId": "F778",
+        "type": "biological"
+      },
+      {
+        "id": 1272,
+        "unionId": "F778",
+        "type": "biological"
+      },
+      {
+        "id": 3168,
+        "unionId": "F778",
+        "type": "biological"
+      },
+      {
+        "id": 3169,
+        "unionId": "F778",
+        "type": "biological"
+      },
+      {
+        "id": 3170,
+        "unionId": "F778",
+        "type": "biological"
+      },
+      {
+        "id": 3171,
+        "unionId": "F778",
+        "type": "biological"
+      },
+      {
+        "id": 3172,
+        "unionId": "F778",
+        "type": "biological"
+      },
+      {
+        "id": 3173,
+        "unionId": "F778",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000051696071828@",
+    "geniId": "6000000051696071828",
+    "rfn": "geni:6000000051696071828",
+    "changed": "25 DEC 2016"
+  },
+  "page": {
+    "route": "people/3166/",
+    "canonical": "https://www.genepedia.org/people/3166/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

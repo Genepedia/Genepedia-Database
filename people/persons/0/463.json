@@ -1,0 +1,109 @@
+{
+  "id": 463,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-christiaan-cloete",
+  "names": {
+    "display": "Pieter Andries Christiaan Cloete",
+    "given": "Pieter Andries Christiaan",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "Piet",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      171
+    ],
+    "exSpouses": [],
+    "children": [
+      464,
+      465,
+      466,
+      467,
+      468
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F139"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 171,
+        "unionId": "F139",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 464,
+        "unionId": "F139",
+        "type": "biological"
+      },
+      {
+        "id": 465,
+        "unionId": "F139",
+        "type": "biological"
+      },
+      {
+        "id": 466,
+        "unionId": "F139",
+        "type": "biological"
+      },
+      {
+        "id": 467,
+        "unionId": "F139",
+        "type": "biological"
+      },
+      {
+        "id": 468,
+        "unionId": "F139",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204081974840@",
+    "geniId": "6000000204081974840",
+    "rfn": "geni:6000000204081974840",
+    "changed": "14 MAR 2024"
+  },
+  "page": {
+    "route": "people/463/",
+    "canonical": "https://www.genepedia.org/people/463/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

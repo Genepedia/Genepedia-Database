@@ -1,0 +1,124 @@
+{
+  "id": 1758,
+  "schema": "genepedia/person@1",
+  "slug": "bertha-lurie",
+  "names": {
+    "display": "Bertha Lurie",
+    "given": "Bertha",
+    "surname": "Lurie",
+    "married": "Friedman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 NOV 1917",
+      "year": 1917,
+      "iso": "1917-11-18",
+      "precision": "exact",
+      "display": "November 18, 1917",
+      "place": null
+    },
+    "death": {
+      "date": "3 OCT 1984",
+      "year": 1984,
+      "iso": "1984-10-03",
+      "precision": "exact",
+      "display": "October 3, 1984",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      729,
+      1757
+    ],
+    "spouses": [
+      4494
+    ],
+    "exSpouses": [],
+    "children": [
+      4495,
+      4496
+    ],
+    "siblings": [
+      1759,
+      1760
+    ],
+    "parentUnions": [
+      "F461"
+    ],
+    "spouseUnions": [
+      "F1066"
+    ],
+    "parentLinks": [
+      {
+        "id": 729,
+        "unionId": "F461",
+        "type": "biological"
+      },
+      {
+        "id": 1757,
+        "unionId": "F461",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4494,
+        "unionId": "F1066",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4495,
+        "unionId": "F1066",
+        "type": "biological"
+      },
+      {
+        "id": 4496,
+        "unionId": "F1066",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208304956848@",
+    "geniId": "6000000208304956848",
+    "rfn": "geni:6000000208304956848",
+    "changed": "19 AUG 2024"
+  },
+  "page": {
+    "route": "people/1758/",
+    "canonical": "https://www.genepedia.org/people/1758/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1457,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-christina-herbert-2",
+  "names": {
+    "display": "Johanna Christina Herbert 2",
+    "given": "Johanna Christina",
+    "surname": "Herbert",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 MAR 1921",
+      "year": 1921,
+      "iso": "1921-03-26",
+      "precision": "exact",
+      "display": "March 26, 1921",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1455,
+      581
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1456,
+      1458
+    ],
+    "parentUnions": [
+      "F367"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1455,
+        "unionId": "F367",
+        "type": "biological"
+      },
+      {
+        "id": 581,
+        "unionId": "F367",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000076305029694@",
+    "geniId": "6000000076305029694",
+    "rfn": "geni:6000000076305029694",
+    "changed": "22 FEB 2018"
+  },
+  "page": {
+    "route": "people/1457/",
+    "canonical": "https://www.genepedia.org/people/1457/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

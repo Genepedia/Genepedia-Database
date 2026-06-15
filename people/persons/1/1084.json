@@ -1,0 +1,103 @@
+{
+  "id": 1084,
+  "schema": "genepedia/person@1",
+  "slug": "maria-wilhelmina-glaudina-kotze",
+  "names": {
+    "display": "Maria Wilhelmina Glaudina Kotze",
+    "given": "Maria Wilhelmina Glaudina",
+    "surname": "Kotze",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 MAY 1893",
+      "year": 1893,
+      "iso": "1893-05-08",
+      "precision": "exact",
+      "display": "May 8, 1893",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1075,
+      431
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1085,
+      1086,
+      1087,
+      1088
+    ],
+    "parentUnions": [
+      "F287"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1075,
+        "unionId": "F287",
+        "type": "biological"
+      },
+      {
+        "id": 431,
+        "unionId": "F287",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000220974604996@",
+    "geniId": "6000000220974604996",
+    "rfn": "geni:6000000220974604996",
+    "changed": "03 SEP 2025"
+  },
+  "page": {
+    "route": "people/1084/",
+    "canonical": "https://www.genepedia.org/people/1084/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

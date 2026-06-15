@@ -1,0 +1,132 @@
+{
+  "id": 3489,
+  "schema": "genepedia/person@1",
+  "slug": "zacharias-johannes-de-beer",
+  "names": {
+    "display": "Zacharias Johannes De Beer",
+    "given": "Zacharias Johannes",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 MAR 1799",
+      "year": 1799,
+      "iso": "1799-03-30",
+      "precision": "exact",
+      "display": "March 30, 1799",
+      "place": "Graaff-Reinet, Cape Colony, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1880",
+      "year": 1880,
+      "iso": "1880",
+      "precision": "exact",
+      "display": "1880",
+      "place": null
+    },
+    "baptism": {
+      "date": "16 OCT 1800",
+      "year": 1800,
+      "iso": "1800-10-16",
+      "precision": "exact",
+      "display": "October 16, 1800",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3484,
+      3485
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3486,
+      3487,
+      3488,
+      3490,
+      3491,
+      3492,
+      3493,
+      3494,
+      3495,
+      1385,
+      3496
+    ],
+    "parentUnions": [
+      "F857"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3484,
+        "unionId": "F857",
+        "type": "biological"
+      },
+      {
+        "id": 3485,
+        "unionId": "F857",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000186173449249@",
+    "geniId": "6000000186173449249",
+    "rfn": "geni:6000000186173449249",
+    "changed": "25 FEB 2025"
+  },
+  "page": {
+    "route": "people/3489/",
+    "canonical": "https://www.genepedia.org/people/3489/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

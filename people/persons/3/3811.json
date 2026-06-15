@@ -1,0 +1,129 @@
+{
+  "id": 3811,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-jacoba-magdalena-brynard-3811",
+  "names": {
+    "display": "Susanna Jacoba Magdalena Brynard",
+    "given": "Susanna Jacoba Magdalena",
+    "surname": "Brynard",
+    "married": "",
+    "nick": "",
+    "aliases": [
+      "Brynard"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 MAY 1919",
+      "year": 1919,
+      "iso": "1919-05-08",
+      "precision": "exact",
+      "display": "May 8, 1919",
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "8190",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 SEP 1941",
+      "year": 1941,
+      "iso": "1941-09-10",
+      "precision": "exact",
+      "display": "September 10, 1941",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1442,
+      3803
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3804,
+      3805,
+      3806,
+      3807,
+      3808,
+      3809,
+      3810,
+      3812,
+      3813,
+      3814,
+      3815,
+      3816,
+      3817
+    ],
+    "parentUnions": [
+      "F906"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1442,
+        "unionId": "F906",
+        "type": "biological"
+      },
+      {
+        "id": 3803,
+        "unionId": "F906",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000223366390906@",
+    "geniId": "6000000223366390906",
+    "rfn": "geni:6000000223366390906",
+    "changed": "16 JAN 2026"
+  },
+  "page": {
+    "route": "people/3811/",
+    "canonical": "https://www.genepedia.org/people/3811/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

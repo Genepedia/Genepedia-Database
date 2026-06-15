@@ -1,0 +1,99 @@
+{
+  "id": 2394,
+  "schema": "genepedia/person@1",
+  "slug": "elzabie-elizabeth",
+  "names": {
+    "display": "Elzabie Elizabeth",
+    "given": "Elzabie Elizabeth",
+    "surname": "Cloete",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 9 NOV 1905",
+      "year": 1905,
+      "iso": "1905-11-09",
+      "precision": "about",
+      "display": "about November 9, 1905",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      958,
+      2387
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2388,
+      2389,
+      2390,
+      2391,
+      2392,
+      2393,
+      2395,
+      2396
+    ],
+    "parentUnions": [
+      "F603"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 958,
+        "unionId": "F603",
+        "type": "biological"
+      },
+      {
+        "id": 2387,
+        "unionId": "F603",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000134958465979@",
+    "geniId": "6000000134958465979",
+    "rfn": "geni:6000000134958465979",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/2394/",
+    "canonical": "https://www.genepedia.org/people/2394/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

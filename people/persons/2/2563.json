@@ -1,0 +1,139 @@
+{
+  "id": 2563,
+  "schema": "genepedia/person@1",
+  "slug": "jacomina-hendrina-botha",
+  "names": {
+    "display": "Jacomina Hendrina Botha",
+    "given": "Jacomina Hendrina",
+    "surname": "Botha",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": [
+      "Fourie"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 NOV 1811",
+      "year": 1811,
+      "iso": "1811-11-09",
+      "precision": "exact",
+      "display": "November 9, 1811",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "12 JAN 1812",
+      "year": 1812,
+      "iso": "1812-01-12",
+      "precision": "exact",
+      "display": "January 12, 1812",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4221,
+      4222
+    ],
+    "spouses": [
+      1060
+    ],
+    "exSpouses": [],
+    "children": [
+      2564
+    ],
+    "siblings": [
+      4223,
+      4224,
+      4225,
+      4226,
+      1602
+    ],
+    "parentUnions": [
+      "F991"
+    ],
+    "spouseUnions": [
+      "F638"
+    ],
+    "parentLinks": [
+      {
+        "id": 4221,
+        "unionId": "F991",
+        "type": "biological"
+      },
+      {
+        "id": 4222,
+        "unionId": "F991",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1060,
+        "unionId": "F638",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2564,
+        "unionId": "F638",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000014504356272@",
+    "geniId": "6000000014504356272",
+    "rfn": "geni:6000000014504356272",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2563/",
+    "canonical": "https://www.genepedia.org/people/2563/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

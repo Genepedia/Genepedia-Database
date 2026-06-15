@@ -1,0 +1,91 @@
+{
+  "id": 3082,
+  "schema": "genepedia/person@1",
+  "slug": "leon-le-roux",
+  "names": {
+    "display": "Leon Le Roux",
+    "given": "Leon",
+    "surname": "Le Roux",
+    "married": "Le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ca/a4/34/b0/534448663cd8f521/screenshot_2024-07-21_232149_original.jpg?hash=bd4e35cd97521fa7ed96e4efd5f1fd328a0ff9918b241d85be1f38ffe0ace046.1789455599",
+      "alt": "Leon Le Roux"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ca/a4/34/b0/534448663cd8f521/screenshot_2024-07-21_232149_original.jpg?hash=bd4e35cd97521fa7ed96e4efd5f1fd328a0ff9918b241d85be1f38ffe0ace046.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1233
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1908"
+    ],
+    "spouseUnions": [
+      "F759"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1233,
+        "unionId": "F759",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207509096833@",
+    "geniId": "6000000207509096833",
+    "rfn": "geni:6000000207509096833",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/3082/",
+    "canonical": "https://www.genepedia.org/people/3082/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

@@ -1,0 +1,121 @@
+{
+  "id": 2058,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-anne-bester",
+  "names": {
+    "display": "Elizabeth Anne Bester",
+    "given": "Elizabeth Anne",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 FEB 1949",
+      "year": 1949,
+      "iso": "1949-02-03",
+      "precision": "exact",
+      "display": "February 3, 1949",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "1 MAY 1955",
+      "year": 1955,
+      "iso": "1955-05-01",
+      "precision": "exact",
+      "display": "May 1, 1955",
+      "place": "Kadoma, Mashonaland West Province, Zimbabwe",
+      "location": {
+        "label": "Kadoma, Mashonaland West Province, Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kadoma",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mashonaland West Province",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      845,
+      2054
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2055,
+      2056,
+      2057,
+      2059,
+      2060
+    ],
+    "parentUnions": [
+      "F534"
+    ],
+    "spouseUnions": [
+      "F1269"
+    ],
+    "parentLinks": [
+      {
+        "id": 845,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2054,
+        "unionId": "F534",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066576489963@",
+    "geniId": "6000000066576489963",
+    "rfn": "geni:6000000066576489963",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/2058/",
+    "canonical": "https://www.genepedia.org/people/2058/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

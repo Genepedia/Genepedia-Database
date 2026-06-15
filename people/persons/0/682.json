@@ -1,0 +1,157 @@
+{
+  "id": 682,
+  "schema": "genepedia/person@1",
+  "slug": "paul-meilhon",
+  "names": {
+    "display": "Paul Meilhon",
+    "given": "Paul",
+    "surname": "Meilhon",
+    "married": "Meilhon",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Durban, Natal, South Africa",
+      "location": {
+        "label": "Durban, Natal, South Africa",
+        "placeName": "Durban, Natal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "29 FEB 1952",
+      "year": 1952,
+      "iso": "1952-02-29",
+      "precision": "exact",
+      "display": "February 29, 1952",
+      "place": "Durban, Natal, South Africa",
+      "location": {
+        "label": "Durban, Natal, South Africa",
+        "placeName": "Durban, Natal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Paul Meilhon"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Family Tree",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      671,
+      670
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      672,
+      673,
+      674,
+      675,
+      676,
+      268,
+      677,
+      678,
+      679,
+      680,
+      681,
+      683,
+      684,
+      685,
+      686
+    ],
+    "parentUnions": [
+      "F191"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 671,
+        "unionId": "F191",
+        "type": "biological"
+      },
+      {
+        "id": 670,
+        "unionId": "F191",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003274758424@",
+    "geniId": "6000000003274758424",
+    "rfn": "geni:6000000003274758424",
+    "changed": "22 OCT 2024"
+  },
+  "page": {
+    "route": "people/682/",
+    "canonical": "https://www.genepedia.org/people/682/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

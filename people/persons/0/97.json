@@ -1,0 +1,115 @@
+{
+  "id": 97,
+  "schema": "genepedia/person@1",
+  "slug": "vernon-els",
+  "names": {
+    "display": "Vernon Els",
+    "given": "Vernon",
+    "surname": "Els",
+    "married": "Els",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/0d/b7/8d/5c/53444865766eeb9e/screenshot_2024-03-17_130831_original.jpg?hash=dabf5cf883d48777018c451cc8198edb514a7790934d1ccb6ee0c3a458f57006.1789455599",
+      "alt": "Vernon Els"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/0d/b7/8d/5c/53444865766eeb9e/screenshot_2024-03-17_130831_original.jpg?hash=dabf5cf883d48777018c451cc8198edb514a7790934d1ccb6ee0c3a458f57006.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      96,
+      94
+    ],
+    "spouses": [
+      260
+    ],
+    "exSpouses": [],
+    "children": [
+      261
+    ],
+    "siblings": [
+      29
+    ],
+    "parentUnions": [
+      "F35"
+    ],
+    "spouseUnions": [
+      "F82"
+    ],
+    "parentLinks": [
+      {
+        "id": 96,
+        "unionId": "F35",
+        "type": "biological"
+      },
+      {
+        "id": 94,
+        "unionId": "F35",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 260,
+        "unionId": "F82",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 261,
+        "unionId": "F82",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204068883824@",
+    "geniId": "6000000204068883824",
+    "rfn": "geni:6000000204068883824",
+    "changed": "17 MAR 2024"
+  },
+  "page": {
+    "route": "people/97/",
+    "canonical": "https://www.genepedia.org/people/97/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

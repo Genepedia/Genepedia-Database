@@ -1,0 +1,84 @@
+{
+  "id": 1982,
+  "schema": "genepedia/person@1",
+  "slug": "lucia-christina-du-plessis",
+  "names": {
+    "display": "Lucia Christina du Plessis",
+    "given": "Lucia Christina",
+    "surname": "du Plessis",
+    "married": "van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 MAR 1874",
+      "year": 1874,
+      "iso": "1874-03-31",
+      "precision": "exact",
+      "display": "March 31, 1874",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      822
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F514"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 822,
+        "unionId": "F514",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000044010484526@",
+    "geniId": "6000000044010484526",
+    "rfn": "geni:6000000044010484526",
+    "changed": "16 NOV 2022"
+  },
+  "page": {
+    "route": "people/1982/",
+    "canonical": "https://www.genepedia.org/people/1982/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

@@ -1,0 +1,225 @@
+{
+  "id": 567,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-meintjes-de-beer",
+  "names": {
+    "display": "Johannes Meintjes de Beer",
+    "given": "Johannes Meintjes",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 MAY 1877",
+      "year": 1877,
+      "iso": "1877-05-28",
+      "precision": "exact",
+      "display": "May 28, 1877",
+      "place": "Aberdeen, Cape Province, South Africa",
+      "location": {
+        "label": "Aberdeen, Cape Province, South Africa",
+        "placeName": "Aberdeen, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 MAY 1959",
+      "year": 1959,
+      "iso": "1959-05-08",
+      "precision": "exact",
+      "display": "May 8, 1959",
+      "place": "Bellville, Cape Province, South Africa",
+      "location": {
+        "label": "Bellville, Cape Province, South Africa",
+        "placeName": "Bellville, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "29 JUL 1877",
+      "year": 1877,
+      "iso": "1877-07-29",
+      "precision": "exact",
+      "display": "July 29, 1877",
+      "place": "Aberdeen, Cape Province, South Africa",
+      "location": {
+        "label": "Aberdeen, Cape Province, South Africa",
+        "placeName": "Aberdeen, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Malmesbury, South Africa",
+      "location": {
+        "label": "Malmesbury, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Malmesbury",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/0a/cd/dd/9e/5344486640ef9e7b/abw_leage_of_veterans_original.jpg?hash=e9de8de13e8befc5bf5984c932bb27725874c5b3aab12ff7f3eb607138d88e62.1789455599",
+      "alt": "Johannes Meintjes de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/0a/cd/dd/9e/5344486640ef9e7b/abw_leage_of_veterans_original.jpg?hash=e9de8de13e8befc5bf5984c932bb27725874c5b3aab12ff7f3eb607138d88e62.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      563,
+      564
+    ],
+    "spouses": [
+      1406
+    ],
+    "exSpouses": [],
+    "children": [
+      1407,
+      1408
+    ],
+    "siblings": [
+      565,
+      566,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      214,
+      575,
+      576
+    ],
+    "parentUnions": [
+      "F164"
+    ],
+    "spouseUnions": [
+      "F360"
+    ],
+    "parentLinks": [
+      {
+        "id": 563,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 564,
+        "unionId": "F164",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1406,
+        "unionId": "F360",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1407,
+        "unionId": "F360",
+        "type": "biological"
+      },
+      {
+        "id": 1408,
+        "unionId": "F360",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000038278260275@",
+    "geniId": "6000000038278260275",
+    "rfn": "geni:6000000038278260275",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/567/",
+    "canonical": "https://www.genepedia.org/people/567/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,216 @@
+{
+  "id": 3820,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-christina-nel-3820",
+  "names": {
+    "display": "Johanna Christina Nel",
+    "given": "Johanna Christina",
+    "surname": "Nel",
+    "married": "Herbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 MAR 1850",
+      "year": 1850,
+      "iso": "1850-03-28",
+      "precision": "exact",
+      "display": "March 28, 1850",
+      "place": "Syferwater, Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Syferwater, Calvinia, Northern Cape, South Africa",
+        "placeName": "Syferwater",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "5 DEC 1904",
+      "year": 1904,
+      "iso": "1904-12-05",
+      "precision": "exact",
+      "display": "December 5, 1904",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f9/1e/95/fb/534448497ddddb4a/johanna_christina_nel_original.jpg?hash=01d09cd66a9449a74c54a022e8dc183dd61a660b5407712053c0e227405cf770.1789455599",
+      "alt": "Johanna Christina Nel"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f9/1e/95/fb/534448497ddddb4a/johanna_christina_nel_original.jpg?hash=01d09cd66a9449a74c54a022e8dc183dd61a660b5407712053c0e227405cf770.1789455599",
+        "form": "",
+        "title": "Johanna Christina Nel.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/43/2e/9b/58/53444866954dabe6/image_1__original.jpg?hash=6465668143d37734d5268e74ed6f0471b89adb164dfa5420d1f7a63ee9067ac8.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3821
+    ],
+    "exSpouses": [],
+    "children": [
+      3822,
+      1444,
+      3823,
+      3824,
+      3825,
+      3826,
+      3827,
+      3828,
+      3829,
+      3830,
+      3831,
+      3832
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F908"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3821,
+        "unionId": "F908",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3822,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 1444,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3823,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3824,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3825,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3826,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3827,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3828,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3829,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3830,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3831,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3832,
+        "unionId": "F908",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000021599124425@",
+    "geniId": "6000000021599124425",
+    "rfn": "geni:6000000021599124425",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3820/",
+    "canonical": "https://www.genepedia.org/people/3820/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

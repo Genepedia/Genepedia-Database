@@ -1,0 +1,190 @@
+{
+  "id": 1844,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-johan-bester-1844",
+  "names": {
+    "display": "Michiel Johan Bester",
+    "given": "Michiel Johan",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 NOV 1801",
+      "year": 1801,
+      "iso": "1801-11-22",
+      "precision": "exact",
+      "display": "November 22, 1801",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "6740",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 SEP 1854",
+      "year": 1854,
+      "iso": "1854-09-27",
+      "precision": "exact",
+      "display": "September 27, 1854",
+      "place": "“Langkraal”, South Africa",
+      "location": {
+        "label": "“Langkraal”, South Africa",
+        "placeName": "“Langkraal”",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "22 NOV 1801",
+      "year": 1801,
+      "iso": "1801-11-22",
+      "precision": "exact",
+      "display": "November 22, 1801",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4579,
+      4580
+    ],
+    "spouses": [
+      1843
+    ],
+    "exSpouses": [],
+    "children": [
+      1845,
+      1846,
+      1847,
+      810,
+      1848,
+      1849
+    ],
+    "siblings": [
+      4581,
+      4582,
+      4583,
+      4584,
+      4585
+    ],
+    "parentUnions": [
+      "F1099"
+    ],
+    "spouseUnions": [
+      "F493"
+    ],
+    "parentLinks": [
+      {
+        "id": 4579,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4580,
+        "unionId": "F1099",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1843,
+        "unionId": "F493",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1845,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1846,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1847,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 810,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1848,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1849,
+        "unionId": "F493",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000018857329488@",
+    "geniId": "6000000018857329488",
+    "rfn": "geni:6000000018857329488",
+    "changed": "28 FEB 2025"
+  },
+  "page": {
+    "route": "people/1844/",
+    "canonical": "https://www.genepedia.org/people/1844/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

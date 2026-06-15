@@ -1,0 +1,109 @@
+{
+  "id": 2328,
+  "schema": "genepedia/person@1",
+  "slug": "anthony-nico-smit",
+  "names": {
+    "display": "Anthony Nico Smit",
+    "given": "Anthony Nico",
+    "surname": "Smit",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "ABT 14 JUN 1955",
+      "year": 1955,
+      "iso": "1955-06-14",
+      "precision": "about",
+      "display": "about June 14, 1955",
+      "place": "Johannesburg, GP, South Africa",
+      "location": {
+        "label": "Johannesburg, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2327,
+      930
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2329,
+      2330
+    ],
+    "parentUnions": [
+      "F589"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2327,
+        "unionId": "F589",
+        "type": "biological"
+      },
+      {
+        "id": 930,
+        "unionId": "F589",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000118213598111@",
+    "geniId": "6000000118213598111",
+    "rfn": "geni:6000000118213598111",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2328/",
+    "canonical": "https://www.genepedia.org/people/2328/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

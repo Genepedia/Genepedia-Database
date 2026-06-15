@@ -1,0 +1,97 @@
+{
+  "id": 708,
+  "schema": "genepedia/person@1",
+  "slug": "hans-bronkhorst",
+  "names": {
+    "display": "Hans Bronkhorst",
+    "given": "Hans",
+    "surname": "Bronkhorst",
+    "married": "Bronkhorst",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/9f/0e/a8/65/53444865a0d75275/14993324_1221022191297312_4777713021035068634_n_original.jpg?hash=cbfb24a8e3e6d79a3eb20e29ef371b4a7a03b5f324d21ba126733a5554a64bf1.1789455599",
+      "alt": "Hans Bronkhorst"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/9f/0e/a8/65/53444865a0d75275/14993324_1221022191297312_4777713021035068634_n_original.jpg?hash=cbfb24a8e3e6d79a3eb20e29ef371b4a7a03b5f324d21ba126733a5554a64bf1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      284
+    ],
+    "exSpouses": [],
+    "children": [
+      709
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F200"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 284,
+        "unionId": "F200",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 709,
+        "unionId": "F200",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204892378864@",
+    "geniId": "6000000204892378864",
+    "rfn": "geni:6000000204892378864",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/708/",
+    "canonical": "https://www.genepedia.org/people/708/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

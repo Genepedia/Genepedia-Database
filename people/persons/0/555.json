@@ -1,0 +1,147 @@
+{
+  "id": 555,
+  "schema": "genepedia/person@1",
+  "slug": "christa-esterhuyse",
+  "names": {
+    "display": "Christa Esterhuyse",
+    "given": "Christa",
+    "surname": "Esterhuyse",
+    "married": "Franken",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "4 JAN 1970",
+      "year": 1970,
+      "iso": "1970-01-04",
+      "precision": "exact",
+      "display": "January 4, 1970",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/8f/28/7f/40/5344486602ab632e/417512396_10224188145151444_6821839300073325208_n_original.jpg?hash=137772bb4053d8e78d7ac1f093494f224995bf947096b807e1958b29061f34ca.1789455599",
+      "alt": "Christa Esterhuyse"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/8f/28/7f/40/5344486602ab632e/417512396_10224188145151444_6821839300073325208_n_original.jpg?hash=137772bb4053d8e78d7ac1f093494f224995bf947096b807e1958b29061f34ca.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      551,
+      212
+    ],
+    "spouses": [
+      1364
+    ],
+    "exSpouses": [],
+    "children": [
+      1365,
+      1366
+    ],
+    "siblings": [
+      552,
+      553,
+      554,
+      556
+    ],
+    "parentUnions": [
+      "F161"
+    ],
+    "spouseUnions": [
+      "F350"
+    ],
+    "parentLinks": [
+      {
+        "id": 551,
+        "unionId": "F161",
+        "type": "biological"
+      },
+      {
+        "id": 212,
+        "unionId": "F161",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1364,
+        "unionId": "F350",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1365,
+        "unionId": "F350",
+        "type": "biological"
+      },
+      {
+        "id": 1366,
+        "unionId": "F350",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227880417@",
+    "geniId": "6000000027227880417",
+    "rfn": "geni:6000000027227880417",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/555/",
+    "canonical": "https://www.genepedia.org/people/555/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

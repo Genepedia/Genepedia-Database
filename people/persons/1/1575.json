@@ -1,0 +1,231 @@
+{
+  "id": 1575,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-jacobus-pretorius",
+  "names": {
+    "display": "Abraham Jacobus Pretorius",
+    "given": "Abraham Jacobus",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 MAY 1864",
+      "year": 1864,
+      "iso": "1864-05-24",
+      "precision": "exact",
+      "display": "May 24, 1864",
+      "place": "Heilbron, Vrystaat, South Africa",
+      "location": {
+        "label": "Heilbron, Vrystaat, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Heilbron",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Vrystaat",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 OCT 1928",
+      "year": 1928,
+      "iso": "1928-10-16",
+      "precision": "exact",
+      "display": "October 16, 1928",
+      "place": "Leeuwbosch, Wolmaransstad",
+      "location": {
+        "label": "Leeuwbosch, Wolmaransstad",
+        "placeName": "Leeuwbosch",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "11 JUN 1864",
+      "year": 1864,
+      "iso": "1864-06-11",
+      "precision": "exact",
+      "display": "June 11, 1864",
+      "place": "Harrismith, Free State, South Africa",
+      "location": {
+        "label": "Harrismith, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Harrismith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": "16 OCT 1928",
+      "year": 1928,
+      "iso": "1928-10-16",
+      "precision": "exact",
+      "display": "October 16, 1928",
+      "place": null,
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4146,
+      4145
+    ],
+    "spouses": [
+      1576
+    ],
+    "exSpouses": [],
+    "children": [
+      1577,
+      1578,
+      634,
+      1579,
+      1580,
+      1581,
+      1582,
+      1583
+    ],
+    "siblings": [
+      4147,
+      4148,
+      4149,
+      4150,
+      4151,
+      4152,
+      4153,
+      4154,
+      4155,
+      4156
+    ],
+    "parentUnions": [
+      "F966"
+    ],
+    "spouseUnions": [
+      "F400"
+    ],
+    "parentLinks": [
+      {
+        "id": 4146,
+        "unionId": "F966",
+        "type": "biological"
+      },
+      {
+        "id": 4145,
+        "unionId": "F966",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1576,
+        "unionId": "F400",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1577,
+        "unionId": "F400",
+        "type": "biological"
+      },
+      {
+        "id": 1578,
+        "unionId": "F400",
+        "type": "biological"
+      },
+      {
+        "id": 634,
+        "unionId": "F400",
+        "type": "biological"
+      },
+      {
+        "id": 1579,
+        "unionId": "F400",
+        "type": "biological"
+      },
+      {
+        "id": 1580,
+        "unionId": "F400",
+        "type": "biological"
+      },
+      {
+        "id": 1581,
+        "unionId": "F400",
+        "type": "biological"
+      },
+      {
+        "id": 1582,
+        "unionId": "F400",
+        "type": "biological"
+      },
+      {
+        "id": 1583,
+        "unionId": "F400",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000004179293199@",
+    "geniId": "6000000004179293199",
+    "rfn": "geni:6000000004179293199",
+    "changed": "12 APR 2026"
+  },
+  "page": {
+    "route": "people/1575/",
+    "canonical": "https://www.genepedia.org/people/1575/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

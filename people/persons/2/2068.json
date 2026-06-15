@@ -1,0 +1,111 @@
+{
+  "id": 2068,
+  "schema": "genepedia/person@1",
+  "slug": "dirkie-jacoba-albertha-bester-2068",
+  "names": {
+    "display": "Dirkie Jacoba Albertha Bester",
+    "given": "Dirkie Jacoba Albertha",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "13 DEC 1967",
+      "year": 1967,
+      "iso": "1967-12-13",
+      "precision": "exact",
+      "display": "December 13, 1967",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      854,
+      2067
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2069,
+      2070
+    ],
+    "parentUnions": [
+      "F539"
+    ],
+    "spouseUnions": [
+      "F1275"
+    ],
+    "parentLinks": [
+      {
+        "id": 854,
+        "unionId": "F539",
+        "type": "biological"
+      },
+      {
+        "id": 2067,
+        "unionId": "F539",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066587766009@",
+    "geniId": "6000000066587766009",
+    "rfn": "geni:6000000066587766009",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/2068/",
+    "canonical": "https://www.genepedia.org/people/2068/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

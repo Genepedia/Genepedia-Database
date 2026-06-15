@@ -1,0 +1,112 @@
+{
+  "id": 502,
+  "schema": "genepedia/person@1",
+  "slug": "heila-magdalena-lambrecht",
+  "names": {
+    "display": "Heila Magdalena Lambrecht",
+    "given": "Heila Magdalena",
+    "surname": "Lambrecht",
+    "married": "Fourie",
+    "nick": "Mollie",
+    "aliases": [
+      "Heila Magdalena Fourie (Lambrecht)"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 NOV 1907",
+      "year": 1907,
+      "iso": "1907-11-22",
+      "precision": "exact",
+      "display": "November 22, 1907",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      176
+    ],
+    "exSpouses": [],
+    "children": [
+      503,
+      504,
+      505,
+      506
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F144"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 176,
+        "unionId": "F144",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 503,
+        "unionId": "F144",
+        "type": "biological"
+      },
+      {
+        "id": 504,
+        "unionId": "F144",
+        "type": "biological"
+      },
+      {
+        "id": 505,
+        "unionId": "F144",
+        "type": "biological"
+      },
+      {
+        "id": 506,
+        "unionId": "F144",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000044199581744@",
+    "geniId": "6000000044199581744",
+    "rfn": "geni:6000000044199581744",
+    "changed": "10 SEP 2025"
+  },
+  "page": {
+    "route": "people/502/",
+    "canonical": "https://www.genepedia.org/people/502/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

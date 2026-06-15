@@ -1,0 +1,167 @@
+{
+  "id": 21,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-johannes-van-niekerk-21",
+  "names": {
+    "display": "Dirk Johannes Van Niekerk",
+    "given": "Dirk Johannes",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 JUL 1944",
+      "year": 1944,
+      "iso": "1944-07-10",
+      "precision": "exact",
+      "display": "July 10, 1944",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 2020",
+      "year": 2020,
+      "iso": "2020",
+      "precision": "before",
+      "display": "before 2020",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/2b/2c/9f/28/53444865759d3036/screenshot_2024-03-17_001152_original.jpg?hash=4890a91621755b17c4adcf1e99018c615002873b563221c0863d25a9c3e6ed23.1789455599",
+      "alt": "Dirk Johannes Van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/2b/2c/9f/28/53444865759d3036/screenshot_2024-03-17_001152_original.jpg?hash=4890a91621755b17c4adcf1e99018c615002873b563221c0863d25a9c3e6ed23.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      79,
+      80
+    ],
+    "spouses": [
+      22
+    ],
+    "exSpouses": [],
+    "children": [
+      4,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "siblings": [
+      81,
+      82,
+      83
+    ],
+    "parentUnions": [
+      "F29"
+    ],
+    "spouseUnions": [
+      "F9"
+    ],
+    "parentLinks": [
+      {
+        "id": 79,
+        "unionId": "F29",
+        "type": "biological"
+      },
+      {
+        "id": 80,
+        "unionId": "F29",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 22,
+        "unionId": "F9",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4,
+        "unionId": "F9",
+        "type": "biological"
+      },
+      {
+        "id": 23,
+        "unionId": "F9",
+        "type": "biological"
+      },
+      {
+        "id": 24,
+        "unionId": "F9",
+        "type": "biological"
+      },
+      {
+        "id": 25,
+        "unionId": "F9",
+        "type": "biological"
+      },
+      {
+        "id": 26,
+        "unionId": "F9",
+        "type": "biological"
+      },
+      {
+        "id": 27,
+        "unionId": "F9",
+        "type": "biological"
+      },
+      {
+        "id": 28,
+        "unionId": "F9",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204014982834@",
+    "geniId": "6000000204014982834",
+    "rfn": "geni:6000000204014982834",
+    "changed": "30 SEP 2024"
+  },
+  "page": {
+    "route": "people/21/",
+    "canonical": "https://www.genepedia.org/people/21/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

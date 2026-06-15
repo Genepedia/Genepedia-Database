@@ -1,0 +1,244 @@
+{
+  "id": 1425,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-christina-nel",
+  "names": {
+    "display": "Johanna Christina Nel",
+    "given": "Johanna Christina",
+    "surname": "Nel",
+    "married": "Augustyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 MAY 1827",
+      "year": 1827,
+      "iso": "1827-05-04",
+      "precision": "exact",
+      "display": "May 4, 1827",
+      "place": "\"Verschefontein\", Onder-Roggeveld, South Africa",
+      "location": {
+        "label": "\"Verschefontein\", Onder-Roggeveld, South Africa",
+        "placeName": "\"Verschefontein\", Onder-Roggeveld",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "26 MAY 1858",
+      "year": 1858,
+      "iso": "1858-05-26",
+      "precision": "exact",
+      "display": "May 26, 1858",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "Verschefontein",
+        "addressLine2": "Onder-Roggeveld",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "12 SEP 1829",
+      "year": 1829,
+      "iso": "1829-09-12",
+      "precision": "exact",
+      "display": "September 12, 1829",
+      "place": "Worcester, Western Cape, South Africa",
+      "location": {
+        "label": "Worcester, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e4/41/58/2e/5344483f85f8fbe2/johanna_christina_augustyn_nel__original.jpg?hash=7308e9730a0e5086e00b483130f3ec65f287f8656f93433b01346eafbb865447.1789455599",
+      "alt": "Johanna Christina Nel"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e4/41/58/2e/5344483f85f8fbe2/johanna_christina_augustyn_nel__original.jpg?hash=7308e9730a0e5086e00b483130f3ec65f287f8656f93433b01346eafbb865447.1789455599",
+        "form": "",
+        "title": "Johanna Christina Augustyn(Nel).jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/b1/f6/69/f0/5344486695ef859d/image_original.jpg?hash=f069da3843567b5d52cc7ca22c9e46b07d8435f22fc3e5e4faaead7721b57ba7.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/42/54/38/28/5344486696dbaad3/image_original.jpg?hash=8358207b455942dc6edbd2ef49ced18d724ab8a2b068d7742b2315043a7b6637.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3716,
+      3717
+    ],
+    "spouses": [
+      1426
+    ],
+    "exSpouses": [],
+    "children": [
+      1427,
+      1428,
+      1429,
+      577,
+      1430,
+      1431,
+      1432,
+      1433
+    ],
+    "siblings": [
+      3718,
+      3719,
+      3720,
+      3721,
+      3722
+    ],
+    "parentUnions": [
+      "F893"
+    ],
+    "spouseUnions": [
+      "F363"
+    ],
+    "parentLinks": [
+      {
+        "id": 3716,
+        "unionId": "F893",
+        "type": "biological"
+      },
+      {
+        "id": 3717,
+        "unionId": "F893",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1426,
+        "unionId": "F363",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1427,
+        "unionId": "F363",
+        "type": "biological"
+      },
+      {
+        "id": 1428,
+        "unionId": "F363",
+        "type": "biological"
+      },
+      {
+        "id": 1429,
+        "unionId": "F363",
+        "type": "biological"
+      },
+      {
+        "id": 577,
+        "unionId": "F363",
+        "type": "biological"
+      },
+      {
+        "id": 1430,
+        "unionId": "F363",
+        "type": "biological"
+      },
+      {
+        "id": 1431,
+        "unionId": "F363",
+        "type": "biological"
+      },
+      {
+        "id": 1432,
+        "unionId": "F363",
+        "type": "biological"
+      },
+      {
+        "id": 1433,
+        "unionId": "F363",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028961144534@",
+    "geniId": "6000000028961144534",
+    "rfn": "geni:6000000028961144534",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1425/",
+    "canonical": "https://www.genepedia.org/people/1425/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

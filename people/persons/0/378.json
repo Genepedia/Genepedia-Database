@@ -1,0 +1,144 @@
+{
+  "id": 378,
+  "schema": "genepedia/person@1",
+  "slug": "mary-magdalene-roselt",
+  "names": {
+    "display": "Mary Magdalene Roselt",
+    "given": "Mary Magdalene",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 OCT 1910",
+      "year": 1910,
+      "iso": "1910-10-24",
+      "precision": "exact",
+      "display": "October 24, 1910",
+      "place": null
+    },
+    "death": {
+      "date": "1955",
+      "year": 1955,
+      "iso": "1955",
+      "precision": "exact",
+      "display": "1955",
+      "place": null
+    },
+    "baptism": {
+      "date": "19 MAR 1913",
+      "year": 1913,
+      "iso": "1913-03-19",
+      "precision": "exact",
+      "display": "March 19, 1913",
+      "place": "Methodist Church, Kimberley, South Africa",
+      "location": {
+        "label": "Methodist Church, Kimberley, South Africa",
+        "placeName": "Methodist Church",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/7c/46/13/c7/534448568bed1081/main_original.png?hash=0ce65ce79241cb8f282483fa7ec319af889ebef4c67441db6057abae7c78ce9f.1789455599",
+      "alt": "Mary Magdalene Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/7c/46/13/c7/534448568bed1081/main_original.png?hash=0ce65ce79241cb8f282483fa7ec319af889ebef4c67441db6057abae7c78ce9f.1789455599",
+        "form": "",
+        "title": "ROSELT M.M. 1910-1955",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      368,
+      369
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      370,
+      138,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      379,
+      380
+    ],
+    "parentUnions": [
+      "F117"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 368,
+        "unionId": "F117",
+        "type": "biological"
+      },
+      {
+        "id": 369,
+        "unionId": "F117",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028172932310@",
+    "geniId": "6000000028172932310",
+    "rfn": "geni:6000000028172932310",
+    "changed": "24 JUN 2020"
+  },
+  "page": {
+    "route": "people/378/",
+    "canonical": "https://www.genepedia.org/people/378/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

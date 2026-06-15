@@ -1,0 +1,132 @@
+{
+  "id": 3025,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-johannes-fourie",
+  "names": {
+    "display": "Joseph Johannes Fourie",
+    "given": "Joseph Johannes",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "30 MAY 1935",
+      "year": 1935,
+      "iso": "1935-05-30",
+      "precision": "exact",
+      "display": "May 30, 1935",
+      "place": "Niekerkshoop",
+      "location": {
+        "label": "Niekerkshoop",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Niekerkshoop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "11 AUG 1935",
+      "year": 1935,
+      "iso": "1935-08-11",
+      "precision": "exact",
+      "display": "August 11, 1935",
+      "place": "Niekerkshoop",
+      "location": {
+        "label": "Niekerkshoop",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Niekerkshoop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3023,
+      1201
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3024,
+      3026
+    ],
+    "parentUnions": [
+      "F740"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3023,
+        "unionId": "F740",
+        "type": "biological"
+      },
+      {
+        "id": 1201,
+        "unionId": "F740",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216148320866@",
+    "geniId": "6000000216148320866",
+    "rfn": "geni:6000000216148320866",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/3025/",
+    "canonical": "https://www.genepedia.org/people/3025/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

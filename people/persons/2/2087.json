@@ -1,0 +1,181 @@
+{
+  "id": 2087,
+  "schema": "genepedia/person@1",
+  "slug": "anna-catharina-duvenhage",
+  "names": {
+    "display": "Anna Catharina Duvenhage",
+    "given": "Anna Catharina",
+    "surname": "Duvenhage",
+    "married": "van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 APR 1860",
+      "year": 1860,
+      "iso": "1860-04-16",
+      "precision": "exact",
+      "display": "April 16, 1860",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 DEC 1949",
+      "year": 1949,
+      "iso": "1949-12-16",
+      "precision": "exact",
+      "display": "December 16, 1949",
+      "place": "Germiston, GP, South Africa",
+      "location": {
+        "label": "Germiston, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Germiston",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2086
+    ],
+    "exSpouses": [],
+    "children": [
+      2088,
+      2089,
+      2090,
+      2091,
+      2092,
+      2093,
+      2094,
+      862,
+      2095
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1283"
+    ],
+    "spouseUnions": [
+      "F545"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2086,
+        "unionId": "F545",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2088,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 2089,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 2090,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 2091,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 2092,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 2093,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 2094,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 862,
+        "unionId": "F545",
+        "type": "biological"
+      },
+      {
+        "id": 2095,
+        "unionId": "F545",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000025579725137@",
+    "geniId": "6000000025579725137",
+    "rfn": "geni:6000000025579725137",
+    "changed": "22 OCT 2024"
+  },
+  "page": {
+    "route": "people/2087/",
+    "canonical": "https://www.genepedia.org/people/2087/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

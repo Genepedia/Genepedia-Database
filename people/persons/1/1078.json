@@ -1,0 +1,141 @@
+{
+  "id": 1078,
+  "schema": "genepedia/person@1",
+  "slug": "theunis-johannes-kotze",
+  "names": {
+    "display": "Theunis Johannes Kotze",
+    "given": "Theunis Johannes",
+    "surname": "Kotze",
+    "married": "Kotze",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 MAY 1874",
+      "year": 1874,
+      "iso": "1874-05-22",
+      "precision": "exact",
+      "display": "May 22, 1874",
+      "place": null
+    },
+    "death": {
+      "date": "29 JAN 1920",
+      "year": 1920,
+      "iso": "1920-01-29",
+      "precision": "exact",
+      "display": "January 29, 1920",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1075,
+      431
+    ],
+    "spouses": [
+      2685,
+      2687
+    ],
+    "exSpouses": [],
+    "children": [
+      2686,
+      2688
+    ],
+    "siblings": [
+      1076,
+      1077,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1087,
+      1088
+    ],
+    "parentUnions": [
+      "F287"
+    ],
+    "spouseUnions": [
+      "F657",
+      "F658"
+    ],
+    "parentLinks": [
+      {
+        "id": 1075,
+        "unionId": "F287",
+        "type": "biological"
+      },
+      {
+        "id": 431,
+        "unionId": "F287",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2685,
+        "unionId": "F657",
+        "role": "wife"
+      },
+      {
+        "id": 2687,
+        "unionId": "F658",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2686,
+        "unionId": "F657",
+        "type": "biological"
+      },
+      {
+        "id": 2688,
+        "unionId": "F658",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000212708369852@",
+    "geniId": "6000000212708369852",
+    "rfn": "geni:6000000212708369852",
+    "changed": "19 NOV 2025"
+  },
+  "page": {
+    "route": "people/1078/",
+    "canonical": "https://www.genepedia.org/people/1078/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

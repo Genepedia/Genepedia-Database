@@ -1,0 +1,99 @@
+{
+  "id": 4121,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-burger",
+  "names": {
+    "display": "Maria Elizabeth Burger",
+    "given": "Maria Elizabeth",
+    "surname": "Burger",
+    "married": "Law",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 FEB 1895",
+      "year": 1895,
+      "iso": "1895-02-26",
+      "precision": "exact",
+      "display": "February 26, 1895",
+      "place": null
+    },
+    "death": {
+      "date": "27 AUG 1986",
+      "year": 1986,
+      "iso": "1986-08-27",
+      "precision": "exact",
+      "display": "August 27, 1986",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4119,
+      1557
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4120
+    ],
+    "parentUnions": [
+      "F953"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4119,
+        "unionId": "F953",
+        "type": "biological"
+      },
+      {
+        "id": 1557,
+        "unionId": "F953",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207553555821@",
+    "geniId": "6000000207553555821",
+    "rfn": "geni:6000000207553555821",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/4121/",
+    "canonical": "https://www.genepedia.org/people/4121/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

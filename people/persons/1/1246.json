@@ -1,0 +1,85 @@
+{
+  "id": 1246,
+  "schema": "genepedia/person@1",
+  "slug": "gustav-engelbrecht",
+  "names": {
+    "display": "Gustav Engelbrecht",
+    "given": "Gustav",
+    "surname": "Engelbrecht",
+    "married": "Engelbrecht",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1244,
+      511
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1245
+    ],
+    "parentUnions": [
+      "F325"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1244,
+        "unionId": "F325",
+        "type": "biological"
+      },
+      {
+        "id": 511,
+        "unionId": "F325",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207188903826@",
+    "geniId": "6000000207188903826",
+    "rfn": "geni:6000000207188903826",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/1246/",
+    "canonical": "https://www.genepedia.org/people/1246/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

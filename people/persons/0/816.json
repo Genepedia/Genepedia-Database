@@ -1,0 +1,194 @@
+{
+  "id": 816,
+  "schema": "genepedia/person@1",
+  "slug": "jan-frederick-bester-816",
+  "names": {
+    "display": "Jan Frederick Bester",
+    "given": "Jan Frederick",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 JUN 1863",
+      "year": 1863,
+      "iso": "1863-06-29",
+      "precision": "exact",
+      "display": "June 29, 1863",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      810,
+      811
+    ],
+    "spouses": [
+      1904,
+      1908
+    ],
+    "exSpouses": [],
+    "children": [
+      1905,
+      1906,
+      1907,
+      1909,
+      1910,
+      1911,
+      1912,
+      1913,
+      1914,
+      1915
+    ],
+    "siblings": [
+      812,
+      813,
+      814,
+      815,
+      331,
+      817,
+      818,
+      819
+    ],
+    "parentUnions": [
+      "F228"
+    ],
+    "spouseUnions": [
+      "F504",
+      "F505"
+    ],
+    "parentLinks": [
+      {
+        "id": 810,
+        "unionId": "F228",
+        "type": "biological"
+      },
+      {
+        "id": 811,
+        "unionId": "F228",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1904,
+        "unionId": "F504",
+        "role": "partner"
+      },
+      {
+        "id": 1908,
+        "unionId": "F505",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1905,
+        "unionId": "F504",
+        "type": "biological"
+      },
+      {
+        "id": 1906,
+        "unionId": "F504",
+        "type": "biological"
+      },
+      {
+        "id": 1907,
+        "unionId": "F504",
+        "type": "biological"
+      },
+      {
+        "id": 1909,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1910,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1911,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1912,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1913,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1914,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1915,
+        "unionId": "F505",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000010280851712@",
+    "geniId": "6000000010280851712",
+    "rfn": "geni:6000000010280851712",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/816/",
+    "canonical": "https://www.genepedia.org/people/816/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,116 @@
+{
+  "id": 3035,
+  "schema": "genepedia/person@1",
+  "slug": "carl-johan-swanevelder",
+  "names": {
+    "display": "Carl Johan Swanevelder",
+    "given": "Carl Johan",
+    "surname": "Swanevelder",
+    "married": "Swanevelder",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 JUN 1975",
+      "year": 1975,
+      "iso": "1975-06-29",
+      "precision": "exact",
+      "display": "June 29, 1975",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "5 OCT 1975",
+      "year": 1975,
+      "iso": "1975-10-05",
+      "precision": "exact",
+      "display": "October 5, 1975",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3034,
+      1208
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3036,
+      3037
+    ],
+    "parentUnions": [
+      "F743"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3034,
+        "unionId": "F743",
+        "type": "biological"
+      },
+      {
+        "id": 1208,
+        "unionId": "F743",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216930375826@",
+    "geniId": "6000000216930375826",
+    "rfn": "geni:6000000216930375826",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/3035/",
+    "canonical": "https://www.genepedia.org/people/3035/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

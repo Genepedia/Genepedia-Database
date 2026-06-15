@@ -1,0 +1,124 @@
+{
+  "id": 1277,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-cloaberry-gloy",
+  "names": {
+    "display": "Elizabeth Cloaberry Gloy",
+    "given": "Elizabeth Cloaberry",
+    "surname": "Le Roux",
+    "married": "Gloy",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1275,
+      1276
+    ],
+    "spouses": [
+      3182
+    ],
+    "exSpouses": [],
+    "children": [
+      3183,
+      3184,
+      3185,
+      3186
+    ],
+    "siblings": [
+      533,
+      1278,
+      1279,
+      1280
+    ],
+    "parentUnions": [
+      "F332"
+    ],
+    "spouseUnions": [
+      "F783"
+    ],
+    "parentLinks": [
+      {
+        "id": 1275,
+        "unionId": "F332",
+        "type": "biological"
+      },
+      {
+        "id": 1276,
+        "unionId": "F332",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3182,
+        "unionId": "F783",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3183,
+        "unionId": "F783",
+        "type": "biological"
+      },
+      {
+        "id": 3184,
+        "unionId": "F783",
+        "type": "biological"
+      },
+      {
+        "id": 3185,
+        "unionId": "F783",
+        "type": "biological"
+      },
+      {
+        "id": 3186,
+        "unionId": "F783",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781257923@",
+    "geniId": "6000000007781257923",
+    "rfn": "geni:6000000007781257923",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/1277/",
+    "canonical": "https://www.genepedia.org/people/1277/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

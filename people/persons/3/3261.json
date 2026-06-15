@@ -1,0 +1,113 @@
+{
+  "id": 3261,
+  "schema": "genepedia/person@1",
+  "slug": "emma-theodora-mouton-3261",
+  "names": {
+    "display": "Emma Theodora Mouton",
+    "given": "Emma Theodora",
+    "surname": "Mouton",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 FEB 1922",
+      "year": 1922,
+      "iso": "1922-02-23",
+      "precision": "exact",
+      "display": "February 23, 1922",
+      "place": "Clanwilliam, WC, South Africa",
+      "location": {
+        "label": "Clanwilliam, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "8135",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1296,
+      3257
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3258,
+      3259,
+      3260,
+      3262,
+      3263,
+      3264
+    ],
+    "parentUnions": [
+      "F800"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1296,
+        "unionId": "F800",
+        "type": "biological"
+      },
+      {
+        "id": 3257,
+        "unionId": "F800",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107548448973@",
+    "geniId": "6000000107548448973",
+    "rfn": "geni:6000000107548448973",
+    "changed": "06 MAY 2020"
+  },
+  "page": {
+    "route": "people/3261/",
+    "canonical": "https://www.genepedia.org/people/3261/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

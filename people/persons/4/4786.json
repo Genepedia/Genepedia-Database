@@ -1,0 +1,118 @@
+{
+  "id": 4786,
+  "schema": "genepedia/person@1",
+  "slug": "anna-johanna-susanna-van-der-westhuizen",
+  "names": {
+    "display": "Anna Johanna Susanna Van der Westhuizen",
+    "given": "Anna Johanna Susanna",
+    "surname": "Van der Westhuizen",
+    "married": "Van der Westhuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 NOV 1911",
+      "year": 1911,
+      "iso": "1911-11-04",
+      "precision": "exact",
+      "display": "November 4, 1911",
+      "place": null
+    },
+    "death": {
+      "date": "4 FEB 1912",
+      "year": 1912,
+      "iso": "1912-02-04",
+      "precision": "exact",
+      "display": "February 4, 1912",
+      "place": "Koffiefontein, Free State, South Africa",
+      "location": {
+        "label": "Koffiefontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Koffiefontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4783,
+      1890
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4784,
+      4785,
+      4787,
+      4788
+    ],
+    "parentUnions": [
+      "F1139"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4783,
+        "unionId": "F1139",
+        "type": "biological"
+      },
+      {
+        "id": 1890,
+        "unionId": "F1139",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065527268906@",
+    "geniId": "6000000065527268906",
+    "rfn": "geni:6000000065527268906",
+    "changed": "23 AUG 2017"
+  },
+  "page": {
+    "route": "people/4786/",
+    "canonical": "https://www.genepedia.org/people/4786/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

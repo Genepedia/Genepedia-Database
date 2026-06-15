@@ -1,0 +1,129 @@
+{
+  "id": 2283,
+  "schema": "genepedia/person@1",
+  "slug": "kathleen-doreen-mentasti",
+  "names": {
+    "display": "Kathleen Doreen Mentasti",
+    "given": "Kathleen Doreen",
+    "surname": "Powell",
+    "married": "Mentasti",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1928",
+      "year": 1928,
+      "iso": "1928",
+      "precision": "exact",
+      "display": "1928",
+      "place": null
+    },
+    "death": {
+      "date": "1978",
+      "year": 1978,
+      "iso": "1978",
+      "precision": "exact",
+      "display": "1978",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/89/2e/8b/92/534448613c50106f/record-image__original.jpg?hash=898006b4d4fa5d778568077d485b52438a5d61c8c9bbfae378cd7b09f2b17f17.1789455599",
+      "alt": "Kathleen Doreen Mentasti"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/89/2e/8b/92/534448613c50106f/record-image__original.jpg?hash=898006b4d4fa5d778568077d485b52438a5d61c8c9bbfae378cd7b09f2b17f17.1789455599",
+        "form": "",
+        "title": "record-image_trou 1950 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      918
+    ],
+    "exSpouses": [],
+    "children": [
+      2284,
+      2285,
+      2286,
+      2287
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F578"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 918,
+        "unionId": "F578",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2284,
+        "unionId": "F578",
+        "type": "biological"
+      },
+      {
+        "id": 2285,
+        "unionId": "F578",
+        "type": "biological"
+      },
+      {
+        "id": 2286,
+        "unionId": "F578",
+        "type": "biological"
+      },
+      {
+        "id": 2287,
+        "unionId": "F578",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000081296236890@",
+    "geniId": "6000000081296236890",
+    "rfn": "geni:6000000081296236890",
+    "changed": "15 JUL 2022"
+  },
+  "page": {
+    "route": "people/2283/",
+    "canonical": "https://www.genepedia.org/people/2283/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

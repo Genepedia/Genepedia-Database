@@ -1,0 +1,134 @@
+{
+  "id": 2345,
+  "schema": "genepedia/person@1",
+  "slug": "aletta-johanna-styger",
+  "names": {
+    "display": "Aletta Johanna Styger",
+    "given": "Aletta Johanna",
+    "surname": "Styger",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 JUN 1901",
+      "year": 1901,
+      "iso": "1901-06-30",
+      "precision": "exact",
+      "display": "June 30, 1901",
+      "place": "Douglas",
+      "location": {
+        "label": "Douglas",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 NOV 1901",
+      "year": 1901,
+      "iso": "1901-11-07",
+      "precision": "exact",
+      "display": "November 7, 1901",
+      "place": "Douglas",
+      "location": {
+        "label": "Douglas",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2341,
+      2340
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2342,
+      934,
+      2343,
+      2344
+    ],
+    "parentUnions": [
+      "F592"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2341,
+        "unionId": "F592",
+        "type": "biological"
+      },
+      {
+        "id": 2340,
+        "unionId": "F592",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000202901080881@",
+    "geniId": "6000000202901080881",
+    "rfn": "geni:6000000202901080881",
+    "changed": "09 FEB 2024"
+  },
+  "page": {
+    "route": "people/2345/",
+    "canonical": "https://www.genepedia.org/people/2345/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

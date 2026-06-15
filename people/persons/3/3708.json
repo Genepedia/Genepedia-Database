@@ -1,0 +1,86 @@
+{
+  "id": 3708,
+  "schema": "genepedia/person@1",
+  "slug": "johan",
+  "names": {
+    "display": "Johan",
+    "given": "Johan",
+    "surname": "Wolmarans",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3706,
+      1417
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3707,
+      3709
+    ],
+    "parentUnions": [
+      "F889"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3706,
+        "unionId": "F889",
+        "type": "biological"
+      },
+      {
+        "id": 1417,
+        "unionId": "F889",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000178609514842@",
+    "geniId": "6000000178609514842",
+    "rfn": "geni:6000000178609514842",
+    "changed": "18 SEP 2021"
+  },
+  "page": {
+    "route": "people/3708/",
+    "canonical": "https://www.genepedia.org/people/3708/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

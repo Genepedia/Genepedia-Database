@@ -1,0 +1,118 @@
+{
+  "id": 1119,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-jacoba-carolina-fourie-1119",
+  "names": {
+    "display": "Gertruida Jacoba Carolina Fourie",
+    "given": "Gertruida Jacoba Carolina",
+    "surname": "Fourie",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 NOV 1893",
+      "year": 1893,
+      "iso": "1893-11-17",
+      "precision": "exact",
+      "display": "November 17, 1893",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      439,
+      449
+    ],
+    "spouses": [
+      2757
+    ],
+    "exSpouses": [],
+    "children": [
+      2758
+    ],
+    "siblings": [
+      1110,
+      1111,
+      1112,
+      1113,
+      1114,
+      1115,
+      1116,
+      1117,
+      1118
+    ],
+    "parentUnions": [
+      "F295"
+    ],
+    "spouseUnions": [
+      "F682"
+    ],
+    "parentLinks": [
+      {
+        "id": 439,
+        "unionId": "F295",
+        "type": "biological"
+      },
+      {
+        "id": 449,
+        "unionId": "F295",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2757,
+        "unionId": "F682",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2758,
+        "unionId": "F682",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000212955674826@",
+    "geniId": "6000000212955674826",
+    "rfn": "geni:6000000212955674826",
+    "changed": "27 DEC 2024"
+  },
+  "page": {
+    "route": "people/1119/",
+    "canonical": "https://www.genepedia.org/people/1119/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

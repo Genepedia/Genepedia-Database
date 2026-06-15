@@ -1,0 +1,118 @@
+{
+  "id": 128,
+  "schema": "genepedia/person@1",
+  "slug": "ruwhandre-johannes-martins",
+  "names": {
+    "display": "Ruwhandré Johannes Martins",
+    "given": "Ruwhandré Johannes",
+    "surname": "Martins",
+    "married": "Martins",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 NOV 2020",
+      "year": 2020,
+      "iso": "2020-11-18",
+      "precision": "exact",
+      "display": "November 18, 2020",
+      "place": "Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free-State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/fa/3c/7a/51/53444866b3d64e83/screenshot_2024-10-01_131246_original.jpg?hash=2f2537d39b2bade9d20bfe48568d9b731c89b5db6685f1158b5c6a6d807e49ef.1789455599",
+      "alt": "Ruwhandré Johannes Martins"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/fa/3c/7a/51/53444866b3d64e83/screenshot_2024-10-01_131246_original.jpg?hash=2f2537d39b2bade9d20bfe48568d9b731c89b5db6685f1158b5c6a6d807e49ef.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      38,
+      127
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F45"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 38,
+        "unionId": "F45",
+        "type": "biological"
+      },
+      {
+        "id": 127,
+        "unionId": "F45",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204042707828@",
+    "geniId": "6000000204042707828",
+    "rfn": "geni:6000000204042707828",
+    "changed": "01 OCT 2024"
+  },
+  "page": {
+    "route": "people/128/",
+    "canonical": "https://www.genepedia.org/people/128/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

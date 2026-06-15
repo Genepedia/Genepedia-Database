@@ -1,0 +1,117 @@
+{
+  "id": 4952,
+  "schema": "genepedia/person@1",
+  "slug": "hester-wilhelmina-jansen-van-rensburg",
+  "names": {
+    "display": "Hester Wilhelmina Jansen Van Rensburg",
+    "given": "Hester Wilhelmina",
+    "surname": "Jansen Van Rensburg",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 AUG 1913",
+      "year": 1913,
+      "iso": "1913-08-13",
+      "precision": "exact",
+      "display": "August 13, 1913",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "19 OCT 1913",
+      "year": 1913,
+      "iso": "1913-10-19",
+      "precision": "exact",
+      "display": "October 19, 1913",
+      "place": "Trompsburg, Free State, South Africa",
+      "location": {
+        "label": "Trompsburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Trompsburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4950,
+      1924
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4951,
+      4953,
+      4954
+    ],
+    "parentUnions": [
+      "F1175"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4950,
+        "unionId": "F1175",
+        "type": "biological"
+      },
+      {
+        "id": 1924,
+        "unionId": "F1175",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089444793075@",
+    "geniId": "6000000089444793075",
+    "rfn": "geni:6000000089444793075",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/4952/",
+    "canonical": "https://www.genepedia.org/people/4952/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

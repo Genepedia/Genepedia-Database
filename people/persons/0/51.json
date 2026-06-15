@@ -1,0 +1,114 @@
+{
+  "id": 51,
+  "schema": "genepedia/person@1",
+  "slug": "olivier",
+  "names": {
+    "display": "? Olivier",
+    "given": "?",
+    "surname": "Olivier",
+    "married": "Olivier",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/f6/1c/b8/3e/534448666476a2a4/20240815_101010_original.jpg?hash=6b9870a657faebc695788d5a54fd372edc6b2f4da03466c55a33240e913e2b80.1789455599",
+      "alt": "? Olivier"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/f6/1c/b8/3e/534448666476a2a4/20240815_101010_original.jpg?hash=6b9870a657faebc695788d5a54fd372edc6b2f4da03466c55a33240e913e2b80.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      187
+    ],
+    "spouses": [
+      9,
+      185
+    ],
+    "exSpouses": [],
+    "children": [
+      186
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F56"
+    ],
+    "spouseUnions": [
+      "F17",
+      "F55"
+    ],
+    "parentLinks": [
+      {
+        "id": 187,
+        "unionId": "F56",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 9,
+        "unionId": "F17",
+        "role": "partner"
+      },
+      {
+        "id": 185,
+        "unionId": "F55",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 186,
+        "unionId": "F55",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028171130994@",
+    "geniId": "6000000028171130994",
+    "rfn": "geni:6000000028171130994",
+    "changed": "15 AUG 2024"
+  },
+  "page": {
+    "route": "people/51/",
+    "canonical": "https://www.genepedia.org/people/51/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

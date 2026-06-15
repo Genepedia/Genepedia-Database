@@ -1,0 +1,91 @@
+{
+  "id": 808,
+  "schema": "genepedia/person@1",
+  "slug": "du-toit-808",
+  "names": {
+    "display": "? Du Toit",
+    "given": "?",
+    "surname": "Du Toit",
+    "married": "Du Toit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      807
+    ],
+    "exSpouses": [],
+    "children": [
+      328,
+      809
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F227"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 807,
+        "unionId": "F227",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 328,
+        "unionId": "F227",
+        "type": "biological"
+      },
+      {
+        "id": 809,
+        "unionId": "F227",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000216569602856@",
+    "geniId": "6000000216569602856",
+    "rfn": "geni:6000000216569602856",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/808/",
+    "canonical": "https://www.genepedia.org/people/808/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

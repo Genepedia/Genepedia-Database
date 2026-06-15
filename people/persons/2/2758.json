@@ -1,0 +1,122 @@
+{
+  "id": 2758,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-phillipus-cloete",
+  "names": {
+    "display": "Hendrik Phillipus Cloete",
+    "given": "Hendrik Phillipus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 JAN 1920",
+      "year": 1920,
+      "iso": "1920-01-28",
+      "precision": "exact",
+      "display": "January 28, 1920",
+      "place": null
+    },
+    "death": {
+      "date": "20 APR 1971",
+      "year": 1971,
+      "iso": "1971-04-20",
+      "precision": "exact",
+      "display": "April 20, 1971",
+      "place": null
+    },
+    "baptism": {
+      "date": "4 APR 1920",
+      "year": 1920,
+      "iso": "1920-04-04",
+      "precision": "exact",
+      "display": "April 4, 1920",
+      "place": "Niekerkshoop, NC, South Africa",
+      "location": {
+        "label": "Niekerkshoop, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Niekerkshoop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2757,
+      1119
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F682"
+    ],
+    "spouseUnions": [
+      "F1709"
+    ],
+    "parentLinks": [
+      {
+        "id": 2757,
+        "unionId": "F682",
+        "type": "biological"
+      },
+      {
+        "id": 1119,
+        "unionId": "F682",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000212954020822@",
+    "geniId": "6000000212954020822",
+    "rfn": "geni:6000000212954020822",
+    "changed": "27 DEC 2024"
+  },
+  "page": {
+    "route": "people/2758/",
+    "canonical": "https://www.genepedia.org/people/2758/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1476,
+  "schema": "genepedia/person@1",
+  "slug": "cornelis-johannes-brits",
+  "names": {
+    "display": "Cornelis Johannes Brits",
+    "given": "Cornelis Johannes",
+    "surname": "Brits",
+    "married": "Brits",
+    "nick": "Erik",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "6 MAR 1986",
+      "year": 1986,
+      "iso": "1986-03-06",
+      "precision": "exact",
+      "display": "March 6, 1986",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1475,
+      592
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1477
+    ],
+    "parentUnions": [
+      "F376"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1475,
+        "unionId": "F376",
+        "type": "biological"
+      },
+      {
+        "id": 592,
+        "unionId": "F376",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206608489827@",
+    "geniId": "6000000206608489827",
+    "rfn": "geni:6000000206608489827",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1476/",
+    "canonical": "https://www.genepedia.org/people/1476/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

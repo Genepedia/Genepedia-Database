@@ -1,0 +1,146 @@
+{
+  "id": 845,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-bester-845",
+  "names": {
+    "display": "Jacobus Marthinus Bester",
+    "given": "Jacobus Marthinus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": [
+      "Jacobus Marthinus Bester"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 MAY 1922",
+      "year": 1922,
+      "iso": "1922-05-17",
+      "precision": "exact",
+      "display": "May 17, 1922",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      336,
+      844
+    ],
+    "spouses": [
+      2054
+    ],
+    "exSpouses": [],
+    "children": [
+      2055,
+      2056,
+      2057,
+      2058,
+      2059,
+      2060
+    ],
+    "siblings": [
+      846,
+      847,
+      848,
+      849,
+      850
+    ],
+    "parentUnions": [
+      "F234"
+    ],
+    "spouseUnions": [
+      "F534"
+    ],
+    "parentLinks": [
+      {
+        "id": 336,
+        "unionId": "F234",
+        "type": "biological"
+      },
+      {
+        "id": 844,
+        "unionId": "F234",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2054,
+        "unionId": "F534",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2055,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2056,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2057,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2058,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2059,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2060,
+        "unionId": "F534",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028162127006@",
+    "geniId": "6000000028162127006",
+    "rfn": "geni:6000000028162127006",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/845/",
+    "canonical": "https://www.genepedia.org/people/845/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

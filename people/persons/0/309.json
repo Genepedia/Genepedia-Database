@@ -1,0 +1,119 @@
+{
+  "id": 309,
+  "schema": "genepedia/person@1",
+  "slug": "gerhard-van-bosch",
+  "names": {
+    "display": "Gerhard van Bosch",
+    "given": "Gerhard",
+    "surname": "van Bosch",
+    "married": "van Bosch",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/73/52/42/95/534448662430813e/70426900_10213760211469895_4210865741785726976_n_original.jpg?hash=a1d2e32d9eab1312ddeb8d710f59059d333e55e2e52f56f30dafac30a9f37721.1789455599",
+      "alt": "Gerhard van Bosch"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/73/52/42/95/534448662430813e/70426900_10213760211469895_4210865741785726976_n_original.jpg?hash=a1d2e32d9eab1312ddeb8d710f59059d333e55e2e52f56f30dafac30a9f37721.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      790
+    ],
+    "spouses": [
+      114
+    ],
+    "exSpouses": [],
+    "children": [
+      310,
+      311,
+      312
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F219"
+    ],
+    "spouseUnions": [
+      "F100"
+    ],
+    "parentLinks": [
+      {
+        "id": 790,
+        "unionId": "F219",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 114,
+        "unionId": "F100",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 310,
+        "unionId": "F100",
+        "type": "biological"
+      },
+      {
+        "id": 311,
+        "unionId": "F100",
+        "type": "biological"
+      },
+      {
+        "id": 312,
+        "unionId": "F100",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207096463838@",
+    "geniId": "6000000207096463838",
+    "rfn": "geni:6000000207096463838",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/309/",
+    "canonical": "https://www.genepedia.org/people/309/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,145 @@
+{
+  "id": 4335,
+  "schema": "genepedia/person@1",
+  "slug": "robert-postma",
+  "names": {
+    "display": "Robert Postma",
+    "given": "Robert",
+    "surname": "Postma",
+    "married": "Postma",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 SEP 1939",
+      "year": 1939,
+      "iso": "1939-09-24",
+      "precision": "exact",
+      "display": "September 24, 1939",
+      "place": "Durban, South Africa",
+      "location": {
+        "label": "Durban, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Durban",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 APR 1997",
+      "year": 1997,
+      "iso": "1997-04-24",
+      "precision": "exact",
+      "display": "April 24, 1997",
+      "place": "Pretoria, South Africa",
+      "location": {
+        "label": "Pretoria, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c0/ed/b2/34/53444866352b9c76/jpg_6__original.jpg?hash=aa24325602626a229d4d3af8cc5ad619a21e4e73c409ce1d031ba4ee17f8e321.1789455599",
+      "alt": "Robert Postma"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c0/ed/b2/34/53444866352b9c76/jpg_6__original.jpg?hash=aa24325602626a229d4d3af8cc5ad619a21e4e73c409ce1d031ba4ee17f8e321.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4334,
+      1640
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4336,
+      4337,
+      4338
+    ],
+    "parentUnions": [
+      "F1018"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4334,
+        "unionId": "F1018",
+        "type": "biological"
+      },
+      {
+        "id": 1640,
+        "unionId": "F1018",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207380739828@",
+    "geniId": "6000000207380739828",
+    "rfn": "geni:6000000207380739828",
+    "changed": "16 JUL 2024"
+  },
+  "page": {
+    "route": "people/4335/",
+    "canonical": "https://www.genepedia.org/people/4335/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

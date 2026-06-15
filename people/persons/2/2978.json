@@ -1,0 +1,123 @@
+{
+  "id": 2978,
+  "schema": "genepedia/person@1",
+  "slug": "richard-de-klerk",
+  "names": {
+    "display": "Richard de Klerk",
+    "given": "Richard",
+    "surname": "de Klerk",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 JUL 1926",
+      "year": 1926,
+      "iso": "1926-07-27",
+      "precision": "exact",
+      "display": "July 27, 1926",
+      "place": "Klipfontein",
+      "location": {
+        "label": "Klipfontein",
+        "placeName": "Klipfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "31 DEC 1987",
+      "year": 1987,
+      "iso": "1987-12-31",
+      "precision": "exact",
+      "display": "December 31, 1987",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1182,
+      2974
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2975,
+      2976,
+      2977,
+      2979,
+      2980,
+      2981,
+      2982
+    ],
+    "parentUnions": [
+      "F727"
+    ],
+    "spouseUnions": [
+      "F1867"
+    ],
+    "parentLinks": [
+      {
+        "id": 1182,
+        "unionId": "F727",
+        "type": "biological"
+      },
+      {
+        "id": 2974,
+        "unionId": "F727",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000168653278845@",
+    "geniId": "6000000168653278845",
+    "rfn": "geni:6000000168653278845",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/2978/",
+    "canonical": "https://www.genepedia.org/people/2978/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

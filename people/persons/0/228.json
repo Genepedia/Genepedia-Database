@@ -1,0 +1,118 @@
+{
+  "id": 228,
+  "schema": "genepedia/person@1",
+  "slug": "leza-de-beer",
+  "names": {
+    "display": "Léza de Beer",
+    "given": "Léza",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "26 MAY 2004",
+      "year": 2004,
+      "iso": "2004-05-26",
+      "precision": "exact",
+      "display": "May 26, 2004",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b3/db/d3/a7/534448659f17b037/screenshot_2024-04-06_183953_original.jpg?hash=cbd377ddc6da52c62c4440682bb6bce9e927355059b7cb5d45dd7f4753154d4b.1789455599",
+      "alt": "Léza de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b3/db/d3/a7/534448659f17b037/screenshot_2024-04-06_183953_original.jpg?hash=cbd377ddc6da52c62c4440682bb6bce9e927355059b7cb5d45dd7f4753154d4b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/ed/2f/42/95/5344486399e1490e/picture1_original.jpg?hash=a89873c402697df889eea74912e02f35ed6fb385594ffa4748689d1294cb7f2d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/5a/6c/7b/8e/5344486399dd6cd3/picture1_original.jpg?hash=0d92db1597ca7e34113597c3542229dc8cefd1de031b1d9964fc8c36aeb16db3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      67,
+      226
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      227
+    ],
+    "parentUnions": [
+      "F70"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 67,
+        "unionId": "F70",
+        "type": "biological"
+      },
+      {
+        "id": 226,
+        "unionId": "F70",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027229936850@",
+    "geniId": "6000000027229936850",
+    "rfn": "geni:6000000027229936850",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/228/",
+    "canonical": "https://www.genepedia.org/people/228/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

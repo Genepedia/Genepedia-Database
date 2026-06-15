@@ -1,0 +1,181 @@
+{
+  "id": 4736,
+  "schema": "genepedia/person@1",
+  "slug": "willem-hendrik-langeveldt",
+  "names": {
+    "display": "Willem Hendrik Langeveldt",
+    "given": "Willem Hendrik",
+    "surname": "Langeveldt",
+    "married": "Langeveldt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 SEP 1891",
+      "year": 1891,
+      "iso": "1891-09-25",
+      "precision": "exact",
+      "display": "September 25, 1891",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 MAY 1974",
+      "year": 1974,
+      "iso": "1974-05-17",
+      "precision": "exact",
+      "display": "May 17, 1974",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "22 NOV 1891",
+      "year": 1891,
+      "iso": "1891-11-22",
+      "precision": "exact",
+      "display": "November 22, 1891",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/2a/ac/73/b3/534448426f48033a/sterfkennis_willem_hendrik_langeveldt_25_sept_1891_-_17_mei_1974__original.jpg?hash=b8e94be1eea6a1b1170cf4966534e0940a78fc2eef2a8944323784197b2469a7.1789455599",
+      "alt": "Willem Hendrik Langeveldt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/2a/ac/73/b3/534448426f48033a/sterfkennis_willem_hendrik_langeveldt_25_sept_1891_-_17_mei_1974__original.jpg?hash=b8e94be1eea6a1b1170cf4966534e0940a78fc2eef2a8944323784197b2469a7.1789455599",
+        "form": "",
+        "title": "Sterfkennis Willem Hendrik Langeveldt (25 Sept 1891 - 17 Mei 1974).jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/a0/95/8d/0d/534448426f51e98a/doop_register_willem_hendrik_langeveldt_geb_25_sept_1891_doop_22_nov_1891_smithfield__original.jpg?hash=e185b2708bca3923ee4fda1d1cde324c3865a1203e403bdb8fd55ed45fc5bfe2.1789455599",
+        "form": "",
+        "title": "Doop register Willem Hendrik Langeveldt (Geb 25 Sept 1891 Doop 22 Nov 1891 Smithfield).jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1878
+    ],
+    "exSpouses": [],
+    "children": [
+      4737,
+      4738,
+      4739,
+      4740,
+      4741
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1129"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1878,
+        "unionId": "F1129",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4737,
+        "unionId": "F1129",
+        "type": "biological"
+      },
+      {
+        "id": 4738,
+        "unionId": "F1129",
+        "type": "biological"
+      },
+      {
+        "id": 4739,
+        "unionId": "F1129",
+        "type": "biological"
+      },
+      {
+        "id": 4740,
+        "unionId": "F1129",
+        "type": "biological"
+      },
+      {
+        "id": 4741,
+        "unionId": "F1129",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000053736399924@",
+    "geniId": "6000000053736399924",
+    "rfn": "geni:6000000053736399924",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/4736/",
+    "canonical": "https://www.genepedia.org/people/4736/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

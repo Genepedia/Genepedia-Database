@@ -1,0 +1,85 @@
+{
+  "id": 95,
+  "schema": "genepedia/person@1",
+  "slug": "profile-95",
+  "names": {
+    "display": "? ?",
+    "given": "?",
+    "surname": "?",
+    "married": "?",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      94
+    ],
+    "exSpouses": [],
+    "children": [
+      29
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F34"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 94,
+        "unionId": "F34",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 29,
+        "unionId": "F34",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204180311823@",
+    "geniId": "6000000204180311823",
+    "rfn": "geni:6000000204180311823",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/95/",
+    "canonical": "https://www.genepedia.org/people/95/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

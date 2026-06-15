@@ -1,0 +1,99 @@
+{
+  "id": 2020,
+  "schema": "genepedia/person@1",
+  "slug": "hermanus-johannes-kleynhans",
+  "names": {
+    "display": "Hermanus Johannes Kleynhans",
+    "given": "Hermanus Johannes",
+    "surname": "Kleynhans",
+    "married": "Kleynhans",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 APR 1875",
+      "year": 1875,
+      "iso": "1875-04-06",
+      "precision": "exact",
+      "display": "April 6, 1875",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      840,
+      2019
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026,
+      2027,
+      2028
+    ],
+    "parentUnions": [
+      "F529"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 840,
+        "unionId": "F529",
+        "type": "biological"
+      },
+      {
+        "id": 2019,
+        "unionId": "F529",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056309823827@",
+    "geniId": "6000000056309823827",
+    "rfn": "geni:6000000056309823827",
+    "changed": "26 MAR 2026"
+  },
+  "page": {
+    "route": "people/2020/",
+    "canonical": "https://www.genepedia.org/people/2020/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

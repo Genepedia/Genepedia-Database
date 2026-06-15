@@ -1,0 +1,91 @@
+{
+  "id": 426,
+  "schema": "genepedia/person@1",
+  "slug": "mellet",
+  "names": {
+    "display": "? Mellet",
+    "given": "?",
+    "surname": "Mellet",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      161
+    ],
+    "exSpouses": [],
+    "children": [
+      427,
+      428
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F134"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 161,
+        "unionId": "F134",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 427,
+        "unionId": "F134",
+        "type": "biological"
+      },
+      {
+        "id": 428,
+        "unionId": "F134",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207498427870@",
+    "geniId": "6000000207498427870",
+    "rfn": "geni:6000000207498427870",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/426/",
+    "canonical": "https://www.genepedia.org/people/426/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

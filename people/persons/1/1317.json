@@ -1,0 +1,122 @@
+{
+  "id": 1317,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-coetzee",
+  "names": {
+    "display": "Martha Maria Coetzee",
+    "given": "Martha Maria",
+    "surname": "Coetzee",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 SEP 1902",
+      "year": 1902,
+      "iso": "1902-09-24",
+      "precision": "exact",
+      "display": "September 24, 1902",
+      "place": null
+    },
+    "death": {
+      "date": "25 JUL 1975",
+      "year": 1975,
+      "iso": "1975-07-25",
+      "precision": "exact",
+      "display": "July 25, 1975",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3329,
+      3330
+    ],
+    "spouses": [
+      540
+    ],
+    "exSpouses": [],
+    "children": [
+      1318
+    ],
+    "siblings": [
+      3331,
+      3332,
+      3333,
+      3334,
+      3335,
+      1312
+    ],
+    "parentUnions": [
+      "F815"
+    ],
+    "spouseUnions": [
+      "F339"
+    ],
+    "parentLinks": [
+      {
+        "id": 3329,
+        "unionId": "F815",
+        "type": "biological"
+      },
+      {
+        "id": 3330,
+        "unionId": "F815",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 540,
+        "unionId": "F339",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1318,
+        "unionId": "F339",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020385697945@",
+    "geniId": "6000000020385697945",
+    "rfn": "geni:6000000020385697945",
+    "changed": "05 DEC 2016"
+  },
+  "page": {
+    "route": "people/1317/",
+    "canonical": "https://www.genepedia.org/people/1317/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

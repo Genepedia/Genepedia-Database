@@ -1,0 +1,243 @@
+{
+  "id": 1884,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-johan-bester-1884",
+  "names": {
+    "display": "Michiel Johan Bester",
+    "given": "Michiel Johan",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1846",
+      "year": 1846,
+      "iso": "1846",
+      "precision": "about",
+      "display": "about 1846",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 NOV 1918",
+      "year": 1918,
+      "iso": "1918-11-09",
+      "precision": "exact",
+      "display": "November 9, 1918",
+      "place": "Middelburg, Eastern Cape, South Africa",
+      "location": {
+        "label": "Middelburg, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Middelburg, EC, South Africa",
+      "location": {
+        "label": "Middelburg, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1845,
+      4586
+    ],
+    "spouses": [
+      814
+    ],
+    "exSpouses": [],
+    "children": [
+      1885,
+      1886,
+      1887,
+      1888,
+      1889,
+      1890,
+      1891,
+      1892,
+      1893,
+      1894,
+      1895,
+      1896
+    ],
+    "siblings": [
+      4587,
+      4588,
+      4589,
+      4590,
+      4591
+    ],
+    "parentUnions": [
+      "F1100"
+    ],
+    "spouseUnions": [
+      "F499"
+    ],
+    "parentLinks": [
+      {
+        "id": 1845,
+        "unionId": "F1100",
+        "type": "biological"
+      },
+      {
+        "id": 4586,
+        "unionId": "F1100",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 814,
+        "unionId": "F499",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1885,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1886,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1887,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1888,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1889,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1890,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1891,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1892,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1893,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1894,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1895,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 1896,
+        "unionId": "F499",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065452929825@",
+    "geniId": "6000000065452929825",
+    "rfn": "geni:6000000065452929825",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1884/",
+    "canonical": "https://www.genepedia.org/people/1884/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 496,
+  "schema": "genepedia/person@1",
+  "slug": "zacharia-petronella-fourie",
+  "names": {
+    "display": "Zacharia Petronella Fourie",
+    "given": "Zacharia Petronella",
+    "surname": "Fourie",
+    "married": "Esterhuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "27 APR 1933",
+      "year": 1933,
+      "iso": "1933-04-27",
+      "precision": "exact",
+      "display": "April 27, 1933",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      175,
+      494
+    ],
+    "spouses": [
+      1225
+    ],
+    "exSpouses": [],
+    "children": [
+      1226
+    ],
+    "siblings": [
+      495,
+      497,
+      498,
+      499,
+      500,
+      501
+    ],
+    "parentUnions": [
+      "F143"
+    ],
+    "spouseUnions": [
+      "F317"
+    ],
+    "parentLinks": [
+      {
+        "id": 175,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 494,
+        "unionId": "F143",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1225,
+        "unionId": "F317",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1226,
+        "unionId": "F317",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204146514827@",
+    "geniId": "6000000204146514827",
+    "rfn": "geni:6000000204146514827",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/496/",
+    "canonical": "https://www.genepedia.org/people/496/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

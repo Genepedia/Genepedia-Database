@@ -1,0 +1,91 @@
+{
+  "id": 4179,
+  "schema": "genepedia/person@1",
+  "slug": "johan-badenhorst",
+  "names": {
+    "display": "Johan Badenhorst",
+    "given": "Johan",
+    "surname": "Badenhorst",
+    "married": "Badenhorst",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1586
+    ],
+    "exSpouses": [],
+    "children": [
+      4180,
+      4181
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F979"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1586,
+        "unionId": "F979",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4180,
+        "unionId": "F979",
+        "type": "biological"
+      },
+      {
+        "id": 4181,
+        "unionId": "F979",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002781569649@",
+    "geniId": "6000000002781569649",
+    "rfn": "geni:6000000002781569649",
+    "changed": "23 NOV 2014"
+  },
+  "page": {
+    "route": "people/4179/",
+    "canonical": "https://www.genepedia.org/people/4179/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 2048,
+  "schema": "genepedia/person@1",
+  "slug": "jan-andries-venter",
+  "names": {
+    "display": "Jan Andries Venter",
+    "given": "Jan Andries",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2043,
+      2044
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2045,
+      842,
+      2046,
+      2047,
+      2049,
+      2050,
+      2051,
+      2052
+    ],
+    "parentUnions": [
+      "F532"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2043,
+        "unionId": "F532",
+        "type": "biological"
+      },
+      {
+        "id": 2044,
+        "unionId": "F532",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000092590176839@",
+    "geniId": "6000000092590176839",
+    "rfn": "geni:6000000092590176839",
+    "changed": "07 MAY 2019"
+  },
+  "page": {
+    "route": "people/2048/",
+    "canonical": "https://www.genepedia.org/people/2048/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

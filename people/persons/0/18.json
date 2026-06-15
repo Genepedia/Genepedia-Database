@@ -1,0 +1,153 @@
+{
+  "id": 18,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-johannes-van-niekerk-18",
+  "names": {
+    "display": "Dirk Johannes Van Niekerk",
+    "given": "Dirk Johannes",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "DJ",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "9 JUN 2000",
+      "year": 2000,
+      "iso": "2000-06-09",
+      "precision": "exact",
+      "display": "June 9, 2000",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Bloemfontein, Free-State, South Africa",
+  "lastResidenceLocation": {
+    "label": "Bloemfontein, Free-State, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Bloemfontein",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Free-State",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/8d/1c/8f/59/534448656e5cbe31/screenshot_2024-03-13_112759_original.jpg?hash=a545ef5892dedbe11aca788577c67f73b2f736e14827e5925c4e77efcabdcc0f.1789455599",
+      "alt": "Dirk Johannes Van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/8d/1c/8f/59/534448656e5cbe31/screenshot_2024-03-13_112759_original.jpg?hash=a545ef5892dedbe11aca788577c67f73b2f736e14827e5925c4e77efcabdcc0f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4,
+      16
+    ],
+    "spouses": [
+      75
+    ],
+    "exSpouses": [],
+    "children": [
+      76
+    ],
+    "siblings": [
+      17
+    ],
+    "parentUnions": [
+      "F7"
+    ],
+    "spouseUnions": [
+      "F26"
+    ],
+    "parentLinks": [
+      {
+        "id": 4,
+        "unionId": "F7",
+        "type": "biological"
+      },
+      {
+        "id": 16,
+        "unionId": "F7",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 75,
+        "unionId": "F26",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 76,
+        "unionId": "F26",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204014719875@",
+    "geniId": "6000000204014719875",
+    "rfn": "geni:6000000204014719875",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/18/",
+    "canonical": "https://www.genepedia.org/people/18/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

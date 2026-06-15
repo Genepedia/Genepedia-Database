@@ -1,0 +1,91 @@
+{
+  "id": 119,
+  "schema": "genepedia/person@1",
+  "slug": "nel-119",
+  "names": {
+    "display": "? Nel",
+    "given": "?",
+    "surname": "Nel",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      118
+    ],
+    "exSpouses": [],
+    "children": [
+      120,
+      36
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F42"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 118,
+        "unionId": "F42",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 120,
+        "unionId": "F42",
+        "type": "biological"
+      },
+      {
+        "id": 36,
+        "unionId": "F42",
+        "type": "adopted"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209504291821@",
+    "geniId": "6000000209504291821",
+    "rfn": "geni:6000000209504291821",
+    "changed": "05 FEB 2025"
+  },
+  "page": {
+    "route": "people/119/",
+    "canonical": "https://www.genepedia.org/people/119/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

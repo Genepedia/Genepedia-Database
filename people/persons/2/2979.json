@@ -1,0 +1,107 @@
+{
+  "id": 2979,
+  "schema": "genepedia/person@1",
+  "slug": "maria-sophia-bean-de-klerk",
+  "names": {
+    "display": "Maria Sophia Bean de Klerk",
+    "given": "Maria Sophia Bean",
+    "surname": "de Klerk",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 NOV 1927",
+      "year": 1927,
+      "iso": "1927-11-14",
+      "precision": "exact",
+      "display": "November 14, 1927",
+      "place": null
+    },
+    "death": {
+      "date": "26 JUL 2021",
+      "year": 2021,
+      "iso": "2021-07-26",
+      "precision": "exact",
+      "display": "July 26, 2021",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1182,
+      2974
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2975,
+      2976,
+      2977,
+      2978,
+      2980,
+      2981,
+      2982
+    ],
+    "parentUnions": [
+      "F727"
+    ],
+    "spouseUnions": [
+      "F1868"
+    ],
+    "parentLinks": [
+      {
+        "id": 1182,
+        "unionId": "F727",
+        "type": "biological"
+      },
+      {
+        "id": 2974,
+        "unionId": "F727",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000196346543821@",
+    "geniId": "6000000196346543821",
+    "rfn": "geni:6000000196346543821",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/2979/",
+    "canonical": "https://www.genepedia.org/people/2979/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

@@ -1,0 +1,175 @@
+{
+  "id": 710,
+  "schema": "genepedia/person@1",
+  "slug": "willem-antonie-van-der-merwe-710",
+  "names": {
+    "display": "Willem Antonie van der Merwe",
+    "given": "Willem Antonie",
+    "surname": "van der Merwe",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 4 JUL 1886",
+      "year": 1886,
+      "iso": "1886-07-04",
+      "precision": "about",
+      "display": "about July 4, 1886",
+      "place": "Port Elizabeth, Cape, South Africa",
+      "location": {
+        "label": "Port Elizabeth, Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Elizabeth",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 JAN 1920",
+      "year": 1920,
+      "iso": "1920-01-04",
+      "precision": "exact",
+      "display": "January 4, 1920",
+      "place": "Stand 484, Krugersdorp, Transvaal, South Africa",
+      "location": {
+        "label": "Stand 484, Krugersdorp, Transvaal, South Africa",
+        "placeName": "Stand 484",
+        "addressLine1": "4th Street",
+        "addressLine2": "Greymont",
+        "addressLine3": "",
+        "city": "Krugersdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Gold Miner, Underground",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f3/0a/a8/3e/53444840e0c672b6/record-image_3q9m-cs95-tlq8_original.jpg?hash=3be961002b9b96d211088f139a248904120873d31db4ecc60011e0f1445f5db4.1789455599",
+      "alt": "Willem Antonie van der Merwe"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f3/0a/a8/3e/53444840e0c672b6/record-image_3q9m-cs95-tlq8_original.jpg?hash=3be961002b9b96d211088f139a248904120873d31db4ecc60011e0f1445f5db4.1789455599",
+        "form": "",
+        "title": "VAN DER MERWE, W. Death Notice",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/0c/ba/39/cc/5344484a8a6a9ce6/record-image_undefined_26__original.jpg?hash=656f0bba2eabc32e0672d530e8e6c8de7edf245f8361f69175a6f36e9295801e.1789455599",
+        "form": "",
+        "title": "VAN DER MERWE, W. & CORRIE, A.P. Marriage 1910",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/b1/bd/c6/09/5344485d3d366db5/record-image_42__original.jpg?hash=ca13793289dcccd32dc485f7fa67971ed73f006f1a3f255135d5ea0ca07f3395.1789455599",
+        "form": "",
+        "title": "VAN DER MERWE, W.A. Death 1920",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      711
+    ],
+    "exSpouses": [],
+    "children": [
+      712,
+      713,
+      285,
+      714
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F201"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 711,
+        "unionId": "F201",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 712,
+        "unionId": "F201",
+        "type": "biological"
+      },
+      {
+        "id": 713,
+        "unionId": "F201",
+        "type": "biological"
+      },
+      {
+        "id": 285,
+        "unionId": "F201",
+        "type": "biological"
+      },
+      {
+        "id": 714,
+        "unionId": "F201",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000040030916340@",
+    "geniId": "6000000040030916340",
+    "rfn": "geni:6000000040030916340",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/710/",
+    "canonical": "https://www.genepedia.org/people/710/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

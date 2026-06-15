@@ -1,0 +1,187 @@
+{
+  "id": 900,
+  "schema": "genepedia/person@1",
+  "slug": "martha-magdalena-taylor",
+  "names": {
+    "display": "Martha Magdalena Taylor",
+    "given": "Martha Magdalena",
+    "surname": "Taylor",
+    "married": "Barker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 FEB 1914",
+      "year": 1914,
+      "iso": "1914-02-09",
+      "precision": "exact",
+      "display": "February 9, 1914",
+      "place": "Mossel Bay, Western Cape, South Africa",
+      "location": {
+        "label": "Mossel Bay, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Mossel Bay",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 MAR 1990",
+      "year": 1990,
+      "iso": "1990-03-27",
+      "precision": "exact",
+      "display": "March 27, 1990",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Huisvrou / Housewife",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/46/9a/66/3d/53444842b5fcb92a/record-image_33s7-9b4b-9zwy_original.jpg?hash=a4879262e2af6827bde07256f4470137c8bcc5d0f42031ca025e5510bae15c77.1789455599",
+      "alt": "Martha Magdalena Taylor"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/46/9a/66/3d/53444842b5fcb92a/record-image_33s7-9b4b-9zwy_original.jpg?hash=a4879262e2af6827bde07256f4470137c8bcc5d0f42031ca025e5510bae15c77.1789455599",
+        "form": "",
+        "title": "record-image_dood  .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/8d/d6/f7/5b/5344486132b87bc9/record-image__original.jpg?hash=e55bdb16e294282001772a1d71ca4c4a732354c9726bfce45d8c27c6ab663554.1789455599",
+        "form": "",
+        "title": "record-image_trou  1936 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/01/96/1d/ad/53444865bae1c33f/image_original.jpg?hash=632f310fc002bbfc640252a0a2ea67332178e5a2f7de7ca0d4651e43088ce1ef.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      898,
+      370
+    ],
+    "spouses": [
+      2205
+    ],
+    "exSpouses": [],
+    "children": [
+      2206,
+      2207,
+      2208
+    ],
+    "siblings": [
+      899
+    ],
+    "parentUnions": [
+      "F251"
+    ],
+    "spouseUnions": [
+      "F560"
+    ],
+    "parentLinks": [
+      {
+        "id": 898,
+        "unionId": "F251",
+        "type": "biological"
+      },
+      {
+        "id": 370,
+        "unionId": "F251",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2205,
+        "unionId": "F560",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2206,
+        "unionId": "F560",
+        "type": "biological"
+      },
+      {
+        "id": 2207,
+        "unionId": "F560",
+        "type": "biological"
+      },
+      {
+        "id": 2208,
+        "unionId": "F560",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000054922948848@",
+    "geniId": "6000000054922948848",
+    "rfn": "geni:6000000054922948848",
+    "changed": "26 APR 2024"
+  },
+  "page": {
+    "route": "people/900/",
+    "canonical": "https://www.genepedia.org/people/900/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

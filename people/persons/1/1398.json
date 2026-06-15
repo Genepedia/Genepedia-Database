@@ -1,0 +1,199 @@
+{
+  "id": 1398,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-magdalena-meintjes",
+  "names": {
+    "display": "Rachel Magdalena Meintjes",
+    "given": "Rachel Magdalena",
+    "surname": "Meintjes",
+    "married": "Snyman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 JUL 1848",
+      "year": 1848,
+      "iso": "1848-07-21",
+      "precision": "exact",
+      "display": "July 21, 1848",
+      "place": "Aberdeen, Cape Colony, South Africa",
+      "location": {
+        "label": "Aberdeen, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 MAR 1920",
+      "year": 1920,
+      "iso": "1920-03-09",
+      "precision": "exact",
+      "display": "March 9, 1920",
+      "place": "Willowmore, Cape Province, South Africa",
+      "location": {
+        "label": "Willowmore, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Willowmore",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1396,
+      1395
+    ],
+    "spouses": [
+      3583
+    ],
+    "exSpouses": [],
+    "children": [
+      3584,
+      3585,
+      3586,
+      3587,
+      3588,
+      3589,
+      3590,
+      3591
+    ],
+    "siblings": [
+      1397,
+      1399,
+      1400,
+      564,
+      1401,
+      1402,
+      1403,
+      1404,
+      1405
+    ],
+    "parentUnions": [
+      "F359"
+    ],
+    "spouseUnions": [
+      "F871"
+    ],
+    "parentLinks": [
+      {
+        "id": 1396,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1395,
+        "unionId": "F359",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3583,
+        "unionId": "F871",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3584,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3585,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3586,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3587,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3588,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3589,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3590,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3591,
+        "unionId": "F871",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000010559654806@",
+    "geniId": "6000000010559654806",
+    "rfn": "geni:6000000010559654806",
+    "changed": "22 JUL 2025"
+  },
+  "page": {
+    "route": "people/1398/",
+    "canonical": "https://www.genepedia.org/people/1398/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

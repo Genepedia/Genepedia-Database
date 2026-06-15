@@ -1,0 +1,168 @@
+{
+  "id": 3984,
+  "schema": "genepedia/person@1",
+  "slug": "anna-johanna-francina-scholtz",
+  "names": {
+    "display": "Anna Johanna Francina Scholtz",
+    "given": "Anna Johanna Francina",
+    "surname": "Scholtz",
+    "married": "",
+    "nick": "MELLET",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1858",
+      "year": 1858,
+      "iso": "1858",
+      "precision": "exact",
+      "display": "1858",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 MAY 1945",
+      "year": 1945,
+      "iso": "1945-05-03",
+      "precision": "exact",
+      "display": "May 3, 1945",
+      "place": "Grasvlakte, Kimberley, Cape Province, Union of South Africa",
+      "location": {
+        "label": "Grasvlakte, Kimberley, Cape Province, Union of South Africa",
+        "placeName": "Grasvlakte",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "Union of South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d8/e2/d2/34/53444862fe1e8bcf/scholtz__original.jpg?hash=37a6c4703c9f6bb2ac52e11e605db374b7b2bfa02fc6bd07c513bbdca5bd2fa0.1789455599",
+      "alt": "Anna Johanna Francina Scholtz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d8/e2/d2/34/53444862fe1e8bcf/scholtz__original.jpg?hash=37a6c4703c9f6bb2ac52e11e605db374b7b2bfa02fc6bd07c513bbdca5bd2fa0.1789455599",
+        "form": "",
+        "title": "Scholtz",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1537,
+      1554
+    ],
+    "exSpouses": [],
+    "children": [
+      3985,
+      3986,
+      4107,
+      4108
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F933",
+      "F950"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1537,
+        "unionId": "F933",
+        "role": "husband"
+      },
+      {
+        "id": 1554,
+        "unionId": "F950",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3985,
+        "unionId": "F933",
+        "type": "biological"
+      },
+      {
+        "id": 3986,
+        "unionId": "F933",
+        "type": "biological"
+      },
+      {
+        "id": 4107,
+        "unionId": "F950",
+        "type": "biological"
+      },
+      {
+        "id": 4108,
+        "unionId": "F950",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000140296814894@",
+    "geniId": "6000000140296814894",
+    "rfn": "geni:6000000140296814894",
+    "changed": "31 OCT 2023"
+  },
+  "page": {
+    "route": "people/3984/",
+    "canonical": "https://www.genepedia.org/people/3984/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

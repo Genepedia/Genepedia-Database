@@ -1,0 +1,173 @@
+{
+  "id": 2878,
+  "schema": "genepedia/person@1",
+  "slug": "jacomina-maria-maritz",
+  "names": {
+    "display": "Jacomina Maria Maritz",
+    "given": "Jacomina Maria",
+    "surname": "Maritz",
+    "married": "Theron",
+    "nick": "",
+    "aliases": [
+      "Jacomina Maria Theron (Maritz)"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 OCT 1799",
+      "year": 1799,
+      "iso": "1799-10-21",
+      "precision": "exact",
+      "display": "October 21, 1799",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1844",
+      "year": 1844,
+      "iso": "1844",
+      "precision": "exact",
+      "display": "1844",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2877
+    ],
+    "exSpouses": [],
+    "children": [
+      1154,
+      2879,
+      2880,
+      2881,
+      2882,
+      2883,
+      2884
+    ],
+    "siblings": [
+      2869
+    ],
+    "parentUnions": [
+      "F1781"
+    ],
+    "spouseUnions": [
+      "F710"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2877,
+        "unionId": "F710",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1154,
+        "unionId": "F710",
+        "type": "biological"
+      },
+      {
+        "id": 2879,
+        "unionId": "F710",
+        "type": "biological"
+      },
+      {
+        "id": 2880,
+        "unionId": "F710",
+        "type": "biological"
+      },
+      {
+        "id": 2881,
+        "unionId": "F710",
+        "type": "biological"
+      },
+      {
+        "id": 2882,
+        "unionId": "F710",
+        "type": "biological"
+      },
+      {
+        "id": 2883,
+        "unionId": "F710",
+        "type": "biological"
+      },
+      {
+        "id": 2884,
+        "unionId": "F710",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020745386041@",
+    "geniId": "6000000020745386041",
+    "rfn": "geni:6000000020745386041",
+    "changed": "23 SEP 2025"
+  },
+  "page": {
+    "route": "people/2878/",
+    "canonical": "https://www.genepedia.org/people/2878/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

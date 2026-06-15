@@ -1,0 +1,116 @@
+{
+  "id": 666,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-scholly",
+  "names": {
+    "display": "Johannes Scholly",
+    "given": "Johannes",
+    "surname": "Scholly",
+    "married": "Scholly",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/6a/0f/56/77/534448663527100e/66481291_2628175637214369_2800541083283488768_n_original.jpg?hash=5dd926ec282ba27657c3a5d8bcc5393939d4d45fbc102853878a999f235789a5.1789455599",
+      "alt": "Johannes Scholly"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/6a/0f/56/77/534448663527100e/66481291_2628175637214369_2800541083283488768_n_original.jpg?hash=5dd926ec282ba27657c3a5d8bcc5393939d4d45fbc102853878a999f235789a5.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      664,
+      258
+    ],
+    "spouses": [
+      1652
+    ],
+    "exSpouses": [],
+    "children": [
+      1653
+    ],
+    "siblings": [
+      665,
+      667
+    ],
+    "parentUnions": [
+      "F188"
+    ],
+    "spouseUnions": [
+      "F425"
+    ],
+    "parentLinks": [
+      {
+        "id": 664,
+        "unionId": "F188",
+        "type": "biological"
+      },
+      {
+        "id": 258,
+        "unionId": "F188",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1652,
+        "unionId": "F425",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1653,
+        "unionId": "F425",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204180607842@",
+    "geniId": "6000000204180607842",
+    "rfn": "geni:6000000204180607842",
+    "changed": "16 JUL 2024"
+  },
+  "page": {
+    "route": "people/666/",
+    "canonical": "https://www.genepedia.org/people/666/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

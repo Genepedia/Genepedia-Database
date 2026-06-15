@@ -1,0 +1,210 @@
+{
+  "id": 1901,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-jansen-van-rensburg",
+  "names": {
+    "display": "Jacobus Johannes Jansen van Rensburg",
+    "given": "Jacobus Johannes",
+    "surname": "Jansen van Rensburg",
+    "married": "Jansen van Rensburg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 OCT 1890",
+      "year": 1890,
+      "iso": "1890-10-20",
+      "precision": "exact",
+      "display": "October 20, 1890",
+      "place": "Venterstad, EC, South Africa",
+      "location": {
+        "label": "Venterstad, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Venterstad",
+        "postalCode": "9798",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 JUN 1960",
+      "year": 1960,
+      "iso": "1960-06-27",
+      "precision": "exact",
+      "display": "June 27, 1960",
+      "place": "Vereeniging, GP, South Africa",
+      "location": {
+        "label": "Vereeniging, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vereeniging",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "23 NOV 1890",
+      "year": 1890,
+      "iso": "1890-11-23",
+      "precision": "exact",
+      "display": "November 23, 1890",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Vereeniging, GP, South Africa",
+      "location": {
+        "label": "Vereeniging, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vereeniging",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1898,
+      815
+    ],
+    "spouses": [
+      4833,
+      4836
+    ],
+    "exSpouses": [],
+    "children": [
+      4834,
+      4835
+    ],
+    "siblings": [
+      1899,
+      1900
+    ],
+    "parentUnions": [
+      "F501"
+    ],
+    "spouseUnions": [
+      "F1150",
+      "F1151"
+    ],
+    "parentLinks": [
+      {
+        "id": 1898,
+        "unionId": "F501",
+        "type": "biological"
+      },
+      {
+        "id": 815,
+        "unionId": "F501",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4833,
+        "unionId": "F1150",
+        "role": "partner"
+      },
+      {
+        "id": 4836,
+        "unionId": "F1151",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4834,
+        "unionId": "F1150",
+        "type": "biological"
+      },
+      {
+        "id": 4835,
+        "unionId": "F1150",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000190204658850@",
+    "geniId": "6000000190204658850",
+    "rfn": "geni:6000000190204658850",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/1901/",
+    "canonical": "https://www.genepedia.org/people/1901/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

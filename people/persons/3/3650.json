@@ -1,0 +1,145 @@
+{
+  "id": 3650,
+  "schema": "genepedia/person@1",
+  "slug": "hester-magdalena-venter",
+  "names": {
+    "display": "Hester Magdalena Venter",
+    "given": "Hester Magdalena",
+    "surname": "Venter",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1404
+    ],
+    "exSpouses": [],
+    "children": [
+      3651,
+      3652,
+      3653,
+      3654,
+      3655,
+      3656,
+      3657,
+      3658,
+      3659,
+      3660,
+      3661
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F878"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1404,
+        "unionId": "F878",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3651,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3652,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3653,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3654,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3655,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3656,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3657,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3658,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3659,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3660,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3661,
+        "unionId": "F878",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000019880026308@",
+    "geniId": "6000000019880026308",
+    "rfn": "geni:6000000019880026308",
+    "changed": "18 APR 2017"
+  },
+  "page": {
+    "route": "people/3650/",
+    "canonical": "https://www.genepedia.org/people/3650/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

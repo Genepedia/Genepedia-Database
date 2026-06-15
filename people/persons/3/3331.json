@@ -1,0 +1,154 @@
+{
+  "id": 3331,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-frederik-jacobus-coetzee",
+  "names": {
+    "display": "Johannes Frederik Jacobus Coetzee",
+    "given": "Johannes Frederik Jacobus",
+    "surname": "Coetzee",
+    "married": "Coetzee",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 DEC 1898",
+      "year": 1898,
+      "iso": "1898-12-13",
+      "precision": "exact",
+      "display": "December 13, 1898",
+      "place": null
+    },
+    "death": {
+      "date": "9 SEP 1980",
+      "year": 1980,
+      "iso": "1980-09-09",
+      "precision": "exact",
+      "display": "September 9, 1980",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "New Cemetery, Riversdale, Cape Province, South Africa",
+      "location": {
+        "label": "New Cemetery, Riversdale, Cape Province, South Africa",
+        "placeName": "New Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Riversdale",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/02/bf/fd/0c/5344483adc0ce9c8/johannes_coetzee_-_sophia_se_man_original.jpg?hash=3dd5bac663cc5208f4c80f957ea61e0b5c6c4a8330d091fa8dbfad1f1520a995.1789455599",
+      "alt": "Johannes Frederik Jacobus Coetzee"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/02/bf/fd/0c/5344483adc0ce9c8/johannes_coetzee_-_sophia_se_man_original.jpg?hash=3dd5bac663cc5208f4c80f957ea61e0b5c6c4a8330d091fa8dbfad1f1520a995.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/38/d8/4b/45/5344483d255e76d5/5_original.jpg?hash=49aa98b3c8faa6c558794d572633be5b868c77bc23ad90bba918f6ba4343db6e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/53/bc/11/aa/5344483f7d53c262/main_original.png?hash=82899990702d53e6bce6b41f8c7f157099664f833d0536b09b0a0731b4916540.1789455599",
+        "form": "",
+        "title": "COETZEE Johannes Frederik J. 1898-1980",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3329,
+      3330
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3332,
+      3333,
+      3334,
+      3335,
+      1312,
+      1317
+    ],
+    "parentUnions": [
+      "F815"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3329,
+        "unionId": "F815",
+        "type": "biological"
+      },
+      {
+        "id": 3330,
+        "unionId": "F815",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020267846111@",
+    "geniId": "6000000020267846111",
+    "rfn": "geni:6000000020267846111",
+    "changed": "07 FEB 2025"
+  },
+  "page": {
+    "route": "people/3331/",
+    "canonical": "https://www.genepedia.org/people/3331/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

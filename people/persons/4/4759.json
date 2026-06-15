@@ -1,0 +1,117 @@
+{
+  "id": 4759,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-jacobus-bester-4759",
+  "names": {
+    "display": "Gabriel Jacobus Bester",
+    "given": "Gabriel Jacobus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "26 NOV 1931",
+      "year": 1931,
+      "iso": "1931-11-26",
+      "precision": "exact",
+      "display": "November 26, 1931",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 MAR 1932",
+      "year": 1932,
+      "iso": "1932-03-06",
+      "precision": "exact",
+      "display": "March 6, 1932",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1881,
+      4758
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4760,
+      4761,
+      4762
+    ],
+    "parentUnions": [
+      "F1132"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1881,
+        "unionId": "F1132",
+        "type": "biological"
+      },
+      {
+        "id": 4758,
+        "unionId": "F1132",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066457365049@",
+    "geniId": "6000000066457365049",
+    "rfn": "geni:6000000066457365049",
+    "changed": "04 SEP 2017"
+  },
+  "page": {
+    "route": "people/4759/",
+    "canonical": "https://www.genepedia.org/people/4759/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

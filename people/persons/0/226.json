@@ -1,0 +1,128 @@
+{
+  "id": 226,
+  "schema": "genepedia/person@1",
+  "slug": "elzanne-goodwin",
+  "names": {
+    "display": "Elzanne Goodwin",
+    "given": "Elzanne",
+    "surname": "Goodwin",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "21 MAR 1968",
+      "year": 1968,
+      "iso": "1968-03-21",
+      "precision": "exact",
+      "display": "March 21, 1968",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/5f/fd/f4/d9/53444851a2fe2557/screenshot_2020-01-14-17-31-38-1-2_original.jpg?hash=6105ca208fc35b2a8357414551dab529c63adbebe862b95e0ce725454beb97c8.1789455599",
+      "alt": "Elzanne Goodwin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/5f/fd/f4/d9/53444851a2fe2557/screenshot_2020-01-14-17-31-38-1-2_original.jpg?hash=6105ca208fc35b2a8357414551dab529c63adbebe862b95e0ce725454beb97c8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      616,
+      617
+    ],
+    "spouses": [
+      67
+    ],
+    "exSpouses": [],
+    "children": [
+      227,
+      228
+    ],
+    "siblings": [
+      618
+    ],
+    "parentUnions": [
+      "F173"
+    ],
+    "spouseUnions": [
+      "F70"
+    ],
+    "parentLinks": [
+      {
+        "id": 616,
+        "unionId": "F173",
+        "type": "biological"
+      },
+      {
+        "id": 617,
+        "unionId": "F173",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 67,
+        "unionId": "F70",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 227,
+        "unionId": "F70",
+        "type": "biological"
+      },
+      {
+        "id": 228,
+        "unionId": "F70",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027229523708@",
+    "geniId": "6000000027229523708",
+    "rfn": "geni:6000000027229523708",
+    "changed": "14 JAN 2020"
+  },
+  "page": {
+    "route": "people/226/",
+    "canonical": "https://www.genepedia.org/people/226/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

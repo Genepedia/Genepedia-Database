@@ -1,0 +1,194 @@
+{
+  "id": 913,
+  "schema": "genepedia/person@1",
+  "slug": "henry-stephen-roselt-913",
+  "names": {
+    "display": "Henry Stephen Roselt",
+    "given": "Henry Stephen",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 SEP 1929",
+      "year": 1929,
+      "iso": "1929-09-28",
+      "precision": "exact",
+      "display": "September 28, 1929",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 APR 1989",
+      "year": 1989,
+      "iso": "1989-04-10",
+      "precision": "exact",
+      "display": "April 10, 1989",
+      "place": null
+    },
+    "baptism": {
+      "date": "19 JAN 1930",
+      "year": 1930,
+      "iso": "1930-01-19",
+      "precision": "exact",
+      "display": "January 19, 1930",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b1/04/6e/6f/53444840279f589a/roselt_original.jpg?hash=7207f3227d167f0aa773897d74ed89d9e0354c900001e495e81018da08f9bba1.1789455599",
+      "alt": "Henry Stephen Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b1/04/6e/6f/53444840279f589a/roselt_original.jpg?hash=7207f3227d167f0aa773897d74ed89d9e0354c900001e495e81018da08f9bba1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/97/8c/a1/0f/5344484027d2bc12/roselt3_original.jpg?hash=6a84e72af613ee1580e9db754651175f5f4868e84f5dcf819fe7261f4dc72052.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      372,
+      384
+    ],
+    "spouses": [
+      2250
+    ],
+    "exSpouses": [],
+    "children": [
+      2251,
+      2252,
+      2253,
+      2254,
+      2255,
+      2256
+    ],
+    "siblings": [
+      910,
+      911,
+      912,
+      914,
+      915,
+      916
+    ],
+    "parentUnions": [
+      "F254"
+    ],
+    "spouseUnions": [
+      "F572"
+    ],
+    "parentLinks": [
+      {
+        "id": 372,
+        "unionId": "F254",
+        "type": "biological"
+      },
+      {
+        "id": 384,
+        "unionId": "F254",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2250,
+        "unionId": "F572",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2251,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2252,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2253,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2254,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2255,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2256,
+        "unionId": "F572",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028172111372@",
+    "geniId": "6000000028172111372",
+    "rfn": "geni:6000000028172111372",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/913/",
+    "canonical": "https://www.genepedia.org/people/913/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

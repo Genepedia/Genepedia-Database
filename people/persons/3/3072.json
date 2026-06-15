@@ -1,0 +1,100 @@
+{
+  "id": 3072,
+  "schema": "genepedia/person@1",
+  "slug": "anna-hendrika-fourie",
+  "names": {
+    "display": "Anna Hendrika Fourie",
+    "given": "Anna Hendrika",
+    "surname": "Tredoux",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "9 OCT 1973",
+      "year": 1973,
+      "iso": "1973-10-09",
+      "precision": "exact",
+      "display": "October 9, 1973",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1230
+    ],
+    "exSpouses": [],
+    "children": [
+      3073,
+      3074
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1903"
+    ],
+    "spouseUnions": [
+      "F756"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1230,
+        "unionId": "F756",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3073,
+        "unionId": "F756",
+        "type": "biological"
+      },
+      {
+        "id": 3074,
+        "unionId": "F756",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222126386830@",
+    "geniId": "6000000222126386830",
+    "rfn": "geni:6000000222126386830",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3072/",
+    "canonical": "https://www.genepedia.org/people/3072/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

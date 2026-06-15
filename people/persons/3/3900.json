@@ -1,0 +1,100 @@
+{
+  "id": 3900,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobus-michiel-strydom",
+  "names": {
+    "display": "Johannes Jacobus Michiel Strydom",
+    "given": "Johannes Jacobus Michiel",
+    "surname": "Strydom",
+    "married": "Strydom",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 APR 1885",
+      "year": 1885,
+      "iso": "1885-04-11",
+      "precision": "exact",
+      "display": "April 11, 1885",
+      "place": null
+    },
+    "death": {
+      "date": "29 SEP 1971",
+      "year": 1971,
+      "iso": "1971-09-29",
+      "precision": "exact",
+      "display": "September 29, 1971",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3897,
+      1528
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3898,
+      3899
+    ],
+    "parentUnions": [
+      "F921"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3897,
+        "unionId": "F921",
+        "type": "biological"
+      },
+      {
+        "id": 1528,
+        "unionId": "F921",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000099421637872@",
+    "geniId": "6000000099421637872",
+    "rfn": "geni:6000000099421637872",
+    "changed": "03 JUN 2021"
+  },
+  "page": {
+    "route": "people/3900/",
+    "canonical": "https://www.genepedia.org/people/3900/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

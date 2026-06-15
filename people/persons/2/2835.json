@@ -1,0 +1,77 @@
+{
+  "id": 2835,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-magdalena-coetzee",
+  "names": {
+    "display": "Jacoba Magdalena Coetzee",
+    "given": "Jacoba Magdalena",
+    "surname": "Coetzee",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1147
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F701"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1147,
+        "unionId": "F701",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024885791109@",
+    "geniId": "6000000024885791109",
+    "rfn": "geni:6000000024885791109",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/2835/",
+    "canonical": "https://www.genepedia.org/people/2835/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

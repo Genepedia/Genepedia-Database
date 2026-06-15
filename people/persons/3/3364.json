@@ -1,0 +1,84 @@
+{
+  "id": 3364,
+  "schema": "genepedia/person@1",
+  "slug": "anna-gloudina-van-taak",
+  "names": {
+    "display": "Anna Gloudina van Taak",
+    "given": "Anna Gloudina",
+    "surname": "Hollenbach",
+    "married": "van Taak",
+    "nick": "Annatjie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 MAR 1954",
+      "year": 1954,
+      "iso": "1954-03-29",
+      "precision": "exact",
+      "display": "March 29, 1954",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1330
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F828"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1330,
+        "unionId": "F828",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020387140429@",
+    "geniId": "6000000020387140429",
+    "rfn": "geni:6000000020387140429",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3364/",
+    "canonical": "https://www.genepedia.org/people/3364/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

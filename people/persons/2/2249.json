@@ -1,0 +1,103 @@
+{
+  "id": 2249,
+  "schema": "genepedia/person@1",
+  "slug": "yvonne-burger",
+  "names": {
+    "display": "Yvonne Burger",
+    "given": "Yvonne",
+    "surname": "Roselt",
+    "married": "Burger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/37/f3/87/55/53444840c6a94453/12309960_10206408008451879_6482829702862531167_o_original.jpg?hash=e2a41453a1c3d06d4b6a8697dd229269b8bded8a300184cdd9495e0ff05233c9.1789455599",
+      "alt": "Yvonne Burger"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/37/f3/87/55/53444840c6a94453/12309960_10206408008451879_6482829702862531167_o_original.jpg?hash=e2a41453a1c3d06d4b6a8697dd229269b8bded8a300184cdd9495e0ff05233c9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      912,
+      2243
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2244,
+      2245,
+      2246,
+      2247,
+      2248
+    ],
+    "parentUnions": [
+      "F571"
+    ],
+    "spouseUnions": [
+      "F1391"
+    ],
+    "parentLinks": [
+      {
+        "id": 912,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2243,
+        "unionId": "F571",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036072744846@",
+    "geniId": "6000000036072744846",
+    "rfn": "geni:6000000036072744846",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/2249/",
+    "canonical": "https://www.genepedia.org/people/2249/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

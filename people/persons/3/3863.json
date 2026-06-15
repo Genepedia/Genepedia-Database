@@ -1,0 +1,135 @@
+{
+  "id": 3863,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-christoffel-michiel-germishuysen",
+  "names": {
+    "display": "Johannes Christoffel Michiel Germishuysen",
+    "given": "Johannes Christoffel Michiel",
+    "surname": "Germishuysen",
+    "married": "Germishuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 JAN 1835",
+      "year": 1835,
+      "iso": "1835-01-05",
+      "precision": "exact",
+      "display": "January 5, 1835",
+      "place": "Caledon, Cape Colony, South Africa",
+      "location": {
+        "label": "Caledon, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Caledon",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "1 APR 1836",
+      "year": 1836,
+      "iso": "1836-04-01",
+      "precision": "exact",
+      "display": "April 1, 1836",
+      "place": "Caledon",
+      "location": {
+        "label": "Caledon",
+        "placeName": "Caledon",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3859,
+      3860
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1522,
+      3861,
+      3862,
+      3864,
+      3865
+    ],
+    "parentUnions": [
+      "F917"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3859,
+        "unionId": "F917",
+        "type": "biological"
+      },
+      {
+        "id": 3860,
+        "unionId": "F917",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000006245309204@",
+    "geniId": "6000000006245309204",
+    "rfn": "geni:6000000006245309204",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3863/",
+    "canonical": "https://www.genepedia.org/people/3863/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

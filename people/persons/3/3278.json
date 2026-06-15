@@ -1,0 +1,134 @@
+{
+  "id": 3278,
+  "schema": "genepedia/person@1",
+  "slug": "emma-theodora-van-wyk",
+  "names": {
+    "display": "Emma Theodora van Wyk",
+    "given": "Emma Theodora",
+    "surname": "van Wyk",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 JAN 1863",
+      "year": 1863,
+      "iso": "1863-01-21",
+      "precision": "exact",
+      "display": "January 21, 1863",
+      "place": "Pakhuis, Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Pakhuis, Clanwilliam, Cape Province, South Africa",
+        "placeName": "Pakhuis",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "27 JAN 1863",
+      "year": 1863,
+      "iso": "1863-01-27",
+      "precision": "exact",
+      "display": "January 27, 1863",
+      "place": "Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Clanwilliam, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3275,
+      3274
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1301,
+      3276,
+      3277,
+      3279
+    ],
+    "parentUnions": [
+      "F805"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3275,
+        "unionId": "F805",
+        "type": "biological"
+      },
+      {
+        "id": 3274,
+        "unionId": "F805",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000097330649844@",
+    "geniId": "6000000097330649844",
+    "rfn": "geni:6000000097330649844",
+    "changed": "28 NOV 2022"
+  },
+  "page": {
+    "route": "people/3278/",
+    "canonical": "https://www.genepedia.org/people/3278/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

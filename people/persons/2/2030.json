@@ -1,0 +1,231 @@
+{
+  "id": 2030,
+  "schema": "genepedia/person@1",
+  "slug": "hester-anna-catharina-venter",
+  "names": {
+    "display": "Hester Anna Catharina Venter",
+    "given": "Hester Anna Catharina",
+    "surname": "Venter",
+    "married": "Kleynhans",
+    "nick": "Kleynhans",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 OCT 1817",
+      "year": 1817,
+      "iso": "1817-10-05",
+      "precision": "exact",
+      "display": "October 5, 1817",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 SEP 1893",
+      "year": 1893,
+      "iso": "1893-09-04",
+      "precision": "exact",
+      "display": "September 4, 1893",
+      "place": "Plaas / Farm: Rooikop, Kroonstad, Free State, South Africa",
+      "location": {
+        "label": "Plaas / Farm: Rooikop, Kroonstad, Free State, South Africa",
+        "placeName": "Plaas / Farm: Rooikop",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b5/7b/a5/38/5344483d8ad0b612/hester_anna_catharina_venter_d_original.jpg?hash=7cd4517f2ba51ced9b93aa0e91722682ebeefa31576ccc868417b04d3e7f322b.1789455599",
+      "alt": "Hester Anna Catharina Venter"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b5/7b/a5/38/5344483d8ad0b612/hester_anna_catharina_venter_d_original.jpg?hash=7cd4517f2ba51ced9b93aa0e91722682ebeefa31576ccc868417b04d3e7f322b.1789455599",
+        "form": "",
+        "title": "Hester Anna Catharina Venter  d. 4 Sept 1893.JPG",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/ac/92/80/45/53444845a017c88d/dn_2_-_hermanus_johannes_kleynhans_original.pdf?hash=3537dc762206a0465a6db83546cce9f0bd80bf6320afc48308a87ebd5f6763d9.1789455599",
+        "form": "",
+        "title": "DN 2 - Hermanus Johannes Kleynhans.pdf",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "van Staden Web Site",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2029
+    ],
+    "exSpouses": [],
+    "children": [
+      2031,
+      2032,
+      2033,
+      2034,
+      2035,
+      2036,
+      2037,
+      2038,
+      2039,
+      840,
+      2040,
+      2041,
+      2042
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1245"
+    ],
+    "spouseUnions": [
+      "F530"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2029,
+        "unionId": "F530",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2031,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2032,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2033,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2034,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2035,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2036,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2037,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2038,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2039,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 840,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2040,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2041,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2042,
+        "unionId": "F530",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000032322975886@",
+    "geniId": "6000000032322975886",
+    "rfn": "geni:6000000032322975886",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2030/",
+    "canonical": "https://www.genepedia.org/people/2030/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

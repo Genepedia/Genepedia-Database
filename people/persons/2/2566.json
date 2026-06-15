@@ -1,0 +1,162 @@
+{
+  "id": 2566,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-maria-le-roux",
+  "names": {
+    "display": "Johanna Maria le Roux",
+    "given": "Johanna Maria",
+    "surname": "le Roux",
+    "married": "le Roux",
+    "nick": "",
+    "aliases": [
+      "Fourie"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1758",
+      "year": 1758,
+      "iso": "1758",
+      "precision": "about",
+      "display": "about 1758",
+      "place": null
+    },
+    "death": {
+      "date": "ABT 1838",
+      "year": 1838,
+      "iso": "1838",
+      "precision": "about",
+      "display": "about 1838",
+      "place": null
+    },
+    "baptism": {
+      "date": "10 DEC 1758",
+      "year": 1758,
+      "iso": "1758-12-10",
+      "precision": "exact",
+      "display": "December 10, 1758",
+      "place": "Drakenstein, Cape of Good Hope",
+      "location": {
+        "label": "Drakenstein, Cape of Good Hope",
+        "placeName": "Drakenstein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape of Good Hope",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2565
+    ],
+    "exSpouses": [],
+    "children": [
+      2567,
+      2568,
+      1060,
+      2569,
+      2570,
+      2571,
+      2572
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1570"
+    ],
+    "spouseUnions": [
+      "F639"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2565,
+        "unionId": "F639",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2567,
+        "unionId": "F639",
+        "type": "biological"
+      },
+      {
+        "id": 2568,
+        "unionId": "F639",
+        "type": "biological"
+      },
+      {
+        "id": 1060,
+        "unionId": "F639",
+        "type": "biological"
+      },
+      {
+        "id": 2569,
+        "unionId": "F639",
+        "type": "biological"
+      },
+      {
+        "id": 2570,
+        "unionId": "F639",
+        "type": "biological"
+      },
+      {
+        "id": 2571,
+        "unionId": "F639",
+        "type": "biological"
+      },
+      {
+        "id": 2572,
+        "unionId": "F639",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000006245263304@",
+    "geniId": "6000000006245263304",
+    "rfn": "geni:6000000006245263304",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/2566/",
+    "canonical": "https://www.genepedia.org/people/2566/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

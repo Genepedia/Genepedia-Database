@@ -1,0 +1,238 @@
+{
+  "id": 1152,
+  "schema": "genepedia/person@1",
+  "slug": "henry-john-foster-davis",
+  "names": {
+    "display": "Henry John Foster Davis",
+    "given": "Henry John Foster",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1838",
+      "year": 1838,
+      "iso": "1838",
+      "precision": "exact",
+      "display": "1838",
+      "place": "Uitenhage, Eastern Cape, South Africa",
+      "location": {
+        "label": "Uitenhage, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Uitenhage",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "19 DEC 1918",
+      "year": 1918,
+      "iso": "1918-12-19",
+      "precision": "exact",
+      "display": "December 19, 1918",
+      "place": "Paarl, WC, South Africa",
+      "location": {
+        "label": "Paarl, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/65/b7/4b/38/53444845d86afde3/john_henry_jacob_davis_henry_john_foster_davis-crop_original.jpg?hash=717981864171f88f8c3b06455d32f425b044529544fa6aba8540a26c01b75234.1789455599",
+      "alt": "Henry John Foster Davis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/65/b7/4b/38/53444845d86afde3/john_henry_jacob_davis_henry_john_foster_davis-crop_original.jpg?hash=717981864171f88f8c3b06455d32f425b044529544fa6aba8540a26c01b75234.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/1a/aa/a1/19/534448423cf40a3c/scan-crop-crop_original.jpg?hash=bba851ead26d3b2022f2264d97ab4a458cf8488749f08e75f49c216b8704ccaa.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/98/dc/70/71/5344484235e1bbcb/geni_image_correction_original.jpg?hash=6f1fd92f0e3823b899174b3e92406df5203615fab5d57274258f9f2ebb303839.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1150,
+      1149
+    ],
+    "spouses": [
+      2855,
+      2861,
+      2866
+    ],
+    "exSpouses": [],
+    "children": [
+      2856,
+      2857,
+      2858,
+      2859,
+      2860,
+      2862,
+      2863,
+      2864,
+      2865
+    ],
+    "siblings": [
+      1151,
+      447
+    ],
+    "parentUnions": [
+      "F304"
+    ],
+    "spouseUnions": [
+      "F705",
+      "F706",
+      "F707"
+    ],
+    "parentLinks": [
+      {
+        "id": 1150,
+        "unionId": "F304",
+        "type": "biological"
+      },
+      {
+        "id": 1149,
+        "unionId": "F304",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2855,
+        "unionId": "F705",
+        "role": "partner"
+      },
+      {
+        "id": 2861,
+        "unionId": "F706",
+        "role": "wife"
+      },
+      {
+        "id": 2866,
+        "unionId": "F707",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2856,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2857,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2858,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2859,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2860,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2862,
+        "unionId": "F706",
+        "type": "biological"
+      },
+      {
+        "id": 2863,
+        "unionId": "F706",
+        "type": "biological"
+      },
+      {
+        "id": 2864,
+        "unionId": "F706",
+        "type": "biological"
+      },
+      {
+        "id": 2865,
+        "unionId": "F706",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000043429835013@",
+    "geniId": "6000000043429835013",
+    "rfn": "geni:6000000043429835013",
+    "changed": "29 MAY 2025"
+  },
+  "page": {
+    "route": "people/1152/",
+    "canonical": "https://www.genepedia.org/people/1152/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,171 @@
+{
+  "id": 385,
+  "schema": "genepedia/person@1",
+  "slug": "anna-gesina-lombaard",
+  "names": {
+    "display": "Anna Gesina Lombaard",
+    "given": "Anna Gesina",
+    "surname": "Lombaard",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 AUG 1919",
+      "year": 1919,
+      "iso": "1919-08-26",
+      "precision": "exact",
+      "display": "August 26, 1919",
+      "place": "Klerksdorp, North West, South Africa",
+      "location": {
+        "label": "Klerksdorp, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 OCT 1954",
+      "year": 1954,
+      "iso": "1954-10-27",
+      "precision": "exact",
+      "display": "October 27, 1954",
+      "place": "Vryburg",
+      "location": {
+        "label": "Vryburg",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vryburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Huisvrou / Housewife",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f4/d8/a0/13/53444840f655b059/record-image_3qsq-g9sw-q9x7-8_original.jpg?hash=0b95f1eacad241f88797d2ecd03168f600ef01ed8c9c12112c3bb0aabf587f59.1789455599",
+      "alt": "Anna Gesina Lombaard"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f4/d8/a0/13/53444840f655b059/record-image_3qsq-g9sw-q9x7-8_original.jpg?hash=0b95f1eacad241f88797d2ecd03168f600ef01ed8c9c12112c3bb0aabf587f59.1789455599",
+        "form": "",
+        "title": "record-image_trou 1940  .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/ac/dc/37/18/534448656f351ccd/image_original.jpg?hash=51381c0bf4596af45c66000d61db066cd79905545e8b392f2d091a7bc58ff681.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      966,
+      967
+    ],
+    "spouses": [
+      140
+    ],
+    "exSpouses": [],
+    "children": [
+      386
+    ],
+    "siblings": [
+      968,
+      969,
+      970,
+      971
+    ],
+    "parentUnions": [
+      "F264"
+    ],
+    "spouseUnions": [
+      "F119"
+    ],
+    "parentLinks": [
+      {
+        "id": 966,
+        "unionId": "F264",
+        "type": "biological"
+      },
+      {
+        "id": 967,
+        "unionId": "F264",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 140,
+        "unionId": "F119",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 386,
+        "unionId": "F119",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165787120@",
+    "geniId": "6000000028165787120",
+    "rfn": "geni:6000000028165787120",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/385/",
+    "canonical": "https://www.genepedia.org/people/385/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

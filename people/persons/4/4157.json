@@ -1,0 +1,91 @@
+{
+  "id": 4157,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-johannes-jonker",
+  "names": {
+    "display": "Pieter Johannes Jonker",
+    "given": "Pieter Johannes",
+    "surname": "Jonker",
+    "married": "Jonker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1866",
+      "year": 1866,
+      "iso": "1866",
+      "precision": "exact",
+      "display": "1866",
+      "place": null
+    },
+    "death": {
+      "date": "18 DEC 1935",
+      "year": 1935,
+      "iso": "1935-12-18",
+      "precision": "exact",
+      "display": "December 18, 1935",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1576
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F967"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1576,
+        "unionId": "F967",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000191534993858@",
+    "geniId": "6000000191534993858",
+    "rfn": "geni:6000000191534993858",
+    "changed": "05 FEB 2023"
+  },
+  "page": {
+    "route": "people/4157/",
+    "canonical": "https://www.genepedia.org/people/4157/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

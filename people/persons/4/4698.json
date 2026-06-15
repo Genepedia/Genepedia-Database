@@ -1,0 +1,91 @@
+{
+  "id": 4698,
+  "schema": "genepedia/person@1",
+  "slug": "martha-aletta-lubbe",
+  "names": {
+    "display": "Martha Aletta Lubbe",
+    "given": "Martha Aletta",
+    "surname": "Lubbe",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1868
+    ],
+    "exSpouses": [],
+    "children": [
+      4699,
+      4700
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1120"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1868,
+        "unionId": "F1120",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4699,
+        "unionId": "F1120",
+        "type": "biological"
+      },
+      {
+        "id": 4700,
+        "unionId": "F1120",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066163169902@",
+    "geniId": "6000000066163169902",
+    "rfn": "geni:6000000066163169902",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/4698/",
+    "canonical": "https://www.genepedia.org/people/4698/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

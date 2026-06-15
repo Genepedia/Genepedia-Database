@@ -1,0 +1,156 @@
+{
+  "id": 2141,
+  "schema": "genepedia/person@1",
+  "slug": "mary-ann-sinden",
+  "names": {
+    "display": "Mary Ann Sinden",
+    "given": "Mary Ann",
+    "surname": "Sinden",
+    "married": "Ingiers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1816",
+      "year": 1816,
+      "iso": "1816",
+      "precision": "about",
+      "display": "about 1816",
+      "place": "Debtling, Kent, UK",
+      "location": {
+        "label": "Debtling, Kent, UK",
+        "placeName": "Debtling",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kent",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "UK",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "30 JUN 1816",
+      "year": 1816,
+      "iso": "1816-06-30",
+      "precision": "exact",
+      "display": "June 30, 1816",
+      "place": "Detling, England, United Kingdom",
+      "location": {
+        "label": "Detling, England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Detling",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/8f/5e/d6/67/534448622a8bead1/record-image__original.jpg?hash=5019c26e54e8f15d6f100b19ffb6bb488218a2170ab17dd97dc9df1eca046b3d.1789455599",
+      "alt": "Mary Ann Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/8f/5e/d6/67/534448622a8bead1/record-image__original.jpg?hash=5019c26e54e8f15d6f100b19ffb6bb488218a2170ab17dd97dc9df1eca046b3d.1789455599",
+        "form": "",
+        "title": "record-image_trou 1859 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2136,
+      2137
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2138,
+      2139,
+      2140,
+      2142,
+      887,
+      2143,
+      2144,
+      2145,
+      2146,
+      2147,
+      2148
+    ],
+    "parentUnions": [
+      "F554"
+    ],
+    "spouseUnions": [
+      "F1317",
+      "F1318"
+    ],
+    "parentLinks": [
+      {
+        "id": 2136,
+        "unionId": "F554",
+        "type": "biological"
+      },
+      {
+        "id": 2137,
+        "unionId": "F554",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028063967152@",
+    "geniId": "6000000028063967152",
+    "rfn": "geni:6000000028063967152",
+    "changed": "12 MAR 2015"
+  },
+  "page": {
+    "route": "people/2141/",
+    "canonical": "https://www.genepedia.org/people/2141/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

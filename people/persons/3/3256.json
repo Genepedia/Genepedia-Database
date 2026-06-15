@@ -1,0 +1,157 @@
+{
+  "id": 3256,
+  "schema": "genepedia/person@1",
+  "slug": "anna-louisa-mouton-3256",
+  "names": {
+    "display": "Anna Louisa Mouton",
+    "given": "Anna Louisa",
+    "surname": "Mouton",
+    "married": "Conradie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 NOV 1905",
+      "year": 1905,
+      "iso": "1905-11-05",
+      "precision": "exact",
+      "display": "November 5, 1905",
+      "place": "Elands Bay, WC, South Africa",
+      "location": {
+        "label": "Elands Bay, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Elands Bay",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 NOV 1994",
+      "year": 1994,
+      "iso": "1994-11-27",
+      "precision": "exact",
+      "display": "November 27, 1994",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Onderpappagaaiberg, Stellenbosch, WC, South Africa",
+      "location": {
+        "label": "Onderpappagaaiberg, Stellenbosch, WC, South Africa",
+        "placeName": "Onderpappagaaiberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Stellenbosch",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/34/cd/34/fe/5344484edb7e16b3/anna_louisa_conradie_mouton_1905_-_1994_original.jpg?hash=30a1a408e2bd3e0d6a179db118c8e82d69c04c25a2c486ff97730468559737fe.1789455599",
+      "alt": "Anna Louisa Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/34/cd/34/fe/5344484edb7e16b3/anna_louisa_conradie_mouton_1905_-_1994_original.jpg?hash=30a1a408e2bd3e0d6a179db118c8e82d69c04c25a2c486ff97730468559737fe.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1295,
+      1306
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3249,
+      3250,
+      3251,
+      3252,
+      3253,
+      3254,
+      3255
+    ],
+    "parentUnions": [
+      "F799"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1295,
+        "unionId": "F799",
+        "type": "biological"
+      },
+      {
+        "id": 1306,
+        "unionId": "F799",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000091203403127@",
+    "geniId": "6000000091203403127",
+    "rfn": "geni:6000000091203403127",
+    "changed": "19 JUL 2020"
+  },
+  "page": {
+    "route": "people/3256/",
+    "canonical": "https://www.genepedia.org/people/3256/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

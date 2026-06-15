@@ -1,0 +1,115 @@
+{
+  "id": 2511,
+  "schema": "genepedia/person@1",
+  "slug": "nicolaas-visser",
+  "names": {
+    "display": "Nicolaas Visser",
+    "given": "Nicolaas",
+    "surname": "Visser",
+    "married": "Visser",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 MAR 1872",
+      "year": 1872,
+      "iso": "1872-03-15",
+      "precision": "exact",
+      "display": "March 15, 1872",
+      "place": "Victoria West, Northern Cape, South Africa",
+      "location": {
+        "label": "Victoria West, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2508,
+      1017
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2509,
+      2510,
+      2512,
+      2513,
+      2514,
+      2515
+    ],
+    "parentUnions": [
+      "F627"
+    ],
+    "spouseUnions": [
+      "F1539"
+    ],
+    "parentLinks": [
+      {
+        "id": 2508,
+        "unionId": "F627",
+        "type": "biological"
+      },
+      {
+        "id": 1017,
+        "unionId": "F627",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000042582106504@",
+    "geniId": "6000000042582106504",
+    "rfn": "geni:6000000042582106504",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2511/",
+    "canonical": "https://www.genepedia.org/people/2511/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,169 @@
+{
+  "id": 3968,
+  "schema": "genepedia/person@1",
+  "slug": "helena-catharina-marais",
+  "names": {
+    "display": "Helena Catharina Marais",
+    "given": "Helena Catharina",
+    "surname": "Marais",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 AUG 1861",
+      "year": 1861,
+      "iso": "1861-08-30",
+      "precision": "exact",
+      "display": "August 30, 1861",
+      "place": null
+    },
+    "death": {
+      "date": "8 AUG 1932",
+      "year": 1932,
+      "iso": "1932-08-08",
+      "precision": "exact",
+      "display": "August 8, 1932",
+      "place": "Warrenton, Kimberley, South Africa",
+      "location": {
+        "label": "Warrenton, Kimberley, South Africa",
+        "placeName": "Warrenton, Kimberley, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1536
+    ],
+    "exSpouses": [],
+    "children": [
+      3969,
+      3970,
+      3971,
+      3972,
+      3973,
+      3974,
+      3975,
+      3976,
+      3977,
+      3978
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F931"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1536,
+        "unionId": "F931",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3969,
+        "unionId": "F931",
+        "type": "biological"
+      },
+      {
+        "id": 3970,
+        "unionId": "F931",
+        "type": "biological"
+      },
+      {
+        "id": 3971,
+        "unionId": "F931",
+        "type": "biological"
+      },
+      {
+        "id": 3972,
+        "unionId": "F931",
+        "type": "biological"
+      },
+      {
+        "id": 3973,
+        "unionId": "F931",
+        "type": "biological"
+      },
+      {
+        "id": 3974,
+        "unionId": "F931",
+        "type": "biological"
+      },
+      {
+        "id": 3975,
+        "unionId": "F931",
+        "type": "biological"
+      },
+      {
+        "id": 3976,
+        "unionId": "F931",
+        "type": "biological"
+      },
+      {
+        "id": 3977,
+        "unionId": "F931",
+        "type": "biological"
+      },
+      {
+        "id": 3978,
+        "unionId": "F931",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000040061125677@",
+    "geniId": "6000000040061125677",
+    "rfn": "geni:6000000040061125677",
+    "changed": "02 JUN 2024"
+  },
+  "page": {
+    "route": "people/3968/",
+    "canonical": "https://www.genepedia.org/people/3968/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

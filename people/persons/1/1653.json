@@ -1,0 +1,83 @@
+{
+  "id": 1653,
+  "schema": "genepedia/person@1",
+  "slug": "isabella",
+  "names": {
+    "display": "Isabella",
+    "given": "Isabella",
+    "surname": "Scholly",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      666,
+      1652
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F425"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 666,
+        "unionId": "F425",
+        "type": "biological"
+      },
+      {
+        "id": 1652,
+        "unionId": "F425",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204180758828@",
+    "geniId": "6000000204180758828",
+    "rfn": "geni:6000000204180758828",
+    "changed": "17 MAR 2024"
+  },
+  "page": {
+    "route": "people/1653/",
+    "canonical": "https://www.genepedia.org/people/1653/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

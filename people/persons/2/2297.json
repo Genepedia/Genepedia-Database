@@ -1,0 +1,179 @@
+{
+  "id": 2297,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-andries-petrus-cloete-2297",
+  "names": {
+    "display": "Johannes Andries Petrus Cloete",
+    "given": "Johannes Andries Petrus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1840",
+      "year": 1840,
+      "iso": "1840",
+      "precision": "about",
+      "display": "about 1840",
+      "place": null
+    },
+    "death": {
+      "date": "23 DEC 1901",
+      "year": 1901,
+      "iso": "1901-12-23",
+      "precision": "exact",
+      "display": "December 23, 1901",
+      "place": "Douglas",
+      "location": {
+        "label": "Douglas",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer / Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/2e/c7/ac/db/5344486193d79c0d/record-image__original.jpg?hash=86deebf576a36f9633448c9ce74ab20038c839c5ec33a9f61a1e5c852eb0892a.1789455599",
+      "alt": "Johannes Andries Petrus Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/2e/c7/ac/db/5344486193d79c0d/record-image__original.jpg?hash=86deebf576a36f9633448c9ce74ab20038c839c5ec33a9f61a1e5c852eb0892a.1789455599",
+        "form": "",
+        "title": "record-image_dood a .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/02/1a/97/91/5344486193d40230/record-image__original.jpg?hash=3e304222631281ff5127c4bdc0d31352b9b4b810679b6dd602fbc2157e135b14.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/3e/92/5b/eb/5344486360366070/record-image__original.jpg?hash=bd43f9f9cda1e117ffd365a82caa19e6c1e8bef9fd22289e96f2aeff2b190e00.1789455599",
+        "form": "",
+        "title": "record-image_trou 1889 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2296
+    ],
+    "exSpouses": [],
+    "children": [
+      2298,
+      2299,
+      2300,
+      922,
+      2301,
+      2302,
+      2303
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1425"
+    ],
+    "spouseUnions": [
+      "F584"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2296,
+        "unionId": "F584",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2298,
+        "unionId": "F584",
+        "type": "biological"
+      },
+      {
+        "id": 2299,
+        "unionId": "F584",
+        "type": "biological"
+      },
+      {
+        "id": 2300,
+        "unionId": "F584",
+        "type": "biological"
+      },
+      {
+        "id": 922,
+        "unionId": "F584",
+        "type": "biological"
+      },
+      {
+        "id": 2301,
+        "unionId": "F584",
+        "type": "biological"
+      },
+      {
+        "id": 2302,
+        "unionId": "F584",
+        "type": "biological"
+      },
+      {
+        "id": 2303,
+        "unionId": "F584",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002768176779@",
+    "geniId": "6000000002768176779",
+    "rfn": "geni:6000000002768176779",
+    "changed": "23 SEP 2022"
+  },
+  "page": {
+    "route": "people/2297/",
+    "canonical": "https://www.genepedia.org/people/2297/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

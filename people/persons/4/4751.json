@@ -1,0 +1,122 @@
+{
+  "id": 4751,
+  "schema": "genepedia/person@1",
+  "slug": "louis-venter",
+  "names": {
+    "display": "Louis Venter",
+    "given": "Louis",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "30 JUN 1937",
+      "year": 1937,
+      "iso": "1937-06-30",
+      "precision": "exact",
+      "display": "June 30, 1937",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "5 SEP 1937",
+      "year": 1937,
+      "iso": "1937-09-05",
+      "precision": "exact",
+      "display": "September 5, 1937",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4742,
+      1879
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4743,
+      4744,
+      4745,
+      4746,
+      4747,
+      4748,
+      4749,
+      4750
+    ],
+    "parentUnions": [
+      "F1130"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4742,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 1879,
+        "unionId": "F1130",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066434941829@",
+    "geniId": "6000000066434941829",
+    "rfn": "geni:6000000066434941829",
+    "changed": "04 SEP 2017"
+  },
+  "page": {
+    "route": "people/4751/",
+    "canonical": "https://www.genepedia.org/people/4751/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

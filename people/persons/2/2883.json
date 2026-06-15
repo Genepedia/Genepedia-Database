@@ -1,0 +1,123 @@
+{
+  "id": 2883,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-lodewicus-theron",
+  "names": {
+    "display": "Jacobus Lodewicus Theron",
+    "given": "Jacobus Lodewicus",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "Lodewicus",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 NOV 1836",
+      "year": 1836,
+      "iso": "1836-11-17",
+      "precision": "exact",
+      "display": "November 17, 1836",
+      "place": "Victoria West, Cape Colony, South Africa",
+      "location": {
+        "label": "Victoria West, Cape Colony, South Africa",
+        "placeName": "Victoria West, Cape Colony, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1923",
+      "year": 1923,
+      "iso": "1923",
+      "precision": "exact",
+      "display": "1923",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2877,
+      2878
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1154,
+      2879,
+      2880,
+      2881,
+      2882,
+      2884
+    ],
+    "parentUnions": [
+      "F710"
+    ],
+    "spouseUnions": [
+      "F1793",
+      "F1794"
+    ],
+    "parentLinks": [
+      {
+        "id": 2877,
+        "unionId": "F710",
+        "type": "biological"
+      },
+      {
+        "id": 2878,
+        "unionId": "F710",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024694706168@",
+    "geniId": "6000000024694706168",
+    "rfn": "geni:6000000024694706168",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2883/",
+    "canonical": "https://www.genepedia.org/people/2883/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

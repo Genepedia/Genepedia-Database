@@ -1,0 +1,85 @@
+{
+  "id": 4432,
+  "schema": "genepedia/person@1",
+  "slug": "anne-johanna-mcmaster",
+  "names": {
+    "display": "Anne Johanna McMaster",
+    "given": "Anne Johanna",
+    "surname": "McMaster",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1734
+    ],
+    "exSpouses": [],
+    "children": [
+      4433
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1051"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1734,
+        "unionId": "F1051",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4433,
+        "unionId": "F1051",
+        "type": "adopted"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204901540832@",
+    "geniId": "6000000204901540832",
+    "rfn": "geni:6000000204901540832",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/4432/",
+    "canonical": "https://www.genepedia.org/people/4432/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

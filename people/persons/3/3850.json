@@ -1,0 +1,96 @@
+{
+  "id": 3850,
+  "schema": "genepedia/person@1",
+  "slug": "itu-mpete",
+  "names": {
+    "display": "Itu Mpete",
+    "given": "Itu",
+    "surname": "Mpete",
+    "married": "Mpete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1 JUL 1993",
+      "year": 1993,
+      "iso": "1993-07-01",
+      "precision": "exact",
+      "display": "July 1, 1993",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/3f/03/ef/13/53444866076d63bd/screenshot_2024-06-18_175835_original.jpg?hash=595e156768d5011a11e6654707f7004418d9ad072267d93580f0373b07ae93f6.1789455599",
+      "alt": "Itu Mpete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/3f/03/ef/13/53444866076d63bd/screenshot_2024-06-18_175835_original.jpg?hash=595e156768d5011a11e6654707f7004418d9ad072267d93580f0373b07ae93f6.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1503
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F915"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1503,
+        "unionId": "F915",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206612768858@",
+    "geniId": "6000000206612768858",
+    "rfn": "geni:6000000206612768858",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/3850/",
+    "canonical": "https://www.genepedia.org/people/3850/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

@@ -1,0 +1,121 @@
+{
+  "id": 1406,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-johanna-van-wyk",
+  "names": {
+    "display": "Elizabeth Johanna Van Wyk",
+    "given": "Elizabeth Johanna",
+    "surname": "Van Wyk",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 JUL 1894",
+      "year": 1894,
+      "iso": "1894-07-06",
+      "precision": "exact",
+      "display": "July 6, 1894",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 FEB 1967",
+      "year": 1967,
+      "iso": "1967-02-17",
+      "precision": "exact",
+      "display": "February 17, 1967",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      567
+    ],
+    "exSpouses": [],
+    "children": [
+      1407,
+      1408
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F360"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 567,
+        "unionId": "F360",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1407,
+        "unionId": "F360",
+        "type": "biological"
+      },
+      {
+        "id": 1408,
+        "unionId": "F360",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028798339797@",
+    "geniId": "6000000028798339797",
+    "rfn": "geni:6000000028798339797",
+    "changed": "04 JUL 2023"
+  },
+  "page": {
+    "route": "people/1406/",
+    "canonical": "https://www.genepedia.org/people/1406/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

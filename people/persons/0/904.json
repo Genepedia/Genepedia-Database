@@ -1,0 +1,86 @@
+{
+  "id": 904,
+  "schema": "genepedia/person@1",
+  "slug": "henry-charles-roselt",
+  "names": {
+    "display": "Henry Charles Roselt",
+    "given": "Henry Charles",
+    "surname": "Roselt",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      371,
+      901
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      902,
+      903
+    ],
+    "parentUnions": [
+      "F252"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 371,
+        "unionId": "F252",
+        "type": "biological"
+      },
+      {
+        "id": 901,
+        "unionId": "F252",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000201115328842@",
+    "geniId": "6000000201115328842",
+    "rfn": "geni:6000000201115328842",
+    "changed": "18 DEC 2023"
+  },
+  "page": {
+    "route": "people/904/",
+    "canonical": "https://www.genepedia.org/people/904/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

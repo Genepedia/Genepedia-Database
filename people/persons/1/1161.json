@@ -1,0 +1,95 @@
+{
+  "id": 1161,
+  "schema": "genepedia/person@1",
+  "slug": "schalk-johannes-davis",
+  "names": {
+    "display": "Schalk Johannes Davis",
+    "given": "Schalk Johannes",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 OCT 1907",
+      "year": 1907,
+      "iso": "1907-10-25",
+      "precision": "exact",
+      "display": "October 25, 1907",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      451,
+      1159
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1160,
+      1162,
+      1163,
+      1164
+    ],
+    "parentUnions": [
+      "F306"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 451,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1159,
+        "unionId": "F306",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052758073449@",
+    "geniId": "6000000052758073449",
+    "rfn": "geni:6000000052758073449",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1161/",
+    "canonical": "https://www.genepedia.org/people/1161/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

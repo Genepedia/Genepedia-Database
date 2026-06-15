@@ -1,0 +1,162 @@
+{
+  "id": 3306,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-van-taak-3306",
+  "names": {
+    "display": "Pieter Andries van Taak",
+    "given": "Pieter Andries",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 MAR 1905",
+      "year": 1905,
+      "iso": "1905-03-15",
+      "precision": "exact",
+      "display": "March 15, 1905",
+      "place": "Brakfontein, Clanwilliam, Cape Colony, South Africa",
+      "location": {
+        "label": "Brakfontein, Clanwilliam, Cape Colony, South Africa",
+        "placeName": "Brakfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "26 FEB 1988",
+      "year": 1988,
+      "iso": "1988-02-26",
+      "precision": "exact",
+      "display": "February 26, 1988",
+      "place": null
+    },
+    "baptism": {
+      "date": "8 AUG 1905",
+      "year": 1905,
+      "iso": "1905-08-08",
+      "precision": "exact",
+      "display": "August 8, 1905",
+      "place": "Clanwilliam, Cape Colony, South Africa",
+      "location": {
+        "label": "Clanwilliam, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/fa/5c/b9/5e/5344483abdfaa829/pieter_andries_van_taak2_original.jpg?hash=3289bc3b557ed83e98b0630c0387064ef45b533c535e64cb69d7a0a98cde6e50.1789455599",
+      "alt": "Pieter Andries van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/fa/5c/b9/5e/5344483abdfaa829/pieter_andries_van_taak2_original.jpg?hash=3289bc3b557ed83e98b0630c0387064ef45b533c535e64cb69d7a0a98cde6e50.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/7d/15/36/eb/5344483d25613671/8_original.jpg?hash=9e71a9241f1fb4ede39aac39fa37bafd978fda33d0db9b5d8e77c317fd490bd2.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1310,
+      3305
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3307,
+      3308,
+      3309,
+      3310,
+      3311,
+      3312
+    ],
+    "parentUnions": [
+      "F812"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1310,
+        "unionId": "F812",
+        "type": "biological"
+      },
+      {
+        "id": 3305,
+        "unionId": "F812",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020267516301@",
+    "geniId": "6000000020267516301",
+    "rfn": "geni:6000000020267516301",
+    "changed": "12 JUN 2025"
+  },
+  "page": {
+    "route": "people/3306/",
+    "canonical": "https://www.genepedia.org/people/3306/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

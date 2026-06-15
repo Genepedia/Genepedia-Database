@@ -1,0 +1,103 @@
+{
+  "id": 3498,
+  "schema": "genepedia/person@1",
+  "slug": "sybrand-abraham-de-beer-3498",
+  "names": {
+    "display": "Sybrand Abraham de Beer",
+    "given": "Sybrand Abraham",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 DEC 1868",
+      "year": 1868,
+      "iso": "1868-12-30",
+      "precision": "exact",
+      "display": "December 30, 1868",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1386,
+      3497
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3499,
+      3500,
+      3501,
+      3502,
+      3503,
+      3504,
+      3505,
+      3506,
+      3507,
+      3508,
+      3509,
+      3510
+    ],
+    "parentUnions": [
+      "F858"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1386,
+        "unionId": "F858",
+        "type": "biological"
+      },
+      {
+        "id": 3497,
+        "unionId": "F858",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028799676979@",
+    "geniId": "6000000028799676979",
+    "rfn": "geni:6000000028799676979",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3498/",
+    "canonical": "https://www.genepedia.org/people/3498/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

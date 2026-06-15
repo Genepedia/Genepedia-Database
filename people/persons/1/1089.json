@@ -1,0 +1,174 @@
+{
+  "id": 1089,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-susanna-janse-van-vuuren",
+  "names": {
+    "display": "Johanna Susanna Janse van Vuuren",
+    "given": "Johanna Susanna",
+    "surname": "Janse van Vuuren",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 JUL 1853",
+      "year": 1853,
+      "iso": "1853-07-14",
+      "precision": "exact",
+      "display": "July 14, 1853",
+      "place": "Victoria West, Northern Cape, South Africa",
+      "location": {
+        "label": "Victoria West, Northern Cape, South Africa",
+        "placeName": "Victoria West, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "22 APR 1931",
+      "year": 1931,
+      "iso": "1931-04-22",
+      "precision": "exact",
+      "display": "April 22, 1931",
+      "place": "Nooitgedacht, Niekerkshoop, Northern Cape, South Africa",
+      "location": {
+        "label": "Nooitgedacht, Niekerkshoop, Northern Cape, South Africa",
+        "placeName": "Nooitgedacht, Niekerkshoop, Northern Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/46/7b/19/24/534448683fbf1ed4/image_original.jpg?hash=354c6e1e753e71de69abbd9429e5c7465e446abc05a743d104a6a7e99cc58dd1.1789455599",
+      "alt": "Johanna Susanna Janse van Vuuren"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/46/7b/19/24/534448683fbf1ed4/image_original.jpg?hash=354c6e1e753e71de69abbd9429e5c7465e446abc05a743d104a6a7e99cc58dd1.1789455599",
+        "form": "",
+        "title": "image - dood .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2707,
+      2708
+    ],
+    "spouses": [
+      432
+    ],
+    "exSpouses": [],
+    "children": [
+      1090,
+      1091,
+      1092
+    ],
+    "siblings": [
+      2709,
+      2710
+    ],
+    "parentUnions": [
+      "F666"
+    ],
+    "spouseUnions": [
+      "F288"
+    ],
+    "parentLinks": [
+      {
+        "id": 2707,
+        "unionId": "F666",
+        "type": "biological"
+      },
+      {
+        "id": 2708,
+        "unionId": "F666",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 432,
+        "unionId": "F288",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1090,
+        "unionId": "F288",
+        "type": "biological"
+      },
+      {
+        "id": 1091,
+        "unionId": "F288",
+        "type": "biological"
+      },
+      {
+        "id": 1092,
+        "unionId": "F288",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000026998469139@",
+    "geniId": "6000000026998469139",
+    "rfn": "geni:6000000026998469139",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1089/",
+    "canonical": "https://www.genepedia.org/people/1089/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

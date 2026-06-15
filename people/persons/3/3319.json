@@ -1,0 +1,136 @@
+{
+  "id": 3319,
+  "schema": "genepedia/person@1",
+  "slug": "hester-elizabeth-maria-redelinghuys",
+  "names": {
+    "display": "Hester Elizabeth Maria Redelinghuys",
+    "given": "Hester Elizabeth Maria",
+    "surname": "van Taak",
+    "married": "Redelinghuys",
+    "nick": "Baba",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 AUG 1940",
+      "year": 1940,
+      "iso": "1940-08-24",
+      "precision": "exact",
+      "display": "August 24, 1940",
+      "place": "Willistone, Cape Province, South Africa",
+      "location": {
+        "label": "Willistone, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Willistone",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 SEP 1941",
+      "year": 1941,
+      "iso": "1941-09-07",
+      "precision": "exact",
+      "display": "September 7, 1941",
+      "place": "Maitland, Cape Province, South Africa",
+      "location": {
+        "label": "Maitland, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Maitland",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1310,
+      3313
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3314,
+      3315,
+      3316,
+      3317,
+      3318,
+      3320
+    ],
+    "parentUnions": [
+      "F813"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1310,
+        "unionId": "F813",
+        "type": "biological"
+      },
+      {
+        "id": 3313,
+        "unionId": "F813",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020304357395@",
+    "geniId": "6000000020304357395",
+    "rfn": "geni:6000000020304357395",
+    "changed": "03 JUN 2026"
+  },
+  "page": {
+    "route": "people/3319/",
+    "canonical": "https://www.genepedia.org/people/3319/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

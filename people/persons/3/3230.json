@@ -1,0 +1,167 @@
+{
+  "id": 3230,
+  "schema": "genepedia/person@1",
+  "slug": "maria-berendina-van-zyl",
+  "names": {
+    "display": "Maria Berendina van Zyl",
+    "given": "Maria Berendina",
+    "surname": "van Zyl",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 MAY 1876",
+      "year": 1876,
+      "iso": "1876-05-30",
+      "precision": "exact",
+      "display": "May 30, 1876",
+      "place": "Oudeplaats, Vanrhynsdorp, WC, South Africa",
+      "location": {
+        "label": "Oudeplaats, Vanrhynsdorp, WC, South Africa",
+        "placeName": "Oudeplaats",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vanrhynsdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "7 OCT 1916",
+      "year": 1916,
+      "iso": "1916-10-07",
+      "precision": "exact",
+      "display": "October 7, 1916",
+      "place": "Klawer, WC, South Africa",
+      "location": {
+        "label": "Klawer, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klawer",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/65/1c/7e/4a/5344484ef158ebca/maria_berendina_mouton_van_zyl_1876_-_1916_original.jpg?hash=b9c935ed7ff5c61bc34e3ed4e7f390fe3a97bdebc72b3f50101142f523968906.1789455599",
+      "alt": "Maria Berendina van Zyl"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/65/1c/7e/4a/5344484ef158ebca/maria_berendina_mouton_van_zyl_1876_-_1916_original.jpg?hash=b9c935ed7ff5c61bc34e3ed4e7f390fe3a97bdebc72b3f50101142f523968906.1789455599",
+        "form": "",
+        "title": "Maria Berendina Mouton (van Zyl) 1876 - 1916.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1293
+    ],
+    "exSpouses": [],
+    "children": [
+      3231,
+      3232,
+      3233,
+      3234,
+      3235
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F795"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1293,
+        "unionId": "F795",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3231,
+        "unionId": "F795",
+        "type": "biological"
+      },
+      {
+        "id": 3232,
+        "unionId": "F795",
+        "type": "biological"
+      },
+      {
+        "id": 3233,
+        "unionId": "F795",
+        "type": "biological"
+      },
+      {
+        "id": 3234,
+        "unionId": "F795",
+        "type": "biological"
+      },
+      {
+        "id": 3235,
+        "unionId": "F795",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000107457932857@",
+    "geniId": "6000000107457932857",
+    "rfn": "geni:6000000107457932857",
+    "changed": "23 SEP 2019"
+  },
+  "page": {
+    "route": "people/3230/",
+    "canonical": "https://www.genepedia.org/people/3230/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

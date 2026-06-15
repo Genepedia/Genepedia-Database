@@ -1,0 +1,138 @@
+{
+  "id": 1933,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-magdalena-cornelia-bester-1933",
+  "names": {
+    "display": "Gertruida Magdalena Cornelia Bester",
+    "given": "Gertruida Magdalena Cornelia",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 MAY 1892",
+      "year": 1892,
+      "iso": "1892-05-02",
+      "precision": "exact",
+      "display": "May 2, 1892",
+      "place": null
+    },
+    "death": {
+      "date": "21 OCT 1919",
+      "year": 1919,
+      "iso": "1919-10-21",
+      "precision": "exact",
+      "display": "October 21, 1919",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      819,
+      830
+    ],
+    "spouses": [
+      841
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1932,
+      1934,
+      1935,
+      1936,
+      1937,
+      1938,
+      1939,
+      1940,
+      1941,
+      1942,
+      1943,
+      1944,
+      1945,
+      1946
+    ],
+    "parentUnions": [
+      "F508"
+    ],
+    "spouseUnions": [
+      "F531"
+    ],
+    "parentLinks": [
+      {
+        "id": 819,
+        "unionId": "F508",
+        "type": "biological"
+      },
+      {
+        "id": 830,
+        "unionId": "F508",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 841,
+        "unionId": "F531",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066838287821@",
+    "geniId": "6000000066838287821",
+    "rfn": "geni:6000000066838287821",
+    "changed": "21 MAR 2019"
+  },
+  "page": {
+    "route": "people/1933/",
+    "canonical": "https://www.genepedia.org/people/1933/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

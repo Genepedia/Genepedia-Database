@@ -1,0 +1,94 @@
+{
+  "id": 615,
+  "schema": "genepedia/person@1",
+  "slug": "jacques-van-der-linde",
+  "names": {
+    "display": "Jacques van der Linde",
+    "given": "Jacques",
+    "surname": "van der Linde",
+    "married": "van der Linde",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 MAR 1982",
+      "year": 1982,
+      "iso": "1982-03-24",
+      "precision": "exact",
+      "display": "March 24, 1982",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      611,
+      224
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      612,
+      613,
+      614
+    ],
+    "parentUnions": [
+      "F172"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 611,
+        "unionId": "F172",
+        "type": "biological"
+      },
+      {
+        "id": 224,
+        "unionId": "F172",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587240848@",
+    "geniId": "6000000206587240848",
+    "rfn": "geni:6000000206587240848",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/615/",
+    "canonical": "https://www.genepedia.org/people/615/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

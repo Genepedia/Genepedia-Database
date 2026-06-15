@@ -1,0 +1,139 @@
+{
+  "id": 3537,
+  "schema": "genepedia/person@1",
+  "slug": "francois-felix-van-der-ryst",
+  "names": {
+    "display": "Francois Felix van der Ryst",
+    "given": "Francois Felix",
+    "surname": "van der Ryst",
+    "married": "van der Ryst",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 JUL 1883",
+      "year": 1883,
+      "iso": "1883-07-17",
+      "precision": "exact",
+      "display": "July 17, 1883",
+      "place": null
+    },
+    "death": {
+      "date": "7 DEC 1957",
+      "year": 1957,
+      "iso": "1957-12-07",
+      "precision": "exact",
+      "display": "December 7, 1957",
+      "place": "Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/69/25/59/0b/5344484e02932de1/francois_felix_original.jpg?hash=63da49ff2853a4227fdf957434b8f5465e76ed220ae165a96d2422ac491beb1c.1789455599",
+      "alt": "Francois Felix van der Ryst"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/69/25/59/0b/5344484e02932de1/francois_felix_original.jpg?hash=63da49ff2853a4227fdf957434b8f5465e76ed220ae165a96d2422ac491beb1c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3525,
+      1389
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3526,
+      3527,
+      3528,
+      3529,
+      3530,
+      3531,
+      3532,
+      3533,
+      3534,
+      3535,
+      3536,
+      3538,
+      3539
+    ],
+    "parentUnions": [
+      "F861"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3525,
+        "unionId": "F861",
+        "type": "biological"
+      },
+      {
+        "id": 1389,
+        "unionId": "F861",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000103452492066@",
+    "geniId": "6000000103452492066",
+    "rfn": "geni:6000000103452492066",
+    "changed": "11 JAN 2022"
+  },
+  "page": {
+    "route": "people/3537/",
+    "canonical": "https://www.genepedia.org/people/3537/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

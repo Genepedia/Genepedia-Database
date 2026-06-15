@@ -1,0 +1,161 @@
+{
+  "id": 1143,
+  "schema": "genepedia/person@1",
+  "slug": "elsie-susanna-cecilia-koekemoer",
+  "names": {
+    "display": "Elsie Susanna Cecilia Koekemoer",
+    "given": "Elsie Susanna Cecilia",
+    "surname": "Koekemoer",
+    "married": "du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 NOV 1891",
+      "year": 1891,
+      "iso": "1891-11-04",
+      "precision": "exact",
+      "display": "November 4, 1891",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 SEP 1894",
+      "year": 1894,
+      "iso": "1894-09-06",
+      "precision": "exact",
+      "display": "September 6, 1894",
+      "place": "Hopetown",
+      "location": {
+        "label": "Hopetown",
+        "placeName": "Hopetown",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/bf/ef/7b/68/534448683e02e432/img-20250222-wa0034_original.jpg?hash=d80faa7b3c26abbfa8a075ac5375e8b8e0e52474348682a463e0bd269ff66814.1789455599",
+      "alt": "Elsie Susanna Cecilia Koekemoer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/bf/ef/7b/68/534448683e02e432/img-20250222-wa0034_original.jpg?hash=d80faa7b3c26abbfa8a075ac5375e8b8e0e52474348682a463e0bd269ff66814.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1137,
+      443
+    ],
+    "spouses": [
+      2823
+    ],
+    "exSpouses": [],
+    "children": [
+      2824,
+      2825,
+      2826
+    ],
+    "siblings": [
+      1138,
+      1139,
+      1140,
+      1141,
+      1142
+    ],
+    "parentUnions": [
+      "F301"
+    ],
+    "spouseUnions": [
+      "F699"
+    ],
+    "parentLinks": [
+      {
+        "id": 1137,
+        "unionId": "F301",
+        "type": "biological"
+      },
+      {
+        "id": 443,
+        "unionId": "F301",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2823,
+        "unionId": "F699",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2824,
+        "unionId": "F699",
+        "type": "biological"
+      },
+      {
+        "id": 2825,
+        "unionId": "F699",
+        "type": "biological"
+      },
+      {
+        "id": 2826,
+        "unionId": "F699",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000216115625871@",
+    "geniId": "6000000216115625871",
+    "rfn": "geni:6000000216115625871",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1143/",
+    "canonical": "https://www.genepedia.org/people/1143/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

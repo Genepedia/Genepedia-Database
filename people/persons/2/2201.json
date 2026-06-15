@@ -1,0 +1,179 @@
+{
+  "id": 2201,
+  "schema": "genepedia/person@1",
+  "slug": "ali-sinden",
+  "names": {
+    "display": "Ali Sinden",
+    "given": "Ali",
+    "surname": "Sinden",
+    "married": "Sinden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 OCT 1917",
+      "year": 1917,
+      "iso": "1917-10-05",
+      "precision": "exact",
+      "display": "October 5, 1917",
+      "place": null
+    },
+    "death": {
+      "date": "7 DEC 1998",
+      "year": 1998,
+      "iso": "1998-12-07",
+      "precision": "exact",
+      "display": "December 7, 1998",
+      "place": "Bucklands, Douglas, South Africa",
+      "location": {
+        "label": "Bucklands, Douglas, South Africa",
+        "placeName": "Bucklands",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Bucklands Main Cemetery, Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Bucklands Main Cemetery, Douglas, Northern Cape, South Africa",
+        "placeName": "Bucklands Main Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/51/eb/e8/81/5344485ed770a96f/imgp0315ali_original.jpg?hash=7ea7b69b7ab1867a99221850aa74de258265ea2c59f9f233b2e584d672e92ce2.1789455599",
+      "alt": "Ali Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/51/eb/e8/81/5344485ed770a96f/imgp0315ali_original.jpg?hash=7ea7b69b7ab1867a99221850aa74de258265ea2c59f9f233b2e584d672e92ce2.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/a8/eb/ea/87/5344485ed763ebd5/imgp0314_original.jpg?hash=08e152baacead8f1b367ff269db617e9655fa6982ba8da718e1f60fd7ff7a400.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/10/81/ae/b0/5344483fa5816c78/record-image_3qsq-g9s9-h9qt-x_original.jpg?hash=105479c790aae8106f388b7ddf1850b98ec96b199c97c690982158a713a7ffee.1789455599",
+        "form": "",
+        "title": "record-image_trou  1950.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      897,
+      2191
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2192,
+      927,
+      2193,
+      2194,
+      2195,
+      2196,
+      2197,
+      2198,
+      2199,
+      2200,
+      2202,
+      2203,
+      2204
+    ],
+    "parentUnions": [
+      "F559"
+    ],
+    "spouseUnions": [
+      "F1362"
+    ],
+    "parentLinks": [
+      {
+        "id": 897,
+        "unionId": "F559",
+        "type": "biological"
+      },
+      {
+        "id": 2191,
+        "unionId": "F559",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028063930734@",
+    "geniId": "6000000028063930734",
+    "rfn": "geni:6000000028063930734",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2201/",
+    "canonical": "https://www.genepedia.org/people/2201/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

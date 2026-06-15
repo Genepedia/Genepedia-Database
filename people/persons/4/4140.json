@@ -1,0 +1,84 @@
+{
+  "id": 4140,
+  "schema": "genepedia/person@1",
+  "slug": "jan-albertus-van-tonder",
+  "names": {
+    "display": "Jan Albertus van Tonder",
+    "given": "Jan Albertus",
+    "surname": "van Tonder",
+    "married": "van Tonder",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1 FEB 1927",
+      "year": 1927,
+      "iso": "1927-02-01",
+      "precision": "exact",
+      "display": "February 1, 1927",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1566
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F961"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1566,
+        "unionId": "F961",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000176421855922@",
+    "geniId": "6000000176421855922",
+    "rfn": "geni:6000000176421855922",
+    "changed": "17 JUN 2021"
+  },
+  "page": {
+    "route": "people/4140/",
+    "canonical": "https://www.genepedia.org/people/4140/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 741,
+  "schema": "genepedia/person@1",
+  "slug": "arthur-joseph-lurie",
+  "names": {
+    "display": "Arthur Joseph Lurie",
+    "given": "Arthur Joseph",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "Bobby",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      299,
+      740
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      742,
+      743,
+      744
+    ],
+    "parentUnions": [
+      "F209"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 299,
+        "unionId": "F209",
+        "type": "biological"
+      },
+      {
+        "id": 740,
+        "unionId": "F209",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149262840@",
+    "geniId": "6000000204149262840",
+    "rfn": "geni:6000000204149262840",
+    "changed": "20 JAN 2025"
+  },
+  "page": {
+    "route": "people/741/",
+    "canonical": "https://www.genepedia.org/people/741/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 2006,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-carolina-drotskie",
+  "names": {
+    "display": "Martha Maria Carolina Drotskie",
+    "given": "Martha Maria Carolina",
+    "surname": "Drotskie",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1910",
+      "year": 1910,
+      "iso": "1910",
+      "precision": "exact",
+      "display": "1910",
+      "place": null
+    },
+    "death": {
+      "date": "1977",
+      "year": 1977,
+      "iso": "1977",
+      "precision": "exact",
+      "display": "1977",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      833
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F520"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 833,
+        "unionId": "F520",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000008690203071@",
+    "geniId": "6000000008690203071",
+    "rfn": "geni:6000000008690203071",
+    "changed": "30 DEC 2014"
+  },
+  "page": {
+    "route": "people/2006/",
+    "canonical": "https://www.genepedia.org/people/2006/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

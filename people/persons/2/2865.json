@@ -1,0 +1,94 @@
+{
+  "id": 2865,
+  "schema": "genepedia/person@1",
+  "slug": "lorenzo-louis-davis",
+  "names": {
+    "display": "Lorenzo Louis Davis",
+    "given": "Lorenzo Louis",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 OCT 1881",
+      "year": 1881,
+      "iso": "1881-10-21",
+      "precision": "exact",
+      "display": "October 21, 1881",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1152,
+      2861
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2862,
+      2863,
+      2864
+    ],
+    "parentUnions": [
+      "F706"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1152,
+        "unionId": "F706",
+        "type": "biological"
+      },
+      {
+        "id": 2861,
+        "unionId": "F706",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052893662043@",
+    "geniId": "6000000052893662043",
+    "rfn": "geni:6000000052893662043",
+    "changed": "18 JAN 2017"
+  },
+  "page": {
+    "route": "people/2865/",
+    "canonical": "https://www.genepedia.org/people/2865/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

@@ -1,0 +1,166 @@
+{
+  "id": 1938,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-johannes-hendrik-bester-1938",
+  "names": {
+    "display": "Marthinus Johannes Hendrik Bester",
+    "given": "Marthinus Johannes Hendrik",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 JAN 1902",
+      "year": 1902,
+      "iso": "1902-01-04",
+      "precision": "exact",
+      "display": "January 4, 1902",
+      "place": null
+    },
+    "death": {
+      "date": "19 DEC 1985",
+      "year": 1985,
+      "iso": "1985-12-19",
+      "precision": "exact",
+      "display": "December 19, 1985",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "New Cemetery, Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "New Cemetery, Griekwastad, Northern Cape, South Africa",
+        "placeName": "New Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/9f/a7/0c/71/5344484584f06a67/bester_marthinus_johannes_hendrik_1902_original.jpg?hash=b6bf271e5d5a18caa26c9a74f0afd82748a34f2041b5d0a4b3fe5f80331bdc5b.1789455599",
+      "alt": "Marthinus Johannes Hendrik Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/9f/a7/0c/71/5344484584f06a67/bester_marthinus_johannes_hendrik_1902_original.jpg?hash=b6bf271e5d5a18caa26c9a74f0afd82748a34f2041b5d0a4b3fe5f80331bdc5b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      819,
+      830
+    ],
+    "spouses": [
+      4990
+    ],
+    "exSpouses": [],
+    "children": [
+      4991
+    ],
+    "siblings": [
+      1932,
+      1933,
+      1934,
+      1935,
+      1936,
+      1937,
+      1939,
+      1940,
+      1941,
+      1942,
+      1943,
+      1944,
+      1945,
+      1946
+    ],
+    "parentUnions": [
+      "F508"
+    ],
+    "spouseUnions": [
+      "F1184"
+    ],
+    "parentLinks": [
+      {
+        "id": 819,
+        "unionId": "F508",
+        "type": "biological"
+      },
+      {
+        "id": 830,
+        "unionId": "F508",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4990,
+        "unionId": "F1184",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4991,
+        "unionId": "F1184",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066965715412@",
+    "geniId": "6000000066965715412",
+    "rfn": "geni:6000000066965715412",
+    "changed": "25 MAY 2018"
+  },
+  "page": {
+    "route": "people/1938/",
+    "canonical": "https://www.genepedia.org/people/1938/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

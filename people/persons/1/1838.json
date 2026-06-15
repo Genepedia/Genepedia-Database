@@ -1,0 +1,77 @@
+{
+  "id": 1838,
+  "schema": "genepedia/person@1",
+  "slug": "de-villiers",
+  "names": {
+    "display": "? De Villiers",
+    "given": "?",
+    "surname": "De Villiers",
+    "married": "De Villiers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      798
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F488"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 798,
+        "unionId": "F488",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207953692833@",
+    "geniId": "6000000207953692833",
+    "rfn": "geni:6000000207953692833",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/1838/",
+    "canonical": "https://www.genepedia.org/people/1838/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

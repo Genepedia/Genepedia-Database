@@ -1,0 +1,92 @@
+{
+  "id": 318,
+  "schema": "genepedia/person@1",
+  "slug": "lizay-labuschagne",
+  "names": {
+    "display": "Lizay Labuschagne",
+    "given": "Lizay",
+    "surname": "Labuschagne",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "31 MAY 2012",
+      "year": 2012,
+      "iso": "2012-05-31",
+      "precision": "exact",
+      "display": "May 31, 2012",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      317,
+      122
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      319
+    ],
+    "parentUnions": [
+      "F102"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 317,
+        "unionId": "F102",
+        "type": "biological"
+      },
+      {
+        "id": 122,
+        "unionId": "F102",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204042586904@",
+    "geniId": "6000000204042586904",
+    "rfn": "geni:6000000204042586904",
+    "changed": "12 JUN 2024"
+  },
+  "page": {
+    "route": "people/318/",
+    "canonical": "https://www.genepedia.org/people/318/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 2740,
+  "schema": "genepedia/person@1",
+  "slug": "barend-bartholomius-van-der-linde",
+  "names": {
+    "display": "Barend Bartholomius van der Linde",
+    "given": "Barend Bartholomius",
+    "surname": "van der Linde",
+    "married": "van der Linde",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1886",
+      "year": 1886,
+      "iso": "1886",
+      "precision": "about",
+      "display": "about 1886",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1104
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F673"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1104,
+        "unionId": "F673",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000176812354870@",
+    "geniId": "6000000176812354870",
+    "rfn": "geni:6000000176812354870",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/2740/",
+    "canonical": "https://www.genepedia.org/people/2740/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

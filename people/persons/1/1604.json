@@ -1,0 +1,146 @@
+{
+  "id": 1604,
+  "schema": "genepedia/person@1",
+  "slug": "levina-susanna-catharina-botha",
+  "names": {
+    "display": "Levina Susanna Catharina Botha",
+    "given": "Levina Susanna Catharina",
+    "surname": "Botha",
+    "married": "Pelser",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 JAN 1855",
+      "year": 1855,
+      "iso": "1855-01-24",
+      "precision": "exact",
+      "display": "January 24, 1855",
+      "place": null
+    },
+    "death": {
+      "date": "23 SEP 1930",
+      "year": 1930,
+      "iso": "1930-09-23",
+      "precision": "exact",
+      "display": "September 23, 1930",
+      "place": "Rustenburg, NW, South Africa",
+      "location": {
+        "label": "Rustenburg, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Rustenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1602,
+      1601
+    ],
+    "spouses": [
+      4228
+    ],
+    "exSpouses": [],
+    "children": [
+      4229,
+      4230,
+      4231
+    ],
+    "siblings": [
+      1603,
+      645
+    ],
+    "parentUnions": [
+      "F408"
+    ],
+    "spouseUnions": [
+      "F993"
+    ],
+    "parentLinks": [
+      {
+        "id": 1602,
+        "unionId": "F408",
+        "type": "biological"
+      },
+      {
+        "id": 1601,
+        "unionId": "F408",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4228,
+        "unionId": "F993",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4229,
+        "unionId": "F993",
+        "type": "biological"
+      },
+      {
+        "id": 4230,
+        "unionId": "F993",
+        "type": "biological"
+      },
+      {
+        "id": 4231,
+        "unionId": "F993",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000071663274215@",
+    "geniId": "6000000071663274215",
+    "rfn": "geni:6000000071663274215",
+    "changed": "14 APR 2025"
+  },
+  "page": {
+    "route": "people/1604/",
+    "canonical": "https://www.genepedia.org/people/1604/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

@@ -1,0 +1,136 @@
+{
+  "id": 4791,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-johan-bester-4791",
+  "names": {
+    "display": "Michiel Johan Bester",
+    "given": "Michiel Johan",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 JUL 1916",
+      "year": 1916,
+      "iso": "1916-07-10",
+      "precision": "exact",
+      "display": "July 10, 1916",
+      "place": null
+    },
+    "death": {
+      "date": "18 NOV 2002",
+      "year": 2002,
+      "iso": "2002-11-18",
+      "precision": "exact",
+      "display": "November 18, 2002",
+      "place": "Melkbosstrand, Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Melkbosstrand, Cape Town, Western Cape, South Africa",
+        "placeName": "Melkbosstrand",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "3 SEP 1916",
+      "year": 1916,
+      "iso": "1916-09-03",
+      "precision": "exact",
+      "display": "September 3, 1916",
+      "place": "Koffiefontein, Free State, South Africa",
+      "location": {
+        "label": "Koffiefontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Koffiefontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1894,
+      4790
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1141"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1894,
+        "unionId": "F1141",
+        "type": "biological"
+      },
+      {
+        "id": 4790,
+        "unionId": "F1141",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065528605821@",
+    "geniId": "6000000065528605821",
+    "rfn": "geni:6000000065528605821",
+    "changed": "23 AUG 2017"
+  },
+  "page": {
+    "route": "people/4791/",
+    "canonical": "https://www.genepedia.org/people/4791/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

@@ -1,0 +1,126 @@
+{
+  "id": 204,
+  "schema": "genepedia/person@1",
+  "slug": "danie-nel",
+  "names": {
+    "display": "Danie Nel",
+    "given": "Danie",
+    "surname": "Nel",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      202,
+      203
+    ],
+    "spouses": [
+      526
+    ],
+    "exSpouses": [],
+    "children": [
+      527
+    ],
+    "siblings": [
+      61
+    ],
+    "parentUnions": [
+      "F64"
+    ],
+    "spouseUnions": [
+      "F155"
+    ],
+    "parentLinks": [
+      {
+        "id": 202,
+        "unionId": "F64",
+        "type": "biological"
+      },
+      {
+        "id": 203,
+        "unionId": "F64",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 526,
+        "unionId": "F155",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 527,
+        "unionId": "F155",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207417324847@",
+    "geniId": "6000000207417324847",
+    "rfn": "geni:6000000207417324847",
+    "changed": "18 JUL 2024"
+  },
+  "page": {
+    "route": "people/204/",
+    "canonical": "https://www.genepedia.org/people/204/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

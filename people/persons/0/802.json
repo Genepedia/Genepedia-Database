@@ -1,0 +1,111 @@
+{
+  "id": 802,
+  "schema": "genepedia/person@1",
+  "slug": "connor-brown",
+  "names": {
+    "display": "Connor Brown",
+    "given": "Connor",
+    "surname": "Brown",
+    "married": "Brown",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "19 FEB 2015",
+      "year": 2015,
+      "iso": "2015-02-19",
+      "precision": "exact",
+      "display": "February 19, 2015",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/52/af/87/4c/53444866573c8abf/428433236_10226046677856597_5278399513177111370_n_original.jpg?hash=3646f0524cdcd084cd6c7f504ec4b0c43869206a33bbe58d1f654578e0c6212d.1789455599",
+      "alt": "Connor Brown"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/52/af/87/4c/53444866573c8abf/428433236_10226046677856597_5278399513177111370_n_original.jpg?hash=3646f0524cdcd084cd6c7f504ec4b0c43869206a33bbe58d1f654578e0c6212d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/a0/18/c7/69/53444866573b2751/302339889_10222770755920596_1886985852562578979_n_original.jpg?hash=152ceffba0b811b5df310eb4ca3a18d78c570be386ca33aaf7a72978ef7c4146.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      800,
+      314
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      801
+    ],
+    "parentUnions": [
+      "F223"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 800,
+        "unionId": "F223",
+        "type": "adopted"
+      },
+      {
+        "id": 314,
+        "unionId": "F223",
+        "type": "adopted"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207951698821@",
+    "geniId": "6000000207951698821",
+    "rfn": "geni:6000000207951698821",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/802/",
+    "canonical": "https://www.genepedia.org/people/802/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,121 @@
+{
+  "id": 125,
+  "schema": "genepedia/person@1",
+  "slug": "kaie-berhens",
+  "names": {
+    "display": "Kaie Berhens",
+    "given": "Kaie",
+    "surname": "Berhens",
+    "married": "Berhens",
+    "nick": "Kay",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BET 1900 AND 1934",
+      "year": 1900,
+      "iso": "1934",
+      "precision": "exact",
+      "display": "1934",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 2000",
+      "year": 2000,
+      "iso": "2000",
+      "precision": "before",
+      "display": "before 2000",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      326,
+      327
+    ],
+    "spouses": [
+      124
+    ],
+    "exSpouses": [],
+    "children": [
+      126,
+      37
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F105"
+    ],
+    "spouseUnions": [
+      "F44"
+    ],
+    "parentLinks": [
+      {
+        "id": 326,
+        "unionId": "F105",
+        "type": "biological"
+      },
+      {
+        "id": 327,
+        "unionId": "F105",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 124,
+        "unionId": "F44",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 126,
+        "unionId": "F44",
+        "type": "biological"
+      },
+      {
+        "id": 37,
+        "unionId": "F44",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206406396845@",
+    "geniId": "6000000206406396845",
+    "rfn": "geni:6000000206406396845",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/125/",
+    "canonical": "https://www.genepedia.org/people/125/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,113 @@
+{
+  "id": 2701,
+  "schema": "genepedia/person@1",
+  "slug": "david-andries-kotze",
+  "names": {
+    "display": "David Andries Kotze",
+    "given": "David Andries",
+    "surname": "Kotze",
+    "married": "Kotze",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1910",
+      "year": 1910,
+      "iso": "1910",
+      "precision": "exact",
+      "display": "1910",
+      "place": "Potgietersrus",
+      "location": {
+        "label": "Potgietersrus",
+        "placeName": "Potgietersrus",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1088,
+      2698
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2699,
+      2700,
+      2702,
+      2703
+    ],
+    "parentUnions": [
+      "F664"
+    ],
+    "spouseUnions": [
+      "F1670"
+    ],
+    "parentLinks": [
+      {
+        "id": 1088,
+        "unionId": "F664",
+        "type": "biological"
+      },
+      {
+        "id": 2698,
+        "unionId": "F664",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000122567834988@",
+    "geniId": "6000000122567834988",
+    "rfn": "geni:6000000122567834988",
+    "changed": "01 SEP 2025"
+  },
+  "page": {
+    "route": "people/2701/",
+    "canonical": "https://www.genepedia.org/people/2701/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

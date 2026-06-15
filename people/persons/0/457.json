@@ -1,0 +1,171 @@
+{
+  "id": 457,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-frederick-hermanus-flemming",
+  "names": {
+    "display": "Daniël Frederick Hermanus Flemming",
+    "given": "Daniël Frederick Hermanus",
+    "surname": "Flemming",
+    "married": "Flemming",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 MAY 1891",
+      "year": 1891,
+      "iso": "1891-05-14",
+      "precision": "exact",
+      "display": "May 14, 1891",
+      "place": "Cape Colony",
+      "location": {
+        "label": "Cape Colony",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "31 AUG 1970",
+      "year": 1970,
+      "iso": "1970-08-31",
+      "precision": "exact",
+      "display": "August 31, 1970",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/51/21/1d/d6/5344484292c1d391/gertruida_j_original.jpg?hash=fe6fe58f712181b1b0af3d1c2975dae1b16402aa9342abc4fc861eaaa45e8f3a.1789455599",
+      "alt": "Daniël Frederick Hermanus Flemming"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/51/21/1d/d6/5344484292c1d391/gertruida_j_original.jpg?hash=fe6fe58f712181b1b0af3d1c2975dae1b16402aa9342abc4fc861eaaa45e8f3a.1789455599",
+        "form": "",
+        "title": "Daniel F. H. Flemming & Gertruida J. C. Fourie",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1166,
+      1165
+    ],
+    "spouses": [
+      169
+    ],
+    "exSpouses": [],
+    "children": [
+      458,
+      459,
+      460,
+      461
+    ],
+    "siblings": [
+      1167,
+      1168,
+      1169,
+      1170,
+      1171,
+      1172,
+      1173,
+      1174,
+      1175
+    ],
+    "parentUnions": [
+      "F307"
+    ],
+    "spouseUnions": [
+      "F137"
+    ],
+    "parentLinks": [
+      {
+        "id": 1166,
+        "unionId": "F307",
+        "type": "biological"
+      },
+      {
+        "id": 1165,
+        "unionId": "F307",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 169,
+        "unionId": "F137",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 458,
+        "unionId": "F137",
+        "type": "biological"
+      },
+      {
+        "id": 459,
+        "unionId": "F137",
+        "type": "biological"
+      },
+      {
+        "id": 460,
+        "unionId": "F137",
+        "type": "biological"
+      },
+      {
+        "id": 461,
+        "unionId": "F137",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000054083680984@",
+    "geniId": "6000000054083680984",
+    "rfn": "geni:6000000054083680984",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/457/",
+    "canonical": "https://www.genepedia.org/people/457/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

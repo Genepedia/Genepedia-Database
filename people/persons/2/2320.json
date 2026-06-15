@@ -1,0 +1,149 @@
+{
+  "id": 2320,
+  "schema": "genepedia/person@1",
+  "slug": "sanet-susan-sinden",
+  "names": {
+    "display": "Sanet Susan Sinden",
+    "given": "Sanet Susan",
+    "surname": "Sinden",
+    "married": "Rossouw",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 NOV 1966",
+      "year": 1966,
+      "iso": "1966-11-22",
+      "precision": "exact",
+      "display": "November 22, 1966",
+      "place": null
+    },
+    "death": {
+      "date": "9 DEC 1994",
+      "year": 1994,
+      "iso": "1994-12-09",
+      "precision": "exact",
+      "display": "December 9, 1994",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Warrenton Main Cemetery",
+      "location": {
+        "label": "Warrenton Main Cemetery",
+        "placeName": "Warrenton Main Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/77/d6/f7/79/5344483c8789c1bf/zud73rux_original.jpg?hash=f822410f3877ddc006ae04099769da509bf1a1a084d8b8e53a547547870ef923.1789455599",
+      "alt": "Sanet Susan Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/77/d6/f7/79/5344483c8789c1bf/zud73rux_original.jpg?hash=f822410f3877ddc006ae04099769da509bf1a1a084d8b8e53a547547870ef923.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/8e/7d/cd/73/5344484301ca6c92/20141103_220245_original.jpg?hash=b16efaa5c3f28730b9cefc6e2da6e38f86b6e955d6e3e64bccc45ae9842961d7.1789455599&version=2",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      929,
+      2319
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2321,
+      2322,
+      2323,
+      2324,
+      2325,
+      2326
+    ],
+    "parentUnions": [
+      "F588"
+    ],
+    "spouseUnions": [
+      "F1433"
+    ],
+    "parentLinks": [
+      {
+        "id": 929,
+        "unionId": "F588",
+        "type": "biological"
+      },
+      {
+        "id": 2319,
+        "unionId": "F588",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028162561048@",
+    "geniId": "6000000028162561048",
+    "rfn": "geni:6000000028162561048",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/2320/",
+    "canonical": "https://www.genepedia.org/people/2320/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

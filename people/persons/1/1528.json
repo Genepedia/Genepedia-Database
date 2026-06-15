@@ -1,0 +1,191 @@
+{
+  "id": 1528,
+  "schema": "genepedia/person@1",
+  "slug": "helena-magdalena-albertina-germishuizen",
+  "names": {
+    "display": "Helena Magdalena Albertina Germishuizen",
+    "given": "Helena Magdalena Albertina",
+    "surname": "Germishuizen",
+    "married": "Strydom",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1856",
+      "year": 1856,
+      "iso": "1856",
+      "precision": "exact",
+      "display": "1856",
+      "place": "Villiersdorp, Western Cape, South Africa",
+      "location": {
+        "label": "Villiersdorp, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Villiersdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 JUN 1922",
+      "year": 1922,
+      "iso": "1922-06-17",
+      "precision": "exact",
+      "display": "June 17, 1922",
+      "place": "Vryburg, North West, South Africa",
+      "location": {
+        "label": "Vryburg, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vryburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Vryburg, North West, South Africa",
+      "location": {
+        "label": "Vryburg, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vryburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1522,
+      1523
+    ],
+    "spouses": [
+      3897
+    ],
+    "exSpouses": [],
+    "children": [
+      3898,
+      3899,
+      3900
+    ],
+    "siblings": [
+      1524,
+      1525,
+      1526,
+      1527,
+      1529,
+      1530,
+      622
+    ],
+    "parentUnions": [
+      "F392"
+    ],
+    "spouseUnions": [
+      "F921"
+    ],
+    "parentLinks": [
+      {
+        "id": 1522,
+        "unionId": "F392",
+        "type": "biological"
+      },
+      {
+        "id": 1523,
+        "unionId": "F392",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3897,
+        "unionId": "F921",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3898,
+        "unionId": "F921",
+        "type": "biological"
+      },
+      {
+        "id": 3899,
+        "unionId": "F921",
+        "type": "biological"
+      },
+      {
+        "id": 3900,
+        "unionId": "F921",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000036411042951@",
+    "geniId": "6000000036411042951",
+    "rfn": "geni:6000000036411042951",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/1528/",
+    "canonical": "https://www.genepedia.org/people/1528/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1823,
+  "schema": "genepedia/person@1",
+  "slug": "chiedza-mupombwa",
+  "names": {
+    "display": "Chiedza Mupombwa",
+    "given": "Chiedza",
+    "surname": "Mupombwa",
+    "married": "Mupombwa",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      789,
+      1821
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1822
+    ],
+    "parentUnions": [
+      "F481"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 789,
+        "unionId": "F481",
+        "type": "biological"
+      },
+      {
+        "id": 1821,
+        "unionId": "F481",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207544732833@",
+    "geniId": "6000000207544732833",
+    "rfn": "geni:6000000207544732833",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1823/",
+    "canonical": "https://www.genepedia.org/people/1823/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

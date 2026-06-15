@@ -1,0 +1,97 @@
+{
+  "id": 2317,
+  "schema": "genepedia/person@1",
+  "slug": "leslie-vos",
+  "names": {
+    "display": "Leslie Vos",
+    "given": "Leslie",
+    "surname": "Vos",
+    "married": "Vos",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/24/17/80/90/534448413336504d/vuv76jup_original.jpg?hash=62f33f930052405b9621a6b896af089ca3fa8faf15130269cdc8b563ba45d363.1789455599",
+      "alt": "Leslie Vos"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/24/17/80/90/534448413336504d/vuv76jup_original.jpg?hash=62f33f930052405b9621a6b896af089ca3fa8faf15130269cdc8b563ba45d363.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2316,
+      928
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2318
+    ],
+    "parentUnions": [
+      "F587"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2316,
+        "unionId": "F587",
+        "type": "biological"
+      },
+      {
+        "id": 928,
+        "unionId": "F587",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000032162211033@",
+    "geniId": "6000000032162211033",
+    "rfn": "geni:6000000032162211033",
+    "changed": "17 OCT 2016"
+  },
+  "page": {
+    "route": "people/2317/",
+    "canonical": "https://www.genepedia.org/people/2317/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,134 @@
+{
+  "id": 626,
+  "schema": "genepedia/person@1",
+  "slug": "philippus-germishuizen",
+  "names": {
+    "display": "Philippus Germishuizen",
+    "given": "Philippus",
+    "surname": "Germishuizen",
+    "married": "Germishuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 FEB 1879",
+      "year": 1879,
+      "iso": "1879-02-15",
+      "precision": "exact",
+      "display": "February 15, 1879",
+      "place": "Cape Colony",
+      "location": {
+        "label": "Cape Colony",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 APR 1902",
+      "year": 1902,
+      "iso": "1902-04-16",
+      "precision": "exact",
+      "display": "April 16, 1902",
+      "place": "Karreepan, Bloemhof, Transvaal, South Africa",
+      "location": {
+        "label": "Karreepan, Bloemhof, Transvaal, South Africa",
+        "placeName": "Karreepan",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      622,
+      623
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      238,
+      624,
+      625,
+      627
+    ],
+    "parentUnions": [
+      "F175"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 622,
+        "unionId": "F175",
+        "type": "biological"
+      },
+      {
+        "id": 623,
+        "unionId": "F175",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000189074353827@",
+    "geniId": "6000000189074353827",
+    "rfn": "geni:6000000189074353827",
+    "changed": "20 NOV 2022"
+  },
+  "page": {
+    "route": "people/626/",
+    "canonical": "https://www.genepedia.org/people/626/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

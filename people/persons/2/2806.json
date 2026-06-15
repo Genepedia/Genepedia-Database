@@ -1,0 +1,180 @@
+{
+  "id": 2806,
+  "schema": "genepedia/person@1",
+  "slug": "hermiena-maryna-botes",
+  "names": {
+    "display": "Hermiena Maryna Botes",
+    "given": "Hermiena Maryna",
+    "surname": "Botes",
+    "married": "Weber",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 MAY 1944",
+      "year": 1944,
+      "iso": "1944-05-19",
+      "precision": "exact",
+      "display": "May 19, 1944",
+      "place": null
+    },
+    "death": {
+      "date": "31 JAN 2020",
+      "year": 2020,
+      "iso": "2020-01-31",
+      "precision": "exact",
+      "display": "January 31, 2020",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "2 JUL 1944",
+      "year": 1944,
+      "iso": "1944-07-02",
+      "precision": "exact",
+      "display": "July 2, 1944",
+      "place": "Vryburg",
+      "location": {
+        "label": "Vryburg",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vryburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/df/7d/7d/47/53444859315df9a5/91bc441c-9ae9-4171-bddc-25c2289bff9d_original.jpg?hash=bb97944c11e04da3b2c4c3f3b6926406da325180109575fbdd9cc68774b92281.1789455599",
+      "alt": "Hermiena Maryna Botes"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/df/7d/7d/47/53444859315df9a5/91bc441c-9ae9-4171-bddc-25c2289bff9d_original.jpg?hash=bb97944c11e04da3b2c4c3f3b6926406da325180109575fbdd9cc68774b92281.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2801,
+      1135
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2802,
+      2803,
+      2804,
+      2805,
+      2807
+    ],
+    "parentUnions": [
+      "F694"
+    ],
+    "spouseUnions": [
+      "F1744"
+    ],
+    "parentLinks": [
+      {
+        "id": 2801,
+        "unionId": "F694",
+        "type": "biological"
+      },
+      {
+        "id": 1135,
+        "unionId": "F694",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056815402862@",
+    "geniId": "6000000056815402862",
+    "rfn": "geni:6000000056815402862",
+    "changed": "09 JUN 2026"
+  },
+  "page": {
+    "route": "people/2806/",
+    "canonical": "https://www.genepedia.org/people/2806/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

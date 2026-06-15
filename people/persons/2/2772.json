@@ -1,0 +1,139 @@
+{
+  "id": 2772,
+  "schema": "genepedia/person@1",
+  "slug": "frederick-evert-stevens",
+  "names": {
+    "display": "Frederick Evert Stevens",
+    "given": "Frederick Evert",
+    "surname": "Stevens",
+    "married": "Stevens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 OCT 1894",
+      "year": 1894,
+      "iso": "1894-10-05",
+      "precision": "exact",
+      "display": "October 5, 1894",
+      "place": "Belfast, Transvaal, South Africa",
+      "location": {
+        "label": "Belfast, Transvaal, South Africa",
+        "placeName": "Belfast, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 JUN 1976",
+      "year": 1976,
+      "iso": "1976-06-21",
+      "precision": "exact",
+      "display": "June 21, 1976",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1124
+    ],
+    "exSpouses": [],
+    "children": [
+      2773,
+      2774
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1719"
+    ],
+    "spouseUnions": [
+      "F687"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1124,
+        "unionId": "F687",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2773,
+        "unionId": "F687",
+        "type": "biological"
+      },
+      {
+        "id": 2774,
+        "unionId": "F687",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000172946795283@",
+    "geniId": "6000000172946795283",
+    "rfn": "geni:6000000172946795283",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/2772/",
+    "canonical": "https://www.genepedia.org/people/2772/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

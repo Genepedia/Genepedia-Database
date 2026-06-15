@@ -1,0 +1,84 @@
+{
+  "id": 3337,
+  "schema": "genepedia/person@1",
+  "slug": "robert-willemse",
+  "names": {
+    "display": "Robert Willemse",
+    "given": "Robert",
+    "surname": "Willemse",
+    "married": "Willemse",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 MAR 1936",
+      "year": 1936,
+      "iso": "1936-03-24",
+      "precision": "exact",
+      "display": "March 24, 1936",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1316
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F817"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1316,
+        "unionId": "F817",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020385637964@",
+    "geniId": "6000000020385637964",
+    "rfn": "geni:6000000020385637964",
+    "changed": "28 FEB 2015"
+  },
+  "page": {
+    "route": "people/3337/",
+    "canonical": "https://www.genepedia.org/people/3337/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

@@ -1,0 +1,169 @@
+{
+  "id": 1848,
+  "schema": "genepedia/person@1",
+  "slug": "adriana-susanna-magdalena-bester",
+  "names": {
+    "display": "Adriana Susanna Magdalena Bester",
+    "given": "Adriana Susanna Magdalena",
+    "surname": "Bester",
+    "married": "Strauss",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 SEP 1830",
+      "year": 1830,
+      "iso": "1830-09-03",
+      "precision": "exact",
+      "display": "September 3, 1830",
+      "place": null
+    },
+    "death": {
+      "date": "26 JAN 1916",
+      "year": 1916,
+      "iso": "1916-01-26",
+      "precision": "exact",
+      "display": "January 26, 1916",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1844,
+      1843
+    ],
+    "spouses": [
+      4602
+    ],
+    "exSpouses": [],
+    "children": [
+      4603,
+      4604,
+      4605,
+      4606,
+      4607,
+      4608,
+      4609,
+      4610,
+      4611
+    ],
+    "siblings": [
+      1845,
+      1846,
+      1847,
+      810,
+      1849
+    ],
+    "parentUnions": [
+      "F493"
+    ],
+    "spouseUnions": [
+      "F1104"
+    ],
+    "parentLinks": [
+      {
+        "id": 1844,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1843,
+        "unionId": "F493",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4602,
+        "unionId": "F1104",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4603,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 4604,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 4605,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 4606,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 4607,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 4608,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 4609,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 4610,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 4611,
+        "unionId": "F1104",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000075962188888@",
+    "geniId": "6000000075962188888",
+    "rfn": "geni:6000000075962188888",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1848/",
+    "canonical": "https://www.genepedia.org/people/1848/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

@@ -1,0 +1,124 @@
+{
+  "id": 983,
+  "schema": "genepedia/person@1",
+  "slug": "schalk-willem-pienaar-983",
+  "names": {
+    "display": "Schalk Willem Pienaar",
+    "given": "Schalk Willem",
+    "surname": "Pienaar",
+    "married": "Pienaar",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 DEC 1902",
+      "year": 1902,
+      "iso": "1902-12-03",
+      "precision": "exact",
+      "display": "December 3, 1902",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2427,
+      2428
+    ],
+    "spouses": [
+      984
+    ],
+    "exSpouses": [],
+    "children": [
+      985,
+      986,
+      398
+    ],
+    "siblings": [
+      2429,
+      2430,
+      2431
+    ],
+    "parentUnions": [
+      "F612"
+    ],
+    "spouseUnions": [
+      "F268"
+    ],
+    "parentLinks": [
+      {
+        "id": 2427,
+        "unionId": "F612",
+        "type": "biological"
+      },
+      {
+        "id": 2428,
+        "unionId": "F612",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 984,
+        "unionId": "F268",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 985,
+        "unionId": "F268",
+        "type": "biological"
+      },
+      {
+        "id": 986,
+        "unionId": "F268",
+        "type": "biological"
+      },
+      {
+        "id": 398,
+        "unionId": "F268",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000046509654390@",
+    "geniId": "6000000046509654390",
+    "rfn": "geni:6000000046509654390",
+    "changed": "23 OCT 2024"
+  },
+  "page": {
+    "route": "people/983/",
+    "canonical": "https://www.genepedia.org/people/983/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

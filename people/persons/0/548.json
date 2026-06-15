@@ -1,0 +1,173 @@
+{
+  "id": 548,
+  "schema": "genepedia/person@1",
+  "slug": "sophia-christina-palvie",
+  "names": {
+    "display": "Sophia Christina Palvie",
+    "given": "Sophia Christina",
+    "surname": "Palvie",
+    "married": "Bradley",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 SEP 1909",
+      "year": 1909,
+      "iso": "1909-09-16",
+      "precision": "exact",
+      "display": "September 16, 1909",
+      "place": null
+    },
+    "death": {
+      "date": "23 JUL 1995",
+      "year": 1995,
+      "iso": "1995-07-23",
+      "precision": "exact",
+      "display": "July 23, 1995",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Windhoek, Khomas Region, Namibia",
+      "location": {
+        "label": "Windhoek, Khomas Region, Namibia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Windhoek",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Khomas Region",
+        "country": "Namibia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/54/00/9b/c0/5344484b7bf08abe/bradley_sophy_1909-1995_original.jpg?hash=eb5097056728da04ea6c152ed23f4d91092e670851c80f5dbe46288d94399030.1789455599",
+      "alt": "Sophia Christina Palvie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/54/00/9b/c0/5344484b7bf08abe/bradley_sophy_1909-1995_original.jpg?hash=eb5097056728da04ea6c152ed23f4d91092e670851c80f5dbe46288d94399030.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      547,
+      546
+    ],
+    "spouses": [
+      1352
+    ],
+    "exSpouses": [],
+    "children": [
+      1353,
+      1354,
+      1355,
+      1356
+    ],
+    "siblings": [
+      211,
+      549,
+      550
+    ],
+    "parentUnions": [
+      "F160"
+    ],
+    "spouseUnions": [
+      "F347"
+    ],
+    "parentLinks": [
+      {
+        "id": 547,
+        "unionId": "F160",
+        "type": "biological"
+      },
+      {
+        "id": 546,
+        "unionId": "F160",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1352,
+        "unionId": "F347",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1353,
+        "unionId": "F347",
+        "type": "biological"
+      },
+      {
+        "id": 1354,
+        "unionId": "F347",
+        "type": "biological"
+      },
+      {
+        "id": 1355,
+        "unionId": "F347",
+        "type": "biological"
+      },
+      {
+        "id": 1356,
+        "unionId": "F347",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000092604109858@",
+    "geniId": "6000000092604109858",
+    "rfn": "geni:6000000092604109858",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/548/",
+    "canonical": "https://www.genepedia.org/people/548/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

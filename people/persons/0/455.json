@@ -1,0 +1,134 @@
+{
+  "id": 455,
+  "schema": "genepedia/person@1",
+  "slug": "henry-foster-davis",
+  "names": {
+    "display": "Henry Foster Davis",
+    "given": "Henry Foster",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "APR 1897",
+      "year": 1897,
+      "iso": "1897-04",
+      "precision": "exact",
+      "display": "April 1897",
+      "place": null
+    },
+    "death": {
+      "date": "25 NOV 1948",
+      "year": 1948,
+      "iso": "1948-11-25",
+      "precision": "exact",
+      "display": "November 25, 1948",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Henry Foster Davis"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Potgieter Web Site",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      447,
+      448
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      449,
+      168,
+      450,
+      451,
+      452,
+      453,
+      454,
+      456
+    ],
+    "parentUnions": [
+      "F136"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 447,
+        "unionId": "F136",
+        "type": "biological"
+      },
+      {
+        "id": 448,
+        "unionId": "F136",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052999786930@",
+    "geniId": "6000000052999786930",
+    "rfn": "geni:6000000052999786930",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/455/",
+    "canonical": "https://www.genepedia.org/people/455/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

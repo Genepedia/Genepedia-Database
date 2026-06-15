@@ -1,0 +1,132 @@
+{
+  "id": 4771,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-magrietha-magdalena-louw",
+  "names": {
+    "display": "Elizabeth Magrietha Magdalena Louw",
+    "given": "Elizabeth Magrietha Magdalena",
+    "surname": "Louw",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "21 SEP 1954",
+      "year": 1954,
+      "iso": "1954-09-21",
+      "precision": "exact",
+      "display": "September 21, 1954",
+      "place": "Wespark, Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Wespark, Pretoria, Gauteng, South Africa",
+        "placeName": "Wespark",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1888
+    ],
+    "exSpouses": [],
+    "children": [
+      4772,
+      4773,
+      4774,
+      4775,
+      4776
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1137"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1888,
+        "unionId": "F1137",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4772,
+        "unionId": "F1137",
+        "type": "biological"
+      },
+      {
+        "id": 4773,
+        "unionId": "F1137",
+        "type": "biological"
+      },
+      {
+        "id": 4774,
+        "unionId": "F1137",
+        "type": "biological"
+      },
+      {
+        "id": 4775,
+        "unionId": "F1137",
+        "type": "biological"
+      },
+      {
+        "id": 4776,
+        "unionId": "F1137",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065455462885@",
+    "geniId": "6000000065455462885",
+    "rfn": "geni:6000000065455462885",
+    "changed": "21 AUG 2017"
+  },
+  "page": {
+    "route": "people/4771/",
+    "canonical": "https://www.genepedia.org/people/4771/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

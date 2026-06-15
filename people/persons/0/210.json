@@ -1,0 +1,231 @@
+{
+  "id": 210,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-johannes-frederik-van-taak",
+  "names": {
+    "display": "Jacobus Johannes Frederik van Taak",
+    "given": "Jacobus Johannes Frederik",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "Koos",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 APR 1906",
+      "year": 1906,
+      "iso": "1906-04-10",
+      "precision": "exact",
+      "display": "April 10, 1906",
+      "place": "Biedouw, Clanwilliam, Cape Colony, South Africa",
+      "location": {
+        "label": "Biedouw, Clanwilliam, Cape Colony, South Africa",
+        "placeName": "Biedouw",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 JAN 1984",
+      "year": 1984,
+      "iso": "1984-01-16",
+      "precision": "exact",
+      "display": "January 16, 1984",
+      "place": null
+    },
+    "baptism": {
+      "date": "7 AUG 1906",
+      "year": 1906,
+      "iso": "1906-08-07",
+      "precision": "exact",
+      "display": "August 7, 1906",
+      "place": "Clanwilliam, Cape Colony, South Africa",
+      "location": {
+        "label": "Clanwilliam, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Williston Cemetery New",
+      "location": {
+        "label": "Williston Cemetery New",
+        "placeName": "Williston Cemetery New",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/33/6a/21/5e/534448602ee0c4ce/screen_20170202_092517_e001_original.jpg?hash=3923520e51a096e1e798d0b88d942112cf5d041af7ff129d268f145fd732501f.1789455599",
+      "alt": "Jacobus Johannes Frederik van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/33/6a/21/5e/534448602ee0c4ce/screen_20170202_092517_e001_original.jpg?hash=3923520e51a096e1e798d0b88d942112cf5d041af7ff129d268f145fd732501f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/62/fe/03/07/5344483c4719809c/zan52sed_original.jpg?hash=74eca7436f25b438b7ac725b5d046925bdea9280f4487f2300d4182057fe8295.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/c1/d4/c1/f6/5344483c47197f0a/gij43bif_original.jpg?hash=c5ed332b8578610c536d9a9caab7a2cc685814cd531713bde26cbb2669433b62.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      538,
+      537
+    ],
+    "spouses": [
+      211,
+      536
+    ],
+    "exSpouses": [],
+    "children": [
+      212,
+      213,
+      65
+    ],
+    "siblings": [
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545
+    ],
+    "parentUnions": [
+      "F159"
+    ],
+    "spouseUnions": [
+      "F68",
+      "F158"
+    ],
+    "parentLinks": [
+      {
+        "id": 538,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 537,
+        "unionId": "F159",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 211,
+        "unionId": "F68",
+        "role": "wife"
+      },
+      {
+        "id": 536,
+        "unionId": "F158",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 212,
+        "unionId": "F68",
+        "type": "biological"
+      },
+      {
+        "id": 213,
+        "unionId": "F68",
+        "type": "biological"
+      },
+      {
+        "id": 65,
+        "unionId": "F68",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020383424752@",
+    "geniId": "6000000020383424752",
+    "rfn": "geni:6000000020383424752",
+    "changed": "20 SEP 2024"
+  },
+  "page": {
+    "route": "people/210/",
+    "canonical": "https://www.genepedia.org/people/210/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

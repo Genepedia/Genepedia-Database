@@ -1,0 +1,149 @@
+{
+  "id": 218,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-samuel-de-beer-218",
+  "names": {
+    "display": "Joseph Samuel de Beer",
+    "given": "Joseph Samuel",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "Job",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 MAR 1938",
+      "year": 1938,
+      "iso": "1938-03-11",
+      "precision": "exact",
+      "display": "March 11, 1938",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d2/40/44/51/53444865b688ecb8/de_beer_joseph_samuel_job__original.jpg?hash=38eb663d230ddd2a4620c442d3b18249d80973b23538f06b09ee35eedd76540a.1789455599",
+      "alt": "Joseph Samuel de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d2/40/44/51/53444865b688ecb8/de_beer_joseph_samuel_job__original.jpg?hash=38eb663d230ddd2a4620c442d3b18249d80973b23538f06b09ee35eedd76540a.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      214,
+      215
+    ],
+    "spouses": [
+      593
+    ],
+    "exSpouses": [],
+    "children": [
+      594,
+      595,
+      596,
+      597
+    ],
+    "siblings": [
+      216,
+      217,
+      66,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225
+    ],
+    "parentUnions": [
+      "F69"
+    ],
+    "spouseUnions": [
+      "F167"
+    ],
+    "parentLinks": [
+      {
+        "id": 214,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 215,
+        "unionId": "F69",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 593,
+        "unionId": "F167",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 594,
+        "unionId": "F167",
+        "type": "biological"
+      },
+      {
+        "id": 595,
+        "unionId": "F167",
+        "type": "biological"
+      },
+      {
+        "id": 596,
+        "unionId": "F167",
+        "type": "biological"
+      },
+      {
+        "id": 597,
+        "unionId": "F167",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000205253089828@",
+    "geniId": "6000000205253089828",
+    "rfn": "geni:6000000205253089828",
+    "changed": "23 APR 2024"
+  },
+  "page": {
+    "route": "people/218/",
+    "canonical": "https://www.genepedia.org/people/218/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

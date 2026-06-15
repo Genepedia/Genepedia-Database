@@ -1,0 +1,133 @@
+{
+  "id": 3801,
+  "schema": "genepedia/person@1",
+  "slug": "jeremiah-brynard-3801",
+  "names": {
+    "display": "Jeremiah Brynard",
+    "given": "Jeremiah",
+    "surname": "Brynard",
+    "married": "Brynard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 JUL 1908",
+      "year": 1908,
+      "iso": "1908-07-16",
+      "precision": "exact",
+      "display": "July 16, 1908",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 DEC 1967",
+      "year": 1967,
+      "iso": "1967-12-09",
+      "precision": "exact",
+      "display": "December 9, 1967",
+      "place": "Aberdeen, EC, South Africa",
+      "location": {
+        "label": "Aberdeen, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "6270",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1441,
+      3798
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3799,
+      3800,
+      3802
+    ],
+    "parentUnions": [
+      "F905"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1441,
+        "unionId": "F905",
+        "type": "biological"
+      },
+      {
+        "id": 3798,
+        "unionId": "F905",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000223373930004@",
+    "geniId": "6000000223373930004",
+    "rfn": "geni:6000000223373930004",
+    "changed": "17 JAN 2026"
+  },
+  "page": {
+    "route": "people/3801/",
+    "canonical": "https://www.genepedia.org/people/3801/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

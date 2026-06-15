@@ -1,0 +1,88 @@
+{
+  "id": 3416,
+  "schema": "genepedia/person@1",
+  "slug": "mattie-van-niekerk",
+  "names": {
+    "display": "Mattie van Niekerk",
+    "given": "Mattie",
+    "surname": "van Niekerk",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1340,
+      3411
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3412,
+      3413,
+      3414,
+      3415
+    ],
+    "parentUnions": [
+      "F837"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1340,
+        "unionId": "F837",
+        "type": "biological"
+      },
+      {
+        "id": 3411,
+        "unionId": "F837",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000044299029227@",
+    "geniId": "6000000044299029227",
+    "rfn": "geni:6000000044299029227",
+    "changed": "24 JUL 2016"
+  },
+  "page": {
+    "route": "people/3416/",
+    "canonical": "https://www.genepedia.org/people/3416/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.197Z"
+}

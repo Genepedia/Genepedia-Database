@@ -1,0 +1,130 @@
+{
+  "id": 2041,
+  "schema": "genepedia/person@1",
+  "slug": "anna-sophia-kleynhans",
+  "names": {
+    "display": "Anna Sophia Kleynhans",
+    "given": "Anna Sophia",
+    "surname": "Kleynhans",
+    "married": "Crause",
+    "nick": "",
+    "aliases": [
+      "Krause Crause"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 AUG 1860",
+      "year": 1860,
+      "iso": "1860-08-09",
+      "precision": "exact",
+      "display": "August 9, 1860",
+      "place": null
+    },
+    "death": {
+      "date": "16 JUN 1955",
+      "year": 1955,
+      "iso": "1955-06-16",
+      "precision": "exact",
+      "display": "June 16, 1955",
+      "place": "Rooikop, Kroonstad, Free State, South Africa",
+      "location": {
+        "label": "Rooikop, Kroonstad, Free State, South Africa",
+        "placeName": "Rooikop",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2029,
+      2030
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2031,
+      2032,
+      2033,
+      2034,
+      2035,
+      2036,
+      2037,
+      2038,
+      2039,
+      840,
+      2040,
+      2042
+    ],
+    "parentUnions": [
+      "F530"
+    ],
+    "spouseUnions": [
+      "F1258"
+    ],
+    "parentLinks": [
+      {
+        "id": 2029,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2030,
+        "unionId": "F530",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000032721442110@",
+    "geniId": "6000000032721442110",
+    "rfn": "geni:6000000032721442110",
+    "changed": "29 MAY 2025"
+  },
+  "page": {
+    "route": "people/2041/",
+    "canonical": "https://www.genepedia.org/people/2041/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

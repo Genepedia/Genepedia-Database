@@ -1,0 +1,112 @@
+{
+  "id": 4911,
+  "schema": "genepedia/person@1",
+  "slug": "jan-frederik-bester-4911",
+  "names": {
+    "display": "Jan Frederik Bester",
+    "given": "Jan Frederik",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 AUG 1932",
+      "year": 1932,
+      "iso": "1932-08-11",
+      "precision": "exact",
+      "display": "August 11, 1932",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1913,
+      4906
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4907,
+      4908,
+      4909,
+      4910,
+      4912
+    ],
+    "parentUnions": [
+      "F1165"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1913,
+        "unionId": "F1165",
+        "type": "biological"
+      },
+      {
+        "id": 4906,
+        "unionId": "F1165",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066691344890@",
+    "geniId": "6000000066691344890",
+    "rfn": "geni:6000000066691344890",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/4911/",
+    "canonical": "https://www.genepedia.org/people/4911/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

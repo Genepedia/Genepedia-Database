@@ -1,0 +1,85 @@
+{
+  "id": 254,
+  "schema": "genepedia/person@1",
+  "slug": "deon-van-der-merwe",
+  "names": {
+    "display": "Deon Van Der Merwe",
+    "given": "Deon",
+    "surname": "Van Der Merwe",
+    "married": "Van Der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      94
+    ],
+    "exSpouses": [],
+    "children": [
+      255
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F80"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 94,
+        "unionId": "F80",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 255,
+        "unionId": "F80",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204180426822@",
+    "geniId": "6000000204180426822",
+    "rfn": "geni:6000000204180426822",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/254/",
+    "canonical": "https://www.genepedia.org/people/254/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

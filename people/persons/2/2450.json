@@ -1,0 +1,112 @@
+{
+  "id": 2450,
+  "schema": "genepedia/person@1",
+  "slug": "cornelis-petrus-lodewicus-jooste",
+  "names": {
+    "display": "Cornelis Petrus Lodewicus Jooste",
+    "given": "Cornelis Petrus Lodewicus",
+    "surname": "Jooste",
+    "married": "Jooste",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 MAR 1867",
+      "year": 1867,
+      "iso": "1867-03-11",
+      "precision": "exact",
+      "display": "March 11, 1867",
+      "place": "Victoria West, Northern Cape, South Africa",
+      "location": {
+        "label": "Victoria West, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2447,
+      2448
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1001,
+      2449,
+      2451
+    ],
+    "parentUnions": [
+      "F616"
+    ],
+    "spouseUnions": [
+      "F1496"
+    ],
+    "parentLinks": [
+      {
+        "id": 2447,
+        "unionId": "F616",
+        "type": "biological"
+      },
+      {
+        "id": 2448,
+        "unionId": "F616",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000008094690283@",
+    "geniId": "6000000008094690283",
+    "rfn": "geni:6000000008094690283",
+    "changed": "15 DEC 2014"
+  },
+  "page": {
+    "route": "people/2450/",
+    "canonical": "https://www.genepedia.org/people/2450/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

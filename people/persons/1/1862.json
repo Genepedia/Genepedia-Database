@@ -1,0 +1,122 @@
+{
+  "id": 1862,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-jacobus-theron-1862",
+  "names": {
+    "display": "Gabriel Jacobus Theron",
+    "given": "Gabriel Jacobus",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 SEP 1836",
+      "year": 1836,
+      "iso": "1836-09-29",
+      "precision": "exact",
+      "display": "September 29, 1836",
+      "place": "Colesberg",
+      "location": {
+        "label": "Colesberg",
+        "placeName": "Colesberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "4 OCT 1836",
+      "year": 1836,
+      "iso": "1836-10-04",
+      "precision": "exact",
+      "display": "October 4, 1836",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1853,
+      1854
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      811,
+      1855,
+      1856,
+      1857,
+      1858,
+      1859,
+      1860,
+      1861
+    ],
+    "parentUnions": [
+      "F495"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1853,
+        "unionId": "F495",
+        "type": "biological"
+      },
+      {
+        "id": 1854,
+        "unionId": "F495",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000023992099118@",
+    "geniId": "6000000023992099118",
+    "rfn": "geni:6000000023992099118",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1862/",
+    "canonical": "https://www.genepedia.org/people/1862/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

@@ -1,0 +1,155 @@
+{
+  "id": 4310,
+  "schema": "genepedia/person@1",
+  "slug": "william-henry-kerslake",
+  "names": {
+    "display": "William Henry Kerslake",
+    "given": "William Henry",
+    "surname": "Kerslake",
+    "married": "Kerslake",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1831",
+      "year": 1831,
+      "iso": "1831",
+      "precision": "about",
+      "display": "about 1831",
+      "place": "Exeter, England, United Kingdom",
+      "location": {
+        "label": "Exeter, England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Exeter",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 DEC 1871",
+      "year": 1871,
+      "iso": "1871-12-09",
+      "precision": "exact",
+      "display": "December 9, 1871",
+      "place": "Bultfontein, Free State, South Africa",
+      "location": {
+        "label": "Bultfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bultfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1630
+    ],
+    "exSpouses": [],
+    "children": [
+      4311
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1014"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1630,
+        "unionId": "F1014",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4311,
+        "unionId": "F1014",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000017155432761@",
+    "geniId": "6000000017155432761",
+    "rfn": "geni:6000000017155432761",
+    "changed": "16 JUL 2024"
+  },
+  "page": {
+    "route": "people/4310/",
+    "canonical": "https://www.genepedia.org/people/4310/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

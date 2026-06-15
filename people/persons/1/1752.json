@@ -1,0 +1,103 @@
+{
+  "id": 1752,
+  "schema": "genepedia/person@1",
+  "slug": "bessie-jacobson",
+  "names": {
+    "display": "Bessie Jacobson",
+    "given": "Bessie",
+    "surname": "Jacobson",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      728
+    ],
+    "exSpouses": [],
+    "children": [
+      1753,
+      1754,
+      1755,
+      1756
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F460"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 728,
+        "unionId": "F460",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1753,
+        "unionId": "F460",
+        "type": "biological"
+      },
+      {
+        "id": 1754,
+        "unionId": "F460",
+        "type": "biological"
+      },
+      {
+        "id": 1755,
+        "unionId": "F460",
+        "type": "biological"
+      },
+      {
+        "id": 1756,
+        "unionId": "F460",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208588073860@",
+    "geniId": "6000000208588073860",
+    "rfn": "geni:6000000208588073860",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/1752/",
+    "canonical": "https://www.genepedia.org/people/1752/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

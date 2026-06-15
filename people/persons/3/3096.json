@@ -1,0 +1,77 @@
+{
+  "id": 3096,
+  "schema": "genepedia/person@1",
+  "slug": "sessin-3096",
+  "names": {
+    "display": "? Sessin",
+    "given": "?",
+    "surname": "Sessin",
+    "married": "Sessin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      1239
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F766"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 1239,
+        "unionId": "F766",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207508530853@",
+    "geniId": "6000000207508530853",
+    "rfn": "geni:6000000207508530853",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/3096/",
+    "canonical": "https://www.genepedia.org/people/3096/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

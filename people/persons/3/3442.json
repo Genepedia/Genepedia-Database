@@ -1,0 +1,85 @@
+{
+  "id": 3442,
+  "schema": "genepedia/person@1",
+  "slug": "jano-esterhuyse",
+  "names": {
+    "display": "Jano Esterhuyse",
+    "given": "Jano",
+    "surname": "Esterhuyse",
+    "married": "Esterhuyse",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1358,
+      3441
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3443
+    ],
+    "parentUnions": [
+      "F847"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1358,
+        "unionId": "F847",
+        "type": "biological"
+      },
+      {
+        "id": 3441,
+        "unionId": "F847",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206532756848@",
+    "geniId": "6000000206532756848",
+    "rfn": "geni:6000000206532756848",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/3442/",
+    "canonical": "https://www.genepedia.org/people/3442/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

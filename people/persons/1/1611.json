@@ -1,0 +1,170 @@
+{
+  "id": 1611,
+  "schema": "genepedia/person@1",
+  "slug": "jeremiah-andreas-van-staden",
+  "names": {
+    "display": "Jeremiah Andreas van Staden",
+    "given": "Jeremiah Andreas",
+    "surname": "van Staden",
+    "married": "van Staden",
+    "nick": "Jeremias Andries",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 APR 1867",
+      "year": 1867,
+      "iso": "1867-04-30",
+      "precision": "exact",
+      "display": "April 30, 1867",
+      "place": null
+    },
+    "death": {
+      "date": "1 MAR 1930",
+      "year": 1930,
+      "iso": "1930-03-01",
+      "precision": "exact",
+      "display": "March 1, 1930",
+      "place": null
+    },
+    "baptism": {
+      "date": "1 SEP 1867",
+      "year": 1867,
+      "iso": "1867-09-01",
+      "precision": "exact",
+      "display": "September 1, 1867",
+      "place": "Glen Lynden, Cape, South Africa",
+      "location": {
+        "label": "Glen Lynden, Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Glen Lynden",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4260,
+      4259
+    ],
+    "spouses": [
+      647
+    ],
+    "exSpouses": [],
+    "children": [
+      1612,
+      1613,
+      1614,
+      1615,
+      1616,
+      1617
+    ],
+    "siblings": [
+      4261
+    ],
+    "parentUnions": [
+      "F999"
+    ],
+    "spouseUnions": [
+      "F410"
+    ],
+    "parentLinks": [
+      {
+        "id": 4260,
+        "unionId": "F999",
+        "type": "biological"
+      },
+      {
+        "id": 4259,
+        "unionId": "F999",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 647,
+        "unionId": "F410",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1612,
+        "unionId": "F410",
+        "type": "biological"
+      },
+      {
+        "id": 1613,
+        "unionId": "F410",
+        "type": "biological"
+      },
+      {
+        "id": 1614,
+        "unionId": "F410",
+        "type": "biological"
+      },
+      {
+        "id": 1615,
+        "unionId": "F410",
+        "type": "biological"
+      },
+      {
+        "id": 1616,
+        "unionId": "F410",
+        "type": "biological"
+      },
+      {
+        "id": 1617,
+        "unionId": "F410",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000060321000950@",
+    "geniId": "6000000060321000950",
+    "rfn": "geni:6000000060321000950",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/1611/",
+    "canonical": "https://www.genepedia.org/people/1611/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

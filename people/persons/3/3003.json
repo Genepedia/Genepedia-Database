@@ -1,0 +1,110 @@
+{
+  "id": 3003,
+  "schema": "genepedia/person@1",
+  "slug": "anna-dorothea",
+  "names": {
+    "display": "Anna Dorothea",
+    "given": "Anna Dorothea",
+    "surname": "Fourie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 OCT 1968",
+      "year": 1968,
+      "iso": "1968-10-18",
+      "precision": "exact",
+      "display": "October 18, 1968",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [
+      1191
+    ],
+    "children": [
+      3004,
+      3005,
+      3006,
+      3007
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F736"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1191,
+        "unionId": "F736",
+        "role": "ex-husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3004,
+        "unionId": "F736",
+        "type": "biological"
+      },
+      {
+        "id": 3005,
+        "unionId": "F736",
+        "type": "biological"
+      },
+      {
+        "id": 3006,
+        "unionId": "F736",
+        "type": "biological"
+      },
+      {
+        "id": 3007,
+        "unionId": "F736",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024193547912@",
+    "geniId": "6000000024193547912",
+    "rfn": "geni:6000000024193547912",
+    "changed": "01 FEB 2018"
+  },
+  "page": {
+    "route": "people/3003/",
+    "canonical": "https://www.genepedia.org/people/3003/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

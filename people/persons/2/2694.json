@@ -1,0 +1,84 @@
+{
+  "id": 2694,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobus-fourie-2694",
+  "names": {
+    "display": "Daniel Jacobus Fourie",
+    "given": "Daniel Jacobus",
+    "surname": "Fourie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 DEC 1883",
+      "year": 1883,
+      "iso": "1883-12-07",
+      "precision": "exact",
+      "display": "December 7, 1883",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1081
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F660"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1081,
+        "unionId": "F660",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000221064253830@",
+    "geniId": "6000000221064253830",
+    "rfn": "geni:6000000221064253830",
+    "changed": "03 SEP 2025"
+  },
+  "page": {
+    "route": "people/2694/",
+    "canonical": "https://www.genepedia.org/people/2694/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

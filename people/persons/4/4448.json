@@ -1,0 +1,98 @@
+{
+  "id": 4448,
+  "schema": "genepedia/person@1",
+  "slug": "malke-lurie",
+  "names": {
+    "display": "Malke Lurie",
+    "given": "Malke",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1813",
+      "year": 1813,
+      "iso": "1813",
+      "precision": "about",
+      "display": "about 1813",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4447
+    ],
+    "exSpouses": [],
+    "children": [
+      1742,
+      4449
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1054"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4447,
+        "unionId": "F1054",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1742,
+        "unionId": "F1054",
+        "type": "biological"
+      },
+      {
+        "id": 4449,
+        "unionId": "F1054",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209493125864@",
+    "geniId": "6000000209493125864",
+    "rfn": "geni:6000000209493125864",
+    "changed": "19 FEB 2025"
+  },
+  "page": {
+    "route": "people/4448/",
+    "canonical": "https://www.genepedia.org/people/4448/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,122 @@
+{
+  "id": 2798,
+  "schema": "genepedia/person@1",
+  "slug": "david-andreas-barend-brits",
+  "names": {
+    "display": "David Andreas Barend Brits",
+    "given": "David Andreas Barend",
+    "surname": "Brits",
+    "married": "Brits",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 AUG 1889",
+      "year": 1889,
+      "iso": "1889-08-19",
+      "precision": "exact",
+      "display": "August 19, 1889",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "29 SEP 1889",
+      "year": 1889,
+      "iso": "1889-09-29",
+      "precision": "exact",
+      "display": "September 29, 1889",
+      "place": "Britstown, Cape Colony, South Africa",
+      "location": {
+        "label": "Britstown, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Britstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2794,
+      2793
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1133,
+      2795,
+      2796,
+      2797,
+      2799,
+      2800
+    ],
+    "parentUnions": [
+      "F693"
+    ],
+    "spouseUnions": [
+      "F1736"
+    ],
+    "parentLinks": [
+      {
+        "id": 2794,
+        "unionId": "F693",
+        "type": "biological"
+      },
+      {
+        "id": 2793,
+        "unionId": "F693",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000195109578826@",
+    "geniId": "6000000195109578826",
+    "rfn": "geni:6000000195109578826",
+    "changed": "02 JUN 2023"
+  },
+  "page": {
+    "route": "people/2798/",
+    "canonical": "https://www.genepedia.org/people/2798/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

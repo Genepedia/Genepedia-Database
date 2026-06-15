@@ -1,0 +1,100 @@
+{
+  "id": 325,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-du-preez",
+  "names": {
+    "display": "Michiel Du Preez",
+    "given": "Michiel",
+    "surname": "Du Preez",
+    "married": "Du Preez",
+    "nick": "Giel",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1918",
+      "year": 1918,
+      "iso": "1918",
+      "precision": "exact",
+      "display": "1918",
+      "place": null
+    },
+    "death": {
+      "date": "2003",
+      "year": 2003,
+      "iso": "2003",
+      "precision": "exact",
+      "display": "2003",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      322,
+      323
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      324,
+      124
+    ],
+    "parentUnions": [
+      "F104"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 322,
+        "unionId": "F104",
+        "type": "biological"
+      },
+      {
+        "id": 323,
+        "unionId": "F104",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000213581413821@",
+    "geniId": "6000000213581413821",
+    "rfn": "geni:6000000213581413821",
+    "changed": "08 JAN 2025"
+  },
+  "page": {
+    "route": "people/325/",
+    "canonical": "https://www.genepedia.org/people/325/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

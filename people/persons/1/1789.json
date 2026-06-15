@@ -1,0 +1,116 @@
+{
+  "id": 1789,
+  "schema": "genepedia/person@1",
+  "slug": "dylan-lurie",
+  "names": {
+    "display": "Dylan Lurie",
+    "given": "Dylan",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 OCT 1999",
+      "year": 1999,
+      "iso": "1999-10-15",
+      "precision": "exact",
+      "display": "October 15, 1999",
+      "place": null
+    },
+    "death": {
+      "date": "8 AUG 2015",
+      "year": 2015,
+      "iso": "2015-08-08",
+      "precision": "exact",
+      "display": "August 8, 2015",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/86/69/81/53/53444865758d3e29/screenshot_2024-03-16_231930_original.jpg?hash=2807115477ef8ac21c4b97b9594f9d326176224292199007d43a067cbedaf336.1789455599",
+      "alt": "Dylan Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/86/69/81/53/53444865758d3e29/screenshot_2024-03-16_231930_original.jpg?hash=2807115477ef8ac21c4b97b9594f9d326176224292199007d43a067cbedaf336.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/ce/e4/33/2e/53444865758d3e2a/screenshot_2024-03-16_232229_original.jpg?hash=fba6f78eb01f3c3dc350bb4fd49411df854f43f534a08449dfb18f37e603a076.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      747,
+      1788
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F469"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 747,
+        "unionId": "F469",
+        "type": "biological"
+      },
+      {
+        "id": 1788,
+        "unionId": "F469",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204087527837@",
+    "geniId": "6000000204087527837",
+    "rfn": "geni:6000000204087527837",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/1789/",
+    "canonical": "https://www.genepedia.org/people/1789/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

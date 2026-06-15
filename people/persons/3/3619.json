@@ -1,0 +1,142 @@
+{
+  "id": 3619,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-meintjes",
+  "names": {
+    "display": "Johannes Petrus Meintjes",
+    "given": "Johannes Petrus",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 JUL 1894",
+      "year": 1894,
+      "iso": "1894-07-26",
+      "precision": "exact",
+      "display": "July 26, 1894",
+      "place": "Hartbeesfontein, NW, South Africa",
+      "location": {
+        "label": "Hartbeesfontein, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hartbeesfontein",
+        "postalCode": "2600",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "26 MAY 1967",
+      "year": 1967,
+      "iso": "1967-05-26",
+      "precision": "exact",
+      "display": "May 26, 1967",
+      "place": "Pretoria, GP, South Africa",
+      "location": {
+        "label": "Pretoria, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1401,
+      3609
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3610,
+      3611,
+      3612,
+      3613,
+      3614,
+      3615,
+      3616,
+      3617,
+      3618,
+      3620,
+      3621,
+      3622
+    ],
+    "parentUnions": [
+      "F874"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1401,
+        "unionId": "F874",
+        "type": "biological"
+      },
+      {
+        "id": 3609,
+        "unionId": "F874",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000011476802274@",
+    "geniId": "6000000011476802274",
+    "rfn": "geni:6000000011476802274",
+    "changed": "13 JUN 2025"
+  },
+  "page": {
+    "route": "people/3619/",
+    "canonical": "https://www.genepedia.org/people/3619/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

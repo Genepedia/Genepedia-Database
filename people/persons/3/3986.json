@@ -1,0 +1,85 @@
+{
+  "id": 3986,
+  "schema": "genepedia/person@1",
+  "slug": "profile-3986",
+  "names": {
+    "display": "",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1537,
+      3984
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3985
+    ],
+    "parentUnions": [
+      "F933"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1537,
+        "unionId": "F933",
+        "type": "biological"
+      },
+      {
+        "id": 3984,
+        "unionId": "F933",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000140299556836@",
+    "geniId": "6000000140299556836",
+    "rfn": "geni:6000000140299556836",
+    "changed": "27 JUN 2020"
+  },
+  "page": {
+    "route": "people/3986/",
+    "canonical": "https://www.genepedia.org/people/3986/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

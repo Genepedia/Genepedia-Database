@@ -1,0 +1,123 @@
+{
+  "id": 242,
+  "schema": "genepedia/person@1",
+  "slug": "philippus-van-niekerk",
+  "names": {
+    "display": "Philippus van Niekerk",
+    "given": "Philippus",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 OCT 1907",
+      "year": 1907,
+      "iso": "1907-10-19",
+      "precision": "exact",
+      "display": "October 19, 1907",
+      "place": null
+    },
+    "death": {
+      "date": "8 MAY 1986",
+      "year": 1986,
+      "iso": "1986-05-08",
+      "precision": "exact",
+      "display": "May 8, 1986",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      239,
+      238
+    ],
+    "spouses": [
+      639
+    ],
+    "exSpouses": [],
+    "children": [
+      640
+    ],
+    "siblings": [
+      240,
+      241,
+      243,
+      244,
+      79,
+      245,
+      246
+    ],
+    "parentUnions": [
+      "F77"
+    ],
+    "spouseUnions": [
+      "F178"
+    ],
+    "parentLinks": [
+      {
+        "id": 239,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 238,
+        "unionId": "F77",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 639,
+        "unionId": "F178",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 640,
+        "unionId": "F178",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024838427941@",
+    "geniId": "6000000024838427941",
+    "rfn": "geni:6000000024838427941",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/242/",
+    "canonical": "https://www.genepedia.org/people/242/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

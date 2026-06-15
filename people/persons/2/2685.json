@@ -1,0 +1,183 @@
+{
+  "id": 2685,
+  "schema": "genepedia/person@1",
+  "slug": "aletta-johanna-maria-davids",
+  "names": {
+    "display": "Aletta Johanna Maria Davids",
+    "given": "Aletta Johanna Maria",
+    "surname": "Davids",
+    "married": "Kotzee",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 SEP 1877",
+      "year": 1877,
+      "iso": "1877-09-20",
+      "precision": "exact",
+      "display": "September 20, 1877",
+      "place": "Campbell, Cape Province, South Africa",
+      "location": {
+        "label": "Campbell, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Campbell",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 JAN 1898",
+      "year": 1898,
+      "iso": "1898-01-09",
+      "precision": "exact",
+      "display": "January 9, 1898",
+      "place": "Griekwastad, Cape Province, South Africa",
+      "location": {
+        "label": "Griekwastad, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "25 NOV 1877",
+      "year": 1877,
+      "iso": "1877-11-25",
+      "precision": "exact",
+      "display": "November 25, 1877",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": "JAN 1898",
+      "year": 1898,
+      "iso": "1898-01",
+      "precision": "exact",
+      "display": "January 1898",
+      "place": null,
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/91/04/21/b7/5344486772bf9ce5/aletta_johanna_maria_davids_b_20091877_bapt_25111877_original.pdf?hash=09b6bd6619e6af05da840e16423a430490191085d108869b437d6b49cb385b2f.1789455599",
+      "alt": "Aletta Johanna Maria Davids"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/91/04/21/b7/5344486772bf9ce5/aletta_johanna_maria_davids_b_20091877_bapt_25111877_original.pdf?hash=09b6bd6619e6af05da840e16423a430490191085d108869b437d6b49cb385b2f.1789455599",
+        "form": "",
+        "title": "Aletta Johanna Maria Davids b 20091877 bapt 25111877.pdf",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/f3/5f/1a/23/5344486772c8824f/aletta_johanna_maria_davids_kotzee_d_09011898_age_20_yrs_3_mths_original.pdf?hash=3a15fe71bb2943dcf8ded18a5761fb0987e7303bbd71676631d5aa9b1374b853.1789455599",
+        "form": "",
+        "title": "Aletta Johanna Maria Davids Kotzee d 09011898 age 20 yrs 3 mths.pdf",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1078
+    ],
+    "exSpouses": [],
+    "children": [
+      2686
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1658"
+    ],
+    "spouseUnions": [
+      "F657"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1078,
+        "unionId": "F657",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2686,
+        "unionId": "F657",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000076417609843@",
+    "geniId": "6000000076417609843",
+    "rfn": "geni:6000000076417609843",
+    "changed": "22 DEC 2024"
+  },
+  "page": {
+    "route": "people/2685/",
+    "canonical": "https://www.genepedia.org/people/2685/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

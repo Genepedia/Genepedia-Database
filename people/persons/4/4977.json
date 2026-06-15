@@ -1,0 +1,110 @@
+{
+  "id": 4977,
+  "schema": "genepedia/person@1",
+  "slug": "francina-susanna-lacia-bester",
+  "names": {
+    "display": "Francina Susanna Lacia Bester",
+    "given": "Francina Susanna Lacia",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 OCT 1923",
+      "year": 1923,
+      "iso": "1923-10-16",
+      "precision": "exact",
+      "display": "October 16, 1923",
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1936,
+      4975
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4976,
+      4978,
+      4979
+    ],
+    "parentUnions": [
+      "F1181"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1936,
+        "unionId": "F1181",
+        "type": "biological"
+      },
+      {
+        "id": 4975,
+        "unionId": "F1181",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066922850826@",
+    "geniId": "6000000066922850826",
+    "rfn": "geni:6000000066922850826",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/4977/",
+    "canonical": "https://www.genepedia.org/people/4977/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

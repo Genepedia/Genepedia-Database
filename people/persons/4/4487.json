@@ -1,0 +1,109 @@
+{
+  "id": 4487,
+  "schema": "genepedia/person@1",
+  "slug": "bernard-sattenstein",
+  "names": {
+    "display": "Bernard Sattenstein",
+    "given": "Bernard",
+    "surname": "Sattenstein",
+    "married": "Sattenstein",
+    "nick": "Dov Ber",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1750
+    ],
+    "exSpouses": [],
+    "children": [
+      4488,
+      4489,
+      4490,
+      4491,
+      4492
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1064"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1750,
+        "unionId": "F1064",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4488,
+        "unionId": "F1064",
+        "type": "biological"
+      },
+      {
+        "id": 4489,
+        "unionId": "F1064",
+        "type": "biological"
+      },
+      {
+        "id": 4490,
+        "unionId": "F1064",
+        "type": "biological"
+      },
+      {
+        "id": 4491,
+        "unionId": "F1064",
+        "type": "biological"
+      },
+      {
+        "id": 4492,
+        "unionId": "F1064",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000214982473836@",
+    "geniId": "6000000214982473836",
+    "rfn": "geni:6000000214982473836",
+    "changed": "05 FEB 2025"
+  },
+  "page": {
+    "route": "people/4487/",
+    "canonical": "https://www.genepedia.org/people/4487/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

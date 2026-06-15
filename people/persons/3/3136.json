@@ -1,0 +1,100 @@
+{
+  "id": 3136,
+  "schema": "genepedia/person@1",
+  "slug": "willem-francois-jacobus-marais-3136",
+  "names": {
+    "display": "Willem Francois Jacobus Marais",
+    "given": "Willem Francois Jacobus",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1849",
+      "year": 1849,
+      "iso": "1849",
+      "precision": "exact",
+      "display": "1849",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3127,
+      3128
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3129,
+      3130,
+      3131,
+      3132,
+      3133,
+      1258,
+      3134,
+      3135,
+      3137
+    ],
+    "parentUnions": [
+      "F773"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3127,
+        "unionId": "F773",
+        "type": "biological"
+      },
+      {
+        "id": 3128,
+        "unionId": "F773",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000034305975153@",
+    "geniId": "6000000034305975153",
+    "rfn": "geni:6000000034305975153",
+    "changed": "15 SEP 2025"
+  },
+  "page": {
+    "route": "people/3136/",
+    "canonical": "https://www.genepedia.org/people/3136/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

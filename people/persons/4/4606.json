@@ -1,0 +1,122 @@
+{
+  "id": 4606,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-david-straus",
+  "names": {
+    "display": "Abraham David Straus",
+    "given": "Abraham David",
+    "surname": "Straus",
+    "married": "Strauss",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 JAN 1859",
+      "year": 1859,
+      "iso": "1859-01-25",
+      "precision": "exact",
+      "display": "January 25, 1859",
+      "place": null
+    },
+    "death": {
+      "date": "18 JUN 1942",
+      "year": 1942,
+      "iso": "1942-06-18",
+      "precision": "exact",
+      "display": "June 18, 1942",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "9795",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4602,
+      1848
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4603,
+      4604,
+      4605,
+      4607,
+      4608,
+      4609,
+      4610,
+      4611
+    ],
+    "parentUnions": [
+      "F1104"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4602,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 1848,
+        "unionId": "F1104",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000062808562872@",
+    "geniId": "6000000062808562872",
+    "rfn": "geni:6000000062808562872",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/4606/",
+    "canonical": "https://www.genepedia.org/people/4606/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

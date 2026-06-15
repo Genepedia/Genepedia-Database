@@ -1,0 +1,136 @@
+{
+  "id": 3481,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-cornelia-lombard",
+  "names": {
+    "display": "Johanna Cornelia Lombard",
+    "given": "Johanna Cornelia",
+    "surname": "Lombard",
+    "married": "Goedhals",
+    "nick": "Lombaard",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 FEB 1819",
+      "year": 1819,
+      "iso": "1819-02-06",
+      "precision": "exact",
+      "display": "February 6, 1819",
+      "place": null
+    },
+    "death": {
+      "date": "23 SEP 1893",
+      "year": 1893,
+      "iso": "1893-09-23",
+      "precision": "exact",
+      "display": "September 23, 1893",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "1893",
+      "year": 1893,
+      "iso": "1893",
+      "precision": "exact",
+      "display": "1893",
+      "place": null,
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3466,
+      3467
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3468,
+      3469,
+      3470,
+      3471,
+      3472,
+      3473,
+      3474,
+      3475,
+      3476,
+      3477,
+      3478,
+      3479,
+      1384,
+      3480
+    ],
+    "parentUnions": [
+      "F855"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3466,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3467,
+        "unionId": "F855",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024503493863@",
+    "geniId": "6000000024503493863",
+    "rfn": "geni:6000000024503493863",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3481/",
+    "canonical": "https://www.genepedia.org/people/3481/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

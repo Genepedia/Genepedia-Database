@@ -1,0 +1,198 @@
+{
+  "id": 1869,
+  "schema": "genepedia/person@1",
+  "slug": "dorothea-johanna-susanna-bester",
+  "names": {
+    "display": "Dorothea Johanna Susanna Bester",
+    "given": "Dorothea Johanna Susanna",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 OCT 1891",
+      "year": 1891,
+      "iso": "1891-10-27",
+      "precision": "exact",
+      "display": "October 27, 1891",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "19 DEC 1957",
+      "year": 1957,
+      "iso": "1957-12-19",
+      "precision": "exact",
+      "display": "December 19, 1957",
+      "place": "Arcadia, Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Arcadia, Pretoria, Gauteng, South Africa",
+        "placeName": "Arcadia",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      812,
+      1863
+    ],
+    "spouses": [
+      4701,
+      4702
+    ],
+    "exSpouses": [],
+    "children": [
+      4703,
+      4704,
+      4705,
+      4706,
+      4707,
+      4708,
+      4709
+    ],
+    "siblings": [
+      1864,
+      1865,
+      1866,
+      1867,
+      1868,
+      1870,
+      1871
+    ],
+    "parentUnions": [
+      "F496"
+    ],
+    "spouseUnions": [
+      "F1121",
+      "F1122"
+    ],
+    "parentLinks": [
+      {
+        "id": 812,
+        "unionId": "F496",
+        "type": "biological"
+      },
+      {
+        "id": 1863,
+        "unionId": "F496",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4701,
+        "unionId": "F1121",
+        "role": "partner"
+      },
+      {
+        "id": 4702,
+        "unionId": "F1122",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4703,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4704,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4705,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4706,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4707,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4708,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4709,
+        "unionId": "F1122",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066262525263@",
+    "geniId": "6000000066262525263",
+    "rfn": "geni:6000000066262525263",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/1869/",
+    "canonical": "https://www.genepedia.org/people/1869/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

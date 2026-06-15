@@ -1,0 +1,108 @@
+{
+  "id": 3432,
+  "schema": "genepedia/person@1",
+  "slug": "andries-willem-johannes-visser",
+  "names": {
+    "display": "Andries Willem Johannes Visser",
+    "given": "Andries Willem Johannes",
+    "surname": "Visser",
+    "married": "Visser",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 MAR 1868",
+      "year": 1868,
+      "iso": "1868-03-26",
+      "precision": "exact",
+      "display": "March 26, 1868",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1346
+    ],
+    "exSpouses": [],
+    "children": [
+      3433
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F841"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1346,
+        "unionId": "F841",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3433,
+        "unionId": "F841",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000042914780227@",
+    "geniId": "6000000042914780227",
+    "rfn": "geni:6000000042914780227",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3432/",
+    "canonical": "https://www.genepedia.org/people/3432/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

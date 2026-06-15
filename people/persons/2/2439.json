@@ -1,0 +1,122 @@
+{
+  "id": 2439,
+  "schema": "genepedia/person@1",
+  "slug": "anna-magadlena-jooste",
+  "names": {
+    "display": "Anna Magadlena Jooste",
+    "given": "Anna Magadlena",
+    "surname": "Jooste",
+    "married": "Jooste",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 OCT 1799",
+      "year": 1799,
+      "iso": "1799-10-11",
+      "precision": "exact",
+      "display": "October 11, 1799",
+      "place": "Tulbagh, Wes Kaap, Suid Afrika",
+      "location": {
+        "label": "Tulbagh, Wes Kaap, Suid Afrika",
+        "placeName": "Tulbagh",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Wes Kaap",
+        "country": "Suid Afrika",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "25 DEC 1799",
+      "year": 1799,
+      "iso": "1799-12-25",
+      "precision": "exact",
+      "display": "December 25, 1799",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2438,
+      2437
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2440,
+      2441,
+      2442,
+      2443,
+      2444,
+      2445,
+      2446,
+      1000
+    ],
+    "parentUnions": [
+      "F615"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2438,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2437,
+        "unionId": "F615",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000023180648875@",
+    "geniId": "6000000023180648875",
+    "rfn": "geni:6000000023180648875",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2439/",
+    "canonical": "https://www.genepedia.org/people/2439/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,194 @@
+{
+  "id": 2715,
+  "schema": "genepedia/person@1",
+  "slug": "zacharias-josef-de-beer",
+  "names": {
+    "display": "Zacharias Josef de Beer",
+    "given": "Zacharias Josef",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 DEC 1801",
+      "year": 1801,
+      "iso": "1801-12-23",
+      "precision": "exact",
+      "display": "December 23, 1801",
+      "place": "Tulbach, Kaap",
+      "location": {
+        "label": "Tulbach, Kaap",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbach",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaap",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "16 MAR 1802",
+      "year": 1802,
+      "iso": "1802-03-16",
+      "precision": "exact",
+      "display": "March 16, 1802",
+      "place": "Wellington, WC, South Africa",
+      "location": {
+        "label": "Wellington, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wellington",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/2d/c1/8b/26/5344483a111ecac9/battle_of_bloodriver_2_original.jpg?hash=a8450188c423b016040586f8567e29b8a45f05932df619b9eb74d7c4cd497392.1789455599",
+      "alt": "Zacharias Josef de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/2d/c1/8b/26/5344483a111ecac9/battle_of_bloodriver_2_original.jpg?hash=a8450188c423b016040586f8567e29b8a45f05932df619b9eb74d7c4cd497392.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2714
+    ],
+    "exSpouses": [],
+    "children": [
+      2716,
+      2717,
+      2718,
+      2719,
+      2720,
+      2721,
+      2722,
+      2723,
+      1094
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1681"
+    ],
+    "spouseUnions": [
+      "F670",
+      "F1680"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2714,
+        "unionId": "F670",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2716,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2717,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2718,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2719,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2720,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2721,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2722,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2723,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 1094,
+        "unionId": "F670",
+        "type": "adopted"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000011811472314@",
+    "geniId": "6000000011811472314",
+    "rfn": "geni:6000000011811472314",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/2715/",
+    "canonical": "https://www.genepedia.org/people/2715/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

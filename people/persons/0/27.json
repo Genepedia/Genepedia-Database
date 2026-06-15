@@ -1,0 +1,126 @@
+{
+  "id": 27,
+  "schema": "genepedia/person@1",
+  "slug": "riaan-van-niekerk",
+  "names": {
+    "display": "Riaan Van Niekerk",
+    "given": "Riaan",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d5/eb/76/4c/534448662347499d/235870202_359705572528649_6991427615925764657_n_original.jpg?hash=7cf9aad8094d2328057db0e69023a77b03453c4d9dea347c1de5a8ef07396d88.1789455599",
+      "alt": "Riaan Van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d5/eb/76/4c/534448662347499d/235870202_359705572528649_6991427615925764657_n_original.jpg?hash=7cf9aad8094d2328057db0e69023a77b03453c4d9dea347c1de5a8ef07396d88.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      21,
+      22
+    ],
+    "spouses": [
+      91
+    ],
+    "exSpouses": [],
+    "children": [
+      92,
+      93
+    ],
+    "siblings": [
+      4,
+      23,
+      24,
+      25,
+      26,
+      28
+    ],
+    "parentUnions": [
+      "F9"
+    ],
+    "spouseUnions": [
+      "F33"
+    ],
+    "parentLinks": [
+      {
+        "id": 21,
+        "unionId": "F9",
+        "type": "biological"
+      },
+      {
+        "id": 22,
+        "unionId": "F9",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 91,
+        "unionId": "F33",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 92,
+        "unionId": "F33",
+        "type": "biological"
+      },
+      {
+        "id": 93,
+        "unionId": "F33",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207079554821@",
+    "geniId": "6000000207079554821",
+    "rfn": "geni:6000000207079554821",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/27/",
+    "canonical": "https://www.genepedia.org/people/27/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

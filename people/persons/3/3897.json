@@ -1,0 +1,127 @@
+{
+  "id": 3897,
+  "schema": "genepedia/person@1",
+  "slug": "gideon-jacobus-lourens-strydom",
+  "names": {
+    "display": "Gideon Jacobus Lourens Strydom",
+    "given": "Gideon Jacobus Lourens",
+    "surname": "Strydom",
+    "married": "Strydom",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 MAY 1850",
+      "year": 1850,
+      "iso": "1850-05-26",
+      "precision": "exact",
+      "display": "May 26, 1850",
+      "place": null
+    },
+    "death": {
+      "date": "17 JUN 1922",
+      "year": 1922,
+      "iso": "1922-06-17",
+      "precision": "exact",
+      "display": "June 17, 1922",
+      "place": "Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Potchefstroom, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1528
+    ],
+    "exSpouses": [],
+    "children": [
+      3898,
+      3899,
+      3900
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F921"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1528,
+        "unionId": "F921",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3898,
+        "unionId": "F921",
+        "type": "biological"
+      },
+      {
+        "id": 3899,
+        "unionId": "F921",
+        "type": "biological"
+      },
+      {
+        "id": 3900,
+        "unionId": "F921",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000017255344167@",
+    "geniId": "6000000017255344167",
+    "rfn": "geni:6000000017255344167",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/3897/",
+    "canonical": "https://www.genepedia.org/people/3897/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

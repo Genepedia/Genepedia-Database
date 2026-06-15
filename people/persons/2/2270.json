@@ -1,0 +1,111 @@
+{
+  "id": 2270,
+  "schema": "genepedia/person@1",
+  "slug": "naomi-bergwerff",
+  "names": {
+    "display": "Naomi Bergwerff",
+    "given": "Naomi",
+    "surname": "Botes",
+    "married": "Bergwerff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "5 AUG 1953",
+      "year": 1953,
+      "iso": "1953-08-05",
+      "precision": "exact",
+      "display": "August 5, 1953",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/08/ed/1d/ee/534448489337567a/baps_original.jpg?hash=0de5b6b8fd93d49790799ab828413b992a48aa007724a010779a9bf57b4966da.1789455599",
+      "alt": "Naomi Bergwerff"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/08/ed/1d/ee/534448489337567a/baps_original.jpg?hash=0de5b6b8fd93d49790799ab828413b992a48aa007724a010779a9bf57b4966da.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/7c/ce/6b/19/53444842b353479c/naomi_bergwerff_original.jpg?hash=b6651b485898faa2d81ec81f36be2501ad1fcd8c84c179ceb42118e4cf3e6d29.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2269,
+      916
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F575"
+    ],
+    "spouseUnions": [
+      "F1410"
+    ],
+    "parentLinks": [
+      {
+        "id": 2269,
+        "unionId": "F575",
+        "type": "biological"
+      },
+      {
+        "id": 916,
+        "unionId": "F575",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029567229654@",
+    "geniId": "6000000029567229654",
+    "rfn": "geni:6000000029567229654",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2270/",
+    "canonical": "https://www.genepedia.org/people/2270/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

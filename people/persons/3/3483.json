@@ -1,0 +1,133 @@
+{
+  "id": 3483,
+  "schema": "genepedia/person@1",
+  "slug": "louis-andries-de-beer-3483",
+  "names": {
+    "display": "Louis Andries de Beer",
+    "given": "Louis Andries",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 AUG 1858",
+      "year": 1858,
+      "iso": "1858-08-23",
+      "precision": "exact",
+      "display": "August 23, 1858",
+      "place": null
+    },
+    "death": {
+      "date": "26 OCT 1920",
+      "year": 1920,
+      "iso": "1920-10-26",
+      "precision": "exact",
+      "display": "October 26, 1920",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Adendorp, Main cemetery district, Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Adendorp, Main cemetery district, Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "Adendorp, Main cemetery district",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/03/33/c5/06/5344484867b33369/0000a_original.jpg?hash=bf7f59328146f679f28283469ea3c23a379933473477baa0556c46762cf62d03.1789455599",
+      "alt": "Louis Andries de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/03/33/c5/06/5344484867b33369/0000a_original.jpg?hash=bf7f59328146f679f28283469ea3c23a379933473477baa0556c46762cf62d03.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1385,
+      3482
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F856"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1385,
+        "unionId": "F856",
+        "type": "biological"
+      },
+      {
+        "id": 3482,
+        "unionId": "F856",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000016030187794@",
+    "geniId": "6000000016030187794",
+    "rfn": "geni:6000000016030187794",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3483/",
+    "canonical": "https://www.genepedia.org/people/3483/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

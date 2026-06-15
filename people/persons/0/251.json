@@ -1,0 +1,117 @@
+{
+  "id": 251,
+  "schema": "genepedia/person@1",
+  "slug": "carla-de-koker",
+  "names": {
+    "display": "Carla De Koker",
+    "given": "Carla",
+    "surname": "De Koker",
+    "married": "Neethling",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/aa/2d/2f/10/53444866234d5489/screenshot_2024-07-05_201418_original.jpg?hash=e09b4db3863d815e44257e5f472deaddcefc68b1b5dc4c197d1f64fd0a34974d.1789455599",
+      "alt": "Carla De Koker"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/aa/2d/2f/10/53444866234d5489/screenshot_2024-07-05_201418_original.jpg?hash=e09b4db3863d815e44257e5f472deaddcefc68b1b5dc4c197d1f64fd0a34974d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      249,
+      250
+    ],
+    "spouses": [
+      657
+    ],
+    "exSpouses": [],
+    "children": [
+      658
+    ],
+    "siblings": [
+      91,
+      252,
+      253
+    ],
+    "parentUnions": [
+      "F79"
+    ],
+    "spouseUnions": [
+      "F184"
+    ],
+    "parentLinks": [
+      {
+        "id": 249,
+        "unionId": "F79",
+        "type": "biological"
+      },
+      {
+        "id": 250,
+        "unionId": "F79",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 657,
+        "unionId": "F184",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 658,
+        "unionId": "F184",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207080252843@",
+    "geniId": "6000000207080252843",
+    "rfn": "geni:6000000207080252843",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/251/",
+    "canonical": "https://www.genepedia.org/people/251/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,136 @@
+{
+  "id": 1716,
+  "schema": "genepedia/person@1",
+  "slug": "clarissa-gertruida-botha-clare",
+  "names": {
+    "display": "Clarissa Gertruida Botha Clare",
+    "given": "Clarissa Gertruida",
+    "surname": "Botha",
+    "married": "Prinsloo",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 FEB 1924",
+      "year": 1924,
+      "iso": "1924-02-11",
+      "precision": "exact",
+      "display": "February 11, 1924",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/73/1a/e3/29/53444869901ee140/00000063-photo-2018-07-26-20-37-10_original.jpg?hash=a0034591919e9a303db6537f02bb7a902b2ad36553e84d15da44130355f547fc.1789455599",
+      "alt": "Clarissa Gertruida Botha Clare"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/73/1a/e3/29/53444869901ee140/00000063-photo-2018-07-26-20-37-10_original.jpg?hash=a0034591919e9a303db6537f02bb7a902b2ad36553e84d15da44130355f547fc.1789455599",
+        "form": "",
+        "title": "PRINSLOO (born BOTHA), C.G.",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/71/52/68/39/53444848a8f8a882/record-image_3q9m-c9bk-r7k9-f_original.jpg?hash=83d4d8713d5516000172e9e99ac5caeb9721be9f3c47b4167c4aa523d5980059.1789455599",
+        "form": "",
+        "title": "BOTHA, J.W.J.M. Death Notice 1951",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1713,
+      711
+    ],
+    "spouses": [
+      4377
+    ],
+    "exSpouses": [],
+    "children": [
+      4378,
+      4379
+    ],
+    "siblings": [
+      1714,
+      1715
+    ],
+    "parentUnions": [
+      "F450"
+    ],
+    "spouseUnions": [
+      "F1037"
+    ],
+    "parentLinks": [
+      {
+        "id": 1713,
+        "unionId": "F450",
+        "type": "biological"
+      },
+      {
+        "id": 711,
+        "unionId": "F450",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4377,
+        "unionId": "F1037",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4378,
+        "unionId": "F1037",
+        "type": "biological"
+      },
+      {
+        "id": 4379,
+        "unionId": "F1037",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000041001374708@",
+    "geniId": "6000000041001374708",
+    "rfn": "geni:6000000041001374708",
+    "changed": "18 OCT 2025"
+  },
+  "page": {
+    "route": "people/1716/",
+    "canonical": "https://www.genepedia.org/people/1716/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

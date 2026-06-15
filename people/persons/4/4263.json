@@ -1,0 +1,83 @@
+{
+  "id": 4263,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-jurgen-van-staden",
+  "names": {
+    "display": "Daniel Johannes Jurgen Van Staden",
+    "given": "Daniel Johannes Jurgen",
+    "surname": "Van Staden",
+    "married": "Van Staden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1612,
+      4262
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1000"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1612,
+        "unionId": "F1000",
+        "type": "biological"
+      },
+      {
+        "id": 4262,
+        "unionId": "F1000",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000060706513060@",
+    "geniId": "6000000060706513060",
+    "rfn": "geni:6000000060706513060",
+    "changed": "13 JUN 2017"
+  },
+  "page": {
+    "route": "people/4263/",
+    "canonical": "https://www.genepedia.org/people/4263/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

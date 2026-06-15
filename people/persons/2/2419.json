@@ -1,0 +1,121 @@
+{
+  "id": 2419,
+  "schema": "genepedia/person@1",
+  "slug": "hercules-gerhardus-du-plessis",
+  "names": {
+    "display": "Hercules Gerhardus du Plessis",
+    "given": "Hercules Gerhardus",
+    "surname": "du Plessis",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      982
+    ],
+    "exSpouses": [],
+    "children": [
+      2420,
+      2421,
+      2422,
+      2423,
+      2424,
+      2425,
+      2426
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F611"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 982,
+        "unionId": "F611",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2420,
+        "unionId": "F611",
+        "type": "biological"
+      },
+      {
+        "id": 2421,
+        "unionId": "F611",
+        "type": "biological"
+      },
+      {
+        "id": 2422,
+        "unionId": "F611",
+        "type": "biological"
+      },
+      {
+        "id": 2423,
+        "unionId": "F611",
+        "type": "biological"
+      },
+      {
+        "id": 2424,
+        "unionId": "F611",
+        "type": "biological"
+      },
+      {
+        "id": 2425,
+        "unionId": "F611",
+        "type": "biological"
+      },
+      {
+        "id": 2426,
+        "unionId": "F611",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000221780857974@",
+    "geniId": "6000000221780857974",
+    "rfn": "geni:6000000221780857974",
+    "changed": "17 OCT 2025"
+  },
+  "page": {
+    "route": "people/2419/",
+    "canonical": "https://www.genepedia.org/people/2419/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

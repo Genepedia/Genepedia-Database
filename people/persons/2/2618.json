@@ -1,0 +1,95 @@
+{
+  "id": 2618,
+  "schema": "genepedia/person@1",
+  "slug": "johann-george-graaff",
+  "names": {
+    "display": "Johann George Graaff",
+    "given": "Johann George",
+    "surname": "Graaff",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2608,
+      2607
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2609,
+      2610,
+      2611,
+      2612,
+      2613,
+      2614,
+      2615,
+      1066,
+      2616,
+      2617,
+      2619
+    ],
+    "parentUnions": [
+      "F643"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2608,
+        "unionId": "F643",
+        "type": "biological"
+      },
+      {
+        "id": 2607,
+        "unionId": "F643",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057321638388@",
+    "geniId": "6000000057321638388",
+    "rfn": "geni:6000000057321638388",
+    "changed": "12 APR 2017"
+  },
+  "page": {
+    "route": "people/2618/",
+    "canonical": "https://www.genepedia.org/people/2618/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

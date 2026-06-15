@@ -1,0 +1,89 @@
+{
+  "id": 669,
+  "schema": "genepedia/person@1",
+  "slug": "meilhon-669",
+  "names": {
+    "display": "? Meilhon",
+    "given": "?",
+    "surname": "Meilhon",
+    "married": "Meilhon",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      668
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      1655
+    ],
+    "siblings": [
+      268
+    ],
+    "parentUnions": [
+      "F190"
+    ],
+    "spouseUnions": [
+      "F427"
+    ],
+    "parentLinks": [
+      {
+        "id": 668,
+        "unionId": "F190",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 1655,
+        "unionId": "F427",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207590062830@",
+    "geniId": "6000000207590062830",
+    "rfn": "geni:6000000207590062830",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/669/",
+    "canonical": "https://www.genepedia.org/people/669/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

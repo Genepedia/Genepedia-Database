@@ -1,0 +1,92 @@
+{
+  "id": 4799,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-johan-bester-4799",
+  "names": {
+    "display": "Michiel Johan Bester",
+    "given": "Michiel Johan",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JUN 1923",
+      "year": 1923,
+      "iso": "1923-06-12",
+      "precision": "exact",
+      "display": "June 12, 1923",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1895,
+      4798
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4800
+    ],
+    "parentUnions": [
+      "F1143"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1895,
+        "unionId": "F1143",
+        "type": "biological"
+      },
+      {
+        "id": 4798,
+        "unionId": "F1143",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065567916983@",
+    "geniId": "6000000065567916983",
+    "rfn": "geni:6000000065567916983",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/4799/",
+    "canonical": "https://www.genepedia.org/people/4799/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

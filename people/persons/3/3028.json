@@ -1,0 +1,151 @@
+{
+  "id": 3028,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-elizabeth-van-niekerk",
+  "names": {
+    "display": "Catharina Elizabeth van Niekerk",
+    "given": "Catharina Elizabeth",
+    "surname": "van Niekerk",
+    "married": "Duvenhage",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 DEC 1898",
+      "year": 1898,
+      "iso": "1898-12-09",
+      "precision": "exact",
+      "display": "December 9, 1898",
+      "place": null
+    },
+    "death": {
+      "date": "14 AUG 1975",
+      "year": 1975,
+      "iso": "1975-08-14",
+      "precision": "exact",
+      "display": "August 14, 1975",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/9a/dd/c8/6f/5344486980f3493b/catharina_elizabeth_van_niekerk_pic_original.jpg?hash=6d307694bc6c50483d945f21fdab0ded5639ebd111a22fa99340fa1ec288b3c8.1789455599",
+      "alt": "Catharina Elizabeth van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/9a/dd/c8/6f/5344486980f3493b/catharina_elizabeth_van_niekerk_pic_original.jpg?hash=6d307694bc6c50483d945f21fdab0ded5639ebd111a22fa99340fa1ec288b3c8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Stamboom",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/29/28/13/be/5344486982c9e9df/catharina_elizabeth_van_niekerk_baptism_original.jpg?hash=298e86170db460f2dcaca6909698b487257c84340e0c8473ae6bf0f2b2b95826.1789455599",
+        "form": "",
+        "title": "Catharina Elizabeth van Niekerk baptism.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3029
+    ],
+    "exSpouses": [],
+    "children": [
+      1207,
+      3030,
+      3031,
+      3032,
+      3033
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1886"
+    ],
+    "spouseUnions": [
+      "F742"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3029,
+        "unionId": "F742",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1207,
+        "unionId": "F742",
+        "type": "biological"
+      },
+      {
+        "id": 3030,
+        "unionId": "F742",
+        "type": "biological"
+      },
+      {
+        "id": 3031,
+        "unionId": "F742",
+        "type": "biological"
+      },
+      {
+        "id": 3032,
+        "unionId": "F742",
+        "type": "biological"
+      },
+      {
+        "id": 3033,
+        "unionId": "F742",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000108581747856@",
+    "geniId": "6000000108581747856",
+    "rfn": "geni:6000000108581747856",
+    "changed": "04 OCT 2025"
+  },
+  "page": {
+    "route": "people/3028/",
+    "canonical": "https://www.genepedia.org/people/3028/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

@@ -1,0 +1,121 @@
+{
+  "id": 3547,
+  "schema": "genepedia/person@1",
+  "slug": "louis-andreas-de-beer",
+  "names": {
+    "display": "Louis Andreas De Beer",
+    "given": "Louis Andreas",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 JUL 1894",
+      "year": 1894,
+      "iso": "1894-07-24",
+      "precision": "exact",
+      "display": "July 24, 1894",
+      "place": null
+    },
+    "death": {
+      "date": "5 MAR 1956",
+      "year": 1956,
+      "iso": "1956-03-05",
+      "precision": "exact",
+      "display": "March 5, 1956",
+      "place": "Krugersdorp, Transvaal, South Africa",
+      "location": {
+        "label": "Krugersdorp, Transvaal, South Africa",
+        "placeName": "Krugersdorp, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1391,
+      3540
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3541,
+      3542,
+      3543,
+      3544,
+      3545,
+      3546,
+      3548
+    ],
+    "parentUnions": [
+      "F862"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1391,
+        "unionId": "F862",
+        "type": "biological"
+      },
+      {
+        "id": 3540,
+        "unionId": "F862",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000016029982799@",
+    "geniId": "6000000016029982799",
+    "rfn": "geni:6000000016029982799",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3547/",
+    "canonical": "https://www.genepedia.org/people/3547/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

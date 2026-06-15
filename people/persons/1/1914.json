@@ -1,0 +1,202 @@
+{
+  "id": 1914,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-jacobus-bester-1914",
+  "names": {
+    "display": "Gabriel Jacobus Bester",
+    "given": "Gabriel Jacobus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 JAN 1908",
+      "year": 1908,
+      "iso": "1908-01-21",
+      "precision": "exact",
+      "display": "January 21, 1908",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 SEP 1972",
+      "year": 1972,
+      "iso": "1972-09-28",
+      "precision": "exact",
+      "display": "September 28, 1972",
+      "place": "Rosettenville, Johannesburg South, Gauteng, South Africa",
+      "location": {
+        "label": "Rosettenville, Johannesburg South, Gauteng, South Africa",
+        "placeName": "Rosettenville",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg South",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Florentia Cemetery, Alberton, Gauteng, South Africa",
+      "location": {
+        "label": "Florentia Cemetery, Alberton, Gauteng, South Africa",
+        "placeName": "Florentia Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Alberton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      816,
+      1908
+    ],
+    "spouses": [
+      4913
+    ],
+    "exSpouses": [],
+    "children": [
+      4914,
+      4915,
+      4916,
+      4917,
+      4918
+    ],
+    "siblings": [
+      1909,
+      1910,
+      1911,
+      1912,
+      1913,
+      1915
+    ],
+    "parentUnions": [
+      "F505"
+    ],
+    "spouseUnions": [
+      "F1166"
+    ],
+    "parentLinks": [
+      {
+        "id": 816,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1908,
+        "unionId": "F505",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4913,
+        "unionId": "F1166",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4914,
+        "unionId": "F1166",
+        "type": "biological"
+      },
+      {
+        "id": 4915,
+        "unionId": "F1166",
+        "type": "biological"
+      },
+      {
+        "id": 4916,
+        "unionId": "F1166",
+        "type": "biological"
+      },
+      {
+        "id": 4917,
+        "unionId": "F1166",
+        "type": "biological"
+      },
+      {
+        "id": 4918,
+        "unionId": "F1166",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066758360929@",
+    "geniId": "6000000066758360929",
+    "rfn": "geni:6000000066758360929",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1914/",
+    "canonical": "https://www.genepedia.org/people/1914/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

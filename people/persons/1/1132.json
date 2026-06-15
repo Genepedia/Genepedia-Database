@@ -1,0 +1,89 @@
+{
+  "id": 1132,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-phillipus-fourie",
+  "names": {
+    "display": "Hendrik Phillipus Fourie",
+    "given": "Hendrik Phillipus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      441,
+      1126
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1127,
+      1128,
+      1129,
+      1130,
+      1131
+    ],
+    "parentUnions": [
+      "F298"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 441,
+        "unionId": "F298",
+        "type": "biological"
+      },
+      {
+        "id": 1126,
+        "unionId": "F298",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000186940698852@",
+    "geniId": "6000000186940698852",
+    "rfn": "geni:6000000186940698852",
+    "changed": "02 SEP 2022"
+  },
+  "page": {
+    "route": "people/1132/",
+    "canonical": "https://www.genepedia.org/people/1132/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

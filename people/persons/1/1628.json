@@ -1,0 +1,129 @@
+{
+  "id": 1628,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-xenophon-smith",
+  "names": {
+    "display": "Joseph Xenophon Smith",
+    "given": "Joseph Xenophon",
+    "surname": "Smith",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 NOV 1933",
+      "year": 1933,
+      "iso": "1933-11-12",
+      "precision": "exact",
+      "display": "November 12, 1933",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 JAN 2001",
+      "year": 2001,
+      "iso": "2001-01-20",
+      "precision": "exact",
+      "display": "January 20, 2001",
+      "place": "Springs, Gauteng, South Africa",
+      "location": {
+        "label": "Springs, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Springs",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      661,
+      1627
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F419"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 661,
+        "unionId": "F419",
+        "type": "biological"
+      },
+      {
+        "id": 1627,
+        "unionId": "F419",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000017524684093@",
+    "geniId": "6000000017524684093",
+    "rfn": "geni:6000000017524684093",
+    "changed": "13 JAN 2015"
+  },
+  "page": {
+    "route": "people/1628/",
+    "canonical": "https://www.genepedia.org/people/1628/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

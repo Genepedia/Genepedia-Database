@@ -1,0 +1,166 @@
+{
+  "id": 4287,
+  "schema": "genepedia/person@1",
+  "slug": "helena-jacoba-snyman",
+  "names": {
+    "display": "Helena Jacoba Snyman",
+    "given": "Helena Jacoba",
+    "surname": "Snyman",
+    "married": "Griesel",
+    "nick": "",
+    "aliases": [
+      "Griesel"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1856",
+      "year": 1856,
+      "iso": "1856",
+      "precision": "exact",
+      "display": "1856",
+      "place": null
+    },
+    "death": {
+      "date": "5 APR 1890",
+      "year": 1890,
+      "iso": "1890-04-05",
+      "precision": "exact",
+      "display": "April 5, 1890",
+      "place": "Boshof",
+      "location": {
+        "label": "Boshof",
+        "placeName": "",
+        "addressLine1": "Biesjesbult",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Huisvrou",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/a8/d8/48/f7/534448633415de27/record-image__original.jpg?hash=66c5b188cf096fee55c67bfd81f798e4704f020eaae1c18e3c2ed935d4965da2.1789455599",
+      "alt": "Helena Jacoba Snyman"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/a8/d8/48/f7/534448633415de27/record-image__original.jpg?hash=66c5b188cf096fee55c67bfd81f798e4704f020eaae1c18e3c2ed935d4965da2.1789455599",
+        "form": "",
+        "title": "record-image_trou 1875 .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/e3/a8/9b/77/53444863340f469f/record-image__original.jpg?hash=cc2096ecf919258f11b3f71ad3a7a5f42b82d8f2586892a47f2479638e10fbd3.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4288
+    ],
+    "exSpouses": [],
+    "children": [
+      4289,
+      4290,
+      4291,
+      4292,
+      1620,
+      4293
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1008"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4288,
+        "unionId": "F1008",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4289,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 4290,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 4291,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 4292,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 1620,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 4293,
+        "unionId": "F1008",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000194426521821@",
+    "geniId": "6000000194426521821",
+    "rfn": "geni:6000000194426521821",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/4287/",
+    "canonical": "https://www.genepedia.org/people/4287/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

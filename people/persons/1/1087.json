@@ -1,0 +1,110 @@
+{
+  "id": 1087,
+  "schema": "genepedia/person@1",
+  "slug": "jan-adam-petrus-kotze",
+  "names": {
+    "display": "Jan Adam Petrus Kotze",
+    "given": "Jan Adam Petrus",
+    "surname": "Kotze",
+    "married": "Kotze",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 APR 1897",
+      "year": 1897,
+      "iso": "1897-04-18",
+      "precision": "exact",
+      "display": "April 18, 1897",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 1919",
+      "year": 1919,
+      "iso": "1919",
+      "precision": "before",
+      "display": "before 1919",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1075,
+      431
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1088
+    ],
+    "parentUnions": [
+      "F287"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1075,
+        "unionId": "F287",
+        "type": "biological"
+      },
+      {
+        "id": 431,
+        "unionId": "F287",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000220975961057@",
+    "geniId": "6000000220975961057",
+    "rfn": "geni:6000000220975961057",
+    "changed": "29 AUG 2025"
+  },
+  "page": {
+    "route": "people/1087/",
+    "canonical": "https://www.genepedia.org/people/1087/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

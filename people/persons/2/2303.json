@@ -1,0 +1,90 @@
+{
+  "id": 2303,
+  "schema": "genepedia/person@1",
+  "slug": "gert-jacobus-cloete-2303",
+  "names": {
+    "display": "Gert Jacobus Cloete",
+    "given": "Gert Jacobus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2297,
+      2296
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2298,
+      2299,
+      2300,
+      922,
+      2301,
+      2302
+    ],
+    "parentUnions": [
+      "F584"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2297,
+        "unionId": "F584",
+        "type": "biological"
+      },
+      {
+        "id": 2296,
+        "unionId": "F584",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000179328192918@",
+    "geniId": "6000000179328192918",
+    "rfn": "geni:6000000179328192918",
+    "changed": "23 SEP 2022"
+  },
+  "page": {
+    "route": "people/2303/",
+    "canonical": "https://www.genepedia.org/people/2303/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

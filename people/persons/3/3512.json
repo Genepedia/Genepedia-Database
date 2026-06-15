@@ -1,0 +1,137 @@
+{
+  "id": 3512,
+  "schema": "genepedia/person@1",
+  "slug": "nicolaas-louis-verheem",
+  "names": {
+    "display": "Nicolaas Louis Verheem",
+    "given": "Nicolaas Louis",
+    "surname": "Verheem",
+    "married": "Verheem",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 APR 1867",
+      "year": 1867,
+      "iso": "1867-04-25",
+      "precision": "exact",
+      "display": "April 25, 1867",
+      "place": null
+    },
+    "death": {
+      "date": "25 JUL 1898",
+      "year": 1898,
+      "iso": "1898-07-25",
+      "precision": "exact",
+      "display": "July 25, 1898",
+      "place": null
+    },
+    "baptism": {
+      "date": "16 JUN 1867",
+      "year": 1867,
+      "iso": "1867-06-16",
+      "precision": "exact",
+      "display": "June 16, 1867",
+      "place": "NG Gemeente, Middelburg, Cape Colony",
+      "location": {
+        "label": "NG Gemeente, Middelburg, Cape Colony",
+        "placeName": "NG Gemeente",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Middelburg, Cape Colony",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/2e/b9/13/a8/534448648eb3195d/ander_vanne_original.jpg?hash=9831ae57f8b0e4175c32e94a88f4f7b7685157be6df17347a39b417fc1f55fc9.1789455599",
+      "alt": "Nicolaas Louis Verheem"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/2e/b9/13/a8/534448648eb3195d/ander_vanne_original.jpg?hash=9831ae57f8b0e4175c32e94a88f4f7b7685157be6df17347a39b417fc1f55fc9.1789455599",
+        "form": "",
+        "title": "Ander Vanne 4",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3511,
+      1387
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3513,
+      3514,
+      3515,
+      3516
+    ],
+    "parentUnions": [
+      "F859"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3511,
+        "unionId": "F859",
+        "type": "biological"
+      },
+      {
+        "id": 1387,
+        "unionId": "F859",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000073462424846@",
+    "geniId": "6000000073462424846",
+    "rfn": "geni:6000000073462424846",
+    "changed": "25 OCT 2025"
+  },
+  "page": {
+    "route": "people/3512/",
+    "canonical": "https://www.genepedia.org/people/3512/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

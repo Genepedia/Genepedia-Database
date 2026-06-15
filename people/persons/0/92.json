@@ -1,0 +1,104 @@
+{
+  "id": 92,
+  "schema": "genepedia/person@1",
+  "slug": "lerie-van-niekerk",
+  "names": {
+    "display": "Lerie Van Niekerk",
+    "given": "Lerie",
+    "surname": "Van Niekerk",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "12 NOV 2007",
+      "year": 2007,
+      "iso": "2007-11-12",
+      "precision": "exact",
+      "display": "November 12, 2007",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/78/df/78/7a/534448662356baea/75278348_2393209710891972_2642550646875619328_n_original.jpg?hash=ec6193543324ac2fb0e14f3641996b23eb847dd0ed6ecc4246fb881dead6b5c5.1789455599",
+      "alt": "Lerie Van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/78/df/78/7a/534448662356baea/75278348_2393209710891972_2642550646875619328_n_original.jpg?hash=ec6193543324ac2fb0e14f3641996b23eb847dd0ed6ecc4246fb881dead6b5c5.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      27,
+      91
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      93
+    ],
+    "parentUnions": [
+      "F33"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 27,
+        "unionId": "F33",
+        "type": "biological"
+      },
+      {
+        "id": 91,
+        "unionId": "F33",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207079994852@",
+    "geniId": "6000000207079994852",
+    "rfn": "geni:6000000207079994852",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/92/",
+    "canonical": "https://www.genepedia.org/people/92/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

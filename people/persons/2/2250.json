@@ -1,0 +1,143 @@
+{
+  "id": 2250,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-sophia-van-der-merwe",
+  "names": {
+    "display": "Cornelia Sophia van der Merwe",
+    "given": "Cornelia Sophia",
+    "surname": "van der Merwe",
+    "married": "Roselt",
+    "nick": "Corrie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 JAN 1936",
+      "year": 1936,
+      "iso": "1936-01-09",
+      "precision": "exact",
+      "display": "January 9, 1936",
+      "place": null
+    },
+    "death": {
+      "date": "4 APR 2014",
+      "year": 2014,
+      "iso": "2014-04-04",
+      "precision": "exact",
+      "display": "April 4, 2014",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/bf/e6/e8/34/5344484027de1ca2/cs_roselt_original.jpg?hash=184984e3a8e2ed534bcf4494c20845f6d75818ce75925008f6970974580b93ce.1789455599",
+      "alt": "Cornelia Sophia van der Merwe"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/bf/e6/e8/34/5344484027de1ca2/cs_roselt_original.jpg?hash=184984e3a8e2ed534bcf4494c20845f6d75818ce75925008f6970974580b93ce.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      913
+    ],
+    "exSpouses": [],
+    "children": [
+      2251,
+      2252,
+      2253,
+      2254,
+      2255,
+      2256
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1392"
+    ],
+    "spouseUnions": [
+      "F572"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 913,
+        "unionId": "F572",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2251,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2252,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2253,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2254,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2255,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2256,
+        "unionId": "F572",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028171501657@",
+    "geniId": "6000000028171501657",
+    "rfn": "geni:6000000028171501657",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2250/",
+    "canonical": "https://www.genepedia.org/people/2250/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,118 @@
+{
+  "id": 55,
+  "schema": "genepedia/person@1",
+  "slug": "mingus-booyens",
+  "names": {
+    "display": "Mingus Booyens",
+    "given": "Mingus",
+    "surname": "Booyens",
+    "married": "Booyens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "9 DEC 2009",
+      "year": 2009,
+      "iso": "2009-12-09",
+      "precision": "exact",
+      "display": "December 9, 2009",
+      "place": "Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free-State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/45/18/6b/60/534448674b66b104/screenshot_20241206_124323_original.jpg?hash=9b0995222cc816bbacaff3aebd1d011cd87266713f3fd5d6ab1540e69d584264.1789455599",
+      "alt": "Mingus Booyens"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/45/18/6b/60/534448674b66b104/screenshot_20241206_124323_original.jpg?hash=9b0995222cc816bbacaff3aebd1d011cd87266713f3fd5d6ab1540e69d584264.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      54,
+      9
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F19"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 54,
+        "unionId": "F19",
+        "type": "biological"
+      },
+      {
+        "id": 9,
+        "unionId": "F19",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204042594821@",
+    "geniId": "6000000204042594821",
+    "rfn": "geni:6000000204042594821",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/55/",
+    "canonical": "https://www.genepedia.org/people/55/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

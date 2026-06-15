@@ -1,0 +1,115 @@
+{
+  "id": 2680,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-johannes-pretorius-2680",
+  "names": {
+    "display": "Dirk Johannes Pretorius",
+    "given": "Dirk Johannes",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 OCT 1900",
+      "year": 1900,
+      "iso": "1900-10-10",
+      "precision": "exact",
+      "display": "October 10, 1900",
+      "place": null
+    },
+    "death": {
+      "date": "12 APR 1978",
+      "year": 1978,
+      "iso": "1978-04-12",
+      "precision": "exact",
+      "display": "April 12, 1978",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "boer, Alldays",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2675,
+      1076
+    ],
+    "spouses": [
+      2700
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2676,
+      2677,
+      2678,
+      2679,
+      2681,
+      2682,
+      2683
+    ],
+    "parentUnions": [
+      "F655"
+    ],
+    "spouseUnions": [
+      "F1655"
+    ],
+    "parentLinks": [
+      {
+        "id": 2675,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 1076,
+        "unionId": "F655",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2700,
+        "unionId": "F1655",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057261539025@",
+    "geniId": "6000000057261539025",
+    "rfn": "geni:6000000057261539025",
+    "changed": "28 AUG 2025"
+  },
+  "page": {
+    "route": "people/2680/",
+    "canonical": "https://www.genepedia.org/people/2680/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

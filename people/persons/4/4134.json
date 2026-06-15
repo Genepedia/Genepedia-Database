@@ -1,0 +1,131 @@
+{
+  "id": 4134,
+  "schema": "genepedia/person@1",
+  "slug": "jan-hendrik-meyer",
+  "names": {
+    "display": "Jan Hendrik Meyer",
+    "given": "Jan Hendrik",
+    "surname": "Meyer",
+    "married": "Meyer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 NOV 1904",
+      "year": 1904,
+      "iso": "1904-11-24",
+      "precision": "exact",
+      "display": "November 24, 1904",
+      "place": null
+    },
+    "death": {
+      "date": "1 DEC 1955",
+      "year": 1955,
+      "iso": "1955-12-01",
+      "precision": "exact",
+      "display": "December 1, 1955",
+      "place": "Bloemhof, NW, South Africa",
+      "location": {
+        "label": "Bloemhof, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Bloemhof, NW, South Africa",
+      "location": {
+        "label": "Bloemhof, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1560
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F956"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1560,
+        "unionId": "F956",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000176423235826@",
+    "geniId": "6000000176423235826",
+    "rfn": "geni:6000000176423235826",
+    "changed": "17 JUN 2021"
+  },
+  "page": {
+    "route": "people/4134/",
+    "canonical": "https://www.genepedia.org/people/4134/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

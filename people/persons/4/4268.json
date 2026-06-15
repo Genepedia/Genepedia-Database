@@ -1,0 +1,145 @@
+{
+  "id": 4268,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-elizabeth-henning",
+  "names": {
+    "display": "Johanna Elizabeth Henning",
+    "given": "Johanna Elizabeth",
+    "surname": "Henning",
+    "married": "van Staden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 NOV 1905",
+      "year": 1905,
+      "iso": "1905-11-02",
+      "precision": "exact",
+      "display": "November 2, 1905",
+      "place": null
+    },
+    "death": {
+      "date": "26 AUG 1978",
+      "year": 1978,
+      "iso": "1978-08-26",
+      "precision": "exact",
+      "display": "August 26, 1978",
+      "place": "Nigel, Gauteng, South Africa",
+      "location": {
+        "label": "Nigel, Gauteng, South Africa",
+        "placeName": "Nigel, Gauteng, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "AFT 26 AUG 1978",
+      "year": 1978,
+      "iso": "1978-08-26",
+      "precision": "after",
+      "display": "after August 26, 1978",
+      "place": "Nigel Cemetery, Nigel, Gauteng, South Africa",
+      "location": {
+        "label": "Nigel Cemetery, Nigel, Gauteng, South Africa",
+        "placeName": "Nigel Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nigel",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1614
+    ],
+    "exSpouses": [],
+    "children": [
+      4269,
+      4270
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1003"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1614,
+        "unionId": "F1003",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4269,
+        "unionId": "F1003",
+        "type": "biological"
+      },
+      {
+        "id": 4270,
+        "unionId": "F1003",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000097506804009@",
+    "geniId": "6000000097506804009",
+    "rfn": "geni:6000000097506804009",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4268/",
+    "canonical": "https://www.genepedia.org/people/4268/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

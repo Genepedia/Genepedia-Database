@@ -1,0 +1,133 @@
+{
+  "id": 4316,
+  "schema": "genepedia/person@1",
+  "slug": "julia-ann-lodge",
+  "names": {
+    "display": "Julia Ann Lodge",
+    "given": "Julia Ann",
+    "surname": "Lodge",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT JUN 1848",
+      "year": 1848,
+      "iso": "1848-06",
+      "precision": "about",
+      "display": "about June 1848",
+      "place": "Pietermaritzburg, KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Pietermaritzburg, KwaZulu-Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pietermaritzburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KwaZulu-Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 OCT 1916",
+      "year": 1916,
+      "iso": "1916-10-24",
+      "precision": "exact",
+      "display": "October 24, 1916",
+      "place": "Durban, KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Durban, KwaZulu-Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Durban",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KwaZulu-Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4312,
+      4313
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4314,
+      1630,
+      4315
+    ],
+    "parentUnions": [
+      "F1015"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4312,
+        "unionId": "F1015",
+        "type": "biological"
+      },
+      {
+        "id": 4313,
+        "unionId": "F1015",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036784361173@",
+    "geniId": "6000000036784361173",
+    "rfn": "geni:6000000036784361173",
+    "changed": "16 JUL 2024"
+  },
+  "page": {
+    "route": "people/4316/",
+    "canonical": "https://www.genepedia.org/people/4316/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

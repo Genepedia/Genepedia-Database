@@ -1,0 +1,166 @@
+{
+  "id": 4033,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-johannes-van-niekerk-4033",
+  "names": {
+    "display": "Pieter Johannes van Niekerk",
+    "given": "Pieter Johannes",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": [
+      "VAN NIEKERK"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 MAR 1870",
+      "year": 1870,
+      "iso": "1870-03-27",
+      "precision": "exact",
+      "display": "March 27, 1870",
+      "place": null
+    },
+    "death": {
+      "date": "10 OCT 1927",
+      "year": 1927,
+      "iso": "1927-10-10",
+      "precision": "exact",
+      "display": "October 10, 1927",
+      "place": "Wolmaransstad, NW, South Africa",
+      "location": {
+        "label": "Wolmaransstad, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "2630",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "10 OCT 1927",
+      "year": 1927,
+      "iso": "1927-10-10",
+      "precision": "exact",
+      "display": "October 10, 1927",
+      "place": "Old Cemetery, Wolmaransstad, North West, South Africa",
+      "location": {
+        "label": "Old Cemetery, Wolmaransstad, North West, South Africa",
+        "placeName": "Old Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/a1/44/8a/1b/53444853e5811273/pieter_johannes_original.jpg?hash=3936050dc5a8c58fc23ede059db33a79979b4904d4e0203d3a65be5a069fe590.1789455599",
+      "alt": "Pieter Johannes van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/a1/44/8a/1b/53444853e5811273/pieter_johannes_original.jpg?hash=3936050dc5a8c58fc23ede059db33a79979b4904d4e0203d3a65be5a069fe590.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/2f/59/d7/29/534448697752c039/pieter_johannes_van_niekerk_10okt1927_original.jpg?hash=04fe884c061fa5b85464e13a3bc630c25d8b63f4c180ab2cb24169cee2de3002.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1543,
+      4031
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4032,
+      4034,
+      4035,
+      4036,
+      4037,
+      4038,
+      4039
+    ],
+    "parentUnions": [
+      "F940"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1543,
+        "unionId": "F940",
+        "type": "biological"
+      },
+      {
+        "id": 4031,
+        "unionId": "F940",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000017616214806@",
+    "geniId": "6000000017616214806",
+    "rfn": "geni:6000000017616214806",
+    "changed": "22 SEP 2025"
+  },
+  "page": {
+    "route": "people/4033/",
+    "canonical": "https://www.genepedia.org/people/4033/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

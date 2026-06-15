@@ -1,0 +1,85 @@
+{
+  "id": 234,
+  "schema": "genepedia/person@1",
+  "slug": "watson",
+  "names": {
+    "display": "? Watson",
+    "given": "?",
+    "surname": "Watson",
+    "married": "Watson",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      235
+    ],
+    "exSpouses": [],
+    "children": [
+      75
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F75"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 235,
+        "unionId": "F75",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 75,
+        "unionId": "F75",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207418596853@",
+    "geniId": "6000000207418596853",
+    "rfn": "geni:6000000207418596853",
+    "changed": "18 JUL 2024"
+  },
+  "page": {
+    "route": "people/234/",
+    "canonical": "https://www.genepedia.org/people/234/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

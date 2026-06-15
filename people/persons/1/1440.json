@@ -1,0 +1,124 @@
+{
+  "id": 1440,
+  "schema": "genepedia/person@1",
+  "slug": "sarah-johanna-maria-sophia-brynard",
+  "names": {
+    "display": "Sarah Johanna Maria Sophia Brynard",
+    "given": "Sarah Johanna Maria Sophia",
+    "surname": "Brynard",
+    "married": "Augustyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 JAN 1874",
+      "year": 1874,
+      "iso": "1874-01-01",
+      "precision": "exact",
+      "display": "January 1, 1874",
+      "place": null
+    },
+    "death": {
+      "date": "29 OCT 1952",
+      "year": 1952,
+      "iso": "1952-10-29",
+      "precision": "exact",
+      "display": "October 29, 1952",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1435,
+      1434
+    ],
+    "spouses": [
+      3725
+    ],
+    "exSpouses": [],
+    "children": [
+      3797
+    ],
+    "siblings": [
+      1436,
+      578,
+      1437,
+      1438,
+      1439,
+      1441,
+      1442,
+      1443
+    ],
+    "parentUnions": [
+      "F364"
+    ],
+    "spouseUnions": [
+      "F904"
+    ],
+    "parentLinks": [
+      {
+        "id": 1435,
+        "unionId": "F364",
+        "type": "biological"
+      },
+      {
+        "id": 1434,
+        "unionId": "F364",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3725,
+        "unionId": "F904",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3797,
+        "unionId": "F904",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000131381765839@",
+    "geniId": "6000000131381765839",
+    "rfn": "geni:6000000131381765839",
+    "changed": "08 OCT 2024"
+  },
+  "page": {
+    "route": "people/1440/",
+    "canonical": "https://www.genepedia.org/people/1440/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

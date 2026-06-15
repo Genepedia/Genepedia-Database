@@ -1,0 +1,178 @@
+{
+  "id": 578,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-catharina-elizabeth-brynard",
+  "names": {
+    "display": "Johanna Catharina Elizabeth Brynard",
+    "given": "Johanna Catharina Elizabeth",
+    "surname": "Brynard",
+    "married": "Augustyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1866",
+      "year": 1866,
+      "iso": "1866",
+      "precision": "exact",
+      "display": "1866",
+      "place": null
+    },
+    "death": {
+      "date": "12 JUN 1933",
+      "year": 1933,
+      "iso": "1933-06-12",
+      "precision": "exact",
+      "display": "June 12, 1933",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1435,
+      1434
+    ],
+    "spouses": [
+      577
+    ],
+    "exSpouses": [],
+    "children": [
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      215
+    ],
+    "siblings": [
+      1436,
+      1437,
+      1438,
+      1439,
+      1440,
+      1441,
+      1442,
+      1443
+    ],
+    "parentUnions": [
+      "F364"
+    ],
+    "spouseUnions": [
+      "F165"
+    ],
+    "parentLinks": [
+      {
+        "id": 1435,
+        "unionId": "F364",
+        "type": "biological"
+      },
+      {
+        "id": 1434,
+        "unionId": "F364",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 577,
+        "unionId": "F165",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 579,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 580,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 581,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 582,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 583,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 584,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 585,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 586,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 587,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 215,
+        "unionId": "F165",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000131381281821@",
+    "geniId": "6000000131381281821",
+    "rfn": "geni:6000000131381281821",
+    "changed": "23 APR 2024"
+  },
+  "page": {
+    "route": "people/578/",
+    "canonical": "https://www.genepedia.org/people/578/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

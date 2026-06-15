@@ -1,0 +1,95 @@
+{
+  "id": 1954,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-jacob-du-plessis",
+  "names": {
+    "display": "Hendrik Jacob du Plessis",
+    "given": "Hendrik Jacob",
+    "surname": "du Plessis",
+    "married": "du Plessis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1947,
+      1948
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1949,
+      1950,
+      820,
+      1951,
+      1952,
+      1953,
+      1955,
+      1956,
+      1957,
+      1958,
+      1959
+    ],
+    "parentUnions": [
+      "F509"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1947,
+        "unionId": "F509",
+        "type": "biological"
+      },
+      {
+        "id": 1948,
+        "unionId": "F509",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000033372801630@",
+    "geniId": "6000000033372801630",
+    "rfn": "geni:6000000033372801630",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1954/",
+    "canonical": "https://www.genepedia.org/people/1954/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

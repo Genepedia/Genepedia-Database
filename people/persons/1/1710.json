@@ -1,0 +1,97 @@
+{
+  "id": 1710,
+  "schema": "genepedia/person@1",
+  "slug": "anton-joubert",
+  "names": {
+    "display": "Anton Joubert",
+    "given": "Anton",
+    "surname": "Joubert",
+    "married": "Joubert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/03/64/df/de/53444865a0eaed91/screenshot_2024-04-07_214710_original.jpg?hash=56ada1a3e126da44bfb8dc92568504474465fac0d4434d6506613eb9b9f501e7.1789455599",
+      "alt": "Anton Joubert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/03/64/df/de/53444865a0eaed91/screenshot_2024-04-07_214710_original.jpg?hash=56ada1a3e126da44bfb8dc92568504474465fac0d4434d6506613eb9b9f501e7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1708,
+      705
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1709
+    ],
+    "parentUnions": [
+      "F448"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1708,
+        "unionId": "F448",
+        "type": "biological"
+      },
+      {
+        "id": 705,
+        "unionId": "F448",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204892918864@",
+    "geniId": "6000000204892918864",
+    "rfn": "geni:6000000204892918864",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/1710/",
+    "canonical": "https://www.genepedia.org/people/1710/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

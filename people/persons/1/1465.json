@@ -1,0 +1,85 @@
+{
+  "id": 1465,
+  "schema": "genepedia/person@1",
+  "slug": "ruan-de-beer",
+  "names": {
+    "display": "Ruan de Beer",
+    "given": "Ruan",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      589,
+      1463
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1464
+    ],
+    "parentUnions": [
+      "F371"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 589,
+        "unionId": "F371",
+        "type": "biological"
+      },
+      {
+        "id": 1463,
+        "unionId": "F371",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206608046873@",
+    "geniId": "6000000206608046873",
+    "rfn": "geni:6000000206608046873",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1465/",
+    "canonical": "https://www.genepedia.org/people/1465/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

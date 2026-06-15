@@ -1,0 +1,123 @@
+{
+  "id": 604,
+  "schema": "genepedia/person@1",
+  "slug": "andre-du-preez",
+  "names": {
+    "display": "Andre du Preez",
+    "given": "Andre",
+    "surname": "du Preez",
+    "married": "du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "21 JUL 1948",
+      "year": 1948,
+      "iso": "1948-07-21",
+      "precision": "exact",
+      "display": "July 21, 1948",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/49/60/bd/ec/534448660725ac61/0305b285-75f1-4a81-a34e-15233daf7108_original.jpg?hash=17eb18cd3121892e1086d574f8ffc6b8902c7c0e513fb36463e70b5720a82ca4.1789455599",
+      "alt": "Andre du Preez"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/49/60/bd/ec/534448660725ac61/0305b285-75f1-4a81-a34e-15233daf7108_original.jpg?hash=17eb18cd3121892e1086d574f8ffc6b8902c7c0e513fb36463e70b5720a82ca4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/84/81/d0/d6/534448660722fd02/screenshot_2024-06-18_145905_original.jpg?hash=68c7cdcdcff5ee8df00478740a168abfb33482b4c8407f97cf754bab802fb9cf.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      222
+    ],
+    "exSpouses": [],
+    "children": [
+      605,
+      606,
+      607
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F170"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 222,
+        "unionId": "F170",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 605,
+        "unionId": "F170",
+        "type": "biological"
+      },
+      {
+        "id": 606,
+        "unionId": "F170",
+        "type": "biological"
+      },
+      {
+        "id": 607,
+        "unionId": "F170",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000205253969883@",
+    "geniId": "6000000205253969883",
+    "rfn": "geni:6000000205253969883",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/604/",
+    "canonical": "https://www.genepedia.org/people/604/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

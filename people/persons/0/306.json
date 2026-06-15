@@ -1,0 +1,83 @@
+{
+  "id": 306,
+  "schema": "genepedia/person@1",
+  "slug": "damion-lurie",
+  "names": {
+    "display": "Damion Lurie",
+    "given": "Damion",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "Dominic",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      111,
+      305
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F98"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 111,
+        "unionId": "F98",
+        "type": "biological"
+      },
+      {
+        "id": 305,
+        "unionId": "F98",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204015823863@",
+    "geniId": "6000000204015823863",
+    "rfn": "geni:6000000204015823863",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/306/",
+    "canonical": "https://www.genepedia.org/people/306/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

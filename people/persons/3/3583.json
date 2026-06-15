@@ -1,0 +1,196 @@
+{
+  "id": 3583,
+  "schema": "genepedia/person@1",
+  "slug": "barend-daniel-cornelis-snyman",
+  "names": {
+    "display": "Barend Daniël Cornelis Snyman",
+    "given": "Barend Daniël Cornelis",
+    "surname": "Snyman",
+    "married": "Snyman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 NOV 1852",
+      "year": 1852,
+      "iso": "1852-11-14",
+      "precision": "exact",
+      "display": "November 14, 1852",
+      "place": "Willowmore, EC, South Africa",
+      "location": {
+        "label": "Willowmore, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Willowmore",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1953",
+      "year": 1953,
+      "iso": "1953",
+      "precision": "exact",
+      "display": "1953",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "11 FEB 1853",
+      "year": 1853,
+      "iso": "1853-02-11",
+      "precision": "exact",
+      "display": "February 11, 1853",
+      "place": "Richmond Nc, NC, South Africa",
+      "location": {
+        "label": "Richmond Nc, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Richmond Nc",
+        "postalCode": "7090",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1398
+    ],
+    "exSpouses": [],
+    "children": [
+      3584,
+      3585,
+      3586,
+      3587,
+      3588,
+      3589,
+      3590,
+      3591
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F871"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1398,
+        "unionId": "F871",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3584,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3585,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3586,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3587,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3588,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3589,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3590,
+        "unionId": "F871",
+        "type": "biological"
+      },
+      {
+        "id": 3591,
+        "unionId": "F871",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000010557023993@",
+    "geniId": "6000000010557023993",
+    "rfn": "geni:6000000010557023993",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3583/",
+    "canonical": "https://www.genepedia.org/people/3583/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

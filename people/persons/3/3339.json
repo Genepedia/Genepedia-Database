@@ -1,0 +1,93 @@
+{
+  "id": 3339,
+  "schema": "genepedia/person@1",
+  "slug": "gysbert-johannes-van-schalkwyk",
+  "names": {
+    "display": "Gysbert Johannes van Schalkwyk",
+    "given": "Gysbert Johannes",
+    "surname": "van Schalkwyk",
+    "married": "van Schalkwyk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "27 MAR 1957",
+      "year": 1957,
+      "iso": "1957-03-27",
+      "precision": "exact",
+      "display": "March 27, 1957",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3338,
+      1318
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3340,
+      3341
+    ],
+    "parentUnions": [
+      "F818"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3338,
+        "unionId": "F818",
+        "type": "biological"
+      },
+      {
+        "id": 1318,
+        "unionId": "F818",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228026191@",
+    "geniId": "6000000027228026191",
+    "rfn": "geni:6000000027228026191",
+    "changed": "11 MAR 2015"
+  },
+  "page": {
+    "route": "people/3339/",
+    "canonical": "https://www.genepedia.org/people/3339/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

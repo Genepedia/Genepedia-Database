@@ -1,0 +1,212 @@
+{
+  "id": 1254,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-maria-marais",
+  "names": {
+    "display": "Elizabeth Maria Marais",
+    "given": "Elizabeth Maria",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 APR 1886",
+      "year": 1886,
+      "iso": "1886-04-10",
+      "precision": "exact",
+      "display": "April 10, 1886",
+      "place": null
+    },
+    "death": {
+      "date": "22 FEB 1973",
+      "year": 1973,
+      "iso": "1973-02-22",
+      "precision": "exact",
+      "display": "February 22, 1973",
+      "place": null
+    },
+    "baptism": {
+      "date": "4 JUL 1886",
+      "year": 1886,
+      "iso": "1886-07-04",
+      "precision": "exact",
+      "display": "July 4, 1886",
+      "place": "Carnarvon, Northern Cape, South Africa",
+      "location": {
+        "label": "Carnarvon, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "NG Kerk",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Carnarvon",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/4c/29/e3/9c/5344483cb86a4d4c/miy38xew_original.jpg?hash=4419015008eea6939f2a11a1bd7b3e658583f36a768ca04ba82e22cca7d2f13b.1789455599",
+      "alt": "Elizabeth Maria Marais"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/4c/29/e3/9c/5344483cb86a4d4c/miy38xew_original.jpg?hash=4419015008eea6939f2a11a1bd7b3e658583f36a768ca04ba82e22cca7d2f13b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/d2/d2/c9/4f/5344483de92cb796/main_original.png?hash=038aa1dba88ec5860c523900225dab500d4e0da1b42caa41753813ab1e2925d4.1789455599",
+        "form": "",
+        "title": "WEYERS Johannes 1883-1960 & Elizabeth Maria MARAIS 1886-1973",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      524,
+      1250
+    ],
+    "spouses": [
+      3109
+    ],
+    "exSpouses": [],
+    "children": [
+      3110,
+      3111,
+      3112,
+      3113,
+      3114
+    ],
+    "siblings": [
+      1251,
+      1252,
+      1253,
+      1255,
+      1256,
+      1257
+    ],
+    "parentUnions": [
+      "F327"
+    ],
+    "spouseUnions": [
+      "F771"
+    ],
+    "parentLinks": [
+      {
+        "id": 524,
+        "unionId": "F327",
+        "type": "biological"
+      },
+      {
+        "id": 1250,
+        "unionId": "F327",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3109,
+        "unionId": "F771",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3110,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 3111,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 3112,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 3113,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 3114,
+        "unionId": "F771",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000034306996825@",
+    "geniId": "6000000034306996825",
+    "rfn": "geni:6000000034306996825",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/1254/",
+    "canonical": "https://www.genepedia.org/people/1254/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,127 @@
+{
+  "id": 3634,
+  "schema": "genepedia/person@1",
+  "slug": "antonie-meintjes",
+  "names": {
+    "display": "Antonie Meintjes",
+    "given": "Antonie",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 JAN 1904",
+      "year": 1904,
+      "iso": "1904-01-20",
+      "precision": "exact",
+      "display": "January 20, 1904",
+      "place": "Johannesburg, GP, South Africa",
+      "location": {
+        "label": "Johannesburg, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "MAY 1979",
+      "year": 1979,
+      "iso": "1979-05",
+      "precision": "exact",
+      "display": "May 1979",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1402,
+      3623
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3624,
+      3625,
+      3626,
+      3627,
+      3628,
+      3629,
+      3630,
+      3631,
+      3632,
+      3633,
+      3635,
+      3636,
+      3637
+    ],
+    "parentUnions": [
+      "F875"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1402,
+        "unionId": "F875",
+        "type": "biological"
+      },
+      {
+        "id": 3623,
+        "unionId": "F875",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000011466925200@",
+    "geniId": "6000000011466925200",
+    "rfn": "geni:6000000011466925200",
+    "changed": "01 MAY 2021"
+  },
+  "page": {
+    "route": "people/3634/",
+    "canonical": "https://www.genepedia.org/people/3634/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

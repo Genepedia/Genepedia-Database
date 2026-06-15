@@ -1,0 +1,96 @@
+{
+  "id": 3007,
+  "schema": "genepedia/person@1",
+  "slug": "hermanus-marthinus-brits",
+  "names": {
+    "display": "Hermanus Marthinus Brits",
+    "given": "Hermanus Marthinus",
+    "surname": "Brits",
+    "married": "Brits",
+    "nick": "Herman",
+    "aliases": [
+      "Herman"
+    ]
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "31 JAN 1999",
+      "year": 1999,
+      "iso": "1999-01-31",
+      "precision": "exact",
+      "display": "January 31, 1999",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1191,
+      3003
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3004,
+      3005,
+      3006
+    ],
+    "parentUnions": [
+      "F736"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1191,
+        "unionId": "F736",
+        "type": "biological"
+      },
+      {
+        "id": 3003,
+        "unionId": "F736",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024192856540@",
+    "geniId": "6000000024192856540",
+    "rfn": "geni:6000000024192856540",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/3007/",
+    "canonical": "https://www.genepedia.org/people/3007/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

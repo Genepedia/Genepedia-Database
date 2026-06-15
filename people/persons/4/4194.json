@@ -1,0 +1,143 @@
+{
+  "id": 4194,
+  "schema": "genepedia/person@1",
+  "slug": "hanlie-viljoen",
+  "names": {
+    "display": "Hanlie Viljoen",
+    "given": "Hanlie",
+    "surname": "Fouche",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": [
+      "Hanlie Viljoen"
+    ]
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 DEC 1957",
+      "year": 1957,
+      "iso": "1957-12-11",
+      "precision": "exact",
+      "display": "December 11, 1957",
+      "place": "Zeerust",
+      "location": {
+        "label": "Zeerust",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Zeerust",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Cullinan",
+  "lastResidenceLocation": {
+    "label": "Cullinan",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Cullinan",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "",
+    "country": "",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": "Teacher",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p2/5860/5088/53444836654e4768/hanlie_original.jpg?hash=4c0cd4e21fc2c857bbd749cd716afcf4ae74e6de0cee82fdab6b8835fe3530a3.1789455599",
+      "alt": "Hanlie Viljoen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p2/5860/5088/53444836654e4768/hanlie_original.jpg?hash=4c0cd4e21fc2c857bbd749cd716afcf4ae74e6de0cee82fdab6b8835fe3530a3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1591
+    ],
+    "exSpouses": [],
+    "children": [
+      4195,
+      4196
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F984"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1591,
+        "unionId": "F984",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4195,
+        "unionId": "F984",
+        "type": "biological"
+      },
+      {
+        "id": 4196,
+        "unionId": "F984",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000001976821279@",
+    "geniId": "6000000001976821279",
+    "rfn": "geni:6000000001976821279",
+    "changed": "18 NOV 2014"
+  },
+  "page": {
+    "route": "people/4194/",
+    "canonical": "https://www.genepedia.org/people/4194/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

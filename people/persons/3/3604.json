@@ -1,0 +1,161 @@
+{
+  "id": 3604,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-gabriel-oosthuizen",
+  "names": {
+    "display": "Daniel Gabriel Oosthuizen",
+    "given": "Daniel Gabriel",
+    "surname": "Oosthuizen",
+    "married": "Oosthuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 OCT 1889",
+      "year": 1889,
+      "iso": "1889-10-23",
+      "precision": "exact",
+      "display": "October 23, 1889",
+      "place": "Aberdeen, Eastern Cape, South Africa",
+      "location": {
+        "label": "Aberdeen, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 MAY 1975",
+      "year": 1975,
+      "iso": "1975-05-23",
+      "precision": "exact",
+      "display": "May 23, 1975",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Labourer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3600,
+      1400
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3601,
+      3602,
+      3603,
+      3605,
+      3606,
+      3607,
+      3608
+    ],
+    "parentUnions": [
+      "F873"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3600,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 1400,
+        "unionId": "F873",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029025251196@",
+    "geniId": "6000000029025251196",
+    "rfn": "geni:6000000029025251196",
+    "changed": "22 OCT 2014"
+  },
+  "page": {
+    "route": "people/3604/",
+    "canonical": "https://www.genepedia.org/people/3604/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

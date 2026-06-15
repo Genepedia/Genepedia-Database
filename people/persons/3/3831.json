@@ -1,0 +1,102 @@
+{
+  "id": 3831,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-christina-herbert-3831",
+  "names": {
+    "display": "Johanna Christina Herbert",
+    "given": "Johanna Christina",
+    "surname": "Herbert",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1894",
+      "year": 1894,
+      "iso": "1894",
+      "precision": "exact",
+      "display": "1894",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3821,
+      3820
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3822,
+      1444,
+      3823,
+      3824,
+      3825,
+      3826,
+      3827,
+      3828,
+      3829,
+      3830,
+      3832
+    ],
+    "parentUnions": [
+      "F908"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3821,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3820,
+        "unionId": "F908",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208992861851@",
+    "geniId": "6000000208992861851",
+    "rfn": "geni:6000000208992861851",
+    "changed": "13 SEP 2024"
+  },
+  "page": {
+    "route": "people/3831/",
+    "canonical": "https://www.genepedia.org/people/3831/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

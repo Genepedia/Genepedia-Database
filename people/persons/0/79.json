@@ -1,0 +1,193 @@
+{
+  "id": 79,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-johannes-van-niekerk",
+  "names": {
+    "display": "Pieter Johannes van Niekerk",
+    "given": "Pieter Johannes",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 JUN 1919",
+      "year": 1919,
+      "iso": "1919-06-19",
+      "precision": "exact",
+      "display": "June 19, 1919",
+      "place": "Bloemhof",
+      "location": {
+        "label": "Bloemhof",
+        "placeName": "Bloemhof",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 FEB 1977",
+      "year": 1977,
+      "iso": "1977-02-12",
+      "precision": "exact",
+      "display": "February 12, 1977",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "New Cemetery, Klerksdorp East, Transvaal, South Africa",
+      "location": {
+        "label": "New Cemetery, Klerksdorp East, Transvaal, South Africa",
+        "placeName": "New Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp East",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/9f/3d/ff/47/53444866a4ba14e4/image_13__original.jpg?hash=8ce185c3206ac28f8b162f774236c498ffd6f4cd4e46fcbac797490b507d65f2.1789455599",
+      "alt": "Pieter Johannes van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/9f/3d/ff/47/53444866a4ba14e4/image_13__original.jpg?hash=8ce185c3206ac28f8b162f774236c498ffd6f4cd4e46fcbac797490b507d65f2.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      239,
+      238
+    ],
+    "spouses": [
+      80
+    ],
+    "exSpouses": [],
+    "children": [
+      81,
+      82,
+      83,
+      21
+    ],
+    "siblings": [
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246
+    ],
+    "parentUnions": [
+      "F77"
+    ],
+    "spouseUnions": [
+      "F29"
+    ],
+    "parentLinks": [
+      {
+        "id": 239,
+        "unionId": "F77",
+        "type": "biological"
+      },
+      {
+        "id": 238,
+        "unionId": "F77",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 80,
+        "unionId": "F29",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 81,
+        "unionId": "F29",
+        "type": "biological"
+      },
+      {
+        "id": 82,
+        "unionId": "F29",
+        "type": "biological"
+      },
+      {
+        "id": 83,
+        "unionId": "F29",
+        "type": "biological"
+      },
+      {
+        "id": 21,
+        "unionId": "F29",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002781489460@",
+    "geniId": "6000000002781489460",
+    "rfn": "geni:6000000002781489460",
+    "changed": "30 JAN 2025"
+  },
+  "page": {
+    "route": "people/79/",
+    "canonical": "https://www.genepedia.org/people/79/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

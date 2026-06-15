@@ -1,0 +1,192 @@
+{
+  "id": 1908,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-magdalena-viljoen",
+  "names": {
+    "display": "Cornelia Magdalena Viljoen",
+    "given": "Cornelia Magdalena",
+    "surname": "Viljoen",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 JUN 1874",
+      "year": 1874,
+      "iso": "1874-06-28",
+      "precision": "exact",
+      "display": "June 28, 1874",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 MAR 1939",
+      "year": 1939,
+      "iso": "1939-03-21",
+      "precision": "exact",
+      "display": "March 21, 1939",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "26 JUL 1874",
+      "year": 1874,
+      "iso": "1874-07-26",
+      "precision": "exact",
+      "display": "July 26, 1874",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4867,
+      4868
+    ],
+    "spouses": [
+      816
+    ],
+    "exSpouses": [],
+    "children": [
+      1909,
+      1910,
+      1911,
+      1912,
+      1913,
+      1914,
+      1915
+    ],
+    "siblings": [
+      4869
+    ],
+    "parentUnions": [
+      "F1158"
+    ],
+    "spouseUnions": [
+      "F505"
+    ],
+    "parentLinks": [
+      {
+        "id": 4867,
+        "unionId": "F1158",
+        "type": "biological"
+      },
+      {
+        "id": 4868,
+        "unionId": "F1158",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 816,
+        "unionId": "F505",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1909,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1910,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1911,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1912,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1913,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1914,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1915,
+        "unionId": "F505",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000010280713829@",
+    "geniId": "6000000010280713829",
+    "rfn": "geni:6000000010280713829",
+    "changed": "06 JUL 2023"
+  },
+  "page": {
+    "route": "people/1908/",
+    "canonical": "https://www.genepedia.org/people/1908/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

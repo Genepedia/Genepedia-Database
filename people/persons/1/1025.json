@@ -1,0 +1,86 @@
+{
+  "id": 1025,
+  "schema": "genepedia/person@1",
+  "slug": "anelie-van-der-bank",
+  "names": {
+    "display": "Anelie van der Bank",
+    "given": "Anelie",
+    "surname": "van der Bank",
+    "married": "van der Bank",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      422,
+      1022
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1023,
+      1024
+    ],
+    "parentUnions": [
+      "F280"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 422,
+        "unionId": "F280",
+        "type": "biological"
+      },
+      {
+        "id": 1022,
+        "unionId": "F280",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000022830654233@",
+    "geniId": "6000000022830654233",
+    "rfn": "geni:6000000022830654233",
+    "changed": "04 MAR 2015"
+  },
+  "page": {
+    "route": "people/1025/",
+    "canonical": "https://www.genepedia.org/people/1025/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

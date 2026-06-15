@@ -1,0 +1,208 @@
+{
+  "id": 1720,
+  "schema": "genepedia/person@1",
+  "slug": "mary-sophia-corrie",
+  "names": {
+    "display": "Mary Sophia Corrie",
+    "given": "Mary Sophia",
+    "surname": "Corrie",
+    "married": "Carr",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 OCT 1889",
+      "year": 1889,
+      "iso": "1889-10-12",
+      "precision": "exact",
+      "display": "October 12, 1889",
+      "place": null
+    },
+    "death": {
+      "date": "18 NOV 1959",
+      "year": 1959,
+      "iso": "1959-11-18",
+      "precision": "exact",
+      "display": "November 18, 1959",
+      "place": "General Hospital, Johannesburg, Transvaal, South Africa",
+      "location": {
+        "label": "General Hospital, Johannesburg, Transvaal, South Africa",
+        "placeName": "General Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "25 DEC 1889",
+      "year": 1889,
+      "iso": "1889-12-25",
+      "precision": "exact",
+      "display": "December 25, 1889",
+      "place": "Nederduitse Gereformeerde Kerk, Kroonstad, Orange Free State, South Africa",
+      "location": {
+        "label": "Nederduitse Gereformeerde Kerk, Kroonstad, Orange Free State, South Africa",
+        "placeName": "Nederduitse Gereformeerde Kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/c7/38/a4/12/5344483f7e8a6026/record-image_33sq-gt7t-3fky_original.jpg?hash=17d079bbce2eb8662093249e5f3f65e4c4e8debb4cd27de56c57e432876997fa.1789455599",
+      "alt": "Mary Sophia Corrie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/c7/38/a4/12/5344483f7e8a6026/record-image_33sq-gt7t-3fky_original.jpg?hash=17d079bbce2eb8662093249e5f3f65e4c4e8debb4cd27de56c57e432876997fa.1789455599",
+        "form": "",
+        "title": "CARR, A.M.D. Baptism",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/e5/da/63/b5/5344483f7df6519a/record-image_33s7-9t7t-3jfk_original.jpg?hash=683b922d05f6682ceffb6521d7a6f84b8309c7667f9e00743b4c4c9680d300ab.1789455599",
+        "form": "",
+        "title": "CARR, T. Baptism",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/fe/86/29/5e/534448408f061625/dsc01378_original.jpg?hash=982eaaa242c1feb49c6ea72d3928f16e5b981d8d2e39f491c81eb674abe9db6b.1789455599",
+        "form": "",
+        "title": "CARR(born CORRIE), M.S. Death Notice",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/59/72/ef/f9/5344484c60a61932/record-image_undefined_21__original.jpg?hash=8970446fabf2ea9c6d58ec00fc8b2cbef6b574a1b20a4c23c16769aca53d7c0a.1789455599",
+        "form": "",
+        "title": "CARR, S. & CORRIE, M.S. Marriage 1910",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1717,
+      1718
+    ],
+    "spouses": [
+      4402
+    ],
+    "exSpouses": [],
+    "children": [
+      4403,
+      4404,
+      4405
+    ],
+    "siblings": [
+      711,
+      1719,
+      1721,
+      1722,
+      1723,
+      1724,
+      1725,
+      1712
+    ],
+    "parentUnions": [
+      "F451"
+    ],
+    "spouseUnions": [
+      "F1040"
+    ],
+    "parentLinks": [
+      {
+        "id": 1717,
+        "unionId": "F451",
+        "type": "biological"
+      },
+      {
+        "id": 1718,
+        "unionId": "F451",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4402,
+        "unionId": "F1040",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4403,
+        "unionId": "F1040",
+        "type": "biological"
+      },
+      {
+        "id": 4404,
+        "unionId": "F1040",
+        "type": "biological"
+      },
+      {
+        "id": 4405,
+        "unionId": "F1040",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000041008363029@",
+    "geniId": "6000000041008363029",
+    "rfn": "geni:6000000041008363029",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/1720/",
+    "canonical": "https://www.genepedia.org/people/1720/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

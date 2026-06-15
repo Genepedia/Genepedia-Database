@@ -1,0 +1,133 @@
+{
+  "id": 20,
+  "schema": "genepedia/person@1",
+  "slug": "alwyn-van-niekerk",
+  "names": {
+    "display": "Alwyn Van Niekerk",
+    "given": "Alwyn",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "25 MAY 2016",
+      "year": 2016,
+      "iso": "2016-05-25",
+      "precision": "exact",
+      "display": "May 25, 2016",
+      "place": "Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free-State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Bloemfontein, Free-State, South Africa",
+  "lastResidenceLocation": {
+    "label": "Bloemfontein, Free-State, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Bloemfontein",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Free-State",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/75/59/7f/48/53444865a00a5d59/screenshot_2024-04-07_115503_original.jpg?hash=467815b4c527989ec672b6943413adecfda62986f200437a09b19099e9d1d385.1789455599",
+      "alt": "Alwyn Van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/75/59/7f/48/53444865a00a5d59/screenshot_2024-04-07_115503_original.jpg?hash=467815b4c527989ec672b6943413adecfda62986f200437a09b19099e9d1d385.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4,
+      19
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F8"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4,
+        "unionId": "F8",
+        "type": "biological"
+      },
+      {
+        "id": 19,
+        "unionId": "F8",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204044292856@",
+    "geniId": "6000000204044292856",
+    "rfn": "geni:6000000204044292856",
+    "changed": "18 JUL 2024"
+  },
+  "page": {
+    "route": "people/20/",
+    "canonical": "https://www.genepedia.org/people/20/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

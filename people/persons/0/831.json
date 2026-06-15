@@ -1,0 +1,221 @@
+{
+  "id": 831,
+  "schema": "genepedia/person@1",
+  "slug": "johan-christiaan-abraham-mitchell-lhcq-fwz",
+  "names": {
+    "display": "Johan Christiaan Abraham Mitchell LHCQ-FWZ",
+    "given": "Johan Christiaan Abraham",
+    "surname": "Mitchell",
+    "married": "Mitchell",
+    "nick": "Jan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 NOV 1885",
+      "year": 1885,
+      "iso": "1885-11-30",
+      "precision": "exact",
+      "display": "November 30, 1885",
+      "place": "Ladismith, Western Cape, South Africa",
+      "location": {
+        "label": "Ladismith, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ladismith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 APR 1928",
+      "year": 1928,
+      "iso": "1928-04-17",
+      "precision": "exact",
+      "display": "April 17, 1928",
+      "place": "Koeipan, Kuruman, Northern Cape, South Africa",
+      "location": {
+        "label": "Koeipan, Kuruman, Northern Cape, South Africa",
+        "placeName": "Koeipan",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kuruman",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "7 FEB 1886",
+      "year": 1886,
+      "iso": "1886-02-07",
+      "precision": "exact",
+      "display": "February 7, 1886",
+      "place": "Ladismith, Cape Province, South Africa",
+      "location": {
+        "label": "Ladismith, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ladismith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1995,
+      1996
+    ],
+    "spouses": [
+      333
+    ],
+    "exSpouses": [],
+    "children": [
+      832,
+      833,
+      834,
+      835,
+      836,
+      837,
+      838,
+      839
+    ],
+    "siblings": [
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004
+    ],
+    "parentUnions": [
+      "F518"
+    ],
+    "spouseUnions": [
+      "F230"
+    ],
+    "parentLinks": [
+      {
+        "id": 1995,
+        "unionId": "F518",
+        "type": "biological"
+      },
+      {
+        "id": 1996,
+        "unionId": "F518",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 333,
+        "unionId": "F230",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 832,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 833,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 834,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 835,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 836,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 837,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 838,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 839,
+        "unionId": "F230",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000005597093004@",
+    "geniId": "6000000005597093004",
+    "rfn": "geni:6000000005597093004",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/831/",
+    "canonical": "https://www.genepedia.org/people/831/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

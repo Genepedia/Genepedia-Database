@@ -1,0 +1,113 @@
+{
+  "id": 642,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-christoffel-stander",
+  "names": {
+    "display": "Hendrik Christoffel Stander",
+    "given": "Hendrik Christoffel",
+    "surname": "Stander",
+    "married": "Stander",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/07/e4/d2/55/5344483bb4cd94be/v_niekerk_pieter_johannes_65271_9__original.jpg?hash=416afe98c002db74d8e13871a32268d2756ff7e3cfc796f86999a6b854eddf9d.1789455599",
+      "alt": "Hendrik Christoffel Stander"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/07/e4/d2/55/5344483bb4cd94be/v_niekerk_pieter_johannes_65271_9__original.jpg?hash=416afe98c002db74d8e13871a32268d2756ff7e3cfc796f86999a6b854eddf9d.1789455599",
+        "form": "",
+        "title": "v Niekerk Pieter Johannes 65271 (9).jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1599
+    ],
+    "spouses": [
+      244
+    ],
+    "exSpouses": [],
+    "children": [
+      643,
+      644
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F406"
+    ],
+    "spouseUnions": [
+      "F180"
+    ],
+    "parentLinks": [
+      {
+        "id": 1599,
+        "unionId": "F406",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 244,
+        "unionId": "F180",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 643,
+        "unionId": "F180",
+        "type": "biological"
+      },
+      {
+        "id": 644,
+        "unionId": "F180",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024838240958@",
+    "geniId": "6000000024838240958",
+    "rfn": "geni:6000000024838240958",
+    "changed": "08 SEP 2016"
+  },
+  "page": {
+    "route": "people/642/",
+    "canonical": "https://www.genepedia.org/people/642/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

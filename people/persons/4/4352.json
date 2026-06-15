@@ -1,0 +1,86 @@
+{
+  "id": 4352,
+  "schema": "genepedia/person@1",
+  "slug": "jennifer-jane-humphreys",
+  "names": {
+    "display": "Jennifer Jane Humphreys",
+    "given": "Jennifer Jane",
+    "surname": "Humphreys",
+    "married": "Humphreys",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4351,
+      1684
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4353,
+      4354
+    ],
+    "parentUnions": [
+      "F1028"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4351,
+        "unionId": "F1028",
+        "type": "biological"
+      },
+      {
+        "id": 1684,
+        "unionId": "F1028",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003274832311@",
+    "geniId": "6000000003274832311",
+    "rfn": "geni:6000000003274832311",
+    "changed": "26 NOV 2014"
+  },
+  "page": {
+    "route": "people/4352/",
+    "canonical": "https://www.genepedia.org/people/4352/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

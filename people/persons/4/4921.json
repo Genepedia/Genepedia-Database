@@ -1,0 +1,95 @@
+{
+  "id": 4921,
+  "schema": "genepedia/person@1",
+  "slug": "frederick-david-bester",
+  "names": {
+    "display": "Frederick David Bester",
+    "given": "Frederick David",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 DEC 1926",
+      "year": 1926,
+      "iso": "1926-12-24",
+      "precision": "exact",
+      "display": "December 24, 1926",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1915,
+      4919
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4920,
+      4922,
+      4923,
+      4924
+    ],
+    "parentUnions": [
+      "F1167"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1915,
+        "unionId": "F1167",
+        "type": "biological"
+      },
+      {
+        "id": 4919,
+        "unionId": "F1167",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066760190953@",
+    "geniId": "6000000066760190953",
+    "rfn": "geni:6000000066760190953",
+    "changed": "09 SEP 2017"
+  },
+  "page": {
+    "route": "people/4921/",
+    "canonical": "https://www.genepedia.org/people/4921/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

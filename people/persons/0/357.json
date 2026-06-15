@@ -1,0 +1,110 @@
+{
+  "id": 357,
+  "schema": "genepedia/person@1",
+  "slug": "gloudina-maria-van-kradenburg",
+  "names": {
+    "display": "Gloudina Maria Van Kradenburg",
+    "given": "Gloudina Maria",
+    "surname": "Van Kradenburg",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 MAY 1949",
+      "year": 1949,
+      "iso": "1949-05-15",
+      "precision": "exact",
+      "display": "May 15, 1949",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      134
+    ],
+    "exSpouses": [],
+    "children": [
+      358,
+      359,
+      360,
+      361
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F112"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 134,
+        "unionId": "F112",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 358,
+        "unionId": "F112",
+        "type": "biological"
+      },
+      {
+        "id": 359,
+        "unionId": "F112",
+        "type": "biological"
+      },
+      {
+        "id": 360,
+        "unionId": "F112",
+        "type": "biological"
+      },
+      {
+        "id": 361,
+        "unionId": "F112",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066596924197@",
+    "geniId": "6000000066596924197",
+    "rfn": "geni:6000000066596924197",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/357/",
+    "canonical": "https://www.genepedia.org/people/357/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

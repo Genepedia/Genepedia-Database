@@ -1,0 +1,178 @@
+{
+  "id": 623,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-elizabeth-jacobs",
+  "names": {
+    "display": "Johanna Elizabeth Jacobs",
+    "given": "Johanna Elizabeth",
+    "surname": "Jacobs",
+    "married": "Germishuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1855",
+      "year": 1855,
+      "iso": "1855",
+      "precision": "exact",
+      "display": "1855",
+      "place": "Orange Free State, South Africa",
+      "location": {
+        "label": "Orange Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 MAY 1884",
+      "year": 1884,
+      "iso": "1884-05-02",
+      "precision": "exact",
+      "display": "May 2, 1884",
+      "place": "Cape Colony",
+      "location": {
+        "label": "Cape Colony",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1532,
+      1531
+    ],
+    "spouses": [
+      622
+    ],
+    "exSpouses": [],
+    "children": [
+      238,
+      624,
+      625,
+      626,
+      627
+    ],
+    "siblings": [
+      1533,
+      1534,
+      1535,
+      1536,
+      1537,
+      1538
+    ],
+    "parentUnions": [
+      "F393"
+    ],
+    "spouseUnions": [
+      "F175"
+    ],
+    "parentLinks": [
+      {
+        "id": 1532,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1531,
+        "unionId": "F393",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 622,
+        "unionId": "F175",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 238,
+        "unionId": "F175",
+        "type": "biological"
+      },
+      {
+        "id": 624,
+        "unionId": "F175",
+        "type": "biological"
+      },
+      {
+        "id": 625,
+        "unionId": "F175",
+        "type": "biological"
+      },
+      {
+        "id": 626,
+        "unionId": "F175",
+        "type": "biological"
+      },
+      {
+        "id": 627,
+        "unionId": "F175",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000189074168834@",
+    "geniId": "6000000189074168834",
+    "rfn": "geni:6000000189074168834",
+    "changed": "22 SEP 2024"
+  },
+  "page": {
+    "route": "people/623/",
+    "canonical": "https://www.genepedia.org/people/623/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

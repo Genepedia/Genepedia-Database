@@ -1,0 +1,163 @@
+{
+  "id": 4007,
+  "schema": "genepedia/person@1",
+  "slug": "izaak-dawid-van-niekerk",
+  "names": {
+    "display": "Izaak Dawid van Niekerk",
+    "given": "Izaak Dawid",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 APR 1810",
+      "year": 1810,
+      "iso": "1810-04-27",
+      "precision": "exact",
+      "display": "April 27, 1810",
+      "place": "Graaff-Reinet, Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "16 SEP 1810",
+      "year": 1810,
+      "iso": "1810-09-16",
+      "precision": "exact",
+      "display": "September 16, 1810",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4002,
+      4001
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4003,
+      4004,
+      4005,
+      4006,
+      1539,
+      4008,
+      4009,
+      4010,
+      4011,
+      4012
+    ],
+    "parentUnions": [
+      "F936"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4002,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4001,
+        "unionId": "F936",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000018771325630@",
+    "geniId": "6000000018771325630",
+    "rfn": "geni:6000000018771325630",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4007/",
+    "canonical": "https://www.genepedia.org/people/4007/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

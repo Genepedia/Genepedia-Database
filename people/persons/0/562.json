@@ -1,0 +1,176 @@
+{
+  "id": 562,
+  "schema": "genepedia/person@1",
+  "slug": "francois-theron",
+  "names": {
+    "display": "Francois Theron",
+    "given": "Francois",
+    "surname": "Theron",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 SEP 1966",
+      "year": 1966,
+      "iso": "1966-09-29",
+      "precision": "exact",
+      "display": "September 29, 1966",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 NOV 1966",
+      "year": 1966,
+      "iso": "1966-11-06",
+      "precision": "exact",
+      "display": "November 6, 1966",
+      "place": "Du Toitspan, Cape Province, South Africa",
+      "location": {
+        "label": "Du Toitspan, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Du Toitspan",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c4/73/0c/c7/5344486602af85b6/1525350_699625490069601_986000776_n_original.jpg?hash=867225d9b90f67a5c4ea2058e57782cd2655e6420e548b72654966a6be238d33.1789455599",
+      "alt": "Francois Theron"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c4/73/0c/c7/5344486602af85b6/1525350_699625490069601_986000776_n_original.jpg?hash=867225d9b90f67a5c4ea2058e57782cd2655e6420e548b72654966a6be238d33.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      558,
+      213
+    ],
+    "spouses": [
+      1380,
+      1382
+    ],
+    "exSpouses": [],
+    "children": [
+      1381,
+      1383
+    ],
+    "siblings": [
+      559,
+      560,
+      561
+    ],
+    "parentUnions": [
+      "F163"
+    ],
+    "spouseUnions": [
+      "F356",
+      "F357"
+    ],
+    "parentLinks": [
+      {
+        "id": 558,
+        "unionId": "F163",
+        "type": "biological"
+      },
+      {
+        "id": 213,
+        "unionId": "F163",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1380,
+        "unionId": "F356",
+        "role": "wife"
+      },
+      {
+        "id": 1382,
+        "unionId": "F357",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1381,
+        "unionId": "F356",
+        "type": "biological"
+      },
+      {
+        "id": 1383,
+        "unionId": "F357",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227177657@",
+    "geniId": "6000000027227177657",
+    "rfn": "geni:6000000027227177657",
+    "changed": "22 AUG 2024"
+  },
+  "page": {
+    "route": "people/562/",
+    "canonical": "https://www.genepedia.org/people/562/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

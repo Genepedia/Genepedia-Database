@@ -1,0 +1,158 @@
+{
+  "id": 14,
+  "schema": "genepedia/person@1",
+  "slug": "quintin-van-niekerk",
+  "names": {
+    "display": "Quintin Van Niekerk",
+    "given": "Quintin",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "12 FEB 1992",
+      "year": 1992,
+      "iso": "1992-02-12",
+      "precision": "exact",
+      "display": "February 12, 1992",
+      "place": "Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free-State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Bloemfontein, Free-State, South Africa",
+  "lastResidenceLocation": {
+    "label": "Bloemfontein, Free-State, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Bloemfontein",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Free-State",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/7e/dc/00/7d/534448660171e91d/screenshot_2024-06-14_191349_original.jpg?hash=5137a5687a1ffd74ffd46208f3556057ad0a3a40b77f170d0adbcfec73075f24.1789455599",
+      "alt": "Quintin Van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/7e/dc/00/7d/534448660171e91d/screenshot_2024-06-14_191349_original.jpg?hash=5137a5687a1ffd74ffd46208f3556057ad0a3a40b77f170d0adbcfec73075f24.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4,
+      70,
+      16
+    ],
+    "spouses": [
+      19
+    ],
+    "exSpouses": [],
+    "children": [
+      69
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F6",
+      "F24"
+    ],
+    "spouseUnions": [
+      "F23"
+    ],
+    "parentLinks": [
+      {
+        "id": 4,
+        "unionId": "F6",
+        "type": "adopted"
+      },
+      {
+        "id": 70,
+        "unionId": "F24",
+        "type": "biological"
+      },
+      {
+        "id": 16,
+        "unionId": "F24",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 19,
+        "unionId": "F23",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 69,
+        "unionId": "F23",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204045076821@",
+    "geniId": "6000000204045076821",
+    "rfn": "geni:6000000204045076821",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/14/",
+    "canonical": "https://www.genepedia.org/people/14/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

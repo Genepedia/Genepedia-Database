@@ -1,0 +1,83 @@
+{
+  "id": 4178,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-jacobus-pretorius-4178",
+  "names": {
+    "display": "Abraham Jacobus Pretorius",
+    "given": "Abraham Jacobus",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1585,
+      4177
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F978"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1585,
+        "unionId": "F978",
+        "type": "biological"
+      },
+      {
+        "id": 4177,
+        "unionId": "F978",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000002781467494@",
+    "geniId": "6000000002781467494",
+    "rfn": "geni:6000000002781467494",
+    "changed": "23 NOV 2014"
+  },
+  "page": {
+    "route": "people/4178/",
+    "canonical": "https://www.genepedia.org/people/4178/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 657,
+  "schema": "genepedia/person@1",
+  "slug": "neethling",
+  "names": {
+    "display": "? Neethling",
+    "given": "?",
+    "surname": "Neethling",
+    "married": "Neethling",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      251
+    ],
+    "exSpouses": [],
+    "children": [
+      658
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F184"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 251,
+        "unionId": "F184",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 658,
+        "unionId": "F184",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207080729833@",
+    "geniId": "6000000207080729833",
+    "rfn": "geni:6000000207080729833",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/657/",
+    "canonical": "https://www.genepedia.org/people/657/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 2246,
+  "schema": "genepedia/person@1",
+  "slug": "henry-stephen-roselt-2246",
+  "names": {
+    "display": "Henry Stephen Roselt",
+    "given": "Henry Stephen",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      912,
+      2243
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2244,
+      2245,
+      2247,
+      2248,
+      2249
+    ],
+    "parentUnions": [
+      "F571"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 912,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2243,
+        "unionId": "F571",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036072744821@",
+    "geniId": "6000000036072744821",
+    "rfn": "geni:6000000036072744821",
+    "changed": "05 SEP 2016"
+  },
+  "page": {
+    "route": "people/2246/",
+    "canonical": "https://www.genepedia.org/people/2246/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

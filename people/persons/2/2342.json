@@ -1,0 +1,159 @@
+{
+  "id": 2342,
+  "schema": "genepedia/person@1",
+  "slug": "hendricus-styger",
+  "names": {
+    "display": "Hendricus Styger",
+    "given": "Hendricus",
+    "surname": "Styger",
+    "married": "Styger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 MAR 1892",
+      "year": 1892,
+      "iso": "1892-03-08",
+      "precision": "exact",
+      "display": "March 8, 1892",
+      "place": "''Doringfontein'', Distrik Griekwastad",
+      "location": {
+        "label": "''Doringfontein'', Distrik Griekwastad",
+        "placeName": "''Doringfontein''",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Distrik Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "19 OCT 1918",
+      "year": 1918,
+      "iso": "1918-10-19",
+      "precision": "exact",
+      "display": "October 19, 1918",
+      "place": "Vaderhuis, Douglas, Kaapprovinsie",
+      "location": {
+        "label": "Vaderhuis, Douglas, Kaapprovinsie",
+        "placeName": "Vaderhuis",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaapprovinsie",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "17 APR 1892",
+      "year": 1892,
+      "iso": "1892-04-17",
+      "precision": "exact",
+      "display": "April 17, 1892",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Transportryer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2341,
+      2340
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      934,
+      2343,
+      2344,
+      2345
+    ],
+    "parentUnions": [
+      "F592"
+    ],
+    "spouseUnions": [
+      "F1448"
+    ],
+    "parentLinks": [
+      {
+        "id": 2341,
+        "unionId": "F592",
+        "type": "biological"
+      },
+      {
+        "id": 2340,
+        "unionId": "F592",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000202845834837@",
+    "geniId": "6000000202845834837",
+    "rfn": "geni:6000000202845834837",
+    "changed": "10 FEB 2024"
+  },
+  "page": {
+    "route": "people/2342/",
+    "canonical": "https://www.genepedia.org/people/2342/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

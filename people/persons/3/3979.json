@@ -1,0 +1,133 @@
+{
+  "id": 3979,
+  "schema": "genepedia/person@1",
+  "slug": "martha-magdalena-marais",
+  "names": {
+    "display": "Martha Magdalena Marais",
+    "given": "Martha Magdalena",
+    "surname": "Marais",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 JUN 1859",
+      "year": 1859,
+      "iso": "1859-06-16",
+      "precision": "exact",
+      "display": "June 16, 1859",
+      "place": null
+    },
+    "death": {
+      "date": "15 JUL 1883",
+      "year": 1883,
+      "iso": "1883-07-15",
+      "precision": "exact",
+      "display": "July 15, 1883",
+      "place": "Witpan, Kimberley",
+      "location": {
+        "label": "Witpan, Kimberley",
+        "placeName": "Witpan, Kimberley",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1537
+    ],
+    "exSpouses": [],
+    "children": [
+      3980,
+      3981,
+      3982,
+      3983
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F932"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1537,
+        "unionId": "F932",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3980,
+        "unionId": "F932",
+        "type": "biological"
+      },
+      {
+        "id": 3981,
+        "unionId": "F932",
+        "type": "biological"
+      },
+      {
+        "id": 3982,
+        "unionId": "F932",
+        "type": "biological"
+      },
+      {
+        "id": 3983,
+        "unionId": "F932",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000140299502860@",
+    "geniId": "6000000140299502860",
+    "rfn": "geni:6000000140299502860",
+    "changed": "26 JUN 2023"
+  },
+  "page": {
+    "route": "people/3979/",
+    "canonical": "https://www.genepedia.org/people/3979/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4548,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-lurie",
+  "names": {
+    "display": "Daniel Lurie",
+    "given": "Daniel",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1795,
+      4547
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4549,
+      4550
+    ],
+    "parentUnions": [
+      "F1085"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1795,
+        "unionId": "F1085",
+        "type": "biological"
+      },
+      {
+        "id": 4547,
+        "unionId": "F1085",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149185852@",
+    "geniId": "6000000204149185852",
+    "rfn": "geni:6000000204149185852",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/4548/",
+    "canonical": "https://www.genepedia.org/people/4548/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1797,
+  "schema": "genepedia/person@1",
+  "slug": "simon-lurie",
+  "names": {
+    "display": "Simon Lurie",
+    "given": "Simon",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      758,
+      1794
+    ],
+    "spouses": [
+      4553
+    ],
+    "exSpouses": [],
+    "children": [
+      4554
+    ],
+    "siblings": [
+      1795,
+      1796,
+      1798
+    ],
+    "parentUnions": [
+      "F472"
+    ],
+    "spouseUnions": [
+      "F1087"
+    ],
+    "parentLinks": [
+      {
+        "id": 758,
+        "unionId": "F472",
+        "type": "biological"
+      },
+      {
+        "id": 1794,
+        "unionId": "F472",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4553,
+        "unionId": "F1087",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4554,
+        "unionId": "F1087",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149075852@",
+    "geniId": "6000000204149075852",
+    "rfn": "geni:6000000204149075852",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/1797/",
+    "canonical": "https://www.genepedia.org/people/1797/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

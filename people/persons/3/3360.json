@@ -1,0 +1,105 @@
+{
+  "id": 3360,
+  "schema": "genepedia/person@1",
+  "slug": "georgina-stanley",
+  "names": {
+    "display": "Georgina Stanley",
+    "given": "Georgina",
+    "surname": "Stanley",
+    "married": "van Taak",
+    "nick": "Jean",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 OCT 1944",
+      "year": 1944,
+      "iso": "1944-10-13",
+      "precision": "exact",
+      "display": "October 13, 1944",
+      "place": null
+    },
+    "death": {
+      "date": "11 MAR 2019",
+      "year": 2019,
+      "iso": "2019-03-11",
+      "precision": "exact",
+      "display": "March 11, 2019",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1328
+    ],
+    "exSpouses": [],
+    "children": [
+      3361,
+      3362
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F826"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1328,
+        "unionId": "F826",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3361,
+        "unionId": "F826",
+        "type": "biological"
+      },
+      {
+        "id": 3362,
+        "unionId": "F826",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020385911277@",
+    "geniId": "6000000020385911277",
+    "rfn": "geni:6000000020385911277",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3360/",
+    "canonical": "https://www.genepedia.org/people/3360/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

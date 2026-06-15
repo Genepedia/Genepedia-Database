@@ -1,0 +1,198 @@
+{
+  "id": 2993,
+  "schema": "genepedia/person@1",
+  "slug": "james-johannes-jacobus-justus-bean",
+  "names": {
+    "display": "James Johannes Jacobus Justus Bean",
+    "given": "James Johannes Jacobus Justus",
+    "surname": "Bean",
+    "married": "Bean",
+    "nick": "Jimmy",
+    "aliases": [
+      "James Johannes Jacobus Justus Bean"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 AUG 1895",
+      "year": 1895,
+      "iso": "1895-08-11",
+      "precision": "exact",
+      "display": "August 11, 1895",
+      "place": "Niekerkshoop, Northern Cape, South Africa",
+      "location": {
+        "label": "Niekerkshoop, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Niekerkshoop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 OCT 1950",
+      "year": 1950,
+      "iso": "1950-10-01",
+      "precision": "exact",
+      "display": "October 1, 1950",
+      "place": "Kleinmond, Western Cape, South Africa",
+      "location": {
+        "label": "Kleinmond, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kleinmond",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kleinmond, Western Cape, South Africa",
+      "location": {
+        "label": "Kleinmond, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kleinmond",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/0e/79/06/e9/5344485e5dd3b4ec/james_johannes_jacobus_justus_bean_1895-1950_s_original.jpg?hash=097a2afadab8c1365f459da1716e3d3b8e35fc7158f83cf2bc1659edde146cca.1789455599",
+      "alt": "James Johannes Jacobus Justus Bean"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/0e/79/06/e9/5344485e5dd3b4ec/james_johannes_jacobus_justus_bean_1895-1950_s_original.jpg?hash=097a2afadab8c1365f459da1716e3d3b8e35fc7158f83cf2bc1659edde146cca.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/fe/05/4c/f2/53444843b1097530/jimmybean_original.jpg?hash=cb0774ce523dee8c1c2e78255f748850731d30a542529a29471975839172d270.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/71/69/12/3d/534448456b334dbf/oupa_jimmy_se_graf_in_kleinmond_original.jpg?hash=4985ea0986be4df973fee09cdfd9cba5ce71fad63346dd456a2372c6b304fa2a.1789455599",
+        "form": "",
+        "title": "Oupa Jimmy se graf in Kleinmond.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/9a/8e/90/13/5344484afd351672/death_notice_original.jpg?hash=99301647ecfd5071bfe91debaa88ad2e4d23360ea5c326df834e4e4bc82a56b2.1789455599",
+        "form": "",
+        "title": "Death Notice.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1185
+    ],
+    "exSpouses": [],
+    "children": [
+      2994,
+      2995
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F730",
+      "F1878",
+      "F1879"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1185,
+        "unionId": "F730",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2994,
+        "unionId": "F730",
+        "type": "biological"
+      },
+      {
+        "id": 2995,
+        "unionId": "F730",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000063187309890@",
+    "geniId": "6000000063187309890",
+    "rfn": "geni:6000000063187309890",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2993/",
+    "canonical": "https://www.genepedia.org/people/2993/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

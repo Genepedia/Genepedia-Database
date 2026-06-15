@@ -1,0 +1,120 @@
+{
+  "id": 2225,
+  "schema": "genepedia/person@1",
+  "slug": "victor-john-kingsley",
+  "names": {
+    "display": "Victor John Kingsley",
+    "given": "Victor John",
+    "surname": "Kingsley",
+    "married": "Kingsley",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT SEP 1908",
+      "year": 1908,
+      "iso": "1908-09",
+      "precision": "about",
+      "display": "about September 1908",
+      "place": null
+    },
+    "death": {
+      "date": "31 AUG 1912",
+      "year": 1912,
+      "iso": "1912-08-31",
+      "precision": "exact",
+      "display": "August 31, 1912",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2222,
+      2223
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      905,
+      2224,
+      2226,
+      2227,
+      2228,
+      2229
+    ],
+    "parentUnions": [
+      "F565"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2222,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2223,
+        "unionId": "F565",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000061376599000@",
+    "geniId": "6000000061376599000",
+    "rfn": "geni:6000000061376599000",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2225/",
+    "canonical": "https://www.genepedia.org/people/2225/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

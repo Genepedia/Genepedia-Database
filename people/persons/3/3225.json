@@ -1,0 +1,178 @@
+{
+  "id": 3225,
+  "schema": "genepedia/person@1",
+  "slug": "izaak-johannes-mouton",
+  "names": {
+    "display": "Izaak Johannes Mouton",
+    "given": "Izaak Johannes",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 FEB 1861",
+      "year": 1861,
+      "iso": "1861-02-07",
+      "precision": "exact",
+      "display": "February 7, 1861",
+      "place": "Langkuil, Western Cape, South Africa",
+      "location": {
+        "label": "Langkuil, Western Cape, South Africa",
+        "placeName": "Langkuil",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 JAN 1889",
+      "year": 1889,
+      "iso": "1889-01-21",
+      "precision": "exact",
+      "display": "January 21, 1889",
+      "place": "Langkuil, Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Langkuil, Clanwilliam, Western Cape, South Africa",
+        "placeName": "Langkuil",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "27 FEB 1861",
+      "year": 1861,
+      "iso": "1861-02-27",
+      "precision": "exact",
+      "display": "February 27, 1861",
+      "place": "Betyesfontein, Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Betyesfontein, Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Betyesfontein, Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d1/ba/e9/a2/5344484c8db99e79/mouton_izaak_johannes_1861_betyesfontein_clanwilliam_405_-_008121036_original.jpg?hash=ed8a5820684883e98a325ca1dfcb1a9930d239fa9664df032494bd40c3ba439c.1789455599",
+      "alt": "Izaak Johannes Mouton"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d1/ba/e9/a2/5344484c8db99e79/mouton_izaak_johannes_1861_betyesfontein_clanwilliam_405_-_008121036_original.jpg?hash=ed8a5820684883e98a325ca1dfcb1a9930d239fa9664df032494bd40c3ba439c.1789455599",
+        "form": "",
+        "title": "Mouton Izaak Johannes 1861 Betyesfontein Clanwilliam 405 - 008121036.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/33/10/18/ce/53444857773e715e/izak_johannes_mouton_1861_-_1889_original.jpg?hash=4a58883e8af1381e9b9016926b927b9a7e29c25e7428a80e08b2ea2939c38360.1789455599",
+        "form": "",
+        "title": "Izak Johannes Mouton 1861 - 1889.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3223,
+      3222
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3224,
+      1292,
+      3226,
+      3227,
+      3228,
+      3229
+    ],
+    "parentUnions": [
+      "F794"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3223,
+        "unionId": "F794",
+        "type": "biological"
+      },
+      {
+        "id": 3222,
+        "unionId": "F794",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000055623253965@",
+    "geniId": "6000000055623253965",
+    "rfn": "geni:6000000055623253965",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/3225/",
+    "canonical": "https://www.genepedia.org/people/3225/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

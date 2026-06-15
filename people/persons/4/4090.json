@@ -1,0 +1,167 @@
+{
+  "id": 4090,
+  "schema": "genepedia/person@1",
+  "slug": "albertus-petrus-van-zyl",
+  "names": {
+    "display": "Albertus Petrus van Zyl",
+    "given": "Albertus Petrus",
+    "surname": "van Zyl",
+    "married": "van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 JAN 1851",
+      "year": 1851,
+      "iso": "1851-01-29",
+      "precision": "exact",
+      "display": "January 29, 1851",
+      "place": "Wolvepoort, district Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Wolvepoort, district Clanwilliam, Cape Province, South Africa",
+        "placeName": "Wolvepoort, district Clanwilliam, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "19 APR 1927",
+      "year": 1927,
+      "iso": "1927-04-19",
+      "precision": "exact",
+      "display": "April 19, 1927",
+      "place": "Potchefstroom, Transvaal, South Africa",
+      "location": {
+        "label": "Potchefstroom, Transvaal, South Africa",
+        "placeName": "Potchefstroom, Transvaal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/07/92/e1/87/53444842da2a0616/img_6227_original.jpg?hash=4c469087fbce27867fb4ea4d1734a266b4c01979d924750a646c4f889143dd25.1789455599",
+      "alt": "Albertus Petrus van Zyl"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/07/92/e1/87/53444842da2a0616/img_6227_original.jpg?hash=4c469087fbce27867fb4ea4d1734a266b4c01979d924750a646c4f889143dd25.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1551
+    ],
+    "exSpouses": [],
+    "children": [
+      4091,
+      4092,
+      4093,
+      4094,
+      4095
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F948"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1551,
+        "unionId": "F948",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4091,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 4092,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 4093,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 4094,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 4095,
+        "unionId": "F948",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000025685922976@",
+    "geniId": "6000000025685922976",
+    "rfn": "geni:6000000025685922976",
+    "changed": "12 JUN 2023"
+  },
+  "page": {
+    "route": "people/4090/",
+    "canonical": "https://www.genepedia.org/people/4090/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

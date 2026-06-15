@@ -1,0 +1,246 @@
+{
+  "id": 214,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-samuel-de-beer",
+  "names": {
+    "display": "Joseph Samuel de Beer",
+    "given": "Joseph Samuel",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 JUL 1896",
+      "year": 1896,
+      "iso": "1896-07-04",
+      "precision": "exact",
+      "display": "July 4, 1896",
+      "place": "Willowmore, Cape Colony, South Africa",
+      "location": {
+        "label": "Willowmore, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Willowmore",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "14 FEB 1971",
+      "year": 1971,
+      "iso": "1971-02-14",
+      "precision": "exact",
+      "display": "February 14, 1971",
+      "place": "Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Calvinia, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/7c/41/96/0f/5344485f94304a3b/joseph_samuel_de_beer_original.jpg?hash=fe8bc9c32f995d244fd8b8b6ab64c14f9ca848d359650bc241c7bc6d2be1c83b.1789455599",
+      "alt": "Joseph Samuel de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/7c/41/96/0f/5344485f94304a3b/joseph_samuel_de_beer_original.jpg?hash=fe8bc9c32f995d244fd8b8b6ab64c14f9ca848d359650bc241c7bc6d2be1c83b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/b1/95/fb/4c/5344486399e7e090/picture2_original.jpg?hash=092168a3f67db930b618713bd9ba3b73dafedf6a3abbe603679da38be1b29836.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/58/09/7e/af/534448637aebee94/picture2_original.jpg?hash=622f91f175af4ec9b10e76ee46e5dc597b1529fff9e3abcd34a8a0a305cab01a.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      563,
+      564
+    ],
+    "spouses": [
+      215
+    ],
+    "exSpouses": [],
+    "children": [
+      216,
+      217,
+      66,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225
+    ],
+    "siblings": [
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576
+    ],
+    "parentUnions": [
+      "F164"
+    ],
+    "spouseUnions": [
+      "F69"
+    ],
+    "parentLinks": [
+      {
+        "id": 563,
+        "unionId": "F164",
+        "type": "biological"
+      },
+      {
+        "id": 564,
+        "unionId": "F164",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 215,
+        "unionId": "F69",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 216,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 217,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 66,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 218,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 219,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 220,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 221,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 222,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 223,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 224,
+        "unionId": "F69",
+        "type": "biological"
+      },
+      {
+        "id": 225,
+        "unionId": "F69",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028799305901@",
+    "geniId": "6000000028799305901",
+    "rfn": "geni:6000000028799305901",
+    "changed": "23 APR 2024"
+  },
+  "page": {
+    "route": "people/214/",
+    "canonical": "https://www.genepedia.org/people/214/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

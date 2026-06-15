@@ -1,0 +1,83 @@
+{
+  "id": 1574,
+  "schema": "genepedia/person@1",
+  "slug": "izak-david-van-niekerk-1574",
+  "names": {
+    "display": "Izak David van Niekerk",
+    "given": "Izak David",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      632,
+      1573
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F399"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 632,
+        "unionId": "F399",
+        "type": "biological"
+      },
+      {
+        "id": 1573,
+        "unionId": "F399",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207553004825@",
+    "geniId": "6000000207553004825",
+    "rfn": "geni:6000000207553004825",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1574/",
+    "canonical": "https://www.genepedia.org/people/1574/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

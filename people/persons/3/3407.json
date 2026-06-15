@@ -1,0 +1,131 @@
+{
+  "id": 3407,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-jacobus-van-niekerk-3407",
+  "names": {
+    "display": "Dirk Jacobus van Niekerk",
+    "given": "Dirk Jacobus",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 APR 1901",
+      "year": 1901,
+      "iso": "1901-04-13",
+      "precision": "exact",
+      "display": "April 13, 1901",
+      "place": "Cape Town, WC, South Africa",
+      "location": {
+        "label": "Cape Town, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "6 JUN 1985",
+      "year": 1985,
+      "iso": "1985-06-06",
+      "precision": "exact",
+      "display": "June 6, 1985",
+      "place": "Worcester, WC, South Africa",
+      "location": {
+        "label": "Worcester, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "6850",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1339,
+      3406
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3408
+    ],
+    "parentUnions": [
+      "F835"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1339,
+        "unionId": "F835",
+        "type": "biological"
+      },
+      {
+        "id": 3406,
+        "unionId": "F835",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000144416296867@",
+    "geniId": "6000000144416296867",
+    "rfn": "geni:6000000144416296867",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/3407/",
+    "canonical": "https://www.genepedia.org/people/3407/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.197Z"
+}

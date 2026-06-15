@@ -1,0 +1,119 @@
+{
+  "id": 3778,
+  "schema": "genepedia/person@1",
+  "slug": "izak-andries-van-niekerk-van-reenen-3778",
+  "names": {
+    "display": "Izak Andries Van Niekerk Van Reenen",
+    "given": "Izak Andries Van Niekerk",
+    "surname": "Van Reenen",
+    "married": "van Reenen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1891",
+      "year": 1891,
+      "iso": "1891",
+      "precision": "exact",
+      "display": "1891",
+      "place": null
+    },
+    "death": {
+      "date": "1964",
+      "year": 1964,
+      "iso": "1964",
+      "precision": "exact",
+      "display": "1964",
+      "place": "Pretoria, Gauteng, South Africa",
+      "location": {
+        "label": "Pretoria, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3775,
+      1436
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3776,
+      3777,
+      3779,
+      3780,
+      3781
+    ],
+    "parentUnions": [
+      "F902"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3775,
+        "unionId": "F902",
+        "type": "biological"
+      },
+      {
+        "id": 1436,
+        "unionId": "F902",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000009296754673@",
+    "geniId": "6000000009296754673",
+    "rfn": "geni:6000000009296754673",
+    "changed": "01 JAN 2021"
+  },
+  "page": {
+    "route": "people/3778/",
+    "canonical": "https://www.genepedia.org/people/3778/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

@@ -1,0 +1,170 @@
+{
+  "id": 3299,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-sebastiaan-nieuwoudt",
+  "names": {
+    "display": "Gerrit Sebastiaan Nieuwoudt",
+    "given": "Gerrit Sebastiaan",
+    "surname": "Nieuwoudt",
+    "married": "Nieuwoudt",
+    "nick": "Gert",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 APR 1905",
+      "year": 1905,
+      "iso": "1905-04-08",
+      "precision": "exact",
+      "display": "April 8, 1905",
+      "place": "Onderplaats, Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Onderplaats, Clanwilliam, Western Cape, South Africa",
+        "placeName": "Onderplaats",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "25 JUN 1910",
+      "year": 1910,
+      "iso": "1910-06-25",
+      "precision": "exact",
+      "display": "June 25, 1910",
+      "place": "Doornbosch, Clanwilliam, WC, South Africa",
+      "location": {
+        "label": "Doornbosch, Clanwilliam, WC, South Africa",
+        "placeName": "Doornbosch",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "8 AUG 1905",
+      "year": 1905,
+      "iso": "1905-08-08",
+      "precision": "exact",
+      "display": "August 8, 1905",
+      "place": "Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f6/6b/70/3c/5344485e71b7efe5/died_young_-_use_original.jpg?hash=6d090546c5b502426565c9f9be18d654ce7fe9dfa18f56e7801711cf1d328272.1789455599",
+      "alt": "Gerrit Sebastiaan Nieuwoudt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f6/6b/70/3c/5344485e71b7efe5/died_young_-_use_original.jpg?hash=6d090546c5b502426565c9f9be18d654ce7fe9dfa18f56e7801711cf1d328272.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3298,
+      1309
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3300,
+      3301,
+      3302,
+      3303,
+      3304
+    ],
+    "parentUnions": [
+      "F811"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3298,
+        "unionId": "F811",
+        "type": "biological"
+      },
+      {
+        "id": 1309,
+        "unionId": "F811",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021022551037@",
+    "geniId": "6000000021022551037",
+    "rfn": "geni:6000000021022551037",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/3299/",
+    "canonical": "https://www.genepedia.org/people/3299/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

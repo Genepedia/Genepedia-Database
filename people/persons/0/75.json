@@ -1,0 +1,113 @@
+{
+  "id": 75,
+  "schema": "genepedia/person@1",
+  "slug": "tessa-watson",
+  "names": {
+    "display": "Tessa Watson",
+    "given": "Tessa",
+    "surname": "Watson",
+    "married": "Watson",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/17/1a/f5/b8/534448656fc89ab1/screenshot_2024-03-14_011408_original.jpg?hash=b41c83f7a6e624e14e378793c3a738d2bdac390af2acd7a6005ee00586973de8.1789455599",
+      "alt": "Tessa Watson"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/17/1a/f5/b8/534448656fc89ab1/screenshot_2024-03-14_011408_original.jpg?hash=b41c83f7a6e624e14e378793c3a738d2bdac390af2acd7a6005ee00586973de8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      234,
+      235
+    ],
+    "spouses": [
+      18
+    ],
+    "exSpouses": [],
+    "children": [
+      76
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F75"
+    ],
+    "spouseUnions": [
+      "F26"
+    ],
+    "parentLinks": [
+      {
+        "id": 234,
+        "unionId": "F75",
+        "type": "biological"
+      },
+      {
+        "id": 235,
+        "unionId": "F75",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 18,
+        "unionId": "F26",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 76,
+        "unionId": "F26",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204068011871@",
+    "geniId": "6000000204068011871",
+    "rfn": "geni:6000000204068011871",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/75/",
+    "canonical": "https://www.genepedia.org/people/75/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

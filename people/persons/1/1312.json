@@ -1,0 +1,140 @@
+{
+  "id": 1312,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-coetzee",
+  "names": {
+    "display": "Elizabeth Coetzee",
+    "given": "Elizabeth",
+    "surname": "Coetzee",
+    "married": "van Taak",
+    "nick": "Bettie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 DEC 1904",
+      "year": 1904,
+      "iso": "1904-12-05",
+      "precision": "exact",
+      "display": "December 5, 1904",
+      "place": null
+    },
+    "death": {
+      "date": "25 JUN 1992",
+      "year": 1992,
+      "iso": "1992-06-25",
+      "precision": "exact",
+      "display": "June 25, 1992",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3329,
+      3330
+    ],
+    "spouses": [
+      539
+    ],
+    "exSpouses": [],
+    "children": [
+      1313,
+      1314,
+      1315,
+      1316
+    ],
+    "siblings": [
+      3331,
+      3332,
+      3333,
+      3334,
+      3335,
+      1317
+    ],
+    "parentUnions": [
+      "F815"
+    ],
+    "spouseUnions": [
+      "F338"
+    ],
+    "parentLinks": [
+      {
+        "id": 3329,
+        "unionId": "F815",
+        "type": "biological"
+      },
+      {
+        "id": 3330,
+        "unionId": "F815",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 539,
+        "unionId": "F338",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1313,
+        "unionId": "F338",
+        "type": "biological"
+      },
+      {
+        "id": 1314,
+        "unionId": "F338",
+        "type": "biological"
+      },
+      {
+        "id": 1315,
+        "unionId": "F338",
+        "type": "biological"
+      },
+      {
+        "id": 1316,
+        "unionId": "F338",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020383400589@",
+    "geniId": "6000000020383400589",
+    "rfn": "geni:6000000020383400589",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1312/",
+    "canonical": "https://www.genepedia.org/people/1312/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

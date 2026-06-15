@@ -1,0 +1,159 @@
+{
+  "id": 1320,
+  "schema": "genepedia/person@1",
+  "slug": "gerty-visagie",
+  "names": {
+    "display": "Gerty Visagie",
+    "given": "Gerty",
+    "surname": "Visagie",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 JAN 1913",
+      "year": 1913,
+      "iso": "1913-01-04",
+      "precision": "exact",
+      "display": "January 4, 1913",
+      "place": null
+    },
+    "death": {
+      "date": "7 JUL 1998",
+      "year": 1998,
+      "iso": "1998-07-07",
+      "precision": "exact",
+      "display": "July 7, 1998",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Hermanus, Western Cape, South Africa",
+      "location": {
+        "label": "Hermanus, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hermanus",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/68/19/de/43/5344483ae88ff642/taak_andries_louis_van_1910-1985_gerty_visagie_1913-1998_-_hermanus_original.jpg?hash=f3a33ed6d7baf083995e7104d4f65ec0031fd6169da7ac4374bfc9b2085bb6bd.1789455599",
+      "alt": "Gerty Visagie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/68/19/de/43/5344483ae88ff642/taak_andries_louis_van_1910-1985_gerty_visagie_1913-1998_-_hermanus_original.jpg?hash=f3a33ed6d7baf083995e7104d4f65ec0031fd6169da7ac4374bfc9b2085bb6bd.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      543
+    ],
+    "exSpouses": [],
+    "children": [
+      1321,
+      1322,
+      1323,
+      1324,
+      1325
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F341"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 543,
+        "unionId": "F341",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1321,
+        "unionId": "F341",
+        "type": "biological"
+      },
+      {
+        "id": 1322,
+        "unionId": "F341",
+        "type": "biological"
+      },
+      {
+        "id": 1323,
+        "unionId": "F341",
+        "type": "biological"
+      },
+      {
+        "id": 1324,
+        "unionId": "F341",
+        "type": "biological"
+      },
+      {
+        "id": 1325,
+        "unionId": "F341",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020383945712@",
+    "geniId": "6000000020383945712",
+    "rfn": "geni:6000000020383945712",
+    "changed": "05 DEC 2016"
+  },
+  "page": {
+    "route": "people/1320/",
+    "canonical": "https://www.genepedia.org/people/1320/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

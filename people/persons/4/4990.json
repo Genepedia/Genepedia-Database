@@ -1,0 +1,162 @@
+{
+  "id": 4990,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-maria-dorothea-vermeulen",
+  "names": {
+    "display": "Magdalena Maria Dorothea Vermeulen",
+    "given": "Magdalena Maria Dorothea",
+    "surname": "Vermeulen",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 FEB 1911",
+      "year": 1911,
+      "iso": "1911-02-19",
+      "precision": "exact",
+      "display": "February 19, 1911",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 NOV 1999",
+      "year": 1999,
+      "iso": "1999-11-11",
+      "precision": "exact",
+      "display": "November 11, 1999",
+      "place": null
+    },
+    "baptism": {
+      "date": "9 JUL 1911",
+      "year": 1911,
+      "iso": "1911-07-09",
+      "precision": "exact",
+      "display": "July 9, 1911",
+      "place": "New Cemetery, Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "New Cemetery, Griekwastad, Northern Cape, South Africa",
+        "placeName": "New Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1938
+    ],
+    "exSpouses": [],
+    "children": [
+      4991
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1184"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1938,
+        "unionId": "F1184",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4991,
+        "unionId": "F1184",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024579389275@",
+    "geniId": "6000000024579389275",
+    "rfn": "geni:6000000024579389275",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4990/",
+    "canonical": "https://www.genepedia.org/people/4990/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

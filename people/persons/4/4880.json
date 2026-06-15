@@ -1,0 +1,102 @@
+{
+  "id": 4880,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-bester-botes",
+  "names": {
+    "display": "Michiel Bester Botes",
+    "given": "Michiel Bester",
+    "surname": "Botes",
+    "married": "Botes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "2 JUN 1929",
+      "year": 1929,
+      "iso": "1929-06-02",
+      "precision": "exact",
+      "display": "June 2, 1929",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "produksievoorman",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4874,
+      1910
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4875,
+      4876,
+      4877,
+      4878,
+      4879,
+      4881,
+      4882,
+      4883,
+      4884,
+      4885,
+      4886
+    ],
+    "parentUnions": [
+      "F1161"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4874,
+        "unionId": "F1161",
+        "type": "biological"
+      },
+      {
+        "id": 1910,
+        "unionId": "F1161",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066760315956@",
+    "geniId": "6000000066760315956",
+    "rfn": "geni:6000000066760315956",
+    "changed": "14 JAN 2022"
+  },
+  "page": {
+    "route": "people/4880/",
+    "canonical": "https://www.genepedia.org/people/4880/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

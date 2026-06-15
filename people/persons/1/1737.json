@@ -1,0 +1,103 @@
+{
+  "id": 1737,
+  "schema": "genepedia/person@1",
+  "slug": "np-bester",
+  "names": {
+    "display": "NP Bester",
+    "given": "NP",
+    "surname": "Bester",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      724
+    ],
+    "exSpouses": [],
+    "children": [
+      1738,
+      1739,
+      1740,
+      1741
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F456"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 724,
+        "unionId": "F456",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1738,
+        "unionId": "F456",
+        "type": "biological"
+      },
+      {
+        "id": 1739,
+        "unionId": "F456",
+        "type": "biological"
+      },
+      {
+        "id": 1740,
+        "unionId": "F456",
+        "type": "biological"
+      },
+      {
+        "id": 1741,
+        "unionId": "F456",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204900696831@",
+    "geniId": "6000000204900696831",
+    "rfn": "geni:6000000204900696831",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/1737/",
+    "canonical": "https://www.genepedia.org/people/1737/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

@@ -1,0 +1,110 @@
+{
+  "id": 2253,
+  "schema": "genepedia/person@1",
+  "slug": "john-henry-roselt-2253",
+  "names": {
+    "display": "John Henry Roselt",
+    "given": "John Henry",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "Johnny",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 JUN 1958",
+      "year": 1958,
+      "iso": "1958-06-24",
+      "precision": "exact",
+      "display": "June 24, 1958",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f1/d3/e9/9d/5344484027d5e8f7/biw86ses_original.jpg?hash=484aa266aa4de54d8350fc13830c5d026f9ec4cbd55757149c315186500b203c.1789455599",
+      "alt": "John Henry Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f1/d3/e9/9d/5344484027d5e8f7/biw86ses_original.jpg?hash=484aa266aa4de54d8350fc13830c5d026f9ec4cbd55757149c315186500b203c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      913,
+      2250
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2251,
+      2252,
+      2254,
+      2255,
+      2256
+    ],
+    "parentUnions": [
+      "F572"
+    ],
+    "spouseUnions": [
+      "F1395"
+    ],
+    "parentLinks": [
+      {
+        "id": 913,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2250,
+        "unionId": "F572",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029217721255@",
+    "geniId": "6000000029217721255",
+    "rfn": "geni:6000000029217721255",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2253/",
+    "canonical": "https://www.genepedia.org/people/2253/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,111 @@
+{
+  "id": 2069,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-jacoba-bester",
+  "names": {
+    "display": "Johanna Jacoba Bester",
+    "given": "Johanna Jacoba",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "8 JUN 1973",
+      "year": 1973,
+      "iso": "1973-06-08",
+      "precision": "exact",
+      "display": "June 8, 1973",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      854,
+      2067
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2068,
+      2070
+    ],
+    "parentUnions": [
+      "F539"
+    ],
+    "spouseUnions": [
+      "F1276"
+    ],
+    "parentLinks": [
+      {
+        "id": 854,
+        "unionId": "F539",
+        "type": "biological"
+      },
+      {
+        "id": 2067,
+        "unionId": "F539",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066587955998@",
+    "geniId": "6000000066587955998",
+    "rfn": "geni:6000000066587955998",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/2069/",
+    "canonical": "https://www.genepedia.org/people/2069/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

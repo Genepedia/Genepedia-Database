@@ -1,0 +1,167 @@
+{
+  "id": 1335,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-hendrika-jacoba-prins",
+  "names": {
+    "display": "Johanna Hendrika Jacoba Prins",
+    "given": "Johanna Hendrika Jacoba",
+    "surname": "Prins",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 MAY 1838",
+      "year": 1838,
+      "iso": "1838-05-04",
+      "precision": "exact",
+      "display": "May 4, 1838",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3383,
+      3384
+    ],
+    "spouses": [
+      1336
+    ],
+    "exSpouses": [],
+    "children": [
+      1337,
+      1338,
+      546,
+      1339,
+      1340,
+      1341,
+      1342
+    ],
+    "siblings": [
+      3385,
+      3386,
+      3387,
+      3388,
+      3389,
+      3390
+    ],
+    "parentUnions": [
+      "F832"
+    ],
+    "spouseUnions": [
+      "F345"
+    ],
+    "parentLinks": [
+      {
+        "id": 3383,
+        "unionId": "F832",
+        "type": "biological"
+      },
+      {
+        "id": 3384,
+        "unionId": "F832",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1336,
+        "unionId": "F345",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1337,
+        "unionId": "F345",
+        "type": "biological"
+      },
+      {
+        "id": 1338,
+        "unionId": "F345",
+        "type": "biological"
+      },
+      {
+        "id": 546,
+        "unionId": "F345",
+        "type": "biological"
+      },
+      {
+        "id": 1339,
+        "unionId": "F345",
+        "type": "biological"
+      },
+      {
+        "id": 1340,
+        "unionId": "F345",
+        "type": "biological"
+      },
+      {
+        "id": 1341,
+        "unionId": "F345",
+        "type": "biological"
+      },
+      {
+        "id": 1342,
+        "unionId": "F345",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000131462704967@",
+    "geniId": "6000000131462704967",
+    "rfn": "geni:6000000131462704967",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/1335/",
+    "canonical": "https://www.genepedia.org/people/1335/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

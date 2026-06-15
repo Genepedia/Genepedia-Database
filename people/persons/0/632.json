@@ -1,0 +1,148 @@
+{
+  "id": 632,
+  "schema": "genepedia/person@1",
+  "slug": "david-hendrik-van-niekerk",
+  "names": {
+    "display": "David Hendrik van Niekerk",
+    "given": "David Hendrik",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 AUG 1883",
+      "year": 1883,
+      "iso": "1883-08-31",
+      "precision": "exact",
+      "display": "August 31, 1883",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 APR 1964",
+      "year": 1964,
+      "iso": "1964-04-09",
+      "precision": "exact",
+      "display": "April 9, 1964",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ad/4b/bf/33/534448663f799859/thumb200s_original.jpg?hash=38235dad663e03afd03b887d9749a9a8551da16d26a87bf7273360f80e7de45e.1789455599",
+      "alt": "David Hendrik van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ad/4b/bf/33/534448663f799859/thumb200s_original.jpg?hash=38235dad663e03afd03b887d9749a9a8551da16d26a87bf7273360f80e7de45e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      628,
+      629
+    ],
+    "spouses": [
+      1573
+    ],
+    "exSpouses": [],
+    "children": [
+      1574
+    ],
+    "siblings": [
+      239,
+      630,
+      631,
+      633
+    ],
+    "parentUnions": [
+      "F176"
+    ],
+    "spouseUnions": [
+      "F399"
+    ],
+    "parentLinks": [
+      {
+        "id": 628,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 629,
+        "unionId": "F176",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1573,
+        "unionId": "F399",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1574,
+        "unionId": "F399",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024837818840@",
+    "geniId": "6000000024837818840",
+    "rfn": "geni:6000000024837818840",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/632/",
+    "canonical": "https://www.genepedia.org/people/632/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

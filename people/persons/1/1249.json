@@ -1,0 +1,85 @@
+{
+  "id": 1249,
+  "schema": "genepedia/person@1",
+  "slug": "davies",
+  "names": {
+    "display": "? Davies",
+    "given": "?",
+    "surname": "Davies",
+    "married": "Davies",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1247,
+      512
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1248
+    ],
+    "parentUnions": [
+      "F326"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1247,
+        "unionId": "F326",
+        "type": "biological"
+      },
+      {
+        "id": 512,
+        "unionId": "F326",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207189009822@",
+    "geniId": "6000000207189009822",
+    "rfn": "geni:6000000207189009822",
+    "changed": "09 JUL 2024"
+  },
+  "page": {
+    "route": "people/1249/",
+    "canonical": "https://www.genepedia.org/people/1249/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 4433,
+  "schema": "genepedia/person@1",
+  "slug": "stanley-peter-quinn",
+  "names": {
+    "display": "Stanley Peter Quinn",
+    "given": "Stanley Peter",
+    "surname": "Quinn",
+    "married": "Quinn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1734,
+      4432
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1051"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1734,
+        "unionId": "F1051",
+        "type": "adopted"
+      },
+      {
+        "id": 4432,
+        "unionId": "F1051",
+        "type": "adopted"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204901702835@",
+    "geniId": "6000000204901702835",
+    "rfn": "geni:6000000204901702835",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/4433/",
+    "canonical": "https://www.genepedia.org/people/4433/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

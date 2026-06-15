@@ -1,0 +1,97 @@
+{
+  "id": 322,
+  "schema": "genepedia/person@1",
+  "slug": "du-preez",
+  "names": {
+    "display": "? Du Preez",
+    "given": "?",
+    "surname": "Du Preez",
+    "married": "Du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      323
+    ],
+    "exSpouses": [],
+    "children": [
+      324,
+      325,
+      124
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F104"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 323,
+        "unionId": "F104",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 324,
+        "unionId": "F104",
+        "type": "biological"
+      },
+      {
+        "id": 325,
+        "unionId": "F104",
+        "type": "biological"
+      },
+      {
+        "id": 124,
+        "unionId": "F104",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000212045544823@",
+    "geniId": "6000000212045544823",
+    "rfn": "geni:6000000212045544823",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/322/",
+    "canonical": "https://www.genepedia.org/people/322/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

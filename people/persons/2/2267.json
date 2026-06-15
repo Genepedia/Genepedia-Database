@@ -1,0 +1,108 @@
+{
+  "id": 2267,
+  "schema": "genepedia/person@1",
+  "slug": "marius-kruger",
+  "names": {
+    "display": "Marius Kruger",
+    "given": "Marius",
+    "surname": "Kruger",
+    "married": "Kruger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "14 NOV 1964",
+      "year": 1964,
+      "iso": "1964-11-14",
+      "precision": "exact",
+      "display": "November 14, 1964",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/41/1c/9c/bc/5344484dd668e567/marius_kruger_original.jpg?hash=83571efe9c19f665ca64ad8010ddf5ab0508f2ee420f9fc3fb996d53d7de1165.1789455599",
+      "alt": "Marius Kruger"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/41/1c/9c/bc/5344484dd668e567/marius_kruger_original.jpg?hash=83571efe9c19f665ca64ad8010ddf5ab0508f2ee420f9fc3fb996d53d7de1165.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2264,
+      915
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2265,
+      2266,
+      2268
+    ],
+    "parentUnions": [
+      "F574"
+    ],
+    "spouseUnions": [
+      "F1407"
+    ],
+    "parentLinks": [
+      {
+        "id": 2264,
+        "unionId": "F574",
+        "type": "biological"
+      },
+      {
+        "id": 915,
+        "unionId": "F574",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029818702851@",
+    "geniId": "6000000029818702851",
+    "rfn": "geni:6000000029818702851",
+    "changed": "08 AUG 2019"
+  },
+  "page": {
+    "route": "people/2267/",
+    "canonical": "https://www.genepedia.org/people/2267/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

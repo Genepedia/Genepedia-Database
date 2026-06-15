@@ -1,0 +1,226 @@
+{
+  "id": 1550,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-snyders",
+  "names": {
+    "display": "Maria Elizabeth Snyders",
+    "given": "Maria Elizabeth",
+    "surname": "Snyders",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 NOV 1827",
+      "year": 1827,
+      "iso": "1827-11-23",
+      "precision": "exact",
+      "display": "November 23, 1827",
+      "place": "Beaufort West, Cape Colony, South Africa",
+      "location": {
+        "label": "Beaufort West, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 DEC 1905",
+      "year": 1905,
+      "iso": "1905-12-01",
+      "precision": "exact",
+      "display": "December 1, 1905",
+      "place": "Bloemhof, Transvaal Colony, South Africa",
+      "location": {
+        "label": "Bloemhof, Transvaal Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4078,
+      4077
+    ],
+    "spouses": [
+      1549,
+      4074
+    ],
+    "exSpouses": [],
+    "children": [
+      1551,
+      1552,
+      629,
+      1553,
+      1554,
+      1555,
+      1556,
+      1557,
+      1558,
+      4075,
+      4076
+    ],
+    "siblings": [
+      4079,
+      4080,
+      4081,
+      4082,
+      4083,
+      4084,
+      4085,
+      4086,
+      4087,
+      4088,
+      4089
+    ],
+    "parentUnions": [
+      "F947"
+    ],
+    "spouseUnions": [
+      "F396",
+      "F946"
+    ],
+    "parentLinks": [
+      {
+        "id": 4078,
+        "unionId": "F947",
+        "type": "biological"
+      },
+      {
+        "id": 4077,
+        "unionId": "F947",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1549,
+        "unionId": "F396",
+        "role": "partner"
+      },
+      {
+        "id": 4074,
+        "unionId": "F946",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1551,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1552,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 629,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1553,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1554,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1555,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1556,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1557,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1558,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 4075,
+        "unionId": "F946",
+        "type": "biological"
+      },
+      {
+        "id": 4076,
+        "unionId": "F946",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000084729715918@",
+    "geniId": "6000000084729715918",
+    "rfn": "geni:6000000084729715918",
+    "changed": "14 FEB 2025"
+  },
+  "page": {
+    "route": "people/1550/",
+    "canonical": "https://www.genepedia.org/people/1550/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

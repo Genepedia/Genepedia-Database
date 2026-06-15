@@ -1,0 +1,110 @@
+{
+  "id": 3502,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-stephanus-de-beer",
+  "names": {
+    "display": "Marthinus Stephanus de Beer",
+    "given": "Marthinus Stephanus",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 JUL 1878",
+      "year": 1878,
+      "iso": "1878-07-17",
+      "precision": "exact",
+      "display": "July 17, 1878",
+      "place": null
+    },
+    "death": {
+      "date": "11 SEP 1963",
+      "year": 1963,
+      "iso": "1963-09-11",
+      "precision": "exact",
+      "display": "September 11, 1963",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1386,
+      3497
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3498,
+      3499,
+      3500,
+      3501,
+      3503,
+      3504,
+      3505,
+      3506,
+      3507,
+      3508,
+      3509,
+      3510
+    ],
+    "parentUnions": [
+      "F858"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1386,
+        "unionId": "F858",
+        "type": "biological"
+      },
+      {
+        "id": 3497,
+        "unionId": "F858",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028798751749@",
+    "geniId": "6000000028798751749",
+    "rfn": "geni:6000000028798751749",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3502/",
+    "canonical": "https://www.genepedia.org/people/3502/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 3071,
+  "schema": "genepedia/person@1",
+  "slug": "fourie-venter",
+  "names": {
+    "display": "Fourie Venter",
+    "given": "Fourie",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "2 AUG 1999",
+      "year": 1999,
+      "iso": "1999-08-02",
+      "precision": "exact",
+      "display": "August 2, 1999",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1229,
+      3069
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3070
+    ],
+    "parentUnions": [
+      "F755"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1229,
+        "unionId": "F755",
+        "type": "biological"
+      },
+      {
+        "id": 3069,
+        "unionId": "F755",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000222126347906@",
+    "geniId": "6000000222126347906",
+    "rfn": "geni:6000000222126347906",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3071/",
+    "canonical": "https://www.genepedia.org/people/3071/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

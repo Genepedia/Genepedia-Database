@@ -1,0 +1,175 @@
+{
+  "id": 3110,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-maria-de-villiers",
+  "names": {
+    "display": "Elizabeth Maria de Villiers",
+    "given": "Elizabeth Maria",
+    "surname": "de Villiers",
+    "married": "de Villiers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 MAY 1911",
+      "year": 1911,
+      "iso": "1911-05-09",
+      "precision": "exact",
+      "display": "May 9, 1911",
+      "place": null
+    },
+    "death": {
+      "date": "9 JAN 1986",
+      "year": 1986,
+      "iso": "1986-01-09",
+      "precision": "exact",
+      "display": "January 9, 1986",
+      "place": null
+    },
+    "baptism": {
+      "date": "2 JUL 1911",
+      "year": 1911,
+      "iso": "1911-07-02",
+      "precision": "exact",
+      "display": "July 2, 1911",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/a5/eb/35/34/5344483b719aaf2e/van_wyk_-_marthinus_jacobus_original.png?hash=a2e1c7bf733d646759c0a51a98f1f2d19f2354187809eb7da5908a47bae47fd4.1789455599",
+      "alt": "Elizabeth Maria de Villiers"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/a5/eb/35/34/5344483b719aaf2e/van_wyk_-_marthinus_jacobus_original.png?hash=a2e1c7bf733d646759c0a51a98f1f2d19f2354187809eb7da5908a47bae47fd4.1789455599",
+        "form": "",
+        "title": "Partial Van Wyk Family Tree",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/fd/24/aa/e6/5344483b7c5b13c2/main_original.png?hash=137b87402405e9b0c62a041319a1a9401efa663a055f615b2c7bf39c1604514f.1789455599",
+        "form": "",
+        "title": "WYK Johannes Willem, van 1903-1986 & Elizabeth Maria DE VILLIERS 1911-1986",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/49/c0/35/1e/5344483fba50faec/beaufort-west_marriage_27_jan_1936_johannes_willem_van_wyk_and_elizabeth_maria_de_villiers_original.jpg?hash=9406b6238473ceb9c37a8e2e1af38135a40974a502ff9eb7fd5a38656c8d09a1.1789455599",
+        "form": "",
+        "title": "Beaufort-West Marriage 27 Jan 1936 Johannes Willem van Wyk and Elizabeth Maria de Villiers",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3109,
+      1254
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3111,
+      3112,
+      3113,
+      3114
+    ],
+    "parentUnions": [
+      "F771"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3109,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 1254,
+        "unionId": "F771",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000023475350492@",
+    "geniId": "6000000023475350492",
+    "rfn": "geni:6000000023475350492",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3110/",
+    "canonical": "https://www.genepedia.org/people/3110/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

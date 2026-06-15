@@ -1,0 +1,126 @@
+{
+  "id": 1405,
+  "schema": "genepedia/person@1",
+  "slug": "anna-francina-meintjes-fa",
+  "names": {
+    "display": "Anna Francina Meintjes fA",
+    "given": "Anna Francina",
+    "surname": "Meintjes",
+    "married": "Freud",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 JAN 1864",
+      "year": 1864,
+      "iso": "1864-01-28",
+      "precision": "exact",
+      "display": "January 28, 1864",
+      "place": "Aberdeen, Cape, South Africa",
+      "location": {
+        "label": "Aberdeen, Cape, South Africa",
+        "placeName": "Aberdeen",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1396,
+      1395
+    ],
+    "spouses": [
+      3662
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1397,
+      1398,
+      1399,
+      1400,
+      564,
+      1401,
+      1402,
+      1403,
+      1404
+    ],
+    "parentUnions": [
+      "F359"
+    ],
+    "spouseUnions": [
+      "F879"
+    ],
+    "parentLinks": [
+      {
+        "id": 1396,
+        "unionId": "F359",
+        "type": "biological"
+      },
+      {
+        "id": 1395,
+        "unionId": "F359",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3662,
+        "unionId": "F879",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000010560881285@",
+    "geniId": "6000000010560881285",
+    "rfn": "geni:6000000010560881285",
+    "changed": "30 DEC 2023"
+  },
+  "page": {
+    "route": "people/1405/",
+    "canonical": "https://www.genepedia.org/people/1405/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

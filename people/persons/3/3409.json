@@ -1,0 +1,85 @@
+{
+  "id": 3409,
+  "schema": "genepedia/person@1",
+  "slug": "pn-nn",
+  "names": {
+    "display": "Pn NN",
+    "given": "Pn",
+    "surname": "NN",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1340
+    ],
+    "exSpouses": [],
+    "children": [
+      3410
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F836"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1340,
+        "unionId": "F836",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3410,
+        "unionId": "F836",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000044297237231@",
+    "geniId": "6000000044297237231",
+    "rfn": "geni:6000000044297237231",
+    "changed": "24 JUL 2016"
+  },
+  "page": {
+    "route": "people/3409/",
+    "canonical": "https://www.genepedia.org/people/3409/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.197Z"
+}

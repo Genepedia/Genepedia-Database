@@ -1,0 +1,179 @@
+{
+  "id": 3344,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-johannes-van-zyl",
+  "names": {
+    "display": "Abraham Johannes van Zyl",
+    "given": "Abraham Johannes",
+    "surname": "van Zyl",
+    "married": "van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 NOV 1882",
+      "year": 1882,
+      "iso": "1882-11-28",
+      "precision": "exact",
+      "display": "November 28, 1882",
+      "place": "Kalkgat, Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Kalkgat, Calvinia, Cape Province, South Africa",
+        "placeName": "Kalkgat",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 FEB 1915",
+      "year": 1915,
+      "iso": "1915-02-18",
+      "precision": "exact",
+      "display": "February 18, 1915",
+      "place": "Kalkgat, Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Kalkgat, Calvinia, Cape Province, South Africa",
+        "placeName": "Kalkgat, Calvinia, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "14 JAN 1883",
+      "year": 1883,
+      "iso": "1883-01-14",
+      "precision": "exact",
+      "display": "January 14, 1883",
+      "place": "Callvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Callvinia, Cape Province, South Africa",
+        "placeName": "Callvinia, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/8d/88/0d/66/53444865786a811d/abw_pow_bermuda_original.jpg?hash=dfb4636bbc4f0f8c8972a01e80330855861572097786f74cc2d049c7bcca64fb.1789455599",
+      "alt": "Abraham Johannes van Zyl"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/8d/88/0d/66/53444865786a811d/abw_pow_bermuda_original.jpg?hash=dfb4636bbc4f0f8c8972a01e80330855861572097786f74cc2d049c7bcca64fb.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/02/01/27/66/53444861a43eb8b5/leage_of_veterans_original.jpg?hash=2054e47e20a1cba65d6545b1dc2ba3d65ad72c367761e677ec82d29c8630cbda.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3343
+    ],
+    "exSpouses": [],
+    "children": [
+      3345,
+      1319
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F820"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3343,
+        "unionId": "F820",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3345,
+        "unionId": "F820",
+        "type": "biological"
+      },
+      {
+        "id": 1319,
+        "unionId": "F820",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000025656957830@",
+    "geniId": "6000000025656957830",
+    "rfn": "geni:6000000025656957830",
+    "changed": "18 MAR 2024"
+  },
+  "page": {
+    "route": "people/3344/",
+    "canonical": "https://www.genepedia.org/people/3344/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

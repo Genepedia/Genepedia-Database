@@ -1,0 +1,176 @@
+{
+  "id": 3929,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-elizabeth-vermeulen",
+  "names": {
+    "display": "Johanna Elizabeth Vermeulen",
+    "given": "Johanna Elizabeth",
+    "surname": "Vermeulen",
+    "married": "Beyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 JUN 1877",
+      "year": 1877,
+      "iso": "1877-06-21",
+      "precision": "exact",
+      "display": "June 21, 1877",
+      "place": "Slytklip, Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Slytklip, Kimberley, Northern Cape, South Africa",
+        "placeName": "Slytklip",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "22 OCT 1918",
+      "year": 1918,
+      "iso": "1918-10-22",
+      "precision": "exact",
+      "display": "October 22, 1918",
+      "place": "Randfontein, Transvaal, South Africa",
+      "location": {
+        "label": "Randfontein, Transvaal, South Africa",
+        "placeName": "Randfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "4 NOV 1877",
+      "year": 1877,
+      "iso": "1877-11-04",
+      "precision": "exact",
+      "display": "November 4, 1877",
+      "place": null
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Urban area / Gauteng, KRUGERSDORP, Burgershoop cemetery, South Africa",
+      "location": {
+        "label": "Urban area / Gauteng, KRUGERSDORP, Burgershoop cemetery, South Africa",
+        "placeName": "Urban area / Gauteng, KRUGERSDORP, Burgershoop cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3921,
+      1533
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3922,
+      3923,
+      3924,
+      3925,
+      3926,
+      3927,
+      3928,
+      3930,
+      3931,
+      3932,
+      3933,
+      3934,
+      3935,
+      3936,
+      3937
+    ],
+    "parentUnions": [
+      "F925"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3921,
+        "unionId": "F925",
+        "type": "biological"
+      },
+      {
+        "id": 1533,
+        "unionId": "F925",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024929017277@",
+    "geniId": "6000000024929017277",
+    "rfn": "geni:6000000024929017277",
+    "changed": "10 OCT 2025"
+  },
+  "page": {
+    "route": "people/3929/",
+    "canonical": "https://www.genepedia.org/people/3929/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

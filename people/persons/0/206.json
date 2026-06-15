@@ -1,0 +1,118 @@
+{
+  "id": 206,
+  "schema": "genepedia/person@1",
+  "slug": "andre-marais",
+  "names": {
+    "display": "André Marais",
+    "given": "André",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "20 AUG 1996",
+      "year": 1996,
+      "iso": "1996-08-20",
+      "precision": "exact",
+      "display": "August 20, 1996",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/6d/5e/53/c8/534448659f2f8d82/whatsapp_image_2024-04-06_at_19_original.jpg?hash=bf0e62ba3d20a4b5833d83da6b5d67ec93fa8536d2174212278062502c7f93fa.1789455599",
+      "alt": "André Marais"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/6d/5e/53/c8/534448659f2f8d82/whatsapp_image_2024-04-06_at_19_original.jpg?hash=bf0e62ba3d20a4b5833d83da6b5d67ec93fa8536d2174212278062502c7f93fa.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      63,
+      205
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F65"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 63,
+        "unionId": "F65",
+        "type": "biological"
+      },
+      {
+        "id": 205,
+        "unionId": "F65",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204060815856@",
+    "geniId": "6000000204060815856",
+    "rfn": "geni:6000000204060815856",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/206/",
+    "canonical": "https://www.genepedia.org/people/206/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

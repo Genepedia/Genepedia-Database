@@ -1,0 +1,191 @@
+{
+  "id": 1066,
+  "schema": "genepedia/person@1",
+  "slug": "jan-adam-petrus-graaff",
+  "names": {
+    "display": "Jan Adam Petrus Graaff",
+    "given": "Jan Adam Petrus",
+    "surname": "Graaff",
+    "married": "de Graaff",
+    "nick": "Graaf",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 OCT 1786",
+      "year": 1786,
+      "iso": "1786-10-25",
+      "precision": "exact",
+      "display": "October 25, 1786",
+      "place": "Paarl, Western Cape, South Africa",
+      "location": {
+        "label": "Paarl, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "2 JAN 1787",
+      "year": 1787,
+      "iso": "1787-01-02",
+      "precision": "exact",
+      "display": "January 2, 1787",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2608,
+      2607
+    ],
+    "spouses": [
+      1065
+    ],
+    "exSpouses": [],
+    "children": [
+      430,
+      1067,
+      1068,
+      1069,
+      1070,
+      1071,
+      1072,
+      1073,
+      1074
+    ],
+    "siblings": [
+      2609,
+      2610,
+      2611,
+      2612,
+      2613,
+      2614,
+      2615,
+      2616,
+      2617,
+      2618,
+      2619
+    ],
+    "parentUnions": [
+      "F643"
+    ],
+    "spouseUnions": [
+      "F286"
+    ],
+    "parentLinks": [
+      {
+        "id": 2608,
+        "unionId": "F643",
+        "type": "biological"
+      },
+      {
+        "id": 2607,
+        "unionId": "F643",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1065,
+        "unionId": "F286",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 430,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1067,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1068,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1069,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1070,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1071,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1072,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1073,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1074,
+        "unionId": "F286",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000023040385971@",
+    "geniId": "6000000023040385971",
+    "rfn": "geni:6000000023040385971",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1066/",
+    "canonical": "https://www.genepedia.org/people/1066/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

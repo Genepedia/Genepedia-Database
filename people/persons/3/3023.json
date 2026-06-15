@@ -1,0 +1,109 @@
+{
+  "id": 3023,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-jacobus-fourie",
+  "names": {
+    "display": "Petrus Jacobus Fourie",
+    "given": "Petrus Jacobus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/f5/5e/11/86/534448683fcb6f2b/image_original.jpg?hash=277faa8c8cf741719f8026fb08b665745a19b2a48b004c775eafc1c9f9baa60f.1789455599",
+      "alt": "Petrus Jacobus Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/f5/5e/11/86/534448683fcb6f2b/image_original.jpg?hash=277faa8c8cf741719f8026fb08b665745a19b2a48b004c775eafc1c9f9baa60f.1789455599",
+        "form": "",
+        "title": "image - trou 1933 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1201
+    ],
+    "exSpouses": [],
+    "children": [
+      3024,
+      3025,
+      3026
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F740"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1201,
+        "unionId": "F740",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3024,
+        "unionId": "F740",
+        "type": "biological"
+      },
+      {
+        "id": 3025,
+        "unionId": "F740",
+        "type": "biological"
+      },
+      {
+        "id": 3026,
+        "unionId": "F740",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209123331831@",
+    "geniId": "6000000209123331831",
+    "rfn": "geni:6000000209123331831",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/3023/",
+    "canonical": "https://www.genepedia.org/people/3023/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

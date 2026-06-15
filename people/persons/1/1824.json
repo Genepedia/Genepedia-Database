@@ -1,0 +1,97 @@
+{
+  "id": 1824,
+  "schema": "genepedia/person@1",
+  "slug": "botha",
+  "names": {
+    "display": "? Botha",
+    "given": "?",
+    "surname": "Botha",
+    "married": "Botha",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/86/f0/78/a7/5344486624391470/screenshot_2024-07-06_111742_original.jpg?hash=1944a0e70fc6f7d50947f4ff40e91c6689ce4e6f93da3c7e59719933548f6836.1789455599",
+      "alt": "? Botha"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/86/f0/78/a7/5344486624391470/screenshot_2024-07-06_111742_original.jpg?hash=1944a0e70fc6f7d50947f4ff40e91c6689ce4e6f93da3c7e59719933548f6836.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1825
+    ],
+    "exSpouses": [],
+    "children": [
+      791
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F482"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1825,
+        "unionId": "F482",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 791,
+        "unionId": "F482",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207096518860@",
+    "geniId": "6000000207096518860",
+    "rfn": "geni:6000000207096518860",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/1824/",
+    "canonical": "https://www.genepedia.org/people/1824/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

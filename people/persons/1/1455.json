@@ -1,0 +1,104 @@
+{
+  "id": 1455,
+  "schema": "genepedia/person@1",
+  "slug": "willem-jacobus-herbert",
+  "names": {
+    "display": "Willem Jacobus Herbert",
+    "given": "Willem Jacobus",
+    "surname": "Herbert",
+    "married": "Herbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 JUL 1883",
+      "year": 1883,
+      "iso": "1883-07-14",
+      "precision": "exact",
+      "display": "July 14, 1883",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      581
+    ],
+    "exSpouses": [],
+    "children": [
+      1456,
+      1457,
+      1458
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F367"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 581,
+        "unionId": "F367",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1456,
+        "unionId": "F367",
+        "type": "biological"
+      },
+      {
+        "id": 1457,
+        "unionId": "F367",
+        "type": "biological"
+      },
+      {
+        "id": 1458,
+        "unionId": "F367",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000076304993851@",
+    "geniId": "6000000076304993851",
+    "rfn": "geni:6000000076304993851",
+    "changed": "22 FEB 2018"
+  },
+  "page": {
+    "route": "people/1455/",
+    "canonical": "https://www.genepedia.org/people/1455/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

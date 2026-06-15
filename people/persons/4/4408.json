@@ -1,0 +1,94 @@
+{
+  "id": 4408,
+  "schema": "genepedia/person@1",
+  "slug": "gertrude-clarissa-ramsden",
+  "names": {
+    "display": "Gertrude Clarissa Ramsden",
+    "given": "Gertrude Clarissa",
+    "surname": "Ramsden",
+    "married": "Straw",
+    "nick": "Girlie",
+    "aliases": [
+      "Gertrude Clarissa Ramsden"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "10 JUL 1986",
+      "year": 1986,
+      "iso": "1986-07-10",
+      "precision": "exact",
+      "display": "July 10, 1986",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4406,
+      1721
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4407
+    ],
+    "parentUnions": [
+      "F1041"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4406,
+        "unionId": "F1041",
+        "type": "biological"
+      },
+      {
+        "id": 1721,
+        "unionId": "F1041",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024077360151@",
+    "geniId": "6000000024077360151",
+    "rfn": "geni:6000000024077360151",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/4408/",
+    "canonical": "https://www.genepedia.org/people/4408/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

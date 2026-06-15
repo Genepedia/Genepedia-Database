@@ -1,0 +1,88 @@
+{
+  "id": 2642,
+  "schema": "genepedia/person@1",
+  "slug": "jan-adam-petrus-mc-donald",
+  "names": {
+    "display": "Jan Adam Petrus Mc Donald",
+    "given": "Jan Adam Petrus",
+    "surname": "Mc Donald",
+    "married": "Mc Donald",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2640,
+      1068
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2641,
+      2643
+    ],
+    "parentUnions": [
+      "F646"
+    ],
+    "spouseUnions": [
+      "F1627"
+    ],
+    "parentLinks": [
+      {
+        "id": 2640,
+        "unionId": "F646",
+        "type": "biological"
+      },
+      {
+        "id": 1068,
+        "unionId": "F646",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000005098082691@",
+    "geniId": "6000000005098082691",
+    "rfn": "geni:6000000005098082691",
+    "changed": "07 JUN 2021"
+  },
+  "page": {
+    "route": "people/2642/",
+    "canonical": "https://www.genepedia.org/people/2642/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

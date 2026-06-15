@@ -1,0 +1,120 @@
+{
+  "id": 791,
+  "schema": "genepedia/person@1",
+  "slug": "celeste-botha",
+  "names": {
+    "display": "Celeste Botha",
+    "given": "Celeste",
+    "surname": "Botha",
+    "married": "van Bosch",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/79/fe/3c/10/53444866244299af/screenshot_2024-07-06_111447_original.jpg?hash=2a796452ec37b5aa4d674973511ea080c5d116b79990669d20233e2da748a576.1789455599",
+      "alt": "Celeste Botha"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/79/fe/3c/10/53444866244299af/screenshot_2024-07-06_111447_original.jpg?hash=2a796452ec37b5aa4d674973511ea080c5d116b79990669d20233e2da748a576.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/31/1e/a2/a6/5344486624400d72/13516375_10206336761688512_4831040144866573353_n_original.jpg?hash=3a866ef0968f06bfa631131e68199286065aeb85b5793d2584d5894f344201d4.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1824,
+      1825
+    ],
+    "spouses": [
+      311
+    ],
+    "exSpouses": [],
+    "children": [
+      792
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F482"
+    ],
+    "spouseUnions": [
+      "F220"
+    ],
+    "parentLinks": [
+      {
+        "id": 1824,
+        "unionId": "F482",
+        "type": "biological"
+      },
+      {
+        "id": 1825,
+        "unionId": "F482",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 311,
+        "unionId": "F220",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 792,
+        "unionId": "F220",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207096661833@",
+    "geniId": "6000000207096661833",
+    "rfn": "geni:6000000207096661833",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/791/",
+    "canonical": "https://www.genepedia.org/people/791/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

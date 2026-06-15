@@ -1,0 +1,104 @@
+{
+  "id": 356,
+  "schema": "genepedia/person@1",
+  "slug": "leandri-bester",
+  "names": {
+    "display": "Leandri Bester",
+    "given": "Leandri",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "19 DEC 1969",
+      "year": 1969,
+      "iso": "1969-12-19",
+      "precision": "exact",
+      "display": "December 19, 1969",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      133,
+      352
+    ],
+    "spouses": [
+      876
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      353,
+      354,
+      355
+    ],
+    "parentUnions": [
+      "F111"
+    ],
+    "spouseUnions": [
+      "F247"
+    ],
+    "parentLinks": [
+      {
+        "id": 133,
+        "unionId": "F111",
+        "type": "biological"
+      },
+      {
+        "id": 352,
+        "unionId": "F111",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 876,
+        "unionId": "F247",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066596946239@",
+    "geniId": "6000000066596946239",
+    "rfn": "geni:6000000066596946239",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/356/",
+    "canonical": "https://www.genepedia.org/people/356/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

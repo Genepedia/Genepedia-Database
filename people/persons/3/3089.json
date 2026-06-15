@@ -1,0 +1,92 @@
+{
+  "id": 3089,
+  "schema": "genepedia/person@1",
+  "slug": "simone",
+  "names": {
+    "display": "Simone",
+    "given": "Simone",
+    "surname": "Pool",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "2 NOV 1998",
+      "year": 1998,
+      "iso": "1998-11-02",
+      "precision": "exact",
+      "display": "November 2, 1998",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3088,
+      1235
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3090
+    ],
+    "parentUnions": [
+      "F762"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3088,
+        "unionId": "F762",
+        "type": "biological"
+      },
+      {
+        "id": 1235,
+        "unionId": "F762",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000222122240828@",
+    "geniId": "6000000222122240828",
+    "rfn": "geni:6000000222122240828",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3089/",
+    "canonical": "https://www.genepedia.org/people/3089/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

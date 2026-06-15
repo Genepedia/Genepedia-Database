@@ -1,0 +1,93 @@
+{
+  "id": 3053,
+  "schema": "genepedia/person@1",
+  "slug": "philippus-christoffel-fourie-3053",
+  "names": {
+    "display": "Philippus Christoffel Fourie",
+    "given": "Philippus Christoffel",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 JAN 1982",
+      "year": 1982,
+      "iso": "1982-01-24",
+      "precision": "exact",
+      "display": "January 24, 1982",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1222,
+      3052
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3054,
+      3055
+    ],
+    "parentUnions": [
+      "F749"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1222,
+        "unionId": "F749",
+        "type": "biological"
+      },
+      {
+        "id": 3052,
+        "unionId": "F749",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000222126669850@",
+    "geniId": "6000000222126669850",
+    "rfn": "geni:6000000222126669850",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3053/",
+    "canonical": "https://www.genepedia.org/people/3053/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

@@ -1,0 +1,152 @@
+{
+  "id": 67,
+  "schema": "genepedia/person@1",
+  "slug": "jakobus-johannes-frederik-de-beer",
+  "names": {
+    "display": "Jakobus Johannes Frederik de Beer",
+    "given": "Jakobus Johannes Frederik",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "Koos",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "28 FEB 1964",
+      "year": 1964,
+      "iso": "1964-02-28",
+      "precision": "exact",
+      "display": "February 28, 1964",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "26 APR 1964",
+      "year": 1964,
+      "iso": "1964-04-26",
+      "precision": "exact",
+      "display": "April 26, 1964",
+      "place": "Nieuwoudtville, Northern Cape, South Africa",
+      "location": {
+        "label": "Nieuwoudtville, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nieuwoudtville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/1b/e6/f7/2e/53444851a2f1ec89/screenshot_2020-01-14-17-31-38-1-1_original.jpg?hash=9a218505f799642cbd8f3ac8c703f4c3b2247bb58d9f57a75e57b3802042788f.1789455599",
+      "alt": "Jakobus Johannes Frederik de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/1b/e6/f7/2e/53444851a2f1ec89/screenshot_2020-01-14-17-31-38-1-1_original.jpg?hash=9a218505f799642cbd8f3ac8c703f4c3b2247bb58d9f57a75e57b3802042788f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      66,
+      65
+    ],
+    "spouses": [
+      226
+    ],
+    "exSpouses": [],
+    "children": [
+      227,
+      228
+    ],
+    "siblings": [
+      12,
+      68
+    ],
+    "parentUnions": [
+      "F22"
+    ],
+    "spouseUnions": [
+      "F70"
+    ],
+    "parentLinks": [
+      {
+        "id": 66,
+        "unionId": "F22",
+        "type": "biological"
+      },
+      {
+        "id": 65,
+        "unionId": "F22",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 226,
+        "unionId": "F70",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 227,
+        "unionId": "F70",
+        "type": "biological"
+      },
+      {
+        "id": 228,
+        "unionId": "F70",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027226554478@",
+    "geniId": "6000000027226554478",
+    "rfn": "geni:6000000027226554478",
+    "changed": "09 JUL 2023"
+  },
+  "page": {
+    "route": "people/67/",
+    "canonical": "https://www.genepedia.org/people/67/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,111 @@
+{
+  "id": 4983,
+  "schema": "genepedia/person@1",
+  "slug": "nicolaas-viljoen-bester",
+  "names": {
+    "display": "Nicolaas Viljoen Bester",
+    "given": "Nicolaas Viljoen",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "27 NOV 1933",
+      "year": 1933,
+      "iso": "1933-11-27",
+      "precision": "exact",
+      "display": "November 27, 1933",
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1936,
+      4980
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4981,
+      4982,
+      4984,
+      4985
+    ],
+    "parentUnions": [
+      "F1182"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1936,
+        "unionId": "F1182",
+        "type": "biological"
+      },
+      {
+        "id": 4980,
+        "unionId": "F1182",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066953262834@",
+    "geniId": "6000000066953262834",
+    "rfn": "geni:6000000066953262834",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/4983/",
+    "canonical": "https://www.genepedia.org/people/4983/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

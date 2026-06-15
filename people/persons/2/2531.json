@@ -1,0 +1,158 @@
+{
+  "id": 2531,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-jacobs",
+  "names": {
+    "display": "Magdalena Jacobs",
+    "given": "Magdalena",
+    "surname": "Jacobs",
+    "married": "Meyer",
+    "nick": "Magdalena Faber",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 OCT 1887",
+      "year": 1887,
+      "iso": "1887-10-12",
+      "precision": "exact",
+      "display": "October 12, 1887",
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "8750",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 MAY 1961",
+      "year": 1961,
+      "iso": "1961-05-08",
+      "precision": "exact",
+      "display": "May 8, 1961",
+      "place": "Pietermaritzburg, KZN, South Africa",
+      "location": {
+        "label": "Pietermaritzburg, KZN, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pietermaritzburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KZN",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "8 JAN 1888",
+      "year": 1888,
+      "iso": "1888-01-08",
+      "precision": "exact",
+      "display": "January 8, 1888",
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "8750",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2529,
+      2528
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2530,
+      1026
+    ],
+    "parentUnions": [
+      "F629"
+    ],
+    "spouseUnions": [
+      "F1552",
+      "F1553"
+    ],
+    "parentLinks": [
+      {
+        "id": 2529,
+        "unionId": "F629",
+        "type": "biological"
+      },
+      {
+        "id": 2528,
+        "unionId": "F629",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000074590214861@",
+    "geniId": "6000000074590214861",
+    "rfn": "geni:6000000074590214861",
+    "changed": "27 JUN 2025"
+  },
+  "page": {
+    "route": "people/2531/",
+    "canonical": "https://www.genepedia.org/people/2531/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

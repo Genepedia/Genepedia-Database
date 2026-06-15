@@ -1,0 +1,132 @@
+{
+  "id": 288,
+  "schema": "genepedia/person@1",
+  "slug": "willem-pierre-van-der-merwe",
+  "names": {
+    "display": "Willem Pierre van der Merwe",
+    "given": "Willem Pierre",
+    "surname": "van der Merwe",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "12 FEB 1935",
+      "year": 1935,
+      "iso": "1935-02-12",
+      "precision": "exact",
+      "display": "February 12, 1935",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/1f/01/14/c6/5344486990d23e33/00000007-photo-2018-08-14-19-39-48_original.jpg?hash=2764ef8e592114a3f8fc1f9d95f9118f3f382c5858d59f6867a46addf55c4508.1789455599",
+      "alt": "Willem Pierre van der Merwe"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/1f/01/14/c6/5344486990d23e33/00000007-photo-2018-08-14-19-39-48_original.jpg?hash=2764ef8e592114a3f8fc1f9d95f9118f3f382c5858d59f6867a46addf55c4508.1789455599",
+        "form": "",
+        "title": "van der Merwe, W.P. & van der Merwe (born Hoffmann), D.P.",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      285,
+      286
+    ],
+    "spouses": [
+      719
+    ],
+    "exSpouses": [],
+    "children": [
+      720,
+      721
+    ],
+    "siblings": [
+      287,
+      107,
+      289,
+      290,
+      291
+    ],
+    "parentUnions": [
+      "F93"
+    ],
+    "spouseUnions": [
+      "F203"
+    ],
+    "parentLinks": [
+      {
+        "id": 285,
+        "unionId": "F93",
+        "type": "biological"
+      },
+      {
+        "id": 286,
+        "unionId": "F93",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 719,
+        "unionId": "F203",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 720,
+        "unionId": "F203",
+        "type": "biological"
+      },
+      {
+        "id": 721,
+        "unionId": "F203",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000081281358848@",
+    "geniId": "6000000081281358848",
+    "rfn": "geni:6000000081281358848",
+    "changed": "18 OCT 2025"
+  },
+  "page": {
+    "route": "people/288/",
+    "canonical": "https://www.genepedia.org/people/288/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

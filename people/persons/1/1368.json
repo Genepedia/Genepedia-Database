@@ -1,0 +1,104 @@
+{
+  "id": 1368,
+  "schema": "genepedia/person@1",
+  "slug": "dick-george-dippenaar",
+  "names": {
+    "display": "Dick George Dippenaar",
+    "given": "Dick George",
+    "surname": "Dippenaar",
+    "married": "Dippenaar",
+    "nick": "DC",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 DEC 1997",
+      "year": 1997,
+      "iso": "1997-12-11",
+      "precision": "exact",
+      "display": "December 11, 1997",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/6f/18/79/5a/5344486602aaa805/screenshot_2024-06-15_182658_original.jpg?hash=10c4f1580367c82663dede0d03fabcdddfc60f7526bffbc6d77dae2f5b81cb5e.1789455599",
+      "alt": "Dick George Dippenaar"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/6f/18/79/5a/5344486602aaa805/screenshot_2024-06-15_182658_original.jpg?hash=10c4f1580367c82663dede0d03fabcdddfc60f7526bffbc6d77dae2f5b81cb5e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1367,
+      556
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1369
+    ],
+    "parentUnions": [
+      "F351"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1367,
+        "unionId": "F351",
+        "type": "biological"
+      },
+      {
+        "id": 556,
+        "unionId": "F351",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027229456195@",
+    "geniId": "6000000027229456195",
+    "rfn": "geni:6000000027229456195",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1368/",
+    "canonical": "https://www.genepedia.org/people/1368/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

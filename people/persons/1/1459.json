@@ -1,0 +1,77 @@
+{
+  "id": 1459,
+  "schema": "genepedia/person@1",
+  "slug": "np-nel",
+  "names": {
+    "display": "NP Nel",
+    "given": "NP",
+    "surname": "Nel",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      583
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F368"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 583,
+        "unionId": "F368",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000076304934940@",
+    "geniId": "6000000076304934940",
+    "rfn": "geni:6000000076304934940",
+    "changed": "22 FEB 2018"
+  },
+  "page": {
+    "route": "people/1459/",
+    "canonical": "https://www.genepedia.org/people/1459/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

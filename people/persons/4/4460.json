@@ -1,0 +1,151 @@
+{
+  "id": 4460,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-leah-sher",
+  "names": {
+    "display": "Rachel Leah Sher",
+    "given": "Rachel Leah",
+    "surname": "Sher",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1877",
+      "year": 1877,
+      "iso": "1877",
+      "precision": "exact",
+      "display": "1877",
+      "place": "Shavli, Shavli (Šiauliai), Samogitia, Lithuania",
+      "location": {
+        "label": "Shavli, Shavli (Šiauliai), Samogitia, Lithuania",
+        "placeName": "Shavli",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Shavli (Šiauliai)",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Samogitia",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1943",
+      "year": 1943,
+      "iso": "1943",
+      "precision": "about",
+      "display": "about 1943",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1745
+    ],
+    "exSpouses": [],
+    "children": [
+      4461,
+      4462,
+      4463,
+      4464,
+      4465,
+      4466,
+      4467
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1057"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1745,
+        "unionId": "F1057",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4461,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4462,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4463,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4464,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4465,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4466,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4467,
+        "unionId": "F1057",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291081@",
+    "geniId": "6000000003658291081",
+    "rfn": "geni:6000000003658291081",
+    "changed": "18 MAY 2025"
+  },
+  "page": {
+    "route": "people/4460/",
+    "canonical": "https://www.genepedia.org/people/4460/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

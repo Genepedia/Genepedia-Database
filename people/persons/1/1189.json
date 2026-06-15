@@ -1,0 +1,155 @@
+{
+  "id": 1189,
+  "schema": "genepedia/person@1",
+  "slug": "anna-margaretha-de-klerk",
+  "names": {
+    "display": "Anna Margaretha de Klerk",
+    "given": "Anna Margaretha",
+    "surname": "de Klerk",
+    "married": "Celliers",
+    "nick": "b6c1d1e8f6g12",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 AUG 1906",
+      "year": 1906,
+      "iso": "1906-08-02",
+      "precision": "exact",
+      "display": "August 2, 1906",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 OCT 1906",
+      "year": 1906,
+      "iso": "1906-10-07",
+      "precision": "exact",
+      "display": "October 7, 1906",
+      "place": "Vryburg, North West, South Africa",
+      "location": {
+        "label": "Vryburg, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vryburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/0a/d3/5a/dd/534448472bf886f5/christian_johannes_de_klerk_1864_-_1916_original.jpg?hash=665d725e7b7aad80c85074564e1fd02a49cfd3e6ed113266a2d2ddcbdf84ca8f.1789455599",
+      "alt": "Anna Margaretha de Klerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/0a/d3/5a/dd/534448472bf886f5/christian_johannes_de_klerk_1864_-_1916_original.jpg?hash=665d725e7b7aad80c85074564e1fd02a49cfd3e6ed113266a2d2ddcbdf84ca8f.1789455599",
+        "form": "",
+        "title": "Christian Johannes de Klerk 1864 - 1916.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1177,
+      1178
+    ],
+    "spouses": [
+      2998
+    ],
+    "exSpouses": [],
+    "children": [
+      2999
+    ],
+    "siblings": [
+      1179,
+      1180,
+      1181,
+      1182,
+      469,
+      1183,
+      1184,
+      1185,
+      1186,
+      1187,
+      1188
+    ],
+    "parentUnions": [
+      "F309"
+    ],
+    "spouseUnions": [
+      "F733"
+    ],
+    "parentLinks": [
+      {
+        "id": 1177,
+        "unionId": "F309",
+        "type": "biological"
+      },
+      {
+        "id": 1178,
+        "unionId": "F309",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2998,
+        "unionId": "F733",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2999,
+        "unionId": "F733",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000019187814186@",
+    "geniId": "6000000019187814186",
+    "rfn": "geni:6000000019187814186",
+    "changed": "07 APR 2025"
+  },
+  "page": {
+    "route": "people/1189/",
+    "canonical": "https://www.genepedia.org/people/1189/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 379,
+  "schema": "genepedia/person@1",
+  "slug": "frederika-ethel-roselt",
+  "names": {
+    "display": "Frederika Ethel Roselt",
+    "given": "Frederika Ethel",
+    "surname": "Roselt",
+    "married": "Martin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 SEP 1916",
+      "year": 1916,
+      "iso": "1916-09-14",
+      "precision": "exact",
+      "display": "September 14, 1916",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "29 JAN 1920",
+      "year": 1920,
+      "iso": "1920-01-29",
+      "precision": "exact",
+      "display": "January 29, 1920",
+      "place": "Methodist Church, Kimberley, South Africa",
+      "location": {
+        "label": "Methodist Church, Kimberley, South Africa",
+        "placeName": "Methodist Church",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      368,
+      369
+    ],
+    "spouses": [
+      943
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      370,
+      138,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      380
+    ],
+    "parentUnions": [
+      "F117"
+    ],
+    "spouseUnions": [
+      "F259"
+    ],
+    "parentLinks": [
+      {
+        "id": 368,
+        "unionId": "F117",
+        "type": "biological"
+      },
+      {
+        "id": 369,
+        "unionId": "F117",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 943,
+        "unionId": "F259",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028174588072@",
+    "geniId": "6000000028174588072",
+    "rfn": "geni:6000000028174588072",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/379/",
+    "canonical": "https://www.genepedia.org/people/379/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

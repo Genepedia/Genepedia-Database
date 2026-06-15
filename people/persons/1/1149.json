@@ -1,0 +1,215 @@
+{
+  "id": 1149,
+  "schema": "genepedia/person@1",
+  "slug": "hester-elizabeth-josina-maria-van-lelyveld",
+  "names": {
+    "display": "Hester Elizabeth Josina Maria van Lelyveld",
+    "given": "Hester Elizabeth Josina Maria",
+    "surname": "van Lelyveld",
+    "married": "Davis",
+    "nick": "Hester Elizabeth Josina Maria DAVIS",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JUL 1817",
+      "year": 1817,
+      "iso": "1817-07-22",
+      "precision": "exact",
+      "display": "July 22, 1817",
+      "place": "Uitenhage, Eastern Cape, South Africa",
+      "location": {
+        "label": "Uitenhage, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Uitenhage",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 NOV 1844",
+      "year": 1844,
+      "iso": "1844-11-04",
+      "precision": "exact",
+      "display": "November 4, 1844",
+      "place": "Colesburg, Cape, South Africa",
+      "location": {
+        "label": "Colesburg, Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "14 DEC 1817",
+      "year": 1817,
+      "iso": "1817-12-14",
+      "precision": "exact",
+      "display": "December 14, 1817",
+      "place": "Uitenhage, Eastern Cape, South Africa",
+      "location": {
+        "label": "Uitenhage, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Uitenhage",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b3/53/5b/94/53444838e4ef4ab3/hester_original.jpg?hash=aeb4dfab84d5c0ef6f7156d8e1342711b03fa2751b1bd08932ebe2b927c2839a.1789455599",
+      "alt": "Hester Elizabeth Josina Maria van Lelyveld"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b3/53/5b/94/53444838e4ef4ab3/hester_original.jpg?hash=aeb4dfab84d5c0ef6f7156d8e1342711b03fa2751b1bd08932ebe2b927c2839a.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/14/df/33/f4/5344484240cfc214/heste3r_elizabeth_josina_van_lelyveld_davis_original.jpg?hash=bc0fd7534856ec625e8e1d11b0352172023906e0d14e229b5deaecce2dc09089.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/43/19/c0/99/5344483924297263/hester_elizabeth_josina_maria_davis_original.jpg?hash=fb71622ace84c721395b98b929ddddc604edb2b94668b60bed09ee484cf824e7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2845,
+      2846
+    ],
+    "spouses": [
+      1150
+    ],
+    "exSpouses": [],
+    "children": [
+      1151,
+      447,
+      1152
+    ],
+    "siblings": [
+      2847,
+      2848,
+      2849,
+      2850,
+      2851,
+      2852
+    ],
+    "parentUnions": [
+      "F703"
+    ],
+    "spouseUnions": [
+      "F304"
+    ],
+    "parentLinks": [
+      {
+        "id": 2845,
+        "unionId": "F703",
+        "type": "biological"
+      },
+      {
+        "id": 2846,
+        "unionId": "F703",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1150,
+        "unionId": "F304",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1151,
+        "unionId": "F304",
+        "type": "biological"
+      },
+      {
+        "id": 447,
+        "unionId": "F304",
+        "type": "biological"
+      },
+      {
+        "id": 1152,
+        "unionId": "F304",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000009152704294@",
+    "geniId": "6000000009152704294",
+    "rfn": "geni:6000000009152704294",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1149/",
+    "canonical": "https://www.genepedia.org/people/1149/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,157 @@
+{
+  "id": 2204,
+  "schema": "genepedia/person@1",
+  "slug": "hester-sinden",
+  "names": {
+    "display": "Hester Sinden",
+    "given": "Hester",
+    "surname": "Sinden",
+    "married": "van Schalkwyk",
+    "nick": "Hettie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 JUN 1924",
+      "year": 1924,
+      "iso": "1924-06-01",
+      "precision": "exact",
+      "display": "June 1, 1924",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "12 OCT 1924",
+      "year": 1924,
+      "iso": "1924-10-12",
+      "precision": "exact",
+      "display": "October 12, 1924",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/19/38/38/e7/534448662f9c54d8/image_original.jpg?hash=33fe86db7b33920afc14e40a58237eb9a069fc01365db35d9a11f8e2dae62583.1789455599",
+      "alt": "Hester Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/19/38/38/e7/534448662f9c54d8/image_original.jpg?hash=33fe86db7b33920afc14e40a58237eb9a069fc01365db35d9a11f8e2dae62583.1789455599",
+        "form": "",
+        "title": "record-image_trou 1943  .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      897,
+      2191
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2192,
+      927,
+      2193,
+      2194,
+      2195,
+      2196,
+      2197,
+      2198,
+      2199,
+      2200,
+      2201,
+      2202,
+      2203
+    ],
+    "parentUnions": [
+      "F559"
+    ],
+    "spouseUnions": [
+      "F1363"
+    ],
+    "parentLinks": [
+      {
+        "id": 897,
+        "unionId": "F559",
+        "type": "biological"
+      },
+      {
+        "id": 2191,
+        "unionId": "F559",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028063949668@",
+    "geniId": "6000000028063949668",
+    "rfn": "geni:6000000028063949668",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2204/",
+    "canonical": "https://www.genepedia.org/people/2204/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

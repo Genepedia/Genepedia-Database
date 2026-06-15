@@ -1,0 +1,156 @@
+{
+  "id": 1733,
+  "schema": "genepedia/person@1",
+  "slug": "peter-quinn",
+  "names": {
+    "display": "Peter Quinn",
+    "given": "Peter",
+    "surname": "Quinn",
+    "married": "Quinn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "SEP 1852",
+      "year": 1852,
+      "iso": "1852-09",
+      "precision": "exact",
+      "display": "September 1852",
+      "place": null
+    },
+    "death": {
+      "date": "20 JUN 1906",
+      "year": 1906,
+      "iso": "1906-06-20",
+      "precision": "exact",
+      "display": "June 20, 1906",
+      "place": "Fort Beaufort, Cape Province, South Africa",
+      "location": {
+        "label": "Fort Beaufort, Cape Province, South Africa",
+        "placeName": "Fort Beaufort, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4430,
+      4431
+    ],
+    "spouses": [
+      1732,
+      4429
+    ],
+    "exSpouses": [],
+    "children": [
+      1734,
+      1735,
+      1736,
+      723
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1050"
+    ],
+    "spouseUnions": [
+      "F455",
+      "F1049"
+    ],
+    "parentLinks": [
+      {
+        "id": 4430,
+        "unionId": "F1050",
+        "type": "biological"
+      },
+      {
+        "id": 4431,
+        "unionId": "F1050",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1732,
+        "unionId": "F455",
+        "role": "partner"
+      },
+      {
+        "id": 4429,
+        "unionId": "F1049",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1734,
+        "unionId": "F455",
+        "type": "biological"
+      },
+      {
+        "id": 1735,
+        "unionId": "F455",
+        "type": "biological"
+      },
+      {
+        "id": 1736,
+        "unionId": "F455",
+        "type": "biological"
+      },
+      {
+        "id": 723,
+        "unionId": "F455",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000060492761836@",
+    "geniId": "6000000060492761836",
+    "rfn": "geni:6000000060492761836",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/1733/",
+    "canonical": "https://www.genepedia.org/people/1733/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

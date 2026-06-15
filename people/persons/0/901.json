@@ -1,0 +1,216 @@
+{
+  "id": 901,
+  "schema": "genepedia/person@1",
+  "slug": "magdalina-jacobs",
+  "names": {
+    "display": "Magdalina Jacobs",
+    "given": "Magdalina",
+    "surname": "Jacobs",
+    "married": "van der Westhuizen",
+    "nick": "Roselt",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 FEB 1895",
+      "year": 1895,
+      "iso": "1895-02-27",
+      "precision": "exact",
+      "display": "February 27, 1895",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 DEC 1975",
+      "year": 1975,
+      "iso": "1975-12-10",
+      "precision": "exact",
+      "display": "December 10, 1975",
+      "place": "Kimberley, NC, South Africa",
+      "location": {
+        "label": "Kimberley, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kimberley, NC, South Africa",
+      "location": {
+        "label": "Kimberley, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b7/70/49/b1/53444842a692fe90/record-image_3qs7-89sw-7hd6_original.jpg?hash=1b8c4008b764e6eab07eca828192752c7db7128b2f74bea787571a6b14fcf4d2.1789455599",
+      "alt": "Magdalina Jacobs"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b7/70/49/b1/53444842a692fe90/record-image_3qs7-89sw-7hd6_original.jpg?hash=1b8c4008b764e6eab07eca828192752c7db7128b2f74bea787571a6b14fcf4d2.1789455599",
+        "form": "",
+        "title": "record-image_trou Magdalina .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/6d/83/5a/0e/53444842a6cc4a09/record-image_3qs7-89sw-74gv_original.jpg?hash=85bf6dc8b8954935a196e77ae03f04887f427849b1d0b3cf19b77f6aced50360.1789455599",
+        "form": "",
+        "title": "record-image_3QS7-89SW-74GV.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/0f/54/a8/9f/53444861753952aa/3_1_3q9m-c91v-m3ry-1_original.png?hash=8d594964925229e3274be0d19d55ea3d7404311b6162f8270b4288ac025e1a15.1789455599",
+        "form": "",
+        "title": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91V-M3RY-1?cc=1779109",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2211,
+      2210
+    ],
+    "spouses": [
+      371,
+      2209
+    ],
+    "exSpouses": [],
+    "children": [
+      902,
+      903,
+      904
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F562"
+    ],
+    "spouseUnions": [
+      "F252",
+      "F561"
+    ],
+    "parentLinks": [
+      {
+        "id": 2211,
+        "unionId": "F562",
+        "type": "biological"
+      },
+      {
+        "id": 2210,
+        "unionId": "F562",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 371,
+        "unionId": "F252",
+        "role": "husband"
+      },
+      {
+        "id": 2209,
+        "unionId": "F561",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 902,
+        "unionId": "F252",
+        "type": "biological"
+      },
+      {
+        "id": 903,
+        "unionId": "F252",
+        "type": "biological"
+      },
+      {
+        "id": 904,
+        "unionId": "F252",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000054663050840@",
+    "geniId": "6000000054663050840",
+    "rfn": "geni:6000000054663050840",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/901/",
+    "canonical": "https://www.genepedia.org/people/901/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

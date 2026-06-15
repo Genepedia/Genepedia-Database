@@ -1,0 +1,113 @@
+{
+  "id": 3446,
+  "schema": "genepedia/person@1",
+  "slug": "franken",
+  "names": {
+    "display": "? Franken",
+    "given": "?",
+    "surname": "Franken",
+    "married": "Franken",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "10 MAR 1966",
+      "year": 1966,
+      "iso": "1966-03-10",
+      "precision": "exact",
+      "display": "March 10, 1966",
+      "place": "Robertson, Western Cape, South Africa",
+      "location": {
+        "label": "Robertson, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Robertson",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3444,
+      3445
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1364,
+      3447,
+      3448,
+      3449,
+      3450,
+      3451
+    ],
+    "parentUnions": [
+      "F848"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3444,
+        "unionId": "F848",
+        "type": "biological"
+      },
+      {
+        "id": 3445,
+        "unionId": "F848",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206532902906@",
+    "geniId": "6000000206532902906",
+    "rfn": "geni:6000000206532902906",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/3446/",
+    "canonical": "https://www.genepedia.org/people/3446/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

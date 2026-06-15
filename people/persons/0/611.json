@@ -1,0 +1,122 @@
+{
+  "id": 611,
+  "schema": "genepedia/person@1",
+  "slug": "cornelius-solomon-josephus-van-der-linde",
+  "names": {
+    "display": "Cornelius Solomon Josephus van der Linde",
+    "given": "Cornelius Solomon Josephus",
+    "surname": "van der Linde",
+    "married": "van der Linde",
+    "nick": "Connie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "21 APR 1950",
+      "year": 1950,
+      "iso": "1950-04-21",
+      "precision": "exact",
+      "display": "April 21, 1950",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/f4/55/e5/7d/5344486605f35e49/jpg_4__original.jpg?hash=c26b304184863773add9f82084573bf0ca6567670f10353bcc1155382aefac56.1789455599",
+      "alt": "Cornelius Solomon Josephus van der Linde"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/f4/55/e5/7d/5344486605f35e49/jpg_4__original.jpg?hash=c26b304184863773add9f82084573bf0ca6567670f10353bcc1155382aefac56.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      224
+    ],
+    "exSpouses": [],
+    "children": [
+      612,
+      613,
+      614,
+      615
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F172"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 224,
+        "unionId": "F172",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 612,
+        "unionId": "F172",
+        "type": "biological"
+      },
+      {
+        "id": 613,
+        "unionId": "F172",
+        "type": "biological"
+      },
+      {
+        "id": 614,
+        "unionId": "F172",
+        "type": "biological"
+      },
+      {
+        "id": 615,
+        "unionId": "F172",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000205252425924@",
+    "geniId": "6000000205252425924",
+    "rfn": "geni:6000000205252425924",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/611/",
+    "canonical": "https://www.genepedia.org/people/611/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,193 @@
+{
+  "id": 1549,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-francois-mellet",
+  "names": {
+    "display": "Hendrik Francois Mellet",
+    "given": "Hendrik Francois",
+    "surname": "Mellet",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 JUL 1811",
+      "year": 1811,
+      "iso": "1811-07-25",
+      "precision": "exact",
+      "display": "July 25, 1811",
+      "place": null
+    },
+    "death": {
+      "date": "9 NOV 1880",
+      "year": 1880,
+      "iso": "1880-11-09",
+      "precision": "exact",
+      "display": "November 9, 1880",
+      "place": null
+    },
+    "baptism": {
+      "date": "25 AUG 1811",
+      "year": 1811,
+      "iso": "1811-08-25",
+      "precision": "exact",
+      "display": "August 25, 1811",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b2/fb/05/1c/534448467c86ad6c/mellet_hendrik_francois_1813-1880_original.jpg?hash=86a9a2e31b05eadd77a5300b77807df639c0e3e2b84a2690cf7791d44326b659.1789455599",
+      "alt": "Hendrik Francois Mellet"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b2/fb/05/1c/534448467c86ad6c/mellet_hendrik_francois_1813-1880_original.jpg?hash=86a9a2e31b05eadd77a5300b77807df639c0e3e2b84a2690cf7791d44326b659.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4062,
+      4063
+    ],
+    "spouses": [
+      1550
+    ],
+    "exSpouses": [],
+    "children": [
+      1551,
+      1552,
+      629,
+      1553,
+      1554,
+      1555,
+      1556,
+      1557,
+      1558
+    ],
+    "siblings": [
+      4064,
+      4065,
+      4066,
+      4067,
+      4068,
+      4069,
+      4070,
+      4071,
+      4072,
+      4073
+    ],
+    "parentUnions": [
+      "F945"
+    ],
+    "spouseUnions": [
+      "F396"
+    ],
+    "parentLinks": [
+      {
+        "id": 4062,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4063,
+        "unionId": "F945",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1550,
+        "unionId": "F396",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1551,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1552,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 629,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1553,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1554,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1555,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1556,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1557,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1558,
+        "unionId": "F396",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000058817658821@",
+    "geniId": "6000000058817658821",
+    "rfn": "geni:6000000058817658821",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1549/",
+    "canonical": "https://www.genepedia.org/people/1549/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

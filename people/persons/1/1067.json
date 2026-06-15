@@ -1,0 +1,222 @@
+{
+  "id": 1067,
+  "schema": "genepedia/person@1",
+  "slug": "elsje-susanna-cecilia-graaff",
+  "names": {
+    "display": "Elsje Susanna Cecilia Graaff",
+    "given": "Elsje Susanna Cecilia",
+    "surname": "Graaff",
+    "married": "Koekemoer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 JUL 1834",
+      "year": 1834,
+      "iso": "1834-07-12",
+      "precision": "exact",
+      "display": "July 12, 1834",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 APR 1896",
+      "year": 1896,
+      "iso": "1896-04-23",
+      "precision": "exact",
+      "display": "April 23, 1896",
+      "place": "Kuruman, NC, South Africa",
+      "location": {
+        "label": "Kuruman, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kuruman",
+        "postalCode": "8460",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/dc/08/0a/5d/534448620e177664/groot-groot_oupa_a_original.jpg?hash=15bd81684768db0fb92e67d14bc815c031413804a32ab8cce1b8fe9f2ed37ea7.1789455599",
+      "alt": "Elsje Susanna Cecilia Graaff"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/dc/08/0a/5d/534448620e177664/groot-groot_oupa_a_original.jpg?hash=15bd81684768db0fb92e67d14bc815c031413804a32ab8cce1b8fe9f2ed37ea7.1789455599",
+        "form": "",
+        "title": "Groot-Groot oupa A.J.J. Huwelik.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1066,
+      1065
+    ],
+    "spouses": [
+      2620
+    ],
+    "exSpouses": [],
+    "children": [
+      2621,
+      2622,
+      2623,
+      2624,
+      2625,
+      1095,
+      1137,
+      2626,
+      2627,
+      2628
+    ],
+    "siblings": [
+      430,
+      1068,
+      1069,
+      1070,
+      1071,
+      1072,
+      1073,
+      1074
+    ],
+    "parentUnions": [
+      "F286"
+    ],
+    "spouseUnions": [
+      "F644"
+    ],
+    "parentLinks": [
+      {
+        "id": 1066,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1065,
+        "unionId": "F286",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2620,
+        "unionId": "F644",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2621,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 2622,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 2623,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 2624,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 2625,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 1095,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 1137,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 2626,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 2627,
+        "unionId": "F644",
+        "type": "biological"
+      },
+      {
+        "id": 2628,
+        "unionId": "F644",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000006859914634@",
+    "geniId": "6000000006859914634",
+    "rfn": "geni:6000000006859914634",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1067/",
+    "canonical": "https://www.genepedia.org/people/1067/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

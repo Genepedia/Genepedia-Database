@@ -1,0 +1,136 @@
+{
+  "id": 2344,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-styger",
+  "names": {
+    "display": "Petrus Johannes Styger",
+    "given": "Petrus Johannes",
+    "surname": "Styger",
+    "married": "Styger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 SEP 1898",
+      "year": 1898,
+      "iso": "1898-09-13",
+      "precision": "exact",
+      "display": "September 13, 1898",
+      "place": "Douglas, Kaapkolonie",
+      "location": {
+        "label": "Douglas, Kaapkolonie",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaapkolonie",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 NOV 1961",
+      "year": 1961,
+      "iso": "1961-11-12",
+      "precision": "exact",
+      "display": "November 12, 1961",
+      "place": "Buitekantstraat 20, Brandfort",
+      "location": {
+        "label": "Buitekantstraat 20, Brandfort",
+        "placeName": "Buitekantstraat 20",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Brandfort",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Ploegbaas op paaie",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2341,
+      2340
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2342,
+      934,
+      2343,
+      2345
+    ],
+    "parentUnions": [
+      "F592"
+    ],
+    "spouseUnions": [
+      "F1450"
+    ],
+    "parentLinks": [
+      {
+        "id": 2341,
+        "unionId": "F592",
+        "type": "biological"
+      },
+      {
+        "id": 2340,
+        "unionId": "F592",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000202843487842@",
+    "geniId": "6000000202843487842",
+    "rfn": "geni:6000000202843487842",
+    "changed": "07 FEB 2024"
+  },
+  "page": {
+    "route": "people/2344/",
+    "canonical": "https://www.genepedia.org/people/2344/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

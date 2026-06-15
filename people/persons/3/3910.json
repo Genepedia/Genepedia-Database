@@ -1,0 +1,115 @@
+{
+  "id": 3910,
+  "schema": "genepedia/person@1",
+  "slug": "cornelius-abraham-germishuysen",
+  "names": {
+    "display": "Cornelius Abraham Germishuysen",
+    "given": "Cornelius Abraham",
+    "surname": "Germishuysen",
+    "married": "Germishuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 JUN 1890",
+      "year": 1890,
+      "iso": "1890-06-02",
+      "precision": "exact",
+      "display": "June 2, 1890",
+      "place": "Warrenton, NC, South Africa",
+      "location": {
+        "label": "Warrenton, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Warrenton",
+        "postalCode": "8530",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1530,
+      3901
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3902,
+      3903,
+      3904,
+      3905,
+      3906,
+      3907,
+      3908,
+      3909
+    ],
+    "parentUnions": [
+      "F922"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1530,
+        "unionId": "F922",
+        "type": "biological"
+      },
+      {
+        "id": 3901,
+        "unionId": "F922",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000205454505833@",
+    "geniId": "6000000205454505833",
+    "rfn": "geni:6000000205454505833",
+    "changed": "30 OCT 2024"
+  },
+  "page": {
+    "route": "people/3910/",
+    "canonical": "https://www.genepedia.org/people/3910/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

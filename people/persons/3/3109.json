@@ -1,0 +1,182 @@
+{
+  "id": 3109,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-weyers-de-villiers",
+  "names": {
+    "display": "Johannes Weyers de Villiers",
+    "given": "Johannes Weyers",
+    "surname": "de Villiers",
+    "married": "de Villiers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 NOV 1883",
+      "year": 1883,
+      "iso": "1883-11-01",
+      "precision": "exact",
+      "display": "November 1, 1883",
+      "place": null
+    },
+    "death": {
+      "date": "15 OCT 1960",
+      "year": 1960,
+      "iso": "1960-10-15",
+      "precision": "exact",
+      "display": "October 15, 1960",
+      "place": null
+    },
+    "baptism": {
+      "date": "13 JAN 1884",
+      "year": 1884,
+      "iso": "1884-01-13",
+      "precision": "exact",
+      "display": "January 13, 1884",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d2/d2/c9/4f/5344483de92cb796/main_original.png?hash=038aa1dba88ec5860c523900225dab500d4e0da1b42caa41753813ab1e2925d4.1789455599",
+      "alt": "Johannes Weyers de Villiers"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d2/d2/c9/4f/5344483de92cb796/main_original.png?hash=038aa1dba88ec5860c523900225dab500d4e0da1b42caa41753813ab1e2925d4.1789455599",
+        "form": "",
+        "title": "WEYERS Johannes 1883-1960 & Elizabeth Maria MARAIS 1886-1973",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1254
+    ],
+    "exSpouses": [],
+    "children": [
+      3110,
+      3111,
+      3112,
+      3113,
+      3114
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F771"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1254,
+        "unionId": "F771",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3110,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 3111,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 3112,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 3113,
+        "unionId": "F771",
+        "type": "biological"
+      },
+      {
+        "id": 3114,
+        "unionId": "F771",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000023853686642@",
+    "geniId": "6000000023853686642",
+    "rfn": "geni:6000000023853686642",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3109/",
+    "canonical": "https://www.genepedia.org/people/3109/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

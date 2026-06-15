@@ -1,0 +1,87 @@
+{
+  "id": 1626,
+  "schema": "genepedia/person@1",
+  "slug": "christelle-malan",
+  "names": {
+    "display": "Christelle Malan",
+    "given": "Christelle",
+    "surname": "De Koker",
+    "married": "Malan",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      655
+    ],
+    "spouses": [
+      4300
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F418"
+    ],
+    "spouseUnions": [
+      "F1011"
+    ],
+    "parentLinks": [
+      {
+        "id": 655,
+        "unionId": "F418",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4300,
+        "unionId": "F1011",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207081240828@",
+    "geniId": "6000000207081240828",
+    "rfn": "geni:6000000207081240828",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/1626/",
+    "canonical": "https://www.genepedia.org/people/1626/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

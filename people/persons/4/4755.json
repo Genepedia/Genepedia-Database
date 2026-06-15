@@ -1,0 +1,118 @@
+{
+  "id": 4755,
+  "schema": "genepedia/person@1",
+  "slug": "gezina-johanna-roux",
+  "names": {
+    "display": "Gezina Johanna Roux",
+    "given": "Gezina Johanna",
+    "surname": "Roux",
+    "married": "Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 JAN 1929",
+      "year": 1929,
+      "iso": "1929-01-11",
+      "precision": "exact",
+      "display": "January 11, 1929",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "31 MAR 1929",
+      "year": 1929,
+      "iso": "1929-03-31",
+      "precision": "exact",
+      "display": "March 31, 1929",
+      "place": "Edenburg, Free State, South Africa",
+      "location": {
+        "label": "Edenburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Edenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4752,
+      1880
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4753,
+      4754,
+      4756,
+      4757
+    ],
+    "parentUnions": [
+      "F1131"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4752,
+        "unionId": "F1131",
+        "type": "biological"
+      },
+      {
+        "id": 1880,
+        "unionId": "F1131",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066438353821@",
+    "geniId": "6000000066438353821",
+    "rfn": "geni:6000000066438353821",
+    "changed": "16 MAR 2019"
+  },
+  "page": {
+    "route": "people/4755/",
+    "canonical": "https://www.genepedia.org/people/4755/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

@@ -1,0 +1,209 @@
+{
+  "id": 1154,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-theron",
+  "names": {
+    "display": "Anna Maria Theron",
+    "given": "Anna Maria",
+    "surname": "Theron",
+    "married": "Maritz",
+    "nick": "",
+    "aliases": [
+      "Anna Maria Maritz (Theron)"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 SEP 1821",
+      "year": 1821,
+      "iso": "1821-09-18",
+      "precision": "exact",
+      "display": "September 18, 1821",
+      "place": "Western Cape, South Africa",
+      "location": {
+        "label": "Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "24 SEP 1821",
+      "year": 1821,
+      "iso": "1821-09-24",
+      "precision": "exact",
+      "display": "September 24, 1821",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2877,
+      2878
+    ],
+    "spouses": [
+      1153
+    ],
+    "exSpouses": [],
+    "children": [
+      1155,
+      1156,
+      1157,
+      448,
+      1093,
+      1158
+    ],
+    "siblings": [
+      2879,
+      2880,
+      2881,
+      2882,
+      2883,
+      2884
+    ],
+    "parentUnions": [
+      "F710"
+    ],
+    "spouseUnions": [
+      "F305"
+    ],
+    "parentLinks": [
+      {
+        "id": 2877,
+        "unionId": "F710",
+        "type": "biological"
+      },
+      {
+        "id": 2878,
+        "unionId": "F710",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1153,
+        "unionId": "F305",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1155,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1156,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1157,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 448,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1093,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1158,
+        "unionId": "F305",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000037379409404@",
+    "geniId": "6000000037379409404",
+    "rfn": "geni:6000000037379409404",
+    "changed": "23 SEP 2025"
+  },
+  "page": {
+    "route": "people/1154/",
+    "canonical": "https://www.genepedia.org/people/1154/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

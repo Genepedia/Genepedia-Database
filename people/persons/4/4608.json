@@ -1,0 +1,106 @@
+{
+  "id": 4608,
+  "schema": "genepedia/person@1",
+  "slug": "dawid-frederik-strauss",
+  "names": {
+    "display": "Dawid Frederik Strauss",
+    "given": "Dawid Frederik",
+    "surname": "Strauss",
+    "married": "Strauss",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 MAR 1869",
+      "year": 1869,
+      "iso": "1869-03-11",
+      "precision": "exact",
+      "display": "March 11, 1869",
+      "place": null
+    },
+    "death": {
+      "date": "ABT 1945",
+      "year": 1945,
+      "iso": "1945",
+      "precision": "about",
+      "display": "about 1945",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4602,
+      1848
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4603,
+      4604,
+      4605,
+      4606,
+      4607,
+      4609,
+      4610,
+      4611
+    ],
+    "parentUnions": [
+      "F1104"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4602,
+        "unionId": "F1104",
+        "type": "biological"
+      },
+      {
+        "id": 1848,
+        "unionId": "F1104",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000076032520824@",
+    "geniId": "6000000076032520824",
+    "rfn": "geni:6000000076032520824",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/4608/",
+    "canonical": "https://www.genepedia.org/people/4608/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

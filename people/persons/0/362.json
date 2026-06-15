@@ -1,0 +1,91 @@
+{
+  "id": 362,
+  "schema": "genepedia/person@1",
+  "slug": "martie-unknown",
+  "names": {
+    "display": "Martie Unknown",
+    "given": "Martie",
+    "surname": "Unknown",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      135
+    ],
+    "exSpouses": [],
+    "children": [
+      363,
+      364
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F113"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 135,
+        "unionId": "F113",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 363,
+        "unionId": "F113",
+        "type": "biological"
+      },
+      {
+        "id": 364,
+        "unionId": "F113",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066620378833@",
+    "geniId": "6000000066620378833",
+    "rfn": "geni:6000000066620378833",
+    "changed": "07 SEP 2017"
+  },
+  "page": {
+    "route": "people/362/",
+    "canonical": "https://www.genepedia.org/people/362/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

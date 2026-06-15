@@ -1,0 +1,77 @@
+{
+  "id": 1840,
+  "schema": "genepedia/person@1",
+  "slug": "crous-1840",
+  "names": {
+    "display": "? Crous",
+    "given": "?",
+    "surname": "Crous",
+    "married": "Crous",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      803
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F490"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 803,
+        "unionId": "F490",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208275459821@",
+    "geniId": "6000000208275459821",
+    "rfn": "geni:6000000208275459821",
+    "changed": "18 AUG 2024"
+  },
+  "page": {
+    "route": "people/1840/",
+    "canonical": "https://www.genepedia.org/people/1840/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

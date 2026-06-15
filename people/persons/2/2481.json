@@ -1,0 +1,168 @@
+{
+  "id": 2481,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-lourens-la-grange",
+  "names": {
+    "display": "Johannes Petrus Lourens la Grange",
+    "given": "Johannes Petrus Lourens",
+    "surname": "la Grange",
+    "married": "le Grange",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1836",
+      "year": 1836,
+      "iso": "1836",
+      "precision": "exact",
+      "display": "1836",
+      "place": "Cape Colony",
+      "location": {
+        "label": "Cape Colony",
+        "placeName": "Cape Colony",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1013
+    ],
+    "exSpouses": [],
+    "children": [
+      2482,
+      2483,
+      2484,
+      2485,
+      2486,
+      2487,
+      2488,
+      2489,
+      2490,
+      2491,
+      2492
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F623"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1013,
+        "unionId": "F623",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2482,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 2483,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 2484,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 2485,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 2486,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 2487,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 2488,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 2489,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 2490,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 2491,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 2492,
+        "unionId": "F623",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000197685724821@",
+    "geniId": "6000000197685724821",
+    "rfn": "geni:6000000197685724821",
+    "changed": "06 JUN 2025"
+  },
+  "page": {
+    "route": "people/2481/",
+    "canonical": "https://www.genepedia.org/people/2481/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

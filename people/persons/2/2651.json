@@ -1,0 +1,106 @@
+{
+  "id": 2651,
+  "schema": "genepedia/person@1",
+  "slug": "anna-sophia-christina-swanepoel",
+  "names": {
+    "display": "Anna Sophia Christina Swanepoel",
+    "given": "Anna Sophia Christina",
+    "surname": "Swanepoel",
+    "married": "Swanepoel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 APR 1868",
+      "year": 1868,
+      "iso": "1868-04-18",
+      "precision": "exact",
+      "display": "April 18, 1868",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "21 FEB 1869",
+      "year": 1869,
+      "iso": "1869-02-21",
+      "precision": "exact",
+      "display": "February 21, 1869",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2649,
+      1073
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2650,
+      2652,
+      2653,
+      2654,
+      2655,
+      2656,
+      2657,
+      2658
+    ],
+    "parentUnions": [
+      "F650"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2649,
+        "unionId": "F650",
+        "type": "biological"
+      },
+      {
+        "id": 1073,
+        "unionId": "F650",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000034703821116@",
+    "geniId": "6000000034703821116",
+    "rfn": "geni:6000000034703821116",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2651/",
+    "canonical": "https://www.genepedia.org/people/2651/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

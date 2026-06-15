@@ -1,0 +1,104 @@
+{
+  "id": 2397,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-frederik-de-klerk",
+  "names": {
+    "display": "Jacobus Frederik de Klerk",
+    "given": "Jacobus Frederik",
+    "surname": "de Klerk",
+    "married": "de Klerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1858",
+      "year": 1858,
+      "iso": "1858",
+      "precision": "exact",
+      "display": "1858",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/99/e9/5e/f4/5344486169ed8d9a/jacobus_frederik_de_klerk_marriage_5_feb_1900_griekwastad_original.jpg?hash=22c00776988b406021b9b02123ace224e1911450302b1f6058ceffbdf8a44a60.1789455599",
+      "alt": "Jacobus Frederik de Klerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/99/e9/5e/f4/5344486169ed8d9a/jacobus_frederik_de_klerk_marriage_5_feb_1900_griekwastad_original.jpg?hash=22c00776988b406021b9b02123ace224e1911450302b1f6058ceffbdf8a44a60.1789455599",
+        "form": "",
+        "title": "Jacobus Frederik de Klerk Marriage 5 Feb 1900 Griekwastad.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      959
+    ],
+    "exSpouses": [],
+    "children": [
+      2398
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F604"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 959,
+        "unionId": "F604",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2398,
+        "unionId": "F604",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000186790119838@",
+    "geniId": "6000000186790119838",
+    "rfn": "geni:6000000186790119838",
+    "changed": "27 AUG 2022"
+  },
+  "page": {
+    "route": "people/2397/",
+    "canonical": "https://www.genepedia.org/people/2397/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

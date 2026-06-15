@@ -1,0 +1,118 @@
+{
+  "id": 597,
+  "schema": "genepedia/person@1",
+  "slug": "andre-de-beer",
+  "names": {
+    "display": "Andre de Beer",
+    "given": "Andre",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "16 NOV 1967",
+      "year": 1967,
+      "iso": "1967-11-16",
+      "precision": "exact",
+      "display": "November 16, 1967",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      218,
+      593
+    ],
+    "spouses": [
+      1489
+    ],
+    "exSpouses": [],
+    "children": [
+      1490,
+      1491
+    ],
+    "siblings": [
+      594,
+      595,
+      596
+    ],
+    "parentUnions": [
+      "F167"
+    ],
+    "spouseUnions": [
+      "F381"
+    ],
+    "parentLinks": [
+      {
+        "id": 218,
+        "unionId": "F167",
+        "type": "biological"
+      },
+      {
+        "id": 593,
+        "unionId": "F167",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1489,
+        "unionId": "F381",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1490,
+        "unionId": "F381",
+        "type": "biological"
+      },
+      {
+        "id": 1491,
+        "unionId": "F381",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587875821@",
+    "geniId": "6000000206587875821",
+    "rfn": "geni:6000000206587875821",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/597/",
+    "canonical": "https://www.genepedia.org/people/597/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

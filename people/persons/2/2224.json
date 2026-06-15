@@ -1,0 +1,99 @@
+{
+  "id": 2224,
+  "schema": "genepedia/person@1",
+  "slug": "mona-kingsley",
+  "names": {
+    "display": "Mona Kingsley",
+    "given": "Mona",
+    "surname": "Kingsley",
+    "married": "Kingsley",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1908",
+      "year": 1908,
+      "iso": "1908",
+      "precision": "about",
+      "display": "about 1908",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2222,
+      2223
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      905,
+      2225,
+      2226,
+      2227,
+      2228,
+      2229
+    ],
+    "parentUnions": [
+      "F565"
+    ],
+    "spouseUnions": [
+      "F1377"
+    ],
+    "parentLinks": [
+      {
+        "id": 2222,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2223,
+        "unionId": "F565",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000061376776827@",
+    "geniId": "6000000061376776827",
+    "rfn": "geni:6000000061376776827",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2224/",
+    "canonical": "https://www.genepedia.org/people/2224/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

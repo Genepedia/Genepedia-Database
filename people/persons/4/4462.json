@@ -1,0 +1,136 @@
+{
+  "id": 4462,
+  "schema": "genepedia/person@1",
+  "slug": "dov-hirsh-barney-lurie",
+  "names": {
+    "display": "Dov Hirsh (Barney) Lurie",
+    "given": "Dov Hirsh (Barney)",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1900",
+      "year": 1900,
+      "iso": "1900",
+      "precision": "exact",
+      "display": "1900",
+      "place": "Shavli, Šiauliai County, Lithuania",
+      "location": {
+        "label": "Shavli, Šiauliai County, Lithuania",
+        "placeName": "Shavli",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Šiauliai County",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1972",
+      "year": 1972,
+      "iso": "1972",
+      "precision": "exact",
+      "display": "1972",
+      "place": "Johannesburg, GP, South Africa",
+      "location": {
+        "label": "Johannesburg, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1745,
+      4460
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4461,
+      4463,
+      4464,
+      4465,
+      4466,
+      4467
+    ],
+    "parentUnions": [
+      "F1057"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1745,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4460,
+        "unionId": "F1057",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291269@",
+    "geniId": "6000000003658291269",
+    "rfn": "geni:6000000003658291269",
+    "changed": "11 JUN 2021"
+  },
+  "page": {
+    "route": "people/4462/",
+    "canonical": "https://www.genepedia.org/people/4462/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,155 @@
+{
+  "id": 3288,
+  "schema": "genepedia/person@1",
+  "slug": "willem-johannes-van-zyl",
+  "names": {
+    "display": "Willem Johannes van Zyl",
+    "given": "Willem Johannes",
+    "surname": "van Zyl",
+    "married": "van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 MAY 1870",
+      "year": 1870,
+      "iso": "1870-05-08",
+      "precision": "exact",
+      "display": "May 8, 1870",
+      "place": "Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Clanwilliam, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "8 SEP 1870",
+      "year": 1870,
+      "iso": "1870-09-08",
+      "precision": "exact",
+      "display": "September 8, 1870",
+      "place": "Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Clanwilliam, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "Betjesfontein",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/1d/ab/37/e2/5344484c703d9d67/van_zyl_willem_johannes_hester_elizabeth_maria_magdalena_van_taak_1893_clanwilliam_492_-_008148296_original.jpg?hash=1f4a68e729f57f986b786e4100388db95f5e0617e4f6629b6b4627c048824c7b.1789455599",
+      "alt": "Willem Johannes van Zyl"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/1d/ab/37/e2/5344484c703d9d67/van_zyl_willem_johannes_hester_elizabeth_maria_magdalena_van_taak_1893_clanwilliam_492_-_008148296_original.jpg?hash=1f4a68e729f57f986b786e4100388db95f5e0617e4f6629b6b4627c048824c7b.1789455599",
+        "form": "",
+        "title": "Van Zyl Willem Johannes & Hester Elizabeth Maria Magdalena van Taak 1893 clanwilliam 492 - 008148296.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1304
+    ],
+    "exSpouses": [],
+    "children": [
+      3289,
+      3290,
+      3291
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F807"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1304,
+        "unionId": "F807",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3289,
+        "unionId": "F807",
+        "type": "biological"
+      },
+      {
+        "id": 3290,
+        "unionId": "F807",
+        "type": "biological"
+      },
+      {
+        "id": 3291,
+        "unionId": "F807",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020383670328@",
+    "geniId": "6000000020383670328",
+    "rfn": "geni:6000000020383670328",
+    "changed": "21 OCT 2023"
+  },
+  "page": {
+    "route": "people/3288/",
+    "canonical": "https://www.genepedia.org/people/3288/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

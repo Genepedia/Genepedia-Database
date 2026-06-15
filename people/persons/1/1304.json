@@ -1,0 +1,169 @@
+{
+  "id": 1304,
+  "schema": "genepedia/person@1",
+  "slug": "hester-elizabeth-maria-magdalena-van-taak",
+  "names": {
+    "display": "Hester Elizabeth Maria Magdalena van Taak",
+    "given": "Hester Elizabeth Maria Magdalena",
+    "surname": "van Taak",
+    "married": "van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 FEB 1870",
+      "year": 1870,
+      "iso": "1870-02-28",
+      "precision": "exact",
+      "display": "February 28, 1870",
+      "place": "Biedouw, Clanwilliam",
+      "location": {
+        "label": "Biedouw, Clanwilliam",
+        "placeName": "Biedouw",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "23 FEB 1871",
+      "year": 1871,
+      "iso": "1871-02-23",
+      "precision": "exact",
+      "display": "February 23, 1871",
+      "place": "Biedouw, Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Biedouw, Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Biedouw, Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1302,
+      1301
+    ],
+    "spouses": [
+      3288
+    ],
+    "exSpouses": [],
+    "children": [
+      3289,
+      3290,
+      3291
+    ],
+    "siblings": [
+      1303,
+      1305,
+      538,
+      1306,
+      1307,
+      1308,
+      1309,
+      1310,
+      1311
+    ],
+    "parentUnions": [
+      "F337"
+    ],
+    "spouseUnions": [
+      "F807"
+    ],
+    "parentLinks": [
+      {
+        "id": 1302,
+        "unionId": "F337",
+        "type": "biological"
+      },
+      {
+        "id": 1301,
+        "unionId": "F337",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3288,
+        "unionId": "F807",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3289,
+        "unionId": "F807",
+        "type": "biological"
+      },
+      {
+        "id": 3290,
+        "unionId": "F807",
+        "type": "biological"
+      },
+      {
+        "id": 3291,
+        "unionId": "F807",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020385145865@",
+    "geniId": "6000000020385145865",
+    "rfn": "geni:6000000020385145865",
+    "changed": "15 AUG 2021"
+  },
+  "page": {
+    "route": "people/1304/",
+    "canonical": "https://www.genepedia.org/people/1304/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1502,
+  "schema": "genepedia/person@1",
+  "slug": "patrick-william-stead",
+  "names": {
+    "display": "Patrick William Stead",
+    "given": "Patrick William",
+    "surname": "Stead",
+    "married": "Stead",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "13 APR 1996",
+      "year": 1996,
+      "iso": "1996-04-13",
+      "precision": "exact",
+      "display": "April 13, 1996",
+      "place": "Krugersdorp, South Africa",
+      "location": {
+        "label": "Krugersdorp, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Krugersdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/f8/ce/f3/05/53444866076545ec/screenshot_2024-06-18_175327_original.jpg?hash=0028c681c01fcda6b1ff4951054526aa542817d0d2122ed1758d8176ea9b358b.1789455599",
+      "alt": "Patrick William Stead"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/f8/ce/f3/05/53444866076545ec/screenshot_2024-06-18_175327_original.jpg?hash=0028c681c01fcda6b1ff4951054526aa542817d0d2122ed1758d8176ea9b358b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1501,
+      603
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1503
+    ],
+    "parentUnions": [
+      "F384"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1501,
+        "unionId": "F384",
+        "type": "biological"
+      },
+      {
+        "id": 603,
+        "unionId": "F384",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587503842@",
+    "geniId": "6000000206587503842",
+    "rfn": "geni:6000000206587503842",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1502/",
+    "canonical": "https://www.genepedia.org/people/1502/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

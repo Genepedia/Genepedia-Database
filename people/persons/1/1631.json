@@ -1,0 +1,134 @@
+{
+  "id": 1631,
+  "schema": "genepedia/person@1",
+  "slug": "quinton-kimberley-smith",
+  "names": {
+    "display": "Quinton Kimberley Smith",
+    "given": "Quinton Kimberley",
+    "surname": "Smith",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 OCT 1875",
+      "year": 1875,
+      "iso": "1875-10-07",
+      "precision": "exact",
+      "display": "October 7, 1875",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1876",
+      "year": 1876,
+      "iso": "1876",
+      "precision": "about",
+      "display": "about 1876",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1629,
+      1630
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1632,
+      1633,
+      661,
+      1634
+    ],
+    "parentUnions": [
+      "F420"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1629,
+        "unionId": "F420",
+        "type": "biological"
+      },
+      {
+        "id": 1630,
+        "unionId": "F420",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000015666376985@",
+    "geniId": "6000000015666376985",
+    "rfn": "geni:6000000015666376985",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1631/",
+    "canonical": "https://www.genepedia.org/people/1631/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

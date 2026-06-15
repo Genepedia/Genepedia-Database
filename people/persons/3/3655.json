@@ -1,0 +1,101 @@
+{
+  "id": 3655,
+  "schema": "genepedia/person@1",
+  "slug": "paulus-stephanus-meintjes",
+  "names": {
+    "display": "Paulus Stephanus Meintjes",
+    "given": "Paulus Stephanus",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 DEC 1914",
+      "year": 1914,
+      "iso": "1914-12-12",
+      "precision": "exact",
+      "display": "December 12, 1914",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1404,
+      3650
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3651,
+      3652,
+      3653,
+      3654,
+      3656,
+      3657,
+      3658,
+      3659,
+      3660,
+      3661
+    ],
+    "parentUnions": [
+      "F878"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1404,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3650,
+        "unionId": "F878",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000019880434296@",
+    "geniId": "6000000019880434296",
+    "rfn": "geni:6000000019880434296",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3655/",
+    "canonical": "https://www.genepedia.org/people/3655/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

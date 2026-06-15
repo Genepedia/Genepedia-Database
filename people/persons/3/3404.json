@@ -1,0 +1,86 @@
+{
+  "id": 3404,
+  "schema": "genepedia/person@1",
+  "slug": "helena-christina-van-niekerk",
+  "names": {
+    "display": "Helena Christina van Niekerk",
+    "given": "Helena Christina",
+    "surname": "van Niekerk",
+    "married": "Van Der Merwe",
+    "nick": "Dollie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1337,
+      3402
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3403,
+      3405
+    ],
+    "parentUnions": [
+      "F834"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1337,
+        "unionId": "F834",
+        "type": "biological"
+      },
+      {
+        "id": 3402,
+        "unionId": "F834",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208581926831@",
+    "geniId": "6000000208581926831",
+    "rfn": "geni:6000000208581926831",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/3404/",
+    "canonical": "https://www.genepedia.org/people/3404/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

@@ -1,0 +1,139 @@
+{
+  "id": 4893,
+  "schema": "genepedia/person@1",
+  "slug": "terence-peter-bester",
+  "names": {
+    "display": "Terence Peter Bester",
+    "given": "Terence Peter",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 MAY 1946",
+      "year": 1946,
+      "iso": "1946-05-06",
+      "precision": "exact",
+      "display": "May 6, 1946",
+      "place": null
+    },
+    "death": {
+      "date": "7 DEC 2003",
+      "year": 2003,
+      "iso": "2003-12-07",
+      "precision": "exact",
+      "display": "December 7, 2003",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Gansbaai, Western Cape, South Africa",
+      "location": {
+        "label": "Gansbaai, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Gansbaai",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/0e/6f/39/f2/5344484572d34c38/bester_terence_peter_original.jpg?hash=fcbb58a2933fa7f5d039f90d7a205801311076e226df576e58745a18acddee76.1789455599",
+      "alt": "Terence Peter Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/0e/6f/39/f2/5344484572d34c38/bester_terence_peter_original.jpg?hash=fcbb58a2933fa7f5d039f90d7a205801311076e226df576e58745a18acddee76.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1912,
+      4892
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4894,
+      4895,
+      4896,
+      4897,
+      4898
+    ],
+    "parentUnions": [
+      "F1163"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1912,
+        "unionId": "F1163",
+        "type": "biological"
+      },
+      {
+        "id": 4892,
+        "unionId": "F1163",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066677683859@",
+    "geniId": "6000000066677683859",
+    "rfn": "geni:6000000066677683859",
+    "changed": "08 SEP 2017"
+  },
+  "page": {
+    "route": "people/4893/",
+    "canonical": "https://www.genepedia.org/people/4893/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

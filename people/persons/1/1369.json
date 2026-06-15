@@ -1,0 +1,104 @@
+{
+  "id": 1369,
+  "schema": "genepedia/person@1",
+  "slug": "jane-dippenaar",
+  "names": {
+    "display": "Jané Dippenaar",
+    "given": "Jané",
+    "surname": "Dippenaar",
+    "married": "Dippenaar",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "29 JUN 2000",
+      "year": 2000,
+      "iso": "2000-06-29",
+      "precision": "exact",
+      "display": "June 29, 2000",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/13/6e/c6/a2/5344486602ac8c27/screenshot_2024-06-15_182706_original.jpg?hash=0e3033de8c2209864c6c35a64472b74a31dc2c5955d8553175b5b2ddab7f0361.1789455599",
+      "alt": "Jané Dippenaar"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/13/6e/c6/a2/5344486602ac8c27/screenshot_2024-06-15_182706_original.jpg?hash=0e3033de8c2209864c6c35a64472b74a31dc2c5955d8553175b5b2ddab7f0361.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1367,
+      556
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1368
+    ],
+    "parentUnions": [
+      "F351"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1367,
+        "unionId": "F351",
+        "type": "biological"
+      },
+      {
+        "id": 556,
+        "unionId": "F351",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227885496@",
+    "geniId": "6000000027227885496",
+    "rfn": "geni:6000000027227885496",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1369/",
+    "canonical": "https://www.genepedia.org/people/1369/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

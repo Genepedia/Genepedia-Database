@@ -1,0 +1,134 @@
+{
+  "id": 131,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-bester",
+  "names": {
+    "display": "Jacobus Marthinus Bester",
+    "given": "Jacobus Marthinus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 NOV 1931",
+      "year": 1931,
+      "iso": "1931-11-03",
+      "precision": "exact",
+      "display": "November 3, 1931",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      129,
+      130
+    ],
+    "spouses": [
+      346
+    ],
+    "exSpouses": [],
+    "children": [
+      347,
+      348,
+      349,
+      350
+    ],
+    "siblings": [
+      39,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "parentUnions": [
+      "F46"
+    ],
+    "spouseUnions": [
+      "F109"
+    ],
+    "parentLinks": [
+      {
+        "id": 129,
+        "unionId": "F46",
+        "type": "biological"
+      },
+      {
+        "id": 130,
+        "unionId": "F46",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 346,
+        "unionId": "F109",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 347,
+        "unionId": "F109",
+        "type": "biological"
+      },
+      {
+        "id": 348,
+        "unionId": "F109",
+        "type": "biological"
+      },
+      {
+        "id": 349,
+        "unionId": "F109",
+        "type": "biological"
+      },
+      {
+        "id": 350,
+        "unionId": "F109",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066592235845@",
+    "geniId": "6000000066592235845",
+    "rfn": "geni:6000000066592235845",
+    "changed": "06 SEP 2017"
+  },
+  "page": {
+    "route": "people/131/",
+    "canonical": "https://www.genepedia.org/people/131/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

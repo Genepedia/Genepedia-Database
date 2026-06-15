@@ -1,0 +1,161 @@
+{
+  "id": 1347,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-christina-palvie",
+  "names": {
+    "display": "Maria Elizabeth Christina Palvie",
+    "given": "Maria Elizabeth Christina",
+    "surname": "Palvie",
+    "married": "Vermeulen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 JAN 1891",
+      "year": 1891,
+      "iso": "1891-01-04",
+      "precision": "exact",
+      "display": "January 4, 1891",
+      "place": "Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "13 JUL 1955",
+      "year": 1955,
+      "iso": "1955-07-13",
+      "precision": "exact",
+      "display": "July 13, 1955",
+      "place": "Vredendal, Western Cape, South Africa",
+      "location": {
+        "label": "Vredendal, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vredendal",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1344,
+      1343
+    ],
+    "spouses": [
+      3434
+    ],
+    "exSpouses": [],
+    "children": [
+      3435,
+      3436
+    ],
+    "siblings": [
+      1345,
+      1346,
+      547,
+      1348,
+      1349,
+      1350,
+      1351
+    ],
+    "parentUnions": [
+      "F346"
+    ],
+    "spouseUnions": [
+      "F842"
+    ],
+    "parentLinks": [
+      {
+        "id": 1344,
+        "unionId": "F346",
+        "type": "biological"
+      },
+      {
+        "id": 1343,
+        "unionId": "F346",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3434,
+        "unionId": "F842",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3435,
+        "unionId": "F842",
+        "type": "biological"
+      },
+      {
+        "id": 3436,
+        "unionId": "F842",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000038268983954@",
+    "geniId": "6000000038268983954",
+    "rfn": "geni:6000000038268983954",
+    "changed": "02 MAY 2019"
+  },
+  "page": {
+    "route": "people/1347/",
+    "canonical": "https://www.genepedia.org/people/1347/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

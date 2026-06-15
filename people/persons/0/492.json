@@ -1,0 +1,190 @@
+{
+  "id": 492,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-jacobus-steenkamp",
+  "names": {
+    "display": "Daniel Jacobus Steenkamp",
+    "given": "Daniel Jacobus",
+    "surname": "Steenkamp",
+    "married": "Steenkamp",
+    "nick": "Don",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 MAY 1933",
+      "year": 1933,
+      "iso": "1933-05-24",
+      "precision": "exact",
+      "display": "May 24, 1933",
+      "place": null
+    },
+    "death": {
+      "date": "31 JUL 2013",
+      "year": 2013,
+      "iso": "2013-07-31",
+      "precision": "exact",
+      "display": "July 31, 2013",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Kimberley NG Kerk Vooruitsig Begrafplaas, Kimberley, Suid-Afrika",
+      "location": {
+        "label": "Kimberley NG Kerk Vooruitsig Begrafplaas, Kimberley, Suid-Afrika",
+        "placeName": "Kimberley NG Kerk Vooruitsig Begrafplaas, Kimberley, Suid-Afrika",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/69/9e/71/11/5344486855ad12ce/msedge_p6wfviia67_original.jpg?hash=04dc566bd2399237fe97f61c854a0cfefb6ccda4f8fc6cca95ef779268fe06a7.1789455599",
+      "alt": "Daniel Jacobus Steenkamp"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/69/9e/71/11/5344486855ad12ce/msedge_p6wfviia67_original.jpg?hash=04dc566bd2399237fe97f61c854a0cfefb6ccda4f8fc6cca95ef779268fe06a7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/45/7a/74/c5/53444868401b2d3b/7f38efeb9bff91ac277faa03b4cae8053d62de6e_original.jpg?hash=e6115a8cc654e266943b0e517ca5e8e4cc34b5478e2006588c9828fee48ce7f5.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/5d/cc/5f/7e/534448683ffff492/image_original.jpg?hash=ae5062f94b492b3577736ba26e5d905ad60bad8946fcf0524a3115a155a8a0c9.1789455599",
+        "form": "",
+        "title": "image - trou  1954 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Steenkamp Familie Webtuiste",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      487,
+      174
+    ],
+    "spouses": [
+      1215
+    ],
+    "exSpouses": [],
+    "children": [
+      1216,
+      1217,
+      1218
+    ],
+    "siblings": [
+      488,
+      489,
+      490,
+      491,
+      493
+    ],
+    "parentUnions": [
+      "F142"
+    ],
+    "spouseUnions": [
+      "F314"
+    ],
+    "parentLinks": [
+      {
+        "id": 487,
+        "unionId": "F142",
+        "type": "biological"
+      },
+      {
+        "id": 174,
+        "unionId": "F142",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1215,
+        "unionId": "F314",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1216,
+        "unionId": "F314",
+        "type": "biological"
+      },
+      {
+        "id": 1217,
+        "unionId": "F314",
+        "type": "biological"
+      },
+      {
+        "id": 1218,
+        "unionId": "F314",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209123327876@",
+    "geniId": "6000000209123327876",
+    "rfn": "geni:6000000209123327876",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/492/",
+    "canonical": "https://www.genepedia.org/people/492/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

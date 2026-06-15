@@ -1,0 +1,120 @@
+{
+  "id": 23,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-van-niekerk",
+  "names": {
+    "display": "Pieter Van Niekerk",
+    "given": "Pieter",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/12/5f/c0/15/534448662347fd5a/448977557_1702297866971596_1090154750468630051_n_original.jpg?hash=a912efb175416b31e157c8f430b6d307cf9f36c0d53ace1daf6f9dbe1d15713d.1789455599",
+      "alt": "Pieter Van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/12/5f/c0/15/534448662347fd5a/448977557_1702297866971596_1090154750468630051_n_original.jpg?hash=a912efb175416b31e157c8f430b6d307cf9f36c0d53ace1daf6f9dbe1d15713d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      21,
+      22
+    ],
+    "spouses": [
+      86
+    ],
+    "exSpouses": [],
+    "children": [
+      87
+    ],
+    "siblings": [
+      4,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "parentUnions": [
+      "F9"
+    ],
+    "spouseUnions": [
+      "F31"
+    ],
+    "parentLinks": [
+      {
+        "id": 21,
+        "unionId": "F9",
+        "type": "biological"
+      },
+      {
+        "id": 22,
+        "unionId": "F9",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 86,
+        "unionId": "F31",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 87,
+        "unionId": "F31",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207079387821@",
+    "geniId": "6000000207079387821",
+    "rfn": "geni:6000000207079387821",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/23/",
+    "canonical": "https://www.genepedia.org/people/23/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

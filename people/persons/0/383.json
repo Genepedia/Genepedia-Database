@@ -1,0 +1,118 @@
+{
+  "id": 383,
+  "schema": "genepedia/person@1",
+  "slug": "gert-jacobus-cloete",
+  "names": {
+    "display": "Gert Jacobus Cloete",
+    "given": "Gert Jacobus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1890",
+      "year": 1890,
+      "iso": "1890",
+      "precision": "exact",
+      "display": "1890",
+      "place": null
+    },
+    "death": {
+      "date": "7 FEB 1928",
+      "year": 1928,
+      "iso": "1928-02-07",
+      "precision": "exact",
+      "display": "February 7, 1928",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      381,
+      382
+    ],
+    "spouses": [
+      964
+    ],
+    "exSpouses": [],
+    "children": [
+      965
+    ],
+    "siblings": [
+      139,
+      384
+    ],
+    "parentUnions": [
+      "F118"
+    ],
+    "spouseUnions": [
+      "F263"
+    ],
+    "parentLinks": [
+      {
+        "id": 381,
+        "unionId": "F118",
+        "type": "biological"
+      },
+      {
+        "id": 382,
+        "unionId": "F118",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 964,
+        "unionId": "F263",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 965,
+        "unionId": "F263",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204869347848@",
+    "geniId": "6000000204869347848",
+    "rfn": "geni:6000000204869347848",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/383/",
+    "canonical": "https://www.genepedia.org/people/383/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

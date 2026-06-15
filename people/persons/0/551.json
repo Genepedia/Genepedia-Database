@@ -1,0 +1,135 @@
+{
+  "id": 551,
+  "schema": "genepedia/person@1",
+  "slug": "stephanus-christian-esterhuyse",
+  "names": {
+    "display": "Stephanus Christian Esterhuyse",
+    "given": "Stephanus Christian",
+    "surname": "Esterhuyse",
+    "married": "Esterhuyse",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JAN 1941",
+      "year": 1941,
+      "iso": "1941-01-18",
+      "precision": "exact",
+      "display": "January 18, 1941",
+      "place": null
+    },
+    "death": {
+      "date": "27 NOV 2011",
+      "year": 2011,
+      "iso": "2011-11-27",
+      "precision": "exact",
+      "display": "November 27, 2011",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/08/0b/a8/fd/534448602ee233df/26815288_838239349713636_3291081492096990538_n_original.jpg?hash=5495bb748a19a252ea283e5349b2b5f9a4c7da422822173db8f7e71e95c7f0eb.1789455599",
+      "alt": "Stephanus Christian Esterhuyse"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/08/0b/a8/fd/534448602ee233df/26815288_838239349713636_3291081492096990538_n_original.jpg?hash=5495bb748a19a252ea283e5349b2b5f9a4c7da422822173db8f7e71e95c7f0eb.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      212
+    ],
+    "exSpouses": [],
+    "children": [
+      552,
+      553,
+      554,
+      555,
+      556
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F161"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 212,
+        "unionId": "F161",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 552,
+        "unionId": "F161",
+        "type": "biological"
+      },
+      {
+        "id": 553,
+        "unionId": "F161",
+        "type": "biological"
+      },
+      {
+        "id": 554,
+        "unionId": "F161",
+        "type": "biological"
+      },
+      {
+        "id": 555,
+        "unionId": "F161",
+        "type": "biological"
+      },
+      {
+        "id": 556,
+        "unionId": "F161",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020384179431@",
+    "geniId": "6000000020384179431",
+    "rfn": "geni:6000000020384179431",
+    "changed": "08 JAN 2022"
+  },
+  "page": {
+    "route": "people/551/",
+    "canonical": "https://www.genepedia.org/people/551/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,152 @@
+{
+  "id": 148,
+  "schema": "genepedia/person@1",
+  "slug": "minnie-ruth-roselt",
+  "names": {
+    "display": "Minnie Ruth Roselt",
+    "given": "Minnie Ruth",
+    "surname": "Roselt",
+    "married": "Bruyns",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 MAY 1931",
+      "year": 1931,
+      "iso": "1931-05-09",
+      "precision": "exact",
+      "display": "May 9, 1931",
+      "place": null
+    },
+    "death": {
+      "date": "8 NOV 2002",
+      "year": 2002,
+      "iso": "2002-11-08",
+      "precision": "exact",
+      "display": "November 8, 2002",
+      "place": "Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "Kimberley, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/6e/d9/86/8f/53444840c04ea4bb/foto_11_troue_bruid_se_familie_saam_met_bruidspaar_jane_roselt_pienaar_original.jpg?hash=32a18329ca0fd0e22297d249e37f7f123c622f3642ff10a5a9cb3d276f996694.1789455599",
+      "alt": "Minnie Ruth Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/6e/d9/86/8f/53444840c04ea4bb/foto_11_troue_bruid_se_familie_saam_met_bruidspaar_jane_roselt_pienaar_original.jpg?hash=32a18329ca0fd0e22297d249e37f7f123c622f3642ff10a5a9cb3d276f996694.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/88/1d/9d/31/5344485f3b26210c/record-image_1__original.jpg?hash=9c3ddda61e75d5d19c3957d8909ea353cd0fcdf53556eb7a0b867a4ee44aa7d2.1789455599",
+        "form": "",
+        "title": "record-image_ trou 1950 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      138,
+      139
+    ],
+    "spouses": [
+      399
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      40,
+      146,
+      147
+    ],
+    "parentUnions": [
+      "F47"
+    ],
+    "spouseUnions": [
+      "F125"
+    ],
+    "parentLinks": [
+      {
+        "id": 138,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 139,
+        "unionId": "F47",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 399,
+        "unionId": "F125",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165592760@",
+    "geniId": "6000000028165592760",
+    "rfn": "geni:6000000028165592760",
+    "changed": "05 SEP 2016"
+  },
+  "page": {
+    "route": "people/148/",
+    "canonical": "https://www.genepedia.org/people/148/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,123 @@
+{
+  "id": 2274,
+  "schema": "genepedia/person@1",
+  "slug": "henry-stephen-nel",
+  "names": {
+    "display": "Henry Stephen Nel",
+    "given": "Henry Stephen",
+    "surname": "Nel",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "17 MAY 1964",
+      "year": 1964,
+      "iso": "1964-05-17",
+      "precision": "exact",
+      "display": "May 17, 1964",
+      "place": "Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Potchefstroom, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/9a/58/9f/30/5344483d27d64601/022_original.jpg?hash=1dd8485f2e337be2511d75d128093a1705f6d8e215dadd3868cc4ea6c1ca9eb7.1789455599",
+      "alt": "Henry Stephen Nel"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/9a/58/9f/30/5344483d27d64601/022_original.jpg?hash=1dd8485f2e337be2511d75d128093a1705f6d8e215dadd3868cc4ea6c1ca9eb7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2271,
+      916
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2272,
+      2273
+    ],
+    "parentUnions": [
+      "F576"
+    ],
+    "spouseUnions": [
+      "F1413"
+    ],
+    "parentLinks": [
+      {
+        "id": 2271,
+        "unionId": "F576",
+        "type": "biological"
+      },
+      {
+        "id": 916,
+        "unionId": "F576",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026551488174@",
+    "geniId": "6000000026551488174",
+    "rfn": "geni:6000000026551488174",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2274/",
+    "canonical": "https://www.genepedia.org/people/2274/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

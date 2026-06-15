@@ -1,0 +1,86 @@
+{
+  "id": 2330,
+  "schema": "genepedia/person@1",
+  "slug": "greg-smit",
+  "names": {
+    "display": "Greg Smit",
+    "given": "Greg",
+    "surname": "Smit",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2327,
+      930
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2328,
+      2329
+    ],
+    "parentUnions": [
+      "F589"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2327,
+        "unionId": "F589",
+        "type": "biological"
+      },
+      {
+        "id": 930,
+        "unionId": "F589",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000064721809821@",
+    "geniId": "6000000064721809821",
+    "rfn": "geni:6000000064721809821",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2330/",
+    "canonical": "https://www.genepedia.org/people/2330/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

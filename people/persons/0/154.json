@@ -1,0 +1,114 @@
+{
+  "id": 154,
+  "schema": "genepedia/person@1",
+  "slug": "gert-j-roselt",
+  "names": {
+    "display": "Gert J Roselt",
+    "given": "Gert J",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BET 1978 AND 1996",
+      "year": 1978,
+      "iso": "1996",
+      "precision": "exact",
+      "display": "1996",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/22/ae/af/ab/534448656e9959d6/screenshot_2024-03-13_135623_original.jpg?hash=a2b90abdc085ca9bf89dd46d66b480cb252fb156375a3a0b9bb5d6d364b88514.1789455599",
+      "alt": "Gert J Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/22/ae/af/ab/534448656e9959d6/screenshot_2024-03-13_135623_original.jpg?hash=a2b90abdc085ca9bf89dd46d66b480cb252fb156375a3a0b9bb5d6d364b88514.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      42,
+      153
+    ],
+    "spouses": [
+      405
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      155
+    ],
+    "parentUnions": [
+      "F49"
+    ],
+    "spouseUnions": [
+      "F128"
+    ],
+    "parentLinks": [
+      {
+        "id": 42,
+        "unionId": "F49",
+        "type": "biological"
+      },
+      {
+        "id": 153,
+        "unionId": "F49",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 405,
+        "unionId": "F128",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204043474842@",
+    "geniId": "6000000204043474842",
+    "rfn": "geni:6000000204043474842",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/154/",
+    "canonical": "https://www.genepedia.org/people/154/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

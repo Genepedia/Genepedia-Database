@@ -1,0 +1,110 @@
+{
+  "id": 1504,
+  "schema": "genepedia/person@1",
+  "slug": "erika-du-preez",
+  "names": {
+    "display": "Erika du Preez",
+    "given": "Erika",
+    "surname": "du Preez",
+    "married": "du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "12 MAR 1974",
+      "year": 1974,
+      "iso": "1974-03-12",
+      "precision": "exact",
+      "display": "March 12, 1974",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c0/a6/7b/06/53444866076ee2b6/314442_142441419195337_1406863385_n_original.jpg?hash=12e23205f00b7b6e36b126340eea89965b192b072c5a319aeb0aa1016cb00739.1789455599",
+      "alt": "Erika du Preez"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c0/a6/7b/06/53444866076ee2b6/314442_142441419195337_1406863385_n_original.jpg?hash=12e23205f00b7b6e36b126340eea89965b192b072c5a319aeb0aa1016cb00739.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      605
+    ],
+    "exSpouses": [],
+    "children": [
+      1505,
+      1506
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F385"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 605,
+        "unionId": "F385",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1505,
+        "unionId": "F385",
+        "type": "biological"
+      },
+      {
+        "id": 1506,
+        "unionId": "F385",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206607792907@",
+    "geniId": "6000000206607792907",
+    "rfn": "geni:6000000206607792907",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1504/",
+    "canonical": "https://www.genepedia.org/people/1504/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

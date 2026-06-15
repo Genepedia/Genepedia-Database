@@ -1,0 +1,87 @@
+{
+  "id": 1820,
+  "schema": "genepedia/person@1",
+  "slug": "michelle",
+  "names": {
+    "display": "Michelle",
+    "given": "Michelle",
+    "surname": "Mutekeza",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1816,
+      788
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1817,
+      1818,
+      1819
+    ],
+    "parentUnions": [
+      "F480"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1816,
+        "unionId": "F480",
+        "type": "biological"
+      },
+      {
+        "id": 788,
+        "unionId": "F480",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207544914828@",
+    "geniId": "6000000207544914828",
+    "rfn": "geni:6000000207544914828",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1820/",
+    "canonical": "https://www.genepedia.org/people/1820/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

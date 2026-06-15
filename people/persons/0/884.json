@@ -1,0 +1,158 @@
+{
+  "id": 884,
+  "schema": "genepedia/person@1",
+  "slug": "annie-elvine-roselt",
+  "names": {
+    "display": "Annie Elvine Roselt",
+    "given": "Annie Elvine",
+    "surname": "Roselt",
+    "married": "Wetton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1863",
+      "year": 1863,
+      "iso": "1863",
+      "precision": "exact",
+      "display": "1863",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "31 OCT 1931",
+      "year": 1931,
+      "iso": "1931-10-31",
+      "precision": "exact",
+      "display": "October 31, 1931",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "233 Jan Smuts Avenue",
+        "addressLine2": "",
+        "addressLine3": "Parktown North",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "New Cemetery, Johannesburg",
+      "location": {
+        "label": "New Cemetery, Johannesburg",
+        "placeName": "New Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Household Duties",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      881,
+      880
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      368,
+      882,
+      883,
+      885
+    ],
+    "parentUnions": [
+      "F249"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 881,
+        "unionId": "F249",
+        "type": "biological"
+      },
+      {
+        "id": 880,
+        "unionId": "F249",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026552451330@",
+    "geniId": "6000000026552451330",
+    "rfn": "geni:6000000026552451330",
+    "changed": "08 OCT 2019"
+  },
+  "page": {
+    "route": "people/884/",
+    "canonical": "https://www.genepedia.org/people/884/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

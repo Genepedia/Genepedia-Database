@@ -1,0 +1,125 @@
+{
+  "id": 4794,
+  "schema": "genepedia/person@1",
+  "slug": "jan-frederik-hendrik-bester-4794",
+  "names": {
+    "display": "Jan Frederik Hendrik Bester",
+    "given": "Jan Frederik Hendrik",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 JUN 1925",
+      "year": 1925,
+      "iso": "1925-06-10",
+      "precision": "exact",
+      "display": "June 10, 1925",
+      "place": null
+    },
+    "death": {
+      "date": "7 AUG 2009",
+      "year": 2009,
+      "iso": "2009-08-07",
+      "precision": "exact",
+      "display": "August 7, 2009",
+      "place": "Koffiefontein, Free State, South Africa",
+      "location": {
+        "label": "Koffiefontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Koffiefontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "13 SEP 1925",
+      "year": 1925,
+      "iso": "1925-09-13",
+      "precision": "exact",
+      "display": "September 13, 1925",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1894,
+      4792
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4793,
+      4795,
+      4796,
+      4797
+    ],
+    "parentUnions": [
+      "F1142"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1894,
+        "unionId": "F1142",
+        "type": "biological"
+      },
+      {
+        "id": 4792,
+        "unionId": "F1142",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065529562852@",
+    "geniId": "6000000065529562852",
+    "rfn": "geni:6000000065529562852",
+    "changed": "23 AUG 2017"
+  },
+  "page": {
+    "route": "people/4794/",
+    "canonical": "https://www.genepedia.org/people/4794/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 871,
+  "schema": "genepedia/person@1",
+  "slug": "van-der-walt-871",
+  "names": {
+    "display": "? Van der Walt",
+    "given": "?",
+    "surname": "Van der Walt",
+    "married": "Van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      870
+    ],
+    "exSpouses": [],
+    "children": [
+      343
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F242"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 870,
+        "unionId": "F242",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 343,
+        "unionId": "F242",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000216548691843@",
+    "geniId": "6000000216548691843",
+    "rfn": "geni:6000000216548691843",
+    "changed": "10 MAR 2025"
+  },
+  "page": {
+    "route": "people/871/",
+    "canonical": "https://www.genepedia.org/people/871/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

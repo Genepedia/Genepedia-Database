@@ -1,0 +1,196 @@
+{
+  "id": 4688,
+  "schema": "genepedia/person@1",
+  "slug": "martha-helena-kalp",
+  "names": {
+    "display": "Martha Helena Kalp",
+    "given": "Martha Helena",
+    "surname": "Kalp",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 FEB 1885",
+      "year": 1885,
+      "iso": "1885-02-05",
+      "precision": "exact",
+      "display": "February 5, 1885",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 MAR 1919",
+      "year": 1919,
+      "iso": "1919-03-10",
+      "precision": "exact",
+      "display": "March 10, 1919",
+      "place": "Colesberg, South Africa",
+      "location": {
+        "label": "Colesberg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "1 MAR 1885",
+      "year": 1885,
+      "iso": "1885-03-01",
+      "precision": "exact",
+      "display": "March 1, 1885",
+      "place": "Colesberg, South Africa",
+      "location": {
+        "label": "Colesberg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1866
+    ],
+    "exSpouses": [],
+    "children": [
+      4689,
+      4690,
+      4691,
+      4692,
+      4693,
+      4694,
+      4695,
+      4696
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1118"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1866,
+        "unionId": "F1118",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4689,
+        "unionId": "F1118",
+        "type": "biological"
+      },
+      {
+        "id": 4690,
+        "unionId": "F1118",
+        "type": "biological"
+      },
+      {
+        "id": 4691,
+        "unionId": "F1118",
+        "type": "biological"
+      },
+      {
+        "id": 4692,
+        "unionId": "F1118",
+        "type": "biological"
+      },
+      {
+        "id": 4693,
+        "unionId": "F1118",
+        "type": "biological"
+      },
+      {
+        "id": 4694,
+        "unionId": "F1118",
+        "type": "biological"
+      },
+      {
+        "id": 4695,
+        "unionId": "F1118",
+        "type": "biological"
+      },
+      {
+        "id": 4696,
+        "unionId": "F1118",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000190534848821@",
+    "geniId": "6000000190534848821",
+    "rfn": "geni:6000000190534848821",
+    "changed": "06 MAY 2026"
+  },
+  "page": {
+    "route": "people/4688/",
+    "canonical": "https://www.genepedia.org/people/4688/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

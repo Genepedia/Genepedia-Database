@@ -1,0 +1,125 @@
+{
+  "id": 1969,
+  "schema": "genepedia/person@1",
+  "slug": "adriaan-jacobus-van-der-walt",
+  "names": {
+    "display": "Adriaan Jacobus van der Walt",
+    "given": "Adriaan Jacobus",
+    "surname": "van der Walt",
+    "married": "van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1851",
+      "year": 1851,
+      "iso": "1851",
+      "precision": "exact",
+      "display": "1851",
+      "place": null
+    },
+    "death": {
+      "date": "9 AUG 1927",
+      "year": 1927,
+      "iso": "1927-08-09",
+      "precision": "exact",
+      "display": "August 9, 1927",
+      "place": "Vredefort, FS, South Africa",
+      "location": {
+        "label": "Vredefort, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vredefort",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1962,
+      1963
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1964,
+      1965,
+      1966,
+      821,
+      1967,
+      1968,
+      1970,
+      1971,
+      1972,
+      1973,
+      1974
+    ],
+    "parentUnions": [
+      "F511"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1962,
+        "unionId": "F511",
+        "type": "biological"
+      },
+      {
+        "id": 1963,
+        "unionId": "F511",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040559263983@",
+    "geniId": "6000000040559263983",
+    "rfn": "geni:6000000040559263983",
+    "changed": "17 MAR 2025"
+  },
+  "page": {
+    "route": "people/1969/",
+    "canonical": "https://www.genepedia.org/people/1969/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 850,
+  "schema": "genepedia/person@1",
+  "slug": "cecilia-margaretha-bester-850",
+  "names": {
+    "display": "Cecilia Margaretha Bester",
+    "given": "Cecilia Margaretha",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 OCT 1941",
+      "year": 1941,
+      "iso": "1941-10-03",
+      "precision": "exact",
+      "display": "October 3, 1941",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      336,
+      844
+    ],
+    "spouses": [
+      2066
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      845,
+      846,
+      847,
+      848,
+      849
+    ],
+    "parentUnions": [
+      "F234"
+    ],
+    "spouseUnions": [
+      "F538"
+    ],
+    "parentLinks": [
+      {
+        "id": 336,
+        "unionId": "F234",
+        "type": "biological"
+      },
+      {
+        "id": 844,
+        "unionId": "F234",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2066,
+        "unionId": "F538",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066578731877@",
+    "geniId": "6000000066578731877",
+    "rfn": "geni:6000000066578731877",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/850/",
+    "canonical": "https://www.genepedia.org/people/850/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4910,
+  "schema": "genepedia/person@1",
+  "slug": "isabella-magrietha-christina-bester",
+  "names": {
+    "display": "Isabella Magrietha Christina Bester",
+    "given": "Isabella Magrietha Christina",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 SEP 1930",
+      "year": 1930,
+      "iso": "1930-09-15",
+      "precision": "exact",
+      "display": "September 15, 1930",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1913,
+      4906
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4907,
+      4908,
+      4909,
+      4911,
+      4912
+    ],
+    "parentUnions": [
+      "F1165"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1913,
+        "unionId": "F1165",
+        "type": "biological"
+      },
+      {
+        "id": 4906,
+        "unionId": "F1165",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066689249841@",
+    "geniId": "6000000066689249841",
+    "rfn": "geni:6000000066689249841",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/4910/",
+    "canonical": "https://www.genepedia.org/people/4910/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

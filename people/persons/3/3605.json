@@ -1,0 +1,121 @@
+{
+  "id": 3605,
+  "schema": "genepedia/person@1",
+  "slug": "catrina-magdalena-vlekkie-oosthuizen",
+  "names": {
+    "display": "Catrina Magdalena ''Vlekkie'' Oosthuizen",
+    "given": "Catrina Magdalena ''Vlekkie''",
+    "surname": "Oosthuizen",
+    "married": "Oosthuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 MAY 1894",
+      "year": 1894,
+      "iso": "1894-05-26",
+      "precision": "exact",
+      "display": "May 26, 1894",
+      "place": null
+    },
+    "death": {
+      "date": "19 JUL 1903",
+      "year": 1903,
+      "iso": "1903-07-19",
+      "precision": "exact",
+      "display": "July 19, 1903",
+      "place": "Oos Kaap",
+      "location": {
+        "label": "Oos Kaap",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "Aberdeen",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Oos Kaap",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3600,
+      1400
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3601,
+      3602,
+      3603,
+      3604,
+      3606,
+      3607,
+      3608
+    ],
+    "parentUnions": [
+      "F873"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3600,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 1400,
+        "unionId": "F873",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029061868682@",
+    "geniId": "6000000029061868682",
+    "rfn": "geni:6000000029061868682",
+    "changed": "22 JUN 2017"
+  },
+  "page": {
+    "route": "people/3605/",
+    "canonical": "https://www.genepedia.org/people/3605/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

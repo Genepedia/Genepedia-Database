@@ -1,0 +1,104 @@
+{
+  "id": 1814,
+  "schema": "genepedia/person@1",
+  "slug": "joice",
+  "names": {
+    "display": "Joice",
+    "given": "Joice",
+    "surname": "Mapeno",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1812,
+      787
+    ],
+    "spouses": [
+      4562
+    ],
+    "exSpouses": [],
+    "children": [
+      4563
+    ],
+    "siblings": [
+      1813,
+      1815
+    ],
+    "parentUnions": [
+      "F479"
+    ],
+    "spouseUnions": [
+      "F1093"
+    ],
+    "parentLinks": [
+      {
+        "id": 1812,
+        "unionId": "F479",
+        "type": "biological"
+      },
+      {
+        "id": 787,
+        "unionId": "F479",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4562,
+        "unionId": "F1093",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4563,
+        "unionId": "F1093",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207545016822@",
+    "geniId": "6000000207545016822",
+    "rfn": "geni:6000000207545016822",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1814/",
+    "canonical": "https://www.genepedia.org/people/1814/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

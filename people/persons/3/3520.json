@@ -1,0 +1,97 @@
+{
+  "id": 3520,
+  "schema": "genepedia/person@1",
+  "slug": "johan-frederik-de-beer",
+  "names": {
+    "display": "Johan Frederik de Beer",
+    "given": "Johan Frederik",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 FEB 1872",
+      "year": 1872,
+      "iso": "1872-02-21",
+      "precision": "exact",
+      "display": "February 21, 1872",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1388,
+      3517
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3518,
+      3519,
+      3521,
+      3522,
+      3523,
+      3524
+    ],
+    "parentUnions": [
+      "F860"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1388,
+        "unionId": "F860",
+        "type": "biological"
+      },
+      {
+        "id": 3517,
+        "unionId": "F860",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000042431188832@",
+    "geniId": "6000000042431188832",
+    "rfn": "geni:6000000042431188832",
+    "changed": "20 MAY 2016"
+  },
+  "page": {
+    "route": "people/3520/",
+    "canonical": "https://www.genepedia.org/people/3520/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1796,
+  "schema": "genepedia/person@1",
+  "slug": "aaron-lurie",
+  "names": {
+    "display": "Aaron Lurie",
+    "given": "Aaron",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      758,
+      1794
+    ],
+    "spouses": [
+      4551
+    ],
+    "exSpouses": [],
+    "children": [
+      4552
+    ],
+    "siblings": [
+      1795,
+      1797,
+      1798
+    ],
+    "parentUnions": [
+      "F472"
+    ],
+    "spouseUnions": [
+      "F1086"
+    ],
+    "parentLinks": [
+      {
+        "id": 758,
+        "unionId": "F472",
+        "type": "biological"
+      },
+      {
+        "id": 1794,
+        "unionId": "F472",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4551,
+        "unionId": "F1086",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4552,
+        "unionId": "F1086",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149464832@",
+    "geniId": "6000000204149464832",
+    "rfn": "geni:6000000204149464832",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/1796/",
+    "canonical": "https://www.genepedia.org/people/1796/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

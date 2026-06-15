@@ -1,0 +1,89 @@
+{
+  "id": 3005,
+  "schema": "genepedia/person@1",
+  "slug": "clignette-rose-marie-brits",
+  "names": {
+    "display": "Clignette Rose-Marie Brits",
+    "given": "Clignette Rose-Marie",
+    "surname": "Brits",
+    "married": "Brits",
+    "nick": "",
+    "aliases": [
+      "Clignette"
+    ]
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1191,
+      3003
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3004,
+      3006,
+      3007
+    ],
+    "parentUnions": [
+      "F736"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1191,
+        "unionId": "F736",
+        "type": "biological"
+      },
+      {
+        "id": 3003,
+        "unionId": "F736",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024192856530@",
+    "geniId": "6000000024192856530",
+    "rfn": "geni:6000000024192856530",
+    "changed": "01 FEB 2018"
+  },
+  "page": {
+    "route": "people/3005/",
+    "canonical": "https://www.genepedia.org/people/3005/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

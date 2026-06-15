@@ -1,0 +1,179 @@
+{
+  "id": 2856,
+  "schema": "genepedia/person@1",
+  "slug": "john-henry-frederick-davis",
+  "names": {
+    "display": "John Henry Frederick Davis",
+    "given": "John Henry Frederick",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 MAY 1860",
+      "year": 1860,
+      "iso": "1860-05-27",
+      "precision": "exact",
+      "display": "May 27, 1860",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 JUN 1944",
+      "year": 1944,
+      "iso": "1944-06-15",
+      "precision": "exact",
+      "display": "June 15, 1944",
+      "place": "Bezuidenhout Valley, Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Bezuidenhout Valley, Johannesburg, Gauteng, South Africa",
+        "placeName": "Bezuidenhout Valley",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Primrose, Germiston, Gauteng, South Africa",
+      "location": {
+        "label": "Primrose, Germiston, Gauteng, South Africa",
+        "placeName": "Primrose",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Germiston",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b3/0e/5a/82/534448423cb3e3ac/headstone_primrose_cemetry_original.jpg?hash=4443130d34231aec6a5f855d2dac342a635e236325b3981b04c789eefa4ed9b2.1789455599",
+      "alt": "John Henry Frederick Davis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b3/0e/5a/82/534448423cb3e3ac/headstone_primrose_cemetry_original.jpg?hash=4443130d34231aec6a5f855d2dac342a635e236325b3981b04c789eefa4ed9b2.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/d5/aa/4c/87/534448423cb64c98/headstone_primrose_cemetry_original.jpg?hash=7e18f40eeec8d6d46b8ecc8cc37ba9d03bf4f56923c90a1e0a122c648b361f0f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1152,
+      2855
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2857,
+      2858,
+      2859,
+      2860
+    ],
+    "parentUnions": [
+      "F705"
+    ],
+    "spouseUnions": [
+      "F1775"
+    ],
+    "parentLinks": [
+      {
+        "id": 1152,
+        "unionId": "F705",
+        "type": "biological"
+      },
+      {
+        "id": 2855,
+        "unionId": "F705",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052760775049@",
+    "geniId": "6000000052760775049",
+    "rfn": "geni:6000000052760775049",
+    "changed": "18 JAN 2017"
+  },
+  "page": {
+    "route": "people/2856/",
+    "canonical": "https://www.genepedia.org/people/2856/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

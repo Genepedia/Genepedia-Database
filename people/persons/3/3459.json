@@ -1,0 +1,104 @@
+{
+  "id": 3459,
+  "schema": "genepedia/person@1",
+  "slug": "leon-prinsloo",
+  "names": {
+    "display": "Leon Prinsloo",
+    "given": "Leon",
+    "surname": "Prinsloo",
+    "married": "Prinsloo",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "2 SEP 2009",
+      "year": 2009,
+      "iso": "2009-09-02",
+      "precision": "exact",
+      "display": "September 2, 2009",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c2/dd/54/99/5344486602b74238/screenshot_2024-06-15_190101_original.jpg?hash=c575a4f28c8786da94a9c6628baeb8b88d73b8c7089b8905a2da72a5be256c41.1789455599",
+      "alt": "Leon Prinsloo"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c2/dd/54/99/5344486602b74238/screenshot_2024-06-15_190101_original.jpg?hash=c575a4f28c8786da94a9c6628baeb8b88d73b8c7089b8905a2da72a5be256c41.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3458,
+      1378
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3460
+    ],
+    "parentUnions": [
+      "F852"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3458,
+        "unionId": "F852",
+        "type": "biological"
+      },
+      {
+        "id": 1378,
+        "unionId": "F852",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206533629888@",
+    "geniId": "6000000206533629888",
+    "rfn": "geni:6000000206533629888",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/3459/",
+    "canonical": "https://www.genepedia.org/people/3459/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

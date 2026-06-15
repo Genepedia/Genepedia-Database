@@ -1,0 +1,95 @@
+{
+  "id": 1706,
+  "schema": "genepedia/person@1",
+  "slug": "wilhelmina-johanna-breed",
+  "names": {
+    "display": "Wilhelmina Johanna Breed",
+    "given": "Wilhelmina Johanna",
+    "surname": "Breed",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4370
+    ],
+    "spouses": [
+      1705
+    ],
+    "exSpouses": [],
+    "children": [
+      703
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1034"
+    ],
+    "spouseUnions": [
+      "F446"
+    ],
+    "parentLinks": [
+      {
+        "id": 4370,
+        "unionId": "F1034",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1705,
+        "unionId": "F446",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 703,
+        "unionId": "F446",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207608802822@",
+    "geniId": "6000000207608802822",
+    "rfn": "geni:6000000207608802822",
+    "changed": "26 JUL 2024"
+  },
+  "page": {
+    "route": "people/1706/",
+    "canonical": "https://www.genepedia.org/people/1706/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1407,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-meintjes-de-beer-1407",
+  "names": {
+    "display": "Johannes Meintjes de Beer",
+    "given": "Johannes Meintjes",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 JAN 1926",
+      "year": 1926,
+      "iso": "1926-01-15",
+      "precision": "exact",
+      "display": "January 15, 1926",
+      "place": null
+    },
+    "death": {
+      "date": "19 MAR 1993",
+      "year": 1993,
+      "iso": "1993-03-19",
+      "precision": "exact",
+      "display": "March 19, 1993",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      567,
+      1406
+    ],
+    "spouses": [
+      3663
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1408
+    ],
+    "parentUnions": [
+      "F360"
+    ],
+    "spouseUnions": [
+      "F880"
+    ],
+    "parentLinks": [
+      {
+        "id": 567,
+        "unionId": "F360",
+        "type": "biological"
+      },
+      {
+        "id": 1406,
+        "unionId": "F360",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3663,
+        "unionId": "F880",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028798781176@",
+    "geniId": "6000000028798781176",
+    "rfn": "geni:6000000028798781176",
+    "changed": "13 MAR 2015"
+  },
+  "page": {
+    "route": "people/1407/",
+    "canonical": "https://www.genepedia.org/people/1407/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

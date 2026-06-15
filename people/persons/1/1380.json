@@ -1,0 +1,116 @@
+{
+  "id": 1380,
+  "schema": "genepedia/person@1",
+  "slug": "gerda-theron",
+  "names": {
+    "display": "Gerda Theron",
+    "given": "Gerda",
+    "surname": "de Wet",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "8 MAY 1966",
+      "year": 1966,
+      "iso": "1966-05-08",
+      "precision": "exact",
+      "display": "May 8, 1966",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/70/15/5f/07/5344486602af08d3/screenshot_2024-06-15_183425_original.jpg?hash=c8d2e7c7b6a50d8eb81797f54a1b69dd32c996160877b3740cc39a8539c0272f.1789455599",
+      "alt": "Gerda Theron"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/70/15/5f/07/5344486602af08d3/screenshot_2024-06-15_183425_original.jpg?hash=c8d2e7c7b6a50d8eb81797f54a1b69dd32c996160877b3740cc39a8539c0272f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3464
+    ],
+    "spouses": [
+      562
+    ],
+    "exSpouses": [],
+    "children": [
+      1381
+    ],
+    "siblings": [
+      3465
+    ],
+    "parentUnions": [
+      "F854"
+    ],
+    "spouseUnions": [
+      "F356"
+    ],
+    "parentLinks": [
+      {
+        "id": 3464,
+        "unionId": "F854",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 562,
+        "unionId": "F356",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1381,
+        "unionId": "F356",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227702400@",
+    "geniId": "6000000027227702400",
+    "rfn": "geni:6000000027227702400",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1380/",
+    "canonical": "https://www.genepedia.org/people/1380/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

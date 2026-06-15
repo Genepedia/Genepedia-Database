@@ -1,0 +1,183 @@
+{
+  "id": 1614,
+  "schema": "genepedia/person@1",
+  "slug": "zacharias-andreas-van-staden",
+  "names": {
+    "display": "Zacharias Andreas Van Staden",
+    "given": "Zacharias Andreas",
+    "surname": "Van Staden",
+    "married": "van Staden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 NOV 1899",
+      "year": 1899,
+      "iso": "1899-11-21",
+      "precision": "exact",
+      "display": "November 21, 1899",
+      "place": "Colesburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "23 SEP 1980",
+      "year": 1980,
+      "iso": "1980-09-23",
+      "precision": "exact",
+      "display": "September 23, 1980",
+      "place": "Nigel, Gauteng, South Africa",
+      "location": {
+        "label": "Nigel, Gauteng, South Africa",
+        "placeName": "Nigel, Gauteng, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "AFT 23 SEP 1980",
+      "year": 1980,
+      "iso": "1980-09-23",
+      "precision": "after",
+      "display": "after September 23, 1980",
+      "place": "Nidel Cemetery, Nigel, Gauteng, South Africa",
+      "location": {
+        "label": "Nidel Cemetery, Nigel, Gauteng, South Africa",
+        "placeName": "Nidel Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nigel",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1611,
+      647
+    ],
+    "spouses": [
+      4268
+    ],
+    "exSpouses": [],
+    "children": [
+      4269,
+      4270
+    ],
+    "siblings": [
+      1612,
+      1613,
+      1615,
+      1616,
+      1617
+    ],
+    "parentUnions": [
+      "F410"
+    ],
+    "spouseUnions": [
+      "F1003"
+    ],
+    "parentLinks": [
+      {
+        "id": 1611,
+        "unionId": "F410",
+        "type": "biological"
+      },
+      {
+        "id": 647,
+        "unionId": "F410",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4268,
+        "unionId": "F1003",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4269,
+        "unionId": "F1003",
+        "type": "biological"
+      },
+      {
+        "id": 4270,
+        "unionId": "F1003",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000097507642847@",
+    "geniId": "6000000097507642847",
+    "rfn": "geni:6000000097507642847",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/1614/",
+    "canonical": "https://www.genepedia.org/people/1614/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

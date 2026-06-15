@@ -1,0 +1,147 @@
+{
+  "id": 2406,
+  "schema": "genepedia/person@1",
+  "slug": "dorothea-elizabeth-maria-viviers",
+  "names": {
+    "display": "Dorothea Elizabeth Maria VIviers",
+    "given": "Dorothea Elizabeth Maria",
+    "surname": "VIviers",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 SEP 1864",
+      "year": 1864,
+      "iso": "1864-09-26",
+      "precision": "exact",
+      "display": "September 26, 1864",
+      "place": "Beaufort West, WC, South Africa",
+      "location": {
+        "label": "Beaufort West, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "6970",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 JUL 1951",
+      "year": 1951,
+      "iso": "1951-07-02",
+      "precision": "exact",
+      "display": "July 2, 1951",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2405
+    ],
+    "exSpouses": [],
+    "children": [
+      974,
+      2407,
+      2408,
+      2409,
+      2410,
+      2411
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1483"
+    ],
+    "spouseUnions": [
+      "F609"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2405,
+        "unionId": "F609",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 974,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2407,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2408,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2409,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2410,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2411,
+        "unionId": "F609",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000184420983821@",
+    "geniId": "6000000184420983821",
+    "rfn": "geni:6000000184420983821",
+    "changed": "08 JUN 2022"
+  },
+  "page": {
+    "route": "people/2406/",
+    "canonical": "https://www.genepedia.org/people/2406/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

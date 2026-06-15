@@ -1,0 +1,89 @@
+{
+  "id": 3158,
+  "schema": "genepedia/person@1",
+  "slug": "gert-daniel-marais",
+  "names": {
+    "display": "Gert Daniel Marais",
+    "given": "Gert Daniel",
+    "surname": "Marais",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1262,
+      3156
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3157,
+      3159,
+      3160,
+      3161,
+      3162
+    ],
+    "parentUnions": [
+      "F776"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1262,
+        "unionId": "F776",
+        "type": "biological"
+      },
+      {
+        "id": 3156,
+        "unionId": "F776",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000073577863207@",
+    "geniId": "6000000073577863207",
+    "rfn": "geni:6000000073577863207",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/3158/",
+    "canonical": "https://www.genepedia.org/people/3158/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

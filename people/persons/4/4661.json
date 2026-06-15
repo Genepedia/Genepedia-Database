@@ -1,0 +1,157 @@
+{
+  "id": 4661,
+  "schema": "genepedia/person@1",
+  "slug": "aletta-elizabeth-stewart",
+  "names": {
+    "display": "Aletta Elizabeth Stewart",
+    "given": "Aletta Elizabeth",
+    "surname": "Stewart",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 JAN 1840",
+      "year": 1840,
+      "iso": "1840-01-31",
+      "precision": "exact",
+      "display": "January 31, 1840",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "16 MAY 1841",
+      "year": 1841,
+      "iso": "1841-05-16",
+      "precision": "exact",
+      "display": "May 16, 1841",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1861
+    ],
+    "exSpouses": [],
+    "children": [
+      4662,
+      4663,
+      4664,
+      4665,
+      4666,
+      4667,
+      4668,
+      4669
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1113"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1861,
+        "unionId": "F1113",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4662,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4663,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4664,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4665,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4666,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4667,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4668,
+        "unionId": "F1113",
+        "type": "biological"
+      },
+      {
+        "id": 4669,
+        "unionId": "F1113",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000023991699537@",
+    "geniId": "6000000023991699537",
+    "rfn": "geni:6000000023991699537",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/4661/",
+    "canonical": "https://www.genepedia.org/people/4661/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

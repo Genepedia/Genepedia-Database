@@ -1,0 +1,137 @@
+{
+  "id": 313,
+  "schema": "genepedia/person@1",
+  "slug": "harold-ellis",
+  "names": {
+    "display": "Harold Ellis",
+    "given": "Harold",
+    "surname": "Ellis",
+    "married": "Ellis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 MAY 1959",
+      "year": 1959,
+      "iso": "1959-05-15",
+      "precision": "exact",
+      "display": "May 15, 1959",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c4/7c/c4/3f/534448665743e99b/4e4e8308-6cab-454a-8915-ee22071ce257_original.jpg?hash=92caa5576b59e3f107647dbe609ab46bf1afae6019b333769bd405136063ae6d.1789455599",
+      "alt": "Harold Ellis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c4/7c/c4/3f/534448665743e99b/4e4e8308-6cab-454a-8915-ee22071ce257_original.jpg?hash=92caa5576b59e3f107647dbe609ab46bf1afae6019b333769bd405136063ae6d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      794,
+      795
+    ],
+    "spouses": [
+      115
+    ],
+    "exSpouses": [],
+    "children": [
+      314,
+      315,
+      316
+    ],
+    "siblings": [
+      796,
+      797,
+      798,
+      799
+    ],
+    "parentUnions": [
+      "F222"
+    ],
+    "spouseUnions": [
+      "F101"
+    ],
+    "parentLinks": [
+      {
+        "id": 794,
+        "unionId": "F222",
+        "type": "biological"
+      },
+      {
+        "id": 795,
+        "unionId": "F222",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 115,
+        "unionId": "F101",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 314,
+        "unionId": "F101",
+        "type": "biological"
+      },
+      {
+        "id": 315,
+        "unionId": "F101",
+        "type": "biological"
+      },
+      {
+        "id": 316,
+        "unionId": "F101",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207945980822@",
+    "geniId": "6000000207945980822",
+    "rfn": "geni:6000000207945980822",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/313/",
+    "canonical": "https://www.genepedia.org/people/313/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

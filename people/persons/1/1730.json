@@ -1,0 +1,92 @@
+{
+  "id": 1730,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-frederik-de-lange",
+  "names": {
+    "display": "Johannes Frederik De Lange",
+    "given": "Johannes Frederik",
+    "surname": "De Lange",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1886",
+      "year": 1886,
+      "iso": "1886",
+      "precision": "exact",
+      "display": "1886",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      723
+    ],
+    "exSpouses": [],
+    "children": [
+      1731
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F454"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 723,
+        "unionId": "F454",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1731,
+        "unionId": "F454",
+        "type": "adopted"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204900948857@",
+    "geniId": "6000000204900948857",
+    "rfn": "geni:6000000204900948857",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/1730/",
+    "canonical": "https://www.genepedia.org/people/1730/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

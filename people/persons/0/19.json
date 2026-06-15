@@ -1,0 +1,165 @@
+{
+  "id": 19,
+  "schema": "genepedia/person@1",
+  "slug": "marelize-scheepers",
+  "names": {
+    "display": "Marelize Scheepers",
+    "given": "Marelize",
+    "surname": "Scheepers",
+    "married": "Scheepers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 JAN 1993",
+      "year": 1993,
+      "iso": "1993-01-24",
+      "precision": "exact",
+      "display": "January 24, 1993",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Bloemfontein, Free-State, South Africa",
+  "lastResidenceLocation": {
+    "label": "Bloemfontein, Free-State, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Bloemfontein",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Free-State",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c0/b4/73/e3/534448656fc8b9e6/screenshot_2024-03-14_011046_original.jpg?hash=5ba8f5950e9c00607ec2b58f9368da0623ea70e7f5a62bcdaf702ea842d8d8c9.1789455599",
+      "alt": "Marelize Scheepers"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c0/b4/73/e3/534448656fc8b9e6/screenshot_2024-03-14_011046_original.jpg?hash=5ba8f5950e9c00607ec2b58f9368da0623ea70e7f5a62bcdaf702ea842d8d8c9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      78
+    ],
+    "spouses": [
+      4,
+      14
+    ],
+    "exSpouses": [],
+    "children": [
+      20,
+      69,
+      77
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F28"
+    ],
+    "spouseUnions": [
+      "F8",
+      "F23",
+      "F27"
+    ],
+    "parentLinks": [
+      {
+        "id": 78,
+        "unionId": "F28",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4,
+        "unionId": "F8",
+        "role": "partner"
+      },
+      {
+        "id": 14,
+        "unionId": "F23",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 20,
+        "unionId": "F8",
+        "type": "biological"
+      },
+      {
+        "id": 69,
+        "unionId": "F23",
+        "type": "biological"
+      },
+      {
+        "id": 77,
+        "unionId": "F27",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204068291855@",
+    "geniId": "6000000204068291855",
+    "rfn": "geni:6000000204068291855",
+    "changed": "18 JUL 2024"
+  },
+  "page": {
+    "route": "people/19/",
+    "canonical": "https://www.genepedia.org/people/19/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

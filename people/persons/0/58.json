@@ -1,0 +1,115 @@
+{
+  "id": 58,
+  "schema": "genepedia/person@1",
+  "slug": "tiane-smit",
+  "names": {
+    "display": "Tiane Smit",
+    "given": "Tiane",
+    "surname": "Smit",
+    "married": "Schoeman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "11 DEC 1992",
+      "year": 1992,
+      "iso": "1992-12-11",
+      "precision": "exact",
+      "display": "December 11, 1992",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/63/e3/9e/b9/53444866647fbec1/screenshot_2024-08-15_104144_original.jpg?hash=fcc3b0058e5c4a5779a5d53db3d1b2599451b247be5e82dd0c307b2f41e856e1.1789455599",
+      "alt": "Tiane Smit"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/63/e3/9e/b9/53444866647fbec1/screenshot_2024-08-15_104144_original.jpg?hash=fcc3b0058e5c4a5779a5d53db3d1b2599451b247be5e82dd0c307b2f41e856e1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      56,
+      57
+    ],
+    "spouses": [
+      196
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      10,
+      59
+    ],
+    "parentUnions": [
+      "F20"
+    ],
+    "spouseUnions": [
+      "F61"
+    ],
+    "parentLinks": [
+      {
+        "id": 56,
+        "unionId": "F20",
+        "type": "biological"
+      },
+      {
+        "id": 57,
+        "unionId": "F20",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 196,
+        "unionId": "F61",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208173826849@",
+    "geniId": "6000000208173826849",
+    "rfn": "geni:6000000208173826849",
+    "changed": "15 AUG 2024"
+  },
+  "page": {
+    "route": "people/58/",
+    "canonical": "https://www.genepedia.org/people/58/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

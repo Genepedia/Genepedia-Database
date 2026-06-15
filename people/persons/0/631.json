@@ -1,0 +1,188 @@
+{
+  "id": 631,
+  "schema": "genepedia/person@1",
+  "slug": "gert-christoffel-van-niekerk",
+  "names": {
+    "display": "Gert Christoffel van Niekerk",
+    "given": "Gert Christoffel",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 AUG 1878",
+      "year": 1878,
+      "iso": "1878-08-14",
+      "precision": "exact",
+      "display": "August 14, 1878",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 FEB 1950",
+      "year": 1950,
+      "iso": "1950-02-04",
+      "precision": "exact",
+      "display": "February 4, 1950",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/20/fc/93/89/534448663f75e346/thumb200s_1__original.jpg?hash=78b3189854c4050d8ffddb2415fe34bdc501a1d7fd949794ec28980dd48569ed.1789455599",
+      "alt": "Gert Christoffel van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/20/fc/93/89/534448663f75e346/thumb200s_1__original.jpg?hash=78b3189854c4050d8ffddb2415fe34bdc501a1d7fd949794ec28980dd48569ed.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      628,
+      629
+    ],
+    "spouses": [
+      1567
+    ],
+    "exSpouses": [],
+    "children": [
+      1568,
+      1569,
+      1570,
+      1571,
+      1572
+    ],
+    "siblings": [
+      239,
+      630,
+      632,
+      633
+    ],
+    "parentUnions": [
+      "F176"
+    ],
+    "spouseUnions": [
+      "F398"
+    ],
+    "parentLinks": [
+      {
+        "id": 628,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 629,
+        "unionId": "F176",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1567,
+        "unionId": "F398",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1568,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1569,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1570,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1571,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1572,
+        "unionId": "F398",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024837736933@",
+    "geniId": "6000000024837736933",
+    "rfn": "geni:6000000024837736933",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/631/",
+    "canonical": "https://www.genepedia.org/people/631/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

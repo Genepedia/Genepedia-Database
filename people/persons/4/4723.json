@@ -1,0 +1,180 @@
+{
+  "id": 4723,
+  "schema": "genepedia/person@1",
+  "slug": "anna-sophia-aucamp",
+  "names": {
+    "display": "Anna Sophia Aucamp",
+    "given": "Anna Sophia",
+    "surname": "Aucamp",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 FEB 1888",
+      "year": 1888,
+      "iso": "1888-02-27",
+      "precision": "exact",
+      "display": "February 27, 1888",
+      "place": null
+    },
+    "death": {
+      "date": "24 NOV 1948",
+      "year": 1948,
+      "iso": "1948-11-24",
+      "precision": "exact",
+      "display": "November 24, 1948",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Chinhoyi",
+      "location": {
+        "label": "Chinhoyi",
+        "placeName": "Chinhoyi",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/25/f0/45/28/5344484749c7183d/anna_sophia_bester_aucamp_1888-1948_chinhoyi_zimbabwe_original.jpg?hash=6626ebb11b97ee907b55b50ba818978825fec2f32ccd500907961c0733dd09ad.1789455599",
+      "alt": "Anna Sophia Aucamp"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/25/f0/45/28/5344484749c7183d/anna_sophia_bester_aucamp_1888-1948_chinhoyi_zimbabwe_original.jpg?hash=6626ebb11b97ee907b55b50ba818978825fec2f32ccd500907961c0733dd09ad.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/71/a9/32/28/53444848510a781f/anna_sophia_aucamp_original.png?hash=215253b556b8becd988ae11106c5d80ad7deb14a03ebb51dc11584acea3e1dd4.1789455599",
+        "form": "",
+        "title": "Anna Sophia Aucamp.PNG",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/01/8e/2c/c3/534448474993bc38/anna_sophia_aucamp_marriage_to_jan_hendrik_george_bester_original.jpg?hash=5b4c0d82d12e034e6cad7cca598694fe981a5f7501788c5a934d520c9cec16d9.1789455599",
+        "form": "",
+        "title": "anna sophia Aucamp marriage to Jan Hendrik George Bester.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/71/11/2f/4a/534448474f46b1f2/anna_sophia_bester_death_certificate_1948_zimbabwe_original.jpg?hash=0a1559878aafe486806a343efa1aa3c732c4f1f903ed1a63be520d5ffdace1a8.1789455599",
+        "form": "",
+        "title": "Anna Sophia Bester death certificate 1948 Zimbabwe.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1874
+    ],
+    "exSpouses": [],
+    "children": [
+      4724,
+      4725,
+      4726,
+      4727,
+      4728
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1125"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1874,
+        "unionId": "F1125",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4724,
+        "unionId": "F1125",
+        "type": "biological"
+      },
+      {
+        "id": 4725,
+        "unionId": "F1125",
+        "type": "biological"
+      },
+      {
+        "id": 4726,
+        "unionId": "F1125",
+        "type": "biological"
+      },
+      {
+        "id": 4727,
+        "unionId": "F1125",
+        "type": "biological"
+      },
+      {
+        "id": 4728,
+        "unionId": "F1125",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000074464933947@",
+    "geniId": "6000000074464933947",
+    "rfn": "geni:6000000074464933947",
+    "changed": "23 JAN 2018"
+  },
+  "page": {
+    "route": "people/4723/",
+    "canonical": "https://www.genepedia.org/people/4723/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

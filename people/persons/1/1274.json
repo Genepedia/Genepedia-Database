@@ -1,0 +1,104 @@
+{
+  "id": 1274,
+  "schema": "genepedia/person@1",
+  "slug": "cornelius-pieter-de-leeuw",
+  "names": {
+    "display": "Cornelius Pieter de Leeuw",
+    "given": "Cornelius Pieter",
+    "surname": "de Leeuw",
+    "married": "de Leeuw",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1272,
+      1271
+    ],
+    "spouses": [
+      3178
+    ],
+    "exSpouses": [],
+    "children": [
+      3179
+    ],
+    "siblings": [
+      532,
+      1273
+    ],
+    "parentUnions": [
+      "F331"
+    ],
+    "spouseUnions": [
+      "F780"
+    ],
+    "parentLinks": [
+      {
+        "id": 1272,
+        "unionId": "F331",
+        "type": "biological"
+      },
+      {
+        "id": 1271,
+        "unionId": "F331",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3178,
+        "unionId": "F780",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3179,
+        "unionId": "F780",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781389445@",
+    "geniId": "6000000007781389445",
+    "rfn": "geni:6000000007781389445",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/1274/",
+    "canonical": "https://www.genepedia.org/people/1274/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

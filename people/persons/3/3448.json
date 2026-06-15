@@ -1,0 +1,90 @@
+{
+  "id": 3448,
+  "schema": "genepedia/person@1",
+  "slug": "franken-3448",
+  "names": {
+    "display": "? Franken",
+    "given": "?",
+    "surname": "Franken",
+    "married": "Franken",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3444,
+      3445
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3446,
+      1364,
+      3447,
+      3449,
+      3450,
+      3451
+    ],
+    "parentUnions": [
+      "F848"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3444,
+        "unionId": "F848",
+        "type": "biological"
+      },
+      {
+        "id": 3445,
+        "unionId": "F848",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206588224826@",
+    "geniId": "6000000206588224826",
+    "rfn": "geni:6000000206588224826",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/3448/",
+    "canonical": "https://www.genepedia.org/people/3448/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

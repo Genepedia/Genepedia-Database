@@ -1,0 +1,166 @@
+{
+  "id": 335,
+  "schema": "genepedia/person@1",
+  "slug": "martha-maria-bester-335",
+  "names": {
+    "display": "Martha Maria Bester",
+    "given": "Martha Maria",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 FEB 1889",
+      "year": 1889,
+      "iso": "1889-02-19",
+      "precision": "exact",
+      "display": "February 19, 1889",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 MAY 1968",
+      "year": 1968,
+      "iso": "1968-05-01",
+      "precision": "exact",
+      "display": "May 1, 1968",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      331,
+      332
+    ],
+    "spouses": [
+      842
+    ],
+    "exSpouses": [],
+    "children": [
+      843
+    ],
+    "siblings": [
+      333,
+      334,
+      336,
+      337,
+      338,
+      339,
+      340,
+      129,
+      341,
+      342
+    ],
+    "parentUnions": [
+      "F107"
+    ],
+    "spouseUnions": [
+      "F233"
+    ],
+    "parentLinks": [
+      {
+        "id": 331,
+        "unionId": "F107",
+        "type": "biological"
+      },
+      {
+        "id": 332,
+        "unionId": "F107",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 842,
+        "unionId": "F233",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 843,
+        "unionId": "F233",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065160467410@",
+    "geniId": "6000000065160467410",
+    "rfn": "geni:6000000065160467410",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/335/",
+    "canonical": "https://www.genepedia.org/people/335/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1071,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-johanna-magdalena-graaff",
+  "names": {
+    "display": "Cornelia Johanna Magdalena Graaff",
+    "given": "Cornelia Johanna Magdalena",
+    "surname": "Graaff",
+    "married": "Graaff",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 JUL 1840",
+      "year": 1840,
+      "iso": "1840-07-07",
+      "precision": "exact",
+      "display": "July 7, 1840",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1066,
+      1065
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      430,
+      1067,
+      1068,
+      1069,
+      1070,
+      1072,
+      1073,
+      1074
+    ],
+    "parentUnions": [
+      "F286"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1066,
+        "unionId": "F286",
+        "type": "biological"
+      },
+      {
+        "id": 1065,
+        "unionId": "F286",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027014704953@",
+    "geniId": "6000000027014704953",
+    "rfn": "geni:6000000027014704953",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/1071/",
+    "canonical": "https://www.genepedia.org/people/1071/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

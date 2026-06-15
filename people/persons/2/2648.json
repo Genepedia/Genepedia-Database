@@ -1,0 +1,151 @@
+{
+  "id": 2648,
+  "schema": "genepedia/person@1",
+  "slug": "jan-adam-petrus-maritz",
+  "names": {
+    "display": "Jan Adam Petrus Maritz",
+    "given": "Jan Adam Petrus",
+    "surname": "Maritz",
+    "married": "Maritz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 JAN 1877",
+      "year": 1877,
+      "iso": "1877-01-08",
+      "precision": "exact",
+      "display": "January 8, 1877",
+      "place": "Cottesloe, Johannesburg, South Africa",
+      "location": {
+        "label": "Cottesloe, Johannesburg, South Africa",
+        "placeName": "Cottesloe",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "14 JUN 1952",
+      "year": 1952,
+      "iso": "1952-06-14",
+      "precision": "exact",
+      "display": "June 14, 1952",
+      "place": "Mayfair, Johannesburg, South Africa",
+      "location": {
+        "label": "Mayfair, Johannesburg, South Africa",
+        "placeName": "Mayfair",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/a1/5e/bd/e9/53444856fc96b51d/maritz_jan_adam_petrus_pic_original.jpg?hash=799481104578f3a64fb6447dea5096dbe0a60198c253d2eb8a8a7b4ca324b70c.1789455599",
+      "alt": "Jan Adam Petrus Maritz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/a1/5e/bd/e9/53444856fc96b51d/maritz_jan_adam_petrus_pic_original.jpg?hash=799481104578f3a64fb6447dea5096dbe0a60198c253d2eb8a8a7b4ca324b70c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/e2/0d/6e/c1/53444856fb16158c/maritz_jan_adam_petrus_sen_death_original.jpg?hash=cc5d3f32efb1d3d38e2462803d49b5a77517cc071d3f34aeeee13feb29efbe00.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2647,
+      1072
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F649"
+    ],
+    "spouseUnions": [
+      "F1633",
+      "F1634"
+    ],
+    "parentLinks": [
+      {
+        "id": 2647,
+        "unionId": "F649",
+        "type": "biological"
+      },
+      {
+        "id": 1072,
+        "unionId": "F649",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000141981684847@",
+    "geniId": "6000000141981684847",
+    "rfn": "geni:6000000141981684847",
+    "changed": "04 FEB 2021"
+  },
+  "page": {
+    "route": "people/2648/",
+    "canonical": "https://www.genepedia.org/people/2648/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

@@ -1,0 +1,127 @@
+{
+  "id": 3632,
+  "schema": "genepedia/person@1",
+  "slug": "timotheus-meintjes",
+  "names": {
+    "display": "Timotheus Meintjes",
+    "given": "Timotheus",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 MAY 1898",
+      "year": 1898,
+      "iso": "1898-05-16",
+      "precision": "exact",
+      "display": "May 16, 1898",
+      "place": "Klerksdorp, NW, South Africa",
+      "location": {
+        "label": "Klerksdorp, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Klerksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1970",
+      "year": 1970,
+      "iso": "1970",
+      "precision": "exact",
+      "display": "1970",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1402,
+      3623
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3624,
+      3625,
+      3626,
+      3627,
+      3628,
+      3629,
+      3630,
+      3631,
+      3633,
+      3634,
+      3635,
+      3636,
+      3637
+    ],
+    "parentUnions": [
+      "F875"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1402,
+        "unionId": "F875",
+        "type": "biological"
+      },
+      {
+        "id": 3623,
+        "unionId": "F875",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000010579699018@",
+    "geniId": "6000000010579699018",
+    "rfn": "geni:6000000010579699018",
+    "changed": "04 FEB 2015"
+  },
+  "page": {
+    "route": "people/3632/",
+    "canonical": "https://www.genepedia.org/people/3632/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

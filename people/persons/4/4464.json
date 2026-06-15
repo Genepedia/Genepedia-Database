@@ -1,0 +1,104 @@
+{
+  "id": 4464,
+  "schema": "genepedia/person@1",
+  "slug": "reuven-lurie",
+  "names": {
+    "display": "Reuven Lurie",
+    "given": "Reuven",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1907",
+      "year": 1907,
+      "iso": "1907",
+      "precision": "exact",
+      "display": "1907",
+      "place": null
+    },
+    "death": {
+      "date": "1998",
+      "year": 1998,
+      "iso": "1998",
+      "precision": "exact",
+      "display": "1998",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1745,
+      4460
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4461,
+      4462,
+      4463,
+      4465,
+      4466,
+      4467
+    ],
+    "parentUnions": [
+      "F1057"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1745,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4460,
+        "unionId": "F1057",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291287@",
+    "geniId": "6000000003658291287",
+    "rfn": "geni:6000000003658291287",
+    "changed": "11 JUN 2021"
+  },
+  "page": {
+    "route": "people/4464/",
+    "canonical": "https://www.genepedia.org/people/4464/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

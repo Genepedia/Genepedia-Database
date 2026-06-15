@@ -1,0 +1,137 @@
+{
+  "id": 1328,
+  "schema": "genepedia/person@1",
+  "slug": "adriaan-hendrik-martinus-van-taak",
+  "names": {
+    "display": "Adriaan Hendrik Martinus van Taak",
+    "given": "Adriaan Hendrik Martinus",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "Martin",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 NOV 1939",
+      "year": 1939,
+      "iso": "1939-11-26",
+      "precision": "exact",
+      "display": "November 26, 1939",
+      "place": null
+    },
+    "death": {
+      "date": "5 SEP 1991",
+      "year": 1991,
+      "iso": "1991-09-05",
+      "precision": "exact",
+      "display": "September 5, 1991",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b8/29/bd/de/5344483c869c57ed/puz39vur_original.jpg?hash=802647607697400d027b914efeff037830711ba6407d9ce10c35f590cca4c01b.1789455599",
+      "alt": "Adriaan Hendrik Martinus van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b8/29/bd/de/5344483c869c57ed/puz39vur_original.jpg?hash=802647607697400d027b914efeff037830711ba6407d9ce10c35f590cca4c01b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      544,
+      1326
+    ],
+    "spouses": [
+      3360
+    ],
+    "exSpouses": [],
+    "children": [
+      3361,
+      3362
+    ],
+    "siblings": [
+      1327,
+      1329,
+      1330
+    ],
+    "parentUnions": [
+      "F342"
+    ],
+    "spouseUnions": [
+      "F826"
+    ],
+    "parentLinks": [
+      {
+        "id": 544,
+        "unionId": "F342",
+        "type": "biological"
+      },
+      {
+        "id": 1326,
+        "unionId": "F342",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3360,
+        "unionId": "F826",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3361,
+        "unionId": "F826",
+        "type": "biological"
+      },
+      {
+        "id": 3362,
+        "unionId": "F826",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020386695881@",
+    "geniId": "6000000020386695881",
+    "rfn": "geni:6000000020386695881",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1328/",
+    "canonical": "https://www.genepedia.org/people/1328/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

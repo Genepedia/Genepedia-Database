@@ -1,0 +1,126 @@
+{
+  "id": 690,
+  "schema": "genepedia/person@1",
+  "slug": "natasha-bicanovsky",
+  "names": {
+    "display": "Natasha Bicanovsky",
+    "given": "Natasha",
+    "surname": "Bicanovsky",
+    "married": "Mendes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "23 SEP 1977",
+      "year": 1977,
+      "iso": "1977-09-23",
+      "precision": "exact",
+      "display": "September 23, 1977",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/29/0d/86/39/5344486641a90f02/jpg_10__original.jpg?hash=b77f01ca20c58d319776027b827ff57a5dc82e7b0b9eba3f4b22de6b0a8d0882.1789455599",
+      "alt": "Natasha Bicanovsky"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/29/0d/86/39/5344486641a90f02/jpg_10__original.jpg?hash=b77f01ca20c58d319776027b827ff57a5dc82e7b0b9eba3f4b22de6b0a8d0882.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      689,
+      270
+    ],
+    "spouses": [
+      1699
+    ],
+    "exSpouses": [],
+    "children": [
+      1700,
+      1701
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F193"
+    ],
+    "spouseUnions": [
+      "F442"
+    ],
+    "parentLinks": [
+      {
+        "id": 689,
+        "unionId": "F193",
+        "type": "biological"
+      },
+      {
+        "id": 270,
+        "unionId": "F193",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1699,
+        "unionId": "F442",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1700,
+        "unionId": "F442",
+        "type": "biological"
+      },
+      {
+        "id": 1701,
+        "unionId": "F442",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207589480882@",
+    "geniId": "6000000207589480882",
+    "rfn": "geni:6000000207589480882",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/690/",
+    "canonical": "https://www.genepedia.org/people/690/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

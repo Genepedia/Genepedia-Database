@@ -1,0 +1,122 @@
+{
+  "id": 1669,
+  "schema": "genepedia/person@1",
+  "slug": "john-william-nicholas",
+  "names": {
+    "display": "John William Nicholas",
+    "given": "John William",
+    "surname": "Nicholas",
+    "married": "Nicholas",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1907",
+      "year": 1907,
+      "iso": "1907",
+      "precision": "exact",
+      "display": "1907",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Factory Overseer Mt Edgcombe South Africa",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d2/63/96/b5/53444866dbe06214/meilhon_marr_5_oct_1929_ann_marie_22_yrs_olf_born_umzinto_s_coast_natal_511_umgeni_rd_durban_marr_john_william_nicholas_22_yrs_old_mike_copeland_step_father_original.jpg?hash=a98ee50b638869c0387c3113e1f3200667e6bc411b5059923c1635810156d22b.1789455599",
+      "alt": "John William Nicholas"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d2/63/96/b5/53444866dbe06214/meilhon_marr_5_oct_1929_ann_marie_22_yrs_olf_born_umzinto_s_coast_natal_511_umgeni_rd_durban_marr_john_william_nicholas_22_yrs_old_mike_copeland_step_father_original.jpg?hash=a98ee50b638869c0387c3113e1f3200667e6bc411b5059923c1635810156d22b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      673
+    ],
+    "exSpouses": [],
+    "children": [
+      1670,
+      1671,
+      1672,
+      1673
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F433"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 673,
+        "unionId": "F433",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1670,
+        "unionId": "F433",
+        "type": "biological"
+      },
+      {
+        "id": 1671,
+        "unionId": "F433",
+        "type": "biological"
+      },
+      {
+        "id": 1672,
+        "unionId": "F433",
+        "type": "biological"
+      },
+      {
+        "id": 1673,
+        "unionId": "F433",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I3946468653510063751@",
+    "geniId": "3946468653510063751",
+    "rfn": "geni:3946468653510063751",
+    "changed": "22 OCT 2024"
+  },
+  "page": {
+    "route": "people/1669/",
+    "canonical": "https://www.genepedia.org/people/1669/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

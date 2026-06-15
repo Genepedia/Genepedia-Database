@@ -1,0 +1,118 @@
+{
+  "id": 4971,
+  "schema": "genepedia/person@1",
+  "slug": "delila-strauss",
+  "names": {
+    "display": "Delila Strauss",
+    "given": "Delila",
+    "surname": "Strauss",
+    "married": "Anderson",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 OCT 1913",
+      "year": 1913,
+      "iso": "1913-10-04",
+      "precision": "exact",
+      "display": "October 4, 1913",
+      "place": null
+    },
+    "death": {
+      "date": "22 DEC 2003",
+      "year": 2003,
+      "iso": "2003-12-22",
+      "precision": "exact",
+      "display": "December 22, 2003",
+      "place": "Pietermaritzburg, KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Pietermaritzburg, KwaZulu-Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pietermaritzburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KwaZulu-Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4968,
+      1931
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4969,
+      4970,
+      4972,
+      4973
+    ],
+    "parentUnions": [
+      "F1179"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4968,
+        "unionId": "F1179",
+        "type": "biological"
+      },
+      {
+        "id": 1931,
+        "unionId": "F1179",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000044433688321@",
+    "geniId": "6000000044433688321",
+    "rfn": "geni:6000000044433688321",
+    "changed": "10 SEP 2016"
+  },
+  "page": {
+    "route": "people/4971/",
+    "canonical": "https://www.genepedia.org/people/4971/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

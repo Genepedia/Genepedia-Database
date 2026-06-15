@@ -1,0 +1,101 @@
+{
+  "id": 2026,
+  "schema": "genepedia/person@1",
+  "slug": "hercules-petrus-kleynhans",
+  "names": {
+    "display": "Hercules Petrus Kleynhans",
+    "given": "Hercules Petrus",
+    "surname": "Kleynhans",
+    "married": "Kleynhans",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 SEP 1887",
+      "year": 1887,
+      "iso": "1887-09-20",
+      "precision": "exact",
+      "display": "September 20, 1887",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      840,
+      2019
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2027,
+      2028
+    ],
+    "parentUnions": [
+      "F529"
+    ],
+    "spouseUnions": [
+      "F1243"
+    ],
+    "parentLinks": [
+      {
+        "id": 840,
+        "unionId": "F529",
+        "type": "biological"
+      },
+      {
+        "id": 2019,
+        "unionId": "F529",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056309347072@",
+    "geniId": "6000000056309347072",
+    "rfn": "geni:6000000056309347072",
+    "changed": "26 MAR 2026"
+  },
+  "page": {
+    "route": "people/2026/",
+    "canonical": "https://www.genepedia.org/people/2026/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

@@ -1,0 +1,114 @@
+{
+  "id": 4260,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jurgens-van-staden-4260",
+  "names": {
+    "display": "Johannes Jurgens van Staden",
+    "given": "Johannes Jurgens",
+    "surname": "van Staden",
+    "married": "van Staden",
+    "nick": "Johannes Jurgen",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1839",
+      "year": 1839,
+      "iso": "1839",
+      "precision": "exact",
+      "display": "1839",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4259
+    ],
+    "exSpouses": [],
+    "children": [
+      1611,
+      4261
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F999"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4259,
+        "unionId": "F999",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1611,
+        "unionId": "F999",
+        "type": "biological"
+      },
+      {
+        "id": 4261,
+        "unionId": "F999",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000031029701164@",
+    "geniId": "6000000031029701164",
+    "rfn": "geni:6000000031029701164",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/4260/",
+    "canonical": "https://www.genepedia.org/people/4260/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

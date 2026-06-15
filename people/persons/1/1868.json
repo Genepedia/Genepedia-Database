@@ -1,0 +1,161 @@
+{
+  "id": 1868,
+  "schema": "genepedia/person@1",
+  "slug": "jan-andries-bester",
+  "names": {
+    "display": "Jan Andries Bester",
+    "given": "Jan Andries",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 SEP 1889",
+      "year": 1889,
+      "iso": "1889-09-22",
+      "precision": "exact",
+      "display": "September 22, 1889",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "19 OCT 1925",
+      "year": 1925,
+      "iso": "1925-10-19",
+      "precision": "exact",
+      "display": "October 19, 1925",
+      "place": "Philippolis, Free State, South Africa",
+      "location": {
+        "label": "Philippolis, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philippolis",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      812,
+      1863
+    ],
+    "spouses": [
+      4698
+    ],
+    "exSpouses": [],
+    "children": [
+      4699,
+      4700
+    ],
+    "siblings": [
+      1864,
+      1865,
+      1866,
+      1867,
+      1869,
+      1870,
+      1871
+    ],
+    "parentUnions": [
+      "F496"
+    ],
+    "spouseUnions": [
+      "F1120"
+    ],
+    "parentLinks": [
+      {
+        "id": 812,
+        "unionId": "F496",
+        "type": "biological"
+      },
+      {
+        "id": 1863,
+        "unionId": "F496",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4698,
+        "unionId": "F1120",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4699,
+        "unionId": "F1120",
+        "type": "biological"
+      },
+      {
+        "id": 4700,
+        "unionId": "F1120",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066163006980@",
+    "geniId": "6000000066163006980",
+    "rfn": "geni:6000000066163006980",
+    "changed": "25 MAY 2018"
+  },
+  "page": {
+    "route": "people/1868/",
+    "canonical": "https://www.genepedia.org/people/1868/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

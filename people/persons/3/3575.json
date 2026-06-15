@@ -1,0 +1,144 @@
+{
+  "id": 3575,
+  "schema": "genepedia/person@1",
+  "slug": "frederika-elizabeth-meintjes",
+  "names": {
+    "display": "Frederika Elizabeth Meintjes",
+    "given": "Frederika Elizabeth",
+    "surname": "Meintjes",
+    "married": "Smit",
+    "nick": "Frederika",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 JUN 1825",
+      "year": 1825,
+      "iso": "1825-06-08",
+      "precision": "exact",
+      "display": "June 8, 1825",
+      "place": null
+    },
+    "death": {
+      "date": "31 JUL 1902",
+      "year": 1902,
+      "iso": "1902-07-31",
+      "precision": "exact",
+      "display": "July 31, 1902",
+      "place": "Graaff-Reinet",
+      "location": {
+        "label": "Graaff-Reinet",
+        "placeName": "",
+        "addressLine1": "Stockenstroomstraat",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Huisvrou",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/c3/c1/a3/83/5344486316633cb3/record-image__original.jpg?hash=232821ec5864ac6dfaa9e999f6bda013b557c07718d648f5452ae6d5d80ba20c.1789455599",
+      "alt": "Frederika Elizabeth Meintjes"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/c3/c1/a3/83/5344486316633cb3/record-image__original.jpg?hash=232821ec5864ac6dfaa9e999f6bda013b557c07718d648f5452ae6d5d80ba20c.1789455599",
+        "form": "",
+        "title": "record-image_trou 1850 .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/e6/58/7c/6d/53444863166720e6/record-image__original.jpg?hash=f53979cb23b2094f3cc675adb9385b0e870af087901745b6e77d1eb6403d79ea.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3571,
+      3570
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1396,
+      3572,
+      3573,
+      3574,
+      3576,
+      3577,
+      3578,
+      3579,
+      3580,
+      3581,
+      3582
+    ],
+    "parentUnions": [
+      "F869"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3571,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3570,
+        "unionId": "F869",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000019880722925@",
+    "geniId": "6000000019880722925",
+    "rfn": "geni:6000000019880722925",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3575/",
+    "canonical": "https://www.genepedia.org/people/3575/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

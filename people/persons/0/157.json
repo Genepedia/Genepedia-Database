@@ -1,0 +1,120 @@
+{
+  "id": 157,
+  "schema": "genepedia/person@1",
+  "slug": "hencia-oosthuizen",
+  "names": {
+    "display": "Hencia Oosthuizen",
+    "given": "Hencia",
+    "surname": "Oosthuizen",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BET 1978 AND 1996",
+      "year": 1978,
+      "iso": "1996",
+      "precision": "exact",
+      "display": "1996",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d0/92/d1/52/534448656e8fd489/347422677_185287940795202_3546318661633117155_n_original.jpg?hash=669601e6d7ed80c54ef751627c0ea375ec0af04ddf793b01c0145c4f416c91a8.1789455599",
+      "alt": "Hencia Oosthuizen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d0/92/d1/52/534448656e8fd489/347422677_185287940795202_3546318661633117155_n_original.jpg?hash=669601e6d7ed80c54ef751627c0ea375ec0af04ddf793b01c0145c4f416c91a8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      156,
+      43
+    ],
+    "spouses": [
+      407
+    ],
+    "exSpouses": [],
+    "children": [
+      408
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F50"
+    ],
+    "spouseUnions": [
+      "F130"
+    ],
+    "parentLinks": [
+      {
+        "id": 156,
+        "unionId": "F50",
+        "type": "biological"
+      },
+      {
+        "id": 43,
+        "unionId": "F50",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 407,
+        "unionId": "F130",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 408,
+        "unionId": "F130",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204043594821@",
+    "geniId": "6000000204043594821",
+    "rfn": "geni:6000000204043594821",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/157/",
+    "canonical": "https://www.genepedia.org/people/157/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

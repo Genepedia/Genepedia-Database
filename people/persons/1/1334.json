@@ -1,0 +1,155 @@
+{
+  "id": 1334,
+  "schema": "genepedia/person@1",
+  "slug": "arnoldus-de-vrye-van-taak",
+  "names": {
+    "display": "Arnoldus de Vrye van Taak",
+    "given": "Arnoldus de Vrye",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "DIV",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JUL 1946",
+      "year": 1946,
+      "iso": "1946-07-18",
+      "precision": "exact",
+      "display": "July 18, 1946",
+      "place": "Malmesbury, Cape Province, South Africa",
+      "location": {
+        "label": "Malmesbury, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Malmesbury",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 NOV 2018",
+      "year": 2018,
+      "iso": "2018-11-08",
+      "precision": "exact",
+      "display": "November 8, 2018",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/74/35/0e/9d/5344483d2544e627/div_van_taak2_original.jpg?hash=c589de907e8d41b24fd81036c4b0fc1030885a56e36febc5bdf7400436020fd1.1789455599",
+      "alt": "Arnoldus de Vrye van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/74/35/0e/9d/5344483d2544e627/div_van_taak2_original.jpg?hash=c589de907e8d41b24fd81036c4b0fc1030885a56e36febc5bdf7400436020fd1.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      545,
+      1333
+    ],
+    "spouses": [
+      3379
+    ],
+    "exSpouses": [],
+    "children": [
+      3380,
+      3381,
+      3382
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F344"
+    ],
+    "spouseUnions": [
+      "F831"
+    ],
+    "parentLinks": [
+      {
+        "id": 545,
+        "unionId": "F344",
+        "type": "biological"
+      },
+      {
+        "id": 1333,
+        "unionId": "F344",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3379,
+        "unionId": "F831",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3380,
+        "unionId": "F831",
+        "type": "biological"
+      },
+      {
+        "id": 3381,
+        "unionId": "F831",
+        "type": "biological"
+      },
+      {
+        "id": 3382,
+        "unionId": "F831",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020386876782@",
+    "geniId": "6000000020386876782",
+    "rfn": "geni:6000000020386876782",
+    "changed": "27 OCT 2023"
+  },
+  "page": {
+    "route": "people/1334/",
+    "canonical": "https://www.genepedia.org/people/1334/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

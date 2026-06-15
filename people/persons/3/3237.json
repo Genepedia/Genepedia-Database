@@ -1,0 +1,96 @@
+{
+  "id": 3237,
+  "schema": "genepedia/person@1",
+  "slug": "anna-wilhelmina-refita-van-der-merwe",
+  "names": {
+    "display": "Anna Wilhelmina Refita van der Merwe",
+    "given": "Anna Wilhelmina Refita",
+    "surname": "Mouton",
+    "married": "van der Merwe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 JAN 1918",
+      "year": 1918,
+      "iso": "1918-01-23",
+      "precision": "exact",
+      "display": "January 23, 1918",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1293,
+      3236
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3238,
+      3239,
+      3240,
+      3241,
+      3242
+    ],
+    "parentUnions": [
+      "F796"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1293,
+        "unionId": "F796",
+        "type": "biological"
+      },
+      {
+        "id": 3236,
+        "unionId": "F796",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107531270008@",
+    "geniId": "6000000107531270008",
+    "rfn": "geni:6000000107531270008",
+    "changed": "24 SEP 2019"
+  },
+  "page": {
+    "route": "people/3237/",
+    "canonical": "https://www.genepedia.org/people/3237/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

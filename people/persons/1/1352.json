@@ -1,0 +1,163 @@
+{
+  "id": 1352,
+  "schema": "genepedia/person@1",
+  "slug": "arthur-frederic-bradley",
+  "names": {
+    "display": "Arthur Frederic Bradley",
+    "given": "Arthur Frederic",
+    "surname": "Bradley",
+    "married": "Bradley",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 OCT 1905",
+      "year": 1905,
+      "iso": "1905-10-12",
+      "precision": "exact",
+      "display": "October 12, 1905",
+      "place": null
+    },
+    "death": {
+      "date": "1 AUG 1967",
+      "year": 1967,
+      "iso": "1967-08-01",
+      "precision": "exact",
+      "display": "August 1, 1967",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Windhoek, Khomas Region, Namibia",
+      "location": {
+        "label": "Windhoek, Khomas Region, Namibia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Windhoek",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Khomas Region",
+        "country": "Namibia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d0/bf/e8/f0/5344484b7bffb874/bradley_arthur_f_original.jpg?hash=07476590eb7209b35dff5c288ac14d5d36426c3035080f654341e8fa6297e344.1789455599",
+      "alt": "Arthur Frederic Bradley"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d0/bf/e8/f0/5344484b7bffb874/bradley_arthur_f_original.jpg?hash=07476590eb7209b35dff5c288ac14d5d36426c3035080f654341e8fa6297e344.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3439
+    ],
+    "spouses": [
+      548
+    ],
+    "exSpouses": [],
+    "children": [
+      1353,
+      1354,
+      1355,
+      1356
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F845"
+    ],
+    "spouseUnions": [
+      "F347"
+    ],
+    "parentLinks": [
+      {
+        "id": 3439,
+        "unionId": "F845",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 548,
+        "unionId": "F347",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1353,
+        "unionId": "F347",
+        "type": "biological"
+      },
+      {
+        "id": 1354,
+        "unionId": "F347",
+        "type": "biological"
+      },
+      {
+        "id": 1355,
+        "unionId": "F347",
+        "type": "biological"
+      },
+      {
+        "id": 1356,
+        "unionId": "F347",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000092604151888@",
+    "geniId": "6000000092604151888",
+    "rfn": "geni:6000000092604151888",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/1352/",
+    "canonical": "https://www.genepedia.org/people/1352/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

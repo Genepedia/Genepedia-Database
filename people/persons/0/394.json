@@ -1,0 +1,86 @@
+{
+  "id": 394,
+  "schema": "genepedia/person@1",
+  "slug": "thomas-henry-diedricks",
+  "names": {
+    "display": "Thomas Henry Diedricks",
+    "given": "Thomas Henry",
+    "surname": "Diedricks",
+    "married": "Diedricks",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      393,
+      144
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      395,
+      396
+    ],
+    "parentUnions": [
+      "F122"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 393,
+        "unionId": "F122",
+        "type": "biological"
+      },
+      {
+        "id": 144,
+        "unionId": "F122",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057886677133@",
+    "geniId": "6000000057886677133",
+    "rfn": "geni:6000000057886677133",
+    "changed": "02 MAY 2022"
+  },
+  "page": {
+    "route": "people/394/",
+    "canonical": "https://www.genepedia.org/people/394/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,93 @@
+{
+  "id": 3059,
+  "schema": "genepedia/person@1",
+  "slug": "adriaan-lodewikus-fourie-3059",
+  "names": {
+    "display": "Adriaan Lodewikus Fourie",
+    "given": "Adriaan Lodewikus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "9 APR 1984",
+      "year": 1984,
+      "iso": "1984-04-09",
+      "precision": "exact",
+      "display": "April 9, 1984",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3056,
+      1223
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3057,
+      3058
+    ],
+    "parentUnions": [
+      "F750"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3056,
+        "unionId": "F750",
+        "type": "biological"
+      },
+      {
+        "id": 1223,
+        "unionId": "F750",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000222126547860@",
+    "geniId": "6000000222126547860",
+    "rfn": "geni:6000000222126547860",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3059/",
+    "canonical": "https://www.genepedia.org/people/3059/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

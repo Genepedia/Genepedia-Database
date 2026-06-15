@@ -1,0 +1,115 @@
+{
+  "id": 654,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobus-de-beer",
+  "names": {
+    "display": "Johannes Jacobus De Beer",
+    "given": "Johannes Jacobus",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1886",
+      "year": 1886,
+      "iso": "1886",
+      "precision": "about",
+      "display": "about 1886",
+      "place": "Dewetsdorp, Orange Free State, South Africa",
+      "location": {
+        "label": "Dewetsdorp, Orange Free State, South Africa",
+        "placeName": "Dewetsdorp, Orange Free State, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      646,
+      645
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      647,
+      648,
+      649,
+      650,
+      651,
+      652,
+      653,
+      247
+    ],
+    "parentUnions": [
+      "F181"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 646,
+        "unionId": "F181",
+        "type": "biological"
+      },
+      {
+        "id": 645,
+        "unionId": "F181",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207334266845@",
+    "geniId": "6000000207334266845",
+    "rfn": "geni:6000000207334266845",
+    "changed": "15 JUL 2024"
+  },
+  "page": {
+    "route": "people/654/",
+    "canonical": "https://www.genepedia.org/people/654/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

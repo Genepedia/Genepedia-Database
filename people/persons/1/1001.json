@@ -1,0 +1,199 @@
+{
+  "id": 1001,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-sophia-barendina-jooste",
+  "names": {
+    "display": "Susanna Sophia Barendina Jooste",
+    "given": "Susanna Sophia Barendina",
+    "surname": "Jooste",
+    "married": "Jooste",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 SEP 1831",
+      "year": 1831,
+      "iso": "1831-09-04",
+      "precision": "exact",
+      "display": "September 4, 1831",
+      "place": "Koude Bokkeveld, Ceres, Western Cape, South Africa",
+      "location": {
+        "label": "Koude Bokkeveld, Ceres, Western Cape, South Africa",
+        "placeName": "Koude Bokkeveld",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ceres",
+        "postalCode": "6835",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "26 OCT 1889",
+      "year": 1889,
+      "iso": "1889-10-26",
+      "precision": "exact",
+      "display": "October 26, 1889",
+      "place": "Water Erf No 52, Prieska, South Africa",
+      "location": {
+        "label": "Water Erf No 52, Prieska, South Africa",
+        "placeName": "Water Erf No 52",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prieska",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/47/14/7f/fe/534448684a8548e8/joseph_adriaan_jooste_marriage__original.jpg?hash=fd930632007a297f47323274683a20e8d0e250d3afd668277634a8a8cdf1a82c.1789455599",
+      "alt": "Susanna Sophia Barendina Jooste"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/47/14/7f/fe/534448684a8548e8/joseph_adriaan_jooste_marriage__original.jpg?hash=fd930632007a297f47323274683a20e8d0e250d3afd668277634a8a8cdf1a82c.1789455599",
+        "form": "",
+        "title": "Joseph Adriaan Jooste marriage .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2447,
+      2448
+    ],
+    "spouses": [
+      1000
+    ],
+    "exSpouses": [],
+    "children": [
+      1002,
+      416,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007
+    ],
+    "siblings": [
+      2449,
+      2450,
+      2451
+    ],
+    "parentUnions": [
+      "F616"
+    ],
+    "spouseUnions": [
+      "F277"
+    ],
+    "parentLinks": [
+      {
+        "id": 2447,
+        "unionId": "F616",
+        "type": "biological"
+      },
+      {
+        "id": 2448,
+        "unionId": "F616",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1000,
+        "unionId": "F277",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1002,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 416,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1003,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1004,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1005,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1006,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1007,
+        "unionId": "F277",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000097044332864@",
+    "geniId": "6000000097044332864",
+    "rfn": "geni:6000000097044332864",
+    "changed": "04 MAR 2025"
+  },
+  "page": {
+    "route": "people/1001/",
+    "canonical": "https://www.genepedia.org/people/1001/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

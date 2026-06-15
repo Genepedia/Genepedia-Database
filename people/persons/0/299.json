@@ -1,0 +1,172 @@
+{
+  "id": 299,
+  "schema": "genepedia/person@1",
+  "slug": "solomon-lurie",
+  "names": {
+    "display": "Solomon Lurie",
+    "given": "Solomon",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1922",
+      "year": 1922,
+      "iso": "1922",
+      "precision": "exact",
+      "display": "1922",
+      "place": "Salisbury, Rhodesia",
+      "location": {
+        "label": "Salisbury, Rhodesia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Salisbury",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Rhodesia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 FEB 1972",
+      "year": 1972,
+      "iso": "1972-02-21",
+      "precision": "exact",
+      "display": "February 21, 1972",
+      "place": "Sinoia, Rhodesia",
+      "location": {
+        "label": "Sinoia, Rhodesia",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Sinoia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Rhodesia",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      297,
+      298
+    ],
+    "spouses": [
+      740
+    ],
+    "exSpouses": [],
+    "children": [
+      741,
+      742,
+      743,
+      744
+    ],
+    "siblings": [
+      110,
+      300,
+      301,
+      302,
+      303,
+      304
+    ],
+    "parentUnions": [
+      "F97"
+    ],
+    "spouseUnions": [
+      "F209"
+    ],
+    "parentLinks": [
+      {
+        "id": 297,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 298,
+        "unionId": "F97",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 740,
+        "unionId": "F209",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 741,
+        "unionId": "F209",
+        "type": "biological"
+      },
+      {
+        "id": 742,
+        "unionId": "F209",
+        "type": "biological"
+      },
+      {
+        "id": 743,
+        "unionId": "F209",
+        "type": "biological"
+      },
+      {
+        "id": 744,
+        "unionId": "F209",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204087688822@",
+    "geniId": "6000000204087688822",
+    "rfn": "geni:6000000204087688822",
+    "changed": "20 JAN 2025"
+  },
+  "page": {
+    "route": "people/299/",
+    "canonical": "https://www.genepedia.org/people/299/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

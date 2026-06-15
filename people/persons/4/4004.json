@@ -1,0 +1,152 @@
+{
+  "id": 4004,
+  "schema": "genepedia/person@1",
+  "slug": "jan-albert-van-niekerk",
+  "names": {
+    "display": "Jan Albert van Niekerk",
+    "given": "Jan Albert",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "Jan Albert Van Nieukerke",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 8 MAR 1801",
+      "year": 1801,
+      "iso": "1801-03-08",
+      "precision": "before",
+      "display": "before March 8, 1801",
+      "place": "Graaff-Reinet, Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "8 MAR 1801",
+      "year": 1801,
+      "iso": "1801-03-08",
+      "precision": "exact",
+      "display": "March 8, 1801",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/a4/d9/e4/e5/5344484b67f66911/baptism_jan_albert_van_nieukerke_8mar1801_original.jpg?hash=5eed466e42c603a9d73d064afcf960b00c75c2c9d3d09f61fd518a4246196f90.1789455599",
+      "alt": "Jan Albert van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/a4/d9/e4/e5/5344484b67f66911/baptism_jan_albert_van_nieukerke_8mar1801_original.jpg?hash=5eed466e42c603a9d73d064afcf960b00c75c2c9d3d09f61fd518a4246196f90.1789455599",
+        "form": "",
+        "title": "Baptism Jan Albert Van Nieukerke 8Mar1801.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4002,
+      4001
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4003,
+      4005,
+      4006,
+      1539,
+      4007,
+      4008,
+      4009,
+      4010,
+      4011,
+      4012
+    ],
+    "parentUnions": [
+      "F936"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4002,
+        "unionId": "F936",
+        "type": "biological"
+      },
+      {
+        "id": 4001,
+        "unionId": "F936",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000018769122736@",
+    "geniId": "6000000018769122736",
+    "rfn": "geni:6000000018769122736",
+    "changed": "18 JUN 2023"
+  },
+  "page": {
+    "route": "people/4004/",
+    "canonical": "https://www.genepedia.org/people/4004/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

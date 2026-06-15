@@ -1,0 +1,97 @@
+{
+  "id": 1485,
+  "schema": "genepedia/person@1",
+  "slug": "dawie-nel",
+  "names": {
+    "display": "Dawie Nel",
+    "given": "Dawie",
+    "surname": "Nel",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      596
+    ],
+    "exSpouses": [],
+    "children": [
+      1486,
+      1487,
+      1488
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F380"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 596,
+        "unionId": "F380",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1486,
+        "unionId": "F380",
+        "type": "biological"
+      },
+      {
+        "id": 1487,
+        "unionId": "F380",
+        "type": "biological"
+      },
+      {
+        "id": 1488,
+        "unionId": "F380",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587855843@",
+    "geniId": "6000000206587855843",
+    "rfn": "geni:6000000206587855843",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/1485/",
+    "canonical": "https://www.genepedia.org/people/1485/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

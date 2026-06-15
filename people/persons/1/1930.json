@@ -1,0 +1,121 @@
+{
+  "id": 1930,
+  "schema": "genepedia/person@1",
+  "slug": "david-jacobus-roux",
+  "names": {
+    "display": "David Jacobus Roux",
+    "given": "David Jacobus",
+    "surname": "Roux",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JAN 1907",
+      "year": 1907,
+      "iso": "1907-01-18",
+      "precision": "exact",
+      "display": "January 18, 1907",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "3 MAR 1907",
+      "year": 1907,
+      "iso": "1907-03-03",
+      "precision": "exact",
+      "display": "March 3, 1907",
+      "place": "Trompsburg, Free State, South Africa",
+      "location": {
+        "label": "Trompsburg, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Trompsburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1923,
+      818
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1924,
+      1925,
+      1926,
+      1927,
+      1928,
+      1929,
+      1931
+    ],
+    "parentUnions": [
+      "F507"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1923,
+        "unionId": "F507",
+        "type": "biological"
+      },
+      {
+        "id": 818,
+        "unionId": "F507",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089489843297@",
+    "geniId": "6000000089489843297",
+    "rfn": "geni:6000000089489843297",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1930/",
+    "canonical": "https://www.genepedia.org/people/1930/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

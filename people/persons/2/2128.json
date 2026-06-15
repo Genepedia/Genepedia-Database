@@ -1,0 +1,190 @@
+{
+  "id": 2128,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-pieter-van-den-berg",
+  "names": {
+    "display": "Dirk Pieter van den Berg",
+    "given": "Dirk Pieter",
+    "surname": "van den Berg",
+    "married": "van den Berg",
+    "nick": "b2c9d5e1",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 9 OCT 1803",
+      "year": 1803,
+      "iso": "1803-10-09",
+      "precision": "before",
+      "display": "before October 9, 1803",
+      "place": "Oaklands, South Africa",
+      "location": {
+        "label": "Oaklands, South Africa",
+        "placeName": "Oaklands",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "13 APR 1881",
+      "year": 1881,
+      "iso": "1881-04-13",
+      "precision": "exact",
+      "display": "April 13, 1881",
+      "place": "Brakfontein, South Africa",
+      "location": {
+        "label": "Brakfontein, South Africa",
+        "placeName": "Brakfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "9 OCT 1803",
+      "year": 1803,
+      "iso": "1803-10-09",
+      "precision": "exact",
+      "display": "October 9, 1803",
+      "place": "Graaff-Reinet",
+      "location": {
+        "label": "Graaff-Reinet",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/cf/4d/eb/bc/5344483fd2c085fc/dp_vdbergs1881_original.jpg?hash=8e6ac281d21e26812f712d8e0c8fc90890bb3798ca679b29992f14653621c236.1789455599",
+      "alt": "Dirk Pieter van den Berg"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/cf/4d/eb/bc/5344483fd2c085fc/dp_vdbergs1881_original.jpg?hash=8e6ac281d21e26812f712d8e0c8fc90890bb3798ca679b29992f14653621c236.1789455599",
+        "form": "",
+        "title": "DP vdBergS1881.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/20/3e/85/d6/5344483fd2c085fe/dp_vdbergs1881_2__original.jpg?hash=70f432a560fbd336d19babcaa54116acba3abc42d077c212af88ad7dbbaa3a3c.1789455599",
+        "form": "",
+        "title": "DP vdBergS1881(2).jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/8e/a3/2a/a1/534448617b65f31f/record-image__original.jpg?hash=b7ea91cd412e1b0a871cd453d8d8a2a38f64357eae04518f7b299fc44e01d8f2.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2126,
+      2127
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2129,
+      2130,
+      2131,
+      2132,
+      2133,
+      2134,
+      2135,
+      886
+    ],
+    "parentUnions": [
+      "F553"
+    ],
+    "spouseUnions": [
+      "F1308",
+      "F1309"
+    ],
+    "parentLinks": [
+      {
+        "id": 2126,
+        "unionId": "F553",
+        "type": "biological"
+      },
+      {
+        "id": 2127,
+        "unionId": "F553",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000012669678542@",
+    "geniId": "6000000012669678542",
+    "rfn": "geni:6000000012669678542",
+    "changed": "25 JUL 2023"
+  },
+  "page": {
+    "route": "people/2128/",
+    "canonical": "https://www.genepedia.org/people/2128/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1994,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-christoffel-snyman",
+  "names": {
+    "display": "Jacobus Christoffel Snyman",
+    "given": "Jacobus Christoffel",
+    "surname": "Snyman",
+    "married": "Snyman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1991,
+      825
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1992,
+      1993
+    ],
+    "parentUnions": [
+      "F517"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1991,
+        "unionId": "F517",
+        "type": "biological"
+      },
+      {
+        "id": 825,
+        "unionId": "F517",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000033618451895@",
+    "geniId": "6000000033618451895",
+    "rfn": "geni:6000000033618451895",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1994/",
+    "canonical": "https://www.genepedia.org/people/1994/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

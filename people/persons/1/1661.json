@@ -1,0 +1,121 @@
+{
+  "id": 1661,
+  "schema": "genepedia/person@1",
+  "slug": "louis-emilien-hardouin",
+  "names": {
+    "display": "Louis Emilien Hardouin",
+    "given": "Louis Emilien",
+    "surname": "Hardouin",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 APR 1885",
+      "year": 1885,
+      "iso": "1885-04-04",
+      "precision": "exact",
+      "display": "April 4, 1885",
+      "place": "Verulam, Natal",
+      "location": {
+        "label": "Verulam, Natal",
+        "placeName": "Verulam, Natal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1657,
+      1658
+    ],
+    "spouses": [
+      4340
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      670,
+      1659,
+      1660,
+      1662
+    ],
+    "parentUnions": [
+      "F429"
+    ],
+    "spouseUnions": [
+      "F1021"
+    ],
+    "parentLinks": [
+      {
+        "id": 1657,
+        "unionId": "F429",
+        "type": "biological"
+      },
+      {
+        "id": 1658,
+        "unionId": "F429",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4340,
+        "unionId": "F1021",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000185615728192@",
+    "geniId": "6000000185615728192",
+    "rfn": "geni:6000000185615728192",
+    "changed": "20 JUN 2022"
+  },
+  "page": {
+    "route": "people/1661/",
+    "canonical": "https://www.genepedia.org/people/1661/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

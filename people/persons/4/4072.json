@@ -1,0 +1,147 @@
+{
+  "id": 4072,
+  "schema": "genepedia/person@1",
+  "slug": "anna-susanna-mellet",
+  "names": {
+    "display": "Anna Susanna Mellet",
+    "given": "Anna Susanna",
+    "surname": "Mellet",
+    "married": "de Villiers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1809",
+      "year": 1809,
+      "iso": "1809",
+      "precision": "exact",
+      "display": "1809",
+      "place": "Cape Town, South Africa",
+      "location": {
+        "label": "Cape Town, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "12 MAY 1877",
+      "year": 1877,
+      "iso": "1877-05-12",
+      "precision": "exact",
+      "display": "May 12, 1877",
+      "place": "Prince Albert, South Africa",
+      "location": {
+        "label": "Prince Albert, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prince Albert",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "6 AUG 1809",
+      "year": 1809,
+      "iso": "1809-08-06",
+      "precision": "exact",
+      "display": "August 6, 1809",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4062,
+      4063
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4064,
+      4065,
+      4066,
+      4067,
+      1549,
+      4068,
+      4069,
+      4070,
+      4071,
+      4073
+    ],
+    "parentUnions": [
+      "F945"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4062,
+        "unionId": "F945",
+        "type": "biological"
+      },
+      {
+        "id": 4063,
+        "unionId": "F945",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000019191111268@",
+    "geniId": "6000000019191111268",
+    "rfn": "geni:6000000019191111268",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4072/",
+    "canonical": "https://www.genepedia.org/people/4072/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

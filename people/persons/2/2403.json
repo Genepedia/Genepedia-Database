@@ -1,0 +1,85 @@
+{
+  "id": 2403,
+  "schema": "genepedia/person@1",
+  "slug": "profile-2403",
+  "names": {
+    "display": "",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      974,
+      2401
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2402
+    ],
+    "parentUnions": [
+      "F607"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 974,
+        "unionId": "F607",
+        "type": "biological"
+      },
+      {
+        "id": 2401,
+        "unionId": "F607",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000221780700959@",
+    "geniId": "6000000221780700959",
+    "rfn": "geni:6000000221780700959",
+    "changed": "17 OCT 2025"
+  },
+  "page": {
+    "route": "people/2403/",
+    "canonical": "https://www.genepedia.org/people/2403/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

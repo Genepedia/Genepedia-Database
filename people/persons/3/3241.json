@@ -1,0 +1,96 @@
+{
+  "id": 3241,
+  "schema": "genepedia/person@1",
+  "slug": "gideon-frederik-koegelenberg-mouton",
+  "names": {
+    "display": "Gideon Frederik Koegelenberg Mouton",
+    "given": "Gideon Frederik Koegelenberg",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 DEC 1926",
+      "year": 1926,
+      "iso": "1926-12-17",
+      "precision": "exact",
+      "display": "December 17, 1926",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1293,
+      3236
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3237,
+      3238,
+      3239,
+      3240,
+      3242
+    ],
+    "parentUnions": [
+      "F796"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1293,
+        "unionId": "F796",
+        "type": "biological"
+      },
+      {
+        "id": 3236,
+        "unionId": "F796",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107534169862@",
+    "geniId": "6000000107534169862",
+    "rfn": "geni:6000000107534169862",
+    "changed": "24 SEP 2019"
+  },
+  "page": {
+    "route": "people/3241/",
+    "canonical": "https://www.genepedia.org/people/3241/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

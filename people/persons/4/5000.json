@@ -1,0 +1,131 @@
+{
+  "id": 5000,
+  "schema": "genepedia/person@1",
+  "slug": "nicolaas-burger-jacobs",
+  "names": {
+    "display": "Nicolaas Burger Jacobs",
+    "given": "Nicolaas Burger",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 MAR 1915",
+      "year": 1915,
+      "iso": "1915-03-11",
+      "precision": "exact",
+      "display": "March 11, 1915",
+      "place": null
+    },
+    "death": {
+      "date": "28 FEB 1986",
+      "year": 1986,
+      "iso": "1986-02-28",
+      "precision": "exact",
+      "display": "February 28, 1986",
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1946
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1189"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1946,
+        "unionId": "F1189",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066996526836@",
+    "geniId": "6000000066996526836",
+    "rfn": "geni:6000000066996526836",
+    "changed": "13 SEP 2017"
+  },
+  "page": {
+    "route": "people/5000/",
+    "canonical": "https://www.genepedia.org/people/5000/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

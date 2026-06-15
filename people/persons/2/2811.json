@@ -1,0 +1,93 @@
+{
+  "id": 2811,
+  "schema": "genepedia/person@1",
+  "slug": "barend-daniel-koekemoer",
+  "names": {
+    "display": "Barend Daniel Koekemoer",
+    "given": "Barend Daniel",
+    "surname": "Koekemoer",
+    "married": "Koekemoer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 JAN 1971",
+      "year": 1971,
+      "iso": "1971-01-24",
+      "precision": "exact",
+      "display": "January 24, 1971",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1138,
+      2808
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2809,
+      2810
+    ],
+    "parentUnions": [
+      "F695"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1138,
+        "unionId": "F695",
+        "type": "biological"
+      },
+      {
+        "id": 2808,
+        "unionId": "F695",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000006862701444@",
+    "geniId": "6000000006862701444",
+    "rfn": "geni:6000000006862701444",
+    "changed": "21 JUN 2016"
+  },
+  "page": {
+    "route": "people/2811/",
+    "canonical": "https://www.genepedia.org/people/2811/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

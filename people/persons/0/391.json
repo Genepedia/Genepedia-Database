@@ -1,0 +1,87 @@
+{
+  "id": 391,
+  "schema": "genepedia/person@1",
+  "slug": "fanie-de-koker",
+  "names": {
+    "display": "Fanie De Koker",
+    "given": "Fanie",
+    "surname": "De Koker",
+    "married": "De Koker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      388,
+      143
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      389,
+      390,
+      392
+    ],
+    "parentUnions": [
+      "F121"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 388,
+        "unionId": "F121",
+        "type": "biological"
+      },
+      {
+        "id": 143,
+        "unionId": "F121",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000046661834228@",
+    "geniId": "6000000046661834228",
+    "rfn": "geni:6000000046661834228",
+    "changed": "08 SEP 2016"
+  },
+  "page": {
+    "route": "people/391/",
+    "canonical": "https://www.genepedia.org/people/391/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

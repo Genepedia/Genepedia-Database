@@ -1,0 +1,142 @@
+{
+  "id": 2485,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-lourens-le-grange",
+  "names": {
+    "display": "Johannes Petrus Lourens le Grange",
+    "given": "Johannes Petrus Lourens",
+    "surname": "le Grange",
+    "married": "la Grange",
+    "nick": "Johannes Petrus Louwrens",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 NOV 1865",
+      "year": 1865,
+      "iso": "1865-11-23",
+      "precision": "exact",
+      "display": "November 23, 1865",
+      "place": "Victoria West, Cape Province, South Africa",
+      "location": {
+        "label": "Victoria West, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "17 JAN 1866",
+      "year": 1866,
+      "iso": "1866-01-17",
+      "precision": "exact",
+      "display": "January 17, 1866",
+      "place": "Victoria West, Cape Province, South Africa",
+      "location": {
+        "label": "Victoria West, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Landbouwer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2481,
+      1013
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2482,
+      2483,
+      2484,
+      2486,
+      2487,
+      2488,
+      2489,
+      2490,
+      2491,
+      2492
+    ],
+    "parentUnions": [
+      "F623"
+    ],
+    "spouseUnions": [
+      "F1528"
+    ],
+    "parentLinks": [
+      {
+        "id": 2481,
+        "unionId": "F623",
+        "type": "biological"
+      },
+      {
+        "id": 1013,
+        "unionId": "F623",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000185245434856@",
+    "geniId": "6000000185245434856",
+    "rfn": "geni:6000000185245434856",
+    "changed": "23 JUN 2024"
+  },
+  "page": {
+    "route": "people/2485/",
+    "canonical": "https://www.genepedia.org/people/2485/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

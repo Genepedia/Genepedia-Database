@@ -1,0 +1,154 @@
+{
+  "id": 1561,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-cristina-van-niekerk",
+  "names": {
+    "display": "Rachel Cristina van Niekerk",
+    "given": "Rachel Cristina",
+    "surname": "van Niekerk",
+    "married": "Meyer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 AUG 1910",
+      "year": 1910,
+      "iso": "1910-08-05",
+      "precision": "exact",
+      "display": "August 5, 1910",
+      "place": "Bloemhof, NW, South Africa",
+      "location": {
+        "label": "Bloemhof, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 FEB 1996",
+      "year": 1996,
+      "iso": "1996-02-04",
+      "precision": "exact",
+      "display": "February 4, 1996",
+      "place": "Potchefstroom, NW, South Africa",
+      "location": {
+        "label": "Potchefstroom, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      630,
+      1559
+    ],
+    "spouses": [
+      4136
+    ],
+    "exSpouses": [],
+    "children": [
+      4137
+    ],
+    "siblings": [
+      1560,
+      1562,
+      1563,
+      1564,
+      1565,
+      1566
+    ],
+    "parentUnions": [
+      "F397"
+    ],
+    "spouseUnions": [
+      "F958"
+    ],
+    "parentLinks": [
+      {
+        "id": 630,
+        "unionId": "F397",
+        "type": "biological"
+      },
+      {
+        "id": 1559,
+        "unionId": "F397",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4136,
+        "unionId": "F958",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4137,
+        "unionId": "F958",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000000460287188@",
+    "geniId": "6000000000460287188",
+    "rfn": "geni:6000000000460287188",
+    "changed": "20 JUN 2021"
+  },
+  "page": {
+    "route": "people/1561/",
+    "canonical": "https://www.genepedia.org/people/1561/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

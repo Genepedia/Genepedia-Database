@@ -1,0 +1,200 @@
+{
+  "id": 1291,
+  "schema": "genepedia/person@1",
+  "slug": "hester-elizabeth-catharina-van-zyl",
+  "names": {
+    "display": "Hester Elizabeth Catharina van Zyl",
+    "given": "Hester Elizabeth Catharina",
+    "surname": "van Zyl",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 MAR 1856",
+      "year": 1856,
+      "iso": "1856-03-28",
+      "precision": "exact",
+      "display": "March 28, 1856",
+      "place": "Langkuil, Clanwilliam",
+      "location": {
+        "label": "Langkuil, Clanwilliam",
+        "placeName": "Langkuil",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "28 DEC 1856",
+      "year": 1856,
+      "iso": "1856-12-28",
+      "precision": "exact",
+      "display": "December 28, 1856",
+      "place": "Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3217,
+      3216
+    ],
+    "spouses": [
+      1292
+    ],
+    "exSpouses": [],
+    "children": [
+      1293,
+      1294,
+      1295,
+      1296,
+      1297,
+      1298,
+      1299,
+      1300,
+      537
+    ],
+    "siblings": [
+      3218,
+      3219,
+      3220,
+      3221
+    ],
+    "parentUnions": [
+      "F793"
+    ],
+    "spouseUnions": [
+      "F336"
+    ],
+    "parentLinks": [
+      {
+        "id": 3217,
+        "unionId": "F793",
+        "type": "biological"
+      },
+      {
+        "id": 3216,
+        "unionId": "F793",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1292,
+        "unionId": "F336",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1293,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1294,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1295,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1296,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1297,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1298,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1299,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 1300,
+        "unionId": "F336",
+        "type": "biological"
+      },
+      {
+        "id": 537,
+        "unionId": "F336",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020482611340@",
+    "geniId": "6000000020482611340",
+    "rfn": "geni:6000000020482611340",
+    "changed": "13 MAY 2025"
+  },
+  "page": {
+    "route": "people/1291/",
+    "canonical": "https://www.genepedia.org/people/1291/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

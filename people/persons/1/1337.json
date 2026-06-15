@@ -1,0 +1,146 @@
+{
+  "id": 1337,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-albertus-jacobus-van-niekerk",
+  "names": {
+    "display": "Johannes Albertus Jacobus van Niekerk",
+    "given": "Johannes Albertus Jacobus",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "Jan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JUN 1861",
+      "year": 1861,
+      "iso": "1861-06-18",
+      "precision": "exact",
+      "display": "June 18, 1861",
+      "place": null
+    },
+    "death": {
+      "date": "11 NOV 1941",
+      "year": 1941,
+      "iso": "1941-11-11",
+      "precision": "exact",
+      "display": "November 11, 1941",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/3d/4f/f3/06/534448667cc9f5f0/jpg_27__original.jpg?hash=ad4bea4f1b2fbddd165f47ca6e9213b1806add7b1f2a2d24b3a99a6caa0935f8.1789455599",
+      "alt": "Johannes Albertus Jacobus van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/3d/4f/f3/06/534448667cc9f5f0/jpg_27__original.jpg?hash=ad4bea4f1b2fbddd165f47ca6e9213b1806add7b1f2a2d24b3a99a6caa0935f8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1336,
+      1335
+    ],
+    "spouses": [
+      3402
+    ],
+    "exSpouses": [],
+    "children": [
+      3403,
+      3404,
+      3405
+    ],
+    "siblings": [
+      1338,
+      546,
+      1339,
+      1340,
+      1341,
+      1342
+    ],
+    "parentUnions": [
+      "F345"
+    ],
+    "spouseUnions": [
+      "F834"
+    ],
+    "parentLinks": [
+      {
+        "id": 1336,
+        "unionId": "F345",
+        "type": "biological"
+      },
+      {
+        "id": 1335,
+        "unionId": "F345",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3402,
+        "unionId": "F834",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3403,
+        "unionId": "F834",
+        "type": "biological"
+      },
+      {
+        "id": 3404,
+        "unionId": "F834",
+        "type": "biological"
+      },
+      {
+        "id": 3405,
+        "unionId": "F834",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208581730843@",
+    "geniId": "6000000208581730843",
+    "rfn": "geni:6000000208581730843",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/1337/",
+    "canonical": "https://www.genepedia.org/people/1337/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

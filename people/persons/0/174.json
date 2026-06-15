@@ -1,0 +1,228 @@
+{
+  "id": 174,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-fourie",
+  "names": {
+    "display": "Anna Maria Fourie",
+    "given": "Anna Maria",
+    "surname": "Fourie",
+    "married": "Steenkamp",
+    "nick": "Annie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 SEP 1903",
+      "year": 1903,
+      "iso": "1903-09-17",
+      "precision": "exact",
+      "display": "September 17, 1903",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "22 JAN 1972",
+      "year": 1972,
+      "iso": "1972-01-22",
+      "precision": "exact",
+      "display": "January 22, 1972",
+      "place": null
+    },
+    "baptism": {
+      "date": "10 JAN 1904",
+      "year": 1904,
+      "iso": "1904-01-10",
+      "precision": "exact",
+      "display": "January 10, 1904",
+      "place": "Western Cape, South Africa",
+      "location": {
+        "label": "Western Cape, South Africa",
+        "placeName": "Western Cape, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/dd/7f/e2/4e/5344484292c5a89a/anna_maria_fourie_steenkamp_-_original.jpg?hash=21dd41ea0f59235f50ea967b290fb6a4f5cd3bd66d0d0cf71238f189ac484d02.1789455599",
+      "alt": "Anna Maria Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/dd/7f/e2/4e/5344484292c5a89a/anna_maria_fourie_steenkamp_-_original.jpg?hash=21dd41ea0f59235f50ea967b290fb6a4f5cd3bd66d0d0cf71238f189ac484d02.1789455599",
+        "form": "",
+        "title": "Anna Maria Fourie (Steenkamp)",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/6e/43/c5/ff/534448683fd7c755/image_original.jpg?hash=8e058d3ca91494a30fa45951374cad30e517b1aaa2a404dd49dd19fb7dc4cc03.1789455599",
+        "form": "",
+        "title": "image - trou 1922 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Geni World Family Tree",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Stamboom",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      167,
+      168
+    ],
+    "spouses": [
+      487
+    ],
+    "exSpouses": [],
+    "children": [
+      488,
+      489,
+      490,
+      491,
+      492,
+      493
+    ],
+    "siblings": [
+      169,
+      170,
+      171,
+      172,
+      173,
+      175,
+      176,
+      177,
+      45,
+      178
+    ],
+    "parentUnions": [
+      "F52"
+    ],
+    "spouseUnions": [
+      "F142"
+    ],
+    "parentLinks": [
+      {
+        "id": 167,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 168,
+        "unionId": "F52",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 487,
+        "unionId": "F142",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 488,
+        "unionId": "F142",
+        "type": "biological"
+      },
+      {
+        "id": 489,
+        "unionId": "F142",
+        "type": "biological"
+      },
+      {
+        "id": 490,
+        "unionId": "F142",
+        "type": "biological"
+      },
+      {
+        "id": 491,
+        "unionId": "F142",
+        "type": "biological"
+      },
+      {
+        "id": 492,
+        "unionId": "F142",
+        "type": "biological"
+      },
+      {
+        "id": 493,
+        "unionId": "F142",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000054087920831@",
+    "geniId": "6000000054087920831",
+    "rfn": "geni:6000000054087920831",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/174/",
+    "canonical": "https://www.genepedia.org/people/174/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

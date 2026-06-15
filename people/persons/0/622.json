@@ -1,0 +1,204 @@
+{
+  "id": 622,
+  "schema": "genepedia/person@1",
+  "slug": "willem-andries-germishuizen",
+  "names": {
+    "display": "Willem Andries Germishuizen",
+    "given": "Willem Andries",
+    "surname": "Germishuizen",
+    "married": "Germishuizen",
+    "nick": "Germishuÿs",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1851",
+      "year": 1851,
+      "iso": "1851",
+      "precision": "about",
+      "display": "about 1851",
+      "place": "Cape Colony",
+      "location": {
+        "label": "Cape Colony",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 JUN 1891",
+      "year": 1891,
+      "iso": "1891-06-03",
+      "precision": "exact",
+      "display": "June 3, 1891",
+      "place": "Cape Colony",
+      "location": {
+        "label": "Cape Colony",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Stock Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1522,
+      1523
+    ],
+    "spouses": [
+      623,
+      1518
+    ],
+    "exSpouses": [],
+    "children": [
+      238,
+      624,
+      625,
+      626,
+      627,
+      1519,
+      1520,
+      1521
+    ],
+    "siblings": [
+      1524,
+      1525,
+      1526,
+      1527,
+      1528,
+      1529,
+      1530
+    ],
+    "parentUnions": [
+      "F392"
+    ],
+    "spouseUnions": [
+      "F175",
+      "F391"
+    ],
+    "parentLinks": [
+      {
+        "id": 1522,
+        "unionId": "F392",
+        "type": "biological"
+      },
+      {
+        "id": 1523,
+        "unionId": "F392",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 623,
+        "unionId": "F175",
+        "role": "partner"
+      },
+      {
+        "id": 1518,
+        "unionId": "F391",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 238,
+        "unionId": "F175",
+        "type": "biological"
+      },
+      {
+        "id": 624,
+        "unionId": "F175",
+        "type": "biological"
+      },
+      {
+        "id": 625,
+        "unionId": "F175",
+        "type": "biological"
+      },
+      {
+        "id": 626,
+        "unionId": "F175",
+        "type": "biological"
+      },
+      {
+        "id": 627,
+        "unionId": "F175",
+        "type": "biological"
+      },
+      {
+        "id": 1519,
+        "unionId": "F391",
+        "type": "biological"
+      },
+      {
+        "id": 1520,
+        "unionId": "F391",
+        "type": "biological"
+      },
+      {
+        "id": 1521,
+        "unionId": "F391",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000171829753255@",
+    "geniId": "6000000171829753255",
+    "rfn": "geni:6000000171829753255",
+    "changed": "22 SEP 2024"
+  },
+  "page": {
+    "route": "people/622/",
+    "canonical": "https://www.genepedia.org/people/622/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

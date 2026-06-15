@@ -1,0 +1,109 @@
+{
+  "id": 3577,
+  "schema": "genepedia/person@1",
+  "slug": "willem-hendrik-stephanus-meintjes",
+  "names": {
+    "display": "Willem Hendrik Stephanus Meintjes",
+    "given": "Willem Hendrik Stephanus",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 MAY 1830",
+      "year": 1830,
+      "iso": "1830-05-06",
+      "precision": "exact",
+      "display": "May 6, 1830",
+      "place": null
+    },
+    "death": {
+      "date": "6 MAY 1830",
+      "year": 1830,
+      "iso": "1830-05-06",
+      "precision": "exact",
+      "display": "May 6, 1830",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3571,
+      3570
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1396,
+      3572,
+      3573,
+      3574,
+      3575,
+      3576,
+      3578,
+      3579,
+      3580,
+      3581,
+      3582
+    ],
+    "parentUnions": [
+      "F869"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3571,
+        "unionId": "F869",
+        "type": "biological"
+      },
+      {
+        "id": 3570,
+        "unionId": "F869",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000010565931163@",
+    "geniId": "6000000010565931163",
+    "rfn": "geni:6000000010565931163",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3577/",
+    "canonical": "https://www.genepedia.org/people/3577/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

@@ -1,0 +1,149 @@
+{
+  "id": 3911,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-christiaan-botha",
+  "names": {
+    "display": "Johannes Christiaan Botha",
+    "given": "Johannes Christiaan",
+    "surname": "Botha",
+    "married": "Botha",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 OCT 1794",
+      "year": 1794,
+      "iso": "1794-10-15",
+      "precision": "exact",
+      "display": "October 15, 1794",
+      "place": null
+    },
+    "death": {
+      "date": "20 SEP 1836",
+      "year": 1836,
+      "iso": "1836-09-20",
+      "precision": "exact",
+      "display": "September 20, 1836",
+      "place": null
+    },
+    "baptism": {
+      "date": "15 OCT 1794",
+      "year": 1794,
+      "iso": "1794-10-15",
+      "precision": "exact",
+      "display": "October 15, 1794",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/67/a1/c3/67/53444852a94440fa/appel-botha_4_original.jpg?hash=1b4b497a3b9be987c962b51aeed7d041a0415d072fb207a4d5361353d16e7e0d.1789455599",
+      "alt": "Johannes Christiaan Botha"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/67/a1/c3/67/53444852a94440fa/appel-botha_4_original.jpg?hash=1b4b497a3b9be987c962b51aeed7d041a0415d072fb207a4d5361353d16e7e0d.1789455599",
+        "form": "",
+        "title": "Appel-Botha cjb3",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/94/24/06/0a/5344486a66a9ab1f/botha_theunis_1748_dn_original.jpg?hash=a85b59ca735b3134ffd7fbc70d6e9d856ba53c387d8e1f9ed9c1cafddd3e6f88.1789455599",
+        "form": "",
+        "title": "Botha Theunis 1748 DN.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3912
+    ],
+    "exSpouses": [],
+    "children": [
+      3913,
+      1531,
+      3914,
+      3915,
+      3916
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F923"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3912,
+        "unionId": "F923",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3913,
+        "unionId": "F923",
+        "type": "biological"
+      },
+      {
+        "id": 1531,
+        "unionId": "F923",
+        "type": "biological"
+      },
+      {
+        "id": 3914,
+        "unionId": "F923",
+        "type": "biological"
+      },
+      {
+        "id": 3915,
+        "unionId": "F923",
+        "type": "biological"
+      },
+      {
+        "id": 3916,
+        "unionId": "F923",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000014650459180@",
+    "geniId": "6000000014650459180",
+    "rfn": "geni:6000000014650459180",
+    "changed": "08 JAN 2023"
+  },
+  "page": {
+    "route": "people/3911/",
+    "canonical": "https://www.genepedia.org/people/3911/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

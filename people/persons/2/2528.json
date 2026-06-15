@@ -1,0 +1,118 @@
+{
+  "id": 2528,
+  "schema": "genepedia/person@1",
+  "slug": "margaretha-carolina-koorzen-koortse",
+  "names": {
+    "display": "Margaretha Carolina Koorzen (Koortse)",
+    "given": "Margaretha Carolina",
+    "surname": "Koorzen (Koortse)",
+    "married": "Jacobs",
+    "nick": "Koorse",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1850",
+      "year": 1850,
+      "iso": "1850",
+      "precision": "exact",
+      "display": "1850",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/73/67/23/c7/53444862b51b3f10/record-image_-_2023-03-02t181944_original.jpg?hash=31646473b8bbf7feae0a0e7b63cd930ab472c19528ccadc5ec7690d9a4384669.1789455599",
+      "alt": "Margaretha Carolina Koorzen (Koortse)"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/73/67/23/c7/53444862b51b3f10/record-image_-_2023-03-02t181944_original.jpg?hash=31646473b8bbf7feae0a0e7b63cd930ab472c19528ccadc5ec7690d9a4384669.1789455599",
+        "form": "",
+        "title": "record-image_ - 2023-03-02T181944.496.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2529
+    ],
+    "exSpouses": [],
+    "children": [
+      2530,
+      2531,
+      1026
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1549"
+    ],
+    "spouseUnions": [
+      "F629"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2529,
+        "unionId": "F629",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2530,
+        "unionId": "F629",
+        "type": "biological"
+      },
+      {
+        "id": 2531,
+        "unionId": "F629",
+        "type": "biological"
+      },
+      {
+        "id": 1026,
+        "unionId": "F629",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000192346959857@",
+    "geniId": "6000000192346959857",
+    "rfn": "geni:6000000192346959857",
+    "changed": "30 MAR 2025"
+  },
+  "page": {
+    "route": "people/2528/",
+    "canonical": "https://www.genepedia.org/people/2528/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

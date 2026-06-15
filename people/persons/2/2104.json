@@ -1,0 +1,114 @@
+{
+  "id": 2104,
+  "schema": "genepedia/person@1",
+  "slug": "stoffel-petrus-bester",
+  "names": {
+    "display": "Stoffel Petrus Bester",
+    "given": "Stoffel Petrus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "17 MAY 1969",
+      "year": 1969,
+      "iso": "1969-05-17",
+      "precision": "exact",
+      "display": "May 17, 1969",
+      "place": "Vanderbijlpark, Gauteng, South Africa",
+      "location": {
+        "label": "Vanderbijlpark, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vanderbijlpark",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      867,
+      2102
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2103,
+      2105,
+      2106,
+      2107,
+      2108
+    ],
+    "parentUnions": [
+      "F547"
+    ],
+    "spouseUnions": [
+      "F1296"
+    ],
+    "parentLinks": [
+      {
+        "id": 867,
+        "unionId": "F547",
+        "type": "biological"
+      },
+      {
+        "id": 2102,
+        "unionId": "F547",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066638228847@",
+    "geniId": "6000000066638228847",
+    "rfn": "geni:6000000066638228847",
+    "changed": "07 SEP 2017"
+  },
+  "page": {
+    "route": "people/2104/",
+    "canonical": "https://www.genepedia.org/people/2104/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 4053,
+  "schema": "genepedia/person@1",
+  "slug": "anna-francina-catharina-maria-meyer",
+  "names": {
+    "display": "Anna Francina Catharina Maria Meyer",
+    "given": "Anna Francina Catharina Maria",
+    "surname": "Meyer",
+    "married": "Knoetze",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1875",
+      "year": 1875,
+      "iso": "1875",
+      "precision": "exact",
+      "display": "1875",
+      "place": null
+    },
+    "death": {
+      "date": "15 AUG 1945",
+      "year": 1945,
+      "iso": "1945-08-15",
+      "precision": "exact",
+      "display": "August 15, 1945",
+      "place": "Wolmaransstad, North West, South Africa",
+      "location": {
+        "label": "Wolmaransstad, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1548,
+      4049
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4050,
+      4051,
+      4052
+    ],
+    "parentUnions": [
+      "F943"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1548,
+        "unionId": "F943",
+        "type": "biological"
+      },
+      {
+        "id": 4049,
+        "unionId": "F943",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000048341799891@",
+    "geniId": "6000000048341799891",
+    "rfn": "geni:6000000048341799891",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/4053/",
+    "canonical": "https://www.genepedia.org/people/4053/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

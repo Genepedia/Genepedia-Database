@@ -1,0 +1,194 @@
+{
+  "id": 300,
+  "schema": "genepedia/person@1",
+  "slug": "isadore-lurie",
+  "names": {
+    "display": "Isadore Lurie",
+    "given": "Isadore",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "Sakkie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JUN 1929",
+      "year": 1929,
+      "iso": "1929-06-18",
+      "precision": "exact",
+      "display": "June 18, 1929",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 FEB 2016",
+      "year": 2016,
+      "iso": "2016-02-08",
+      "precision": "exact",
+      "display": "February 8, 2016",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ef/85/03/73/534448663b431e7f/12747417_914519685330332_4530335946228997838_o_original.jpg?hash=255ebeee6fbdca813802bb0216ccac76aa67afe2199e1a1d130b95734ade7f12.1789455599",
+      "alt": "Isadore Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ef/85/03/73/534448663b431e7f/12747417_914519685330332_4530335946228997838_o_original.jpg?hash=255ebeee6fbdca813802bb0216ccac76aa67afe2199e1a1d130b95734ade7f12.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/8e/23/0a/36/53444865758aec70/screenshot_2024-03-16_232029_original.jpg?hash=31cc696176c26cbe2876c7db018741f191bb9495d45d5ee79a72bd5cbb79fb54.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/d0/49/50/41/534448656fb57070/screenshot_2024-03-14_001552_original.jpg?hash=099daafc2bbca500c4ad9bfd6f52992ce53eb3e8a1fc3daa0122422a1f127c9f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      297,
+      298
+    ],
+    "spouses": [
+      745
+    ],
+    "exSpouses": [],
+    "children": [
+      746,
+      747,
+      748,
+      749,
+      750,
+      751
+    ],
+    "siblings": [
+      110,
+      299,
+      301,
+      302,
+      303,
+      304
+    ],
+    "parentUnions": [
+      "F97"
+    ],
+    "spouseUnions": [
+      "F210"
+    ],
+    "parentLinks": [
+      {
+        "id": 297,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 298,
+        "unionId": "F97",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 745,
+        "unionId": "F210",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 746,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 747,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 748,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 749,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 750,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 751,
+        "unionId": "F210",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204066970848@",
+    "geniId": "6000000204066970848",
+    "rfn": "geni:6000000204066970848",
+    "changed": "20 JUL 2024"
+  },
+  "page": {
+    "route": "people/300/",
+    "canonical": "https://www.genepedia.org/people/300/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

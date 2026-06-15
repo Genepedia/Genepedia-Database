@@ -1,0 +1,91 @@
+{
+  "id": 344,
+  "schema": "genepedia/person@1",
+  "slug": "hendrina-francina-van-der-walt-344",
+  "names": {
+    "display": "Hendrina Francina Van der Walt",
+    "given": "Hendrina Francina",
+    "surname": "Van der Walt",
+    "married": "Van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      343
+    ],
+    "exSpouses": [],
+    "children": [
+      130,
+      345
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F108"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 343,
+        "unionId": "F108",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 130,
+        "unionId": "F108",
+        "type": "biological"
+      },
+      {
+        "id": 345,
+        "unionId": "F108",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066592082984@",
+    "geniId": "6000000066592082984",
+    "rfn": "geni:6000000066592082984",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/344/",
+    "canonical": "https://www.genepedia.org/people/344/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

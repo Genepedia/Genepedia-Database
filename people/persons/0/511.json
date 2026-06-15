@@ -1,0 +1,128 @@
+{
+  "id": 511,
+  "schema": "genepedia/person@1",
+  "slug": "linet-engelbrecht",
+  "names": {
+    "display": "Linet Engelbrecht",
+    "given": "Linet",
+    "surname": "Engelbrecht",
+    "married": "Claasen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "21 MAY 1970",
+      "year": 1970,
+      "iso": "1970-05-21",
+      "precision": "exact",
+      "display": "May 21, 1970",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/f3/13/a5/e9/5344486629bbb53b/screenshot_2024-07-09_145941_original.jpg?hash=e94d595bb0886ca5e4ad45ec883ed8fa6a1563b6e959c0a1192b6dc73643edac.1789455599",
+      "alt": "Linet Engelbrecht"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/f3/13/a5/e9/5344486629bbb53b/screenshot_2024-07-09_145941_original.jpg?hash=e94d595bb0886ca5e4ad45ec883ed8fa6a1563b6e959c0a1192b6dc73643edac.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      179,
+      510
+    ],
+    "spouses": [
+      1244
+    ],
+    "exSpouses": [],
+    "children": [
+      1245,
+      1246
+    ],
+    "siblings": [
+      512
+    ],
+    "parentUnions": [
+      "F146"
+    ],
+    "spouseUnions": [
+      "F325"
+    ],
+    "parentLinks": [
+      {
+        "id": 179,
+        "unionId": "F146",
+        "type": "biological"
+      },
+      {
+        "id": 510,
+        "unionId": "F146",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1244,
+        "unionId": "F325",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1245,
+        "unionId": "F325",
+        "type": "biological"
+      },
+      {
+        "id": 1246,
+        "unionId": "F325",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207188400822@",
+    "geniId": "6000000207188400822",
+    "rfn": "geni:6000000207188400822",
+    "changed": "09 JUL 2024"
+  },
+  "page": {
+    "route": "people/511/",
+    "canonical": "https://www.genepedia.org/people/511/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

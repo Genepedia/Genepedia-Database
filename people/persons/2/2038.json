@@ -1,0 +1,112 @@
+{
+  "id": 2038,
+  "schema": "genepedia/person@1",
+  "slug": "judith-maryna-adriana-susanna-kleynhans",
+  "names": {
+    "display": "Judith Maryna Adriana Susanna Kleynhans",
+    "given": "Judith Maryna Adriana Susanna",
+    "surname": "Kleynhans",
+    "married": "Venter",
+    "nick": "Venter",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 JUN 1848",
+      "year": 1848,
+      "iso": "1848-06-27",
+      "precision": "exact",
+      "display": "June 27, 1848",
+      "place": null
+    },
+    "death": {
+      "date": "14 AUG 1931",
+      "year": 1931,
+      "iso": "1931-08-14",
+      "precision": "exact",
+      "display": "August 14, 1931",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2029,
+      2030
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2031,
+      2032,
+      2033,
+      2034,
+      2035,
+      2036,
+      2037,
+      2039,
+      840,
+      2040,
+      2041,
+      2042
+    ],
+    "parentUnions": [
+      "F530"
+    ],
+    "spouseUnions": [
+      "F1255"
+    ],
+    "parentLinks": [
+      {
+        "id": 2029,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2030,
+        "unionId": "F530",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000032717823035@",
+    "geniId": "6000000032717823035",
+    "rfn": "geni:6000000032717823035",
+    "changed": "29 MAY 2025"
+  },
+  "page": {
+    "route": "people/2038/",
+    "canonical": "https://www.genepedia.org/people/2038/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

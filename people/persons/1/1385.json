@@ -1,0 +1,285 @@
+{
+  "id": 1385,
+  "schema": "genepedia/person@1",
+  "slug": "sybrand-abraham-de-beer-1385",
+  "names": {
+    "display": "Sybrand Abraham de Beer",
+    "given": "Sybrand Abraham",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 APR 1814",
+      "year": 1814,
+      "iso": "1814-04-26",
+      "precision": "exact",
+      "display": "April 26, 1814",
+      "place": "George, Cape Province, South Africa",
+      "location": {
+        "label": "George, Cape Province, South Africa",
+        "placeName": "George, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "6 MAR 1897",
+      "year": 1897,
+      "iso": "1897-03-06",
+      "precision": "exact",
+      "display": "March 6, 1897",
+      "place": "Adendorp, Distr. Graaff-Reinet, Cape Province, South Africa",
+      "location": {
+        "label": "Adendorp, Distr. Graaff-Reinet, Cape Province, South Africa",
+        "placeName": "Adendorp, Distr. Graaff-Reinet, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "29 MAR 1863",
+      "year": 1863,
+      "iso": "1863-03-29",
+      "precision": "exact",
+      "display": "March 29, 1863",
+      "place": "George, Cape Province, South Africa",
+      "location": {
+        "label": "George, Cape Province, South Africa",
+        "placeName": "George",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Adendorp, Main cemetery district, Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Adendorp, Main cemetery district, Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "Adendorp, Main cemetery district",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/7a/96/a0/89/5344484867ac9423/0000a_original.jpg?hash=fd95527f9b3f185c1f91a76f11c9ec46e52aa22cafed00c77eb9bc02678fd140.1789455599",
+      "alt": "Sybrand Abraham de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/7a/96/a0/89/5344484867ac9423/0000a_original.jpg?hash=fd95527f9b3f185c1f91a76f11c9ec46e52aa22cafed00c77eb9bc02678fd140.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3484,
+      3485
+    ],
+    "spouses": [
+      1384,
+      3482
+    ],
+    "exSpouses": [],
+    "children": [
+      1386,
+      1387,
+      1388,
+      1389,
+      1390,
+      563,
+      1391,
+      1392,
+      1393,
+      1394,
+      3483
+    ],
+    "siblings": [
+      3486,
+      3487,
+      3488,
+      3489,
+      3490,
+      3491,
+      3492,
+      3493,
+      3494,
+      3495,
+      3496
+    ],
+    "parentUnions": [
+      "F857"
+    ],
+    "spouseUnions": [
+      "F358",
+      "F856"
+    ],
+    "parentLinks": [
+      {
+        "id": 3484,
+        "unionId": "F857",
+        "type": "biological"
+      },
+      {
+        "id": 3485,
+        "unionId": "F857",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1384,
+        "unionId": "F358",
+        "role": "wife"
+      },
+      {
+        "id": 3482,
+        "unionId": "F856",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1386,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1387,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1388,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1389,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1390,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 563,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1391,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1392,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1393,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 1394,
+        "unionId": "F358",
+        "type": "biological"
+      },
+      {
+        "id": 3483,
+        "unionId": "F856",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000012026619774@",
+    "geniId": "6000000012026619774",
+    "rfn": "geni:6000000012026619774",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1385/",
+    "canonical": "https://www.genepedia.org/people/1385/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

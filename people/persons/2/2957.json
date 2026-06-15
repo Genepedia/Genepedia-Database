@@ -1,0 +1,96 @@
+{
+  "id": 2957,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-juliana-de-klerk",
+  "names": {
+    "display": "Johanna Juliana De Klerk",
+    "given": "Johanna Juliana",
+    "surname": "De Klerk",
+    "married": "Liebenberg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1179,
+      2954
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2955,
+      2956,
+      2958,
+      2959,
+      2960,
+      2961,
+      2962,
+      2963,
+      2964,
+      2965
+    ],
+    "parentUnions": [
+      "F724"
+    ],
+    "spouseUnions": [
+      "F1851"
+    ],
+    "parentLinks": [
+      {
+        "id": 1179,
+        "unionId": "F724",
+        "type": "biological"
+      },
+      {
+        "id": 2954,
+        "unionId": "F724",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000032158813194@",
+    "geniId": "6000000032158813194",
+    "rfn": "geni:6000000032158813194",
+    "changed": "23 DEC 2023"
+  },
+  "page": {
+    "route": "people/2957/",
+    "canonical": "https://www.genepedia.org/people/2957/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

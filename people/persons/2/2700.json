@@ -1,0 +1,144 @@
+{
+  "id": 2700,
+  "schema": "genepedia/person@1",
+  "slug": "anna-johanna-christina-kotze",
+  "names": {
+    "display": "Anna Johanna Christina Kotze",
+    "given": "Anna Johanna Christina",
+    "surname": "Kotze",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1905",
+      "year": 1905,
+      "iso": "1905",
+      "precision": "exact",
+      "display": "1905",
+      "place": "Koster, North West, South Africa",
+      "location": {
+        "label": "Koster, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Koster",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 OCT 1952",
+      "year": 1952,
+      "iso": "1952-10-08",
+      "precision": "exact",
+      "display": "October 8, 1952",
+      "place": "Mietjiesfontein, dist Potgietersrust, Transvaal",
+      "location": {
+        "label": "Mietjiesfontein, dist Potgietersrust, Transvaal",
+        "placeName": "Mietjiesfontein, dist Potgietersrust, Transvaal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1088,
+      2698
+    ],
+    "spouses": [
+      2680
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2699,
+      2701,
+      2702,
+      2703
+    ],
+    "parentUnions": [
+      "F664"
+    ],
+    "spouseUnions": [
+      "F1655"
+    ],
+    "parentLinks": [
+      {
+        "id": 1088,
+        "unionId": "F664",
+        "type": "biological"
+      },
+      {
+        "id": 2698,
+        "unionId": "F664",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2680,
+        "unionId": "F1655",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057261514030@",
+    "geniId": "6000000057261514030",
+    "rfn": "geni:6000000057261514030",
+    "changed": "02 SEP 2025"
+  },
+  "page": {
+    "route": "people/2700/",
+    "canonical": "https://www.genepedia.org/people/2700/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

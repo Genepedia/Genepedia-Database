@@ -1,0 +1,184 @@
+{
+  "id": 1895,
+  "schema": "genepedia/person@1",
+  "slug": "emmanuel-andries-bester",
+  "names": {
+    "display": "Emmanuel Andries Bester",
+    "given": "Emmanuel Andries",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 JUL 1892",
+      "year": 1892,
+      "iso": "1892-07-26",
+      "precision": "exact",
+      "display": "July 26, 1892",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 AUG 1954",
+      "year": 1954,
+      "iso": "1954-08-11",
+      "precision": "exact",
+      "display": "August 11, 1954",
+      "place": "Oranje Hospital, Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Oranje Hospital, Bloemfontein, Free State, South Africa",
+        "placeName": "Oranje Hospital",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/54/73/2e/74/5344484764e90596/bester_emmanuel_andries_marriage_register_original.jpg?hash=f2a4db32562060cfe4c9fa338edc00120f684e1094c0259fa7da85c52e4381b1.1789455599",
+      "alt": "Emmanuel Andries Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/54/73/2e/74/5344484764e90596/bester_emmanuel_andries_marriage_register_original.jpg?hash=f2a4db32562060cfe4c9fa338edc00120f684e1094c0259fa7da85c52e4381b1.1789455599",
+        "form": "",
+        "title": "Bester, Emmanuel Andries Marriage Register.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1884,
+      814
+    ],
+    "spouses": [
+      4798,
+      4801
+    ],
+    "exSpouses": [],
+    "children": [
+      4799,
+      4800
+    ],
+    "siblings": [
+      1885,
+      1886,
+      1887,
+      1888,
+      1889,
+      1890,
+      1891,
+      1892,
+      1893,
+      1894,
+      1896
+    ],
+    "parentUnions": [
+      "F499"
+    ],
+    "spouseUnions": [
+      "F1143",
+      "F1144"
+    ],
+    "parentLinks": [
+      {
+        "id": 1884,
+        "unionId": "F499",
+        "type": "biological"
+      },
+      {
+        "id": 814,
+        "unionId": "F499",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4798,
+        "unionId": "F1143",
+        "role": "partner"
+      },
+      {
+        "id": 4801,
+        "unionId": "F1144",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4799,
+        "unionId": "F1143",
+        "type": "biological"
+      },
+      {
+        "id": 4800,
+        "unionId": "F1143",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065567530036@",
+    "geniId": "6000000065567530036",
+    "rfn": "geni:6000000065567530036",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/1895/",
+    "canonical": "https://www.genepedia.org/people/1895/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

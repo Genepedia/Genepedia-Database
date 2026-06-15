@@ -1,0 +1,122 @@
+{
+  "id": 127,
+  "schema": "genepedia/person@1",
+  "slug": "mar-louise-du-toit",
+  "names": {
+    "display": "Mar-Louise Du Toit",
+    "given": "Mar-Louise",
+    "surname": "Du Toit",
+    "married": "Martins",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 APR 2001",
+      "year": 2001,
+      "iso": "2001-04-18",
+      "precision": "exact",
+      "display": "April 18, 2001",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/74/eb/86/6f/534448656effad22/screenshot_2024-03-13_173829_original.jpg?hash=d1a547333f99277f8434b6dae7f10d10ad0c7875939084253de4ded749c65711.1789455599",
+      "alt": "Mar-Louise Du Toit"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/74/eb/86/6f/534448656effad22/screenshot_2024-03-13_173829_original.jpg?hash=d1a547333f99277f8434b6dae7f10d10ad0c7875939084253de4ded749c65711.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      328,
+      329
+    ],
+    "spouses": [
+      38
+    ],
+    "exSpouses": [],
+    "children": [
+      128
+    ],
+    "siblings": [
+      330
+    ],
+    "parentUnions": [
+      "F106"
+    ],
+    "spouseUnions": [
+      "F45"
+    ],
+    "parentLinks": [
+      {
+        "id": 328,
+        "unionId": "F106",
+        "type": "biological"
+      },
+      {
+        "id": 329,
+        "unionId": "F106",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 38,
+        "unionId": "F45",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 128,
+        "unionId": "F45",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204041702948@",
+    "geniId": "6000000204041702948",
+    "rfn": "geni:6000000204041702948",
+    "changed": "12 JUN 2024"
+  },
+  "page": {
+    "route": "people/127/",
+    "canonical": "https://www.genepedia.org/people/127/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,251 @@
+{
+  "id": 974,
+  "schema": "genepedia/person@1",
+  "slug": "theodorus-hermanus-de-koker",
+  "names": {
+    "display": "Theodorus Hermanus de Koker",
+    "given": "Theodorus Hermanus",
+    "surname": "de Koker",
+    "married": "de Koker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 JAN 1884",
+      "year": 1884,
+      "iso": "1884-01-24",
+      "precision": "exact",
+      "display": "January 24, 1884",
+      "place": "Beaufort West, WC, South Africa",
+      "location": {
+        "label": "Beaufort West, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "6970",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 JUL 1958",
+      "year": 1958,
+      "iso": "1958-07-08",
+      "precision": "exact",
+      "display": "July 8, 1958",
+      "place": "Kaapstad, WC, South Africa",
+      "location": {
+        "label": "Kaapstad, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kaapstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "6 NOV 1958",
+      "year": 1958,
+      "iso": "1958-11-06",
+      "precision": "exact",
+      "display": "November 6, 1958",
+      "place": "Plumstead, Kaapstad, WC, South Africa",
+      "location": {
+        "label": "Plumstead, Kaapstad, WC, South Africa",
+        "placeName": "Plumstead",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kaapstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2405,
+      2406
+    ],
+    "spouses": [
+      975,
+      2401
+    ],
+    "exSpouses": [],
+    "children": [
+      976,
+      977,
+      978,
+      979,
+      397,
+      980,
+      981,
+      982,
+      2402,
+      2403,
+      2404,
+      975
+    ],
+    "siblings": [
+      2407,
+      2408,
+      2409,
+      2410,
+      2411
+    ],
+    "parentUnions": [
+      "F609"
+    ],
+    "spouseUnions": [
+      "F267",
+      "F607",
+      "F608"
+    ],
+    "parentLinks": [
+      {
+        "id": 2405,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2406,
+        "unionId": "F609",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 975,
+        "unionId": "F267",
+        "role": "partner"
+      },
+      {
+        "id": 2401,
+        "unionId": "F607",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 976,
+        "unionId": "F267",
+        "type": "biological"
+      },
+      {
+        "id": 977,
+        "unionId": "F267",
+        "type": "biological"
+      },
+      {
+        "id": 978,
+        "unionId": "F267",
+        "type": "biological"
+      },
+      {
+        "id": 979,
+        "unionId": "F267",
+        "type": "biological"
+      },
+      {
+        "id": 397,
+        "unionId": "F267",
+        "type": "biological"
+      },
+      {
+        "id": 980,
+        "unionId": "F267",
+        "type": "biological"
+      },
+      {
+        "id": 981,
+        "unionId": "F267",
+        "type": "biological"
+      },
+      {
+        "id": 982,
+        "unionId": "F267",
+        "type": "biological"
+      },
+      {
+        "id": 2402,
+        "unionId": "F607",
+        "type": "biological"
+      },
+      {
+        "id": 2403,
+        "unionId": "F607",
+        "type": "biological"
+      },
+      {
+        "id": 2404,
+        "unionId": "F608",
+        "type": "biological"
+      },
+      {
+        "id": 975,
+        "unionId": "F608",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000185442397854@",
+    "geniId": "6000000185442397854",
+    "rfn": "geni:6000000185442397854",
+    "changed": "19 OCT 2025"
+  },
+  "page": {
+    "route": "people/974/",
+    "canonical": "https://www.genepedia.org/people/974/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

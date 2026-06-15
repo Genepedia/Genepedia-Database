@@ -1,0 +1,141 @@
+{
+  "id": 450,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-jacoba-cornela-davis",
+  "names": {
+    "display": "Gertruida Jacoba Cornela Davis",
+    "given": "Gertruida Jacoba Cornela",
+    "surname": "Davis",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 FEB 1877",
+      "year": 1877,
+      "iso": "1877-02-20",
+      "precision": "exact",
+      "display": "February 20, 1877",
+      "place": "Hopetown, Northern Cape, South Africa",
+      "location": {
+        "label": "Hopetown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "8 APR 1877",
+      "year": 1877,
+      "iso": "1877-04-08",
+      "precision": "exact",
+      "display": "April 8, 1877",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Gertruida Jacoba Cornela Davis"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Potgieter Web Site",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Maritz Web Site",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      447,
+      448
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      449,
+      168,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456
+    ],
+    "parentUnions": [
+      "F136"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 447,
+        "unionId": "F136",
+        "type": "biological"
+      },
+      {
+        "id": 448,
+        "unionId": "F136",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052957718439@",
+    "geniId": "6000000052957718439",
+    "rfn": "geni:6000000052957718439",
+    "changed": "17 JAN 2017"
+  },
+  "page": {
+    "route": "people/450/",
+    "canonical": "https://www.genepedia.org/people/450/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

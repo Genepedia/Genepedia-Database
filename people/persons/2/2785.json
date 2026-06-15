@@ -1,0 +1,98 @@
+{
+  "id": 2785,
+  "schema": "genepedia/person@1",
+  "slug": "ignatius-machiel-faber",
+  "names": {
+    "display": "Ignatius Machiel Faber",
+    "given": "Ignatius Machiel",
+    "surname": "Faber",
+    "married": "Faber",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 JAN 1926",
+      "year": 1926,
+      "iso": "1926-01-09",
+      "precision": "exact",
+      "display": "January 9, 1926",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2780,
+      1130
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2781,
+      2782,
+      2783,
+      2784,
+      2786,
+      2787,
+      2788
+    ],
+    "parentUnions": [
+      "F690"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2780,
+        "unionId": "F690",
+        "type": "biological"
+      },
+      {
+        "id": 1130,
+        "unionId": "F690",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000191375234839@",
+    "geniId": "6000000191375234839",
+    "rfn": "geni:6000000191375234839",
+    "changed": "28 MAR 2025"
+  },
+  "page": {
+    "route": "people/2785/",
+    "canonical": "https://www.genepedia.org/people/2785/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

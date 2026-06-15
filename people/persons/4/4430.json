@@ -1,0 +1,85 @@
+{
+  "id": 4430,
+  "schema": "genepedia/person@1",
+  "slug": "quinn",
+  "names": {
+    "display": "? Quinn",
+    "given": "?",
+    "surname": "Quinn",
+    "married": "Quinn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4431
+    ],
+    "exSpouses": [],
+    "children": [
+      1733
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1050"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4431,
+        "unionId": "F1050",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1733,
+        "unionId": "F1050",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217947016872@",
+    "geniId": "6000000217947016872",
+    "rfn": "geni:6000000217947016872",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/4430/",
+    "canonical": "https://www.genepedia.org/people/4430/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,139 @@
+{
+  "id": 2885,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-hendrik-cloete",
+  "names": {
+    "display": "Johannes Hendrik Cloete",
+    "given": "Johannes Hendrik",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1841",
+      "year": 1841,
+      "iso": "1841",
+      "precision": "about",
+      "display": "about 1841",
+      "place": "Cape Province, Republic of South Africa",
+      "location": {
+        "label": "Cape Province, Republic of South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "Republic of South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "21 AUG 1891",
+      "year": 1891,
+      "iso": "1891-08-21",
+      "precision": "exact",
+      "display": "August 21, 1891",
+      "place": "Prieska, Cape Province, South Africa",
+      "location": {
+        "label": "Prieska, Cape Province, South Africa",
+        "placeName": "Prieska, Cape Province, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1156
+    ],
+    "exSpouses": [],
+    "children": [
+      2886,
+      2887
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1796"
+    ],
+    "spouseUnions": [
+      "F711"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1156,
+        "unionId": "F711",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2886,
+        "unionId": "F711",
+        "type": "biological"
+      },
+      {
+        "id": 2887,
+        "unionId": "F711",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000196107554012@",
+    "geniId": "6000000196107554012",
+    "rfn": "geni:6000000196107554012",
+    "changed": "10 SEP 2025"
+  },
+  "page": {
+    "route": "people/2885/",
+    "canonical": "https://www.genepedia.org/people/2885/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

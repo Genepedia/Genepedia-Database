@@ -1,0 +1,169 @@
+{
+  "id": 715,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-daniel-olwage",
+  "names": {
+    "display": "Abraham Daniel Olwage",
+    "given": "Abraham Daniel",
+    "surname": "Olwage",
+    "married": "Olwage",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 AUG 1920",
+      "year": 1920,
+      "iso": "1920-08-07",
+      "precision": "exact",
+      "display": "August 7, 1920",
+      "place": "Melsetter",
+      "location": {
+        "label": "Melsetter",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Melsetter",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "5 SEP 1920",
+      "year": 1920,
+      "iso": "1920-09-05",
+      "precision": "exact",
+      "display": "September 5, 1920",
+      "place": "NG Kerk, Melsetter",
+      "location": {
+        "label": "NG Kerk, Melsetter",
+        "placeName": "NG Kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Melsetter",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f3/29/1e/20/53444846d732ba7b/olwage_boom_83__original.jpg?hash=6d79e966a949f53b0c0cba4c7190c8d2d54d2f7e7799cdd379b344d8b39577d8.1789455599",
+      "alt": "Abraham Daniel Olwage"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f3/29/1e/20/53444846d732ba7b/olwage_boom_83__original.jpg?hash=6d79e966a949f53b0c0cba4c7190c8d2d54d2f7e7799cdd379b344d8b39577d8.1789455599",
+        "form": "",
+        "title": "Olwage",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/5e/43/bc/84/5344483b8b37dc4c/olwage_adsvad_jmduplessis_46_original.jpg?hash=dfbecd237ea3443d3105c301dc1055747e10d8c729684b76bc9bb70eadb475d4.1789455599",
+        "form": "",
+        "title": "Abraham Daniel Olwage",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/68/ad/e6/47/5344483b93602426/ad_olwage_x_jc_vdmerwe__original.jpg?hash=06f3b0be1637503beeff7fc9692cfa1286f3f3dae55b329b05729b10ac97c94e.1789455599",
+        "form": "",
+        "title": "Abraham Daniel Olwage x Johanna Christina van der Merwe",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      287
+    ],
+    "exSpouses": [],
+    "children": [
+      716,
+      717,
+      718
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F202"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 287,
+        "unionId": "F202",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 716,
+        "unionId": "F202",
+        "type": "biological"
+      },
+      {
+        "id": 717,
+        "unionId": "F202",
+        "type": "biological"
+      },
+      {
+        "id": 718,
+        "unionId": "F202",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000014713292635@",
+    "geniId": "6000000014713292635",
+    "rfn": "geni:6000000014713292635",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/715/",
+    "canonical": "https://www.genepedia.org/people/715/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

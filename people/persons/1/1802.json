@@ -1,0 +1,124 @@
+{
+  "id": 1802,
+  "schema": "genepedia/person@1",
+  "slug": "nenze-masaka-nyashanu",
+  "names": {
+    "display": "Nenze Masaka Nyashanu",
+    "given": "Nenze Masaka",
+    "surname": "Nyashanu",
+    "married": "Kwaine",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 DEC 1902",
+      "year": 1902,
+      "iso": "1902-12-01",
+      "precision": "exact",
+      "display": "December 1, 1902",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4556,
+      4557
+    ],
+    "spouses": [
+      1801
+    ],
+    "exSpouses": [],
+    "children": [
+      784
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1089"
+    ],
+    "spouseUnions": [
+      "F475"
+    ],
+    "parentLinks": [
+      {
+        "id": 4556,
+        "unionId": "F1089",
+        "type": "biological"
+      },
+      {
+        "id": 4557,
+        "unionId": "F1089",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1801,
+        "unionId": "F475",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 784,
+        "unionId": "F475",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207500914828@",
+    "geniId": "6000000207500914828",
+    "rfn": "geni:6000000207500914828",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/1802/",
+    "canonical": "https://www.genepedia.org/people/1802/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

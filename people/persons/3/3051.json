@@ -1,0 +1,85 @@
+{
+  "id": 3051,
+  "schema": "genepedia/person@1",
+  "slug": "gunter-3051",
+  "names": {
+    "display": "? Gunter",
+    "given": "?",
+    "surname": "Gunter",
+    "married": "Gunter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3050
+    ],
+    "exSpouses": [],
+    "children": [
+      1221
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F748"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3050,
+        "unionId": "F748",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1221,
+        "unionId": "F748",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222126651833@",
+    "geniId": "6000000222126651833",
+    "rfn": "geni:6000000222126651833",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3051/",
+    "canonical": "https://www.genepedia.org/people/3051/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

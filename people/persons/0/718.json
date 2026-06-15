@@ -1,0 +1,86 @@
+{
+  "id": 718,
+  "schema": "genepedia/person@1",
+  "slug": "private-du-plessis",
+  "names": {
+    "display": "<private> du Plessis",
+    "given": "<private>",
+    "surname": "du Plessis",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      715,
+      287
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      716,
+      717
+    ],
+    "parentUnions": [
+      "F202"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 715,
+        "unionId": "F202",
+        "type": "biological"
+      },
+      {
+        "id": 287,
+        "unionId": "F202",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000221802066933@",
+    "geniId": "6000000221802066933",
+    "rfn": "geni:6000000221802066933",
+    "changed": "18 OCT 2025"
+  },
+  "page": {
+    "route": "people/718/",
+    "canonical": "https://www.genepedia.org/people/718/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

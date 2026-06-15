@@ -1,0 +1,111 @@
+{
+  "id": 1660,
+  "schema": "genepedia/person@1",
+  "slug": "aristide-edouard-hardouin",
+  "names": {
+    "display": "Aristide Edouard Hardouin",
+    "given": "Aristide Edouard",
+    "surname": "Hardouin",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 OCT 1878",
+      "year": 1878,
+      "iso": "1878-10-29",
+      "precision": "exact",
+      "display": "October 29, 1878",
+      "place": "Muckle Neuk, Inanda, Natal",
+      "location": {
+        "label": "Muckle Neuk, Inanda, Natal",
+        "placeName": "Muckle Neuk, Inanda, Natal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1657,
+      1658
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      670,
+      1659,
+      1661,
+      1662
+    ],
+    "parentUnions": [
+      "F429"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1657,
+        "unionId": "F429",
+        "type": "biological"
+      },
+      {
+        "id": 1658,
+        "unionId": "F429",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000185615728179@",
+    "geniId": "6000000185615728179",
+    "rfn": "geni:6000000185615728179",
+    "changed": "20 JUN 2022"
+  },
+  "page": {
+    "route": "people/1660/",
+    "canonical": "https://www.genepedia.org/people/1660/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 2969,
+  "schema": "genepedia/person@1",
+  "slug": "anna-gertruida-johanna-fourie",
+  "names": {
+    "display": "Anna Gertruida Johanna Fourie",
+    "given": "Anna Gertruida Johanna",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1896",
+      "year": 1896,
+      "iso": "1896",
+      "precision": "exact",
+      "display": "1896",
+      "place": null
+    },
+    "death": {
+      "date": "1957",
+      "year": 1957,
+      "iso": "1957",
+      "precision": "exact",
+      "display": "1957",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1181
+    ],
+    "exSpouses": [],
+    "children": [
+      2970,
+      2971,
+      2972,
+      2973
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F726"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1181,
+        "unionId": "F726",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2970,
+        "unionId": "F726",
+        "type": "biological"
+      },
+      {
+        "id": 2971,
+        "unionId": "F726",
+        "type": "biological"
+      },
+      {
+        "id": 2972,
+        "unionId": "F726",
+        "type": "biological"
+      },
+      {
+        "id": 2973,
+        "unionId": "F726",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027853659234@",
+    "geniId": "6000000027853659234",
+    "rfn": "geni:6000000027853659234",
+    "changed": "12 MAR 2015"
+  },
+  "page": {
+    "route": "people/2969/",
+    "canonical": "https://www.genepedia.org/people/2969/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

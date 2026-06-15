@@ -1,0 +1,132 @@
+{
+  "id": 3026,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-petrus-fourie",
+  "names": {
+    "display": "Johannes Petrus Fourie",
+    "given": "Johannes Petrus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "21 JAN 1943",
+      "year": 1943,
+      "iso": "1943-01-21",
+      "precision": "exact",
+      "display": "January 21, 1943",
+      "place": "Niekerkshoop",
+      "location": {
+        "label": "Niekerkshoop",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Niekerkshoop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "28 FEB 1943",
+      "year": 1943,
+      "iso": "1943-02-28",
+      "precision": "exact",
+      "display": "February 28, 1943",
+      "place": "Niekerkshoop",
+      "location": {
+        "label": "Niekerkshoop",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Niekerkshoop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3023,
+      1201
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3024,
+      3025
+    ],
+    "parentUnions": [
+      "F740"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3023,
+        "unionId": "F740",
+        "type": "biological"
+      },
+      {
+        "id": 1201,
+        "unionId": "F740",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216148847822@",
+    "geniId": "6000000216148847822",
+    "rfn": "geni:6000000216148847822",
+    "changed": "01 MAR 2025"
+  },
+  "page": {
+    "route": "people/3026/",
+    "canonical": "https://www.genepedia.org/people/3026/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

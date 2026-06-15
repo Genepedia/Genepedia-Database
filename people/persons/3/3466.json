@@ -1,0 +1,225 @@
+{
+  "id": 3466,
+  "schema": "genepedia/person@1",
+  "slug": "david-lombard",
+  "names": {
+    "display": "David Lombard",
+    "given": "David",
+    "surname": "Lombard",
+    "married": "Lombard",
+    "nick": "Lombard",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 8 APR 1770",
+      "year": 1770,
+      "iso": "1770-04-08",
+      "precision": "before",
+      "display": "before April 8, 1770",
+      "place": null
+    },
+    "death": {
+      "date": "6 OCT 1846",
+      "year": 1846,
+      "iso": "1846-10-06",
+      "precision": "exact",
+      "display": "October 6, 1846",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d2/6f/5b/94/5344484927c46cae/0000a_original.jpg?hash=bd8c2fafe46f0c3d8036fac7cddd24be8bb3a251e0008ba561195d773d0eeabb.1789455599",
+      "alt": "David Lombard"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d2/6f/5b/94/5344484927c46cae/0000a_original.jpg?hash=bd8c2fafe46f0c3d8036fac7cddd24be8bb3a251e0008ba561195d773d0eeabb.1789455599",
+        "form": "",
+        "title": "DEATH NOTICE - David Lombard, b1c6d4",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/a8/d4/7b/c8/53444866338cb93a/1_1_qpww-ss65_original.png?hash=85c163684cba8b4163d15575d80aa744e9f4a5aef9379d0bb3442eee9a7805b4.1789455599",
+        "form": "",
+        "title": "https://www.familysearch.org/ark:/61903/1:1:QPWW-SS65",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/59/9a/85/5e/5344486633851c4b/image_72__original.jpg?hash=d109802eefdf881d897137e1880cb180cd671e5c176239ba114f1b57efdfa591.1789455599",
+        "form": "",
+        "title": "image(72).jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3467
+    ],
+    "exSpouses": [],
+    "children": [
+      3468,
+      3469,
+      3470,
+      3471,
+      3472,
+      3473,
+      3474,
+      3475,
+      3476,
+      3477,
+      3478,
+      3479,
+      1384,
+      3480,
+      3481
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F855"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3467,
+        "unionId": "F855",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3468,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3469,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3470,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3471,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3472,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3473,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3474,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3475,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3476,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3477,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3478,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3479,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 1384,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3480,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3481,
+        "unionId": "F855",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000015584703642@",
+    "geniId": "6000000015584703642",
+    "rfn": "geni:6000000015584703642",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3466/",
+    "canonical": "https://www.genepedia.org/people/3466/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

@@ -1,0 +1,121 @@
+{
+  "id": 4946,
+  "schema": "genepedia/person@1",
+  "slug": "adriaan-jacobus-roux",
+  "names": {
+    "display": "Adriaan Jacobus Roux",
+    "given": "Adriaan Jacobus",
+    "surname": "Roux",
+    "married": "Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 JAN 1868",
+      "year": 1868,
+      "iso": "1868-01-03",
+      "precision": "exact",
+      "display": "January 3, 1868",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "2 FEB 1868",
+      "year": 1868,
+      "iso": "1868-02-02",
+      "precision": "exact",
+      "display": "February 2, 1868",
+      "place": "Colesburg, Cape, South Africa",
+      "location": {
+        "label": "Colesburg, Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4942,
+      4941
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4943,
+      4944,
+      4945,
+      1923,
+      4947,
+      4948,
+      4949
+    ],
+    "parentUnions": [
+      "F1174"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4942,
+        "unionId": "F1174",
+        "type": "biological"
+      },
+      {
+        "id": 4941,
+        "unionId": "F1174",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000091908437821@",
+    "geniId": "6000000091908437821",
+    "rfn": "geni:6000000091908437821",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/4946/",
+    "canonical": "https://www.genepedia.org/people/4946/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

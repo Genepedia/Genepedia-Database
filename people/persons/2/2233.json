@@ -1,0 +1,102 @@
+{
+  "id": 2233,
+  "schema": "genepedia/person@1",
+  "slug": "sharon-norma-hyman",
+  "names": {
+    "display": "Sharon Norma Hyman",
+    "given": "Sharon Norma",
+    "surname": "Hyman",
+    "married": "Hyman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Matlosana, NW, South Africa",
+  "lastResidenceLocation": {
+    "label": "Matlosana, NW, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Matlosana",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "NW",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      906,
+      2230
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2231,
+      2232,
+      2234
+    ],
+    "parentUnions": [
+      "F566"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 906,
+        "unionId": "F566",
+        "type": "biological"
+      },
+      {
+        "id": 2230,
+        "unionId": "F566",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000054792454825@",
+    "geniId": "6000000054792454825",
+    "rfn": "geni:6000000054792454825",
+    "changed": "06 DEC 2025"
+  },
+  "page": {
+    "route": "people/2233/",
+    "canonical": "https://www.genepedia.org/people/2233/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,125 @@
+{
+  "id": 4391,
+  "schema": "genepedia/person@1",
+  "slug": "ernst-lodewyk-viljoen-4391",
+  "names": {
+    "display": "Ernst Lodewyk Viljoen",
+    "given": "Ernst Lodewyk",
+    "surname": "Viljoen",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 JAN 1888",
+      "year": 1888,
+      "iso": "1888-01-03",
+      "precision": "exact",
+      "display": "January 3, 1888",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 MAY 1888",
+      "year": 1888,
+      "iso": "1888-05-06",
+      "precision": "exact",
+      "display": "May 6, 1888",
+      "place": "Kroonstad, Free State, South Africa",
+      "location": {
+        "label": "Kroonstad, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4380,
+      4381
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1718,
+      4382,
+      4383,
+      4384,
+      4385,
+      4386,
+      4387,
+      4388,
+      4389,
+      4390,
+      4392
+    ],
+    "parentUnions": [
+      "F1038"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4380,
+        "unionId": "F1038",
+        "type": "biological"
+      },
+      {
+        "id": 4381,
+        "unionId": "F1038",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000047287734882@",
+    "geniId": "6000000047287734882",
+    "rfn": "geni:6000000047287734882",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/4391/",
+    "canonical": "https://www.genepedia.org/people/4391/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

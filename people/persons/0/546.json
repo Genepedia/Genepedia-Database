@@ -1,0 +1,183 @@
+{
+  "id": 546,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-hendrika-jacoba-van-niekerk",
+  "names": {
+    "display": "Johanna Hendrika Jacoba van Niekerk",
+    "given": "Johanna Hendrika Jacoba",
+    "surname": "van Niekerk",
+    "married": "Palvie",
+    "nick": "Hannie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 AUG 1873",
+      "year": 1873,
+      "iso": "1873-08-15",
+      "precision": "exact",
+      "display": "August 15, 1873",
+      "place": null
+    },
+    "death": {
+      "date": "6 JUL 1976",
+      "year": 1976,
+      "iso": "1976-07-06",
+      "precision": "exact",
+      "display": "July 6, 1976",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/98/f0/57/12/5344484b7c08480b/palvie_jhj_geb_van_niekerk_1873-1976_original.jpg?hash=00caaec1db5e55fef4fa7b7cf632fc17e579f38a37c8c3f0a8129647f063bd22.1789455599",
+      "alt": "Johanna Hendrika Jacoba van Niekerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/98/f0/57/12/5344484b7c08480b/palvie_jhj_geb_van_niekerk_1873-1976_original.jpg?hash=00caaec1db5e55fef4fa7b7cf632fc17e579f38a37c8c3f0a8129647f063bd22.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/f7/8a/8c/bd/5344484b7ea7af26/main_original.png?hash=6ccc2a18eb610123a9707c2531f685bd2c61e12cc3ce264cefd6df146793b349.1789455599",
+        "form": "",
+        "title": "PALVIE J.H.J. nee VAN NIEKERK 1873-1976",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1336,
+      1335
+    ],
+    "spouses": [
+      547
+    ],
+    "exSpouses": [],
+    "children": [
+      211,
+      548,
+      549,
+      550
+    ],
+    "siblings": [
+      1337,
+      1338,
+      1339,
+      1340,
+      1341,
+      1342
+    ],
+    "parentUnions": [
+      "F345"
+    ],
+    "spouseUnions": [
+      "F160"
+    ],
+    "parentLinks": [
+      {
+        "id": 1336,
+        "unionId": "F345",
+        "type": "biological"
+      },
+      {
+        "id": 1335,
+        "unionId": "F345",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 547,
+        "unionId": "F160",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 211,
+        "unionId": "F160",
+        "type": "biological"
+      },
+      {
+        "id": 548,
+        "unionId": "F160",
+        "type": "biological"
+      },
+      {
+        "id": 549,
+        "unionId": "F160",
+        "type": "biological"
+      },
+      {
+        "id": 550,
+        "unionId": "F160",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000092604181128@",
+    "geniId": "6000000092604181128",
+    "rfn": "geni:6000000092604181128",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/546/",
+    "canonical": "https://www.genepedia.org/people/546/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

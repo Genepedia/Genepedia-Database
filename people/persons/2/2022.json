@@ -1,0 +1,152 @@
+{
+  "id": 2022,
+  "schema": "genepedia/person@1",
+  "slug": "hester-kleynhans",
+  "names": {
+    "display": "Hester Kleynhans",
+    "given": "Hester",
+    "surname": "Kleynhans",
+    "married": "Kleynhans",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 AUG 1879",
+      "year": 1879,
+      "iso": "1879-08-23",
+      "precision": "exact",
+      "display": "August 23, 1879",
+      "place": "Kroonstad, FS, South Africa",
+      "location": {
+        "label": "Kroonstad, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "31 OCT 1918",
+      "year": 1918,
+      "iso": "1918-10-31",
+      "precision": "exact",
+      "display": "October 31, 1918",
+      "place": "Heilbron, FS, South Africa",
+      "location": {
+        "label": "Heilbron, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Heilbron",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/74/05/51/f1/53444869810aad5a/_w5_h_kleynhans_onbekend_original.jpg?hash=9fa77042150ab6f6bca526da9537deb91539f6cf5ea21fd497f5680abf699416.1789455599",
+      "alt": "Hester Kleynhans"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/74/05/51/f1/53444869810aad5a/_w5_h_kleynhans_onbekend_original.jpg?hash=9fa77042150ab6f6bca526da9537deb91539f6cf5ea21fd497f5680abf699416.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      840,
+      2019
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2020,
+      2021,
+      2023,
+      2024,
+      2025,
+      2026,
+      2027,
+      2028
+    ],
+    "parentUnions": [
+      "F529"
+    ],
+    "spouseUnions": [
+      "F1240"
+    ],
+    "parentLinks": [
+      {
+        "id": 840,
+        "unionId": "F529",
+        "type": "biological"
+      },
+      {
+        "id": 2019,
+        "unionId": "F529",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056309641967@",
+    "geniId": "6000000056309641967",
+    "rfn": "geni:6000000056309641967",
+    "changed": "26 MAR 2026"
+  },
+  "page": {
+    "route": "people/2022/",
+    "canonical": "https://www.genepedia.org/people/2022/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

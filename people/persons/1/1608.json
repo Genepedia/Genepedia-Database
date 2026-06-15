@@ -1,0 +1,95 @@
+{
+  "id": 1608,
+  "schema": "genepedia/person@1",
+  "slug": "adam-gottlieb-de-beer",
+  "names": {
+    "display": "Adam Gottlieb de Beer",
+    "given": "Adam Gottlieb",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 NOV 1840",
+      "year": 1840,
+      "iso": "1840-11-10",
+      "precision": "exact",
+      "display": "November 10, 1840",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1606,
+      1605
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1607,
+      1609,
+      646,
+      1610
+    ],
+    "parentUnions": [
+      "F409"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1606,
+        "unionId": "F409",
+        "type": "biological"
+      },
+      {
+        "id": 1605,
+        "unionId": "F409",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000034531145331@",
+    "geniId": "6000000034531145331",
+    "rfn": "geni:6000000034531145331",
+    "changed": "30 APR 2022"
+  },
+  "page": {
+    "route": "people/1608/",
+    "canonical": "https://www.genepedia.org/people/1608/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 2172,
+  "schema": "genepedia/person@1",
+  "slug": "beatrice-alida-hibbert",
+  "names": {
+    "display": "Beatrice Alida Hibbert",
+    "given": "Beatrice Alida",
+    "surname": "Hibbert",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 MAR 1900",
+      "year": 1900,
+      "iso": "1900-03-21",
+      "precision": "exact",
+      "display": "March 21, 1900",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "16 JUL 1901",
+      "year": 1901,
+      "iso": "1901-07-16",
+      "precision": "exact",
+      "display": "July 16, 1901",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/f0/a2/00/df/5344484296378f2a/record-image_33s7-9t71-9zhx_original.jpg?hash=899d0fc32b15b74c53d1a942e496547834e752bbda7d62ffc1520ff4244e3a8f.1789455599",
+      "alt": "Beatrice Alida Hibbert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/f0/a2/00/df/5344484296378f2a/record-image_33s7-9t71-9zhx_original.jpg?hash=899d0fc32b15b74c53d1a942e496547834e752bbda7d62ffc1520ff4244e3a8f.1789455599",
+        "form": "",
+        "title": "record-image_33S7-9T71-9ZHX.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2162,
+      893
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2163,
+      2164,
+      2165,
+      2166,
+      2167,
+      2168,
+      2169,
+      2170,
+      2171
+    ],
+    "parentUnions": [
+      "F556"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2162,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 893,
+        "unionId": "F556",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000054390440063@",
+    "geniId": "6000000054390440063",
+    "rfn": "geni:6000000054390440063",
+    "changed": "14 FEB 2017"
+  },
+  "page": {
+    "route": "people/2172/",
+    "canonical": "https://www.genepedia.org/people/2172/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

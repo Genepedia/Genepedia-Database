@@ -1,0 +1,152 @@
+{
+  "id": 4580,
+  "schema": "genepedia/person@1",
+  "slug": "adriana-visser",
+  "names": {
+    "display": "Adriana Visser",
+    "given": "Adriana",
+    "surname": "Visser",
+    "married": "Bester",
+    "nick": "Adriana Bester",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 DEC 1761",
+      "year": 1761,
+      "iso": "1761-12-15",
+      "precision": "exact",
+      "display": "December 15, 1761",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1848",
+      "year": 1848,
+      "iso": "1848",
+      "precision": "exact",
+      "display": "1848",
+      "place": null
+    },
+    "baptism": {
+      "date": "25 DEC 1761",
+      "year": 1761,
+      "iso": "1761-12-25",
+      "precision": "exact",
+      "display": "December 25, 1761",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4579
+    ],
+    "exSpouses": [],
+    "children": [
+      4581,
+      4582,
+      4583,
+      4584,
+      4585,
+      1844
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1099"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4579,
+        "unionId": "F1099",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4581,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4582,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4583,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4584,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 4585,
+        "unionId": "F1099",
+        "type": "biological"
+      },
+      {
+        "id": 1844,
+        "unionId": "F1099",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000008636718465@",
+    "geniId": "6000000008636718465",
+    "rfn": "geni:6000000008636718465",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/4580/",
+    "canonical": "https://www.genepedia.org/people/4580/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.213Z"
+}

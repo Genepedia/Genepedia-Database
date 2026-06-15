@@ -1,0 +1,190 @@
+{
+  "id": 3785,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-karel-willem-casparus-brynard",
+  "names": {
+    "display": "Johannes Karel Willem Casparus Brynard",
+    "given": "Johannes Karel Willem Casparus",
+    "surname": "Brynard",
+    "married": "Brynard",
+    "nick": "Hansie Brynard",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 AUG 1898",
+      "year": 1898,
+      "iso": "1898-08-31",
+      "precision": "exact",
+      "display": "August 31, 1898",
+      "place": "Aberdeen, EC, South Africa",
+      "location": {
+        "label": "Aberdeen, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "6270",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "30 APR 1986",
+      "year": 1986,
+      "iso": "1986-04-30",
+      "precision": "exact",
+      "display": "April 30, 1986",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "2 OCT 1898",
+      "year": 1898,
+      "iso": "1898-10-02",
+      "precision": "exact",
+      "display": "October 2, 1898",
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Urban area / Northern Cape, CALVINIA, Main cemetery, South Africa",
+      "location": {
+        "label": "Urban area / Northern Cape, CALVINIA, Main cemetery, South Africa",
+        "placeName": "Urban area / Northern Cape, CALVINIA, Main cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1437,
+      3782
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3783,
+      3784,
+      3786,
+      3787,
+      3788,
+      3789,
+      3790,
+      3791,
+      3792,
+      3793,
+      3794,
+      3795,
+      3796
+    ],
+    "parentUnions": [
+      "F903"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1437,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3782,
+        "unionId": "F903",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000053779771833@",
+    "geniId": "6000000053779771833",
+    "rfn": "geni:6000000053779771833",
+    "changed": "17 JAN 2026"
+  },
+  "page": {
+    "route": "people/3785/",
+    "canonical": "https://www.genepedia.org/people/3785/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

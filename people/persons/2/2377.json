@@ -1,0 +1,99 @@
+{
+  "id": 2377,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-maria-margaretha-cloete-2377",
+  "names": {
+    "display": "Magdalena Maria Margaretha Cloete",
+    "given": "Magdalena Maria Margaretha",
+    "surname": "Cloete",
+    "married": "Swanepoel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1843",
+      "year": 1843,
+      "iso": "1843",
+      "precision": "about",
+      "display": "about 1843",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2376,
+      2375
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      954,
+      2378,
+      2379,
+      2380,
+      2381,
+      2382
+    ],
+    "parentUnions": [
+      "F600"
+    ],
+    "spouseUnions": [
+      "F1470"
+    ],
+    "parentLinks": [
+      {
+        "id": 2376,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2375,
+        "unionId": "F600",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052173735092@",
+    "geniId": "6000000052173735092",
+    "rfn": "geni:6000000052173735092",
+    "changed": "27 AUG 2022"
+  },
+  "page": {
+    "route": "people/2377/",
+    "canonical": "https://www.genepedia.org/people/2377/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

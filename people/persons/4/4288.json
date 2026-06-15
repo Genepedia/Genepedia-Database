@@ -1,0 +1,180 @@
+{
+  "id": 4288,
+  "schema": "genepedia/person@1",
+  "slug": "sarel-johannes-griesel",
+  "names": {
+    "display": "Sarel Johannes Griesel",
+    "given": "Sarel Johannes",
+    "surname": "Griesel",
+    "married": "Griesel",
+    "nick": "",
+    "aliases": [
+      "Griesel"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 JUN 1840",
+      "year": 1840,
+      "iso": "1840-06-10",
+      "precision": "exact",
+      "display": "June 10, 1840",
+      "place": null
+    },
+    "death": {
+      "date": "13 MAY 1890",
+      "year": 1890,
+      "iso": "1890-05-13",
+      "precision": "exact",
+      "display": "May 13, 1890",
+      "place": "Boshof",
+      "location": {
+        "label": "Boshof",
+        "placeName": "",
+        "addressLine1": "Biesjesbult",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer / Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b1/36/d3/dd/5344486333ea4a3f/record-image__original.jpg?hash=41e4af45a32795aadea4645512c38e0dcbc690e9e79434e3160718bffe22dfeb.1789455599",
+      "alt": "Sarel Johannes Griesel"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b1/36/d3/dd/5344486333ea4a3f/record-image__original.jpg?hash=41e4af45a32795aadea4645512c38e0dcbc690e9e79434e3160718bffe22dfeb.1789455599",
+        "form": "",
+        "title": "name van kinders",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/08/0a/30/a2/53444863341bd191/record-image__original.jpg?hash=37bc638434a7217298ae303264728043abd2927a87ef42843ae3640b0ff92b77.1789455599",
+        "form": "",
+        "title": "record-image_trou 1866 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/a8/d8/48/f7/534448633415de27/record-image__original.jpg?hash=66c5b188cf096fee55c67bfd81f798e4704f020eaae1c18e3c2ed935d4965da2.1789455599",
+        "form": "",
+        "title": "record-image_trou 1875 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/b6/e9/cc/14/5344486330de1f38/record-image_1__original.jpg?hash=82d1d7a21a4c5016d44d730323cf44c6cf5146a63bb2a9c89c07fa9e1eb28a5e.1789455599",
+        "form": "",
+        "title": "record-image_ dood .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4287
+    ],
+    "exSpouses": [],
+    "children": [
+      4289,
+      4290,
+      4291,
+      4292,
+      1620,
+      4293
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1008"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4287,
+        "unionId": "F1008",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4289,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 4290,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 4291,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 4292,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 1620,
+        "unionId": "F1008",
+        "type": "biological"
+      },
+      {
+        "id": 4293,
+        "unionId": "F1008",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000194422907860@",
+    "geniId": "6000000194422907860",
+    "rfn": "geni:6000000194422907860",
+    "changed": "15 JUL 2024"
+  },
+  "page": {
+    "route": "people/4288/",
+    "canonical": "https://www.genepedia.org/people/4288/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

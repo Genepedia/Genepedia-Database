@@ -1,0 +1,135 @@
+{
+  "id": 1155,
+  "schema": "genepedia/person@1",
+  "slug": "jacomina-maria-gertruida-maritz",
+  "names": {
+    "display": "Jacomina Maria Gertruida Maritz",
+    "given": "Jacomina Maria Gertruida",
+    "surname": "Maritz",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1845",
+      "year": 1845,
+      "iso": "1845",
+      "precision": "exact",
+      "display": "1845",
+      "place": "Worcester, WC, South Africa",
+      "location": {
+        "label": "Worcester, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "6850",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 JAN 1866",
+      "year": 1866,
+      "iso": "1866-01-28",
+      "precision": "exact",
+      "display": "January 28, 1866",
+      "place": "Victoria West, NC, South Africa",
+      "location": {
+        "label": "Victoria West, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Victoria West",
+        "postalCode": "7070",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1153,
+      1154
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1156,
+      1157,
+      448,
+      1093,
+      1158
+    ],
+    "parentUnions": [
+      "F305"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1153,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1154,
+        "unionId": "F305",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000187282210821@",
+    "geniId": "6000000187282210821",
+    "rfn": "geni:6000000187282210821",
+    "changed": "15 SEP 2022"
+  },
+  "page": {
+    "route": "people/1155/",
+    "canonical": "https://www.genepedia.org/people/1155/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

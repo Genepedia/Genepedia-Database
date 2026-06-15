@@ -1,0 +1,104 @@
+{
+  "id": 3452,
+  "schema": "genepedia/person@1",
+  "slug": "georg-pieterse",
+  "names": {
+    "display": "Georg Pieterse",
+    "given": "Georg",
+    "surname": "Pieterse",
+    "married": "Pieterse",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "20 SEP 1983",
+      "year": 1983,
+      "iso": "1983-09-20",
+      "precision": "exact",
+      "display": "September 20, 1983",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/cd/a2/ab/2a/5344486602b8dc56/screenshot_2024-06-15_190442_original.jpg?hash=18011642c0e9f60aa7832a673c054bb0e25e2fc8118e8014f9f2a7bc4b544590.1789455599",
+      "alt": "Georg Pieterse"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/cd/a2/ab/2a/5344486602b8dc56/screenshot_2024-06-15_190442_original.jpg?hash=18011642c0e9f60aa7832a673c054bb0e25e2fc8118e8014f9f2a7bc4b544590.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1375
+    ],
+    "exSpouses": [],
+    "children": [
+      3453
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F849"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1375,
+        "unionId": "F849",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3453,
+        "unionId": "F849",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206532338841@",
+    "geniId": "6000000206532338841",
+    "rfn": "geni:6000000206532338841",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/3452/",
+    "canonical": "https://www.genepedia.org/people/3452/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

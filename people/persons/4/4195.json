@@ -1,0 +1,120 @@
+{
+  "id": 4195,
+  "schema": "genepedia/person@1",
+  "slug": "anri-viljoen",
+  "names": {
+    "display": "Anri Viljoen",
+    "given": "Anri",
+    "surname": "Viljoen",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 JAN 1988",
+      "year": 1988,
+      "iso": "1988-01-03",
+      "precision": "exact",
+      "display": "January 3, 1988",
+      "place": "Lichtenburg",
+      "location": {
+        "label": "Lichtenburg",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Lichtenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p5/5860/5088/534448367410e489/anri_original.jpg?hash=f774d39448501263b98e07bc51874c506634bdde3aefd3cd0166326b64c6c603.1789455599",
+      "alt": "Anri Viljoen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p5/5860/5088/534448367410e489/anri_original.jpg?hash=f774d39448501263b98e07bc51874c506634bdde3aefd3cd0166326b64c6c603.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1591,
+      4194
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4196
+    ],
+    "parentUnions": [
+      "F984"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1591,
+        "unionId": "F984",
+        "type": "biological"
+      },
+      {
+        "id": 4194,
+        "unionId": "F984",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000001977024275@",
+    "geniId": "6000000001977024275",
+    "rfn": "geni:6000000001977024275",
+    "changed": "18 NOV 2014"
+  },
+  "page": {
+    "route": "people/4195/",
+    "canonical": "https://www.genepedia.org/people/4195/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

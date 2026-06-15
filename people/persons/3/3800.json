@@ -1,0 +1,117 @@
+{
+  "id": 3800,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-wilhelmina-gertruida",
+  "names": {
+    "display": "Elizabeth Wilhelmina Gertruida",
+    "given": "Elizabeth Wilhelmina Gertruida",
+    "surname": "Brynard",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 MAR 1912",
+      "year": 1912,
+      "iso": "1912-03-28",
+      "precision": "exact",
+      "display": "March 28, 1912",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "6 OCT 1912",
+      "year": 1912,
+      "iso": "1912-10-06",
+      "precision": "exact",
+      "display": "October 6, 1912",
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1441,
+      3798
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3799,
+      3801,
+      3802
+    ],
+    "parentUnions": [
+      "F905"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1441,
+        "unionId": "F905",
+        "type": "biological"
+      },
+      {
+        "id": 3798,
+        "unionId": "F905",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000162889640878@",
+    "geniId": "6000000162889640878",
+    "rfn": "geni:6000000162889640878",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3800/",
+    "canonical": "https://www.genepedia.org/people/3800/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

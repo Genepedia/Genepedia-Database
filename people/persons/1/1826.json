@@ -1,0 +1,91 @@
+{
+  "id": 1826,
+  "schema": "genepedia/person@1",
+  "slug": "vigne",
+  "names": {
+    "display": "? Vigne",
+    "given": "?",
+    "surname": "Vigne",
+    "married": "Vigne",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      793
+    ],
+    "exSpouses": [],
+    "children": [
+      1827,
+      1828
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F483"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 793,
+        "unionId": "F483",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1827,
+        "unionId": "F483",
+        "type": "biological"
+      },
+      {
+        "id": 1828,
+        "unionId": "F483",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207097048824@",
+    "geniId": "6000000207097048824",
+    "rfn": "geni:6000000207097048824",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/1826/",
+    "canonical": "https://www.genepedia.org/people/1826/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

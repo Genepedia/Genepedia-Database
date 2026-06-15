@@ -1,0 +1,93 @@
+{
+  "id": 3367,
+  "schema": "genepedia/person@1",
+  "slug": "willem-karel-nicolaas-mouton",
+  "names": {
+    "display": "Willem Karel Nicolaas Mouton",
+    "given": "Willem Karel Nicolaas",
+    "surname": "Mouton",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 AUG 1928",
+      "year": 1928,
+      "iso": "1928-08-18",
+      "precision": "exact",
+      "display": "August 18, 1928",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3365,
+      3366
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1331,
+      3368
+    ],
+    "parentUnions": [
+      "F829"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3365,
+        "unionId": "F829",
+        "type": "biological"
+      },
+      {
+        "id": 3366,
+        "unionId": "F829",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000168340174985@",
+    "geniId": "6000000168340174985",
+    "rfn": "geni:6000000168340174985",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/3367/",
+    "canonical": "https://www.genepedia.org/people/3367/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

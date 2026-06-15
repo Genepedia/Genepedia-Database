@@ -1,0 +1,153 @@
+{
+  "id": 4975,
+  "schema": "genepedia/person@1",
+  "slug": "hester-jacoba-viljoen-1",
+  "names": {
+    "display": "Hester Jacoba Viljoen 1",
+    "given": "Hester Jacoba",
+    "surname": "Viljoen",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 AUG 1897",
+      "year": 1897,
+      "iso": "1897-08-09",
+      "precision": "exact",
+      "display": "August 9, 1897",
+      "place": null
+    },
+    "death": {
+      "date": "15 JAN 1929",
+      "year": 1929,
+      "iso": "1929-01-15",
+      "precision": "exact",
+      "display": "January 15, 1929",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/c5/df/a9/35/534448457fb7e556/bester_hester_jacoba_1897_original.jpg?hash=e702671c4ba11ba652c6472cf2fe58dfd34d798f0ae75298769ee2d769d324ed.1789455599",
+      "alt": "Hester Jacoba Viljoen 1"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/c5/df/a9/35/534448457fb7e556/bester_hester_jacoba_1897_original.jpg?hash=e702671c4ba11ba652c6472cf2fe58dfd34d798f0ae75298769ee2d769d324ed.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1936
+    ],
+    "exSpouses": [],
+    "children": [
+      4976,
+      4977,
+      4978,
+      4979
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1181"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1936,
+        "unionId": "F1181",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4976,
+        "unionId": "F1181",
+        "type": "biological"
+      },
+      {
+        "id": 4977,
+        "unionId": "F1181",
+        "type": "biological"
+      },
+      {
+        "id": 4978,
+        "unionId": "F1181",
+        "type": "biological"
+      },
+      {
+        "id": 4979,
+        "unionId": "F1181",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066846223901@",
+    "geniId": "6000000066846223901",
+    "rfn": "geni:6000000066846223901",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/4975/",
+    "canonical": "https://www.genepedia.org/people/4975/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

@@ -1,0 +1,156 @@
+{
+  "id": 1911,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-hendrik-ignatius-bester",
+  "names": {
+    "display": "Johannes Hendrik Ignatius Bester",
+    "given": "Johannes Hendrik Ignatius",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 MAY 1899",
+      "year": 1899,
+      "iso": "1899-05-25",
+      "precision": "exact",
+      "display": "May 25, 1899",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1962",
+      "year": 1962,
+      "iso": "1962",
+      "precision": "about",
+      "display": "about 1962",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      816,
+      1908
+    ],
+    "spouses": [
+      4887
+    ],
+    "exSpouses": [],
+    "children": [
+      4888,
+      4889,
+      4890,
+      4891
+    ],
+    "siblings": [
+      1909,
+      1910,
+      1912,
+      1913,
+      1914,
+      1915
+    ],
+    "parentUnions": [
+      "F505"
+    ],
+    "spouseUnions": [
+      "F1162"
+    ],
+    "parentLinks": [
+      {
+        "id": 816,
+        "unionId": "F505",
+        "type": "biological"
+      },
+      {
+        "id": 1908,
+        "unionId": "F505",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4887,
+        "unionId": "F1162",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4888,
+        "unionId": "F1162",
+        "type": "biological"
+      },
+      {
+        "id": 4889,
+        "unionId": "F1162",
+        "type": "biological"
+      },
+      {
+        "id": 4890,
+        "unionId": "F1162",
+        "type": "biological"
+      },
+      {
+        "id": 4891,
+        "unionId": "F1162",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066640362822@",
+    "geniId": "6000000066640362822",
+    "rfn": "geni:6000000066640362822",
+    "changed": "25 MAY 2018"
+  },
+  "page": {
+    "route": "people/1911/",
+    "canonical": "https://www.genepedia.org/people/1911/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

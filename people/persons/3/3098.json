@@ -1,0 +1,185 @@
+{
+  "id": 3098,
+  "schema": "genepedia/person@1",
+  "slug": "francois-jacobus-alewyn-botes",
+  "names": {
+    "display": "Francois Jacobus Alewyn Botes",
+    "given": "Francois Jacobus Alewyn",
+    "surname": "Botes",
+    "married": "Botes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 FEB 1908",
+      "year": 1908,
+      "iso": "1908-02-07",
+      "precision": "exact",
+      "display": "February 7, 1908",
+      "place": null
+    },
+    "death": {
+      "date": "30 MAY 1991",
+      "year": 1991,
+      "iso": "1991-05-30",
+      "precision": "exact",
+      "display": "May 30, 1991",
+      "place": null
+    },
+    "baptism": {
+      "date": "3 MAR 1908",
+      "year": 1908,
+      "iso": "1908-03-03",
+      "precision": "exact",
+      "display": "March 3, 1908",
+      "place": "Merweville, Western Cape, South Africa",
+      "location": {
+        "label": "Merweville, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Merweville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Merweville",
+      "location": {
+        "label": "Merweville",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Merweville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "boer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/8e/5c/8b/5f/53444850197f2d35/img_9241_original.jpg?hash=9149de2fc0fa8e67ff2be910e9b0399e782c748e6a90cd05e9fe51057b4f1779.1789455599",
+      "alt": "Francois Jacobus Alewyn Botes"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/8e/5c/8b/5f/53444850197f2d35/img_9241_original.jpg?hash=9149de2fc0fa8e67ff2be910e9b0399e782c748e6a90cd05e9fe51057b4f1779.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3097
+    ],
+    "exSpouses": [],
+    "children": [
+      3099,
+      3100,
+      1240,
+      3101,
+      3102
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1915"
+    ],
+    "spouseUnions": [
+      "F767",
+      "F1914"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3097,
+        "unionId": "F767",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3099,
+        "unionId": "F767",
+        "type": "biological"
+      },
+      {
+        "id": 3100,
+        "unionId": "F767",
+        "type": "biological"
+      },
+      {
+        "id": 1240,
+        "unionId": "F767",
+        "type": "biological"
+      },
+      {
+        "id": 3101,
+        "unionId": "F767",
+        "type": "biological"
+      },
+      {
+        "id": 3102,
+        "unionId": "F767",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000064628597860@",
+    "geniId": "6000000064628597860",
+    "rfn": "geni:6000000064628597860",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3098/",
+    "canonical": "https://www.genepedia.org/people/3098/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

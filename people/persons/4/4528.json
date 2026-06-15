@@ -1,0 +1,112 @@
+{
+  "id": 4528,
+  "schema": "genepedia/person@1",
+  "slug": "konkordia-alice",
+  "names": {
+    "display": "Konkordia Alice",
+    "given": "Konkordia Alice",
+    "surname": "Malchin",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 OCT 1921",
+      "year": 1921,
+      "iso": "1921-10-23",
+      "precision": "exact",
+      "display": "October 23, 1921",
+      "place": null
+    },
+    "death": {
+      "date": "2000",
+      "year": 2000,
+      "iso": "2000",
+      "precision": "exact",
+      "display": "2000",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ae/4b/f7/96/53444868aadf586f/jpg_11__original.jpg?hash=b08fe1fc88557453d21c1efcaefa03b69f80b2f80d37ace94540420422a1c543.1789455599",
+      "alt": "Konkordia Alice"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ae/4b/f7/96/53444868aadf586f/jpg_11__original.jpg?hash=b08fe1fc88557453d21c1efcaefa03b69f80b2f80d37ace94540420422a1c543.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1777,
+      4526
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4527,
+      4529
+    ],
+    "parentUnions": [
+      "F1077"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1777,
+        "unionId": "F1077",
+        "type": "biological"
+      },
+      {
+        "id": 4526,
+        "unionId": "F1077",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000217943971849@",
+    "geniId": "6000000217943971849",
+    "rfn": "geni:6000000217943971849",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/4528/",
+    "canonical": "https://www.genepedia.org/people/4528/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

@@ -1,0 +1,110 @@
+{
+  "id": 3508,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-adriana-de-beer",
+  "names": {
+    "display": "Susanna Adriana de Beer",
+    "given": "Susanna Adriana",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 OCT 1886",
+      "year": 1886,
+      "iso": "1886-10-26",
+      "precision": "exact",
+      "display": "October 26, 1886",
+      "place": null
+    },
+    "death": {
+      "date": "17 FEB 1977",
+      "year": 1977,
+      "iso": "1977-02-17",
+      "precision": "exact",
+      "display": "February 17, 1977",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1386,
+      3497
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3498,
+      3499,
+      3500,
+      3501,
+      3502,
+      3503,
+      3504,
+      3505,
+      3506,
+      3507,
+      3509,
+      3510
+    ],
+    "parentUnions": [
+      "F858"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1386,
+        "unionId": "F858",
+        "type": "biological"
+      },
+      {
+        "id": 3497,
+        "unionId": "F858",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028799278535@",
+    "geniId": "6000000028799278535",
+    "rfn": "geni:6000000028799278535",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3508/",
+    "canonical": "https://www.genepedia.org/people/3508/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

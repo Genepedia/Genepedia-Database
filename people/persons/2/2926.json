@@ -1,0 +1,88 @@
+{
+  "id": 2926,
+  "schema": "genepedia/person@1",
+  "slug": "private-2926",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2923,
+      1172
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2924,
+      2925,
+      2927,
+      2928
+    ],
+    "parentUnions": [
+      "F720"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2923,
+        "unionId": "F720",
+        "type": "biological"
+      },
+      {
+        "id": 1172,
+        "unionId": "F720",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000183300098821@",
+    "geniId": "6000000183300098821",
+    "rfn": "geni:6000000183300098821",
+    "changed": "10 MAR 2022"
+  },
+  "page": {
+    "route": "people/2926/",
+    "canonical": "https://www.genepedia.org/people/2926/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

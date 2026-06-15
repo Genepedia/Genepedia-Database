@@ -1,0 +1,208 @@
+{
+  "id": 3600,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobus-oosthuizen",
+  "names": {
+    "display": "Johannes Jacobus Oosthuizen",
+    "given": "Johannes Jacobus",
+    "surname": "Oosthuizen",
+    "married": "Oosthuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 SEP 1848",
+      "year": 1848,
+      "iso": "1848-09-20",
+      "precision": "exact",
+      "display": "September 20, 1848",
+      "place": "Richmond, Cape",
+      "location": {
+        "label": "Richmond, Cape",
+        "placeName": "Richmond",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 JAN 1923",
+      "year": 1923,
+      "iso": "1923-01-17",
+      "precision": "exact",
+      "display": "January 17, 1923",
+      "place": "Aberdeen, Eastern Cape, South Africa",
+      "location": {
+        "label": "Aberdeen, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "22 OCT 1848",
+      "year": 1848,
+      "iso": "1848-10-22",
+      "precision": "exact",
+      "display": "October 22, 1848",
+      "place": "Richmond, Northern Cape, South Africa",
+      "location": {
+        "label": "Richmond, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Richmond",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/db/6a/57/b8/534448442d42e82f/joh_jac_oosthuizen_original.jpg?hash=0c934674eacaf843cc94c6850a880208201a73db664ae888a167feee5c822fff.1789455599",
+      "alt": "Johannes Jacobus Oosthuizen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/db/6a/57/b8/534448442d42e82f/joh_jac_oosthuizen_original.jpg?hash=0c934674eacaf843cc94c6850a880208201a73db664ae888a167feee5c822fff.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1400
+    ],
+    "exSpouses": [],
+    "children": [
+      3601,
+      3602,
+      3603,
+      3604,
+      3605,
+      3606,
+      3607,
+      3608
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F873"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1400,
+        "unionId": "F873",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3601,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3602,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3603,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3604,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3605,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3606,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3607,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 3608,
+        "unionId": "F873",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000010556906159@",
+    "geniId": "6000000010556906159",
+    "rfn": "geni:6000000010556906159",
+    "changed": "13 FEB 2023"
+  },
+  "page": {
+    "route": "people/3600/",
+    "canonical": "https://www.genepedia.org/people/3600/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 197,
+  "schema": "genepedia/person@1",
+  "slug": "bouwer",
+  "names": {
+    "display": "? Bouwer",
+    "given": "?",
+    "surname": "Bouwer",
+    "married": "Bouwer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b6/45/b3/29/53444866647f4d57/screenshot_2024-08-15_103935_original.jpg?hash=03d78eb7384eedbf58ae6dd4eed7f75ecc4fbbbb23c76b505c99bc03e963e083.1789455599",
+      "alt": "? Bouwer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b6/45/b3/29/53444866647f4d57/screenshot_2024-08-15_103935_original.jpg?hash=03d78eb7384eedbf58ae6dd4eed7f75ecc4fbbbb23c76b505c99bc03e963e083.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      59
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F62"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 59,
+        "unionId": "F62",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208174163857@",
+    "geniId": "6000000208174163857",
+    "rfn": "geni:6000000208174163857",
+    "changed": "15 AUG 2024"
+  },
+  "page": {
+    "route": "people/197/",
+    "canonical": "https://www.genepedia.org/people/197/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

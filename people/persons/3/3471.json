@@ -1,0 +1,167 @@
+{
+  "id": 3471,
+  "schema": "genepedia/person@1",
+  "slug": "andries-louis-lombard",
+  "names": {
+    "display": "Andries Louis Lombard",
+    "given": "Andries Louis",
+    "surname": "Lombard",
+    "married": "Lombard",
+    "nick": "b1c6d4e7",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 10 APR 1803",
+      "year": 1803,
+      "iso": "1803-04-10",
+      "precision": "before",
+      "display": "before April 10, 1803",
+      "place": "Koup, Distrik Beaufort",
+      "location": {
+        "label": "Koup, Distrik Beaufort",
+        "placeName": "Koup",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Distrik Beaufort",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 MAY 1836",
+      "year": 1836,
+      "iso": "1836-05-18",
+      "precision": "exact",
+      "display": "May 18, 1836",
+      "place": "Leeuwrivier, Koup, Kaapkolonie",
+      "location": {
+        "label": "Leeuwrivier, Koup, Kaapkolonie",
+        "placeName": "Leeuwrivier",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Koup",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaapkolonie",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "10 APR 1803",
+      "year": 1803,
+      "iso": "1803-04-10",
+      "precision": "exact",
+      "display": "April 10, 1803",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3466,
+      3467
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3468,
+      3469,
+      3470,
+      3472,
+      3473,
+      3474,
+      3475,
+      3476,
+      3477,
+      3478,
+      3479,
+      1384,
+      3480,
+      3481
+    ],
+    "parentUnions": [
+      "F855"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3466,
+        "unionId": "F855",
+        "type": "biological"
+      },
+      {
+        "id": 3467,
+        "unionId": "F855",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040754401994@",
+    "geniId": "6000000040754401994",
+    "rfn": "geni:6000000040754401994",
+    "changed": "07 NOV 2024"
+  },
+  "page": {
+    "route": "people/3471/",
+    "canonical": "https://www.genepedia.org/people/3471/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

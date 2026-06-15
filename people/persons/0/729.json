@@ -1,0 +1,164 @@
+{
+  "id": 729,
+  "schema": "genepedia/person@1",
+  "slug": "nathan-lurie",
+  "names": {
+    "display": "Nathan Lurie",
+    "given": "Nathan",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 AUG 1887",
+      "year": 1887,
+      "iso": "1887-08-25",
+      "precision": "exact",
+      "display": "August 25, 1887",
+      "place": "Lithuania",
+      "location": {
+        "label": "Lithuania",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Lithuania",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "NOV 1975",
+      "year": 1975,
+      "iso": "1975-11",
+      "precision": "exact",
+      "display": "November 1975",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/01/81/5b/4e/534448666c456e28/jpg_26__original.jpg?hash=57cb16900e7f85f6a9ad7e43be7e86f8336cb266ce4040c064bd80c8c37e171d.1789455599",
+      "alt": "Nathan Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/01/81/5b/4e/534448666c456e28/jpg_26__original.jpg?hash=57cb16900e7f85f6a9ad7e43be7e86f8336cb266ce4040c064bd80c8c37e171d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      725,
+      726
+    ],
+    "spouses": [
+      1757
+    ],
+    "exSpouses": [],
+    "children": [
+      1758,
+      1759,
+      1760
+    ],
+    "siblings": [
+      727,
+      728,
+      730,
+      297,
+      731,
+      732,
+      733,
+      734
+    ],
+    "parentUnions": [
+      "F206"
+    ],
+    "spouseUnions": [
+      "F461"
+    ],
+    "parentLinks": [
+      {
+        "id": 725,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 726,
+        "unionId": "F206",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1757,
+        "unionId": "F461",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1758,
+        "unionId": "F461",
+        "type": "biological"
+      },
+      {
+        "id": 1759,
+        "unionId": "F461",
+        "type": "biological"
+      },
+      {
+        "id": 1760,
+        "unionId": "F461",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000167270222825@",
+    "geniId": "6000000167270222825",
+    "rfn": "geni:6000000167270222825",
+    "changed": "19 AUG 2024"
+  },
+  "page": {
+    "route": "people/729/",
+    "canonical": "https://www.genepedia.org/people/729/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

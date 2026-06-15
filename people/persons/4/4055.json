@@ -1,0 +1,190 @@
+{
+  "id": 4055,
+  "schema": "genepedia/person@1",
+  "slug": "lucas-johannes-meyer",
+  "names": {
+    "display": "Lucas Johannes Meyer",
+    "given": "Lucas Johannes",
+    "surname": "Meyer",
+    "married": "Meyer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 NOV 1797",
+      "year": 1797,
+      "iso": "1797-11-26",
+      "precision": "exact",
+      "display": "November 26, 1797",
+      "place": "Pietermaritzburg, KZN, South Africa",
+      "location": {
+        "label": "Pietermaritzburg, KZN, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pietermaritzburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KZN",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1839",
+      "year": 1839,
+      "iso": "1839",
+      "precision": "exact",
+      "display": "1839",
+      "place": "Pietermaritzburg, KZN, South Africa",
+      "location": {
+        "label": "Pietermaritzburg, KZN, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pietermaritzburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KZN",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "26 NOV 1797",
+      "year": 1797,
+      "iso": "1797-11-26",
+      "precision": "exact",
+      "display": "November 26, 1797",
+      "place": "Caep de Goede Hoop, South Africa",
+      "location": {
+        "label": "Caep de Goede Hoop, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Caep de Goede Hoop",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4054
+    ],
+    "exSpouses": [],
+    "children": [
+      4056,
+      1548,
+      4057,
+      4058,
+      4059,
+      4060,
+      4061
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F944"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4054,
+        "unionId": "F944",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4056,
+        "unionId": "F944",
+        "type": "biological"
+      },
+      {
+        "id": 1548,
+        "unionId": "F944",
+        "type": "biological"
+      },
+      {
+        "id": 4057,
+        "unionId": "F944",
+        "type": "biological"
+      },
+      {
+        "id": 4058,
+        "unionId": "F944",
+        "type": "biological"
+      },
+      {
+        "id": 4059,
+        "unionId": "F944",
+        "type": "biological"
+      },
+      {
+        "id": 4060,
+        "unionId": "F944",
+        "type": "biological"
+      },
+      {
+        "id": 4061,
+        "unionId": "F944",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000076214266987@",
+    "geniId": "6000000076214266987",
+    "rfn": "geni:6000000076214266987",
+    "changed": "27 JUN 2024"
+  },
+  "page": {
+    "route": "people/4055/",
+    "canonical": "https://www.genepedia.org/people/4055/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.208Z"
+}

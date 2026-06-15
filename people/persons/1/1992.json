@@ -1,0 +1,132 @@
+{
+  "id": 1992,
+  "schema": "genepedia/person@1",
+  "slug": "philippus-johannes-snyman",
+  "names": {
+    "display": "Philippus Johannes Snyman",
+    "given": "Philippus Johannes",
+    "surname": "Snyman",
+    "married": "Snyman",
+    "nick": "",
+    "aliases": [
+      "Philippus Johannes SNYMAN"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 OCT 1897",
+      "year": 1897,
+      "iso": "1897-10-07",
+      "precision": "exact",
+      "display": "October 7, 1897",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "22 JUL 1997",
+      "year": 1997,
+      "iso": "1997-07-22",
+      "precision": "exact",
+      "display": "July 22, 1997",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/aa/01/96/1b/5344483a9f9c7b49/images_original.jpg?hash=61740a31303d8ee9fd8d43a4c453688ebf3f94178641a4a4886a2b24ac6c4884.1789455599",
+      "alt": "Philippus Johannes Snyman"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/aa/01/96/1b/5344483a9f9c7b49/images_original.jpg?hash=61740a31303d8ee9fd8d43a4c453688ebf3f94178641a4a4886a2b24ac6c4884.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1991,
+      825
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1993,
+      1994
+    ],
+    "parentUnions": [
+      "F517"
+    ],
+    "spouseUnions": [
+      "F1218"
+    ],
+    "parentLinks": [
+      {
+        "id": 1991,
+        "unionId": "F517",
+        "type": "biological"
+      },
+      {
+        "id": 825,
+        "unionId": "F517",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020183868258@",
+    "geniId": "6000000020183868258",
+    "rfn": "geni:6000000020183868258",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/1992/",
+    "canonical": "https://www.genepedia.org/people/1992/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

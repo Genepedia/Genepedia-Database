@@ -1,0 +1,96 @@
+{
+  "id": 2410,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-petrus-de-koker",
+  "names": {
+    "display": "Jacobus Petrus De Koker",
+    "given": "Jacobus Petrus",
+    "surname": "De Koker",
+    "married": "de Koker",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1894",
+      "year": 1894,
+      "iso": "1894",
+      "precision": "about",
+      "display": "about 1894",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2405,
+      2406
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      974,
+      2407,
+      2408,
+      2409,
+      2411
+    ],
+    "parentUnions": [
+      "F609"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2405,
+        "unionId": "F609",
+        "type": "biological"
+      },
+      {
+        "id": 2406,
+        "unionId": "F609",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000185443243845@",
+    "geniId": "6000000185443243845",
+    "rfn": "geni:6000000185443243845",
+    "changed": "18 OCT 2025"
+  },
+  "page": {
+    "route": "people/2410/",
+    "canonical": "https://www.genepedia.org/people/2410/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

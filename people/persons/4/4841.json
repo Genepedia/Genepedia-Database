@@ -1,0 +1,134 @@
+{
+  "id": 4841,
+  "schema": "genepedia/person@1",
+  "slug": "susara-jacoba-catharina-grobler",
+  "names": {
+    "display": "Susara Jacoba Catharina Grobler",
+    "given": "Susara Jacoba Catharina",
+    "surname": "Grobler",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 28 NOV 1854",
+      "year": 1854,
+      "iso": "1854-11-28",
+      "precision": "about",
+      "display": "about November 28, 1854",
+      "place": "Nooitgedacht, Albert, EC, South Africa",
+      "location": {
+        "label": "Nooitgedacht, Albert, EC, South Africa",
+        "placeName": "Nooitgedacht",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Albert",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 DEC 1883",
+      "year": 1883,
+      "iso": "1883-12-20",
+      "precision": "exact",
+      "display": "December 20, 1883",
+      "place": "Borrelfontein, Burgersdorp, Albert, EC, South Africa",
+      "location": {
+        "label": "Borrelfontein, Burgersdorp, Albert, EC, South Africa",
+        "placeName": "Borrelfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Burgersdorp, Albert",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1903,
+      4837
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4838,
+      4839,
+      4840,
+      4842
+    ],
+    "parentUnions": [
+      "F1152"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1903,
+        "unionId": "F1152",
+        "type": "biological"
+      },
+      {
+        "id": 4837,
+        "unionId": "F1152",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057564919877@",
+    "geniId": "6000000057564919877",
+    "rfn": "geni:6000000057564919877",
+    "changed": "11 JUL 2020"
+  },
+  "page": {
+    "route": "people/4841/",
+    "canonical": "https://www.genepedia.org/people/4841/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

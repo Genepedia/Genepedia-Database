@@ -1,0 +1,164 @@
+{
+  "id": 2899,
+  "schema": "genepedia/person@1",
+  "slug": "schalk-johannes-havenga",
+  "names": {
+    "display": "Schalk Johannes Havenga",
+    "given": "Schalk Johannes",
+    "surname": "Havenga",
+    "married": "Havenga",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 DEC 1859",
+      "year": 1859,
+      "iso": "1859-12-23",
+      "precision": "exact",
+      "display": "December 23, 1859",
+      "place": "Richmond - NC, Northern Cape, South Africa",
+      "location": {
+        "label": "Richmond - NC, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Richmond - NC",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 JUL 1942",
+      "year": 1942,
+      "iso": "1942-07-18",
+      "precision": "exact",
+      "display": "July 18, 1942",
+      "place": null
+    },
+    "baptism": {
+      "date": "22 JAN 1860",
+      "year": 1860,
+      "iso": "1860-01-22",
+      "precision": "exact",
+      "display": "January 22, 1860",
+      "place": "Richmond - NC, Northern Cape, South Africa",
+      "location": {
+        "label": "Richmond - NC, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Richmond - NC",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2900
+    ],
+    "exSpouses": [],
+    "children": [
+      1159,
+      2901,
+      2902,
+      2903,
+      2904
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1808"
+    ],
+    "spouseUnions": [
+      "F714"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2900,
+        "unionId": "F714",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1159,
+        "unionId": "F714",
+        "type": "biological"
+      },
+      {
+        "id": 2901,
+        "unionId": "F714",
+        "type": "biological"
+      },
+      {
+        "id": 2902,
+        "unionId": "F714",
+        "type": "biological"
+      },
+      {
+        "id": 2903,
+        "unionId": "F714",
+        "type": "biological"
+      },
+      {
+        "id": 2904,
+        "unionId": "F714",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000052687793022@",
+    "geniId": "6000000052687793022",
+    "rfn": "geni:6000000052687793022",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2899/",
+    "canonical": "https://www.genepedia.org/people/2899/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

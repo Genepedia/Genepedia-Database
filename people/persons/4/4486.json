@@ -1,0 +1,85 @@
+{
+  "id": 4486,
+  "schema": "genepedia/person@1",
+  "slug": "scharon-4486",
+  "names": {
+    "display": "? Scharon",
+    "given": "?",
+    "surname": "Scharon",
+    "married": "Scharon",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4485
+    ],
+    "exSpouses": [],
+    "children": [
+      1749
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1063"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4485,
+        "unionId": "F1063",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1749,
+        "unionId": "F1063",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209656584822@",
+    "geniId": "6000000209656584822",
+    "rfn": "geni:6000000209656584822",
+    "changed": "06 OCT 2024"
+  },
+  "page": {
+    "route": "people/4486/",
+    "canonical": "https://www.genepedia.org/people/4486/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

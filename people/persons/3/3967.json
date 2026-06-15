@@ -1,0 +1,99 @@
+{
+  "id": 3967,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-zacharias-jacobs",
+  "names": {
+    "display": "Daniel Zacharias Jacobs",
+    "given": "Daniel Zacharias",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1535,
+      3951
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3952,
+      3953,
+      3954,
+      3955,
+      3956,
+      3957,
+      3958,
+      3959,
+      3960,
+      3961,
+      3962,
+      3963,
+      3964,
+      3965,
+      3966
+    ],
+    "parentUnions": [
+      "F930"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1535,
+        "unionId": "F930",
+        "type": "biological"
+      },
+      {
+        "id": 3951,
+        "unionId": "F930",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206235586825@",
+    "geniId": "6000000206235586825",
+    "rfn": "geni:6000000206235586825",
+    "changed": "03 JUN 2024"
+  },
+  "page": {
+    "route": "people/3967/",
+    "canonical": "https://www.genepedia.org/people/3967/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

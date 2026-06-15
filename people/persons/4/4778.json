@@ -1,0 +1,134 @@
+{
+  "id": 4778,
+  "schema": "genepedia/person@1",
+  "slug": "martha-louisa-bester",
+  "names": {
+    "display": "Martha Louisa Bester",
+    "given": "Martha Louisa",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 MAR 1923",
+      "year": 1923,
+      "iso": "1923-03-09",
+      "precision": "exact",
+      "display": "March 9, 1923",
+      "place": "Graaff-Reinet, Eastern Cape, South Africa",
+      "location": {
+        "label": "Graaff-Reinet, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff-Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT OCT 1989",
+      "year": 1989,
+      "iso": "1989-10",
+      "precision": "about",
+      "display": "about October 1989",
+      "place": "Pietermaritzburg, KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Pietermaritzburg, KwaZulu-Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pietermaritzburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KwaZulu-Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1889,
+      4777
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4779,
+      4780,
+      4781,
+      4782
+    ],
+    "parentUnions": [
+      "F1138"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1889,
+        "unionId": "F1138",
+        "type": "biological"
+      },
+      {
+        "id": 4777,
+        "unionId": "F1138",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065499276847@",
+    "geniId": "6000000065499276847",
+    "rfn": "geni:6000000065499276847",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/4778/",
+    "canonical": "https://www.genepedia.org/people/4778/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

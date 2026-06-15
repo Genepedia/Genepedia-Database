@@ -1,0 +1,77 @@
+{
+  "id": 4175,
+  "schema": "genepedia/person@1",
+  "slug": "christoffel-cornelius-swart",
+  "names": {
+    "display": "Christoffel Cornelius Swart",
+    "given": "Christoffel Cornelius",
+    "surname": "Swart",
+    "married": "Swart",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1578
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F976"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1578,
+        "unionId": "F976",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000004179366875@",
+    "geniId": "6000000004179366875",
+    "rfn": "geni:6000000004179366875",
+    "changed": "12 APR 2026"
+  },
+  "page": {
+    "route": "people/4175/",
+    "canonical": "https://www.genepedia.org/people/4175/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

@@ -1,0 +1,222 @@
+{
+  "id": 2801,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-petrus-schalkwyk-botes",
+  "names": {
+    "display": "Abraham Petrus Schalkwyk BOTES",
+    "given": "Abraham Petrus Schalkwyk",
+    "surname": "BOTES",
+    "married": "Botes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 JAN 1905",
+      "year": 1905,
+      "iso": "1905-01-15",
+      "precision": "exact",
+      "display": "January 15, 1905",
+      "place": "Reivilo",
+      "location": {
+        "label": "Reivilo",
+        "placeName": "Reivilo",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "30 OCT 1974",
+      "year": 1974,
+      "iso": "1974-10-30",
+      "precision": "exact",
+      "display": "October 30, 1974",
+      "place": "Schweizer-Reneke, North West, South Africa",
+      "location": {
+        "label": "Schweizer-Reneke, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Schweizer-Reneke",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "16 APR 1905",
+      "year": 1905,
+      "iso": "1905-04-16",
+      "precision": "exact",
+      "display": "April 16, 1905",
+      "place": "Brandvlei, Northern Cape, South Africa",
+      "location": {
+        "label": "Brandvlei, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Brandvlei",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Schweizer-Reneke, North West, South Africa",
+      "location": {
+        "label": "Schweizer-Reneke, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Schweizer-Reneke",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/79/e4/36/c1/53444869c68688b1/screenshot_2025-12-11_at_09_original.jpg?hash=58f798645873f3b0be3aba8b5ac9c8fe732a2a341ba30eae024f89f52e0efe5d.1789455599",
+      "alt": "Abraham Petrus Schalkwyk BOTES"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/79/e4/36/c1/53444869c68688b1/screenshot_2025-12-11_at_09_original.jpg?hash=58f798645873f3b0be3aba8b5ac9c8fe732a2a341ba30eae024f89f52e0efe5d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1135
+    ],
+    "exSpouses": [],
+    "children": [
+      2802,
+      2803,
+      2804,
+      2805,
+      2806,
+      2807
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1738"
+    ],
+    "spouseUnions": [
+      "F694"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1135,
+        "unionId": "F694",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2802,
+        "unionId": "F694",
+        "type": "biological"
+      },
+      {
+        "id": 2803,
+        "unionId": "F694",
+        "type": "biological"
+      },
+      {
+        "id": 2804,
+        "unionId": "F694",
+        "type": "biological"
+      },
+      {
+        "id": 2805,
+        "unionId": "F694",
+        "type": "biological"
+      },
+      {
+        "id": 2806,
+        "unionId": "F694",
+        "type": "biological"
+      },
+      {
+        "id": 2807,
+        "unionId": "F694",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000018486875396@",
+    "geniId": "6000000018486875396",
+    "rfn": "geni:6000000018486875396",
+    "changed": "06 JAN 2026"
+  },
+  "page": {
+    "route": "people/2801/",
+    "canonical": "https://www.genepedia.org/people/2801/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

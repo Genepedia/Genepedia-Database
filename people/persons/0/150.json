@@ -1,0 +1,105 @@
+{
+  "id": 150,
+  "schema": "genepedia/person@1",
+  "slug": "michael-roselt",
+  "names": {
+    "display": "Michael Roselt",
+    "given": "Michael",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BET 1978 AND 1996",
+      "year": 1978,
+      "iso": "1996",
+      "precision": "exact",
+      "display": "1996",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ad/7e/82/97/534448656e931c2e/screenshot_2024-03-13_133423_original.jpg?hash=987b9d8ca2d906ea8314267ad19a5c5e5e4dda9db78b83dd4246dccd95e802cd.1789455599",
+      "alt": "Michael Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ad/7e/82/97/534448656e931c2e/screenshot_2024-03-13_133423_original.jpg?hash=987b9d8ca2d906ea8314267ad19a5c5e5e4dda9db78b83dd4246dccd95e802cd.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      41,
+      149
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      151,
+      152
+    ],
+    "parentUnions": [
+      "F48"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 41,
+        "unionId": "F48",
+        "type": "biological"
+      },
+      {
+        "id": 149,
+        "unionId": "F48",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204043537838@",
+    "geniId": "6000000204043537838",
+    "rfn": "geni:6000000204043537838",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/150/",
+    "canonical": "https://www.genepedia.org/people/150/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 3658,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-meintjes-3658",
+  "names": {
+    "display": "Daniel Johannes Meintjes",
+    "given": "Daniel Johannes",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "5 APR 1927",
+      "year": 1927,
+      "iso": "1927-04-05",
+      "precision": "exact",
+      "display": "April 5, 1927",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1404,
+      3650
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3651,
+      3652,
+      3653,
+      3654,
+      3655,
+      3656,
+      3657,
+      3659,
+      3660,
+      3661
+    ],
+    "parentUnions": [
+      "F878"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1404,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3650,
+        "unionId": "F878",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000019879990447@",
+    "geniId": "6000000019879990447",
+    "rfn": "geni:6000000019879990447",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3658/",
+    "canonical": "https://www.genepedia.org/people/3658/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

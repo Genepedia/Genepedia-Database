@@ -1,0 +1,104 @@
+{
+  "id": 613,
+  "schema": "genepedia/person@1",
+  "slug": "celeste-van-der-linde",
+  "names": {
+    "display": "Celeste van der Linde",
+    "given": "Celeste",
+    "surname": "van der Linde",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "15 MAR 1977",
+      "year": 1977,
+      "iso": "1977-03-15",
+      "precision": "exact",
+      "display": "March 15, 1977",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      611,
+      224
+    ],
+    "spouses": [
+      1511
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      612,
+      614,
+      615
+    ],
+    "parentUnions": [
+      "F172"
+    ],
+    "spouseUnions": [
+      "F388"
+    ],
+    "parentLinks": [
+      {
+        "id": 611,
+        "unionId": "F172",
+        "type": "biological"
+      },
+      {
+        "id": 224,
+        "unionId": "F172",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1511,
+        "unionId": "F388",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587091876@",
+    "geniId": "6000000206587091876",
+    "rfn": "geni:6000000206587091876",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/613/",
+    "canonical": "https://www.genepedia.org/people/613/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

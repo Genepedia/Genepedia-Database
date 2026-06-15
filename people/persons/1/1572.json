@@ -1,0 +1,98 @@
+{
+  "id": 1572,
+  "schema": "genepedia/person@1",
+  "slug": "rachel-christina-van-niekerk",
+  "names": {
+    "display": "Rachel Christina van Niekerk",
+    "given": "Rachel Christina",
+    "surname": "van Niekerk",
+    "married": "Matthews",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      631,
+      1567
+    ],
+    "spouses": [
+      4144
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1568,
+      1569,
+      1570,
+      1571
+    ],
+    "parentUnions": [
+      "F398"
+    ],
+    "spouseUnions": [
+      "F965"
+    ],
+    "parentLinks": [
+      {
+        "id": 631,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1567,
+        "unionId": "F398",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4144,
+        "unionId": "F965",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207553306831@",
+    "geniId": "6000000207553306831",
+    "rfn": "geni:6000000207553306831",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1572/",
+    "canonical": "https://www.genepedia.org/people/1572/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

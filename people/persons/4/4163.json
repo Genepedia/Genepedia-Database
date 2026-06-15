@@ -1,0 +1,84 @@
+{
+  "id": 4163,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-johanna-cornelia-meyer",
+  "names": {
+    "display": "Jacoba Johanna Cornelia Meyer",
+    "given": "Jacoba Johanna Cornelia",
+    "surname": "Meyer",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "ABT 1935",
+      "year": 1935,
+      "iso": "1935",
+      "precision": "about",
+      "display": "about 1935",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1577
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F971"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1577,
+        "unionId": "F971",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000095335041301@",
+    "geniId": "6000000095335041301",
+    "rfn": "geni:6000000095335041301",
+    "changed": "03 JUN 2019"
+  },
+  "page": {
+    "route": "people/4163/",
+    "canonical": "https://www.genepedia.org/people/4163/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

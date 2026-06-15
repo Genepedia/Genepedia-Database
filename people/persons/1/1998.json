@@ -1,0 +1,176 @@
+{
+  "id": 1998,
+  "schema": "genepedia/person@1",
+  "slug": "hans-lodewyk-mitchell",
+  "names": {
+    "display": "Hans Lodewyk Mitchell",
+    "given": "Hans Lodewyk",
+    "surname": "Mitchell",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 MAR 1879",
+      "year": 1879,
+      "iso": "1879-03-02",
+      "precision": "exact",
+      "display": "March 2, 1879",
+      "place": "Buffelsdrift farm, Ladismith, Cape Province, South Africa",
+      "location": {
+        "label": "Buffelsdrift farm, Ladismith, Cape Province, South Africa",
+        "placeName": "Buffelsdrift farm",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ladismith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "9 SEP 1940",
+      "year": 1940,
+      "iso": "1940-09-09",
+      "precision": "exact",
+      "display": "September 9, 1940",
+      "place": "Lichtenburg, Transvaal Province, South Africa",
+      "location": {
+        "label": "Lichtenburg, Transvaal Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Lichtenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Lichtenburg, Transvaal Province, South Africa",
+      "location": {
+        "label": "Lichtenburg, Transvaal Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Lichtenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/d3/ef/54/ae/534448690c186221/mitchell_david_lambertus_1904_baptism_original.jpg?hash=9b1aa16333f7f6f898ed9a2d9594783eb91b91cce9d45460b72cda6338799f2d.1789455599",
+      "alt": "Hans Lodewyk Mitchell"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/d3/ef/54/ae/534448690c186221/mitchell_david_lambertus_1904_baptism_original.jpg?hash=9b1aa16333f7f6f898ed9a2d9594783eb91b91cce9d45460b72cda6338799f2d.1789455599",
+        "form": "",
+        "title": "Mitchell David Lambertus 1904 BAPTISM.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1995,
+      1996
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1997,
+      1999,
+      2000,
+      831,
+      2001,
+      2002,
+      2003,
+      2004
+    ],
+    "parentUnions": [
+      "F518"
+    ],
+    "spouseUnions": [
+      "F1221"
+    ],
+    "parentLinks": [
+      {
+        "id": 1995,
+        "unionId": "F518",
+        "type": "biological"
+      },
+      {
+        "id": 1996,
+        "unionId": "F518",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000005596999180@",
+    "geniId": "6000000005596999180",
+    "rfn": "geni:6000000005596999180",
+    "changed": "31 JAN 2025"
+  },
+  "page": {
+    "route": "people/1998/",
+    "canonical": "https://www.genepedia.org/people/1998/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

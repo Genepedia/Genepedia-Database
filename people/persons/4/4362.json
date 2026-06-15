@@ -1,0 +1,109 @@
+{
+  "id": 4362,
+  "schema": "genepedia/person@1",
+  "slug": "lorraine-saunders",
+  "names": {
+    "display": "Lorraine Saunders",
+    "given": "Lorraine",
+    "surname": "Saunders",
+    "married": "Brown",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p6/6791/3442/53444836b9857cd8/Lor_original.jpg?hash=5b79569ff1cd05a6f5370d5bf8891a6b80884f748604f80986ce532a988a5fb5.1789455599",
+      "alt": "Lorraine Saunders"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p6/6791/3442/53444836b9857cd8/Lor_original.jpg?hash=5b79569ff1cd05a6f5370d5bf8891a6b80884f748604f80986ce532a988a5fb5.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1687
+    ],
+    "exSpouses": [],
+    "children": [
+      4363,
+      4364,
+      4365
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1031"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1687,
+        "unionId": "F1031",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4363,
+        "unionId": "F1031",
+        "type": "biological"
+      },
+      {
+        "id": 4364,
+        "unionId": "F1031",
+        "type": "biological"
+      },
+      {
+        "id": 4365,
+        "unionId": "F1031",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003291316521@",
+    "geniId": "6000000003291316521",
+    "rfn": "geni:6000000003291316521",
+    "changed": "26 NOV 2014"
+  },
+  "page": {
+    "route": "people/4362/",
+    "canonical": "https://www.genepedia.org/people/4362/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

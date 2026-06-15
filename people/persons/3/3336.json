@@ -1,0 +1,91 @@
+{
+  "id": 3336,
+  "schema": "genepedia/person@1",
+  "slug": "maria-gezina-van-tonder",
+  "names": {
+    "display": "Maria Gezina van Tonder",
+    "given": "Maria Gezina",
+    "surname": "van Tonder",
+    "married": "van Taak",
+    "nick": "Ria",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 AUG 1929",
+      "year": 1929,
+      "iso": "1929-08-22",
+      "precision": "exact",
+      "display": "August 22, 1929",
+      "place": null
+    },
+    "death": {
+      "date": "1 APR 2010",
+      "year": 2010,
+      "iso": "2010-04-01",
+      "precision": "exact",
+      "display": "April 1, 2010",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1313
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F816"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1313,
+        "unionId": "F816",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020383327599@",
+    "geniId": "6000000020383327599",
+    "rfn": "geni:6000000020383327599",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/3336/",
+    "canonical": "https://www.genepedia.org/people/3336/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

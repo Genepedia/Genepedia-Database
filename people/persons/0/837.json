@@ -1,0 +1,108 @@
+{
+  "id": 837,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-elizabeth-mitchell",
+  "names": {
+    "display": "Gertruida Elizabeth Mitchell",
+    "given": "Gertruida Elizabeth",
+    "surname": "Mitchell",
+    "married": "Haarhof",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 JAN 1914",
+      "year": 1914,
+      "iso": "1914-01-14",
+      "precision": "exact",
+      "display": "January 14, 1914",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      831,
+      333
+    ],
+    "spouses": [
+      2010
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      832,
+      833,
+      834,
+      835,
+      836,
+      838,
+      839
+    ],
+    "parentUnions": [
+      "F230"
+    ],
+    "spouseUnions": [
+      "F524"
+    ],
+    "parentLinks": [
+      {
+        "id": 831,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 333,
+        "unionId": "F230",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2010,
+        "unionId": "F524",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066539205886@",
+    "geniId": "6000000066539205886",
+    "rfn": "geni:6000000066539205886",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/837/",
+    "canonical": "https://www.genepedia.org/people/837/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

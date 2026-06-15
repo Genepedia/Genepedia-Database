@@ -1,0 +1,117 @@
+{
+  "id": 605,
+  "schema": "genepedia/person@1",
+  "slug": "andre-jr-du-preez",
+  "names": {
+    "display": "Andre Jr du Preez",
+    "given": "Andre Jr",
+    "surname": "du Preez",
+    "married": "du Preez",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "9 APR 1971",
+      "year": 1971,
+      "iso": "1971-04-09",
+      "precision": "exact",
+      "display": "April 9, 1971",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      604,
+      222
+    ],
+    "spouses": [
+      1504
+    ],
+    "exSpouses": [],
+    "children": [
+      1505,
+      1506
+    ],
+    "siblings": [
+      606,
+      607
+    ],
+    "parentUnions": [
+      "F170"
+    ],
+    "spouseUnions": [
+      "F385"
+    ],
+    "parentLinks": [
+      {
+        "id": 604,
+        "unionId": "F170",
+        "type": "biological"
+      },
+      {
+        "id": 222,
+        "unionId": "F170",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1504,
+        "unionId": "F385",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1505,
+        "unionId": "F385",
+        "type": "biological"
+      },
+      {
+        "id": 1506,
+        "unionId": "F385",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587300848@",
+    "geniId": "6000000206587300848",
+    "rfn": "geni:6000000206587300848",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/605/",
+    "canonical": "https://www.genepedia.org/people/605/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

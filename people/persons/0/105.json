@@ -1,0 +1,123 @@
+{
+  "id": 105,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-olivier",
+  "names": {
+    "display": "Gerrit Olivier",
+    "given": "Gerrit",
+    "surname": "Olivier",
+    "married": "Olivier",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "27 MAY 1988",
+      "year": 1988,
+      "iso": "1988-05-27",
+      "precision": "exact",
+      "display": "May 27, 1988",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/cc/8b/7f/17/534448656f69a230/screenshot_2024-03-13_213118_original.jpg?hash=fa22d116ba90d757e216f395411ed6fb4b634ab91c5d89c23941f9138842ea37.1789455599",
+      "alt": "Gerrit Olivier"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/cc/8b/7f/17/534448656f69a230/screenshot_2024-03-13_213118_original.jpg?hash=fa22d116ba90d757e216f395411ed6fb4b634ab91c5d89c23941f9138842ea37.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      281,
+      282
+    ],
+    "spouses": [
+      32
+    ],
+    "exSpouses": [],
+    "children": [
+      106
+    ],
+    "siblings": [
+      283,
+      284
+    ],
+    "parentUnions": [
+      "F92"
+    ],
+    "spouseUnions": [
+      "F38"
+    ],
+    "parentLinks": [
+      {
+        "id": 281,
+        "unionId": "F92",
+        "type": "biological"
+      },
+      {
+        "id": 282,
+        "unionId": "F92",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 32,
+        "unionId": "F38",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 106,
+        "unionId": "F38",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204062399826@",
+    "geniId": "6000000204062399826",
+    "rfn": "geni:6000000204062399826",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/105/",
+    "canonical": "https://www.genepedia.org/people/105/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

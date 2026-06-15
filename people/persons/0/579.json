@@ -1,0 +1,160 @@
+{
+  "id": 579,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-wilhelmina-jacoba-augustyn",
+  "names": {
+    "display": "Elizabeth Wilhelmina Jacoba Augustyn",
+    "given": "Elizabeth Wilhelmina Jacoba",
+    "surname": "Augustyn",
+    "married": "Herbert",
+    "nick": "Elizabeth Wilhelmina Jacoba  Herbert",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 JAN 1883",
+      "year": 1883,
+      "iso": "1883-01-11",
+      "precision": "exact",
+      "display": "January 11, 1883",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      577,
+      578
+    ],
+    "spouses": [
+      1444
+    ],
+    "exSpouses": [],
+    "children": [
+      1445,
+      1446,
+      1447,
+      1448,
+      1449,
+      1450,
+      1451,
+      1452
+    ],
+    "siblings": [
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      215
+    ],
+    "parentUnions": [
+      "F165"
+    ],
+    "spouseUnions": [
+      "F365"
+    ],
+    "parentLinks": [
+      {
+        "id": 577,
+        "unionId": "F165",
+        "type": "biological"
+      },
+      {
+        "id": 578,
+        "unionId": "F165",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1444,
+        "unionId": "F365",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1445,
+        "unionId": "F365",
+        "type": "biological"
+      },
+      {
+        "id": 1446,
+        "unionId": "F365",
+        "type": "biological"
+      },
+      {
+        "id": 1447,
+        "unionId": "F365",
+        "type": "biological"
+      },
+      {
+        "id": 1448,
+        "unionId": "F365",
+        "type": "biological"
+      },
+      {
+        "id": 1449,
+        "unionId": "F365",
+        "type": "biological"
+      },
+      {
+        "id": 1450,
+        "unionId": "F365",
+        "type": "biological"
+      },
+      {
+        "id": 1451,
+        "unionId": "F365",
+        "type": "biological"
+      },
+      {
+        "id": 1452,
+        "unionId": "F365",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000076304886845@",
+    "geniId": "6000000076304886845",
+    "rfn": "geni:6000000076304886845",
+    "changed": "08 OCT 2024"
+  },
+  "page": {
+    "route": "people/579/",
+    "canonical": "https://www.genepedia.org/people/579/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

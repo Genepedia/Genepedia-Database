@@ -1,0 +1,119 @@
+{
+  "id": 1567,
+  "schema": "genepedia/person@1",
+  "slug": "judith-susara-de-lange",
+  "names": {
+    "display": "Judith Susara de Lange",
+    "given": "Judith Susara",
+    "surname": "de Lange",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4141
+    ],
+    "spouses": [
+      631
+    ],
+    "exSpouses": [],
+    "children": [
+      1568,
+      1569,
+      1570,
+      1571,
+      1572
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F962"
+    ],
+    "spouseUnions": [
+      "F398"
+    ],
+    "parentLinks": [
+      {
+        "id": 4141,
+        "unionId": "F962",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 631,
+        "unionId": "F398",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1568,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1569,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1570,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1571,
+        "unionId": "F398",
+        "type": "biological"
+      },
+      {
+        "id": 1572,
+        "unionId": "F398",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207553248821@",
+    "geniId": "6000000207553248821",
+    "rfn": "geni:6000000207553248821",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1567/",
+    "canonical": "https://www.genepedia.org/people/1567/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

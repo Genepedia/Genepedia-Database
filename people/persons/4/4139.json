@@ -1,0 +1,84 @@
+{
+  "id": 4139,
+  "schema": "genepedia/person@1",
+  "slug": "renier-coenraad-willem-van-zyl",
+  "names": {
+    "display": "Renier Coenraad Willem van Zyl",
+    "given": "Renier Coenraad Willem",
+    "surname": "van Zyl",
+    "married": "van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JAN 1915",
+      "year": 1915,
+      "iso": "1915-01-18",
+      "precision": "exact",
+      "display": "January 18, 1915",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1564
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F960"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1564,
+        "unionId": "F960",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000176423008871@",
+    "geniId": "6000000176423008871",
+    "rfn": "geni:6000000176423008871",
+    "changed": "17 JUN 2021"
+  },
+  "page": {
+    "route": "people/4139/",
+    "canonical": "https://www.genepedia.org/people/4139/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 4490,
+  "schema": "genepedia/person@1",
+  "slug": "bessie-ida-sattenstein",
+  "names": {
+    "display": "Bessie Ida Sattenstein",
+    "given": "Bessie Ida",
+    "surname": "Sattenstein",
+    "married": "Hains",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4487,
+      1750
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4488,
+      4489,
+      4491,
+      4492
+    ],
+    "parentUnions": [
+      "F1064"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4487,
+        "unionId": "F1064",
+        "type": "biological"
+      },
+      {
+        "id": 1750,
+        "unionId": "F1064",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000214982643828@",
+    "geniId": "6000000214982643828",
+    "rfn": "geni:6000000214982643828",
+    "changed": "05 FEB 2025"
+  },
+  "page": {
+    "route": "people/4490/",
+    "canonical": "https://www.genepedia.org/people/4490/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

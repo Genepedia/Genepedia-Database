@@ -1,0 +1,190 @@
+{
+  "id": 2376,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-petrus-cloete-2376",
+  "names": {
+    "display": "Hendrik Petrus Cloete",
+    "given": "Hendrik Petrus",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 JAN 1807",
+      "year": 1807,
+      "iso": "1807-01-30",
+      "precision": "exact",
+      "display": "January 30, 1807",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 JAN 1891",
+      "year": 1891,
+      "iso": "1891-01-24",
+      "precision": "exact",
+      "display": "January 24, 1891",
+      "place": "Farm ?, Northern Cape, South Africa",
+      "location": {
+        "label": "Farm ?, Northern Cape, South Africa",
+        "placeName": "Farm ?",
+        "addressLine1": "District of Hay",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/69/50/0a/0e/534448421230681c/hendrik_petrus_cloete_original.jpg?hash=96e97b6643d7b50ec7c79ba06ff80e78de24ff02facc14df3c4f63adc428f9fe.1789455599",
+      "alt": "Hendrik Petrus Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/69/50/0a/0e/534448421230681c/hendrik_petrus_cloete_original.jpg?hash=96e97b6643d7b50ec7c79ba06ff80e78de24ff02facc14df3c4f63adc428f9fe.1789455599",
+        "form": "",
+        "title": "Hendrik Petrus Cloete.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/15/9c/96/9a/53444861686fc728/hendrik_petrus_cloete_death_notice_24_jan_1891_hay_original.jpg?hash=1025d60ffffe3b5d61cecd0d41be41cf849f63b18ea5405de06edd5cd3ff2793.1789455599",
+        "form": "",
+        "title": "Hendrik Petrus Cloete Death Notice 24 Jan 1891 Hay.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2375
+    ],
+    "exSpouses": [],
+    "children": [
+      954,
+      2377,
+      2378,
+      2379,
+      2380,
+      2381,
+      2382
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1469"
+    ],
+    "spouseUnions": [
+      "F600",
+      "F1467",
+      "F1468"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2375,
+        "unionId": "F600",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 954,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2377,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2378,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2379,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2380,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2381,
+        "unionId": "F600",
+        "type": "biological"
+      },
+      {
+        "id": 2382,
+        "unionId": "F600",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000040753628670@",
+    "geniId": "6000000040753628670",
+    "rfn": "geni:6000000040753628670",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2376/",
+    "canonical": "https://www.genepedia.org/people/2376/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

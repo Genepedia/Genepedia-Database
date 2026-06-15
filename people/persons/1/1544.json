@@ -1,0 +1,98 @@
+{
+  "id": 1544,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-johannes-van-niekerk-1544",
+  "names": {
+    "display": "Pieter Johannes van Niekerk",
+    "given": "Pieter Johannes",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 SEP 1840",
+      "year": 1840,
+      "iso": "1840-09-28",
+      "precision": "exact",
+      "display": "September 28, 1840",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1539,
+      1540
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1541,
+      1542,
+      1543,
+      628,
+      1545,
+      1546,
+      1547
+    ],
+    "parentUnions": [
+      "F394"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1539,
+        "unionId": "F394",
+        "type": "biological"
+      },
+      {
+        "id": 1540,
+        "unionId": "F394",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029377655107@",
+    "geniId": "6000000029377655107",
+    "rfn": "geni:6000000029377655107",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/1544/",
+    "canonical": "https://www.genepedia.org/people/1544/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

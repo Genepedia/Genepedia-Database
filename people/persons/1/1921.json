@@ -1,0 +1,119 @@
+{
+  "id": 1921,
+  "schema": "genepedia/person@1",
+  "slug": "anna-elizabeth-magdalena-drotskie",
+  "names": {
+    "display": "Anna Elizabeth Magdalena Drotskie",
+    "given": "Anna Elizabeth Magdalena",
+    "surname": "Drotskie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 30 MAY 1894",
+      "year": 1894,
+      "iso": "1894-05-30",
+      "precision": "about",
+      "display": "about May 30, 1894",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "22 JUL 1894",
+      "year": 1894,
+      "iso": "1894-07-22",
+      "precision": "exact",
+      "display": "July 22, 1894",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "9966",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1916,
+      817
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1917,
+      1918,
+      1919,
+      1920,
+      1922
+    ],
+    "parentUnions": [
+      "F506"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1916,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 817,
+        "unionId": "F506",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066760612037@",
+    "geniId": "6000000066760612037",
+    "rfn": "geni:6000000066760612037",
+    "changed": "17 MAR 2019"
+  },
+  "page": {
+    "route": "people/1921/",
+    "canonical": "https://www.genepedia.org/people/1921/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

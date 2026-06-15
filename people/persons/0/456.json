@@ -1,0 +1,134 @@
+{
+  "id": 456,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-adriana-davis",
+  "names": {
+    "display": "Jacoba Adriana Davis",
+    "given": "Jacoba Adriana",
+    "surname": "Davis",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 JUL 1899",
+      "year": 1899,
+      "iso": "1899-07-07",
+      "precision": "exact",
+      "display": "July 7, 1899",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Jacoba Adriana Davis"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Maritz Web Site",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Potgieter Web Site",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      447,
+      448
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      449,
+      168,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455
+    ],
+    "parentUnions": [
+      "F136"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 447,
+        "unionId": "F136",
+        "type": "biological"
+      },
+      {
+        "id": 448,
+        "unionId": "F136",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052998962639@",
+    "geniId": "6000000052998962639",
+    "rfn": "geni:6000000052998962639",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/456/",
+    "canonical": "https://www.genepedia.org/people/456/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,134 @@
+{
+  "id": 748,
+  "schema": "genepedia/person@1",
+  "slug": "shirley-lurie",
+  "names": {
+    "display": "Shirley Lurie",
+    "given": "Shirley",
+    "surname": "Lurie",
+    "married": "MacGIllivray",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "6 FEB 1956",
+      "year": 1956,
+      "iso": "1956-02-06",
+      "precision": "exact",
+      "display": "February 6, 1956",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/fd/4a/fd/09/534448656fbb63cd/104677971_10158686529983833_1723951297485799070_n_original.jpg?hash=a2d05e3a0ffad9b84cb23eba923f12af5a9715a07a86fe4544db8c48f1631fdc.1789455599",
+      "alt": "Shirley Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/fd/4a/fd/09/534448656fbb63cd/104677971_10158686529983833_1723951297485799070_n_original.jpg?hash=a2d05e3a0ffad9b84cb23eba923f12af5a9715a07a86fe4544db8c48f1631fdc.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      300,
+      745
+    ],
+    "spouses": [
+      1790
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      746,
+      747,
+      749,
+      750,
+      751
+    ],
+    "parentUnions": [
+      "F210"
+    ],
+    "spouseUnions": [
+      "F470"
+    ],
+    "parentLinks": [
+      {
+        "id": 300,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 745,
+        "unionId": "F210",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1790,
+        "unionId": "F470",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204066981869@",
+    "geniId": "6000000204066981869",
+    "rfn": "geni:6000000204066981869",
+    "changed": "10 JUN 2024"
+  },
+  "page": {
+    "route": "people/748/",
+    "canonical": "https://www.genepedia.org/people/748/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

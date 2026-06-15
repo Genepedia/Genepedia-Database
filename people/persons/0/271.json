@@ -1,0 +1,106 @@
+{
+  "id": 271,
+  "schema": "genepedia/person@1",
+  "slug": "gregory-cooper",
+  "names": {
+    "display": "Gregory Cooper",
+    "given": "Gregory",
+    "surname": "Cooper",
+    "married": "Cooper",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "31 MAR 1955",
+      "year": 1955,
+      "iso": "1955-03-31",
+      "precision": "exact",
+      "display": "March 31, 1955",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/70/09/92/3e/5344486641a8e405/screenshot_2024-07-24_223501_original.jpg?hash=9ca6abf7ec21c11e1b6c949860a7bd0db5ab98444de8e91278e2bd2f90ef4500.1789455599",
+      "alt": "Gregory Cooper"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/70/09/92/3e/5344486641a8e405/screenshot_2024-07-24_223501_original.jpg?hash=9ca6abf7ec21c11e1b6c949860a7bd0db5ab98444de8e91278e2bd2f90ef4500.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      269,
+      268
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      270,
+      101,
+      272
+    ],
+    "parentUnions": [
+      "F87"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 269,
+        "unionId": "F87",
+        "type": "biological"
+      },
+      {
+        "id": 268,
+        "unionId": "F87",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207589542828@",
+    "geniId": "6000000207589542828",
+    "rfn": "geni:6000000207589542828",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/271/",
+    "canonical": "https://www.genepedia.org/people/271/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

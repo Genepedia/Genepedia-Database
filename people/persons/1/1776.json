@@ -1,0 +1,132 @@
+{
+  "id": 1776,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-wilhelm-herman-malchin",
+  "names": {
+    "display": "Pieter Wilhelm Herman Malchin",
+    "given": "Pieter Wilhelm Herman",
+    "surname": "Malchin",
+    "married": "Malchin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1874",
+      "year": 1874,
+      "iso": "1874",
+      "precision": "exact",
+      "display": "1874",
+      "place": null
+    },
+    "death": {
+      "date": "1915",
+      "year": 1915,
+      "iso": "1915",
+      "precision": "exact",
+      "display": "1915",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1774,
+      1775
+    ],
+    "spouses": [
+      4522
+    ],
+    "exSpouses": [],
+    "children": [
+      4523,
+      4524,
+      4525
+    ],
+    "siblings": [
+      736,
+      1777,
+      1778,
+      1779
+    ],
+    "parentUnions": [
+      "F465"
+    ],
+    "spouseUnions": [
+      "F1076"
+    ],
+    "parentLinks": [
+      {
+        "id": 1774,
+        "unionId": "F465",
+        "type": "biological"
+      },
+      {
+        "id": 1775,
+        "unionId": "F465",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4522,
+        "unionId": "F1076",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4523,
+        "unionId": "F1076",
+        "type": "biological"
+      },
+      {
+        "id": 4524,
+        "unionId": "F1076",
+        "type": "biological"
+      },
+      {
+        "id": 4525,
+        "unionId": "F1076",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217942987883@",
+    "geniId": "6000000217942987883",
+    "rfn": "geni:6000000217942987883",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/1776/",
+    "canonical": "https://www.genepedia.org/people/1776/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 769,
+  "schema": "genepedia/person@1",
+  "slug": "profile-769",
+  "names": {
+    "display": "? ?",
+    "given": "?",
+    "surname": "?",
+    "married": "?",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      303
+    ],
+    "exSpouses": [],
+    "children": [
+      770,
+      771,
+      772,
+      773,
+      774,
+      775
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F214"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 303,
+        "unionId": "F214",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 770,
+        "unionId": "F214",
+        "type": "biological"
+      },
+      {
+        "id": 771,
+        "unionId": "F214",
+        "type": "biological"
+      },
+      {
+        "id": 772,
+        "unionId": "F214",
+        "type": "biological"
+      },
+      {
+        "id": 773,
+        "unionId": "F214",
+        "type": "biological"
+      },
+      {
+        "id": 774,
+        "unionId": "F214",
+        "type": "biological"
+      },
+      {
+        "id": 775,
+        "unionId": "F214",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149152821@",
+    "geniId": "6000000204149152821",
+    "rfn": "geni:6000000204149152821",
+    "changed": "16 MAR 2024"
+  },
+  "page": {
+    "route": "people/769/",
+    "canonical": "https://www.genepedia.org/people/769/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

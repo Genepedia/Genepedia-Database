@@ -1,0 +1,85 @@
+{
+  "id": 116,
+  "schema": "genepedia/person@1",
+  "slug": "coetzee",
+  "names": {
+    "display": "? Coetzee",
+    "given": "?",
+    "surname": "Coetzee",
+    "married": "Coetzee",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      117
+    ],
+    "exSpouses": [],
+    "children": [
+      36
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F41"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 117,
+        "unionId": "F41",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 36,
+        "unionId": "F41",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209504060857@",
+    "geniId": "6000000209504060857",
+    "rfn": "geni:6000000209504060857",
+    "changed": "01 OCT 2024"
+  },
+  "page": {
+    "route": "people/116/",
+    "canonical": "https://www.genepedia.org/people/116/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

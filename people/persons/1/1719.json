@@ -1,0 +1,238 @@
+{
+  "id": 1719,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-johannes-corrie-1719",
+  "names": {
+    "display": "Joseph Johannes Corrie",
+    "given": "Joseph Johannes",
+    "surname": "Corrie",
+    "married": "Corrie",
+    "nick": "Jozef Johannes",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 APR 1888",
+      "year": 1888,
+      "iso": "1888-04-15",
+      "precision": "exact",
+      "display": "April 15, 1888",
+      "place": null
+    },
+    "death": {
+      "date": "14 AUG 1956",
+      "year": 1956,
+      "iso": "1956-08-14",
+      "precision": "exact",
+      "display": "August 14, 1956",
+      "place": "Durban, Natal, South Africa",
+      "location": {
+        "label": "Durban, Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Durban",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "1 JUL 1888",
+      "year": 1888,
+      "iso": "1888-07-01",
+      "precision": "exact",
+      "display": "July 1, 1888",
+      "place": "Kroonstad, Free State, South Africa",
+      "location": {
+        "label": "Kroonstad, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/5b/d1/cb/5d/5344483af9003c92/mama_old_family_jpeg_small_original.jpg?hash=e36184be32df9667d72619ffd05cdacaabf54fa9b2a7adeb24882fa23183a155.1789455599",
+      "alt": "Joseph Johannes Corrie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/5b/d1/cb/5d/5344483af9003c92/mama_old_family_jpeg_small_original.jpg?hash=e36184be32df9667d72619ffd05cdacaabf54fa9b2a7adeb24882fa23183a155.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/57/73/0a/51/53444840eeb5b793/corriejjbaptism_original.jpg?hash=183aa8d3b547e98cd2f646efc89c671a21b4daf220091ecd9a53a83519cf3ad6.1789455599",
+        "form": "",
+        "title": "CORRIE, J.J. Baptism",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/13/bd/eb/e6/5344484774f5947a/record-image_3q9m-csk6-rffy_original.jpg?hash=f9c11ca8389fa433724976d6460b32d9053ce3ff67b3d0046f83d2cb81c29844.1789455599",
+        "form": "",
+        "title": "CORRIE, J.J. Baptism 1888",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/65/51/2d/a8/53444859b7437c89/record-image_11__original.jpg?hash=9811deae334b9fbf8117b78f3e9277e9016d9dc1ae12788ceb2583d8076e6720.1789455599",
+        "form": "",
+        "title": "CORRIE, H.C. Baptism 1915",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1717,
+      1718
+    ],
+    "spouses": [
+      4393
+    ],
+    "exSpouses": [],
+    "children": [
+      4394,
+      4395,
+      4396,
+      4397,
+      4398,
+      4399,
+      4400,
+      4401
+    ],
+    "siblings": [
+      711,
+      1720,
+      1721,
+      1722,
+      1723,
+      1724,
+      1725,
+      1712
+    ],
+    "parentUnions": [
+      "F451"
+    ],
+    "spouseUnions": [
+      "F1039"
+    ],
+    "parentLinks": [
+      {
+        "id": 1717,
+        "unionId": "F451",
+        "type": "biological"
+      },
+      {
+        "id": 1718,
+        "unionId": "F451",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4393,
+        "unionId": "F1039",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4394,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4395,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4396,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4397,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4398,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4399,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4400,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4401,
+        "unionId": "F1039",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020762795620@",
+    "geniId": "6000000020762795620",
+    "rfn": "geni:6000000020762795620",
+    "changed": "05 OCT 2025"
+  },
+  "page": {
+    "route": "people/1719/",
+    "canonical": "https://www.genepedia.org/people/1719/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

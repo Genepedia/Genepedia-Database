@@ -1,0 +1,145 @@
+{
+  "id": 179,
+  "schema": "genepedia/person@1",
+  "slug": "eddie-engelbrecht",
+  "names": {
+    "display": "Eddie Engelbrecht",
+    "given": "Eddie",
+    "surname": "Engelbrecht",
+    "married": "Engelbrecht",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "22 JAN 2024",
+      "year": 2024,
+      "iso": "2024-01-22",
+      "precision": "exact",
+      "display": "January 22, 2024",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/98/df/c5/42/5344486623126a83/screenshot_2024-07-05_175509_original.jpg?hash=2d3c41b2fe878fb954b8abfb06ec12e078defbeb6151595860437dd1394c1804.1789455599",
+      "alt": "Eddie Engelbrecht"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/98/df/c5/42/5344486623126a83/screenshot_2024-07-05_175509_original.jpg?hash=2d3c41b2fe878fb954b8abfb06ec12e078defbeb6151595860437dd1394c1804.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      513,
+      514
+    ],
+    "spouses": [
+      46,
+      510
+    ],
+    "exSpouses": [],
+    "children": [
+      180,
+      181,
+      511,
+      512
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F147"
+    ],
+    "spouseUnions": [
+      "F53",
+      "F146"
+    ],
+    "parentLinks": [
+      {
+        "id": 513,
+        "unionId": "F147",
+        "type": "biological"
+      },
+      {
+        "id": 514,
+        "unionId": "F147",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 46,
+        "unionId": "F53",
+        "role": "partner"
+      },
+      {
+        "id": 510,
+        "unionId": "F146",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 180,
+        "unionId": "F53",
+        "type": "biological"
+      },
+      {
+        "id": 181,
+        "unionId": "F53",
+        "type": "biological"
+      },
+      {
+        "id": 511,
+        "unionId": "F146",
+        "type": "biological"
+      },
+      {
+        "id": 512,
+        "unionId": "F146",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207076706842@",
+    "geniId": "6000000207076706842",
+    "rfn": "geni:6000000207076706842",
+    "changed": "09 JUL 2024"
+  },
+  "page": {
+    "route": "people/179/",
+    "canonical": "https://www.genepedia.org/people/179/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

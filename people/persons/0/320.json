@@ -1,0 +1,97 @@
+{
+  "id": 320,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-engelbrecht",
+  "names": {
+    "display": "Johannes Engelbrecht",
+    "given": "Johannes",
+    "surname": "Engelbrecht",
+    "married": "Engelbrecht",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/07/37/32/6f/53444866011d3a05/screenshot_2024-06-14_142443_original.jpg?hash=e5c96c94e9740cade213fd208c35a5ae60c1090de16fb3ab17e8af735f4ecad7.1789455599",
+      "alt": "Johannes Engelbrecht"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/07/37/32/6f/53444866011d3a05/screenshot_2024-06-14_142443_original.jpg?hash=e5c96c94e9740cade213fd208c35a5ae60c1090de16fb3ab17e8af735f4ecad7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      123
+    ],
+    "exSpouses": [],
+    "children": [
+      321
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F103"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 123,
+        "unionId": "F103",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 321,
+        "unionId": "F103",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204180205903@",
+    "geniId": "6000000204180205903",
+    "rfn": "geni:6000000204180205903",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/320/",
+    "canonical": "https://www.genepedia.org/people/320/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 2265,
+  "schema": "genepedia/person@1",
+  "slug": "heinrich-kruger",
+  "names": {
+    "display": "Heinrich Kruger",
+    "given": "Heinrich",
+    "surname": "Kruger",
+    "married": "Kruger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "20 APR 1953",
+      "year": 1953,
+      "iso": "1953-04-20",
+      "precision": "exact",
+      "display": "April 20, 1953",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/36/b2/cf/d5/5344484027d5ea23/heinrich_kruger_original.jpg?hash=0be8778bdc378e1728b453f1dc4c28042ed13e56f50da54ade42a8d8440a3838.1789455599",
+      "alt": "Heinrich Kruger"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/36/b2/cf/d5/5344484027d5ea23/heinrich_kruger_original.jpg?hash=0be8778bdc378e1728b453f1dc4c28042ed13e56f50da54ade42a8d8440a3838.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2264,
+      915
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2266,
+      2267,
+      2268
+    ],
+    "parentUnions": [
+      "F574"
+    ],
+    "spouseUnions": [
+      "F1405"
+    ],
+    "parentLinks": [
+      {
+        "id": 2264,
+        "unionId": "F574",
+        "type": "biological"
+      },
+      {
+        "id": 915,
+        "unionId": "F574",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029818702863@",
+    "geniId": "6000000029818702863",
+    "rfn": "geni:6000000029818702863",
+    "changed": "13 JUL 2016"
+  },
+  "page": {
+    "route": "people/2265/",
+    "canonical": "https://www.genepedia.org/people/2265/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

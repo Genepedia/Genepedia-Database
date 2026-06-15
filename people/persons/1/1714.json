@@ -1,0 +1,141 @@
+{
+  "id": 1714,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-botha",
+  "names": {
+    "display": "Petrus Johannes Botha",
+    "given": "Petrus Johannes",
+    "surname": "Botha",
+    "married": "Botha",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BET 1923 AND 1951",
+      "year": 1923,
+      "iso": "1951",
+      "precision": "exact",
+      "display": "1951",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/71/52/68/39/53444848a8f8a882/record-image_3q9m-c9bk-r7k9-f_original.jpg?hash=83d4d8713d5516000172e9e99ac5caeb9721be9f3c47b4167c4aa523d5980059.1789455599",
+      "alt": "Petrus Johannes Botha"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/71/52/68/39/53444848a8f8a882/record-image_3q9m-c9bk-r7k9-f_original.jpg?hash=83d4d8713d5516000172e9e99ac5caeb9721be9f3c47b4167c4aa523d5980059.1789455599",
+        "form": "",
+        "title": "BOTHA, J.W.J.M. Death Notice 1951",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1713,
+      711
+    ],
+    "spouses": [
+      4372
+    ],
+    "exSpouses": [],
+    "children": [
+      4373,
+      4374,
+      4375,
+      4376
+    ],
+    "siblings": [
+      1715,
+      1716
+    ],
+    "parentUnions": [
+      "F450"
+    ],
+    "spouseUnions": [
+      "F1036"
+    ],
+    "parentLinks": [
+      {
+        "id": 1713,
+        "unionId": "F450",
+        "type": "biological"
+      },
+      {
+        "id": 711,
+        "unionId": "F450",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4372,
+        "unionId": "F1036",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4373,
+        "unionId": "F1036",
+        "type": "biological"
+      },
+      {
+        "id": 4374,
+        "unionId": "F1036",
+        "type": "biological"
+      },
+      {
+        "id": 4375,
+        "unionId": "F1036",
+        "type": "biological"
+      },
+      {
+        "id": 4376,
+        "unionId": "F1036",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000041001559266@",
+    "geniId": "6000000041001559266",
+    "rfn": "geni:6000000041001559266",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/1714/",
+    "canonical": "https://www.genepedia.org/people/1714/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

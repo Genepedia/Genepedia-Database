@@ -1,0 +1,96 @@
+{
+  "id": 2293,
+  "schema": "genepedia/person@1",
+  "slug": "anthony-james-cox",
+  "names": {
+    "display": "Anthony James Cox",
+    "given": "Anthony James",
+    "surname": "Cox",
+    "married": "Cox",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "19 JUL 1957",
+      "year": 1957,
+      "iso": "1957-07-19",
+      "precision": "exact",
+      "display": "July 19, 1957",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2292,
+      921
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2294,
+      2295
+    ],
+    "parentUnions": [
+      "F583"
+    ],
+    "spouseUnions": [
+      "F1421",
+      "F1422"
+    ],
+    "parentLinks": [
+      {
+        "id": 2292,
+        "unionId": "F583",
+        "type": "biological"
+      },
+      {
+        "id": 921,
+        "unionId": "F583",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000041801049359@",
+    "geniId": "6000000041801049359",
+    "rfn": "geni:6000000041801049359",
+    "changed": "29 JUN 2017"
+  },
+  "page": {
+    "route": "people/2293/",
+    "canonical": "https://www.genepedia.org/people/2293/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 3554,
+  "schema": "genepedia/person@1",
+  "slug": "dawid-erasmus",
+  "names": {
+    "display": "Dawid Erasmus",
+    "given": "Dawid",
+    "surname": "Erasmus",
+    "married": "Erasmus",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1830",
+      "year": 1830,
+      "iso": "1830",
+      "precision": "about",
+      "display": "about 1830",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1394
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F867"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1394,
+        "unionId": "F867",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028576868412@",
+    "geniId": "6000000028576868412",
+    "rfn": "geni:6000000028576868412",
+    "changed": "13 JAN 2021"
+  },
+  "page": {
+    "route": "people/3554/",
+    "canonical": "https://www.genepedia.org/people/3554/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

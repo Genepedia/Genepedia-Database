@@ -1,0 +1,140 @@
+{
+  "id": 2551,
+  "schema": "genepedia/person@1",
+  "slug": "willem-johannes-jacobs",
+  "names": {
+    "display": "Willem Johannes Jacobs",
+    "given": "Willem Johannes",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 OCT 1970",
+      "year": 1970,
+      "iso": "1970-10-02",
+      "precision": "exact",
+      "display": "October 2, 1970",
+      "place": null
+    },
+    "death": {
+      "date": "1992",
+      "year": 1992,
+      "iso": "1992",
+      "precision": "exact",
+      "display": "1992",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Zandfontein, Northern Cape, South Africa",
+      "location": {
+        "label": "Zandfontein, Northern Cape, South Africa",
+        "placeName": "Zandfontein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/3f/bd/ed/a6/5344483f40cb6364/willie_original.jpg?hash=53c18670cd1d5ef445928cc6a14d8933d952d9b4a1451203cc0f52d6e1fbcdb7.1789455599",
+      "alt": "Willem Johannes Jacobs"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/3f/bd/ed/a6/5344483f40cb6364/willie_original.jpg?hash=53c18670cd1d5ef445928cc6a14d8933d952d9b4a1451203cc0f52d6e1fbcdb7.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1037,
+      2545
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2546,
+      2547,
+      2548,
+      2549,
+      2550,
+      2552
+    ],
+    "parentUnions": [
+      "F632"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1037,
+        "unionId": "F632",
+        "type": "biological"
+      },
+      {
+        "id": 2545,
+        "unionId": "F632",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040044430565@",
+    "geniId": "6000000040044430565",
+    "rfn": "geni:6000000040044430565",
+    "changed": "04 JUL 2019"
+  },
+  "page": {
+    "route": "people/2551/",
+    "canonical": "https://www.genepedia.org/people/2551/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

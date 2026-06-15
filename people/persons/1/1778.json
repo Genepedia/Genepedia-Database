@@ -1,0 +1,138 @@
+{
+  "id": 1778,
+  "schema": "genepedia/person@1",
+  "slug": "alice-catharine-melanie-malchin",
+  "names": {
+    "display": "Alice Catharine Melanie Malchin",
+    "given": "Alice Catharine Melanie",
+    "surname": "Malchin",
+    "married": "Gedrowitz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 SEP 1886",
+      "year": 1886,
+      "iso": "1886-09-25",
+      "precision": "exact",
+      "display": "September 25, 1886",
+      "place": null
+    },
+    "death": {
+      "date": "11 AUG 1973",
+      "year": 1973,
+      "iso": "1973-08-11",
+      "precision": "exact",
+      "display": "August 11, 1973",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/37/1d/4f/8b/53444868aafcfa4e/jpg_16__original.jpg?hash=6a46673c5576f7372b62926c33ac93edc30505c86eb0b4afd238de9f31cadac3.1789455599",
+      "alt": "Alice Catharine Melanie Malchin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/37/1d/4f/8b/53444868aafcfa4e/jpg_16__original.jpg?hash=6a46673c5576f7372b62926c33ac93edc30505c86eb0b4afd238de9f31cadac3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1774,
+      1775
+    ],
+    "spouses": [
+      4530
+    ],
+    "exSpouses": [],
+    "children": [
+      4531,
+      4532
+    ],
+    "siblings": [
+      1776,
+      736,
+      1777,
+      1779
+    ],
+    "parentUnions": [
+      "F465"
+    ],
+    "spouseUnions": [
+      "F1078"
+    ],
+    "parentLinks": [
+      {
+        "id": 1774,
+        "unionId": "F465",
+        "type": "biological"
+      },
+      {
+        "id": 1775,
+        "unionId": "F465",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4530,
+        "unionId": "F1078",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4531,
+        "unionId": "F1078",
+        "type": "biological"
+      },
+      {
+        "id": 4532,
+        "unionId": "F1078",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217943269831@",
+    "geniId": "6000000217943269831",
+    "rfn": "geni:6000000217943269831",
+    "changed": "22 APR 2025"
+  },
+  "page": {
+    "route": "people/1778/",
+    "canonical": "https://www.genepedia.org/people/1778/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

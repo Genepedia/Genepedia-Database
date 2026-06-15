@@ -1,0 +1,91 @@
+{
+  "id": 2107,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-jacoba-bester-2107",
+  "names": {
+    "display": "Johanna Jacoba Bester",
+    "given": "Johanna Jacoba",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      867,
+      2102
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2103,
+      2104,
+      2105,
+      2106,
+      2108
+    ],
+    "parentUnions": [
+      "F547"
+    ],
+    "spouseUnions": [
+      "F1299"
+    ],
+    "parentLinks": [
+      {
+        "id": 867,
+        "unionId": "F547",
+        "type": "biological"
+      },
+      {
+        "id": 2102,
+        "unionId": "F547",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066638273845@",
+    "geniId": "6000000066638273845",
+    "rfn": "geni:6000000066638273845",
+    "changed": "07 SEP 2017"
+  },
+  "page": {
+    "route": "people/2107/",
+    "canonical": "https://www.genepedia.org/people/2107/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

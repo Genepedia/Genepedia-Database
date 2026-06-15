@@ -1,0 +1,94 @@
+{
+  "id": 83,
+  "schema": "genepedia/person@1",
+  "slug": "machiel-frederick-van-niekerk",
+  "names": {
+    "display": "Machiel Frederick van Niekerk",
+    "given": "Machiel Frederick",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "19 NOV 1950",
+      "year": 1950,
+      "iso": "1950-11-19",
+      "precision": "exact",
+      "display": "November 19, 1950",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      79,
+      80
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      81,
+      82,
+      21
+    ],
+    "parentUnions": [
+      "F29"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 79,
+        "unionId": "F29",
+        "type": "biological"
+      },
+      {
+        "id": 80,
+        "unionId": "F29",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204905797825@",
+    "geniId": "6000000204905797825",
+    "rfn": "geni:6000000204905797825",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/83/",
+    "canonical": "https://www.genepedia.org/people/83/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

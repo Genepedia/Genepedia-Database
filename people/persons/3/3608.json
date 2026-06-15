@@ -1,0 +1,91 @@
+{
+  "id": 3608,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-oosthuizen",
+  "names": {
+    "display": "Pieter Andries Oosthuizen",
+    "given": "Pieter Andries",
+    "surname": "Oosthuizen",
+    "married": "Oosthuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3600,
+      1400
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3601,
+      3602,
+      3603,
+      3604,
+      3605,
+      3606,
+      3607
+    ],
+    "parentUnions": [
+      "F873"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3600,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 1400,
+        "unionId": "F873",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000219914930865@",
+    "geniId": "6000000219914930865",
+    "rfn": "geni:6000000219914930865",
+    "changed": "09 MAR 2026"
+  },
+  "page": {
+    "route": "people/3608/",
+    "canonical": "https://www.genepedia.org/people/3608/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

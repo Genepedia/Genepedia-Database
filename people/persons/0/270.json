@@ -1,0 +1,131 @@
+{
+  "id": 270,
+  "schema": "genepedia/person@1",
+  "slug": "joan-olga-cooper",
+  "names": {
+    "display": "Joan Olga Cooper",
+    "given": "Joan Olga",
+    "surname": "Cooper",
+    "married": "Bicanovsky",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 AUG 1948",
+      "year": 1948,
+      "iso": "1948-08-09",
+      "precision": "exact",
+      "display": "August 9, 1948",
+      "place": null
+    },
+    "death": {
+      "date": "BEF 14 JUN 2018",
+      "year": 2018,
+      "iso": "2018-06-14",
+      "precision": "before",
+      "display": "before June 14, 2018",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/dc/9b/7d/75/5344486641a1db8c/screenshot_2024-07-24_223124_original.jpg?hash=395ebfb8086e083d7463e496cbfb7611036a9d81fb59822252d7e79a5f73fa65.1789455599",
+      "alt": "Joan Olga Cooper"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/dc/9b/7d/75/5344486641a1db8c/screenshot_2024-07-24_223124_original.jpg?hash=395ebfb8086e083d7463e496cbfb7611036a9d81fb59822252d7e79a5f73fa65.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      269,
+      268
+    ],
+    "spouses": [
+      689
+    ],
+    "exSpouses": [],
+    "children": [
+      690
+    ],
+    "siblings": [
+      271,
+      101,
+      272
+    ],
+    "parentUnions": [
+      "F87"
+    ],
+    "spouseUnions": [
+      "F193"
+    ],
+    "parentLinks": [
+      {
+        "id": 269,
+        "unionId": "F87",
+        "type": "biological"
+      },
+      {
+        "id": 268,
+        "unionId": "F87",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 689,
+        "unionId": "F193",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 690,
+        "unionId": "F193",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207589673822@",
+    "geniId": "6000000207589673822",
+    "rfn": "geni:6000000207589673822",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/270/",
+    "canonical": "https://www.genepedia.org/people/270/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

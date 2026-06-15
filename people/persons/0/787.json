@@ -1,0 +1,160 @@
+{
+  "id": 787,
+  "schema": "genepedia/person@1",
+  "slug": "agatha-mupombwa",
+  "names": {
+    "display": "Agatha Mupombwa",
+    "given": "Agatha",
+    "surname": "Mupombwa",
+    "married": "Kadzunga",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1980",
+      "year": 1980,
+      "iso": "1980",
+      "precision": "exact",
+      "display": "1980",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      785,
+      784
+    ],
+    "spouses": [
+      1809,
+      1812
+    ],
+    "exSpouses": [],
+    "children": [
+      1810,
+      1811,
+      1813,
+      1814,
+      1815
+    ],
+    "siblings": [
+      307,
+      786,
+      788,
+      789
+    ],
+    "parentUnions": [
+      "F218"
+    ],
+    "spouseUnions": [
+      "F478",
+      "F479"
+    ],
+    "parentLinks": [
+      {
+        "id": 785,
+        "unionId": "F218",
+        "type": "biological"
+      },
+      {
+        "id": 784,
+        "unionId": "F218",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1809,
+        "unionId": "F478",
+        "role": "partner"
+      },
+      {
+        "id": 1812,
+        "unionId": "F479",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1810,
+        "unionId": "F478",
+        "type": "biological"
+      },
+      {
+        "id": 1811,
+        "unionId": "F478",
+        "type": "biological"
+      },
+      {
+        "id": 1813,
+        "unionId": "F479",
+        "type": "biological"
+      },
+      {
+        "id": 1814,
+        "unionId": "F479",
+        "type": "biological"
+      },
+      {
+        "id": 1815,
+        "unionId": "F479",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207539619826@",
+    "geniId": "6000000207539619826",
+    "rfn": "geni:6000000207539619826",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/787/",
+    "canonical": "https://www.genepedia.org/people/787/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

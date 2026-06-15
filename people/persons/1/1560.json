@@ -1,0 +1,130 @@
+{
+  "id": 1560,
+  "schema": "genepedia/person@1",
+  "slug": "martha-jacomina-meyer",
+  "names": {
+    "display": "Martha Jacomina Meyer",
+    "given": "Martha Jacomina",
+    "surname": "van Niekerk",
+    "married": "Meyer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 NOV 1906",
+      "year": 1906,
+      "iso": "1906-11-19",
+      "precision": "exact",
+      "display": "November 19, 1906",
+      "place": "Bloemhof, NW, South Africa",
+      "location": {
+        "label": "Bloemhof, NW, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      630,
+      1559
+    ],
+    "spouses": [
+      4134,
+      4135
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1561,
+      1562,
+      1563,
+      1564,
+      1565,
+      1566
+    ],
+    "parentUnions": [
+      "F397"
+    ],
+    "spouseUnions": [
+      "F956",
+      "F957"
+    ],
+    "parentLinks": [
+      {
+        "id": 630,
+        "unionId": "F397",
+        "type": "biological"
+      },
+      {
+        "id": 1559,
+        "unionId": "F397",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4134,
+        "unionId": "F956",
+        "role": "partner"
+      },
+      {
+        "id": 4135,
+        "unionId": "F957",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000176421701901@",
+    "geniId": "6000000176421701901",
+    "rfn": "geni:6000000176421701901",
+    "changed": "17 JUN 2021"
+  },
+  "page": {
+    "route": "people/1560/",
+    "canonical": "https://www.genepedia.org/people/1560/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

@@ -1,0 +1,197 @@
+{
+  "id": 3821,
+  "schema": "genepedia/person@1",
+  "slug": "charles-peter-herbert",
+  "names": {
+    "display": "Charles Peter Herbert",
+    "given": "Charles Peter",
+    "surname": "Herbert",
+    "married": "Herbert",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1847",
+      "year": 1847,
+      "iso": "1847",
+      "precision": "about",
+      "display": "about 1847",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 AUG 1911",
+      "year": 1911,
+      "iso": "1911-08-04",
+      "precision": "exact",
+      "display": "August 4, 1911",
+      "place": "Syferwater, Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Syferwater, Calvinia, Northern Cape, South Africa",
+        "placeName": "Syferwater",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3820
+    ],
+    "exSpouses": [],
+    "children": [
+      3822,
+      1444,
+      3823,
+      3824,
+      3825,
+      3826,
+      3827,
+      3828,
+      3829,
+      3830,
+      3831,
+      3832
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F908"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3820,
+        "unionId": "F908",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3822,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 1444,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3823,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3824,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3825,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3826,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3827,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3828,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3829,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3830,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3831,
+        "unionId": "F908",
+        "type": "biological"
+      },
+      {
+        "id": 3832,
+        "unionId": "F908",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000172235571935@",
+    "geniId": "6000000172235571935",
+    "rfn": "geni:6000000172235571935",
+    "changed": "09 OCT 2024"
+  },
+  "page": {
+    "route": "people/3821/",
+    "canonical": "https://www.genepedia.org/people/3821/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

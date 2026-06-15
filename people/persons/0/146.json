@@ -1,0 +1,183 @@
+{
+  "id": 146,
+  "schema": "genepedia/person@1",
+  "slug": "jane-ann-roselt",
+  "names": {
+    "display": "Jane Ann Roselt",
+    "given": "Jane Ann",
+    "surname": "Roselt",
+    "married": "Pienaar",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 FEB 1929",
+      "year": 1929,
+      "iso": "1929-02-08",
+      "precision": "exact",
+      "display": "February 8, 1929",
+      "place": null
+    },
+    "death": {
+      "date": "12 JUN 2011",
+      "year": 2011,
+      "iso": "2011-06-12",
+      "precision": "exact",
+      "display": "June 12, 2011",
+      "place": null
+    },
+    "baptism": {
+      "date": "7 MAR 1929",
+      "year": 1929,
+      "iso": "1929-03-07",
+      "precision": "exact",
+      "display": "March 7, 1929",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "NG Kerk, Kimberley, Northern Cape, South Africa",
+      "location": {
+        "label": "NG Kerk, Kimberley, Northern Cape, South Africa",
+        "placeName": "NG Kerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "Du Toitspan",
+        "city": "Kimberley",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e4/7e/cd/a8/53444840cc1ffa71/jane_anne_pienaar_original.jpg?hash=4ccb457bec76f0616fdb20a1347f8a03048dcba0c7ecbbcb23f444c32efe224a.1789455599",
+      "alt": "Jane Ann Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e4/7e/cd/a8/53444840cc1ffa71/jane_anne_pienaar_original.jpg?hash=4ccb457bec76f0616fdb20a1347f8a03048dcba0c7ecbbcb23f444c32efe224a.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/6e/d9/86/8f/53444840c04ea4bb/foto_11_troue_bruid_se_familie_saam_met_bruidspaar_jane_roselt_pienaar_original.jpg?hash=32a18329ca0fd0e22297d249e37f7f123c622f3642ff10a5a9cb3d276f996694.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      138,
+      139
+    ],
+    "spouses": [
+      398
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      40,
+      147,
+      148
+    ],
+    "parentUnions": [
+      "F47"
+    ],
+    "spouseUnions": [
+      "F124"
+    ],
+    "parentLinks": [
+      {
+        "id": 138,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 139,
+        "unionId": "F47",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 398,
+        "unionId": "F124",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028170611778@",
+    "geniId": "6000000028170611778",
+    "rfn": "geni:6000000028170611778",
+    "changed": "07 JUN 2023"
+  },
+  "page": {
+    "route": "people/146/",
+    "canonical": "https://www.genepedia.org/people/146/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

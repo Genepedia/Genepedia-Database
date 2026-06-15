@@ -1,0 +1,92 @@
+{
+  "id": 2548,
+  "schema": "genepedia/person@1",
+  "slug": "anna-barbara-human",
+  "names": {
+    "display": "Anna Barbara Human",
+    "given": "Anna Barbara",
+    "surname": "Human",
+    "married": "Human",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1037,
+      2545
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2546,
+      2547,
+      2549,
+      2550,
+      2551,
+      2552
+    ],
+    "parentUnions": [
+      "F632"
+    ],
+    "spouseUnions": [
+      "F1562"
+    ],
+    "parentLinks": [
+      {
+        "id": 1037,
+        "unionId": "F632",
+        "type": "biological"
+      },
+      {
+        "id": 2545,
+        "unionId": "F632",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040045451154@",
+    "geniId": "6000000040045451154",
+    "rfn": "geni:6000000040045451154",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/2548/",
+    "canonical": "https://www.genepedia.org/people/2548/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

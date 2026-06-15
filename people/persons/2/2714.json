@@ -1,0 +1,202 @@
+{
+  "id": 2714,
+  "schema": "genepedia/person@1",
+  "slug": "anna-elizabeth-benade",
+  "names": {
+    "display": "Anna Elizabeth Benade",
+    "given": "Anna Elizabeth",
+    "surname": "Benade",
+    "married": "de Beer",
+    "nick": "de Beer",
+    "aliases": [
+      "Anna Elizabeth De Beer (Benade)"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 AUG 1813",
+      "year": 1813,
+      "iso": "1813-08-24",
+      "precision": "exact",
+      "display": "August 24, 1813",
+      "place": "Graaff Reinet, Kaap",
+      "location": {
+        "label": "Graaff Reinet, Kaap",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaff Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaap",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "25 SEP 1895",
+      "year": 1895,
+      "iso": "1895-09-25",
+      "precision": "exact",
+      "display": "September 25, 1895",
+      "place": null
+    },
+    "baptism": {
+      "date": "12 SEP 1813",
+      "year": 1813,
+      "iso": "1813-09-12",
+      "precision": "exact",
+      "display": "September 12, 1813",
+      "place": "Graaf Reinet, Kaap",
+      "location": {
+        "label": "Graaf Reinet, Kaap",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graaf Reinet",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Kaap",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/fb/3d/26/09/5344483a10d2c1f4/voortrekker_stammoeder_original.jpg?hash=d489e3531b83301013d29e4f552b62229d7824ebaecfdfd99588acf140c62d2f.1789455599",
+      "alt": "Anna Elizabeth Benade"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/fb/3d/26/09/5344483a10d2c1f4/voortrekker_stammoeder_original.jpg?hash=d489e3531b83301013d29e4f552b62229d7824ebaecfdfd99588acf140c62d2f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2715
+    ],
+    "exSpouses": [],
+    "children": [
+      2716,
+      2717,
+      2718,
+      2719,
+      2720,
+      2721,
+      2722,
+      2723,
+      1094
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1679"
+    ],
+    "spouseUnions": [
+      "F670"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2715,
+        "unionId": "F670",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2716,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2717,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2718,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2719,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2720,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2721,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2722,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 2723,
+        "unionId": "F670",
+        "type": "biological"
+      },
+      {
+        "id": 1094,
+        "unionId": "F670",
+        "type": "adopted"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000011811554210@",
+    "geniId": "6000000011811554210",
+    "rfn": "geni:6000000011811554210",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2714/",
+    "canonical": "https://www.genepedia.org/people/2714/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

@@ -1,0 +1,118 @@
+{
+  "id": 3844,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-tromp-augustyn",
+  "names": {
+    "display": "Johannes Tromp Augustyn",
+    "given": "Johannes Tromp",
+    "surname": "Augustyn",
+    "married": "Augustyn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 JUL 1896",
+      "year": 1896,
+      "iso": "1896-07-14",
+      "precision": "exact",
+      "display": "July 14, 1896",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "13 SEP 1896",
+      "year": 1896,
+      "iso": "1896-09-13",
+      "precision": "exact",
+      "display": "September 13, 1896",
+      "place": "Fraserburg, NC, South Africa",
+      "location": {
+        "label": "Fraserburg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fraserburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3841,
+      3842
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3843,
+      1460,
+      3845,
+      3846
+    ],
+    "parentUnions": [
+      "F912"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3841,
+        "unionId": "F912",
+        "type": "biological"
+      },
+      {
+        "id": 3842,
+        "unionId": "F912",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000130237192236@",
+    "geniId": "6000000130237192236",
+    "rfn": "geni:6000000130237192236",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/3844/",
+    "canonical": "https://www.genepedia.org/people/3844/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

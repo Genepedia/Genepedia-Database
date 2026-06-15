@@ -1,0 +1,128 @@
+{
+  "id": 1378,
+  "schema": "genepedia/person@1",
+  "slug": "ansorie-prinsloo",
+  "names": {
+    "display": "Ansorie Prinsloo",
+    "given": "Ansorie",
+    "surname": "Haasbroek",
+    "married": "Prinsloo",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "10 JUN 1983",
+      "year": 1983,
+      "iso": "1983-06-10",
+      "precision": "exact",
+      "display": "June 10, 1983",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/20/e2/dd/e1/5344486602b2f8ce/213786955_3721271334644608_5790965039080602056_n_original.jpg?hash=a027c3e5dd00d145b997bb43311ddf155f064be9daed56bb43a800c72366439e.1789455599",
+      "alt": "Ansorie Prinsloo"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/20/e2/dd/e1/5344486602b2f8ce/213786955_3721271334644608_5790965039080602056_n_original.jpg?hash=a027c3e5dd00d145b997bb43311ddf155f064be9daed56bb43a800c72366439e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1377,
+      561
+    ],
+    "spouses": [
+      3458
+    ],
+    "exSpouses": [],
+    "children": [
+      3459,
+      3460
+    ],
+    "siblings": [
+      1379
+    ],
+    "parentUnions": [
+      "F355"
+    ],
+    "spouseUnions": [
+      "F852"
+    ],
+    "parentLinks": [
+      {
+        "id": 1377,
+        "unionId": "F355",
+        "type": "biological"
+      },
+      {
+        "id": 561,
+        "unionId": "F355",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3458,
+        "unionId": "F852",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3459,
+        "unionId": "F852",
+        "type": "biological"
+      },
+      {
+        "id": 3460,
+        "unionId": "F852",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206533600862@",
+    "geniId": "6000000206533600862",
+    "rfn": "geni:6000000206533600862",
+    "changed": "17 JUN 2024"
+  },
+  "page": {
+    "route": "people/1378/",
+    "canonical": "https://www.genepedia.org/people/1378/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

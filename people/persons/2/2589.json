@@ -1,0 +1,122 @@
+{
+  "id": 2589,
+  "schema": "genepedia/person@1",
+  "slug": "anne-magdalena-johanna-pringle",
+  "names": {
+    "display": "Anne Magdalena Johanna Pringle",
+    "given": "Anne Magdalena Johanna",
+    "surname": "Pringle",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 JUL 1856",
+      "year": 1856,
+      "iso": "1856-07-15",
+      "precision": "exact",
+      "display": "July 15, 1856",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "AFT 1895",
+      "year": 1895,
+      "iso": "1895",
+      "precision": "after",
+      "display": "after 1895",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2585,
+      1064
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2586,
+      2587,
+      2588,
+      2590,
+      2591,
+      2592
+    ],
+    "parentUnions": [
+      "F641"
+    ],
+    "spouseUnions": [
+      "F1583"
+    ],
+    "parentLinks": [
+      {
+        "id": 2585,
+        "unionId": "F641",
+        "type": "biological"
+      },
+      {
+        "id": 1064,
+        "unionId": "F641",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057007149098@",
+    "geniId": "6000000057007149098",
+    "rfn": "geni:6000000057007149098",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/2589/",
+    "canonical": "https://www.genepedia.org/people/2589/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

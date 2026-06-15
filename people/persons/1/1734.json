@@ -1,0 +1,135 @@
+{
+  "id": 1734,
+  "schema": "genepedia/person@1",
+  "slug": "clement-andrew-quinn",
+  "names": {
+    "display": "Clement Andrew Quinn",
+    "given": "Clement Andrew",
+    "surname": "Quinn",
+    "married": "Quinn",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 MAR 1882",
+      "year": 1882,
+      "iso": "1882-03-27",
+      "precision": "exact",
+      "display": "March 27, 1882",
+      "place": null
+    },
+    "death": {
+      "date": "21 AUG 1968",
+      "year": 1968,
+      "iso": "1968-08-21",
+      "precision": "exact",
+      "display": "August 21, 1968",
+      "place": "Fort Beaufort, South Africa",
+      "location": {
+        "label": "Fort Beaufort, South Africa",
+        "placeName": "Fort Beaufort, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1733,
+      1732
+    ],
+    "spouses": [
+      4432
+    ],
+    "exSpouses": [],
+    "children": [
+      4433
+    ],
+    "siblings": [
+      1735,
+      1736,
+      723
+    ],
+    "parentUnions": [
+      "F455"
+    ],
+    "spouseUnions": [
+      "F1051"
+    ],
+    "parentLinks": [
+      {
+        "id": 1733,
+        "unionId": "F455",
+        "type": "biological"
+      },
+      {
+        "id": 1732,
+        "unionId": "F455",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4432,
+        "unionId": "F1051",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4433,
+        "unionId": "F1051",
+        "type": "adopted"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000060521057821@",
+    "geniId": "6000000060521057821",
+    "rfn": "geni:6000000060521057821",
+    "changed": "08 APR 2024"
+  },
+  "page": {
+    "route": "people/1734/",
+    "canonical": "https://www.genepedia.org/people/1734/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

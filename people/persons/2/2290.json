@@ -1,0 +1,91 @@
+{
+  "id": 2290,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-ann-mentasti",
+  "names": {
+    "display": "Elizabeth Ann Mentasti",
+    "given": "Elizabeth Ann",
+    "surname": "Mullaney",
+    "married": "Mentasti",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 FEB 1915",
+      "year": 1915,
+      "iso": "1915-02-13",
+      "precision": "exact",
+      "display": "February 13, 1915",
+      "place": null
+    },
+    "death": {
+      "date": "1992",
+      "year": 1992,
+      "iso": "1992",
+      "precision": "exact",
+      "display": "1992",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      920
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F581"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 920,
+        "unionId": "F581",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000081384547022@",
+    "geniId": "6000000081384547022",
+    "rfn": "geni:6000000081384547022",
+    "changed": "19 AUG 2018"
+  },
+  "page": {
+    "route": "people/2290/",
+    "canonical": "https://www.genepedia.org/people/2290/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

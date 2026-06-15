@@ -1,0 +1,132 @@
+{
+  "id": 2313,
+  "schema": "genepedia/person@1",
+  "slug": "casper-jeremias-cloete",
+  "names": {
+    "display": "Casper Jeremias Cloete",
+    "given": "Casper Jeremias",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "7 FEB 1963",
+      "year": 1963,
+      "iso": "1963-02-07",
+      "precision": "exact",
+      "display": "February 7, 1963",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "2 JUN 1963",
+      "year": 1963,
+      "iso": "1963-06-02",
+      "precision": "exact",
+      "display": "June 2, 1963",
+      "place": "Johannesburg",
+      "location": {
+        "label": "Johannesburg",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/9e/0c/96/83/534448619360ce11/record-image__original.jpg?hash=7130902714e633645c36a32e281e0baf016fd64bbd65a5e5cba468f47c97ad4c.1789455599",
+      "alt": "Casper Jeremias Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/9e/0c/96/83/534448619360ce11/record-image__original.jpg?hash=7130902714e633645c36a32e281e0baf016fd64bbd65a5e5cba468f47c97ad4c.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      924,
+      2310
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2311,
+      2312,
+      2314,
+      2315
+    ],
+    "parentUnions": [
+      "F586"
+    ],
+    "spouseUnions": [
+      "F1431"
+    ],
+    "parentLinks": [
+      {
+        "id": 924,
+        "unionId": "F586",
+        "type": "biological"
+      },
+      {
+        "id": 2310,
+        "unionId": "F586",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000017182802512@",
+    "geniId": "6000000017182802512",
+    "rfn": "geni:6000000017182802512",
+    "changed": "13 JUL 2024"
+  },
+  "page": {
+    "route": "people/2313/",
+    "canonical": "https://www.genepedia.org/people/2313/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,107 @@
+{
+  "id": 4701,
+  "schema": "genepedia/person@1",
+  "slug": "gert-jacobus-peens",
+  "names": {
+    "display": "Gert Jacobus Peens",
+    "given": "Gert Jacobus",
+    "surname": "Peens",
+    "married": "Peens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 AUG 1899",
+      "year": 1899,
+      "iso": "1899-08-22",
+      "precision": "exact",
+      "display": "August 22, 1899",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "3 DEC 1899",
+      "year": 1899,
+      "iso": "1899-12-03",
+      "precision": "exact",
+      "display": "December 3, 1899",
+      "place": "Boshof, Free State, South Africa",
+      "location": {
+        "label": "Boshof, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1869
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1121"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1869,
+        "unionId": "F1121",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066262533264@",
+    "geniId": "6000000066262533264",
+    "rfn": "geni:6000000066262533264",
+    "changed": "02 SEP 2017"
+  },
+  "page": {
+    "route": "people/4701/",
+    "canonical": "https://www.genepedia.org/people/4701/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

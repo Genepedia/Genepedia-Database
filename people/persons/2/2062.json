@@ -1,0 +1,94 @@
+{
+  "id": 2062,
+  "schema": "genepedia/person@1",
+  "slug": "maria-magdalena-janse-van-rensburg",
+  "names": {
+    "display": "Maria Magdalena Janse van Rensburg",
+    "given": "Maria Magdalena",
+    "surname": "Bester",
+    "married": "Janse van Rensburg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "27 APR 1954",
+      "year": 1954,
+      "iso": "1954-04-27",
+      "precision": "exact",
+      "display": "April 27, 1954",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      846,
+      2061
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2063
+    ],
+    "parentUnions": [
+      "F535"
+    ],
+    "spouseUnions": [
+      "F1273"
+    ],
+    "parentLinks": [
+      {
+        "id": 846,
+        "unionId": "F535",
+        "type": "biological"
+      },
+      {
+        "id": 2061,
+        "unionId": "F535",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066577544977@",
+    "geniId": "6000000066577544977",
+    "rfn": "geni:6000000066577544977",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/2062/",
+    "canonical": "https://www.genepedia.org/people/2062/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

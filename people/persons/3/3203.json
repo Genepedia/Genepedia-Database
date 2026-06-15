@@ -1,0 +1,100 @@
+{
+  "id": 3203,
+  "schema": "genepedia/person@1",
+  "slug": "albertus-lodewikus-vorster",
+  "names": {
+    "display": "Albertus Lodewikus Vorster",
+    "given": "Albertus Lodewikus",
+    "surname": "Vorster",
+    "married": "Vorster",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 AUG 1900",
+      "year": 1900,
+      "iso": "1900-08-30",
+      "precision": "exact",
+      "display": "August 30, 1900",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3196,
+      3195
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1284,
+      3197,
+      3198,
+      3199,
+      3200,
+      3201,
+      3202,
+      3204,
+      3205
+    ],
+    "parentUnions": [
+      "F787"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3196,
+        "unionId": "F787",
+        "type": "biological"
+      },
+      {
+        "id": 3195,
+        "unionId": "F787",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025542842320@",
+    "geniId": "6000000025542842320",
+    "rfn": "geni:6000000025542842320",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/3203/",
+    "canonical": "https://www.genepedia.org/people/3203/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

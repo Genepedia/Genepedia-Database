@@ -1,0 +1,119 @@
+{
+  "id": 2905,
+  "schema": "genepedia/person@1",
+  "slug": "maria-catharina-marais",
+  "names": {
+    "display": "Maria Catharina Marais",
+    "given": "Maria Catharina",
+    "surname": "Marais",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 FEB 1907",
+      "year": 1907,
+      "iso": "1907-02-07",
+      "precision": "exact",
+      "display": "February 7, 1907",
+      "place": null
+    },
+    "death": {
+      "date": "16 AUG 1985",
+      "year": 1985,
+      "iso": "1985-08-16",
+      "precision": "exact",
+      "display": "August 16, 1985",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": "21 AUG 1985",
+      "year": 1985,
+      "iso": "1985-08-21",
+      "precision": "exact",
+      "display": "August 21, 1985",
+      "place": null,
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/bd/17/f7/c8/53444838c4faa0df/ouma_davis_original.jpg?hash=3d53fb00b5c1a309bb186aac53642d12ec91c5252125ab8949061bcf3fd53c20.1789455599",
+      "alt": "Maria Catharina Marais"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/bd/17/f7/c8/53444838c4faa0df/ouma_davis_original.jpg?hash=3d53fb00b5c1a309bb186aac53642d12ec91c5252125ab8949061bcf3fd53c20.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1160
+    ],
+    "exSpouses": [],
+    "children": [
+      2906
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F715"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1160,
+        "unionId": "F715",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2906,
+        "unionId": "F715",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000012223438184@",
+    "geniId": "6000000012223438184",
+    "rfn": "geni:6000000012223438184",
+    "changed": "11 FEB 2015"
+  },
+  "page": {
+    "route": "people/2905/",
+    "canonical": "https://www.genepedia.org/people/2905/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

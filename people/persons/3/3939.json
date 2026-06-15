@@ -1,0 +1,91 @@
+{
+  "id": 3939,
+  "schema": "genepedia/person@1",
+  "slug": "michael-frederick-kruger",
+  "names": {
+    "display": "Michael Frederick Kruger",
+    "given": "Michael Frederick",
+    "surname": "Kruger",
+    "married": "Kruger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1848",
+      "year": 1848,
+      "iso": "1848",
+      "precision": "about",
+      "display": "about 1848",
+      "place": null
+    },
+    "death": {
+      "date": "1915",
+      "year": 1915,
+      "iso": "1915",
+      "precision": "exact",
+      "display": "1915",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1533
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F927"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1533,
+        "unionId": "F927",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000054793834855@",
+    "geniId": "6000000054793834855",
+    "rfn": "geni:6000000054793834855",
+    "changed": "23 MAY 2022"
+  },
+  "page": {
+    "route": "people/3939/",
+    "canonical": "https://www.genepedia.org/people/3939/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

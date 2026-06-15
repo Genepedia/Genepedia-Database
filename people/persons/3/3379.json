@@ -1,0 +1,143 @@
+{
+  "id": 3379,
+  "schema": "genepedia/person@1",
+  "slug": "sophia-magerietha-van-taak",
+  "names": {
+    "display": "Sophia Magerietha van Taak",
+    "given": "Sophia Magerietha",
+    "surname": "Lombard",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "10 JAN 1947",
+      "year": 1947,
+      "iso": "1947-01-10",
+      "precision": "exact",
+      "display": "January 10, 1947",
+      "place": "Ladismith, Western Cape, South Africa",
+      "location": {
+        "label": "Ladismith, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ladismith",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Vanwyksdorp, Western Cape, South Africa",
+      "location": {
+        "label": "Vanwyksdorp, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vanwyksdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1334
+    ],
+    "exSpouses": [],
+    "children": [
+      3380,
+      3381,
+      3382
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F831"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1334,
+        "unionId": "F831",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3380,
+        "unionId": "F831",
+        "type": "biological"
+      },
+      {
+        "id": 3381,
+        "unionId": "F831",
+        "type": "biological"
+      },
+      {
+        "id": 3382,
+        "unionId": "F831",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020386946303@",
+    "geniId": "6000000020386946303",
+    "rfn": "geni:6000000020386946303",
+    "changed": "05 DEC 2016"
+  },
+  "page": {
+    "route": "people/3379/",
+    "canonical": "https://www.genepedia.org/people/3379/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

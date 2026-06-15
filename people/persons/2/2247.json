@@ -1,0 +1,91 @@
+{
+  "id": 2247,
+  "schema": "genepedia/person@1",
+  "slug": "marita-koekemoer",
+  "names": {
+    "display": "Marita Koekemoer",
+    "given": "Marita",
+    "surname": "Roselt",
+    "married": "Koekemoer",
+    "nick": "Rita",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      912,
+      2243
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2244,
+      2245,
+      2246,
+      2248,
+      2249
+    ],
+    "parentUnions": [
+      "F571"
+    ],
+    "spouseUnions": [
+      "F1389"
+    ],
+    "parentLinks": [
+      {
+        "id": 912,
+        "unionId": "F571",
+        "type": "biological"
+      },
+      {
+        "id": 2243,
+        "unionId": "F571",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036072744841@",
+    "geniId": "6000000036072744841",
+    "rfn": "geni:6000000036072744841",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2247/",
+    "canonical": "https://www.genepedia.org/people/2247/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

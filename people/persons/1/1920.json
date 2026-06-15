@@ -1,0 +1,201 @@
+{
+  "id": 1920,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-droskie",
+  "names": {
+    "display": "Anna Maria Droskie",
+    "given": "Anna Maria",
+    "surname": "Droskie",
+    "married": "Lambrecht",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 DEC 1891",
+      "year": 1891,
+      "iso": "1891-12-15",
+      "precision": "exact",
+      "display": "December 15, 1891",
+      "place": "Smithfield, FS, South Africa",
+      "location": {
+        "label": "Smithfield, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 APR 1978",
+      "year": 1978,
+      "iso": "1978-04-01",
+      "precision": "exact",
+      "display": "April 1, 1978",
+      "place": "Mooihawe, Bloemfontein, FS, South Africa",
+      "location": {
+        "label": "Mooihawe, Bloemfontein, FS, South Africa",
+        "placeName": "Mooihawe",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "24 JAN 1892",
+      "year": 1892,
+      "iso": "1892-01-24",
+      "precision": "exact",
+      "display": "January 24, 1892",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "9966",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/bc/74/e2/51/534448503155a396/huweliks_register_adriaan_johannes_hendrikus_lamprecht_en_anna_maria_droskie_25_jan_1910_smithf_original.jpg?hash=8ba8d2eb5ba3607df58c3b6fbe1ceffff50e5d3dd66d146395028ee3a31d142c.1789455599",
+      "alt": "Anna Maria Droskie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/bc/74/e2/51/534448503155a396/huweliks_register_adriaan_johannes_hendrikus_lamprecht_en_anna_maria_droskie_25_jan_1910_smithf_original.jpg?hash=8ba8d2eb5ba3607df58c3b6fbe1ceffff50e5d3dd66d146395028ee3a31d142c.1789455599",
+        "form": "",
+        "title": "Huweliks register Adriaan Johannes Hendrikus Lamprecht en Anna Maria Droskie 25 Jan 1910 Smithf.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/2b/67/88/62/5344485059bc62cb/sterfkennis_anna_maria_lamprecht_geb_droskie_15_des_1891_smithf_-_1_apr_1978_bft__original.jpg?hash=055171e84bd5c328ca89dc23ad40f991f2132ecf27513923cfec929c2cc75156.1789455599",
+        "form": "",
+        "title": "Sterfkennis Anna Maria Lamprecht (Geb Droskie) (15 Des 1891 Smithf - 1 Apr 1978 Bft).jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1916,
+      817
+    ],
+    "spouses": [
+      4937
+    ],
+    "exSpouses": [],
+    "children": [
+      4938,
+      4939
+    ],
+    "siblings": [
+      1917,
+      1918,
+      1919,
+      1921,
+      1922
+    ],
+    "parentUnions": [
+      "F506"
+    ],
+    "spouseUnions": [
+      "F1172"
+    ],
+    "parentLinks": [
+      {
+        "id": 1916,
+        "unionId": "F506",
+        "type": "biological"
+      },
+      {
+        "id": 817,
+        "unionId": "F506",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4937,
+        "unionId": "F1172",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4938,
+        "unionId": "F1172",
+        "type": "biological"
+      },
+      {
+        "id": 4939,
+        "unionId": "F1172",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066760895863@",
+    "geniId": "6000000066760895863",
+    "rfn": "geni:6000000066760895863",
+    "changed": "26 NOV 2019"
+  },
+  "page": {
+    "route": "people/1920/",
+    "canonical": "https://www.genepedia.org/people/1920/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

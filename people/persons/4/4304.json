@@ -1,0 +1,173 @@
+{
+  "id": 4304,
+  "schema": "genepedia/person@1",
+  "slug": "robert-smith-4304",
+  "names": {
+    "display": "Robert Smith",
+    "given": "Robert",
+    "surname": "Smith",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 FEB 1835",
+      "year": 1835,
+      "iso": "1835-02-18",
+      "precision": "exact",
+      "display": "February 18, 1835",
+      "place": "Kirby Misperton, North Yorkshire, UK",
+      "location": {
+        "label": "Kirby Misperton, North Yorkshire, UK",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kirby Misperton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North Yorkshire",
+        "country": "UK",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 JUL 1920",
+      "year": 1920,
+      "iso": "1920-07-20",
+      "precision": "exact",
+      "display": "July 20, 1920",
+      "place": "Pietermaritzburg, KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Pietermaritzburg, KwaZulu-Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pietermaritzburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KwaZulu-Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "KwaZulu-Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KwaZulu-Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/14/12/ef/36/5344483992e600bb/robert_smith_jnr_original.jpg?hash=3d2e76526c156976641fb97855832faab390f77e1f9c246387069e237b1c9758.1789455599",
+      "alt": "Robert Smith"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/14/12/ef/36/5344483992e600bb/robert_smith_jnr_original.jpg?hash=3d2e76526c156976641fb97855832faab390f77e1f9c246387069e237b1c9758.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4302,
+      4301
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4303,
+      4305,
+      1629,
+      4306,
+      4307,
+      4308,
+      4309
+    ],
+    "parentUnions": [
+      "F1013"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4302,
+        "unionId": "F1013",
+        "type": "biological"
+      },
+      {
+        "id": 4301,
+        "unionId": "F1013",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000015665438931@",
+    "geniId": "6000000015665438931",
+    "rfn": "geni:6000000015665438931",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/4304/",
+    "canonical": "https://www.genepedia.org/people/4304/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

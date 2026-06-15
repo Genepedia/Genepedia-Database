@@ -1,0 +1,162 @@
+{
+  "id": 823,
+  "schema": "genepedia/person@1",
+  "slug": "william-adriaan-van-der-walt",
+  "names": {
+    "display": "William Adriaan van der Walt",
+    "given": "William Adriaan",
+    "surname": "van der Walt",
+    "married": "van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 JUN 1879",
+      "year": 1879,
+      "iso": "1879-06-11",
+      "precision": "exact",
+      "display": "June 11, 1879",
+      "place": null
+    },
+    "death": {
+      "date": "12 APR 1957",
+      "year": 1957,
+      "iso": "1957-04-12",
+      "precision": "exact",
+      "display": "April 12, 1957",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      821,
+      820
+    ],
+    "spouses": [
+      1983,
+      1990
+    ],
+    "exSpouses": [],
+    "children": [
+      1984,
+      1985,
+      1986,
+      1987,
+      1988,
+      1989
+    ],
+    "siblings": [
+      332,
+      822,
+      824,
+      825,
+      826,
+      827,
+      828,
+      829,
+      830
+    ],
+    "parentUnions": [
+      "F229"
+    ],
+    "spouseUnions": [
+      "F515",
+      "F516"
+    ],
+    "parentLinks": [
+      {
+        "id": 821,
+        "unionId": "F229",
+        "type": "biological"
+      },
+      {
+        "id": 820,
+        "unionId": "F229",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1983,
+        "unionId": "F515",
+        "role": "wife"
+      },
+      {
+        "id": 1990,
+        "unionId": "F516",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1984,
+        "unionId": "F515",
+        "type": "biological"
+      },
+      {
+        "id": 1985,
+        "unionId": "F515",
+        "type": "biological"
+      },
+      {
+        "id": 1986,
+        "unionId": "F515",
+        "type": "biological"
+      },
+      {
+        "id": 1987,
+        "unionId": "F515",
+        "type": "biological"
+      },
+      {
+        "id": 1988,
+        "unionId": "F515",
+        "type": "biological"
+      },
+      {
+        "id": 1989,
+        "unionId": "F515",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000041508047544@",
+    "geniId": "6000000041508047544",
+    "rfn": "geni:6000000041508047544",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/823/",
+    "canonical": "https://www.genepedia.org/people/823/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

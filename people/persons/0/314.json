@@ -1,0 +1,122 @@
+{
+  "id": 314,
+  "schema": "genepedia/person@1",
+  "slug": "tammy-brown",
+  "names": {
+    "display": "Tammy Brown",
+    "given": "Tammy",
+    "surname": "Brown",
+    "married": "Brown",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/fb/e4/18/ba/53444866573ad16f/screenshot_2024-08-07_140142_original.jpg?hash=3674bd1c5ee7dc22e33e775e9f2b97395d931a3dd9aea0d30352a033a2a958e0.1789455599",
+      "alt": "Tammy Brown"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/fb/e4/18/ba/53444866573ad16f/screenshot_2024-08-07_140142_original.jpg?hash=3674bd1c5ee7dc22e33e775e9f2b97395d931a3dd9aea0d30352a033a2a958e0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      313,
+      115
+    ],
+    "spouses": [
+      800
+    ],
+    "exSpouses": [],
+    "children": [
+      801,
+      802
+    ],
+    "siblings": [
+      315,
+      316
+    ],
+    "parentUnions": [
+      "F101"
+    ],
+    "spouseUnions": [
+      "F223"
+    ],
+    "parentLinks": [
+      {
+        "id": 313,
+        "unionId": "F101",
+        "type": "biological"
+      },
+      {
+        "id": 115,
+        "unionId": "F101",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 800,
+        "unionId": "F223",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 801,
+        "unionId": "F223",
+        "type": "biological"
+      },
+      {
+        "id": 802,
+        "unionId": "F223",
+        "type": "adopted"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207946002833@",
+    "geniId": "6000000207946002833",
+    "rfn": "geni:6000000207946002833",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/314/",
+    "canonical": "https://www.genepedia.org/people/314/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

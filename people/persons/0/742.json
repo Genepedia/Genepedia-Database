@@ -1,0 +1,87 @@
+{
+  "id": 742,
+  "schema": "genepedia/person@1",
+  "slug": "chalamange-louis-lurie",
+  "names": {
+    "display": "Chalamange Louis Lurie",
+    "given": "Chalamange Louis",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      299,
+      740
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      741,
+      743,
+      744
+    ],
+    "parentUnions": [
+      "F209"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 299,
+        "unionId": "F209",
+        "type": "biological"
+      },
+      {
+        "id": 740,
+        "unionId": "F209",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204149484831@",
+    "geniId": "6000000204149484831",
+    "rfn": "geni:6000000204149484831",
+    "changed": "20 JAN 2025"
+  },
+  "page": {
+    "route": "people/742/",
+    "canonical": "https://www.genepedia.org/people/742/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

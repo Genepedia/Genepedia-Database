@@ -1,0 +1,133 @@
+{
+  "id": 4314,
+  "schema": "genepedia/person@1",
+  "slug": "william-lodge-4314",
+  "names": {
+    "display": "William Lodge",
+    "given": "William",
+    "surname": "Lodge",
+    "married": "Lodge",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1839",
+      "year": 1839,
+      "iso": "1839",
+      "precision": "about",
+      "display": "about 1839",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 JAN 1861",
+      "year": 1861,
+      "iso": "1861-01-16",
+      "precision": "exact",
+      "display": "January 16, 1861",
+      "place": "Howick, KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Howick, KwaZulu-Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Howick",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KwaZulu-Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4312,
+      4313
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1630,
+      4315,
+      4316
+    ],
+    "parentUnions": [
+      "F1015"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4312,
+        "unionId": "F1015",
+        "type": "biological"
+      },
+      {
+        "id": 4313,
+        "unionId": "F1015",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036783539853@",
+    "geniId": "6000000036783539853",
+    "rfn": "geni:6000000036783539853",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/4314/",
+    "canonical": "https://www.genepedia.org/people/4314/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

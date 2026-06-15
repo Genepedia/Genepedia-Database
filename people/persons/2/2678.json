@@ -1,0 +1,121 @@
+{
+  "id": 2678,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-pretorius-2678",
+  "names": {
+    "display": "Petrus Johannes Pretorius",
+    "given": "Petrus Johannes",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 NOV 1895",
+      "year": 1895,
+      "iso": "1895-11-13",
+      "precision": "exact",
+      "display": "November 13, 1895",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "14 JUN 1896",
+      "year": 1896,
+      "iso": "1896-06-14",
+      "precision": "exact",
+      "display": "June 14, 1896",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2675,
+      1076
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2676,
+      2677,
+      2679,
+      2680,
+      2681,
+      2682,
+      2683
+    ],
+    "parentUnions": [
+      "F655"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2675,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 1076,
+        "unionId": "F655",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057261255251@",
+    "geniId": "6000000057261255251",
+    "rfn": "geni:6000000057261255251",
+    "changed": "06 AUG 2025"
+  },
+  "page": {
+    "route": "people/2678/",
+    "canonical": "https://www.genepedia.org/people/2678/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

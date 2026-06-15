@@ -1,0 +1,194 @@
+{
+  "id": 1128,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-hendrik-fourie",
+  "names": {
+    "display": "Daniel Johannes Hendrik Fourie",
+    "given": "Daniel Johannes Hendrik",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 DEC 1890",
+      "year": 1890,
+      "iso": "1890-12-31",
+      "precision": "exact",
+      "display": "December 31, 1890",
+      "place": null
+    },
+    "death": {
+      "date": "5 FEB 1935",
+      "year": 1935,
+      "iso": "1935-02-05",
+      "precision": "exact",
+      "display": "February 5, 1935",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/42/d6/28/1f/5344483acb87a0c2/great_grandfather_fourie_original.jpg?hash=20cb7ad6a81299cb4b322008ccf2681a16b5265acd0337927315ad686d9c33af.1789455599",
+      "alt": "Daniel Johannes Hendrik Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/42/d6/28/1f/5344483acb87a0c2/great_grandfather_fourie_original.jpg?hash=20cb7ad6a81299cb4b322008ccf2681a16b5265acd0337927315ad686d9c33af.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/8e/5c/29/64/5344485e52011ebc/oupah_original.jpg?hash=3e14afc779c75c529376e978c1ca97ae50b9903f1f6d344943ffda44e04f8c9d.1789455599",
+        "form": "",
+        "title": "Later Photo",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/24/cb/7c/5c/534448471fef4381/oupa_hennie_original.jpg?hash=045ab7d6ca35c5c9fb46a9e25c8239fe62fa358f55e8b9471bc678ab6f016dee.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/1d/ea/80/88/534448472d230216/notice_of_marriage_original_original.jpg?hash=e015541e7a05d1359f33f0149e1f1bd65e939c9705487896c7d1795e24950522.1789455599",
+        "form": "",
+        "title": "Notice of Marriage original.JPG",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/3f/01/37/20/534448472d4a3c9a/oupa_daniel_original.jpg?hash=c33ee2c7fb8afa54376eb1540cbb5786171d76b0c830e04302a096c047982acf.1789455599",
+        "form": "",
+        "title": "Oupa Daniel.JPG",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/35/e1/92/c3/534448472d54e23d/oupa_daniel_doop_original.jpg?hash=c7ee1cbb8d189ca7f5fe87288236cefa798a44a0c77babeda974c697ebf9f23b.1789455599",
+        "form": "",
+        "title": "Oupa Daniel doop.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/d0/79/cb/ae/5344485d80fdd275/djh_original.jpg?hash=d092161524bd2e13d3a12d810b00c0013c9ef0aeba884d251c11e19aaaa01509.1789455599",
+        "form": "",
+        "title": "Death Certificate",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      441,
+      1126
+    ],
+    "spouses": [
+      2775,
+      2778
+    ],
+    "exSpouses": [],
+    "children": [
+      2776,
+      2777,
+      2779
+    ],
+    "siblings": [
+      1127,
+      1129,
+      1130,
+      1131,
+      1132
+    ],
+    "parentUnions": [
+      "F298"
+    ],
+    "spouseUnions": [
+      "F688",
+      "F689"
+    ],
+    "parentLinks": [
+      {
+        "id": 441,
+        "unionId": "F298",
+        "type": "biological"
+      },
+      {
+        "id": 1126,
+        "unionId": "F298",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2775,
+        "unionId": "F688",
+        "role": "partner"
+      },
+      {
+        "id": 2778,
+        "unionId": "F689",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2776,
+        "unionId": "F688",
+        "type": "biological"
+      },
+      {
+        "id": 2777,
+        "unionId": "F688",
+        "type": "biological"
+      },
+      {
+        "id": 2779,
+        "unionId": "F689",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000018878508375@",
+    "geniId": "6000000018878508375",
+    "rfn": "geni:6000000018878508375",
+    "changed": "02 SEP 2022"
+  },
+  "page": {
+    "route": "people/1128/",
+    "canonical": "https://www.genepedia.org/people/1128/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

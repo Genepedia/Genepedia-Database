@@ -1,0 +1,191 @@
+{
+  "id": 3380,
+  "schema": "genepedia/person@1",
+  "slug": "adel-van-taak",
+  "names": {
+    "display": "Adél van Taak",
+    "given": "Adél",
+    "surname": "van Taak",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 APR 1975",
+      "year": 1975,
+      "iso": "1975-04-05",
+      "precision": "exact",
+      "display": "April 5, 1975",
+      "place": "Paarl",
+      "location": {
+        "label": "Paarl",
+        "placeName": "Paarl",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 MAR 2000",
+      "year": 2000,
+      "iso": "2000-03-17",
+      "precision": "exact",
+      "display": "March 17, 2000",
+      "place": "Stikland, Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Stikland, Cape Town, Western Cape, South Africa",
+        "placeName": "Stikland",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Toringkerk, Paarl",
+      "location": {
+        "label": "Toringkerk, Paarl",
+        "placeName": "Toringkerk",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Drakenstein, Paarl",
+      "location": {
+        "label": "Drakenstein, Paarl",
+        "placeName": "Drakenstein",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/36/13/a2/f8/5344483ae88d4760/taak_adel_van_1975-2000_paarl_original.jpg?hash=42440cd1d0c6766670b921709ca101f59cca7211bd64931a6f072aadefe9c762.1789455599",
+      "alt": "Adél van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/36/13/a2/f8/5344483ae88d4760/taak_adel_van_1975-2000_paarl_original.jpg?hash=42440cd1d0c6766670b921709ca101f59cca7211bd64931a6f072aadefe9c762.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1334,
+      3379
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3381,
+      3382
+    ],
+    "parentUnions": [
+      "F831"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1334,
+        "unionId": "F831",
+        "type": "biological"
+      },
+      {
+        "id": 3379,
+        "unionId": "F831",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020387383825@",
+    "geniId": "6000000020387383825",
+    "rfn": "geni:6000000020387383825",
+    "changed": "19 JUL 2020"
+  },
+  "page": {
+    "route": "people/3380/",
+    "canonical": "https://www.genepedia.org/people/3380/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

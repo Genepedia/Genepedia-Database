@@ -1,0 +1,108 @@
+{
+  "id": 4501,
+  "schema": "genepedia/person@1",
+  "slug": "donna-roth",
+  "names": {
+    "display": "Donna Roth",
+    "given": "Donna",
+    "surname": "Arkoff",
+    "married": "Roth",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "19 OCT 1951",
+      "year": 1951,
+      "iso": "1951-10-19",
+      "precision": "exact",
+      "display": "October 19, 1951",
+      "place": "Los Angeles, CA, United States",
+      "location": {
+        "label": "Los Angeles, CA, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Los Angeles",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "CA",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1762,
+      4499
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4500
+    ],
+    "parentUnions": [
+      "F1068"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1762,
+        "unionId": "F1068",
+        "type": "biological"
+      },
+      {
+        "id": 4499,
+        "unionId": "F1068",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000011615557394@",
+    "geniId": "6000000011615557394",
+    "rfn": "geni:6000000011615557394",
+    "changed": "07 NOV 2024"
+  },
+  "page": {
+    "route": "people/4501/",
+    "canonical": "https://www.genepedia.org/people/4501/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

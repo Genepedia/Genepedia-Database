@@ -1,0 +1,111 @@
+{
+  "id": 3627,
+  "schema": "genepedia/person@1",
+  "slug": "levie-daniel-meintjes",
+  "names": {
+    "display": "Levie Daniel Meintjes",
+    "given": "Levie Daniel",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 OCT 1889",
+      "year": 1889,
+      "iso": "1889-10-03",
+      "precision": "exact",
+      "display": "October 3, 1889",
+      "place": null
+    },
+    "death": {
+      "date": "ABT 1898",
+      "year": 1898,
+      "iso": "1898",
+      "precision": "about",
+      "display": "about 1898",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1402,
+      3623
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3624,
+      3625,
+      3626,
+      3628,
+      3629,
+      3630,
+      3631,
+      3632,
+      3633,
+      3634,
+      3635,
+      3636,
+      3637
+    ],
+    "parentUnions": [
+      "F875"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1402,
+        "unionId": "F875",
+        "type": "biological"
+      },
+      {
+        "id": 3623,
+        "unionId": "F875",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000010578125899@",
+    "geniId": "6000000010578125899",
+    "rfn": "geni:6000000010578125899",
+    "changed": "04 FEB 2015"
+  },
+  "page": {
+    "route": "people/3627/",
+    "canonical": "https://www.genepedia.org/people/3627/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

@@ -1,0 +1,157 @@
+{
+  "id": 2917,
+  "schema": "genepedia/person@1",
+  "slug": "engela-johanna-catharina-swanepoel",
+  "names": {
+    "display": "Engela Johanna Catharina Swanepoel",
+    "given": "Engela Johanna Catharina",
+    "surname": "Swanepoel",
+    "married": "Flemming",
+    "nick": "Engela Catharina Johanna",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 DEC 1829",
+      "year": 1829,
+      "iso": "1829-12-11",
+      "precision": "exact",
+      "display": "December 11, 1829",
+      "place": "\"Biesjepoort\", South Africa",
+      "location": {
+        "label": "\"Biesjepoort\", South Africa",
+        "placeName": "\"Biesjepoort\"",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "25 JUL 1830",
+      "year": 1830,
+      "iso": "1830-07-25",
+      "precision": "exact",
+      "display": "July 25, 1830",
+      "place": "Worcester, Western Cape, South Africa",
+      "location": {
+        "label": "Worcester, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Worcester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2916
+    ],
+    "exSpouses": [],
+    "children": [
+      2918,
+      2919,
+      1166,
+      2173,
+      2920
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1822"
+    ],
+    "spouseUnions": [
+      "F718"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2916,
+        "unionId": "F718",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2918,
+        "unionId": "F718",
+        "type": "biological"
+      },
+      {
+        "id": 2919,
+        "unionId": "F718",
+        "type": "biological"
+      },
+      {
+        "id": 1166,
+        "unionId": "F718",
+        "type": "biological"
+      },
+      {
+        "id": 2173,
+        "unionId": "F718",
+        "type": "biological"
+      },
+      {
+        "id": 2920,
+        "unionId": "F718",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028101828982@",
+    "geniId": "6000000028101828982",
+    "rfn": "geni:6000000028101828982",
+    "changed": "14 APR 2025"
+  },
+  "page": {
+    "route": "people/2917/",
+    "canonical": "https://www.genepedia.org/people/2917/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

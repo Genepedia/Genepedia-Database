@@ -1,0 +1,86 @@
+{
+  "id": 716,
+  "schema": "genepedia/person@1",
+  "slug": "private-nieuwoudt",
+  "names": {
+    "display": "<private> Nieuwoudt",
+    "given": "<private>",
+    "surname": "Nieuwoudt",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      715,
+      287
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      717,
+      718
+    ],
+    "parentUnions": [
+      "F202"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 715,
+        "unionId": "F202",
+        "type": "biological"
+      },
+      {
+        "id": 287,
+        "unionId": "F202",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000080406786126@",
+    "geniId": "6000000080406786126",
+    "rfn": "geni:6000000080406786126",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/716/",
+    "canonical": "https://www.genepedia.org/people/716/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

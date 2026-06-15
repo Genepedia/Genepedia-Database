@@ -1,0 +1,180 @@
+{
+  "id": 4366,
+  "schema": "genepedia/person@1",
+  "slug": "william-george-arthur-rocky-hope",
+  "names": {
+    "display": "William George Arthur (Rocky) Hope",
+    "given": "William George Arthur (Rocky)",
+    "surname": "Hope",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 MAY 1940",
+      "year": 1940,
+      "iso": "1940-05-02",
+      "precision": "exact",
+      "display": "May 2, 1940",
+      "place": "Durban, KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Durban, KwaZulu-Natal, South Africa",
+        "placeName": "Durban, KwaZulu-Natal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 NOV 1999",
+      "year": 1999,
+      "iso": "1999-11-24",
+      "precision": "exact",
+      "display": "November 24, 1999",
+      "place": "Woodlands, Durban, KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Woodlands, Durban, KwaZulu-Natal, South Africa",
+        "placeName": "Woodlands, Durban, KwaZulu-Natal, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Stellawood Cemetery Durban",
+      "location": {
+        "label": "Stellawood Cemetery Durban",
+        "placeName": "Stellawood Cemetery Durban",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "William George Arthur (Rocky) Hope"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Graham Web Site",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Family Tree",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1689
+    ],
+    "exSpouses": [],
+    "children": [
+      4367,
+      4368
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1032"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1689,
+        "unionId": "F1032",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4367,
+        "unionId": "F1032",
+        "type": "biological"
+      },
+      {
+        "id": 4368,
+        "unionId": "F1032",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000185615686003@",
+    "geniId": "6000000185615686003",
+    "rfn": "geni:6000000185615686003",
+    "changed": "20 JUN 2022"
+  },
+  "page": {
+    "route": "people/4366/",
+    "canonical": "https://www.genepedia.org/people/4366/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

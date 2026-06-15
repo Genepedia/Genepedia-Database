@@ -1,0 +1,98 @@
+{
+  "id": 3545,
+  "schema": "genepedia/person@1",
+  "slug": "jozef-johannes-de-beer",
+  "names": {
+    "display": "Jozef Johannes De Beer",
+    "given": "Jozef Johannes",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 SEP 1889",
+      "year": 1889,
+      "iso": "1889-09-21",
+      "precision": "exact",
+      "display": "September 21, 1889",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1391,
+      3540
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3541,
+      3542,
+      3543,
+      3544,
+      3546,
+      3547,
+      3548
+    ],
+    "parentUnions": [
+      "F862"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1391,
+        "unionId": "F862",
+        "type": "biological"
+      },
+      {
+        "id": 3540,
+        "unionId": "F862",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000016030230500@",
+    "geniId": "6000000016030230500",
+    "rfn": "geni:6000000016030230500",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3545/",
+    "canonical": "https://www.genepedia.org/people/3545/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

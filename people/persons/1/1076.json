@@ -1,0 +1,177 @@
+{
+  "id": 1076,
+  "schema": "genepedia/person@1",
+  "slug": "susara-martina-aletta-elizabeth-kotze",
+  "names": {
+    "display": "Susara Martina Aletta Elizabeth Kotze",
+    "given": "Susara Martina Aletta Elizabeth",
+    "surname": "Kotze",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 NOV 1871",
+      "year": 1871,
+      "iso": "1871-11-15",
+      "precision": "exact",
+      "display": "November 15, 1871",
+      "place": null
+    },
+    "death": {
+      "date": "19 APR 1941",
+      "year": 1941,
+      "iso": "1941-04-19",
+      "precision": "exact",
+      "display": "April 19, 1941",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1075,
+      431
+    ],
+    "spouses": [
+      2675,
+      2684
+    ],
+    "exSpouses": [],
+    "children": [
+      2676,
+      2677,
+      2678,
+      2679,
+      2680,
+      2681,
+      2682,
+      2683
+    ],
+    "siblings": [
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1087,
+      1088
+    ],
+    "parentUnions": [
+      "F287"
+    ],
+    "spouseUnions": [
+      "F655",
+      "F656"
+    ],
+    "parentLinks": [
+      {
+        "id": 1075,
+        "unionId": "F287",
+        "type": "biological"
+      },
+      {
+        "id": 431,
+        "unionId": "F287",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2675,
+        "unionId": "F655",
+        "role": "husband"
+      },
+      {
+        "id": 2684,
+        "unionId": "F656",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2676,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2677,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2678,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2679,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2680,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2681,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2682,
+        "unionId": "F655",
+        "type": "biological"
+      },
+      {
+        "id": 2683,
+        "unionId": "F655",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000057261639919@",
+    "geniId": "6000000057261639919",
+    "rfn": "geni:6000000057261639919",
+    "changed": "27 AUG 2025"
+  },
+  "page": {
+    "route": "people/1076/",
+    "canonical": "https://www.genepedia.org/people/1076/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

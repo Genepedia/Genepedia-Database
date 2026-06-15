@@ -1,0 +1,171 @@
+{
+  "id": 3743,
+  "schema": "genepedia/person@1",
+  "slug": "jan-abraham-nel-3743",
+  "names": {
+    "display": "Jan Abraham Nel",
+    "given": "Jan Abraham",
+    "surname": "Nel",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 AUG 1872",
+      "year": 1872,
+      "iso": "1872-08-17",
+      "precision": "exact",
+      "display": "August 17, 1872",
+      "place": null
+    },
+    "death": {
+      "date": "3 NOV 1893",
+      "year": 1893,
+      "iso": "1893-11-03",
+      "precision": "exact",
+      "display": "November 3, 1893",
+      "place": "Calvinia",
+      "location": {
+        "label": "Calvinia",
+        "placeName": "Calvinia",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "2 MAR 1873",
+      "year": 1873,
+      "iso": "1873-03-02",
+      "precision": "exact",
+      "display": "March 2, 1873",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Boer / Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/70/28/66/90/5344483f07241c99/jan_abraham_nel_1893_original.jpg?hash=ac8c4d26fa4970206bd0dd36a291c254274aa96bd7199952530577222a86d34c.1789455599",
+      "alt": "Jan Abraham Nel"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/70/28/66/90/5344483f07241c99/jan_abraham_nel_1893_original.jpg?hash=ac8c4d26fa4970206bd0dd36a291c254274aa96bd7199952530577222a86d34c.1789455599",
+        "form": "",
+        "title": "Jan Abraham Nel 1893.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/d1/24/49/9a/5344484cc74aeec8/nel_jan_abraham_1873_calvinia_24_-_008039250_original.jpg?hash=e3dd93232d138c6cb18305f566b678d5a2f65bb0941e82fde5716d7822294873.1789455599",
+        "form": "",
+        "title": "Nel Jan Abraham 1873 Calvinia 24 - 008039250.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/48/51/e1/da/53444866938f42b3/image_original.jpg?hash=b771c37997d834aa0a6409ab309795b420b52c26803bc72e018fce080ca27ec3.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3742,
+      1428
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3744,
+      3745,
+      3746,
+      3747,
+      3748,
+      3749,
+      3750,
+      3751
+    ],
+    "parentUnions": [
+      "F896"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3742,
+        "unionId": "F896",
+        "type": "biological"
+      },
+      {
+        "id": 1428,
+        "unionId": "F896",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000025327790637@",
+    "geniId": "6000000025327790637",
+    "rfn": "geni:6000000025327790637",
+    "changed": "14 SEP 2024"
+  },
+  "page": {
+    "route": "people/3743/",
+    "canonical": "https://www.genepedia.org/people/3743/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

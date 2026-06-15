@@ -1,0 +1,77 @@
+{
+  "id": 187,
+  "schema": "genepedia/person@1",
+  "slug": "olivier-187",
+  "names": {
+    "display": "? Olivier",
+    "given": "?",
+    "surname": "Olivier",
+    "married": "Olivier",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      51
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F56"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 51,
+        "unionId": "F56",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208173591843@",
+    "geniId": "6000000208173591843",
+    "rfn": "geni:6000000208173591843",
+    "changed": "15 AUG 2024"
+  },
+  "page": {
+    "route": "people/187/",
+    "canonical": "https://www.genepedia.org/people/187/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

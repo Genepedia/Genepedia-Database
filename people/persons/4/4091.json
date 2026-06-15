@@ -1,0 +1,95 @@
+{
+  "id": 4091,
+  "schema": "genepedia/person@1",
+  "slug": "maria-elizabeth-van-zyl",
+  "names": {
+    "display": "Maria Elizabeth van Zyl",
+    "given": "Maria Elizabeth",
+    "surname": "van Zyl",
+    "married": "Coertzer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 JAN 1871",
+      "year": 1871,
+      "iso": "1871-01-29",
+      "precision": "exact",
+      "display": "January 29, 1871",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4090,
+      1551
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4092,
+      4093,
+      4094,
+      4095
+    ],
+    "parentUnions": [
+      "F948"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4090,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 1551,
+        "unionId": "F948",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000187845394821@",
+    "geniId": "6000000187845394821",
+    "rfn": "geni:6000000187845394821",
+    "changed": "07 OCT 2022"
+  },
+  "page": {
+    "route": "people/4091/",
+    "canonical": "https://www.genepedia.org/people/4091/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

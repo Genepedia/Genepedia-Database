@@ -1,0 +1,122 @@
+{
+  "id": 4749,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-johanna-venter",
+  "names": {
+    "display": "Cornelia Johanna Venter",
+    "given": "Cornelia Johanna",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 MAR 1931",
+      "year": 1931,
+      "iso": "1931-03-24",
+      "precision": "exact",
+      "display": "March 24, 1931",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "5 JUL 1931",
+      "year": 1931,
+      "iso": "1931-07-05",
+      "precision": "exact",
+      "display": "July 5, 1931",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4742,
+      1879
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4743,
+      4744,
+      4745,
+      4746,
+      4747,
+      4748,
+      4750,
+      4751
+    ],
+    "parentUnions": [
+      "F1130"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4742,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 1879,
+        "unionId": "F1130",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066434086838@",
+    "geniId": "6000000066434086838",
+    "rfn": "geni:6000000066434086838",
+    "changed": "04 SEP 2017"
+  },
+  "page": {
+    "route": "people/4749/",
+    "canonical": "https://www.genepedia.org/people/4749/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

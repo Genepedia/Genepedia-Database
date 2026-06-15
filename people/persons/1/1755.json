@@ -1,0 +1,133 @@
+{
+  "id": 1755,
+  "schema": "genepedia/person@1",
+  "slug": "alvin-lurie",
+  "names": {
+    "display": "Alvin Lurie",
+    "given": "Alvin",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 OCT 1921",
+      "year": 1921,
+      "iso": "1921-10-03",
+      "precision": "exact",
+      "display": "October 3, 1921",
+      "place": "Fort Dodge, IA, United States",
+      "location": {
+        "label": "Fort Dodge, IA, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fort Dodge",
+        "postalCode": "50501",
+        "county": "",
+        "stateProvince": "IA",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 JUN 1995",
+      "year": 1995,
+      "iso": "1995-06-10",
+      "precision": "exact",
+      "display": "June 10, 1995",
+      "place": "Los Angeles, CA, United States",
+      "location": {
+        "label": "Los Angeles, CA, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Los Angeles",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "CA",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      728,
+      1752
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1753,
+      1754,
+      1756
+    ],
+    "parentUnions": [
+      "F460"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 728,
+        "unionId": "F460",
+        "type": "biological"
+      },
+      {
+        "id": 1752,
+        "unionId": "F460",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208588279839@",
+    "geniId": "6000000208588279839",
+    "rfn": "geni:6000000208588279839",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/1755/",
+    "canonical": "https://www.genepedia.org/people/1755/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

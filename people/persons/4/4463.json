@@ -1,0 +1,104 @@
+{
+  "id": 4463,
+  "schema": "genepedia/person@1",
+  "slug": "tevye-lurie",
+  "names": {
+    "display": "Tevye Lurie",
+    "given": "Tevye",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1903",
+      "year": 1903,
+      "iso": "1903",
+      "precision": "exact",
+      "display": "1903",
+      "place": null
+    },
+    "death": {
+      "date": "1916",
+      "year": 1916,
+      "iso": "1916",
+      "precision": "exact",
+      "display": "1916",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1745,
+      4460
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4461,
+      4462,
+      4464,
+      4465,
+      4466,
+      4467
+    ],
+    "parentUnions": [
+      "F1057"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1745,
+        "unionId": "F1057",
+        "type": "biological"
+      },
+      {
+        "id": 4460,
+        "unionId": "F1057",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000003658291281@",
+    "geniId": "6000000003658291281",
+    "rfn": "geni:6000000003658291281",
+    "changed": "11 JUN 2021"
+  },
+  "page": {
+    "route": "people/4463/",
+    "canonical": "https://www.genepedia.org/people/4463/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

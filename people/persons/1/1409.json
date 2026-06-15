@@ -1,0 +1,112 @@
+{
+  "id": 1409,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-hendrina-petronella-stoman",
+  "names": {
+    "display": "Johanna Hendrina Petronella Stoman",
+    "given": "Johanna Hendrina Petronella",
+    "surname": "Stoman",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 DEC 1893",
+      "year": 1893,
+      "iso": "1893-12-08",
+      "precision": "exact",
+      "display": "December 8, 1893",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3666,
+      3665
+    ],
+    "spouses": [
+      572
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3667,
+      3668,
+      3669,
+      3670,
+      3671,
+      3672,
+      3673,
+      3674,
+      3675,
+      3676,
+      3677
+    ],
+    "parentUnions": [
+      "F882"
+    ],
+    "spouseUnions": [
+      "F361"
+    ],
+    "parentLinks": [
+      {
+        "id": 3666,
+        "unionId": "F882",
+        "type": "biological"
+      },
+      {
+        "id": 3665,
+        "unionId": "F882",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 572,
+        "unionId": "F361",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057957451037@",
+    "geniId": "6000000057957451037",
+    "rfn": "geni:6000000057957451037",
+    "changed": "23 DEC 2023"
+  },
+  "page": {
+    "route": "people/1409/",
+    "canonical": "https://www.genepedia.org/people/1409/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

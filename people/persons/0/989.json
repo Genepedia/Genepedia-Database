@@ -1,0 +1,91 @@
+{
+  "id": 989,
+  "schema": "genepedia/person@1",
+  "slug": "profile-989",
+  "names": {
+    "display": "? ?",
+    "given": "?",
+    "surname": "?",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/42/f9/3e/9c/53444866231ed249/screenshot_2024-07-05_182746_original.jpg?hash=fb99a79c4338b6fe512c5f25b259ee8d3e7ed320ef44841b3a2b6202510f0ede.1789455599",
+      "alt": "? ?"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/42/f9/3e/9c/53444866231ed249/screenshot_2024-07-05_182746_original.jpg?hash=fb99a79c4338b6fe512c5f25b259ee8d3e7ed320ef44841b3a2b6202510f0ede.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      406
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      990
+    ],
+    "parentUnions": [
+      "F271"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 406,
+        "unionId": "F271",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207077444821@",
+    "geniId": "6000000207077444821",
+    "rfn": "geni:6000000207077444821",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/989/",
+    "canonical": "https://www.genepedia.org/people/989/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

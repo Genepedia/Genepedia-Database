@@ -1,0 +1,186 @@
+{
+  "id": 129,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-jacobus-bester",
+  "names": {
+    "display": "Gabriel Jacobus Bester",
+    "given": "Gabriel Jacobus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "Gawie",
+    "aliases": [
+      "Gabriel Jacobus Bester"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "29 AUG 1903",
+      "year": 1903,
+      "iso": "1903-08-29",
+      "precision": "exact",
+      "display": "August 29, 1903",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 1983",
+      "year": 1983,
+      "iso": "1983",
+      "precision": "about",
+      "display": "about 1983",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      331,
+      332
+    ],
+    "spouses": [
+      130
+    ],
+    "exSpouses": [],
+    "children": [
+      131,
+      39,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "siblings": [
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342
+    ],
+    "parentUnions": [
+      "F107"
+    ],
+    "spouseUnions": [
+      "F46"
+    ],
+    "parentLinks": [
+      {
+        "id": 331,
+        "unionId": "F107",
+        "type": "biological"
+      },
+      {
+        "id": 332,
+        "unionId": "F107",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 130,
+        "unionId": "F46",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 131,
+        "unionId": "F46",
+        "type": "biological"
+      },
+      {
+        "id": 39,
+        "unionId": "F46",
+        "type": "biological"
+      },
+      {
+        "id": 132,
+        "unionId": "F46",
+        "type": "biological"
+      },
+      {
+        "id": 133,
+        "unionId": "F46",
+        "type": "biological"
+      },
+      {
+        "id": 134,
+        "unionId": "F46",
+        "type": "biological"
+      },
+      {
+        "id": 135,
+        "unionId": "F46",
+        "type": "biological"
+      },
+      {
+        "id": 136,
+        "unionId": "F46",
+        "type": "biological"
+      },
+      {
+        "id": 137,
+        "unionId": "F46",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065161629869@",
+    "geniId": "6000000065161629869",
+    "rfn": "geni:6000000065161629869",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/129/",
+    "canonical": "https://www.genepedia.org/people/129/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

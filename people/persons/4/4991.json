@@ -1,0 +1,106 @@
+{
+  "id": 4991,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-johannes-hendrik-bester-4991",
+  "names": {
+    "display": "Marthinus Johannes Hendrik Bester",
+    "given": "Marthinus Johannes Hendrik",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "4 JAN 1934",
+      "year": 1934,
+      "iso": "1934-01-04",
+      "precision": "exact",
+      "display": "January 4, 1934",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1938,
+      4990
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1184"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1938,
+        "unionId": "F1184",
+        "type": "biological"
+      },
+      {
+        "id": 4990,
+        "unionId": "F1184",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066968675823@",
+    "geniId": "6000000066968675823",
+    "rfn": "geni:6000000066968675823",
+    "changed": "12 SEP 2017"
+  },
+  "page": {
+    "route": "people/4991/",
+    "canonical": "https://www.genepedia.org/people/4991/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

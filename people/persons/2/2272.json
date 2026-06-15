@@ -1,0 +1,158 @@
+{
+  "id": 2272,
+  "schema": "genepedia/person@1",
+  "slug": "jan-johannes-petrus-nel",
+  "names": {
+    "display": "Jan Johannes Petrus Nel",
+    "given": "Jan Johannes Petrus",
+    "surname": "Nel",
+    "married": "Nel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 AUG 1958",
+      "year": 1958,
+      "iso": "1958-08-22",
+      "precision": "exact",
+      "display": "August 22, 1958",
+      "place": "Kuruman, Northern Cape, South Africa",
+      "location": {
+        "label": "Kuruman, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kuruman",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 NOV 2013",
+      "year": 2013,
+      "iso": "2013-11-28",
+      "precision": "exact",
+      "display": "November 28, 2013",
+      "place": "Potchefstroom, North West, South Africa",
+      "location": {
+        "label": "Potchefstroom, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Potchefstroom",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/82/49/96/17/5344485f4d842c33/pierre_nel_original.jpg?hash=c32cff22c14893c50b1b719834f3a37c44542577b43427481062461de874658d.1789455599",
+      "alt": "Jan Johannes Petrus Nel"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/82/49/96/17/5344485f4d842c33/pierre_nel_original.jpg?hash=c32cff22c14893c50b1b719834f3a37c44542577b43427481062461de874658d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/7b/46/6b/26/5344485aae531b1d/jjp_nel_original.jpg?hash=9637b9647bb55f02b562e553abca86d9b1144c848ac5c7a1c26b2c064992bbff.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/85/0c/ef/65/5344483cc59f8ddc/mum35pix_original.jpg?hash=4bcccf70b7b6732329388364d0a8074a26a07aab6edf236b2bb8ce9112c0d813.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2271,
+      916
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2273,
+      2274
+    ],
+    "parentUnions": [
+      "F576"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2271,
+        "unionId": "F576",
+        "type": "biological"
+      },
+      {
+        "id": 916,
+        "unionId": "F576",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000026551775222@",
+    "geniId": "6000000026551775222",
+    "rfn": "geni:6000000026551775222",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2272/",
+    "canonical": "https://www.genepedia.org/people/2272/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

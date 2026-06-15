@@ -1,0 +1,90 @@
+{
+  "id": 3328,
+  "schema": "genepedia/person@1",
+  "slug": "willem-de-waal",
+  "names": {
+    "display": "Willem de Waal",
+    "given": "Willem",
+    "surname": "van Taak",
+    "married": "de Waal",
+    "nick": "Willie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1311,
+      3321
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3322,
+      3323,
+      3324,
+      3325,
+      3326,
+      3327
+    ],
+    "parentUnions": [
+      "F814"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1311,
+        "unionId": "F814",
+        "type": "biological"
+      },
+      {
+        "id": 3321,
+        "unionId": "F814",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029059035284@",
+    "geniId": "6000000029059035284",
+    "rfn": "geni:6000000029059035284",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/3328/",
+    "canonical": "https://www.genepedia.org/people/3328/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

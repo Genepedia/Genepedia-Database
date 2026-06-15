@@ -1,0 +1,121 @@
+{
+  "id": 3606,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-magdalena-meintjies-oosthuizen",
+  "names": {
+    "display": "Elizabeth Magdalena Meintjies Oosthuizen",
+    "given": "Elizabeth Magdalena Meintjies",
+    "surname": "Oosthuizen",
+    "married": "Bosch",
+    "nick": "''Lizzie''",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 MAY 1894",
+      "year": 1894,
+      "iso": "1894-05-26",
+      "precision": "exact",
+      "display": "May 26, 1894",
+      "place": "Aberdeen, EC, South Africa",
+      "location": {
+        "label": "Aberdeen, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "6270",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "29 AUG 1938",
+      "year": 1938,
+      "iso": "1938-08-29",
+      "precision": "exact",
+      "display": "August 29, 1938",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3600,
+      1400
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3601,
+      3602,
+      3603,
+      3604,
+      3605,
+      3607,
+      3608
+    ],
+    "parentUnions": [
+      "F873"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3600,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 1400,
+        "unionId": "F873",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029062235959@",
+    "geniId": "6000000029062235959",
+    "rfn": "geni:6000000029062235959",
+    "changed": "15 JUL 2025"
+  },
+  "page": {
+    "route": "people/3606/",
+    "canonical": "https://www.genepedia.org/people/3606/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

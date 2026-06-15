@@ -1,0 +1,83 @@
+{
+  "id": 3705,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-eugene-de-beer",
+  "names": {
+    "display": "Daniel Eugene De Beer",
+    "given": "Daniel Eugene",
+    "surname": "De Beer",
+    "married": "De Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1416,
+      3704
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F888"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1416,
+        "unionId": "F888",
+        "type": "biological"
+      },
+      {
+        "id": 3704,
+        "unionId": "F888",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000038287559874@",
+    "geniId": "6000000038287559874",
+    "rfn": "geni:6000000038287559874",
+    "changed": "01 DEC 2015"
+  },
+  "page": {
+    "route": "people/3705/",
+    "canonical": "https://www.genepedia.org/people/3705/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

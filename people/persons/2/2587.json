@@ -1,0 +1,139 @@
+{
+  "id": 2587,
+  "schema": "genepedia/person@1",
+  "slug": "daniel-johannes-stephanus-pringle",
+  "names": {
+    "display": "Daniel Johannes Stephanus Pringle",
+    "given": "Daniel Johannes Stephanus",
+    "surname": "Pringle",
+    "married": "Pringle",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 MAR 1850",
+      "year": 1850,
+      "iso": "1850-03-17",
+      "precision": "exact",
+      "display": "March 17, 1850",
+      "place": null
+    },
+    "death": {
+      "date": "BEF AUG 1874",
+      "year": 1874,
+      "iso": "1874-08",
+      "precision": "before",
+      "display": "before August 1874",
+      "place": null
+    },
+    "baptism": {
+      "date": "26 MAY 1850",
+      "year": 1850,
+      "iso": "1850-05-26",
+      "precision": "exact",
+      "display": "May 26, 1850",
+      "place": "Bloemfontein",
+      "location": {
+        "label": "Bloemfontein",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/57/a7/42/46/53444855435f71ad/record-image_4__original.jpg?hash=f23f396d7b5926a4376dc3af59fc3293d9986cb0c395ca9f68afb5dc512c3246.1789455599",
+      "alt": "Daniel Johannes Stephanus Pringle"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/57/a7/42/46/53444855435f71ad/record-image_4__original.jpg?hash=f23f396d7b5926a4376dc3af59fc3293d9986cb0c395ca9f68afb5dc512c3246.1789455599",
+        "form": "",
+        "title": "record-image_doop  pg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2585,
+      1064
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2586,
+      2588,
+      2589,
+      2590,
+      2591,
+      2592
+    ],
+    "parentUnions": [
+      "F641"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2585,
+        "unionId": "F641",
+        "type": "biological"
+      },
+      {
+        "id": 1064,
+        "unionId": "F641",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000057006783388@",
+    "geniId": "6000000057006783388",
+    "rfn": "geni:6000000057006783388",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/2587/",
+    "canonical": "https://www.genepedia.org/people/2587/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

@@ -1,0 +1,208 @@
+{
+  "id": 2190,
+  "schema": "genepedia/person@1",
+  "slug": "erasmus-stephanus-sinden",
+  "names": {
+    "display": "Erasmus Stephanus Sinden",
+    "given": "Erasmus Stephanus",
+    "surname": "Sinden",
+    "married": "Sinden",
+    "nick": "Stefaans",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 MAY 1905",
+      "year": 1905,
+      "iso": "1905-05-23",
+      "precision": "exact",
+      "display": "May 23, 1905",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "6 JUL 1955",
+      "year": 1955,
+      "iso": "1955-07-06",
+      "precision": "exact",
+      "display": "July 6, 1955",
+      "place": "Pelgrims Rest, Mpumalanga, South Africa",
+      "location": {
+        "label": "Pelgrims Rest, Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "Elandsdrift",
+        "city": "Pelgrims Rest",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "11 JUN 1906",
+      "year": 1906,
+      "iso": "1906-06-11",
+      "precision": "exact",
+      "display": "June 11, 1906",
+      "place": "Herbert, Cape, South Africa",
+      "location": {
+        "label": "Herbert, Cape, South Africa",
+        "placeName": "Herbert",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Sabie",
+      "location": {
+        "label": "Sabie",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Sabie",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "S.A.F.I.Voorman",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/0c/58/b2/a0/5344483c9402f1d7/doop_1_original.jpg?hash=d88b864584b922ea1d31a22594f08b77f7ed891d49112a8d3330aa2097efdaf4.1789455599",
+      "alt": "Erasmus Stephanus Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/0c/58/b2/a0/5344483c9402f1d7/doop_1_original.jpg?hash=d88b864584b922ea1d31a22594f08b77f7ed891d49112a8d3330aa2097efdaf4.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/14/51/5d/8b/534448666888fa65/image_original.jpg?hash=5c765a15a60d44d8db98e2a05a51d325420c2013de7ed78c6e3d78d80ab9a76e.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/8e/ed/1a/8e/534448666893d3e5/image_original.jpg?hash=8aedb48ea86fa79ae63901fd224ceb82f2bf21fb802f8dbb8ac7b54f4087e460.1789455599",
+        "form": "",
+        "title": "record-image_trou 1927  .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      896,
+      2186
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2187,
+      2188,
+      2189
+    ],
+    "parentUnions": [
+      "F558"
+    ],
+    "spouseUnions": [
+      "F1351"
+    ],
+    "parentLinks": [
+      {
+        "id": 896,
+        "unionId": "F558",
+        "type": "biological"
+      },
+      {
+        "id": 2186,
+        "unionId": "F558",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028103303269@",
+    "geniId": "6000000028103303269",
+    "rfn": "geni:6000000028103303269",
+    "changed": "17 AUG 2024"
+  },
+  "page": {
+    "route": "people/2190/",
+    "canonical": "https://www.genepedia.org/people/2190/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

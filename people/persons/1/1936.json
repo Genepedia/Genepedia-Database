@@ -1,0 +1,221 @@
+{
+  "id": 1936,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-johan-bester-1936",
+  "names": {
+    "display": "Michiel Johan Bester",
+    "given": "Michiel Johan",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 MAR 1899",
+      "year": 1899,
+      "iso": "1899-03-09",
+      "precision": "exact",
+      "display": "March 9, 1899",
+      "place": null
+    },
+    "death": {
+      "date": "5 SEP 1970",
+      "year": 1970,
+      "iso": "1970-09-05",
+      "precision": "exact",
+      "display": "September 5, 1970",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Forest Hill Cemetery, Port Elizabeth, Eastern Cape, South Africa",
+      "location": {
+        "label": "Forest Hill Cemetery, Port Elizabeth, Eastern Cape, South Africa",
+        "placeName": "Forest Hill Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Port Elizabeth",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/9e/4f/a1/88/534448457fb05ba7/bester_michiel_johan_1899_original.jpg?hash=7d1078c9ae551af5420f530221cb6dace15eb412d00459f0c9a3527fde0abb9e.1789455599",
+      "alt": "Michiel Johan Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/9e/4f/a1/88/534448457fb05ba7/bester_michiel_johan_1899_original.jpg?hash=7d1078c9ae551af5420f530221cb6dace15eb412d00459f0c9a3527fde0abb9e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      819,
+      830
+    ],
+    "spouses": [
+      4975,
+      4980
+    ],
+    "exSpouses": [],
+    "children": [
+      4976,
+      4977,
+      4978,
+      4979,
+      4981,
+      4982,
+      4983,
+      4984,
+      4985
+    ],
+    "siblings": [
+      1932,
+      1933,
+      1934,
+      1935,
+      1937,
+      1938,
+      1939,
+      1940,
+      1941,
+      1942,
+      1943,
+      1944,
+      1945,
+      1946
+    ],
+    "parentUnions": [
+      "F508"
+    ],
+    "spouseUnions": [
+      "F1181",
+      "F1182"
+    ],
+    "parentLinks": [
+      {
+        "id": 819,
+        "unionId": "F508",
+        "type": "biological"
+      },
+      {
+        "id": 830,
+        "unionId": "F508",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4975,
+        "unionId": "F1181",
+        "role": "partner"
+      },
+      {
+        "id": 4980,
+        "unionId": "F1182",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4976,
+        "unionId": "F1181",
+        "type": "biological"
+      },
+      {
+        "id": 4977,
+        "unionId": "F1181",
+        "type": "biological"
+      },
+      {
+        "id": 4978,
+        "unionId": "F1181",
+        "type": "biological"
+      },
+      {
+        "id": 4979,
+        "unionId": "F1181",
+        "type": "biological"
+      },
+      {
+        "id": 4981,
+        "unionId": "F1182",
+        "type": "biological"
+      },
+      {
+        "id": 4982,
+        "unionId": "F1182",
+        "type": "biological"
+      },
+      {
+        "id": 4983,
+        "unionId": "F1182",
+        "type": "biological"
+      },
+      {
+        "id": 4984,
+        "unionId": "F1182",
+        "type": "biological"
+      },
+      {
+        "id": 4985,
+        "unionId": "F1182",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066846281848@",
+    "geniId": "6000000066846281848",
+    "rfn": "geni:6000000066846281848",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/1936/",
+    "canonical": "https://www.genepedia.org/people/1936/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

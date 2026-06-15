@@ -1,0 +1,157 @@
+{
+  "id": 2538,
+  "schema": "genepedia/person@1",
+  "slug": "cornelius-johannes-jacobs",
+  "names": {
+    "display": "Cornelius Johannes Jacobs",
+    "given": "Cornelius Johannes",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "Neels",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 MAY 1948",
+      "year": 1948,
+      "iso": "1948-05-23",
+      "precision": "exact",
+      "display": "May 23, 1948",
+      "place": "Luckhoff",
+      "location": {
+        "label": "Luckhoff",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Luckhoff",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 OCT 1988",
+      "year": 1988,
+      "iso": "1988-10-27",
+      "precision": "exact",
+      "display": "October 27, 1988",
+      "place": "Kroonstad",
+      "location": {
+        "label": "Kroonstad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Volkskas Versekeringsmakelaar",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ed/2c/0b/be/53444865c1add847/image_original.jpg?hash=3af35a6e804b755cdd7e2190d0afcf3b0bd517ad64276ef0d19d58b8983b8821.1789455599",
+      "alt": "Cornelius Johannes Jacobs"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ed/2c/0b/be/53444865c1add847/image_original.jpg?hash=3af35a6e804b755cdd7e2190d0afcf3b0bd517ad64276ef0d19d58b8983b8821.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/92/8e/a9/98/53444865c1b682ee/image_1__original.jpg?hash=efeaf5df5a0bbc30044c4a9db10c399c259956222a42fbefdabc74d73cc29b67.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1028,
+      2537
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2539,
+      2540,
+      2541,
+      2542,
+      2543,
+      2544
+    ],
+    "parentUnions": [
+      "F631"
+    ],
+    "spouseUnions": [
+      "F1556"
+    ],
+    "parentLinks": [
+      {
+        "id": 1028,
+        "unionId": "F631",
+        "type": "biological"
+      },
+      {
+        "id": 2537,
+        "unionId": "F631",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040063351898@",
+    "geniId": "6000000040063351898",
+    "rfn": "geni:6000000040063351898",
+    "changed": "01 MAY 2024"
+  },
+  "page": {
+    "route": "people/2538/",
+    "canonical": "https://www.genepedia.org/people/2538/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1268,
+  "schema": "genepedia/person@1",
+  "slug": "cornelius-ernestus-de-villiers",
+  "names": {
+    "display": "Cornelius Ernestus De Villiers",
+    "given": "Cornelius Ernestus",
+    "surname": "De Villiers",
+    "married": "De Villiers",
+    "nick": "Neels",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/1f/27/55/bf/534448659f31a88e/whatsapp_image_2024-04-06_at_19_original.jpg?hash=9a0f70029a1e91360842a58ac9066950c4ed26ee152f72cddee14f8f5349fa80.1789455599",
+      "alt": "Cornelius Ernestus De Villiers"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/1f/27/55/bf/534448659f31a88e/whatsapp_image_2024-04-06_at_19_original.jpg?hash=9a0f70029a1e91360842a58ac9066950c4ed26ee152f72cddee14f8f5349fa80.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      531
+    ],
+    "exSpouses": [],
+    "children": [
+      1269,
+      1270
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F330"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 531,
+        "unionId": "F330",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1269,
+        "unionId": "F330",
+        "type": "biological"
+      },
+      {
+        "id": 1270,
+        "unionId": "F330",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204863118848@",
+    "geniId": "6000000204863118848",
+    "rfn": "geni:6000000204863118848",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/1268/",
+    "canonical": "https://www.genepedia.org/people/1268/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

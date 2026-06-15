@@ -1,0 +1,125 @@
+{
+  "id": 2968,
+  "schema": "genepedia/person@1",
+  "slug": "dawid-petrus-de-lange",
+  "names": {
+    "display": "Dawid Petrus de Lange",
+    "given": "Dawid Petrus",
+    "surname": "de Lange",
+    "married": "de Lange",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 SEP 1915",
+      "year": 1915,
+      "iso": "1915-09-10",
+      "precision": "exact",
+      "display": "September 10, 1915",
+      "place": null
+    },
+    "death": {
+      "date": "18 JUL 1989",
+      "year": 1989,
+      "iso": "1989-07-18",
+      "precision": "exact",
+      "display": "July 18, 1989",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Postmasburg, NC, South Africa",
+      "location": {
+        "label": "Postmasburg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "8420",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2966,
+      1180
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2967
+    ],
+    "parentUnions": [
+      "F725"
+    ],
+    "spouseUnions": [
+      "F1861"
+    ],
+    "parentLinks": [
+      {
+        "id": 2966,
+        "unionId": "F725",
+        "type": "biological"
+      },
+      {
+        "id": 1180,
+        "unionId": "F725",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000187952799885@",
+    "geniId": "6000000187952799885",
+    "rfn": "geni:6000000187952799885",
+    "changed": "05 JAN 2026"
+  },
+  "page": {
+    "route": "people/2968/",
+    "canonical": "https://www.genepedia.org/people/2968/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

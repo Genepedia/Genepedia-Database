@@ -1,0 +1,185 @@
+{
+  "id": 2647,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobus-maritz",
+  "names": {
+    "display": "Johannes Jacobus Maritz",
+    "given": "Johannes Jacobus",
+    "surname": "Maritz",
+    "married": "Maritz",
+    "nick": "Jan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 AUG 1848",
+      "year": 1848,
+      "iso": "1848-08-04",
+      "precision": "exact",
+      "display": "August 4, 1848",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 OCT 1935",
+      "year": 1935,
+      "iso": "1935-10-01",
+      "precision": "exact",
+      "display": "October 1, 1935",
+      "place": "Wolmaransstad, North West, South Africa",
+      "location": {
+        "label": "Wolmaransstad, North West, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaransstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "25 DEC 1848",
+      "year": 1848,
+      "iso": "1848-12-25",
+      "precision": "exact",
+      "display": "December 25, 1848",
+      "place": null
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Witpoort Farm Cemetery, Wolmaranstad",
+      "location": {
+        "label": "Witpoort Farm Cemetery, Wolmaranstad",
+        "placeName": "Witpoort Farm Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Wolmaranstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/95/9a/a9/51/5344484992ea2ba8/maritz_original.jpg?hash=0c62d605ae86c2c3c1174fb26ec2c3d6c0caee383e34b7e68d7ff7925bbfce80.1789455599",
+      "alt": "Johannes Jacobus Maritz"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/95/9a/a9/51/5344484992ea2ba8/maritz_original.jpg?hash=0c62d605ae86c2c3c1174fb26ec2c3d6c0caee383e34b7e68d7ff7925bbfce80.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2869
+    ],
+    "spouses": [
+      1072
+    ],
+    "exSpouses": [],
+    "children": [
+      2648
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1632"
+    ],
+    "spouseUnions": [
+      "F649",
+      "F1631"
+    ],
+    "parentLinks": [
+      {
+        "id": 2869,
+        "unionId": "F1632",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1072,
+        "unionId": "F649",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2648,
+        "unionId": "F649",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000021495504220@",
+    "geniId": "6000000021495504220",
+    "rfn": "geni:6000000021495504220",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2647/",
+    "canonical": "https://www.genepedia.org/people/2647/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.191Z"
+}

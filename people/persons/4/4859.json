@@ -1,0 +1,160 @@
+{
+  "id": 4859,
+  "schema": "genepedia/person@1",
+  "slug": "amarensia-petronella-swanepoel",
+  "names": {
+    "display": "Amarensia Petronella Swanepoel",
+    "given": "Amarensia Petronella",
+    "surname": "Swanepoel",
+    "married": "Viljoen",
+    "nick": "Emmerensia",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 JAN 1851",
+      "year": 1851,
+      "iso": "1851-01-24",
+      "precision": "exact",
+      "display": "January 24, 1851",
+      "place": "Noodhulp, Waterberg, Transvaal",
+      "location": {
+        "label": "Noodhulp, Waterberg, Transvaal",
+        "placeName": "Noodhulp",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Waterberg, Transvaal",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 NOV 1924",
+      "year": 1924,
+      "iso": "1924-11-02",
+      "precision": "exact",
+      "display": "November 2, 1924",
+      "place": "Hopetown, Cape Province",
+      "location": {
+        "label": "Hopetown, Cape Province",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown, Cape Province",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "23 FEB 1857",
+      "year": 1857,
+      "iso": "1857-02-23",
+      "precision": "exact",
+      "display": "February 23, 1857",
+      "place": "NH Gemeente, Pretoria, Transvaal",
+      "location": {
+        "label": "NH Gemeente, Pretoria, Transvaal",
+        "placeName": "NH Gemeente",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria, Transvaal",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4858
+    ],
+    "exSpouses": [],
+    "children": [
+      1904,
+      4860
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1156"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4858,
+        "unionId": "F1156",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1904,
+        "unionId": "F1156",
+        "type": "biological"
+      },
+      {
+        "id": 4860,
+        "unionId": "F1156",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007392053395@",
+    "geniId": "6000000007392053395",
+    "rfn": "geni:6000000007392053395",
+    "changed": "29 OCT 2025"
+  },
+  "page": {
+    "route": "people/4859/",
+    "canonical": "https://www.genepedia.org/people/4859/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

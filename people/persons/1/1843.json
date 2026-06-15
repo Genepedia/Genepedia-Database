@@ -1,0 +1,209 @@
+{
+  "id": 1843,
+  "schema": "genepedia/person@1",
+  "slug": "gerbrecht-elizabeth-vosloo",
+  "names": {
+    "display": "Gerbrecht Elizabeth Vosloo",
+    "given": "Gerbrecht Elizabeth",
+    "surname": "Vosloo",
+    "married": "Bester",
+    "nick": "Vosloo",
+    "aliases": [
+      "Gerbrecht Elizabeth Vosloo"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 30 OCT 1798",
+      "year": 1798,
+      "iso": "1798-10-30",
+      "precision": "about",
+      "display": "about October 30, 1798",
+      "place": "“Zandplaats”, dist.Swellendam, Suid Afrika",
+      "location": {
+        "label": "“Zandplaats”, dist.Swellendam, Suid Afrika",
+        "placeName": "“Zandplaats”, dist.Swellendam",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Suid Afrika",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "13 AUG 1858",
+      "year": 1858,
+      "iso": "1858-08-13",
+      "precision": "exact",
+      "display": "August 13, 1858",
+      "place": "\"Flaawriskop\", Suid Afrika",
+      "location": {
+        "label": "\"Flaawriskop\", Suid Afrika",
+        "placeName": "\"Flaawriskop\"",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Suid Afrika",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "20 JAN 1799",
+      "year": 1799,
+      "iso": "1799-01-20",
+      "precision": "exact",
+      "display": "January 20, 1799",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4571,
+      4572
+    ],
+    "spouses": [
+      1844
+    ],
+    "exSpouses": [],
+    "children": [
+      1845,
+      1846,
+      1847,
+      810,
+      1848,
+      1849
+    ],
+    "siblings": [
+      4573,
+      4574,
+      4575,
+      4576,
+      4577,
+      4578
+    ],
+    "parentUnions": [
+      "F1098"
+    ],
+    "spouseUnions": [
+      "F493"
+    ],
+    "parentLinks": [
+      {
+        "id": 4571,
+        "unionId": "F1098",
+        "type": "biological"
+      },
+      {
+        "id": 4572,
+        "unionId": "F1098",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1844,
+        "unionId": "F493",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1845,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1846,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1847,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 810,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1848,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1849,
+        "unionId": "F493",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000018857139415@",
+    "geniId": "6000000018857139415",
+    "rfn": "geni:6000000018857139415",
+    "changed": "12 JUN 2026"
+  },
+  "page": {
+    "route": "people/1843/",
+    "canonical": "https://www.genepedia.org/people/1843/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

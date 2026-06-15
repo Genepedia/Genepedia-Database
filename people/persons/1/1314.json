@@ -1,0 +1,152 @@
+{
+  "id": 1314,
+  "schema": "genepedia/person@1",
+  "slug": "jacob-frederik-johannes-van-taak",
+  "names": {
+    "display": "Jacob Frederik Johannes van Taak",
+    "given": "Jacob Frederik Johannes",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "SEP 1929",
+      "year": 1929,
+      "iso": "1929-09",
+      "precision": "exact",
+      "display": "September 1929",
+      "place": "Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Calvinia, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "29 MAR 1931",
+      "year": 1931,
+      "iso": "1931-03-29",
+      "precision": "exact",
+      "display": "March 29, 1931",
+      "place": "Calvinia, Cape province, South Africa",
+      "location": {
+        "label": "Calvinia, Cape province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/33/c7/bd/ee/5344486165cced7b/taak_jacob_frederik_j_van_1929-1931_original.jpg?hash=411832782c81270cf39b1389ed530d8ea06374573ec4c106d83521d86708ec62.1789455599",
+      "alt": "Jacob Frederik Johannes van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/33/c7/bd/ee/5344486165cced7b/taak_jacob_frederik_j_van_1929-1931_original.jpg?hash=411832782c81270cf39b1389ed530d8ea06374573ec4c106d83521d86708ec62.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/bd/7f/5d/4c/5344485a99554fd3/died_young_-_use_original.jpg?hash=6ef4d385b872d8c0e6a69936521e4cd6a24cb74281000bbc82cd6f39c0253c96.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      539,
+      1312
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1313,
+      1315,
+      1316
+    ],
+    "parentUnions": [
+      "F338"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 539,
+        "unionId": "F338",
+        "type": "biological"
+      },
+      {
+        "id": 1312,
+        "unionId": "F338",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000161479630856@",
+    "geniId": "6000000161479630856",
+    "rfn": "geni:6000000161479630856",
+    "changed": "25 AUG 2022"
+  },
+  "page": {
+    "route": "people/1314/",
+    "canonical": "https://www.genepedia.org/people/1314/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

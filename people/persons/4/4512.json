@@ -1,0 +1,86 @@
+{
+  "id": 4512,
+  "schema": "genepedia/person@1",
+  "slug": "lori-loughran",
+  "names": {
+    "display": "Lori Loughran",
+    "given": "Lori",
+    "surname": "Arkoff",
+    "married": "Loughran",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1766,
+      4509
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4510,
+      4511
+    ],
+    "parentUnions": [
+      "F1072"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1766,
+        "unionId": "F1072",
+        "type": "biological"
+      },
+      {
+        "id": 4509,
+        "unionId": "F1072",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000000500744300@",
+    "geniId": "6000000000500744300",
+    "rfn": "geni:6000000000500744300",
+    "changed": "07 DEC 2025"
+  },
+  "page": {
+    "route": "people/4512/",
+    "canonical": "https://www.genepedia.org/people/4512/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

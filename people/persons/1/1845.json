@@ -1,0 +1,250 @@
+{
+  "id": 1845,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-bester-1845",
+  "names": {
+    "display": "Jacobus Marthinus Bester",
+    "given": "Jacobus Marthinus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 NOV 1819",
+      "year": 1819,
+      "iso": "1819-11-19",
+      "precision": "exact",
+      "display": "November 19, 1819",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "5 SEP 1891",
+      "year": 1891,
+      "iso": "1891-09-05",
+      "precision": "exact",
+      "display": "September 5, 1891",
+      "place": "Philipstown, Northern Cape, South Africa",
+      "location": {
+        "label": "Philipstown, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "3 MAR 1820",
+      "year": 1820,
+      "iso": "1820-03-03",
+      "precision": "exact",
+      "display": "March 3, 1820",
+      "place": "Swellendam, Western Cape, South Africa",
+      "location": {
+        "label": "Swellendam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Swellendam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1844,
+      1843
+    ],
+    "spouses": [
+      4586,
+      4592,
+      4597
+    ],
+    "exSpouses": [],
+    "children": [
+      1884,
+      4587,
+      4588,
+      4589,
+      4590,
+      4591,
+      4593,
+      4594,
+      4595,
+      4596,
+      4598
+    ],
+    "siblings": [
+      1846,
+      1847,
+      810,
+      1848,
+      1849
+    ],
+    "parentUnions": [
+      "F493"
+    ],
+    "spouseUnions": [
+      "F1100",
+      "F1101",
+      "F1102"
+    ],
+    "parentLinks": [
+      {
+        "id": 1844,
+        "unionId": "F493",
+        "type": "biological"
+      },
+      {
+        "id": 1843,
+        "unionId": "F493",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4586,
+        "unionId": "F1100",
+        "role": "partner"
+      },
+      {
+        "id": 4592,
+        "unionId": "F1101",
+        "role": "partner"
+      },
+      {
+        "id": 4597,
+        "unionId": "F1102",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1884,
+        "unionId": "F1100",
+        "type": "biological"
+      },
+      {
+        "id": 4587,
+        "unionId": "F1100",
+        "type": "biological"
+      },
+      {
+        "id": 4588,
+        "unionId": "F1100",
+        "type": "biological"
+      },
+      {
+        "id": 4589,
+        "unionId": "F1100",
+        "type": "biological"
+      },
+      {
+        "id": 4590,
+        "unionId": "F1100",
+        "type": "biological"
+      },
+      {
+        "id": 4591,
+        "unionId": "F1100",
+        "type": "biological"
+      },
+      {
+        "id": 4593,
+        "unionId": "F1101",
+        "type": "biological"
+      },
+      {
+        "id": 4594,
+        "unionId": "F1101",
+        "type": "biological"
+      },
+      {
+        "id": 4595,
+        "unionId": "F1101",
+        "type": "biological"
+      },
+      {
+        "id": 4596,
+        "unionId": "F1101",
+        "type": "biological"
+      },
+      {
+        "id": 4598,
+        "unionId": "F1102",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020875992800@",
+    "geniId": "6000000020875992800",
+    "rfn": "geni:6000000020875992800",
+    "changed": "31 MAY 2025"
+  },
+  "page": {
+    "route": "people/1845/",
+    "canonical": "https://www.genepedia.org/people/1845/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

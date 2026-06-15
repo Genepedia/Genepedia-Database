@@ -1,0 +1,201 @@
+{
+  "id": 211,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-catharina-jacoba-palvie",
+  "names": {
+    "display": "Johanna Catharina Jacoba Palvie",
+    "given": "Johanna Catharina Jacoba",
+    "surname": "Palvie",
+    "married": "van Taak",
+    "nick": "Johanna Hendrika Jakoba",
+    "aliases": [
+      "Johanna Hendrika Jacoba Palvie"
+    ]
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 APR 1904",
+      "year": 1904,
+      "iso": "1904-04-17",
+      "precision": "exact",
+      "display": "April 17, 1904",
+      "place": "Nieuwoudtville, Cape Province, South Africa",
+      "location": {
+        "label": "Nieuwoudtville, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nieuwoudtville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "20 SEP 1963",
+      "year": 1963,
+      "iso": "1963-09-20",
+      "precision": "exact",
+      "display": "September 20, 1963",
+      "place": "Voortrekker Hospitaal, Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Voortrekker Hospitaal, Calvinia, Cape Province, South Africa",
+        "placeName": "Voortrekker Hospitaal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Farm Cemetery, Brandkop, Cape Province, South Africa",
+      "location": {
+        "label": "Farm Cemetery, Brandkop, Cape Province, South Africa",
+        "placeName": "Farm Cemetery",
+        "addressLine1": "Rondekop 472",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Brandkop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/1d/d1/31/70/5344485487a2b34c/van_taak_johanna_hendrina_jacoba_geb_palvie_1907-1963_original.jpg?hash=2d35d3b1f5b54b06e0ede008f3d79e6a8692bc1ca81f135e024b41fa1a374d90.1789455599",
+      "alt": "Johanna Catharina Jacoba Palvie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/1d/d1/31/70/5344485487a2b34c/van_taak_johanna_hendrina_jacoba_geb_palvie_1907-1963_original.jpg?hash=2d35d3b1f5b54b06e0ede008f3d79e6a8692bc1ca81f135e024b41fa1a374d90.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      547,
+      546
+    ],
+    "spouses": [
+      210
+    ],
+    "exSpouses": [],
+    "children": [
+      212,
+      213,
+      65
+    ],
+    "siblings": [
+      548,
+      549,
+      550
+    ],
+    "parentUnions": [
+      "F160"
+    ],
+    "spouseUnions": [
+      "F68"
+    ],
+    "parentLinks": [
+      {
+        "id": 547,
+        "unionId": "F160",
+        "type": "biological"
+      },
+      {
+        "id": 546,
+        "unionId": "F160",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 210,
+        "unionId": "F68",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 212,
+        "unionId": "F68",
+        "type": "biological"
+      },
+      {
+        "id": 213,
+        "unionId": "F68",
+        "type": "biological"
+      },
+      {
+        "id": 65,
+        "unionId": "F68",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020384482641@",
+    "geniId": "6000000020384482641",
+    "rfn": "geni:6000000020384482641",
+    "changed": "04 AUG 2025"
+  },
+  "page": {
+    "route": "people/211/",
+    "canonical": "https://www.genepedia.org/people/211/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

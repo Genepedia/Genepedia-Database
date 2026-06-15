@@ -1,0 +1,115 @@
+{
+  "id": 4735,
+  "schema": "genepedia/person@1",
+  "slug": "mara-johanna-bester",
+  "names": {
+    "display": "Mara Johanna Bester",
+    "given": "Mara Johanna",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 DEC 1936",
+      "year": 1936,
+      "iso": "1936-12-03",
+      "precision": "exact",
+      "display": "December 3, 1936",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 MAR 1937",
+      "year": 1937,
+      "iso": "1937-03-07",
+      "precision": "exact",
+      "display": "March 7, 1937",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1877,
+      4733
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4734
+    ],
+    "parentUnions": [
+      "F1128"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1877,
+        "unionId": "F1128",
+        "type": "biological"
+      },
+      {
+        "id": 4733,
+        "unionId": "F1128",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066408278881@",
+    "geniId": "6000000066408278881",
+    "rfn": "geni:6000000066408278881",
+    "changed": "03 SEP 2017"
+  },
+  "page": {
+    "route": "people/4735/",
+    "canonical": "https://www.genepedia.org/people/4735/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

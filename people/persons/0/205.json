@@ -1,0 +1,130 @@
+{
+  "id": 205,
+  "schema": "genepedia/person@1",
+  "slug": "elzette-van-deventer",
+  "names": {
+    "display": "Elzette Van Deventer",
+    "given": "Elzette",
+    "surname": "Van Deventer",
+    "married": "Marais",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "10 MAR 1970",
+      "year": 1970,
+      "iso": "1970-03-10",
+      "precision": "exact",
+      "display": "March 10, 1970",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/ee/a0/41/90/534448659f291961/whatsapp_image_2024-04-06_at_19_original.jpg?hash=20a1b52603efb0c62b10ee65eed8758c8e55941364455322a4edf192a4853913.1789455599",
+      "alt": "Elzette Van Deventer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/ee/a0/41/90/534448659f291961/whatsapp_image_2024-04-06_at_19_original.jpg?hash=20a1b52603efb0c62b10ee65eed8758c8e55941364455322a4edf192a4853913.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/d7/06/d2/2c/534448659f22f6db/screenshot_2024-04-06_191422_original.jpg?hash=714b121d199e952fc07fb159edb6c8b683b98196811ab216e5e60e715be4a383.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      528,
+      529
+    ],
+    "spouses": [
+      63
+    ],
+    "exSpouses": [],
+    "children": [
+      206
+    ],
+    "siblings": [
+      530,
+      531
+    ],
+    "parentUnions": [
+      "F156"
+    ],
+    "spouseUnions": [
+      "F65"
+    ],
+    "parentLinks": [
+      {
+        "id": 528,
+        "unionId": "F156",
+        "type": "biological"
+      },
+      {
+        "id": 529,
+        "unionId": "F156",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 63,
+        "unionId": "F65",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 206,
+        "unionId": "F65",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204093857878@",
+    "geniId": "6000000204093857878",
+    "rfn": "geni:6000000204093857878",
+    "changed": "22 JUL 2024"
+  },
+  "page": {
+    "route": "people/205/",
+    "canonical": "https://www.genepedia.org/people/205/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,128 @@
+{
+  "id": 4702,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-johannes-burger",
+  "names": {
+    "display": "Hendrik Johannes Burger",
+    "given": "Hendrik Johannes",
+    "surname": "Burger",
+    "married": "Burger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1890",
+      "year": 1890,
+      "iso": "1890",
+      "precision": "about",
+      "display": "about 1890",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1869
+    ],
+    "exSpouses": [],
+    "children": [
+      4703,
+      4704,
+      4705,
+      4706,
+      4707,
+      4708,
+      4709
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1122"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1869,
+        "unionId": "F1122",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4703,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4704,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4705,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4706,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4707,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4708,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 4709,
+        "unionId": "F1122",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066262943920@",
+    "geniId": "6000000066262943920",
+    "rfn": "geni:6000000066262943920",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/4702/",
+    "canonical": "https://www.genepedia.org/people/4702/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

@@ -1,0 +1,156 @@
+{
+  "id": 158,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-elizabeth-beukus",
+  "names": {
+    "display": "Anna Maria Elizabeth Beukus",
+    "given": "Anna Maria Elizabeth",
+    "surname": "Beukus",
+    "married": "Van Der Bank",
+    "nick": "Annie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 DEC 1901",
+      "year": 1901,
+      "iso": "1901-12-05",
+      "precision": "exact",
+      "display": "December 5, 1901",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      410,
+      409
+    ],
+    "spouses": [
+      159
+    ],
+    "exSpouses": [],
+    "children": [
+      160,
+      44,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166
+    ],
+    "siblings": [
+      411,
+      412,
+      413,
+      414,
+      415
+    ],
+    "parentUnions": [
+      "F131"
+    ],
+    "spouseUnions": [
+      "F51"
+    ],
+    "parentLinks": [
+      {
+        "id": 410,
+        "unionId": "F131",
+        "type": "biological"
+      },
+      {
+        "id": 409,
+        "unionId": "F131",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 159,
+        "unionId": "F51",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 160,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 44,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 161,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 162,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 163,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 164,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 165,
+        "unionId": "F51",
+        "type": "biological"
+      },
+      {
+        "id": 166,
+        "unionId": "F51",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204150154822@",
+    "geniId": "6000000204150154822",
+    "rfn": "geni:6000000204150154822",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/158/",
+    "canonical": "https://www.genepedia.org/people/158/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

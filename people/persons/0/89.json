@@ -1,0 +1,85 @@
+{
+  "id": 89,
+  "schema": "genepedia/person@1",
+  "slug": "ruben-van-niekerk",
+  "names": {
+    "display": "Ruben Van Niekerk",
+    "given": "Ruben",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      24,
+      88
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      90
+    ],
+    "parentUnions": [
+      "F32"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 24,
+        "unionId": "F32",
+        "type": "biological"
+      },
+      {
+        "id": 88,
+        "unionId": "F32",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207557711881@",
+    "geniId": "6000000207557711881",
+    "rfn": "geni:6000000207557711881",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/89/",
+    "canonical": "https://www.genepedia.org/people/89/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

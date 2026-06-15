@@ -1,0 +1,131 @@
+{
+  "id": 1209,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-elizabeth",
+  "names": {
+    "display": "Catharina Elizabeth",
+    "given": "Catharina Elizabeth",
+    "surname": "Duvenhage",
+    "married": "",
+    "nick": "Rien",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "17 OCT 1953",
+      "year": 1953,
+      "iso": "1953-10-17",
+      "precision": "exact",
+      "display": "October 17, 1953",
+      "place": "Griekwastad, Noord-Kaap, Suid-Afrika",
+      "location": {
+        "label": "Griekwastad, Noord-Kaap, Suid-Afrika",
+        "placeName": "Griekwastad, Noord-Kaap, Suid-Afrika",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "7 FEB 1954",
+      "year": 1954,
+      "iso": "1954-02-07",
+      "precision": "exact",
+      "display": "February 7, 1954",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1207,
+      488
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1208
+    ],
+    "parentUnions": [
+      "F312"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1207,
+        "unionId": "F312",
+        "type": "biological"
+      },
+      {
+        "id": 488,
+        "unionId": "F312",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216150293825@",
+    "geniId": "6000000216150293825",
+    "rfn": "geni:6000000216150293825",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1209/",
+    "canonical": "https://www.genepedia.org/people/1209/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,132 @@
+{
+  "id": 1627,
+  "schema": "genepedia/person@1",
+  "slug": "marie-koopmans-de-wet-de-beer",
+  "names": {
+    "display": "Marie Koopmans de Wet de Beer",
+    "given": "Marie Koopmans de Wet",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 APR 1906",
+      "year": 1906,
+      "iso": "1906-04-18",
+      "precision": "exact",
+      "display": "April 18, 1906",
+      "place": "Parys, Free State, South Africa",
+      "location": {
+        "label": "Parys, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Parys",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 DEC 1986",
+      "year": 1986,
+      "iso": "1986-12-10",
+      "precision": "exact",
+      "display": "December 10, 1986",
+      "place": "Balfour, Mpumalanga, South Africa",
+      "location": {
+        "label": "Balfour, Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Balfour",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      661
+    ],
+    "exSpouses": [],
+    "children": [
+      1628
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F419",
+      "F1012"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 661,
+        "unionId": "F419",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1628,
+        "unionId": "F419",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000017524742040@",
+    "geniId": "6000000017524742040",
+    "rfn": "geni:6000000017524742040",
+    "changed": "02 DEC 2016"
+  },
+  "page": {
+    "route": "people/1627/",
+    "canonical": "https://www.genepedia.org/people/1627/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

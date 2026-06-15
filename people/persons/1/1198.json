@@ -1,0 +1,138 @@
+{
+  "id": 1198,
+  "schema": "genepedia/person@1",
+  "slug": "jan-hendrik-steenkamp-1198",
+  "names": {
+    "display": "Jan Hendrik Steenkamp",
+    "given": "Jan Hendrik",
+    "surname": "Steenkamp",
+    "married": "Steenkamp",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 NOV 1908",
+      "year": 1908,
+      "iso": "1908-11-15",
+      "precision": "exact",
+      "display": "November 15, 1908",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "10 JAN 1909",
+      "year": 1909,
+      "iso": "1909-01-10",
+      "precision": "exact",
+      "display": "January 10, 1909",
+      "place": "Niekerkshoop, Suid-Afrika",
+      "location": {
+        "label": "Niekerkshoop, Suid-Afrika",
+        "placeName": "Niekerkshoop, Suid-Afrika",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Jan Hendrik Steenkamp"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Botha Web Site",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1194,
+      1091
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      487,
+      1195,
+      1196,
+      1197,
+      1199,
+      1200,
+      1201,
+      1202,
+      1203,
+      1204,
+      1205,
+      1206
+    ],
+    "parentUnions": [
+      "F311"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1194,
+        "unionId": "F311",
+        "type": "biological"
+      },
+      {
+        "id": 1091,
+        "unionId": "F311",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216143945841@",
+    "geniId": "6000000216143945841",
+    "rfn": "geni:6000000216143945841",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/1198/",
+    "canonical": "https://www.genepedia.org/people/1198/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

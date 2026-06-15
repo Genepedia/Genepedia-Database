@@ -1,0 +1,116 @@
+{
+  "id": 2327,
+  "schema": "genepedia/person@1",
+  "slug": "sarel-johannes-marais-smit",
+  "names": {
+    "display": "Sarel Johannes Marais Smit",
+    "given": "Sarel Johannes Marais",
+    "surname": "Smit",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1929",
+      "year": 1929,
+      "iso": "1929",
+      "precision": "exact",
+      "display": "1929",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Stoorman",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ef/e9/57/19/5344484456be5289/record-image_3qsq-g9z5-l7w9_original.jpg?hash=ed5e98e7cb63d520c05a3f99a1f1542e048c019f4f0cfeb080c529fe1b18a1fc.1789455599",
+      "alt": "Sarel Johannes Marais Smit"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ef/e9/57/19/5344484456be5289/record-image_3qsq-g9z5-l7w9_original.jpg?hash=ed5e98e7cb63d520c05a3f99a1f1542e048c019f4f0cfeb080c529fe1b18a1fc.1789455599",
+        "form": "",
+        "title": "record-image trou 1953 .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      930
+    ],
+    "exSpouses": [],
+    "children": [
+      2328,
+      2329,
+      2330
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F589"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 930,
+        "unionId": "F589",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2328,
+        "unionId": "F589",
+        "type": "biological"
+      },
+      {
+        "id": 2329,
+        "unionId": "F589",
+        "type": "biological"
+      },
+      {
+        "id": 2330,
+        "unionId": "F589",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028162949885@",
+    "geniId": "6000000028162949885",
+    "rfn": "geni:6000000028162949885",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2327/",
+    "canonical": "https://www.genepedia.org/people/2327/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

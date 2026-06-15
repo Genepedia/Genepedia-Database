@@ -1,0 +1,92 @@
+{
+  "id": 609,
+  "schema": "genepedia/person@1",
+  "slug": "eben-de-beer",
+  "names": {
+    "display": "Eben de Beer",
+    "given": "Eben",
+    "surname": "de Beer",
+    "married": "de Beer",
+    "nick": "Seun",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "16 APR 1980",
+      "year": 1980,
+      "iso": "1980-04-16",
+      "precision": "exact",
+      "display": "April 16, 1980",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      223,
+      608
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      610
+    ],
+    "parentUnions": [
+      "F171"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 223,
+        "unionId": "F171",
+        "type": "biological"
+      },
+      {
+        "id": 608,
+        "unionId": "F171",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587383822@",
+    "geniId": "6000000206587383822",
+    "rfn": "geni:6000000206587383822",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/609/",
+    "canonical": "https://www.genepedia.org/people/609/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 2777,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-jacobus-fourie",
+  "names": {
+    "display": "Dirk Jacobus Fourie",
+    "given": "Dirk Jacobus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1128,
+      2775
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2776
+    ],
+    "parentUnions": [
+      "F688"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1128,
+        "unionId": "F688",
+        "type": "biological"
+      },
+      {
+        "id": 2775,
+        "unionId": "F688",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000018878551339@",
+    "geniId": "6000000018878551339",
+    "rfn": "geni:6000000018878551339",
+    "changed": "03 DEC 2016"
+  },
+  "page": {
+    "route": "people/2777/",
+    "canonical": "https://www.genepedia.org/people/2777/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

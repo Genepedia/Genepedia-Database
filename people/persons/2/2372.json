@@ -1,0 +1,103 @@
+{
+  "id": 2372,
+  "schema": "genepedia/person@1",
+  "slug": "carel-frederik-van-niekerk",
+  "names": {
+    "display": "Carel Frederik Van Niekerk",
+    "given": "Carel Frederik",
+    "surname": "Van Niekerk",
+    "married": "Van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 JAN 1918",
+      "year": 1918,
+      "iso": "1918-01-15",
+      "precision": "exact",
+      "display": "January 15, 1918",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2360,
+      947
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2361,
+      2362,
+      2363,
+      2364,
+      2365,
+      2366,
+      2367,
+      2368,
+      2369,
+      2370,
+      2371,
+      2373
+    ],
+    "parentUnions": [
+      "F598"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2360,
+        "unionId": "F598",
+        "type": "biological"
+      },
+      {
+        "id": 947,
+        "unionId": "F598",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208126814825@",
+    "geniId": "6000000208126814825",
+    "rfn": "geni:6000000208126814825",
+    "changed": "13 AUG 2024"
+  },
+  "page": {
+    "route": "people/2372/",
+    "canonical": "https://www.genepedia.org/people/2372/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

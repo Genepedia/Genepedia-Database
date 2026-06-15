@@ -1,0 +1,215 @@
+{
+  "id": 339,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-marthinus-bester-339",
+  "names": {
+    "display": "Jacobus Marthinus Bester",
+    "given": "Jacobus Marthinus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "Koot",
+    "aliases": [
+      "Jacobus Marthinus Bester"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 DEC 1898",
+      "year": 1898,
+      "iso": "1898-12-08",
+      "precision": "exact",
+      "display": "December 8, 1898",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "13 APR 1972",
+      "year": 1972,
+      "iso": "1972-04-13",
+      "precision": "exact",
+      "display": "April 13, 1972",
+      "place": "Valhalla, Centurion, Gauteng, South Africa",
+      "location": {
+        "label": "Valhalla, Centurion, Gauteng, South Africa",
+        "placeName": "Valhalla",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Centurion",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Graskop, Mpumalanga, South Africa",
+      "location": {
+        "label": "Graskop, Mpumalanga, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Graskop",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Mpumalanga",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/76/dd/af/21/534448456ef599ab/bester_jacobus_marthinus_1898_original.jpg?hash=c77a9ff70492d29e54bee81cb984eee59da80c03815c5e10b140123198f82990.1789455599",
+      "alt": "Jacobus Marthinus Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/76/dd/af/21/534448456ef599ab/bester_jacobus_marthinus_1898_original.jpg?hash=c77a9ff70492d29e54bee81cb984eee59da80c03815c5e10b140123198f82990.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      331,
+      332
+    ],
+    "spouses": [
+      856,
+      860
+    ],
+    "exSpouses": [],
+    "children": [
+      857,
+      858,
+      859
+    ],
+    "siblings": [
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      340,
+      129,
+      341,
+      342
+    ],
+    "parentUnions": [
+      "F107"
+    ],
+    "spouseUnions": [
+      "F237",
+      "F238"
+    ],
+    "parentLinks": [
+      {
+        "id": 331,
+        "unionId": "F107",
+        "type": "biological"
+      },
+      {
+        "id": 332,
+        "unionId": "F107",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 856,
+        "unionId": "F237",
+        "role": "partner"
+      },
+      {
+        "id": 860,
+        "unionId": "F238",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 857,
+        "unionId": "F237",
+        "type": "biological"
+      },
+      {
+        "id": 858,
+        "unionId": "F237",
+        "type": "biological"
+      },
+      {
+        "id": 859,
+        "unionId": "F237",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065161185070@",
+    "geniId": "6000000065161185070",
+    "rfn": "geni:6000000065161185070",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/339/",
+    "canonical": "https://www.genepedia.org/people/339/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1832,
+  "schema": "genepedia/person@1",
+  "slug": "eirc-ellis",
+  "names": {
+    "display": "Eirc Ellis",
+    "given": "Eirc",
+    "surname": "Ellis",
+    "married": "Ellis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1829,
+      1830
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      794,
+      1831
+    ],
+    "parentUnions": [
+      "F484"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1829,
+        "unionId": "F484",
+        "type": "biological"
+      },
+      {
+        "id": 1830,
+        "unionId": "F484",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000215282564822@",
+    "geniId": "6000000215282564822",
+    "rfn": "geni:6000000215282564822",
+    "changed": "11 FEB 2025"
+  },
+  "page": {
+    "route": "people/1832/",
+    "canonical": "https://www.genepedia.org/people/1832/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

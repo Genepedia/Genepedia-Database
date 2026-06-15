@@ -1,0 +1,102 @@
+{
+  "id": 3513,
+  "schema": "genepedia/person@1",
+  "slug": "anna-wilhelmina-magdalena-verheem",
+  "names": {
+    "display": "Anna Wilhelmina Magdalena Verheem",
+    "given": "Anna Wilhelmina Magdalena",
+    "surname": "Verheem",
+    "married": "van Enter",
+    "nick": "Anna Verheem",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1870",
+      "year": 1870,
+      "iso": "1870",
+      "precision": "exact",
+      "display": "1870",
+      "place": null
+    },
+    "death": {
+      "date": "1933",
+      "year": 1933,
+      "iso": "1933",
+      "precision": "exact",
+      "display": "1933",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3511,
+      1387
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3512,
+      3514,
+      3515,
+      3516
+    ],
+    "parentUnions": [
+      "F859"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3511,
+        "unionId": "F859",
+        "type": "biological"
+      },
+      {
+        "id": 1387,
+        "unionId": "F859",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000000041578313@",
+    "geniId": "6000000000041578313",
+    "rfn": "geni:6000000000041578313",
+    "changed": "12 FEB 2024"
+  },
+  "page": {
+    "route": "people/3513/",
+    "canonical": "https://www.genepedia.org/people/3513/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

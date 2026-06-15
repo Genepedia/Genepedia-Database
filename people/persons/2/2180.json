@@ -1,0 +1,174 @@
+{
+  "id": 2180,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-johanna-sinden",
+  "names": {
+    "display": "Elizabeth Johanna Sinden",
+    "given": "Elizabeth Johanna",
+    "surname": "Sinden",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 JAN 1902",
+      "year": 1902,
+      "iso": "1902-01-03",
+      "precision": "exact",
+      "display": "January 3, 1902",
+      "place": null
+    },
+    "death": {
+      "date": "19 MAY 1902",
+      "year": 1902,
+      "iso": "1902-05-19",
+      "precision": "exact",
+      "display": "May 19, 1902",
+      "place": "Douglas",
+      "location": {
+        "label": "Douglas",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "9 FEB 1902",
+      "year": 1902,
+      "iso": "1902-02-09",
+      "precision": "exact",
+      "display": "February 9, 1902",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/2a/8b/d1/c5/5344486216c9db8d/died_young_original.jpg?hash=1508673bbc6cd647a82745dbfa5549cf0357e66fc15d97053ed5eb17365e2f3e.1789455599",
+      "alt": "Elizabeth Johanna Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/2a/8b/d1/c5/5344486216c9db8d/died_young_original.jpg?hash=1508673bbc6cd647a82745dbfa5549cf0357e66fc15d97053ed5eb17365e2f3e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/3d/61/7f/90/53444840f8817d15/record-image_s3hy-65m9-7vq_original.jpg?hash=dec65b78e1128302c57e525866eb4e8735143a3d0460c75a0395601dddfcd126.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/fa/f7/df/8c/534448532c40a212/record-image_2__original.jpg?hash=c97e7550feb2d2be174d6504059a43418f9682f3a3cadbb82212e8f3e494fadd.1789455599",
+        "form": "",
+        "title": "record-image_ dood .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      895,
+      2173
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2174,
+      2175,
+      2176,
+      2177,
+      2178,
+      2179,
+      2181,
+      2182,
+      2183,
+      2184,
+      2185
+    ],
+    "parentUnions": [
+      "F557"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 895,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2173,
+        "unionId": "F557",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000044273381333@",
+    "geniId": "6000000044273381333",
+    "rfn": "geni:6000000044273381333",
+    "changed": "11 DEC 2022"
+  },
+  "page": {
+    "route": "people/2180/",
+    "canonical": "https://www.genepedia.org/people/2180/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

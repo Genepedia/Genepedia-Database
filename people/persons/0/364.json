@@ -1,0 +1,85 @@
+{
+  "id": 364,
+  "schema": "genepedia/person@1",
+  "slug": "wilna-bester",
+  "names": {
+    "display": "Wilna Bester",
+    "given": "Wilna",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      135,
+      362
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      363
+    ],
+    "parentUnions": [
+      "F113"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 135,
+        "unionId": "F113",
+        "type": "biological"
+      },
+      {
+        "id": 362,
+        "unionId": "F113",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066619438108@",
+    "geniId": "6000000066619438108",
+    "rfn": "geni:6000000066619438108",
+    "changed": "07 SEP 2017"
+  },
+  "page": {
+    "route": "people/364/",
+    "canonical": "https://www.genepedia.org/people/364/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

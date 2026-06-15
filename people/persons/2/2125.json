@@ -1,0 +1,151 @@
+{
+  "id": 2125,
+  "schema": "genepedia/person@1",
+  "slug": "richard-marks",
+  "names": {
+    "display": "Richard Marks",
+    "given": "Richard",
+    "surname": "Marks",
+    "married": "Marks",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1866",
+      "year": 1866,
+      "iso": "1866",
+      "precision": "exact",
+      "display": "1866",
+      "place": "Port Elizabeth, South Africa",
+      "location": {
+        "label": "Port Elizabeth, South Africa",
+        "placeName": "Port Elizabeth, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 FEB 1931",
+      "year": 1931,
+      "iso": "1931-02-18",
+      "precision": "exact",
+      "display": "February 18, 1931",
+      "place": "Johannesburg, South Africa",
+      "location": {
+        "label": "Johannesburg, South Africa",
+        "placeName": "Johannesburg, South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/d1/93/94/b0/5344484b006792ff/richard_marks_dn_original.jpg?hash=92b6ed8faa103359bf0fa6a106c8ac32223ed3f7f42c17127035a95fea737842.1789455599",
+      "alt": "Richard Marks"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/d1/93/94/b0/5344484b006792ff/richard_marks_dn_original.jpg?hash=92b6ed8faa103359bf0fa6a106c8ac32223ed3f7f42c17127035a95fea737842.1789455599",
+        "form": "",
+        "title": "Richard Marks DN.jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/60/cf/a3/b7/5344484b008b2340/info_of_death_original.jpg?hash=3b3b176dd4e5f28f2209d90fc86ba26ff2f8dc085654e01b873aae0c0b19de67.1789455599",
+        "form": "",
+        "title": "Info of Death.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/58/07/9f/3d/534448692ec0ca11/transcript_1__original.pdf?hash=304778e625d23fe2c5df78626c6fe6bb830c7fe67de2dcdf18c29fe2f3df992d.1789455599",
+        "form": "",
+        "title": "Transcript (1).pdf",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      883
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [
+      "F1305"
+    ],
+    "spouseUnions": [
+      "F551"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 883,
+        "unionId": "F551",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000037666453878@",
+    "geniId": "6000000037666453878",
+    "rfn": "geni:6000000037666453878",
+    "changed": "16 MAY 2023"
+  },
+  "page": {
+    "route": "people/2125/",
+    "canonical": "https://www.genepedia.org/people/2125/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

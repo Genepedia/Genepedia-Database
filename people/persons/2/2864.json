@@ -1,0 +1,94 @@
+{
+  "id": 2864,
+  "schema": "genepedia/person@1",
+  "slug": "anthony-van-lelyveld-davis",
+  "names": {
+    "display": "Anthony Van Lelyveld Davis",
+    "given": "Anthony Van Lelyveld",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 AUG 1879",
+      "year": 1879,
+      "iso": "1879-08-11",
+      "precision": "exact",
+      "display": "August 11, 1879",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1152,
+      2861
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2862,
+      2863,
+      2865
+    ],
+    "parentUnions": [
+      "F706"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1152,
+        "unionId": "F706",
+        "type": "biological"
+      },
+      {
+        "id": 2861,
+        "unionId": "F706",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000052893772958@",
+    "geniId": "6000000052893772958",
+    "rfn": "geni:6000000052893772958",
+    "changed": "18 JAN 2017"
+  },
+  "page": {
+    "route": "people/2864/",
+    "canonical": "https://www.genepedia.org/people/2864/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

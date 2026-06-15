@@ -1,0 +1,151 @@
+{
+  "id": 4382,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-johannes-viljoen",
+  "names": {
+    "display": "Abraham Johannes Viljoen",
+    "given": "Abraham Johannes",
+    "surname": "Viljoen",
+    "married": "Viljoen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 JAN 1869",
+      "year": 1869,
+      "iso": "1869-01-15",
+      "precision": "exact",
+      "display": "January 15, 1869",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "3 APR 1869",
+      "year": 1869,
+      "iso": "1869-04-03",
+      "precision": "exact",
+      "display": "April 3, 1869",
+      "place": "Kroonstad, Free State, South Africa",
+      "location": {
+        "label": "Kroonstad, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/04/fe/a0/c4/53444848386bbc0b/record-image_3q9m-c953-39ww-c_original.jpg?hash=ab53195f4804677484bc971c86236f093d311b91aac903b7dd560cd1f7e81733.1789455599",
+      "alt": "Abraham Johannes Viljoen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/04/fe/a0/c4/53444848386bbc0b/record-image_3q9m-c953-39ww-c_original.jpg?hash=ab53195f4804677484bc971c86236f093d311b91aac903b7dd560cd1f7e81733.1789455599",
+        "form": "",
+        "title": "VILJOEN, L.M. Baptism",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/c1/62/4d/f1/5344483f71e06a70/record-image_3q9m-c953-s92g-t_original.jpg?hash=dcdc84c3edae24e8997f1deb3c10d5e0d3ac9bfed9fbb654fde08e8b1f83f543.1789455599",
+        "form": "",
+        "title": "VILJOEN, A. J. Baptism, Kroonstad",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/6c/54/ce/04/5344484849929483/record-image_3q9m-c953-qs71-3_original.jpg?hash=ce7e33840fbb425caba870f757b5640814031e5cae919487f866c180de770012.1789455599",
+        "form": "",
+        "title": "VILJOEN, A.C. Baptism",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4380,
+      4381
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1718,
+      4383,
+      4384,
+      4385,
+      4386,
+      4387,
+      4388,
+      4389,
+      4390,
+      4391,
+      4392
+    ],
+    "parentUnions": [
+      "F1038"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4380,
+        "unionId": "F1038",
+        "type": "biological"
+      },
+      {
+        "id": 4381,
+        "unionId": "F1038",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040894891643@",
+    "geniId": "6000000040894891643",
+    "rfn": "geni:6000000040894891643",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/4382/",
+    "canonical": "https://www.genepedia.org/people/4382/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

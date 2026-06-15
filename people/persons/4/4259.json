@@ -1,0 +1,114 @@
+{
+  "id": 4259,
+  "schema": "genepedia/person@1",
+  "slug": "gesina-susanna-nel",
+  "names": {
+    "display": "Gesina Susanna Nel",
+    "given": "Gesina Susanna",
+    "surname": "Nel",
+    "married": "van Staden",
+    "nick": "Jessina Susanna",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 MAR 1844",
+      "year": 1844,
+      "iso": "1844-03-03",
+      "precision": "exact",
+      "display": "March 3, 1844",
+      "place": "Winterberg, Cape, South Africa",
+      "location": {
+        "label": "Winterberg, Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Winterberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4260
+    ],
+    "exSpouses": [],
+    "children": [
+      1611,
+      4261
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F999"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4260,
+        "unionId": "F999",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1611,
+        "unionId": "F999",
+        "type": "biological"
+      },
+      {
+        "id": 4261,
+        "unionId": "F999",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024144609545@",
+    "geniId": "6000000024144609545",
+    "rfn": "geni:6000000024144609545",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/4259/",
+    "canonical": "https://www.genepedia.org/people/4259/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

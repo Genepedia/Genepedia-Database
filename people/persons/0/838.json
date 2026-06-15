@@ -1,0 +1,129 @@
+{
+  "id": 838,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-johan-mitchell",
+  "names": {
+    "display": "Michiel Johan Mitchell",
+    "given": "Michiel Johan",
+    "surname": "Mitchell",
+    "married": "Mitchell",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 DEC 1915",
+      "year": 1915,
+      "iso": "1915-12-27",
+      "precision": "exact",
+      "display": "December 27, 1915",
+      "place": null
+    },
+    "death": {
+      "date": "23 AUG 1994",
+      "year": 1994,
+      "iso": "1994-08-23",
+      "precision": "exact",
+      "display": "August 23, 1994",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      831,
+      333
+    ],
+    "spouses": [
+      2011
+    ],
+    "exSpouses": [],
+    "children": [
+      2012,
+      2013
+    ],
+    "siblings": [
+      832,
+      833,
+      834,
+      835,
+      836,
+      837,
+      839
+    ],
+    "parentUnions": [
+      "F230"
+    ],
+    "spouseUnions": [
+      "F525"
+    ],
+    "parentLinks": [
+      {
+        "id": 831,
+        "unionId": "F230",
+        "type": "biological"
+      },
+      {
+        "id": 333,
+        "unionId": "F230",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2011,
+        "unionId": "F525",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2012,
+        "unionId": "F525",
+        "type": "biological"
+      },
+      {
+        "id": 2013,
+        "unionId": "F525",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066539620853@",
+    "geniId": "6000000066539620853",
+    "rfn": "geni:6000000066539620853",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/838/",
+    "canonical": "https://www.genepedia.org/people/838/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

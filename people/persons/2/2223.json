@@ -1,0 +1,196 @@
+{
+  "id": 2223,
+  "schema": "genepedia/person@1",
+  "slug": "martha-sophia-aletta-van-der-westhuyzen",
+  "names": {
+    "display": "Martha Sophia Aletta van der Westhuyzen",
+    "given": "Martha Sophia Aletta",
+    "surname": "van der Westhuyzen",
+    "married": "Kingsley",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 SEP 1885",
+      "year": 1885,
+      "iso": "1885-09-15",
+      "precision": "exact",
+      "display": "September 15, 1885",
+      "place": null
+    },
+    "death": {
+      "date": "21 DEC 1950",
+      "year": 1950,
+      "iso": "1950-12-21",
+      "precision": "exact",
+      "display": "December 21, 1950",
+      "place": "Alberton, Gauteng, South Africa",
+      "location": {
+        "label": "Alberton, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Alberton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Alberton, Gauteng, South Africa",
+      "location": {
+        "label": "Alberton, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Alberton",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/df/53/ce/cc/5344484572ea1491/martha_van_der_westhuizen_original.jpg?hash=b31a23380f7f827cc18f29762a54d7884288fddf7f5067b564ef9c12c1fed303.1789455599",
+      "alt": "Martha Sophia Aletta van der Westhuyzen"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/df/53/ce/cc/5344484572ea1491/martha_van_der_westhuizen_original.jpg?hash=b31a23380f7f827cc18f29762a54d7884288fddf7f5067b564ef9c12c1fed303.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/20/9b/6e/35/5344484572ed8af6/wedding_frank_martha_-_copy_-_copy_original.jpg?hash=a11b8d2c8109ddde6db2c0f8e476731f17384678f4333c5b43fb48067106283e.1789455599&version=1",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2222
+    ],
+    "exSpouses": [],
+    "children": [
+      905,
+      2224,
+      2225,
+      2226,
+      2227,
+      2228,
+      2229
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1376"
+    ],
+    "spouseUnions": [
+      "F565"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2222,
+        "unionId": "F565",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 905,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2224,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2225,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2226,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2227,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2228,
+        "unionId": "F565",
+        "type": "biological"
+      },
+      {
+        "id": 2229,
+        "unionId": "F565",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000065541138194@",
+    "geniId": "6000000065541138194",
+    "rfn": "geni:6000000065541138194",
+    "changed": "26 APR 2022"
+  },
+  "page": {
+    "route": "people/2223/",
+    "canonical": "https://www.genepedia.org/people/2223/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

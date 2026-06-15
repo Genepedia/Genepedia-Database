@@ -1,0 +1,120 @@
+{
+  "id": 1365,
+  "schema": "genepedia/person@1",
+  "slug": "rianka-franken",
+  "names": {
+    "display": "Rianka Franken",
+    "given": "Rianka",
+    "surname": "Franken",
+    "married": "Franken",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 FEB 1997",
+      "year": 1997,
+      "iso": "1997-02-18",
+      "precision": "exact",
+      "display": "February 18, 1997",
+      "place": "Paarl, Western Cape, South Africa",
+      "location": {
+        "label": "Paarl, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/0e/9c/88/b3/5344486602af5ac4/11020249_700854080023388_8466068111741871635_n_original.jpg?hash=6f44e79b1cd38b04fbf881393668bd838e5826d842b7c03476e908cd5c4d54a3.1789455599",
+      "alt": "Rianka Franken"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/0e/9c/88/b3/5344486602af5ac4/11020249_700854080023388_8466068111741871635_n_original.jpg?hash=6f44e79b1cd38b04fbf881393668bd838e5826d842b7c03476e908cd5c4d54a3.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1364,
+      555
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1366
+    ],
+    "parentUnions": [
+      "F350"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1364,
+        "unionId": "F350",
+        "type": "biological"
+      },
+      {
+        "id": 555,
+        "unionId": "F350",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227638146@",
+    "geniId": "6000000027227638146",
+    "rfn": "geni:6000000027227638146",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/1365/",
+    "canonical": "https://www.genepedia.org/people/1365/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

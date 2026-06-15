@@ -1,0 +1,92 @@
+{
+  "id": 2047,
+  "schema": "genepedia/person@1",
+  "slug": "stephanus-nicolaas-venter",
+  "names": {
+    "display": "Stephanus Nicolaas Venter",
+    "given": "Stephanus Nicolaas",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "Nicholas",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2043,
+      2044
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2045,
+      842,
+      2046,
+      2048,
+      2049,
+      2050,
+      2051,
+      2052
+    ],
+    "parentUnions": [
+      "F532"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2043,
+        "unionId": "F532",
+        "type": "biological"
+      },
+      {
+        "id": 2044,
+        "unionId": "F532",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000092588932221@",
+    "geniId": "6000000092588932221",
+    "rfn": "geni:6000000092588932221",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2047/",
+    "canonical": "https://www.genepedia.org/people/2047/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

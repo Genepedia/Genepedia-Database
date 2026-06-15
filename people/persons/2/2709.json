@@ -1,0 +1,157 @@
+{
+  "id": 2709,
+  "schema": "genepedia/person@1",
+  "slug": "gertruida-aletta-magdalena-van-vuren",
+  "names": {
+    "display": "Gertruida Aletta Magdalena van Vuren",
+    "given": "Gertruida Aletta Magdalena",
+    "surname": "van Vuren",
+    "married": "Jansen van Vuren",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1849",
+      "year": 1849,
+      "iso": "1849",
+      "precision": "exact",
+      "display": "1849",
+      "place": null
+    },
+    "death": {
+      "date": "15 AUG 1923",
+      "year": 1923,
+      "iso": "1923-08-15",
+      "precision": "exact",
+      "display": "August 15, 1923",
+      "place": "\"Klipfontein\", Northern Cape, South Africa",
+      "location": {
+        "label": "\"Klipfontein\", Northern Cape, South Africa",
+        "placeName": "\"Klipfontein\"",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "Hay",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/e1/9c/57/e5/534448482ca62706/record-image_3q9m-c91q-79vg-v_original.jpg?hash=6e4bd0b4fcc77be3ea49f0123f673ec1e8ed48809108898d02c0292ea4da726d.1789455599",
+      "alt": "Gertruida Aletta Magdalena van Vuren"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/e1/9c/57/e5/534448482ca62706/record-image_3q9m-c91q-79vg-v_original.jpg?hash=6e4bd0b4fcc77be3ea49f0123f673ec1e8ed48809108898d02c0292ea4da726d.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/4f/55/a7/06/5344485e6aba33ca/record-image_1__original.jpg?hash=130428fb8d7b2f123b0e961bc7310da9c2131cc22faf39540c5380b25402fdf7.1789455599",
+        "form": "",
+        "title": "record-image_ trou  1867.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2707,
+      2708
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      2557,
+      2689,
+      2724
+    ],
+    "siblings": [
+      1089,
+      2710
+    ],
+    "parentUnions": [
+      "F666"
+    ],
+    "spouseUnions": [
+      "F1566"
+    ],
+    "parentLinks": [
+      {
+        "id": 2707,
+        "unionId": "F666",
+        "type": "biological"
+      },
+      {
+        "id": 2708,
+        "unionId": "F666",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 2557,
+        "unionId": "F1566",
+        "type": "biological"
+      },
+      {
+        "id": 2689,
+        "unionId": "F1566",
+        "type": "biological"
+      },
+      {
+        "id": 2724,
+        "unionId": "F1566",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000070629076465@",
+    "geniId": "6000000070629076465",
+    "rfn": "geni:6000000070629076465",
+    "changed": "10 OCT 2024"
+  },
+  "page": {
+    "route": "people/2709/",
+    "canonical": "https://www.genepedia.org/people/2709/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

@@ -1,0 +1,130 @@
+{
+  "id": 1420,
+  "schema": "genepedia/person@1",
+  "slug": "adiena-margaretha",
+  "names": {
+    "display": "Adiena Margaretha",
+    "given": "Adiena Margaretha",
+    "surname": "De Beer",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1934",
+      "year": 1934,
+      "iso": "1934",
+      "precision": "exact",
+      "display": "1934",
+      "place": "Garies, Northern Cape, South Africa",
+      "location": {
+        "label": "Garies, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Garies",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      573,
+      1410
+    ],
+    "spouses": [
+      3715
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1411,
+      1412,
+      1413,
+      1414,
+      1415,
+      1416,
+      1417,
+      1418,
+      1419,
+      1421,
+      1422,
+      1423,
+      1424
+    ],
+    "parentUnions": [
+      "F362"
+    ],
+    "spouseUnions": [
+      "F892"
+    ],
+    "parentLinks": [
+      {
+        "id": 573,
+        "unionId": "F362",
+        "type": "biological"
+      },
+      {
+        "id": 1410,
+        "unionId": "F362",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3715,
+        "unionId": "F892",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000038269203941@",
+    "geniId": "6000000038269203941",
+    "rfn": "geni:6000000038269203941",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/1420/",
+    "canonical": "https://www.genepedia.org/people/1420/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

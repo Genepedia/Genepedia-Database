@@ -1,0 +1,147 @@
+{
+  "id": 1033,
+  "schema": "genepedia/person@1",
+  "slug": "hester-judith-jacobs",
+  "names": {
+    "display": "Hester Judith Jacobs",
+    "given": "Hester Judith",
+    "surname": "Jacobs",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 MAR 1925",
+      "year": 1925,
+      "iso": "1925-03-12",
+      "precision": "exact",
+      "display": "March 12, 1925",
+      "place": "Petrusville",
+      "location": {
+        "label": "Petrusville",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Petrusville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "5 MAY 1925",
+      "year": 1925,
+      "iso": "1925-05-05",
+      "precision": "exact",
+      "display": "May 5, 1925",
+      "place": "Petrusville",
+      "location": {
+        "label": "Petrusville",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Petrusville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1026,
+      1027
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1028,
+      1029,
+      1030,
+      1031,
+      1032,
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      424
+    ],
+    "parentUnions": [
+      "F281"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1026,
+        "unionId": "F281",
+        "type": "biological"
+      },
+      {
+        "id": 1027,
+        "unionId": "F281",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000205442321829@",
+    "geniId": "6000000205442321829",
+    "rfn": "geni:6000000205442321829",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/1033/",
+    "canonical": "https://www.genepedia.org/people/1033/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 3858,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-francois-germishuizen-3858",
+  "names": {
+    "display": "Hendrik Francois Germishuizen",
+    "given": "Hendrik Francois",
+    "surname": "Germishuizen",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "7 MAR 1928",
+      "year": 1928,
+      "iso": "1928-03-07",
+      "precision": "exact",
+      "display": "March 7, 1928",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1521,
+      3851
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3852,
+      3853,
+      3854,
+      3855,
+      3856,
+      3857
+    ],
+    "parentUnions": [
+      "F916"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1521,
+        "unionId": "F916",
+        "type": "biological"
+      },
+      {
+        "id": 3851,
+        "unionId": "F916",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000171830189046@",
+    "geniId": "6000000171830189046",
+    "rfn": "geni:6000000171830189046",
+    "changed": "25 JAN 2021"
+  },
+  "page": {
+    "route": "people/3858/",
+    "canonical": "https://www.genepedia.org/people/3858/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

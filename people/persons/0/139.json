@@ -1,0 +1,254 @@
+{
+  "id": 139,
+  "schema": "genepedia/person@1",
+  "slug": "alida-petronella-cloete",
+  "names": {
+    "display": "Alida Petronella Cloete",
+    "given": "Alida Petronella",
+    "surname": "Cloete",
+    "married": "Roselt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 MAR 1892",
+      "year": 1892,
+      "iso": "1892-03-24",
+      "precision": "exact",
+      "display": "March 24, 1892",
+      "place": "Hay, Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Hay, Douglas, Northern Cape, South Africa",
+        "placeName": "Hay",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "8730",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "24 JAN 1948",
+      "year": 1948,
+      "iso": "1948-01-24",
+      "precision": "exact",
+      "display": "January 24, 1948",
+      "place": "Bucklands",
+      "location": {
+        "label": "Bucklands",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bucklands",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Main Cemetery, Bucklands",
+      "location": {
+        "label": "Main Cemetery, Bucklands",
+        "placeName": "Main Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bucklands",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/2f/95/76/59/5344485f39dc8a8e/blb0012b_original.jpg?hash=021ae6b0d10260a9e3df6db266adccc8fb64ba1b390dd8302c0684c2edfac277.1789455599",
+      "alt": "Alida Petronella Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/2f/95/76/59/5344485f39dc8a8e/blb0012b_original.jpg?hash=021ae6b0d10260a9e3df6db266adccc8fb64ba1b390dd8302c0684c2edfac277.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/e4/e7/4b/1e/5344485f3c60819d/record-image_1__original.jpg?hash=ddcf69662bad042ca335646c85a48a908d9c8d935ad671cb9b9af27f120f5d7a.1789455599",
+        "form": "",
+        "title": "record-image_ dood 1 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/3e/f0/0b/90/534448636226f175/record-image__original.jpg?hash=840e91275466a1e7318036ba07a6d65363982b7b9400042d8f68f15b67ad9399.1789455599",
+        "form": "",
+        "title": "record-image_trou 1915 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      381,
+      382
+    ],
+    "spouses": [
+      138
+    ],
+    "exSpouses": [],
+    "children": [
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      40,
+      146,
+      147,
+      148
+    ],
+    "siblings": [
+      383,
+      384
+    ],
+    "parentUnions": [
+      "F118"
+    ],
+    "spouseUnions": [
+      "F47"
+    ],
+    "parentLinks": [
+      {
+        "id": 381,
+        "unionId": "F118",
+        "type": "biological"
+      },
+      {
+        "id": 382,
+        "unionId": "F118",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 138,
+        "unionId": "F47",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 140,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 141,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 142,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 143,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 144,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 145,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 40,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 146,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 147,
+        "unionId": "F47",
+        "type": "biological"
+      },
+      {
+        "id": 148,
+        "unionId": "F47",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165275383@",
+    "geniId": "6000000028165275383",
+    "rfn": "geni:6000000028165275383",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/139/",
+    "canonical": "https://www.genepedia.org/people/139/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

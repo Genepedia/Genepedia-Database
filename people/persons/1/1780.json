@@ -1,0 +1,101 @@
+{
+  "id": 1780,
+  "schema": "genepedia/person@1",
+  "slug": "carl-steinberg",
+  "names": {
+    "display": "Carl Steinberg",
+    "given": "Carl",
+    "surname": "Steinberg",
+    "married": "Steinberg",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4533,
+      4534
+    ],
+    "spouses": [
+      1781
+    ],
+    "exSpouses": [],
+    "children": [
+      737
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1079"
+    ],
+    "spouseUnions": [
+      "F466"
+    ],
+    "parentLinks": [
+      {
+        "id": 4533,
+        "unionId": "F1079",
+        "type": "biological"
+      },
+      {
+        "id": 4534,
+        "unionId": "F1079",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1781,
+        "unionId": "F466",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 737,
+        "unionId": "F466",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000217943731837@",
+    "geniId": "6000000217943731837",
+    "rfn": "geni:6000000217943731837",
+    "changed": "12 FEB 2026"
+  },
+  "page": {
+    "route": "people/1780/",
+    "canonical": "https://www.genepedia.org/people/1780/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

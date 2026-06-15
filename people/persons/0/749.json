@@ -1,0 +1,132 @@
+{
+  "id": 749,
+  "schema": "genepedia/person@1",
+  "slug": "diane-lurie",
+  "names": {
+    "display": "Diane Lurie",
+    "given": "Diane",
+    "surname": "Lurie",
+    "married": "Room",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1962",
+      "year": 1962,
+      "iso": "1962",
+      "precision": "exact",
+      "display": "1962",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/bb/61/44/4a/534448663b3ecd3f/screenshot_2024-07-20_233311_original.jpg?hash=df7405194776c674c2405483b272e4cb32e5864c4424f549498bdd597b564d32.1789455599",
+      "alt": "Diane Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/bb/61/44/4a/534448663b3ecd3f/screenshot_2024-07-20_233311_original.jpg?hash=df7405194776c674c2405483b272e4cb32e5864c4424f549498bdd597b564d32.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      300,
+      745
+    ],
+    "spouses": [
+      1791
+    ],
+    "exSpouses": [],
+    "children": [
+      1792,
+      1793
+    ],
+    "siblings": [
+      746,
+      747,
+      748,
+      750,
+      751
+    ],
+    "parentUnions": [
+      "F210"
+    ],
+    "spouseUnions": [
+      "F471"
+    ],
+    "parentLinks": [
+      {
+        "id": 300,
+        "unionId": "F210",
+        "type": "biological"
+      },
+      {
+        "id": 745,
+        "unionId": "F210",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1791,
+        "unionId": "F471",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1792,
+        "unionId": "F471",
+        "type": "biological"
+      },
+      {
+        "id": 1793,
+        "unionId": "F471",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204087544822@",
+    "geniId": "6000000204087544822",
+    "rfn": "geni:6000000204087544822",
+    "changed": "20 JUL 2024"
+  },
+  "page": {
+    "route": "people/749/",
+    "canonical": "https://www.genepedia.org/people/749/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

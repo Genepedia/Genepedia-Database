@@ -1,0 +1,113 @@
+{
+  "id": 793,
+  "schema": "genepedia/person@1",
+  "slug": "geraldine-ackerman",
+  "names": {
+    "display": "Geraldine Ackerman",
+    "given": "Geraldine",
+    "surname": "Ackerman",
+    "married": "Vigne",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Sales rep",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e8/d2/84/3c/5344486570e31330/screenshot_2024-03-14_161150_original.jpg?hash=bbbb7bd42b9dc5b178c6c5d8b4e73a8319c348e58acb7b151bbfc5cba27eb501.1789455599",
+      "alt": "Geraldine Ackerman"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e8/d2/84/3c/5344486570e31330/screenshot_2024-03-14_161150_original.jpg?hash=bbbb7bd42b9dc5b178c6c5d8b4e73a8319c348e58acb7b151bbfc5cba27eb501.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      312
+    ],
+    "spouses": [
+      1826
+    ],
+    "exSpouses": [],
+    "children": [
+      1827,
+      1828
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F221"
+    ],
+    "spouseUnions": [
+      "F483"
+    ],
+    "parentLinks": [
+      {
+        "id": 312,
+        "unionId": "F221",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1826,
+        "unionId": "F483",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1827,
+        "unionId": "F483",
+        "type": "biological"
+      },
+      {
+        "id": 1828,
+        "unionId": "F483",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204053069828@",
+    "geniId": "6000000204053069828",
+    "rfn": "geni:6000000204053069828",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/793/",
+    "canonical": "https://www.genepedia.org/people/793/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

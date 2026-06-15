@@ -1,0 +1,85 @@
+{
+  "id": 1822,
+  "schema": "genepedia/person@1",
+  "slug": "kunzwakwaishe-mupombwa",
+  "names": {
+    "display": "Kunzwakwaishe Mupombwa",
+    "given": "Kunzwakwaishe",
+    "surname": "Mupombwa",
+    "married": "Mupombwa",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      789,
+      1821
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1823
+    ],
+    "parentUnions": [
+      "F481"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 789,
+        "unionId": "F481",
+        "type": "biological"
+      },
+      {
+        "id": 1821,
+        "unionId": "F481",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207544674848@",
+    "geniId": "6000000207544674848",
+    "rfn": "geni:6000000207544674848",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1822/",
+    "canonical": "https://www.genepedia.org/people/1822/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

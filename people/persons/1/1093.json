@@ -1,0 +1,183 @@
+{
+  "id": 1093,
+  "schema": "genepedia/person@1",
+  "slug": "gerrit-stefanus-maritz",
+  "names": {
+    "display": "Gerrit Stefanus Maritz",
+    "given": "Gerrit Stefanus",
+    "surname": "Maritz",
+    "married": "Maritz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 JUN 1856",
+      "year": 1856,
+      "iso": "1856-06-09",
+      "precision": "exact",
+      "display": "June 9, 1856",
+      "place": "Prieska, Cape Province, South Africa",
+      "location": {
+        "label": "Prieska, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prieska",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "3 APR 1910",
+      "year": 1910,
+      "iso": "1910-04-03",
+      "precision": "exact",
+      "display": "April 3, 1910",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "6 JUL 1856",
+      "year": 1856,
+      "iso": "1856-07-06",
+      "precision": "exact",
+      "display": "July 6, 1856",
+      "place": "Fraserburg, NC, South Africa",
+      "location": {
+        "label": "Fraserburg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fraserburg",
+        "postalCode": "6960",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1153,
+      1154
+    ],
+    "spouses": [
+      433,
+      2712
+    ],
+    "exSpouses": [],
+    "children": [
+      2713
+    ],
+    "siblings": [
+      1155,
+      1156,
+      1157,
+      448,
+      1158
+    ],
+    "parentUnions": [
+      "F305"
+    ],
+    "spouseUnions": [
+      "F289",
+      "F669"
+    ],
+    "parentLinks": [
+      {
+        "id": 1153,
+        "unionId": "F305",
+        "type": "biological"
+      },
+      {
+        "id": 1154,
+        "unionId": "F305",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 433,
+        "unionId": "F289",
+        "role": "partner"
+      },
+      {
+        "id": 2712,
+        "unionId": "F669",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2713,
+        "unionId": "F669",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000039363632139@",
+    "geniId": "6000000039363632139",
+    "rfn": "geni:6000000039363632139",
+    "changed": "17 SEP 2025"
+  },
+  "page": {
+    "route": "people/1093/",
+    "canonical": "https://www.genepedia.org/people/1093/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

@@ -1,0 +1,234 @@
+{
+  "id": 1000,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-adrian-jooste",
+  "names": {
+    "display": "Joseph Adrian Jooste",
+    "given": "Joseph Adrian",
+    "surname": "Jooste",
+    "married": "Jooste",
+    "nick": "Adriaan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 JAN 1818",
+      "year": 1818,
+      "iso": "1818-01-03",
+      "precision": "exact",
+      "display": "January 3, 1818",
+      "place": "Ceres, South Africa",
+      "location": {
+        "label": "Ceres, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ceres",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 OCT 1886",
+      "year": 1886,
+      "iso": "1886-10-28",
+      "precision": "exact",
+      "display": "October 28, 1886",
+      "place": "Prieska, South Africa",
+      "location": {
+        "label": "Prieska, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Prieska",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "12 APR 1818",
+      "year": 1818,
+      "iso": "1818-04-12",
+      "precision": "exact",
+      "display": "April 12, 1818",
+      "place": "Tulbagh, South Africa",
+      "location": {
+        "label": "Tulbagh, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Vee boer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/47/14/7f/fe/534448684a8548e8/joseph_adriaan_jooste_marriage__original.jpg?hash=fd930632007a297f47323274683a20e8d0e250d3afd668277634a8a8cdf1a82c.1789455599",
+      "alt": "Joseph Adrian Jooste"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/47/14/7f/fe/534448684a8548e8/joseph_adriaan_jooste_marriage__original.jpg?hash=fd930632007a297f47323274683a20e8d0e250d3afd668277634a8a8cdf1a82c.1789455599",
+        "form": "",
+        "title": "Joseph Adriaan Jooste marriage .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/e1/e5/d7/95/534448684cdd4660/image_85__original.jpg?hash=bb9b763e09b8420ebea1e647efffcd6760b3767cbff34c5385458a1566e41d39.1789455599",
+        "form": "",
+        "title": "image (85).jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2438,
+      2437
+    ],
+    "spouses": [
+      1001
+    ],
+    "exSpouses": [],
+    "children": [
+      1002,
+      416,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007
+    ],
+    "siblings": [
+      2439,
+      2440,
+      2441,
+      2442,
+      2443,
+      2444,
+      2445,
+      2446
+    ],
+    "parentUnions": [
+      "F615"
+    ],
+    "spouseUnions": [
+      "F277"
+    ],
+    "parentLinks": [
+      {
+        "id": 2438,
+        "unionId": "F615",
+        "type": "biological"
+      },
+      {
+        "id": 2437,
+        "unionId": "F615",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1001,
+        "unionId": "F277",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1002,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 416,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1003,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1004,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1005,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1006,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1007,
+        "unionId": "F277",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000097044187925@",
+    "geniId": "6000000097044187925",
+    "rfn": "geni:6000000097044187925",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1000/",
+    "canonical": "https://www.genepedia.org/people/1000/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

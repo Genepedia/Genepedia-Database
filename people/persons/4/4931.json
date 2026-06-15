@@ -1,0 +1,161 @@
+{
+  "id": 4931,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-droskie",
+  "names": {
+    "display": "Petrus Johannes Droskie",
+    "given": "Petrus Johannes",
+    "surname": "Droskie",
+    "married": "Droskie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 AUG 1834",
+      "year": 1834,
+      "iso": "1834-08-15",
+      "precision": "exact",
+      "display": "August 15, 1834",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 AUG 1920",
+      "year": 1920,
+      "iso": "1920-08-01",
+      "precision": "exact",
+      "display": "August 1, 1920",
+      "place": "House of son, D Drotske, Smithfield, Orange Free State Province, Union of South Africa",
+      "location": {
+        "label": "House of son, D Drotske, Smithfield, Orange Free State Province, Union of South Africa",
+        "placeName": "House of son, D Drotske",
+        "addressLine1": "Lichtenstein",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Orange Free State Province",
+        "country": "Union of South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/a3/7a/5c/72/5344485043e3d749/vab_d1020_petrus_joahannes_drskie_sk_original.jpg?hash=5df6acaf8c76a0ea95b51e4e1ba90a9633e2c6a55b5de28f3b50bfdb84ea5fcb.1789455599",
+      "alt": "Petrus Johannes Droskie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/a3/7a/5c/72/5344485043e3d749/vab_d1020_petrus_joahannes_drskie_sk_original.jpg?hash=5df6acaf8c76a0ea95b51e4e1ba90a9633e2c6a55b5de28f3b50bfdb84ea5fcb.1789455599",
+        "form": "",
+        "title": "VAB D1020 Petrus Joahannes Drskie  SK.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4930
+    ],
+    "exSpouses": [],
+    "children": [
+      4932,
+      1916,
+      4933,
+      4934
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1169"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4930,
+        "unionId": "F1169",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4932,
+        "unionId": "F1169",
+        "type": "biological"
+      },
+      {
+        "id": 1916,
+        "unionId": "F1169",
+        "type": "biological"
+      },
+      {
+        "id": 4933,
+        "unionId": "F1169",
+        "type": "biological"
+      },
+      {
+        "id": 4934,
+        "unionId": "F1169",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000075251405848@",
+    "geniId": "6000000075251405848",
+    "rfn": "geni:6000000075251405848",
+    "changed": "19 AUG 2022"
+  },
+  "page": {
+    "route": "people/4931/",
+    "canonical": "https://www.genepedia.org/people/4931/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

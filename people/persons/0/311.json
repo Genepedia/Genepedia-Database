@@ -1,0 +1,116 @@
+{
+  "id": 311,
+  "schema": "genepedia/person@1",
+  "slug": "karel-johannes-van-bosch",
+  "names": {
+    "display": "Karel Johannes van Bosch",
+    "given": "Karel Johannes",
+    "surname": "van Bosch",
+    "married": "van Bosch",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/56/4c/0b/98/5344486624438fa5/325912789_539864241540384_657264858183002375_n_original.jpg?hash=1d0e0ae66b33ebeb148ba1af4674da83ddcad32953c3f3efca30c8a6af58c494.1789455599",
+      "alt": "Karel Johannes van Bosch"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/56/4c/0b/98/5344486624438fa5/325912789_539864241540384_657264858183002375_n_original.jpg?hash=1d0e0ae66b33ebeb148ba1af4674da83ddcad32953c3f3efca30c8a6af58c494.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      309,
+      114
+    ],
+    "spouses": [
+      791
+    ],
+    "exSpouses": [],
+    "children": [
+      792
+    ],
+    "siblings": [
+      310,
+      312
+    ],
+    "parentUnions": [
+      "F100"
+    ],
+    "spouseUnions": [
+      "F220"
+    ],
+    "parentLinks": [
+      {
+        "id": 309,
+        "unionId": "F100",
+        "type": "biological"
+      },
+      {
+        "id": 114,
+        "unionId": "F100",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 791,
+        "unionId": "F220",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 792,
+        "unionId": "F220",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204050568847@",
+    "geniId": "6000000204050568847",
+    "rfn": "geni:6000000204050568847",
+    "changed": "06 JUL 2024"
+  },
+  "page": {
+    "route": "people/311/",
+    "canonical": "https://www.genepedia.org/people/311/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

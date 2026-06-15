@@ -1,0 +1,103 @@
+{
+  "id": 617,
+  "schema": "genepedia/person@1",
+  "slug": "rouxan-goodwin",
+  "names": {
+    "display": "Rouxan Goodwin",
+    "given": "Rouxan",
+    "surname": "Goodwin",
+    "married": "Goodwin",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/55/57/a1/74/534448659f0dec2b/screenshot_2024-04-06_181139_original.jpg?hash=e2c313476428df689bdb78c0a0bd080e1c56dc884500189b5a1e8a727909f83a.1789455599",
+      "alt": "Rouxan Goodwin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/55/57/a1/74/534448659f0dec2b/screenshot_2024-04-06_181139_original.jpg?hash=e2c313476428df689bdb78c0a0bd080e1c56dc884500189b5a1e8a727909f83a.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      616
+    ],
+    "exSpouses": [],
+    "children": [
+      226,
+      618
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F173"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 616,
+        "unionId": "F173",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 226,
+        "unionId": "F173",
+        "type": "biological"
+      },
+      {
+        "id": 618,
+        "unionId": "F173",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204861365849@",
+    "geniId": "6000000204861365849",
+    "rfn": "geni:6000000204861365849",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/617/",
+    "canonical": "https://www.genepedia.org/people/617/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

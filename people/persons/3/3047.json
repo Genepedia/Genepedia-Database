@@ -1,0 +1,166 @@
+{
+  "id": 3047,
+  "schema": "genepedia/person@1",
+  "slug": "christel-massyn",
+  "names": {
+    "display": "Christel Massyn",
+    "given": "Christel",
+    "surname": "Massyn",
+    "married": "Steenkamp",
+    "nick": "Christel",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 MAY 1968",
+      "year": 1968,
+      "iso": "1968-05-11",
+      "precision": "exact",
+      "display": "May 11, 1968",
+      "place": null
+    },
+    "death": {
+      "date": "6 APR 2012",
+      "year": 2012,
+      "iso": "2012-04-06",
+      "precision": "exact",
+      "display": "April 6, 2012",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Vooruitsig Muur van Herhinderinge, Kimberley, NC, South Africa",
+      "location": {
+        "label": "Vooruitsig Muur van Herhinderinge, Kimberley, NC, South Africa",
+        "placeName": "Vooruitsig Muur van Herhinderinge",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kimberley",
+        "postalCode": "8301",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/eb/a6/22/0e/53444868402e8658/d153d952-ffa1-40dc-a60f-7eee40f9a09d_original.jpg?hash=92bb7cbf2414127702c41395813104890f37488b560ddcbf21e467065664bd17.1789455599",
+      "alt": "Christel Massyn"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/eb/a6/22/0e/53444868402e8658/d153d952-ffa1-40dc-a60f-7eee40f9a09d_original.jpg?hash=92bb7cbf2414127702c41395813104890f37488b560ddcbf21e467065664bd17.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/b8/7e/2e/56/534448684025a8d2/9054261_original.jpg?hash=4cef93cdf10477a58833186cff7a71184dcf66bd357898b1a1d19ab52c1fa926.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1218
+    ],
+    "exSpouses": [],
+    "children": [
+      3048,
+      3049
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1897"
+    ],
+    "spouseUnions": [
+      "F747"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1218,
+        "unionId": "F747",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3048,
+        "unionId": "F747",
+        "type": "biological"
+      },
+      {
+        "id": 3049,
+        "unionId": "F747",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209123352851@",
+    "geniId": "6000000209123352851",
+    "rfn": "geni:6000000209123352851",
+    "changed": "09 MAR 2025"
+  },
+  "page": {
+    "route": "people/3047/",
+    "canonical": "https://www.genepedia.org/people/3047/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

@@ -1,0 +1,142 @@
+{
+  "id": 3610,
+  "schema": "genepedia/person@1",
+  "slug": "maria-magdalena-meintjes",
+  "names": {
+    "display": "Maria Magdalena Meintjes",
+    "given": "Maria Magdalena",
+    "surname": "Meintjes",
+    "married": "Britton",
+    "nick": "Mary Magdalene",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 JUL 1880",
+      "year": 1880,
+      "iso": "1880-07-05",
+      "precision": "exact",
+      "display": "July 5, 1880",
+      "place": "Aberdeen, EC, South Africa",
+      "location": {
+        "label": "Aberdeen, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 NOV 1953",
+      "year": 1953,
+      "iso": "1953-11-10",
+      "precision": "exact",
+      "display": "November 10, 1953",
+      "place": "Onderstepoort, Pretoria, GP, South Africa",
+      "location": {
+        "label": "Onderstepoort, Pretoria, GP, South Africa",
+        "placeName": "Onderstepoort",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Pretoria",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1401,
+      3609
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3611,
+      3612,
+      3613,
+      3614,
+      3615,
+      3616,
+      3617,
+      3618,
+      3619,
+      3620,
+      3621,
+      3622
+    ],
+    "parentUnions": [
+      "F874"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1401,
+        "unionId": "F874",
+        "type": "biological"
+      },
+      {
+        "id": 3609,
+        "unionId": "F874",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000010565948977@",
+    "geniId": "6000000010565948977",
+    "rfn": "geni:6000000010565948977",
+    "changed": "15 JAN 2026"
+  },
+  "page": {
+    "route": "people/3610/",
+    "canonical": "https://www.genepedia.org/people/3610/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

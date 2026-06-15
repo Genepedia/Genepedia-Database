@@ -1,0 +1,86 @@
+{
+  "id": 4482,
+  "schema": "genepedia/person@1",
+  "slug": "alec-kree",
+  "names": {
+    "display": "Alec Kree",
+    "given": "Alec",
+    "surname": "Kree",
+    "married": "Kree",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1747,
+      4479
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4480,
+      4481
+    ],
+    "parentUnions": [
+      "F1061"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1747,
+        "unionId": "F1061",
+        "type": "biological"
+      },
+      {
+        "id": 4479,
+        "unionId": "F1061",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I312361099180005813@",
+    "geniId": "312361099180005813",
+    "rfn": "geni:312361099180005813",
+    "changed": "24 MAY 2018"
+  },
+  "page": {
+    "route": "people/4482/",
+    "canonical": "https://www.genepedia.org/people/4482/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

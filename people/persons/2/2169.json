@@ -1,0 +1,152 @@
+{
+  "id": 2169,
+  "schema": "genepedia/person@1",
+  "slug": "annie-young-hibbert",
+  "names": {
+    "display": "Annie Young Hibbert",
+    "given": "Annie Young",
+    "surname": "Hibbert",
+    "married": "de'Ath",
+    "nick": "Ann Johanna (Young)",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 MAY 1895",
+      "year": 1895,
+      "iso": "1895-05-07",
+      "precision": "exact",
+      "display": "May 7, 1895",
+      "place": null
+    },
+    "death": {
+      "date": "1976",
+      "year": 1976,
+      "iso": "1976",
+      "precision": "exact",
+      "display": "1976",
+      "place": null
+    },
+    "baptism": {
+      "date": "17 NOV 1895",
+      "year": 1895,
+      "iso": "1895-11-17",
+      "precision": "exact",
+      "display": "November 17, 1895",
+      "place": "Griekwastad, South Africa",
+      "location": {
+        "label": "Griekwastad, South Africa",
+        "placeName": "Griekwastad",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/8d/73/9f/c8/5344484177f16b90/record-image_3qs7-l9sw-7c7b_original.jpg?hash=a045e87f197826270a46133ad8156e6c817997646b9b5093e9eaa1ce83846dbe.1789455599",
+      "alt": "Annie Young Hibbert"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/8d/73/9f/c8/5344484177f16b90/record-image_3qs7-l9sw-7c7b_original.jpg?hash=a045e87f197826270a46133ad8156e6c817997646b9b5093e9eaa1ce83846dbe.1789455599",
+        "form": "",
+        "title": "record-image_trou 1915  .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/9f/63/1c/43/53444862b576822d/record-image__original.jpg?hash=eb2bd4e9a87188b2f792bdf59c4b690856ca0f7abb6de653bbc4e364e935e33b.1789455599",
+        "form": "",
+        "title": "record-image_birth  .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2162,
+      893
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2163,
+      2164,
+      2165,
+      2166,
+      2167,
+      2168,
+      2170,
+      2171,
+      2172
+    ],
+    "parentUnions": [
+      "F556"
+    ],
+    "spouseUnions": [
+      "F1333",
+      "F1334"
+    ],
+    "parentLinks": [
+      {
+        "id": 2162,
+        "unionId": "F556",
+        "type": "biological"
+      },
+      {
+        "id": 893,
+        "unionId": "F556",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028101776924@",
+    "geniId": "6000000028101776924",
+    "rfn": "geni:6000000028101776924",
+    "changed": "02 MAR 2023"
+  },
+  "page": {
+    "route": "people/2169/",
+    "canonical": "https://www.genepedia.org/people/2169/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

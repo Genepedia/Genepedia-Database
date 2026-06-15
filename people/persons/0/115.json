@@ -1,0 +1,161 @@
+{
+  "id": 115,
+  "schema": "genepedia/person@1",
+  "slug": "marianne-lurie",
+  "names": {
+    "display": "Marianne Lurie",
+    "given": "Marianne",
+    "surname": "Lurie",
+    "married": "",
+    "nick": "Marian",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1957",
+      "year": 1957,
+      "iso": "1957",
+      "precision": "exact",
+      "display": "1957",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "ABT 2013",
+      "year": 2013,
+      "iso": "2013",
+      "precision": "about",
+      "display": "about 2013",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/03/12/30/c5/534448680c2a35cc/screenshot_2025-02-11_150712_original.jpg?hash=54061b350658feb600f2e315437f249b9ea31cf3004fe0440dcd33c9ad2a5779.1789455599",
+      "alt": "Marianne Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/03/12/30/c5/534448680c2a35cc/screenshot_2025-02-11_150712_original.jpg?hash=54061b350658feb600f2e315437f249b9ea31cf3004fe0440dcd33c9ad2a5779.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      110,
+      109
+    ],
+    "spouses": [
+      313
+    ],
+    "exSpouses": [],
+    "children": [
+      314,
+      315,
+      316
+    ],
+    "siblings": [
+      111,
+      112,
+      35,
+      113,
+      114
+    ],
+    "parentUnions": [
+      "F40"
+    ],
+    "spouseUnions": [
+      "F101"
+    ],
+    "parentLinks": [
+      {
+        "id": 110,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 109,
+        "unionId": "F40",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 313,
+        "unionId": "F101",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 314,
+        "unionId": "F101",
+        "type": "biological"
+      },
+      {
+        "id": 315,
+        "unionId": "F101",
+        "type": "biological"
+      },
+      {
+        "id": 316,
+        "unionId": "F101",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204016522843@",
+    "geniId": "6000000204016522843",
+    "rfn": "geni:6000000204016522843",
+    "changed": "11 FEB 2025"
+  },
+  "page": {
+    "route": "people/115/",
+    "canonical": "https://www.genepedia.org/people/115/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

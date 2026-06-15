@@ -1,0 +1,112 @@
+{
+  "id": 614,
+  "schema": "genepedia/person@1",
+  "slug": "aldo-van-der-linde",
+  "names": {
+    "display": "Aldo van der Linde",
+    "given": "Aldo",
+    "surname": "van der Linde",
+    "married": "van der Linde",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "24 MAR 1982",
+      "year": 1982,
+      "iso": "1982-03-24",
+      "precision": "exact",
+      "display": "March 24, 1982",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      611,
+      224
+    ],
+    "spouses": [
+      1512
+    ],
+    "exSpouses": [],
+    "children": [
+      1513
+    ],
+    "siblings": [
+      612,
+      613,
+      615
+    ],
+    "parentUnions": [
+      "F172"
+    ],
+    "spouseUnions": [
+      "F389"
+    ],
+    "parentLinks": [
+      {
+        "id": 611,
+        "unionId": "F172",
+        "type": "biological"
+      },
+      {
+        "id": 224,
+        "unionId": "F172",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1512,
+        "unionId": "F389",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1513,
+        "unionId": "F389",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206587176904@",
+    "geniId": "6000000206587176904",
+    "rfn": "geni:6000000206587176904",
+    "changed": "18 JUN 2024"
+  },
+  "page": {
+    "route": "people/614/",
+    "canonical": "https://www.genepedia.org/people/614/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

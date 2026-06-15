@@ -1,0 +1,162 @@
+{
+  "id": 2984,
+  "schema": "genepedia/person@1",
+  "slug": "maria-christina-de-klerk",
+  "names": {
+    "display": "Maria Christina De Klerk",
+    "given": "Maria Christina",
+    "surname": "De Klerk",
+    "married": "Blaauw",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 OCT 1921",
+      "year": 1921,
+      "iso": "1921-10-22",
+      "precision": "exact",
+      "display": "October 22, 1921",
+      "place": null
+    },
+    "death": {
+      "date": "25 NOV 1998",
+      "year": 1998,
+      "iso": "1998-11-25",
+      "precision": "exact",
+      "display": "November 25, 1998",
+      "place": "Upington, South Africa",
+      "location": {
+        "label": "Upington, South Africa",
+        "placeName": "Upington",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Upington",
+      "location": {
+        "label": "Upington",
+        "placeName": "Upington",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/1e/c6/c7/89/5344483b2a2e1331/manie_en_maria_blaaw_de_klerk__original.jpg?hash=7ee8d5fe70dc695ef001df132faa80bf6bc29e02ccf6ac877be9b7fc7ae1fa42.1789455599",
+      "alt": "Maria Christina De Klerk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/1e/c6/c7/89/5344483b2a2e1331/manie_en_maria_blaaw_de_klerk__original.jpg?hash=7ee8d5fe70dc695ef001df132faa80bf6bc29e02ccf6ac877be9b7fc7ae1fa42.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/30/0a/4e/1f/5344483aaf00dacb/weet_nie_original.jpg?hash=16ba6769ffbc091a3dbdcadbf3769d6550652df6496438b1facafe3e49a05fbd.1789455599",
+        "form": "",
+        "title": "Maria Christina De Klerk",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1184,
+      2983
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2985,
+      2986,
+      2987
+    ],
+    "parentUnions": [
+      "F728"
+    ],
+    "spouseUnions": [
+      "F1871"
+    ],
+    "parentLinks": [
+      {
+        "id": 1184,
+        "unionId": "F728",
+        "type": "biological"
+      },
+      {
+        "id": 2983,
+        "unionId": "F728",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000019188067036@",
+    "geniId": "6000000019188067036",
+    "rfn": "geni:6000000019188067036",
+    "changed": "04 DEC 2016"
+  },
+  "page": {
+    "route": "people/2984/",
+    "canonical": "https://www.genepedia.org/people/2984/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

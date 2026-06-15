@@ -1,0 +1,104 @@
+{
+  "id": 194,
+  "schema": "genepedia/person@1",
+  "slug": "heymans",
+  "names": {
+    "display": "? Heymans",
+    "given": "?",
+    "surname": "Heymans",
+    "married": "Heymans",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "BET 1930 AND 1956",
+      "year": 1930,
+      "iso": "1956",
+      "precision": "exact",
+      "display": "1956",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/fa/50/59/53/534448674b532cd5/screenshot_20241206_120420_original.jpg?hash=2d4d21cd34fa1c6d24d9a6da2812ebcbf00abc13974f5f20b27f2ad7773ededa.1789455599",
+      "alt": "? Heymans"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/fa/50/59/53/534448674b532cd5/screenshot_20241206_120420_original.jpg?hash=2d4d21cd34fa1c6d24d9a6da2812ebcbf00abc13974f5f20b27f2ad7773ededa.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      193
+    ],
+    "exSpouses": [],
+    "children": [
+      54
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F59"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 193,
+        "unionId": "F59",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 54,
+        "unionId": "F59",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208166533821@",
+    "geniId": "6000000208166533821",
+    "rfn": "geni:6000000208166533821",
+    "changed": "19 JAN 2025"
+  },
+  "page": {
+    "route": "people/194/",
+    "canonical": "https://www.genepedia.org/people/194/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

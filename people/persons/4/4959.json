@@ -1,0 +1,102 @@
+{
+  "id": 4959,
+  "schema": "genepedia/person@1",
+  "slug": "david-petrus-jacobus",
+  "names": {
+    "display": "David Petrus Jacobus",
+    "given": "David Petrus Jacobus",
+    "surname": "Smith",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 MAY 1912",
+      "year": 1912,
+      "iso": "1912-05-08",
+      "precision": "exact",
+      "display": "May 8, 1912",
+      "place": null
+    },
+    "death": {
+      "date": "23 SEP 1972",
+      "year": 1972,
+      "iso": "1972-09-23",
+      "precision": "exact",
+      "display": "September 23, 1972",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4955,
+      1925
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4956,
+      4957,
+      4958,
+      4960
+    ],
+    "parentUnions": [
+      "F1176"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4955,
+        "unionId": "F1176",
+        "type": "biological"
+      },
+      {
+        "id": 1925,
+        "unionId": "F1176",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000089491327918@",
+    "geniId": "6000000089491327918",
+    "rfn": "geni:6000000089491327918",
+    "changed": "19 MAR 2019"
+  },
+  "page": {
+    "route": "people/4959/",
+    "canonical": "https://www.genepedia.org/people/4959/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

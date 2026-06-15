@@ -1,0 +1,97 @@
+{
+  "id": 1248,
+  "schema": "genepedia/person@1",
+  "slug": "shannon-victor-davies",
+  "names": {
+    "display": "Shannon Victor Davies",
+    "given": "Shannon Victor",
+    "surname": "Davies",
+    "married": "Davies",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/1e/6d/62/86/5344486629c5f240/screenshot_2024-07-09_152758_original.jpg?hash=c0338b481477a5c6fb8fb7f2e15ae55d7fd6cf801fd8adee8ed6f6349394847c.1789455599",
+      "alt": "Shannon Victor Davies"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/1e/6d/62/86/5344486629c5f240/screenshot_2024-07-09_152758_original.jpg?hash=c0338b481477a5c6fb8fb7f2e15ae55d7fd6cf801fd8adee8ed6f6349394847c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1247,
+      512
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1249
+    ],
+    "parentUnions": [
+      "F326"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1247,
+        "unionId": "F326",
+        "type": "biological"
+      },
+      {
+        "id": 512,
+        "unionId": "F326",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207188835828@",
+    "geniId": "6000000207188835828",
+    "rfn": "geni:6000000207188835828",
+    "changed": "09 JUL 2024"
+  },
+  "page": {
+    "route": "people/1248/",
+    "canonical": "https://www.genepedia.org/people/1248/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

@@ -1,0 +1,119 @@
+{
+  "id": 3617,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-weyers-meintjes",
+  "names": {
+    "display": "Pieter Weyers Meintjes",
+    "given": "Pieter Weyers",
+    "surname": "Meintjes",
+    "married": "Meintjes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 JUL 1889",
+      "year": 1889,
+      "iso": "1889-07-28",
+      "precision": "exact",
+      "display": "July 28, 1889",
+      "place": "Hartbeesfontein, FS, South Africa",
+      "location": {
+        "label": "Hartbeesfontein, FS, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hartbeesfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "FS",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1401,
+      3609
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3610,
+      3611,
+      3612,
+      3613,
+      3614,
+      3615,
+      3616,
+      3618,
+      3619,
+      3620,
+      3621,
+      3622
+    ],
+    "parentUnions": [
+      "F874"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1401,
+        "unionId": "F874",
+        "type": "biological"
+      },
+      {
+        "id": 3609,
+        "unionId": "F874",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000010566420907@",
+    "geniId": "6000000010566420907",
+    "rfn": "geni:6000000010566420907",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3617/",
+    "canonical": "https://www.genepedia.org/people/3617/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

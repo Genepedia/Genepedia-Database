@@ -1,0 +1,126 @@
+{
+  "id": 503,
+  "schema": "genepedia/person@1",
+  "slug": "philippus-christoffel-fourie-503",
+  "names": {
+    "display": "Philippus Christoffel Fourie",
+    "given": "Philippus Christoffel",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": "Griekwastad, Northern Cape, South Africa",
+  "lastResidenceLocation": {
+    "label": "Griekwastad, Northern Cape, South Africa",
+    "placeName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "addressLine3": "",
+    "city": "Griekwastad",
+    "postalCode": "",
+    "county": "",
+    "stateProvince": "Northern Cape",
+    "country": "South Africa",
+    "countryCode": "",
+    "latitude": "",
+    "longitude": "",
+    "source": ""
+  },
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      176,
+      502
+    ],
+    "spouses": [
+      1240
+    ],
+    "exSpouses": [],
+    "children": [
+      1241,
+      1242
+    ],
+    "siblings": [
+      504,
+      505,
+      506
+    ],
+    "parentUnions": [
+      "F144"
+    ],
+    "spouseUnions": [
+      "F323"
+    ],
+    "parentLinks": [
+      {
+        "id": 176,
+        "unionId": "F144",
+        "type": "biological"
+      },
+      {
+        "id": 502,
+        "unionId": "F144",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1240,
+        "unionId": "F323",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1241,
+        "unionId": "F323",
+        "type": "biological"
+      },
+      {
+        "id": 1242,
+        "unionId": "F323",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000007753937425@",
+    "geniId": "6000000007753937425",
+    "rfn": "geni:6000000007753937425",
+    "changed": "21 JUL 2024"
+  },
+  "page": {
+    "route": "people/503/",
+    "canonical": "https://www.genepedia.org/people/503/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,98 @@
+{
+  "id": 3251,
+  "schema": "genepedia/person@1",
+  "slug": "petronella-anna-mouton",
+  "names": {
+    "display": "Petronella Anna Mouton",
+    "given": "Petronella Anna",
+    "surname": "Mouton",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 FEB 1908",
+      "year": 1908,
+      "iso": "1908-02-20",
+      "precision": "exact",
+      "display": "February 20, 1908",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1295,
+      1306
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3249,
+      3250,
+      3252,
+      3253,
+      3254,
+      3255,
+      3256
+    ],
+    "parentUnions": [
+      "F799"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1295,
+        "unionId": "F799",
+        "type": "biological"
+      },
+      {
+        "id": 1306,
+        "unionId": "F799",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000107287320022@",
+    "geniId": "6000000107287320022",
+    "rfn": "geni:6000000107287320022",
+    "changed": "31 JAN 2025"
+  },
+  "page": {
+    "route": "people/3251/",
+    "canonical": "https://www.genepedia.org/people/3251/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

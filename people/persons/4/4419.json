@@ -1,0 +1,143 @@
+{
+  "id": 4419,
+  "schema": "genepedia/person@1",
+  "slug": "clarissa-gertruida-corrie-4419",
+  "names": {
+    "display": "Clarissa Gertruida Corrie",
+    "given": "Clarissa Gertruida",
+    "surname": "Corrie",
+    "married": "Pelser",
+    "nick": "Clariesa",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 SEP 1917",
+      "year": 1917,
+      "iso": "1917-09-03",
+      "precision": "exact",
+      "display": "September 3, 1917",
+      "place": null
+    },
+    "death": {
+      "date": "10 NOV 1943",
+      "year": 1943,
+      "iso": "1943-11-10",
+      "precision": "exact",
+      "display": "November 10, 1943",
+      "place": "Rustenburg, South Africa",
+      "location": {
+        "label": "Rustenburg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Rustenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ac/0f/8b/b0/5344483feb1ba955/record-image_3qs7-99z5-f9ms-g_original.jpg?hash=b10a2d636b1d0f2dce73e86473f32390dbaf273e96f87c0d059b2907d2af3639.1789455599",
+      "alt": "Clarissa Gertruida Corrie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ac/0f/8b/b0/5344483feb1ba955/record-image_3qs7-99z5-f9ms-g_original.jpg?hash=b10a2d636b1d0f2dce73e86473f32390dbaf273e96f87c0d059b2907d2af3639.1789455599",
+        "form": "",
+        "title": "CORRIE, C. G. Baptism",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/02/77/5a/8b/5344483fe0bcb014/record-image_33sq-gt9q-jjk_original.jpg?hash=67de52ab50323a72b9ead4428ec690680dd6c05f3ee52765bbf1e6718affaee1.1789455599",
+        "form": "",
+        "title": "PELSER, F.C. & CORRIE, C. G. Marriage",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/e7/35/90/a6/5344484c613b63ee/record-image_undefined_22__original.jpg?hash=928da8f37ae1900be9da68832f794769b9e02080e5ef56c6d17a9d27a7986d6e.1789455599",
+        "form": "",
+        "title": "PELSER (born CORRIE), C.G. Death",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1723,
+      4417
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4418,
+      4420,
+      4421
+    ],
+    "parentUnions": [
+      "F1045"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1723,
+        "unionId": "F1045",
+        "type": "biological"
+      },
+      {
+        "id": 4417,
+        "unionId": "F1045",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021367643223@",
+    "geniId": "6000000021367643223",
+    "rfn": "geni:6000000021367643223",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/4419/",
+    "canonical": "https://www.genepedia.org/people/4419/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

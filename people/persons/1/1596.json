@@ -1,0 +1,115 @@
+{
+  "id": 1596,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-johannes-le-roux",
+  "names": {
+    "display": "Hendrik Johannes le Roux",
+    "given": "Hendrik Johannes",
+    "surname": "le Roux",
+    "married": "le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1595,
+      638
+    ],
+    "spouses": [
+      4202
+    ],
+    "exSpouses": [],
+    "children": [
+      4203,
+      4204,
+      4205
+    ],
+    "siblings": [
+      1597
+    ],
+    "parentUnions": [
+      "F404"
+    ],
+    "spouseUnions": [
+      "F987"
+    ],
+    "parentLinks": [
+      {
+        "id": 1595,
+        "unionId": "F404",
+        "type": "biological"
+      },
+      {
+        "id": 638,
+        "unionId": "F404",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4202,
+        "unionId": "F987",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4203,
+        "unionId": "F987",
+        "type": "biological"
+      },
+      {
+        "id": 4204,
+        "unionId": "F987",
+        "type": "biological"
+      },
+      {
+        "id": 4205,
+        "unionId": "F987",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000002433004172@",
+    "geniId": "6000000002433004172",
+    "rfn": "geni:6000000002433004172",
+    "changed": "21 NOV 2014"
+  },
+  "page": {
+    "route": "people/1596/",
+    "canonical": "https://www.genepedia.org/people/1596/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

@@ -1,0 +1,127 @@
+{
+  "id": 1829,
+  "schema": "genepedia/person@1",
+  "slug": "patrick-hendrik-ellis",
+  "names": {
+    "display": "Patrick Hendrik Ellis",
+    "given": "Patrick Hendrik",
+    "surname": "Ellis",
+    "married": "Ellis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 AUG 1881",
+      "year": 1881,
+      "iso": "1881-08-20",
+      "precision": "exact",
+      "display": "August 20, 1881",
+      "place": null
+    },
+    "death": {
+      "date": "17 FEB 1959",
+      "year": 1959,
+      "iso": "1959-02-17",
+      "precision": "exact",
+      "display": "February 17, 1959",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4566,
+      4567
+    ],
+    "spouses": [
+      1830
+    ],
+    "exSpouses": [],
+    "children": [
+      794,
+      1831,
+      1832
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1095"
+    ],
+    "spouseUnions": [
+      "F484"
+    ],
+    "parentLinks": [
+      {
+        "id": 4566,
+        "unionId": "F1095",
+        "type": "biological"
+      },
+      {
+        "id": 4567,
+        "unionId": "F1095",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1830,
+        "unionId": "F484",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 794,
+        "unionId": "F484",
+        "type": "biological"
+      },
+      {
+        "id": 1831,
+        "unionId": "F484",
+        "type": "biological"
+      },
+      {
+        "id": 1832,
+        "unionId": "F484",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207953650825@",
+    "geniId": "6000000207953650825",
+    "rfn": "geni:6000000207953650825",
+    "changed": "19 FEB 2025"
+  },
+  "page": {
+    "route": "people/1829/",
+    "canonical": "https://www.genepedia.org/people/1829/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

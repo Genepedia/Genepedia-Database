@@ -1,0 +1,150 @@
+{
+  "id": 3689,
+  "schema": "genepedia/person@1",
+  "slug": "christine-jacoba-van-bosch",
+  "names": {
+    "display": "Christine Jacoba van Bosch",
+    "given": "Christine Jacoba",
+    "surname": "van Bosch",
+    "married": "",
+    "nick": "Christine",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 AUG 1889",
+      "year": 1889,
+      "iso": "1889-08-23",
+      "precision": "exact",
+      "display": "August 23, 1889",
+      "place": null
+    },
+    "death": {
+      "date": "27 APR 1954",
+      "year": 1954,
+      "iso": "1954-04-27",
+      "precision": "exact",
+      "display": "April 27, 1954",
+      "place": "Kaapstad, South Africa",
+      "location": {
+        "label": "Kaapstad, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kaapstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "10 JAN 1891",
+      "year": 1891,
+      "iso": "1891-01-10",
+      "precision": "exact",
+      "display": "January 10, 1891",
+      "place": "Vryburg, South Africa",
+      "location": {
+        "label": "Vryburg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vryburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3679,
+      3678
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1410,
+      3680,
+      3681,
+      3682,
+      3683,
+      3684,
+      3685,
+      3686,
+      3687,
+      3688,
+      3690,
+      3691,
+      3692
+    ],
+    "parentUnions": [
+      "F883"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3679,
+        "unionId": "F883",
+        "type": "biological"
+      },
+      {
+        "id": 3678,
+        "unionId": "F883",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021196736400@",
+    "geniId": "6000000021196736400",
+    "rfn": "geni:6000000021196736400",
+    "changed": "05 MAY 2022"
+  },
+  "page": {
+    "route": "people/3689/",
+    "canonical": "https://www.genepedia.org/people/3689/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

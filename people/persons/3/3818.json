@@ -1,0 +1,85 @@
+{
+  "id": 3818,
+  "schema": "genepedia/person@1",
+  "slug": "johan-andre-hugo-may",
+  "names": {
+    "display": "Johan Andre Hugo May",
+    "given": "Johan Andre Hugo",
+    "surname": "May",
+    "married": "May",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1443
+    ],
+    "exSpouses": [],
+    "children": [
+      3819
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F907"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1443,
+        "unionId": "F907",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3819,
+        "unionId": "F907",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000172235183202@",
+    "geniId": "6000000172235183202",
+    "rfn": "geni:6000000172235183202",
+    "changed": "04 FEB 2021"
+  },
+  "page": {
+    "route": "people/3818/",
+    "canonical": "https://www.genepedia.org/people/3818/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

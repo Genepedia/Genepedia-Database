@@ -1,0 +1,140 @@
+{
+  "id": 2181,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-johanna-sinden-2181",
+  "names": {
+    "display": "Elizabeth Johanna Sinden",
+    "given": "Elizabeth Johanna",
+    "surname": "Sinden",
+    "married": "van Lelyveld",
+    "nick": "Liza",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 MAY 1903",
+      "year": 1903,
+      "iso": "1903-05-12",
+      "precision": "exact",
+      "display": "May 12, 1903",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "9 AUG 1903",
+      "year": 1903,
+      "iso": "1903-08-09",
+      "precision": "exact",
+      "display": "August 9, 1903",
+      "place": "Douglas, South Africa",
+      "location": {
+        "label": "Douglas, South Africa",
+        "placeName": "Douglas",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/0c/b3/96/53/53444840f87b7605/record-image_s3hy-65m9-7vb_original.jpg?hash=1e80b1bacdd294fc32bb21740daab53839e814bf137bbcd405d82864562d86d0.1789455599",
+      "alt": "Elizabeth Johanna Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/0c/b3/96/53/53444840f87b7605/record-image_s3hy-65m9-7vb_original.jpg?hash=1e80b1bacdd294fc32bb21740daab53839e814bf137bbcd405d82864562d86d0.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      895,
+      2173
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2174,
+      2175,
+      2176,
+      2177,
+      2178,
+      2179,
+      2180,
+      2182,
+      2183,
+      2184,
+      2185
+    ],
+    "parentUnions": [
+      "F557"
+    ],
+    "spouseUnions": [
+      "F1341",
+      "F1342"
+    ],
+    "parentLinks": [
+      {
+        "id": 895,
+        "unionId": "F557",
+        "type": "biological"
+      },
+      {
+        "id": 2173,
+        "unionId": "F557",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028409662618@",
+    "geniId": "6000000028409662618",
+    "rfn": "geni:6000000028409662618",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2181/",
+    "canonical": "https://www.genepedia.org/people/2181/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

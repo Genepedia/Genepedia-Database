@@ -1,0 +1,87 @@
+{
+  "id": 392,
+  "schema": "genepedia/person@1",
+  "slug": "meisie-de-koker",
+  "names": {
+    "display": "Meisie De Koker",
+    "given": "Meisie",
+    "surname": "De Koker",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      388,
+      143
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      389,
+      390,
+      391
+    ],
+    "parentUnions": [
+      "F121"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 388,
+        "unionId": "F121",
+        "type": "biological"
+      },
+      {
+        "id": 143,
+        "unionId": "F121",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000046661934192@",
+    "geniId": "6000000046661934192",
+    "rfn": "geni:6000000046661934192",
+    "changed": "08 SEP 2016"
+  },
+  "page": {
+    "route": "people/392/",
+    "canonical": "https://www.genepedia.org/people/392/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

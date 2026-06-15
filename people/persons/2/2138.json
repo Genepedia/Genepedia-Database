@@ -1,0 +1,183 @@
+{
+  "id": 2138,
+  "schema": "genepedia/person@1",
+  "slug": "john-sinden-2138",
+  "names": {
+    "display": "John Sinden",
+    "given": "John",
+    "surname": "Sinden",
+    "married": "Sinden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1809",
+      "year": 1809,
+      "iso": "1809",
+      "precision": "exact",
+      "display": "1809",
+      "place": "Debtling, England, United Kingdom",
+      "location": {
+        "label": "Debtling, England, United Kingdom",
+        "placeName": "Debtling",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 APR 1840",
+      "year": 1840,
+      "iso": "1840-04-15",
+      "precision": "exact",
+      "display": "April 15, 1840",
+      "place": "Cape Town, Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Town, Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "Bruitengracht",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "13 AUG 1809",
+      "year": 1809,
+      "iso": "1809-08-13",
+      "precision": "exact",
+      "display": "August 13, 1809",
+      "place": "Detling, England, United Kingdom",
+      "location": {
+        "label": "Detling, England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Detling",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Carpenter",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e5/ec/f0/68/5344486216c7ef63/download_original.jpg?hash=0106c3364d5b79a708b30b8dc97c31ea2377da50e3ccd5d2cf5222e8936b28b0.1789455599",
+      "alt": "John Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e5/ec/f0/68/5344486216c7ef63/download_original.jpg?hash=0106c3364d5b79a708b30b8dc97c31ea2377da50e3ccd5d2cf5222e8936b28b0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/c5/e8/f4/79/5344485f37187845/record-image_1__original.jpg?hash=5860a1d4fd342f8bc8f1e277f502e5b63e17da2e26c62ec5b872f301782aedbc.1789455599",
+        "form": "",
+        "title": "record-image_ dood .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2136,
+      2137
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2139,
+      2140,
+      2141,
+      2142,
+      887,
+      2143,
+      2144,
+      2145,
+      2146,
+      2147,
+      2148
+    ],
+    "parentUnions": [
+      "F554"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2136,
+        "unionId": "F554",
+        "type": "biological"
+      },
+      {
+        "id": 2137,
+        "unionId": "F554",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028063990974@",
+    "geniId": "6000000028063990974",
+    "rfn": "geni:6000000028063990974",
+    "changed": "07 SEP 2023"
+  },
+  "page": {
+    "route": "people/2138/",
+    "canonical": "https://www.genepedia.org/people/2138/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

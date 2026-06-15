@@ -1,0 +1,178 @@
+{
+  "id": 1937,
+  "schema": "genepedia/person@1",
+  "slug": "philippus-johannes-bester",
+  "names": {
+    "display": "Philippus Johannes Bester",
+    "given": "Philippus Johannes",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 NOV 1900",
+      "year": 1900,
+      "iso": "1900-11-20",
+      "precision": "exact",
+      "display": "November 20, 1900",
+      "place": null
+    },
+    "death": {
+      "date": "31 AUG 1930",
+      "year": 1930,
+      "iso": "1930-08-31",
+      "precision": "exact",
+      "display": "August 31, 1930",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Postmasburg, Northern Cape, South Africa",
+      "location": {
+        "label": "Postmasburg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Postmasburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/64/8c/c4/7f/5344484584e4bfb5/bester_philippus_johannes_1900_original.jpg?hash=162bc39c1400467b00c3cb5ca16fc0665fe880393346b69f93a892161c95279f.1789455599",
+      "alt": "Philippus Johannes Bester"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/64/8c/c4/7f/5344484584e4bfb5/bester_philippus_johannes_1900_original.jpg?hash=162bc39c1400467b00c3cb5ca16fc0665fe880393346b69f93a892161c95279f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      819,
+      830
+    ],
+    "spouses": [
+      4986
+    ],
+    "exSpouses": [],
+    "children": [
+      4987,
+      4988,
+      4989
+    ],
+    "siblings": [
+      1932,
+      1933,
+      1934,
+      1935,
+      1936,
+      1938,
+      1939,
+      1940,
+      1941,
+      1942,
+      1943,
+      1944,
+      1945,
+      1946
+    ],
+    "parentUnions": [
+      "F508"
+    ],
+    "spouseUnions": [
+      "F1183"
+    ],
+    "parentLinks": [
+      {
+        "id": 819,
+        "unionId": "F508",
+        "type": "biological"
+      },
+      {
+        "id": 830,
+        "unionId": "F508",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4986,
+        "unionId": "F1183",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4987,
+        "unionId": "F1183",
+        "type": "biological"
+      },
+      {
+        "id": 4988,
+        "unionId": "F1183",
+        "type": "biological"
+      },
+      {
+        "id": 4989,
+        "unionId": "F1183",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066964926975@",
+    "geniId": "6000000066964926975",
+    "rfn": "geni:6000000066964926975",
+    "changed": "21 MAR 2019"
+  },
+  "page": {
+    "route": "people/1937/",
+    "canonical": "https://www.genepedia.org/people/1937/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

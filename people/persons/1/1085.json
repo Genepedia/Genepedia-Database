@@ -1,0 +1,110 @@
+{
+  "id": 1085,
+  "schema": "genepedia/person@1",
+  "slug": "dirk-johannes-kotze",
+  "names": {
+    "display": "Dirk Johannes Kotze",
+    "given": "Dirk Johannes",
+    "surname": "Kotze",
+    "married": "Kotze",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 NOV 1886",
+      "year": 1886,
+      "iso": "1886-11-08",
+      "precision": "exact",
+      "display": "November 8, 1886",
+      "place": null
+    },
+    "death": {
+      "date": "28 APR 1939",
+      "year": 1939,
+      "iso": "1939-04-28",
+      "precision": "exact",
+      "display": "April 28, 1939",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1075,
+      431
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1086,
+      1087,
+      1088
+    ],
+    "parentUnions": [
+      "F287"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1075,
+        "unionId": "F287",
+        "type": "biological"
+      },
+      {
+        "id": 431,
+        "unionId": "F287",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000220974552845@",
+    "geniId": "6000000220974552845",
+    "rfn": "geni:6000000220974552845",
+    "changed": "03 SEP 2025"
+  },
+  "page": {
+    "route": "people/1085/",
+    "canonical": "https://www.genepedia.org/people/1085/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

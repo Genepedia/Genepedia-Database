@@ -1,0 +1,104 @@
+{
+  "id": 801,
+  "schema": "genepedia/person@1",
+  "slug": "jayde-brown",
+  "names": {
+    "display": "Jayde Brown",
+    "given": "Jayde",
+    "surname": "Brown",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "BEF 23 APR 2015",
+      "year": 2015,
+      "iso": "2015-04-23",
+      "precision": "before",
+      "display": "before April 23, 2015",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b9/e3/80/53/5344486657384917/screenshot_2024-08-07_140110_original.jpg?hash=b988d075e6aa967d9be0a0e1323b8df9e4624a1795619ac195a274df6adc3cc8.1789455599",
+      "alt": "Jayde Brown"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b9/e3/80/53/5344486657384917/screenshot_2024-08-07_140110_original.jpg?hash=b988d075e6aa967d9be0a0e1323b8df9e4624a1795619ac195a274df6adc3cc8.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      800,
+      314
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      802
+    ],
+    "parentUnions": [
+      "F223"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 800,
+        "unionId": "F223",
+        "type": "biological"
+      },
+      {
+        "id": 314,
+        "unionId": "F223",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000207951769821@",
+    "geniId": "6000000207951769821",
+    "rfn": "geni:6000000207951769821",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/801/",
+    "canonical": "https://www.genepedia.org/people/801/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

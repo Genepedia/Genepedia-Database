@@ -1,0 +1,98 @@
+{
+  "id": 1850,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-de-wal-droskie",
+  "names": {
+    "display": "Johannes de Wal Droskie",
+    "given": "Johannes de Wal",
+    "surname": "Droskie",
+    "married": "Droskie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": null,
+    "death": {
+      "date": "1912",
+      "year": 1912,
+      "iso": "1912",
+      "precision": "exact",
+      "display": "1912",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      811
+    ],
+    "exSpouses": [],
+    "children": [
+      1851,
+      1852
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F494"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 811,
+        "unionId": "F494",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1851,
+        "unionId": "F494",
+        "type": "biological"
+      },
+      {
+        "id": 1852,
+        "unionId": "F494",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000023992011279@",
+    "geniId": "6000000023992011279",
+    "rfn": "geni:6000000023992011279",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/1850/",
+    "canonical": "https://www.genepedia.org/people/1850/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

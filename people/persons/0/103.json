@@ -1,0 +1,122 @@
+{
+  "id": 103,
+  "schema": "genepedia/person@1",
+  "slug": "debbie-edwards",
+  "names": {
+    "display": "Debbie Edwards",
+    "given": "Debbie",
+    "surname": "Edwards",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/91/f0/65/b9/53444865713ac464/screenshot_2024-03-14_191158_original.jpg?hash=e3159d7180fc30962d7d9ce3bbd2efa5a87fe2ec2452753893b9c036aeb3bf69.1789455599",
+      "alt": "Debbie Edwards"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/91/f0/65/b9/53444865713ac464/screenshot_2024-03-14_191158_original.jpg?hash=e3159d7180fc30962d7d9ce3bbd2efa5a87fe2ec2452753893b9c036aeb3bf69.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      102,
+      101
+    ],
+    "spouses": [
+      274
+    ],
+    "exSpouses": [],
+    "children": [
+      275,
+      276
+    ],
+    "siblings": [
+      31,
+      104
+    ],
+    "parentUnions": [
+      "F37"
+    ],
+    "spouseUnions": [
+      "F89"
+    ],
+    "parentLinks": [
+      {
+        "id": 102,
+        "unionId": "F37",
+        "type": "biological"
+      },
+      {
+        "id": 101,
+        "unionId": "F37",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 274,
+        "unionId": "F89",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 275,
+        "unionId": "F89",
+        "type": "biological"
+      },
+      {
+        "id": 276,
+        "unionId": "F89",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204092895829@",
+    "geniId": "6000000204092895829",
+    "rfn": "geni:6000000204092895829",
+    "changed": "24 JUL 2024"
+  },
+  "page": {
+    "route": "people/103/",
+    "canonical": "https://www.genepedia.org/people/103/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

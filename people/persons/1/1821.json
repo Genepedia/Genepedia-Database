@@ -1,0 +1,91 @@
+{
+  "id": 1821,
+  "schema": "genepedia/person@1",
+  "slug": "mupombwa-1821",
+  "names": {
+    "display": "? Mupombwa",
+    "given": "?",
+    "surname": "Mupombwa",
+    "married": "Mupombwa",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      789
+    ],
+    "exSpouses": [],
+    "children": [
+      1822,
+      1823
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F481"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 789,
+        "unionId": "F481",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1822,
+        "unionId": "F481",
+        "type": "biological"
+      },
+      {
+        "id": 1823,
+        "unionId": "F481",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207544658853@",
+    "geniId": "6000000207544658853",
+    "rfn": "geni:6000000207544658853",
+    "changed": "23 JUL 2024"
+  },
+  "page": {
+    "route": "people/1821/",
+    "canonical": "https://www.genepedia.org/people/1821/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

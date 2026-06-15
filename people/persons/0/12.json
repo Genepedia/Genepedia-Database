@@ -1,0 +1,191 @@
+{
+  "id": 12,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-jacoba-de-beer",
+  "names": {
+    "display": "Johanna Jacoba de Beer",
+    "given": "Johanna Jacoba",
+    "surname": "de Beer",
+    "married": "Marais",
+    "nick": "Hanna",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 FEB 1963",
+      "year": 1963,
+      "iso": "1963-02-17",
+      "precision": "exact",
+      "display": "February 17, 1963",
+      "place": "Nieuwoudtville, Cape Province, South Africa",
+      "location": {
+        "label": "Nieuwoudtville, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nieuwoudtville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "6 DEC 2024",
+      "year": 2024,
+      "iso": "2024-12-06",
+      "precision": "exact",
+      "display": "December 6, 2024",
+      "place": "Bloemfontein, Free State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "1963",
+      "year": 1963,
+      "iso": "1963",
+      "precision": "exact",
+      "display": "1963",
+      "place": "Nieuwoudtville, Cape Province, South Africa",
+      "location": {
+        "label": "Nieuwoudtville, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nieuwoudtville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/36/67/37/2f/53444851a2e2687f/fb_img_1550345082172-1_original.jpg?hash=09da51e79dcd4f60fad2a2b32623447693384fe12ad49dd7e651f3a4dfb9b14b.1789455599",
+      "alt": "Johanna Jacoba de Beer"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/36/67/37/2f/53444851a2e2687f/fb_img_1550345082172-1_original.jpg?hash=09da51e79dcd4f60fad2a2b32623447693384fe12ad49dd7e651f3a4dfb9b14b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      66,
+      65
+    ],
+    "spouses": [],
+    "exSpouses": [
+      11
+    ],
+    "children": [
+      13,
+      2
+    ],
+    "siblings": [
+      67,
+      68
+    ],
+    "parentUnions": [
+      "F22"
+    ],
+    "spouseUnions": [
+      "F5"
+    ],
+    "parentLinks": [
+      {
+        "id": 66,
+        "unionId": "F22",
+        "type": "biological"
+      },
+      {
+        "id": 65,
+        "unionId": "F22",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 11,
+        "unionId": "F5",
+        "role": "ex-husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 13,
+        "unionId": "F5",
+        "type": "biological"
+      },
+      {
+        "id": 2,
+        "unionId": "F5",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000063837526930@",
+    "geniId": "6000000063837526930",
+    "rfn": "geni:6000000063837526930",
+    "changed": "12 FEB 2026"
+  },
+  "page": {
+    "route": "people/12/",
+    "canonical": "https://www.genepedia.org/people/12/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1372,
+  "schema": "genepedia/person@1",
+  "slug": "elizma-theron",
+  "names": {
+    "display": "Elizma Theron",
+    "given": "Elizma",
+    "surname": "Trollip",
+    "married": "Theron",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      559
+    ],
+    "exSpouses": [],
+    "children": [
+      1373
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F353"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 559,
+        "unionId": "F353",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1373,
+        "unionId": "F353",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027229673840@",
+    "geniId": "6000000027229673840",
+    "rfn": "geni:6000000027229673840",
+    "changed": "11 MAR 2015"
+  },
+  "page": {
+    "route": "people/1372/",
+    "canonical": "https://www.genepedia.org/people/1372/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

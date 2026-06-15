@@ -1,0 +1,84 @@
+{
+  "id": 4770,
+  "schema": "genepedia/person@1",
+  "slug": "martha-jacoba-de-jager",
+  "names": {
+    "display": "Martha Jacoba De Jager",
+    "given": "Martha Jacoba",
+    "surname": "De Jager",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1885",
+      "year": 1885,
+      "iso": "1885",
+      "precision": "about",
+      "display": "about 1885",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1886
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1136"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1886,
+        "unionId": "F1136",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000065453062948@",
+    "geniId": "6000000065453062948",
+    "rfn": "geni:6000000065453062948",
+    "changed": "21 AUG 2017"
+  },
+  "page": {
+    "route": "people/4770/",
+    "canonical": "https://www.genepedia.org/people/4770/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

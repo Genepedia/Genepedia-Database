@@ -1,0 +1,124 @@
+{
+  "id": 1443,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-johanna-may",
+  "names": {
+    "display": "Catharina Johanna May",
+    "given": "Catharina Johanna",
+    "surname": "Brynard",
+    "married": "May",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1873",
+      "year": 1873,
+      "iso": "1873",
+      "precision": "exact",
+      "display": "1873",
+      "place": null
+    },
+    "death": {
+      "date": "26 NOV 1924",
+      "year": 1924,
+      "iso": "1924-11-26",
+      "precision": "exact",
+      "display": "November 26, 1924",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1435,
+      1434
+    ],
+    "spouses": [
+      3818
+    ],
+    "exSpouses": [],
+    "children": [
+      3819
+    ],
+    "siblings": [
+      1436,
+      578,
+      1437,
+      1438,
+      1439,
+      1440,
+      1441,
+      1442
+    ],
+    "parentUnions": [
+      "F364"
+    ],
+    "spouseUnions": [
+      "F907"
+    ],
+    "parentLinks": [
+      {
+        "id": 1435,
+        "unionId": "F364",
+        "type": "biological"
+      },
+      {
+        "id": 1434,
+        "unionId": "F364",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3818,
+        "unionId": "F907",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3819,
+        "unionId": "F907",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000131382072821@",
+    "geniId": "6000000131382072821",
+    "rfn": "geni:6000000131382072821",
+    "changed": "21 APR 2020"
+  },
+  "page": {
+    "route": "people/1443/",
+    "canonical": "https://www.genepedia.org/people/1443/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

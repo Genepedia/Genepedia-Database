@@ -1,0 +1,141 @@
+{
+  "id": 1722,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-corrie",
+  "names": {
+    "display": "Elizabeth Corrie",
+    "given": "Elizabeth",
+    "surname": "Corrie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 JUN 1893",
+      "year": 1893,
+      "iso": "1893-06-01",
+      "precision": "exact",
+      "display": "June 1, 1893",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "5 AUG 1893",
+      "year": 1893,
+      "iso": "1893-08-05",
+      "precision": "exact",
+      "display": "August 5, 1893",
+      "place": "Kroonstad, Free State, South Africa",
+      "location": {
+        "label": "Kroonstad, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/bc/19/53/90/53444840eeca34c6/corrieebaptism_original.jpg?hash=523e14976c59a905ffed1dd6f47877d98b8a2330fe58066f334bed271f3003dc.1789455599",
+      "alt": "Elizabeth Corrie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/bc/19/53/90/53444840eeca34c6/corrieebaptism_original.jpg?hash=523e14976c59a905ffed1dd6f47877d98b8a2330fe58066f334bed271f3003dc.1789455599",
+        "form": "",
+        "title": "CORRIE, E. Baptism",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/45/7f/68/35/5344484c602e223d/record-image_undefined_20__original.jpg?hash=dca87fa76ee568733b868e5cccf38816c3f8a1b8d79d43244a5cea2d6158e633.1789455599",
+        "form": "",
+        "title": "CORRIE, E. Baptism 1893",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1717,
+      1718
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      711,
+      1719,
+      1720,
+      1721,
+      1723,
+      1724,
+      1725,
+      1712
+    ],
+    "parentUnions": [
+      "F451"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1717,
+        "unionId": "F451",
+        "type": "biological"
+      },
+      {
+        "id": 1718,
+        "unionId": "F451",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000047039549160@",
+    "geniId": "6000000047039549160",
+    "rfn": "geni:6000000047039549160",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/1722/",
+    "canonical": "https://www.genepedia.org/people/1722/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

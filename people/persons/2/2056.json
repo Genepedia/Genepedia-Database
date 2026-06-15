@@ -1,0 +1,98 @@
+{
+  "id": 2056,
+  "schema": "genepedia/person@1",
+  "slug": "michael-jacobus-bester",
+  "names": {
+    "display": "Michael Jacobus Bester",
+    "given": "Michael Jacobus",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "12 APR 1945",
+      "year": 1945,
+      "iso": "1945-04-12",
+      "precision": "exact",
+      "display": "April 12, 1945",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      845,
+      2054
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2055,
+      2057,
+      2058,
+      2059,
+      2060
+    ],
+    "parentUnions": [
+      "F534"
+    ],
+    "spouseUnions": [
+      "F1267"
+    ],
+    "parentLinks": [
+      {
+        "id": 845,
+        "unionId": "F534",
+        "type": "biological"
+      },
+      {
+        "id": 2054,
+        "unionId": "F534",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066551088932@",
+    "geniId": "6000000066551088932",
+    "rfn": "geni:6000000066551088932",
+    "changed": "05 SEP 2017"
+  },
+  "page": {
+    "route": "people/2056/",
+    "canonical": "https://www.genepedia.org/people/2056/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

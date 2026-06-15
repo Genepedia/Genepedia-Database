@@ -1,0 +1,94 @@
+{
+  "id": 4888,
+  "schema": "genepedia/person@1",
+  "slug": "jan-frederick-bester-4888",
+  "names": {
+    "display": "Jan Frederick Bester",
+    "given": "Jan Frederick",
+    "surname": "Bester",
+    "married": "Bester",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 9 JUN 1923",
+      "year": 1923,
+      "iso": "1923-06-09",
+      "precision": "about",
+      "display": "about June 9, 1923",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1911,
+      4887
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4889,
+      4890,
+      4891
+    ],
+    "parentUnions": [
+      "F1162"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1911,
+        "unionId": "F1162",
+        "type": "biological"
+      },
+      {
+        "id": 4887,
+        "unionId": "F1162",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066640422821@",
+    "geniId": "6000000066640422821",
+    "rfn": "geni:6000000066640422821",
+    "changed": "20 MAR 2019"
+  },
+  "page": {
+    "route": "people/4888/",
+    "canonical": "https://www.genepedia.org/people/4888/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

@@ -1,0 +1,154 @@
+{
+  "id": 3429,
+  "schema": "genepedia/person@1",
+  "slug": "anna-maria-palvie-3429",
+  "names": {
+    "display": "Anna Maria Palvie",
+    "given": "Anna Maria",
+    "surname": "Palvie",
+    "married": "Sharpe",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 JUN 1816",
+      "year": 1816,
+      "iso": "1816-06-07",
+      "precision": "exact",
+      "display": "June 7, 1816",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "4 JUL 1857",
+      "year": 1857,
+      "iso": "1857-07-04",
+      "precision": "exact",
+      "display": "July 4, 1857",
+      "place": "Clanwilliam, Western Cape, South Africa",
+      "location": {
+        "label": "Clanwilliam, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "3 NOV 1816",
+      "year": 1816,
+      "iso": "1816-11-03",
+      "precision": "exact",
+      "display": "November 3, 1816",
+      "place": "Tulbagh, Western Cape, South Africa",
+      "location": {
+        "label": "Tulbagh, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Tulbagh",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3430
+    ],
+    "exSpouses": [],
+    "children": [
+      1344
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F839"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3430,
+        "unionId": "F839",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1344,
+        "unionId": "F839",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000019785078616@",
+    "geniId": "6000000019785078616",
+    "rfn": "geni:6000000019785078616",
+    "changed": "03 APR 2025"
+  },
+  "page": {
+    "route": "people/3429/",
+    "canonical": "https://www.genepedia.org/people/3429/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.203Z"
+}

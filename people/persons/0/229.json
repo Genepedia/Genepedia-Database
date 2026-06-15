@@ -1,0 +1,130 @@
+{
+  "id": 229,
+  "schema": "genepedia/person@1",
+  "slug": "annemarie-lochner",
+  "names": {
+    "display": "Annemarie Lochner",
+    "given": "Annemarie",
+    "surname": "Lochner",
+    "married": "de Beer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "3 DEC 1975",
+      "year": 1975,
+      "iso": "1975-12-03",
+      "precision": "exact",
+      "display": "December 3, 1975",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b3/96/4f/e3/53444851a316e92f/screenshot_2020-01-14-17-48-17-1-2_original.jpg?hash=e22f00d5d23fc983468dd16f1070edc64bdb72a5b94d038c1ea50cd708b102cd.1789455599",
+      "alt": "Annemarie Lochner"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b3/96/4f/e3/53444851a316e92f/screenshot_2020-01-14-17-48-17-1-2_original.jpg?hash=e22f00d5d23fc983468dd16f1070edc64bdb72a5b94d038c1ea50cd708b102cd.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      620,
+      619
+    ],
+    "spouses": [
+      68
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      621
+    ],
+    "parentUnions": [
+      "F174"
+    ],
+    "spouseUnions": [
+      "F71"
+    ],
+    "parentLinks": [
+      {
+        "id": 620,
+        "unionId": "F174",
+        "type": "biological"
+      },
+      {
+        "id": 619,
+        "unionId": "F174",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 68,
+        "unionId": "F71",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000027226509736@",
+    "geniId": "6000000027226509736",
+    "rfn": "geni:6000000027226509736",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/229/",
+    "canonical": "https://www.genepedia.org/people/229/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

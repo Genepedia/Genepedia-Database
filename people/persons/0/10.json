@@ -1,0 +1,108 @@
+{
+  "id": 10,
+  "schema": "genepedia/person@1",
+  "slug": "tiaan-smit",
+  "names": {
+    "display": "Tiaan Smit",
+    "given": "Tiaan",
+    "surname": "Smit",
+    "married": "Smit",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/54/e9/4a/cf/534448666477332f/screenshot_2024-08-15_102335_original.jpg?hash=32ea884bab87349539f13959ad030583a94c0de194b8c34f254016d6218ee84f.1789455599",
+      "alt": "Tiaan Smit"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/54/e9/4a/cf/534448666477332f/screenshot_2024-08-15_102335_original.jpg?hash=32ea884bab87349539f13959ad030583a94c0de194b8c34f254016d6218ee84f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      56,
+      57
+    ],
+    "spouses": [
+      2
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      58,
+      59
+    ],
+    "parentUnions": [
+      "F20"
+    ],
+    "spouseUnions": [
+      "F4"
+    ],
+    "parentLinks": [
+      {
+        "id": 56,
+        "unionId": "F20",
+        "type": "biological"
+      },
+      {
+        "id": 57,
+        "unionId": "F20",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2,
+        "unionId": "F4",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208173930821@",
+    "geniId": "6000000208173930821",
+    "rfn": "geni:6000000208173930821",
+    "changed": "15 AUG 2024"
+  },
+  "page": {
+    "route": "people/10/",
+    "canonical": "https://www.genepedia.org/people/10/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.174Z"
+}

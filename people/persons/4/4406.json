@@ -1,0 +1,184 @@
+{
+  "id": 4406,
+  "schema": "genepedia/person@1",
+  "slug": "reginald-ramsden",
+  "names": {
+    "display": "Reginald Ramsden",
+    "given": "Reginald",
+    "surname": "Ramsden",
+    "married": "Ramsden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JUN 1886",
+      "year": 1886,
+      "iso": "1886-06-22",
+      "precision": "exact",
+      "display": "June 22, 1886",
+      "place": "Chester, England, United Kingdom",
+      "location": {
+        "label": "Chester, England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Chester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "28 APR 1950",
+      "year": 1950,
+      "iso": "1950-04-28",
+      "precision": "exact",
+      "display": "April 28, 1950",
+      "place": "Johannesburg, South Africa",
+      "location": {
+        "label": "Johannesburg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "17 JUN 1888",
+      "year": 1888,
+      "iso": "1888-06-17",
+      "precision": "exact",
+      "display": "June 17, 1888",
+      "place": "St Oswald, Chester, United Kingdom",
+      "location": {
+        "label": "St Oswald, Chester, United Kingdom",
+        "placeName": "St Oswald",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Chester",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Johannesburg, South Africa",
+      "location": {
+        "label": "Johannesburg, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Vulcaniser?",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [
+      1721
+    ],
+    "children": [
+      4407,
+      4408
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1041"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1721,
+        "unionId": "F1041",
+        "role": "ex-wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4407,
+        "unionId": "F1041",
+        "type": "biological"
+      },
+      {
+        "id": 4408,
+        "unionId": "F1041",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024076976570@",
+    "geniId": "6000000024076976570",
+    "rfn": "geni:6000000024076976570",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/4406/",
+    "canonical": "https://www.genepedia.org/people/4406/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

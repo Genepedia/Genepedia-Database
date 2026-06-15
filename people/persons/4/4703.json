@@ -1,0 +1,120 @@
+{
+  "id": 4703,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-johannes-burger-4703",
+  "names": {
+    "display": "Hendrik Johannes Burger",
+    "given": "Hendrik Johannes",
+    "surname": "Burger",
+    "married": "Burger",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 NOV 1915",
+      "year": 1915,
+      "iso": "1915-11-09",
+      "precision": "exact",
+      "display": "November 9, 1915",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "5 DEC 1915",
+      "year": 1915,
+      "iso": "1915-12-05",
+      "precision": "exact",
+      "display": "December 5, 1915",
+      "place": "Jagersfontein, Free State, South Africa",
+      "location": {
+        "label": "Jagersfontein, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Jagersfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4702,
+      1869
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4704,
+      4705,
+      4706,
+      4707,
+      4708,
+      4709
+    ],
+    "parentUnions": [
+      "F1122"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4702,
+        "unionId": "F1122",
+        "type": "biological"
+      },
+      {
+        "id": 1869,
+        "unionId": "F1122",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066267216966@",
+    "geniId": "6000000066267216966",
+    "rfn": "geni:6000000066267216966",
+    "changed": "03 MAY 2022"
+  },
+  "page": {
+    "route": "people/4703/",
+    "canonical": "https://www.genepedia.org/people/4703/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

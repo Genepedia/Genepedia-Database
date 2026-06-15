@@ -1,0 +1,107 @@
+{
+  "id": 1649,
+  "schema": "genepedia/person@1",
+  "slug": "daphne-dorothy-mayer-ihlenfeldt",
+  "names": {
+    "display": "Daphne Dorothy Mayer Ihlenfeldt",
+    "given": "Daphne Dorothy Mayer",
+    "surname": "Ihlenfeldt",
+    "married": "Smith",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "7 SEP 1927",
+      "year": 1927,
+      "iso": "1927-09-07",
+      "precision": "exact",
+      "display": "September 7, 1927",
+      "place": null
+    },
+    "death": {
+      "date": "10 MAY 2004",
+      "year": 2004,
+      "iso": "2004-05-10",
+      "precision": "exact",
+      "display": "May 10, 2004",
+      "place": "Johannesburg South, GP, South Africa",
+      "location": {
+        "label": "Johannesburg South, GP, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg South",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "GP",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      663
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F423"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 663,
+        "unionId": "F423",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000205551255845@",
+    "geniId": "6000000205551255845",
+    "rfn": "geni:6000000205551255845",
+    "changed": "05 MAY 2024"
+  },
+  "page": {
+    "route": "people/1649/",
+    "canonical": "https://www.genepedia.org/people/1649/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

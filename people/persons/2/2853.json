@@ -1,0 +1,129 @@
+{
+  "id": 2853,
+  "schema": "genepedia/person@1",
+  "slug": "john-davis",
+  "names": {
+    "display": "John Davis",
+    "given": "John",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 13 AUG 1779",
+      "year": 1779,
+      "iso": "1779-08-13",
+      "precision": "about",
+      "display": "about August 13, 1779",
+      "place": "England, United Kingdom",
+      "location": {
+        "label": "England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/80/88/9a/49/534448390089b6d1/john_davis_original.jpg?hash=4ea96a51cdb5b12c05f5f3cd97892a051aad96239c8268352666d982fbac456f.1789455599",
+      "alt": "John Davis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/80/88/9a/49/534448390089b6d1/john_davis_original.jpg?hash=4ea96a51cdb5b12c05f5f3cd97892a051aad96239c8268352666d982fbac456f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/0c/86/c4/61/5344484240d5fe67/john_davis_original.jpg?hash=2bd5863ae6dc835640877efc6f8bdbf47dd063ef95f42734fc18a48a77a81164.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2854
+    ],
+    "exSpouses": [],
+    "children": [
+      1150
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1772"
+    ],
+    "spouseUnions": [
+      "F704"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2854,
+        "unionId": "F704",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1150,
+        "unionId": "F704",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000012224329117@",
+    "geniId": "6000000012224329117",
+    "rfn": "geni:6000000012224329117",
+    "changed": "12 FEB 2026"
+  },
+  "page": {
+    "route": "people/2853/",
+    "canonical": "https://www.genepedia.org/people/2853/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.193Z"
+}

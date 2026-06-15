@@ -1,0 +1,103 @@
+{
+  "id": 4410,
+  "schema": "genepedia/person@1",
+  "slug": "joseph-cyril-maurer",
+  "names": {
+    "display": "Joseph Cyril Maurer",
+    "given": "Joseph Cyril",
+    "surname": "Maurer",
+    "married": "Maurer",
+    "nick": "Sonny",
+    "aliases": [
+      "Joseph Cyril \"Sonny\" Maurer"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 JUN 1921",
+      "year": 1921,
+      "iso": "1921-06-26",
+      "precision": "exact",
+      "display": "June 26, 1921",
+      "place": null
+    },
+    "death": {
+      "date": "30 JUN 2010",
+      "year": 2010,
+      "iso": "2010-06-30",
+      "precision": "exact",
+      "display": "June 30, 2010",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4409,
+      1721
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4411,
+      4412,
+      4413
+    ],
+    "parentUnions": [
+      "F1042"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4409,
+        "unionId": "F1042",
+        "type": "biological"
+      },
+      {
+        "id": 1721,
+        "unionId": "F1042",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024077056277@",
+    "geniId": "6000000024077056277",
+    "rfn": "geni:6000000024077056277",
+    "changed": "27 OCT 2022"
+  },
+  "page": {
+    "route": "people/4410/",
+    "canonical": "https://www.genepedia.org/people/4410/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

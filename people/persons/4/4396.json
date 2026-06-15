@@ -1,0 +1,131 @@
+{
+  "id": 4396,
+  "schema": "genepedia/person@1",
+  "slug": "albertus-wilhelmus-corrie",
+  "names": {
+    "display": "Albertus Wilhelmus Corrie",
+    "given": "Albertus Wilhelmus",
+    "surname": "Corrie",
+    "married": "Corrie",
+    "nick": "",
+    "aliases": [
+      "Albertus Wilhelmus Phillipus Johannes Corrie"
+    ]
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 AUG 1917",
+      "year": 1917,
+      "iso": "1917-08-03",
+      "precision": "exact",
+      "display": "August 3, 1917",
+      "place": null
+    },
+    "death": {
+      "date": "17 FEB 1996",
+      "year": 1996,
+      "iso": "1996-02-17",
+      "precision": "exact",
+      "display": "February 17, 1996",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Heidelberg Main Cemetery, Heidelberg, Western Cape, South Africa",
+      "location": {
+        "label": "Heidelberg Main Cemetery, Heidelberg, Western Cape, South Africa",
+        "placeName": "Heidelberg Main Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Heidelberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1719,
+      4393
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4394,
+      4395,
+      4397,
+      4398,
+      4399,
+      4400,
+      4401
+    ],
+    "parentUnions": [
+      "F1039"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1719,
+        "unionId": "F1039",
+        "type": "biological"
+      },
+      {
+        "id": 4393,
+        "unionId": "F1039",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020762735517@",
+    "geniId": "6000000020762735517",
+    "rfn": "geni:6000000020762735517",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/4396/",
+    "canonical": "https://www.genepedia.org/people/4396/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

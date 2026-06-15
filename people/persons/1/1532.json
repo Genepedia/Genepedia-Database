@@ -1,0 +1,198 @@
+{
+  "id": 1532,
+  "schema": "genepedia/person@1",
+  "slug": "philippus-jacobs",
+  "names": {
+    "display": "Philippus Jacobs",
+    "given": "Philippus",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 OCT 1820",
+      "year": 1820,
+      "iso": "1820-10-17",
+      "precision": "exact",
+      "display": "October 17, 1820",
+      "place": "Cape Colony",
+      "location": {
+        "label": "Cape Colony",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 JUL 1902",
+      "year": 1902,
+      "iso": "1902-07-16",
+      "precision": "exact",
+      "display": "July 16, 1902",
+      "place": "District Bloemhof, Transvaal, South Africa",
+      "location": {
+        "label": "District Bloemhof, Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "District Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Philippus Jacobs"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "FamilySearch Family Tree",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3917,
+      3918
+    ],
+    "spouses": [
+      1531
+    ],
+    "exSpouses": [],
+    "children": [
+      1533,
+      1534,
+      1535,
+      1536,
+      1537,
+      1538,
+      623
+    ],
+    "siblings": [
+      3919,
+      3920
+    ],
+    "parentUnions": [
+      "F924"
+    ],
+    "spouseUnions": [
+      "F393"
+    ],
+    "parentLinks": [
+      {
+        "id": 3917,
+        "unionId": "F924",
+        "type": "biological"
+      },
+      {
+        "id": 3918,
+        "unionId": "F924",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1531,
+        "unionId": "F393",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1533,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1534,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1535,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1536,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1537,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 1538,
+        "unionId": "F393",
+        "type": "biological"
+      },
+      {
+        "id": 623,
+        "unionId": "F393",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000015159119451@",
+    "geniId": "6000000015159119451",
+    "rfn": "geni:6000000015159119451",
+    "changed": "26 JUL 2024"
+  },
+  "page": {
+    "route": "people/1532/",
+    "canonical": "https://www.genepedia.org/people/1532/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

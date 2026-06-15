@@ -1,0 +1,85 @@
+{
+  "id": 1852,
+  "schema": "genepedia/person@1",
+  "slug": "marthinus-johannes-droskie",
+  "names": {
+    "display": "Marthinus Johannes Droskie",
+    "given": "Marthinus Johannes",
+    "surname": "Droskie",
+    "married": "Droskie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1850,
+      811
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1851
+    ],
+    "parentUnions": [
+      "F494"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1850,
+        "unionId": "F494",
+        "type": "biological"
+      },
+      {
+        "id": 811,
+        "unionId": "F494",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000201952914904@",
+    "geniId": "6000000201952914904",
+    "rfn": "geni:6000000201952914904",
+    "changed": "13 JAN 2024"
+  },
+  "page": {
+    "route": "people/1852/",
+    "canonical": "https://www.genepedia.org/people/1852/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.185Z"
+}

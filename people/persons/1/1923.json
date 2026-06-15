@@ -1,0 +1,227 @@
+{
+  "id": 1923,
+  "schema": "genepedia/person@1",
+  "slug": "david-petrus-jacobus-roux",
+  "names": {
+    "display": "David Petrus Jacobus Roux",
+    "given": "David Petrus Jacobus",
+    "surname": "Roux",
+    "married": "Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 SEP 1861",
+      "year": 1861,
+      "iso": "1861-09-15",
+      "precision": "exact",
+      "display": "September 15, 1861",
+      "place": "Colesberg, Northern Cape, South Africa",
+      "location": {
+        "label": "Colesberg, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "7 AUG 1932",
+      "year": 1932,
+      "iso": "1932-08-07",
+      "precision": "exact",
+      "display": "August 7, 1932",
+      "place": "Barkly West, Northern Cape, South Africa",
+      "location": {
+        "label": "Barkly West, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Barkly West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "10 NOV 1861",
+      "year": 1861,
+      "iso": "1861-11-10",
+      "precision": "exact",
+      "display": "November 10, 1861",
+      "place": "Colesberg, NC, South Africa",
+      "location": {
+        "label": "Colesberg, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Colesberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4942,
+      4941
+    ],
+    "spouses": [
+      818,
+      4940
+    ],
+    "exSpouses": [],
+    "children": [
+      1924,
+      1925,
+      1926,
+      1927,
+      1928,
+      1929,
+      1930,
+      1931
+    ],
+    "siblings": [
+      4943,
+      4944,
+      4945,
+      4946,
+      4947,
+      4948,
+      4949
+    ],
+    "parentUnions": [
+      "F1174"
+    ],
+    "spouseUnions": [
+      "F507",
+      "F1173"
+    ],
+    "parentLinks": [
+      {
+        "id": 4942,
+        "unionId": "F1174",
+        "type": "biological"
+      },
+      {
+        "id": 4941,
+        "unionId": "F1174",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 818,
+        "unionId": "F507",
+        "role": "partner"
+      },
+      {
+        "id": 4940,
+        "unionId": "F1173",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1924,
+        "unionId": "F507",
+        "type": "biological"
+      },
+      {
+        "id": 1925,
+        "unionId": "F507",
+        "type": "biological"
+      },
+      {
+        "id": 1926,
+        "unionId": "F507",
+        "type": "biological"
+      },
+      {
+        "id": 1927,
+        "unionId": "F507",
+        "type": "biological"
+      },
+      {
+        "id": 1928,
+        "unionId": "F507",
+        "type": "biological"
+      },
+      {
+        "id": 1929,
+        "unionId": "F507",
+        "type": "biological"
+      },
+      {
+        "id": 1930,
+        "unionId": "F507",
+        "type": "biological"
+      },
+      {
+        "id": 1931,
+        "unionId": "F507",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000066761269821@",
+    "geniId": "6000000066761269821",
+    "rfn": "geni:6000000066761269821",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1923/",
+    "canonical": "https://www.genepedia.org/people/1923/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.186Z"
+}

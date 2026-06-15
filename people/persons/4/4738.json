@@ -1,0 +1,118 @@
+{
+  "id": 4738,
+  "schema": "genepedia/person@1",
+  "slug": "isabella-susanna-langeveldt",
+  "names": {
+    "display": "Isabella Susanna Langeveldt",
+    "given": "Isabella Susanna",
+    "surname": "Langeveldt",
+    "married": "de Wet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "8 APR 1921",
+      "year": 1921,
+      "iso": "1921-04-08",
+      "precision": "exact",
+      "display": "April 8, 1921",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 OCT 1992",
+      "year": 1992,
+      "iso": "1992-10-27",
+      "precision": "exact",
+      "display": "October 27, 1992",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4736,
+      1878
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4737,
+      4739,
+      4740,
+      4741
+    ],
+    "parentUnions": [
+      "F1129"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4736,
+        "unionId": "F1129",
+        "type": "biological"
+      },
+      {
+        "id": 1878,
+        "unionId": "F1129",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000053735726447@",
+    "geniId": "6000000053735726447",
+    "rfn": "geni:6000000053735726447",
+    "changed": "17 AUG 2019"
+  },
+  "page": {
+    "route": "people/4738/",
+    "canonical": "https://www.genepedia.org/people/4738/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

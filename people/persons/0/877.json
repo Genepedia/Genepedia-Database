@@ -1,0 +1,110 @@
+{
+  "id": 877,
+  "schema": "genepedia/person@1",
+  "slug": "floris-sarel-visser",
+  "names": {
+    "display": "Floris Sarel Visser",
+    "given": "Floris Sarel",
+    "surname": "Visser",
+    "married": "Visser",
+    "nick": "Florus Carel",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1894",
+      "year": 1894,
+      "iso": "1894",
+      "precision": "exact",
+      "display": "1894",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/9c/38/20/d1/534448656f1e452c/image_original.jpg?hash=72ee8462349ab0286059c73be376d20154e5bdbe99b9eaced4b1962b91d73409.1789455599",
+      "alt": "Floris Sarel Visser"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/9c/38/20/d1/534448656f1e452c/image_original.jpg?hash=72ee8462349ab0286059c73be376d20154e5bdbe99b9eaced4b1962b91d73409.1789455599",
+        "form": "",
+        "title": "record-image_trou 1927  .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      367
+    ],
+    "exSpouses": [],
+    "children": [
+      878,
+      879
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F248"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 367,
+        "unionId": "F248",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 878,
+        "unionId": "F248",
+        "type": "biological"
+      },
+      {
+        "id": 879,
+        "unionId": "F248",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000061325413825@",
+    "geniId": "6000000061325413825",
+    "rfn": "geni:6000000061325413825",
+    "changed": "13 MAR 2024"
+  },
+  "page": {
+    "route": "people/877/",
+    "canonical": "https://www.genepedia.org/people/877/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

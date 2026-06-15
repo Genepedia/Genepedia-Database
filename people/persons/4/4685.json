@@ -1,0 +1,107 @@
+{
+  "id": 4685,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-deowalt-droskie-van-eeden",
+  "names": {
+    "display": "Johannes Deowalt Droskie Van Eeden",
+    "given": "Johannes Deowalt Droskie",
+    "surname": "Van Eeden",
+    "married": "Van Eeden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "10 APR 1878",
+      "year": 1878,
+      "iso": "1878-04-10",
+      "precision": "exact",
+      "display": "April 10, 1878",
+      "place": null
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Boksburg, Gauteng, South Africa",
+      "location": {
+        "label": "Boksburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boksburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1865
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1116"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1865,
+        "unionId": "F1116",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066092626961@",
+    "geniId": "6000000066092626961",
+    "rfn": "geni:6000000066092626961",
+    "changed": "31 AUG 2017"
+  },
+  "page": {
+    "route": "people/4685/",
+    "canonical": "https://www.genepedia.org/people/4685/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

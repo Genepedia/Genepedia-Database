@@ -1,0 +1,118 @@
+{
+  "id": 2279,
+  "schema": "genepedia/person@1",
+  "slug": "lola-mary-mentasti",
+  "names": {
+    "display": "Lola Mary Mentasti",
+    "given": "Lola Mary",
+    "surname": "Mentasti",
+    "married": "Bray",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1906",
+      "year": 1906,
+      "iso": "1906",
+      "precision": "exact",
+      "display": "1906",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/62/16/a0/ed/534448613cd45fcf/record-image__original.jpg?hash=592f1224fae438d20a09cc2d42669eb6f451f22532756cf074e8e31f6c1655f2.1789455599",
+      "alt": "Lola Mary Mentasti"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/62/16/a0/ed/534448613cd45fcf/record-image__original.jpg?hash=592f1224fae438d20a09cc2d42669eb6f451f22532756cf074e8e31f6c1655f2.1789455599",
+        "form": "",
+        "title": "record-image_trou 1929  a .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/43/d6/a1/01/534448613ca8255a/record-image__original.jpg?hash=fcda5df9251dc1df2018453053db12e806659a7179bad2896bb5de03f8057fca.1789455599",
+        "form": "",
+        "title": "record-image_trou 1929 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2275,
+      2276
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      917,
+      2277,
+      2278,
+      2280,
+      2281,
+      2282
+    ],
+    "parentUnions": [
+      "F577"
+    ],
+    "spouseUnions": [
+      "F1417"
+    ],
+    "parentLinks": [
+      {
+        "id": 2275,
+        "unionId": "F577",
+        "type": "biological"
+      },
+      {
+        "id": 2276,
+        "unionId": "F577",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056257938903@",
+    "geniId": "6000000056257938903",
+    "rfn": "geni:6000000056257938903",
+    "changed": "16 JUL 2022"
+  },
+  "page": {
+    "route": "people/2279/",
+    "canonical": "https://www.genepedia.org/people/2279/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

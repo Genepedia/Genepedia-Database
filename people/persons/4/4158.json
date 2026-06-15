@@ -1,0 +1,85 @@
+{
+  "id": 4158,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-johannes-strauss",
+  "names": {
+    "display": "Hendrik Johannes Strauss",
+    "given": "Hendrik Johannes",
+    "surname": "Strauss",
+    "married": "Strauss",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4159
+    ],
+    "exSpouses": [],
+    "children": [
+      1576
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F968"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4159,
+        "unionId": "F968",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1576,
+        "unionId": "F968",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000191534924836@",
+    "geniId": "6000000191534924836",
+    "rfn": "geni:6000000191534924836",
+    "changed": "03 AUG 2024"
+  },
+  "page": {
+    "route": "people/4158/",
+    "canonical": "https://www.genepedia.org/people/4158/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

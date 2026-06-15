@@ -1,0 +1,123 @@
+{
+  "id": 529,
+  "schema": "genepedia/person@1",
+  "slug": "aletta-havenga",
+  "names": {
+    "display": "Aletta Havenga",
+    "given": "Aletta",
+    "surname": "Havenga",
+    "married": "Van Deventer",
+    "nick": "Alta",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "27 AUG 1937",
+      "year": 1937,
+      "iso": "1937-08-27",
+      "precision": "exact",
+      "display": "August 27, 1937",
+      "place": null
+    },
+    "death": {
+      "date": "11 APR 2023",
+      "year": 2023,
+      "iso": "2023-04-11",
+      "precision": "exact",
+      "display": "April 11, 2023",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/a4/fd/3c/7d/534448659f2cb30d/screenshot_2024-04-06_194543_original.jpg?hash=27b30197fcdc587aef8014a899a6ec2d57ab6a412933c8af34aae1d6747f1a0b.1789455599",
+      "alt": "Aletta Havenga"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/a4/fd/3c/7d/534448659f2cb30d/screenshot_2024-04-06_194543_original.jpg?hash=27b30197fcdc587aef8014a899a6ec2d57ab6a412933c8af34aae1d6747f1a0b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      528
+    ],
+    "exSpouses": [],
+    "children": [
+      530,
+      531,
+      205
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F156"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 528,
+        "unionId": "F156",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 530,
+        "unionId": "F156",
+        "type": "biological"
+      },
+      {
+        "id": 531,
+        "unionId": "F156",
+        "type": "biological"
+      },
+      {
+        "id": 205,
+        "unionId": "F156",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204862622836@",
+    "geniId": "6000000204862622836",
+    "rfn": "geni:6000000204862622836",
+    "changed": "06 APR 2024"
+  },
+  "page": {
+    "route": "people/529/",
+    "canonical": "https://www.genepedia.org/people/529/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

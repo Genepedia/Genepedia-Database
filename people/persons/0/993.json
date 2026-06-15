@@ -1,0 +1,121 @@
+{
+  "id": 993,
+  "schema": "genepedia/person@1",
+  "slug": "doreth-van-zyl",
+  "names": {
+    "display": "Doreth Van Zyl",
+    "given": "Doreth",
+    "surname": "Van Zyl",
+    "married": "le Roux",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/bd/2e/a9/81/5344486623248345/313181450_10160079840977199_1772190703892995365_n_original.jpg?hash=a296e68ae5995c68ae922132bf9b21ae0b4dc5fad4892a6e9a178cfca416eea5.1789455599",
+      "alt": "Doreth Van Zyl"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/bd/2e/a9/81/5344486623248345/313181450_10160079840977199_1772190703892995365_n_original.jpg?hash=a296e68ae5995c68ae922132bf9b21ae0b4dc5fad4892a6e9a178cfca416eea5.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      991,
+      992
+    ],
+    "spouses": [
+      2434
+    ],
+    "exSpouses": [],
+    "children": [
+      2435,
+      2436
+    ],
+    "siblings": [
+      406
+    ],
+    "parentUnions": [
+      "F272"
+    ],
+    "spouseUnions": [
+      "F614"
+    ],
+    "parentLinks": [
+      {
+        "id": 991,
+        "unionId": "F272",
+        "type": "biological"
+      },
+      {
+        "id": 992,
+        "unionId": "F272",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2434,
+        "unionId": "F614",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2435,
+        "unionId": "F614",
+        "type": "biological"
+      },
+      {
+        "id": 2436,
+        "unionId": "F614",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207077679833@",
+    "geniId": "6000000207077679833",
+    "rfn": "geni:6000000207077679833",
+    "changed": "05 JUL 2024"
+  },
+  "page": {
+    "route": "people/993/",
+    "canonical": "https://www.genepedia.org/people/993/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 2994,
+  "schema": "genepedia/person@1",
+  "slug": "richard-dick-bean",
+  "names": {
+    "display": "Richard (Dick) Bean",
+    "given": "Richard (Dick)",
+    "surname": "Bean",
+    "married": "Bean",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 NOV 1920",
+      "year": 1920,
+      "iso": "1920-11-21",
+      "precision": "exact",
+      "display": "November 21, 1920",
+      "place": null
+    },
+    "death": {
+      "date": "ABT 1985",
+      "year": 1985,
+      "iso": "1985",
+      "precision": "about",
+      "display": "about 1985",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/95/1c/ed/2e/5344485e5d21814b/richard_dick_bean_1920-1985_s_original.jpg?hash=eb168b3224ce2661c53431a81baf4897315bfcfd666c8315c8b09ac65af716ec.1789455599",
+      "alt": "Richard (Dick) Bean"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/95/1c/ed/2e/5344485e5d21814b/richard_dick_bean_1920-1985_s_original.jpg?hash=eb168b3224ce2661c53431a81baf4897315bfcfd666c8315c8b09ac65af716ec.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/5c/d6/d6/e1/534448456b5d39f5/image_original.jpg?hash=025a964e097b1b63e5ca6253bd0127972742bb127fae017b76fe6353a2aa5d51.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2993,
+      1185
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2995
+    ],
+    "parentUnions": [
+      "F730"
+    ],
+    "spouseUnions": [
+      "F1880"
+    ],
+    "parentLinks": [
+      {
+        "id": 2993,
+        "unionId": "F730",
+        "type": "biological"
+      },
+      {
+        "id": 1185,
+        "unionId": "F730",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000064550126821@",
+    "geniId": "6000000064550126821",
+    "rfn": "geni:6000000064550126821",
+    "changed": "19 MAR 2021"
+  },
+  "page": {
+    "route": "people/2994/",
+    "canonical": "https://www.genepedia.org/people/2994/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

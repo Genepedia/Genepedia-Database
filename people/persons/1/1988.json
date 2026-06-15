@@ -1,0 +1,89 @@
+{
+  "id": 1988,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-johanna-van-der-walt",
+  "names": {
+    "display": "Susanna Johanna van der Walt",
+    "given": "Susanna Johanna",
+    "surname": "van der Walt",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      823,
+      1983
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1984,
+      1985,
+      1986,
+      1987,
+      1989
+    ],
+    "parentUnions": [
+      "F515"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 823,
+        "unionId": "F515",
+        "type": "biological"
+      },
+      {
+        "id": 1983,
+        "unionId": "F515",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000042484028114@",
+    "geniId": "6000000042484028114",
+    "rfn": "geni:6000000042484028114",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/1988/",
+    "canonical": "https://www.genepedia.org/people/1988/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.187Z"
+}

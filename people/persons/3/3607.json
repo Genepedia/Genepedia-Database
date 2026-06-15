@@ -1,0 +1,91 @@
+{
+  "id": 3607,
+  "schema": "genepedia/person@1",
+  "slug": "hester-alida-cecilia-oosthuizen",
+  "names": {
+    "display": "Hester Alida Cecilia Oosthuizen",
+    "given": "Hester Alida Cecilia",
+    "surname": "Oosthuizen",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3600,
+      1400
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3601,
+      3602,
+      3603,
+      3604,
+      3605,
+      3606,
+      3608
+    ],
+    "parentUnions": [
+      "F873"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3600,
+        "unionId": "F873",
+        "type": "biological"
+      },
+      {
+        "id": 1400,
+        "unionId": "F873",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029062310908@",
+    "geniId": "6000000029062310908",
+    "rfn": "geni:6000000029062310908",
+    "changed": "22 JUN 2017"
+  },
+  "page": {
+    "route": "people/3607/",
+    "canonical": "https://www.genepedia.org/people/3607/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

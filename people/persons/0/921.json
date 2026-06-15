@@ -1,0 +1,152 @@
+{
+  "id": 921,
+  "schema": "genepedia/person@1",
+  "slug": "mary-jane-mentasti",
+  "names": {
+    "display": "Mary Jane Mentasti",
+    "given": "Mary Jane",
+    "surname": "Mentasti",
+    "married": "Cox",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "18 APR 1932",
+      "year": 1932,
+      "iso": "1932-04-18",
+      "precision": "exact",
+      "display": "April 18, 1932",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/16/d8/24/8a/53444848c1ea8856/cox_original.jpg?hash=a6be8fcf49e118538c4f76ed35753dd1195ba11d4132d817b6a164c308e25751.1789455599",
+      "alt": "Mary Jane Mentasti"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/16/d8/24/8a/53444848c1ea8856/cox_original.jpg?hash=a6be8fcf49e118538c4f76ed35753dd1195ba11d4132d817b6a164c308e25751.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      917,
+      373
+    ],
+    "spouses": [
+      2292
+    ],
+    "exSpouses": [],
+    "children": [
+      2293,
+      2294,
+      2295
+    ],
+    "siblings": [
+      918,
+      919,
+      920
+    ],
+    "parentUnions": [
+      "F255"
+    ],
+    "spouseUnions": [
+      "F583"
+    ],
+    "parentLinks": [
+      {
+        "id": 917,
+        "unionId": "F255",
+        "type": "biological"
+      },
+      {
+        "id": 373,
+        "unionId": "F255",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2292,
+        "unionId": "F583",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2293,
+        "unionId": "F583",
+        "type": "biological"
+      },
+      {
+        "id": 2294,
+        "unionId": "F583",
+        "type": "biological"
+      },
+      {
+        "id": 2295,
+        "unionId": "F583",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028165349511@",
+    "geniId": "6000000028165349511",
+    "rfn": "geni:6000000028165349511",
+    "changed": "15 JUL 2022"
+  },
+  "page": {
+    "route": "people/921/",
+    "canonical": "https://www.genepedia.org/people/921/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

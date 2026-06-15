@@ -1,0 +1,104 @@
+{
+  "id": 3056,
+  "schema": "genepedia/person@1",
+  "slug": "adriaan-lodewikus-fourie",
+  "names": {
+    "display": "Adriaan Lodewikus Fourie",
+    "given": "Adriaan Lodewikus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "17 FEB 1955",
+      "year": 1955,
+      "iso": "1955-02-17",
+      "precision": "exact",
+      "display": "February 17, 1955",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1223
+    ],
+    "exSpouses": [],
+    "children": [
+      3057,
+      3058,
+      3059
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F750"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1223,
+        "unionId": "F750",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3057,
+        "unionId": "F750",
+        "type": "biological"
+      },
+      {
+        "id": 3058,
+        "unionId": "F750",
+        "type": "biological"
+      },
+      {
+        "id": 3059,
+        "unionId": "F750",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222126641859@",
+    "geniId": "6000000222126641859",
+    "rfn": "geni:6000000222126641859",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/3056/",
+    "canonical": "https://www.genepedia.org/people/3056/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

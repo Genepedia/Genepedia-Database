@@ -1,0 +1,131 @@
+{
+  "id": 2691,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-petrus-kotze",
+  "names": {
+    "display": "Hendrik Petrus Kotze",
+    "given": "Hendrik Petrus",
+    "surname": "Kotze",
+    "married": "Kotze",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 JUN 1903",
+      "year": 1903,
+      "iso": "1903-06-28",
+      "precision": "exact",
+      "display": "June 28, 1903",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "27 SEP 1903",
+      "year": 1903,
+      "iso": "1903-09-27",
+      "precision": "exact",
+      "display": "September 27, 1903",
+      "place": "Griekwastad",
+      "location": {
+        "label": "Griekwastad",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/39/ce/66/43/5344485dfe9bc150/record-image__original.jpg?hash=466a34044812de3d15cc4bfff74e139311f975ef3ef51975b1090646fcbcb0a9.1789455599",
+      "alt": "Hendrik Petrus Kotze"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/39/ce/66/43/5344485dfe9bc150/record-image__original.jpg?hash=466a34044812de3d15cc4bfff74e139311f975ef3ef51975b1090646fcbcb0a9.1789455599",
+        "form": "",
+        "title": "record-image_doop .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1079,
+      2689
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2690,
+      2692,
+      2693
+    ],
+    "parentUnions": [
+      "F659"
+    ],
+    "spouseUnions": [
+      "F1662"
+    ],
+    "parentLinks": [
+      {
+        "id": 1079,
+        "unionId": "F659",
+        "type": "biological"
+      },
+      {
+        "id": 2689,
+        "unionId": "F659",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056645822052@",
+    "geniId": "6000000056645822052",
+    "rfn": "geni:6000000056645822052",
+    "changed": "07 APR 2023"
+  },
+  "page": {
+    "route": "people/2691/",
+    "canonical": "https://www.genepedia.org/people/2691/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

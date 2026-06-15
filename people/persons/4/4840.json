@@ -1,0 +1,95 @@
+{
+  "id": 4840,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-elizabeth-grobler",
+  "names": {
+    "display": "Magdalena Elizabeth Grobler",
+    "given": "Magdalena Elizabeth",
+    "surname": "Grobler",
+    "married": "van der Walt",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1850",
+      "year": 1850,
+      "iso": "1850",
+      "precision": "about",
+      "display": "about 1850",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1903,
+      4837
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4838,
+      4839,
+      4841,
+      4842
+    ],
+    "parentUnions": [
+      "F1152"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1903,
+        "unionId": "F1152",
+        "type": "biological"
+      },
+      {
+        "id": 4837,
+        "unionId": "F1152",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000018179308984@",
+    "geniId": "6000000018179308984",
+    "rfn": "geni:6000000018179308984",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/4840/",
+    "canonical": "https://www.genepedia.org/people/4840/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

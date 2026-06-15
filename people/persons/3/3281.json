@@ -1,0 +1,179 @@
+{
+  "id": 3281,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-van-taak-3281",
+  "names": {
+    "display": "Pieter Andries van Taak",
+    "given": "Pieter Andries",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JUN 1823",
+      "year": 1823,
+      "iso": "1823-06-18",
+      "precision": "exact",
+      "display": "June 18, 1823",
+      "place": "Western Cape, South Africa",
+      "location": {
+        "label": "Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "18 JAN 1824",
+      "year": 1824,
+      "iso": "1824-01-18",
+      "precision": "exact",
+      "display": "January 18, 1824",
+      "place": "Swartland",
+      "location": {
+        "label": "Swartland",
+        "placeName": "Swartland",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/fb/78/8b/e1/5344484cac0f4a85/van_taak_pieter_andries_sophia_christina_lubbe_1843_clanwilliam_860_-_008121036_original.jpg?hash=3c831ffe434547142ede0d54abef4aa71e9a510f6dd1cf423d75624fa8c282f8.1789455599",
+      "alt": "Pieter Andries van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/fb/78/8b/e1/5344484cac0f4a85/van_taak_pieter_andries_sophia_christina_lubbe_1843_clanwilliam_860_-_008121036_original.jpg?hash=3c831ffe434547142ede0d54abef4aa71e9a510f6dd1cf423d75624fa8c282f8.1789455599",
+        "form": "",
+        "title": "Van Taak Pieter Andries & Sophia Christina Lubbe 1843 Clanwilliam 860 - 008121036.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3280
+    ],
+    "exSpouses": [],
+    "children": [
+      1302,
+      3282,
+      3283,
+      3284,
+      3285,
+      3286,
+      3287
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F806"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3280,
+        "unionId": "F806",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1302,
+        "unionId": "F806",
+        "type": "biological"
+      },
+      {
+        "id": 3282,
+        "unionId": "F806",
+        "type": "biological"
+      },
+      {
+        "id": 3283,
+        "unionId": "F806",
+        "type": "biological"
+      },
+      {
+        "id": 3284,
+        "unionId": "F806",
+        "type": "biological"
+      },
+      {
+        "id": 3285,
+        "unionId": "F806",
+        "type": "biological"
+      },
+      {
+        "id": 3286,
+        "unionId": "F806",
+        "type": "biological"
+      },
+      {
+        "id": 3287,
+        "unionId": "F806",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020267959350@",
+    "geniId": "6000000020267959350",
+    "rfn": "geni:6000000020267959350",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/3281/",
+    "canonical": "https://www.genepedia.org/people/3281/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

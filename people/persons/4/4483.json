@@ -1,0 +1,85 @@
+{
+  "id": 4483,
+  "schema": "genepedia/person@1",
+  "slug": "greenspoon",
+  "names": {
+    "display": "? Greenspoon",
+    "given": "?",
+    "surname": "Greenspoon",
+    "married": "Greenspoon",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4484
+    ],
+    "exSpouses": [],
+    "children": [
+      1748
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1062"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4484,
+        "unionId": "F1062",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1748,
+        "unionId": "F1062",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000209656406883@",
+    "geniId": "6000000209656406883",
+    "rfn": "geni:6000000209656406883",
+    "changed": "06 OCT 2024"
+  },
+  "page": {
+    "route": "people/4483/",
+    "canonical": "https://www.genepedia.org/people/4483/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

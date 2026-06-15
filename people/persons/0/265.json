@@ -1,0 +1,97 @@
+{
+  "id": 265,
+  "schema": "genepedia/person@1",
+  "slug": "nick-pillay",
+  "names": {
+    "display": "Nick Pillay",
+    "given": "Nick",
+    "surname": "Pillay",
+    "married": "Pillay",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/e3/79/fd/84/534448660162b6ac/12745529_666243976850061_5248943376912282012_n_original.jpg?hash=0a2f72feddb5cbbeb1d3998b61dcee776819d86a3e672882da0aada888cff247.1789455599",
+      "alt": "Nick Pillay"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/e3/79/fd/84/534448660162b6ac/12745529_666243976850061_5248943376912282012_n_original.jpg?hash=0a2f72feddb5cbbeb1d3998b61dcee776819d86a3e672882da0aada888cff247.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      100
+    ],
+    "exSpouses": [],
+    "children": [
+      266
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F85"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 100,
+        "unionId": "F85",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 266,
+        "unionId": "F85",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204069278853@",
+    "geniId": "6000000204069278853",
+    "rfn": "geni:6000000204069278853",
+    "changed": "14 JUN 2024"
+  },
+  "page": {
+    "route": "people/265/",
+    "canonical": "https://www.genepedia.org/people/265/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

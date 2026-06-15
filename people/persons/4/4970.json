@@ -1,0 +1,134 @@
+{
+  "id": 4970,
+  "schema": "genepedia/person@1",
+  "slug": "eben-haezer-strauss",
+  "names": {
+    "display": "Eben-Haezer Strauss",
+    "given": "Eben-Haezer",
+    "surname": "Strauss",
+    "married": "Strauss",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 JUN 1912",
+      "year": 1912,
+      "iso": "1912-06-15",
+      "precision": "exact",
+      "display": "June 15, 1912",
+      "place": "Griekwastad, Northern Cape, South Africa",
+      "location": {
+        "label": "Griekwastad, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "31 MAR 1969",
+      "year": 1969,
+      "iso": "1969-03-31",
+      "precision": "exact",
+      "display": "March 31, 1969",
+      "place": "Bothaville, Free State, South Africa",
+      "location": {
+        "label": "Bothaville, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bothaville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4968,
+      1931
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4969,
+      4971,
+      4972,
+      4973
+    ],
+    "parentUnions": [
+      "F1179"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4968,
+        "unionId": "F1179",
+        "type": "biological"
+      },
+      {
+        "id": 1931,
+        "unionId": "F1179",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040584919869@",
+    "geniId": "6000000040584919869",
+    "rfn": "geni:6000000040584919869",
+    "changed": "08 APR 2023"
+  },
+  "page": {
+    "route": "people/4970/",
+    "canonical": "https://www.genepedia.org/people/4970/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

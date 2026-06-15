@@ -1,0 +1,169 @@
+{
+  "id": 560,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-hendrika-jakoba-theron",
+  "names": {
+    "display": "Johanna Hendrika Jakoba Theron",
+    "given": "Johanna Hendrika Jakoba",
+    "surname": "Theron",
+    "married": "Bekker",
+    "nick": "Hannelie Theron",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "27 JUN 1960",
+      "year": 1960,
+      "iso": "1960-06-27",
+      "precision": "exact",
+      "display": "June 27, 1960",
+      "place": "Cape Province, South Africa",
+      "location": {
+        "label": "Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "20 NOV 1961",
+      "year": 1961,
+      "iso": "1961-11-20",
+      "precision": "exact",
+      "display": "November 20, 1961",
+      "place": "Calvinia, Cape Province, South Africa",
+      "location": {
+        "label": "Calvinia, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/cf/8f/a8/24/5344486602ba14fd/screenshot_2024-06-15_192113_original.jpg?hash=a2384b2d2b68e59ff9347d399d72159076e92997ec8fc38530a1ebfb3f341a4c.1789455599",
+      "alt": "Johanna Hendrika Jakoba Theron"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/cf/8f/a8/24/5344486602ba14fd/screenshot_2024-06-15_192113_original.jpg?hash=a2384b2d2b68e59ff9347d399d72159076e92997ec8fc38530a1ebfb3f341a4c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      558,
+      213
+    ],
+    "spouses": [
+      1374
+    ],
+    "exSpouses": [],
+    "children": [
+      1375,
+      1376
+    ],
+    "siblings": [
+      559,
+      561,
+      562
+    ],
+    "parentUnions": [
+      "F163"
+    ],
+    "spouseUnions": [
+      "F354"
+    ],
+    "parentLinks": [
+      {
+        "id": 558,
+        "unionId": "F163",
+        "type": "biological"
+      },
+      {
+        "id": 213,
+        "unionId": "F163",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1374,
+        "unionId": "F354",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1375,
+        "unionId": "F354",
+        "type": "biological"
+      },
+      {
+        "id": 1376,
+        "unionId": "F354",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027228137797@",
+    "geniId": "6000000027228137797",
+    "rfn": "geni:6000000027228137797",
+    "changed": "22 AUG 2024"
+  },
+  "page": {
+    "route": "people/560/",
+    "canonical": "https://www.genepedia.org/people/560/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

@@ -1,0 +1,196 @@
+{
+  "id": 298,
+  "schema": "genepedia/person@1",
+  "slug": "irene-irmgard-margot-caroline-malchin",
+  "names": {
+    "display": "Irene Irmgard Margot Caroline Malchin",
+    "given": "Irene Irmgard Margot Caroline",
+    "surname": "Malchin",
+    "married": "Lurie",
+    "nick": "Irenka",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BEF 1901",
+      "year": 1901,
+      "iso": "1901",
+      "precision": "before",
+      "display": "before 1901",
+      "place": null
+    },
+    "death": {
+      "date": "6 JUN 1967",
+      "year": 1967,
+      "iso": "1967-06-06",
+      "precision": "exact",
+      "display": "June 6, 1967",
+      "place": "Solisbury, Zimbabwe",
+      "location": {
+        "label": "Solisbury, Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Solisbury",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/33/64/49/50/5344486a0a358f8b/jpg_3__original.jpg?hash=2e93c5958b5f9a5178a52e4fa1d76e4f697dd3b82d3ac39bbaa74f36d0a4d445.1789455599",
+      "alt": "Irene Irmgard Margot Caroline Malchin"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/33/64/49/50/5344486a0a358f8b/jpg_3__original.jpg?hash=2e93c5958b5f9a5178a52e4fa1d76e4f697dd3b82d3ac39bbaa74f36d0a4d445.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/4c/a3/89/a5/53444868aaba388b/screenshot_20250422_094901_original.jpg?hash=413dd0ae3d6e19b05847c20a0c978bc695b3adf6de93751af089411d30209164.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      736,
+      737
+    ],
+    "spouses": [
+      297,
+      735
+    ],
+    "exSpouses": [],
+    "children": [
+      110,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304
+    ],
+    "siblings": [
+      738,
+      739
+    ],
+    "parentUnions": [
+      "F208"
+    ],
+    "spouseUnions": [
+      "F97",
+      "F207"
+    ],
+    "parentLinks": [
+      {
+        "id": 736,
+        "unionId": "F208",
+        "type": "biological"
+      },
+      {
+        "id": 737,
+        "unionId": "F208",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 297,
+        "unionId": "F97",
+        "role": "husband"
+      },
+      {
+        "id": 735,
+        "unionId": "F207",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 110,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 299,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 300,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 301,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 302,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 303,
+        "unionId": "F97",
+        "type": "biological"
+      },
+      {
+        "id": 304,
+        "unionId": "F97",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204087696823@",
+    "geniId": "6000000204087696823",
+    "rfn": "geni:6000000204087696823",
+    "changed": "12 FEB 2026"
+  },
+  "page": {
+    "route": "people/298/",
+    "canonical": "https://www.genepedia.org/people/298/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

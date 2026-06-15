@@ -1,0 +1,172 @@
+{
+  "id": 173,
+  "schema": "genepedia/person@1",
+  "slug": "jan-hendrik-jakob-fourie",
+  "names": {
+    "display": "Jan Hendrik Jakob Fourie",
+    "given": "Jan Hendrik Jakob",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "Jan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "30 SEP 1901",
+      "year": 1901,
+      "iso": "1901-09-30",
+      "precision": "exact",
+      "display": "September 30, 1901",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "19 FEB 1982",
+      "year": 1982,
+      "iso": "1982-02-19",
+      "precision": "exact",
+      "display": "February 19, 1982",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Jan Hendrik Jakob Fourie"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Fourie Web Site",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      167,
+      168
+    ],
+    "spouses": [
+      482
+    ],
+    "exSpouses": [],
+    "children": [
+      483,
+      484,
+      485,
+      486
+    ],
+    "siblings": [
+      169,
+      170,
+      171,
+      172,
+      174,
+      175,
+      176,
+      177,
+      45,
+      178
+    ],
+    "parentUnions": [
+      "F52"
+    ],
+    "spouseUnions": [
+      "F141"
+    ],
+    "parentLinks": [
+      {
+        "id": 167,
+        "unionId": "F52",
+        "type": "biological"
+      },
+      {
+        "id": 168,
+        "unionId": "F52",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 482,
+        "unionId": "F141",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 483,
+        "unionId": "F141",
+        "type": "biological"
+      },
+      {
+        "id": 484,
+        "unionId": "F141",
+        "type": "biological"
+      },
+      {
+        "id": 485,
+        "unionId": "F141",
+        "type": "biological"
+      },
+      {
+        "id": 486,
+        "unionId": "F141",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000024245697104@",
+    "geniId": "6000000024245697104",
+    "rfn": "geni:6000000024245697104",
+    "changed": "10 SEP 2025"
+  },
+  "page": {
+    "route": "people/173/",
+    "canonical": "https://www.genepedia.org/people/173/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

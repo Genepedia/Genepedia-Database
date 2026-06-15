@@ -1,0 +1,214 @@
+{
+  "id": 3873,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-wilhelm-christiaan-geyer",
+  "names": {
+    "display": "Johannes Wilhelm Christiaan Geyer",
+    "given": "Johannes Wilhelm Christiaan",
+    "surname": "Geyer",
+    "married": "Geyer",
+    "nick": "Johan Wilhelm",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 JUL 1793",
+      "year": 1793,
+      "iso": "1793-07-28",
+      "precision": "exact",
+      "display": "July 28, 1793",
+      "place": null
+    },
+    "death": {
+      "date": "26 APR 1866",
+      "year": 1866,
+      "iso": "1866-04-26",
+      "precision": "exact",
+      "display": "April 26, 1866",
+      "place": null
+    },
+    "baptism": {
+      "date": "28 JUL 1793",
+      "year": 1793,
+      "iso": "1793-07-28",
+      "precision": "exact",
+      "display": "July 28, 1793",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": "ABT 26 APR 1866",
+      "year": 1866,
+      "iso": "1866-04-26",
+      "precision": "about",
+      "display": "about April 26, 1866",
+      "place": null,
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3872
+    ],
+    "exSpouses": [],
+    "children": [
+      3874,
+      3875,
+      3876,
+      3877,
+      3878,
+      3879,
+      3880,
+      3881,
+      3882,
+      3883,
+      3884,
+      1523,
+      3885,
+      3886,
+      3887
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F919"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3872,
+        "unionId": "F919",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3874,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3875,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3876,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3877,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3878,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3879,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3880,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3881,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3882,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3883,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3884,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 1523,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3885,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3886,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3887,
+        "unionId": "F919",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000014729277108@",
+    "geniId": "6000000014729277108",
+    "rfn": "geni:6000000014729277108",
+    "changed": "24 SEP 2024"
+  },
+  "page": {
+    "route": "people/3873/",
+    "canonical": "https://www.genepedia.org/people/3873/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

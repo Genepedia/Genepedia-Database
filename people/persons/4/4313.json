@@ -1,0 +1,126 @@
+{
+  "id": 4313,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-brown",
+  "names": {
+    "display": "Elizabeth Brown",
+    "given": "Elizabeth",
+    "surname": "Brown",
+    "married": "Lodge",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Northern Ireland, United Kingdom",
+      "location": {
+        "label": "Northern Ireland, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Ireland",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      4312
+    ],
+    "exSpouses": [],
+    "children": [
+      4314,
+      1630,
+      4315,
+      4316
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1015"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 4312,
+        "unionId": "F1015",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4314,
+        "unionId": "F1015",
+        "type": "biological"
+      },
+      {
+        "id": 1630,
+        "unionId": "F1015",
+        "type": "biological"
+      },
+      {
+        "id": 4315,
+        "unionId": "F1015",
+        "type": "biological"
+      },
+      {
+        "id": 4316,
+        "unionId": "F1015",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000036782292204@",
+    "geniId": "6000000036782292204",
+    "rfn": "geni:6000000036782292204",
+    "changed": "29 APR 2022"
+  },
+  "page": {
+    "route": "people/4313/",
+    "canonical": "https://www.genepedia.org/people/4313/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

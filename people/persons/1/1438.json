@@ -1,0 +1,106 @@
+{
+  "id": 1438,
+  "schema": "genepedia/person@1",
+  "slug": "jeremiah-brynard-1438",
+  "names": {
+    "display": "Jeremiah Brynard",
+    "given": "Jeremiah",
+    "surname": "Brynard",
+    "married": "Brynard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1870",
+      "year": 1870,
+      "iso": "1870",
+      "precision": "exact",
+      "display": "1870",
+      "place": null
+    },
+    "death": {
+      "date": "4 DEC 1891",
+      "year": 1891,
+      "iso": "1891-12-04",
+      "precision": "exact",
+      "display": "December 4, 1891",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1435,
+      1434
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1436,
+      578,
+      1437,
+      1439,
+      1440,
+      1441,
+      1442,
+      1443
+    ],
+    "parentUnions": [
+      "F364"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1435,
+        "unionId": "F364",
+        "type": "biological"
+      },
+      {
+        "id": 1434,
+        "unionId": "F364",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000172235369999@",
+    "geniId": "6000000172235369999",
+    "rfn": "geni:6000000172235369999",
+    "changed": "04 FEB 2021"
+  },
+  "page": {
+    "route": "people/1438/",
+    "canonical": "https://www.genepedia.org/people/1438/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

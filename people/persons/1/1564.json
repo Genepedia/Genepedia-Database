@@ -1,0 +1,107 @@
+{
+  "id": 1564,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-christina-van-zyl",
+  "names": {
+    "display": "Johanna Christina van Zyl",
+    "given": "Johanna Christina",
+    "surname": "van Niekerk",
+    "married": "van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1918",
+      "year": 1918,
+      "iso": "1918",
+      "precision": "exact",
+      "display": "1918",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      630,
+      1559
+    ],
+    "spouses": [
+      4139
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1560,
+      1561,
+      1562,
+      1563,
+      1565,
+      1566
+    ],
+    "parentUnions": [
+      "F397"
+    ],
+    "spouseUnions": [
+      "F960"
+    ],
+    "parentLinks": [
+      {
+        "id": 630,
+        "unionId": "F397",
+        "type": "biological"
+      },
+      {
+        "id": 1559,
+        "unionId": "F397",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4139,
+        "unionId": "F960",
+        "role": "husband"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000176422072898@",
+    "geniId": "6000000176422072898",
+    "rfn": "geni:6000000176422072898",
+    "changed": "17 JUN 2021"
+  },
+  "page": {
+    "route": "people/1564/",
+    "canonical": "https://www.genepedia.org/people/1564/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}

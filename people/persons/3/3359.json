@@ -1,0 +1,123 @@
+{
+  "id": 3359,
+  "schema": "genepedia/person@1",
+  "slug": "arthur-frederick-james-hamilton",
+  "names": {
+    "display": "Arthur Frederick James Hamilton",
+    "given": "Arthur Frederick James",
+    "surname": "Hamilton",
+    "married": "Hamilton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 APR 1899",
+      "year": 1899,
+      "iso": "1899-04-26",
+      "precision": "exact",
+      "display": "April 26, 1899",
+      "place": "England, United Kingdom",
+      "location": {
+        "label": "England, United Kingdom",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "England",
+        "country": "United Kingdom",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "27 JUN 1976",
+      "year": 1976,
+      "iso": "1976-06-27",
+      "precision": "exact",
+      "display": "June 27, 1976",
+      "place": "Fish Hoek, Western Cape, South Africa",
+      "location": {
+        "label": "Fish Hoek, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Fish Hoek",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1327
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F825"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1327,
+        "unionId": "F825",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029513721338@",
+    "geniId": "6000000029513721338",
+    "rfn": "geni:6000000029513721338",
+    "changed": "08 NOV 2021"
+  },
+  "page": {
+    "route": "people/3359/",
+    "canonical": "https://www.genepedia.org/people/3359/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

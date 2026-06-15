@@ -1,0 +1,153 @@
+{
+  "id": 377,
+  "schema": "genepedia/person@1",
+  "slug": "annie-roselt",
+  "names": {
+    "display": "Annie Roselt",
+    "given": "Annie",
+    "surname": "Roselt",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1905",
+      "year": 1905,
+      "iso": "1905",
+      "precision": "exact",
+      "display": "1905",
+      "place": "Herbert",
+      "location": {
+        "label": "Herbert",
+        "placeName": "",
+        "addressLine1": "Dassiesfontein",
+        "addressLine2": "Wyk 6",
+        "addressLine3": "",
+        "city": "Herbert",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 APR 1906",
+      "year": 1906,
+      "iso": "1906-04-10",
+      "precision": "exact",
+      "display": "April 10, 1906",
+      "place": "Douglas",
+      "location": {
+        "label": "Douglas",
+        "placeName": "",
+        "addressLine1": "Dassiesfontein",
+        "addressLine2": "Wyk 6",
+        "addressLine3": "Herbert",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/eb/cf/2b/01/5344486570573aaf/image_original.jpg?hash=d57e4edbffdc6150957e66449d45834cb7153b612b73485cf250760ec1457926.1789455599",
+      "alt": "Annie Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/eb/cf/2b/01/5344486570573aaf/image_original.jpg?hash=d57e4edbffdc6150957e66449d45834cb7153b612b73485cf250760ec1457926.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      368,
+      369
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      370,
+      138,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      378,
+      379,
+      380
+    ],
+    "parentUnions": [
+      "F117"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 368,
+        "unionId": "F117",
+        "type": "biological"
+      },
+      {
+        "id": 369,
+        "unionId": "F117",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204079417821@",
+    "geniId": "6000000204079417821",
+    "rfn": "geni:6000000204079417821",
+    "changed": "14 MAR 2024"
+  },
+  "page": {
+    "route": "people/377/",
+    "canonical": "https://www.genepedia.org/people/377/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

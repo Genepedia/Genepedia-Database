@@ -1,0 +1,124 @@
+{
+  "id": 2934,
+  "schema": "genepedia/person@1",
+  "slug": "maria-margaretha-cornelia-martha-cornelia-de-klerk",
+  "names": {
+    "display": "Maria Margaretha Cornelia(Martha Cornelia) de Klerk",
+    "given": "Maria Margaretha Cornelia(Martha Cornelia)",
+    "surname": "de Klerk",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 APR 1853",
+      "year": 1853,
+      "iso": "1853-04-20",
+      "precision": "exact",
+      "display": "April 20, 1853",
+      "place": "Victoria-wes, South Africa",
+      "location": {
+        "label": "Victoria-wes, South Africa",
+        "placeName": "Victoria-wes",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "14 DEC 1856",
+      "year": 1856,
+      "iso": "1856-12-14",
+      "precision": "exact",
+      "display": "December 14, 1856",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2932,
+      2931
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2933,
+      2935,
+      2936,
+      2937,
+      1177,
+      2938,
+      2939,
+      2940,
+      2941,
+      2942
+    ],
+    "parentUnions": [
+      "F722"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2932,
+        "unionId": "F722",
+        "type": "biological"
+      },
+      {
+        "id": 2931,
+        "unionId": "F722",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000036409887887@",
+    "geniId": "6000000036409887887",
+    "rfn": "geni:6000000036409887887",
+    "changed": "23 DEC 2023"
+  },
+  "page": {
+    "route": "people/2934/",
+    "canonical": "https://www.genepedia.org/people/2934/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

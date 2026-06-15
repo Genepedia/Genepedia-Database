@@ -1,0 +1,182 @@
+{
+  "id": 728,
+  "schema": "genepedia/person@1",
+  "slug": "louis-lurie-728",
+  "names": {
+    "display": "Louis Lurie",
+    "given": "Louis",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 AUG 1886",
+      "year": 1886,
+      "iso": "1886-08-15",
+      "precision": "exact",
+      "display": "August 15, 1886",
+      "place": null
+    },
+    "death": {
+      "date": "14 MAR 1961",
+      "year": 1961,
+      "iso": "1961-03-14",
+      "precision": "exact",
+      "display": "March 14, 1961",
+      "place": "Chicago, Illinois, United States",
+      "location": {
+        "label": "Chicago, Illinois, United States",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Chicago",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Illinois",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": "16 MAR 1961",
+      "year": 1961,
+      "iso": "1961-03-16",
+      "precision": "exact",
+      "display": "March 16, 1961",
+      "place": "Rosemont Park, Chicago, Illinois, United States",
+      "location": {
+        "label": "Rosemont Park, Chicago, Illinois, United States",
+        "placeName": "Rosemont Park",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Chicago",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Illinois",
+        "country": "United States",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      725,
+      726
+    ],
+    "spouses": [
+      1752
+    ],
+    "exSpouses": [],
+    "children": [
+      1753,
+      1754,
+      1755,
+      1756
+    ],
+    "siblings": [
+      727,
+      729,
+      730,
+      297,
+      731,
+      732,
+      733,
+      734
+    ],
+    "parentUnions": [
+      "F206"
+    ],
+    "spouseUnions": [
+      "F460"
+    ],
+    "parentLinks": [
+      {
+        "id": 725,
+        "unionId": "F206",
+        "type": "biological"
+      },
+      {
+        "id": 726,
+        "unionId": "F206",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1752,
+        "unionId": "F460",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1753,
+        "unionId": "F460",
+        "type": "biological"
+      },
+      {
+        "id": 1754,
+        "unionId": "F460",
+        "type": "biological"
+      },
+      {
+        "id": 1755,
+        "unionId": "F460",
+        "type": "biological"
+      },
+      {
+        "id": 1756,
+        "unionId": "F460",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000167270497824@",
+    "geniId": "6000000167270497824",
+    "rfn": "geni:6000000167270497824",
+    "changed": "29 AUG 2024"
+  },
+  "page": {
+    "route": "people/728/",
+    "canonical": "https://www.genepedia.org/people/728/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

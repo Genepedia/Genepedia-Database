@@ -1,0 +1,183 @@
+{
+  "id": 3914,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-aletta-botha",
+  "names": {
+    "display": "Johanna Aletta Botha",
+    "given": "Johanna Aletta",
+    "surname": "Botha",
+    "married": "Theunissen",
+    "nick": "Anna",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 JUL 1825",
+      "year": 1825,
+      "iso": "1825-07-17",
+      "precision": "exact",
+      "display": "July 17, 1825",
+      "place": "Cape Colony, South Africa",
+      "location": {
+        "label": "Cape Colony, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Colony",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "17 NOV 1879",
+      "year": 1879,
+      "iso": "1879-11-17",
+      "precision": "exact",
+      "display": "November 17, 1879",
+      "place": "Elandskraal, Rustenburg, Transvaal, South Africa",
+      "location": {
+        "label": "Elandskraal, Rustenburg, Transvaal, South Africa",
+        "placeName": "Elandskraal",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "Sterkstroom",
+        "city": "Rustenburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "20 NOV 1825",
+      "year": 1825,
+      "iso": "1825-11-20",
+      "precision": "exact",
+      "display": "November 20, 1825",
+      "place": "Uitenhage, Eastern Cape, South Africa",
+      "location": {
+        "label": "Uitenhage, Eastern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Uitenhage",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Eastern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b5/da/dc/f4/534448401d0d7c3c/marriages_1937-1938_-_1845_page_011_original.jpg?hash=e71f02e9de85fe43ce27299dad984dade62740a0878cdb43f04e340e73fd93ca.1789455599",
+      "alt": "Johanna Aletta Botha"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b5/da/dc/f4/534448401d0d7c3c/marriages_1937-1938_-_1845_page_011_original.jpg?hash=e71f02e9de85fe43ce27299dad984dade62740a0878cdb43f04e340e73fd93ca.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/49/d9/f0/77/53444847e35d9e42/johanna_aletta_botha_x_theunisse_d_17_nov_1879__original.jpg?hash=f79c08b239f149e95949c7398c8b2aab4a3ceb85ed65b2cd57f6fcd4547143b0.1789455599",
+        "form": "",
+        "title": "Johanna Aletta Botha d 17 Nov 1879 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/d1/29/2b/83/5344485dfb5c0a89/botha_johanna_aletta_1825-1879_tab_mhg_1382_original.jpg?hash=8b1c5a2baa332d7fd3e82130777e38440ade75741843c1ff0701cba23a5a8ba4.1789455599",
+        "form": "",
+        "title": "Botha, Johanna Aletta, 1825-1879, TAB MHG 1382.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3911,
+      3912
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3913,
+      1531,
+      3915,
+      3916
+    ],
+    "parentUnions": [
+      "F923"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3911,
+        "unionId": "F923",
+        "type": "biological"
+      },
+      {
+        "id": 3912,
+        "unionId": "F923",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000014650689190@",
+    "geniId": "6000000014650689190",
+    "rfn": "geni:6000000014650689190",
+    "changed": "13 APR 2025"
+  },
+  "page": {
+    "route": "people/3914/",
+    "canonical": "https://www.genepedia.org/people/3914/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

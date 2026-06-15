@@ -1,0 +1,77 @@
+{
+  "id": 4493,
+  "schema": "genepedia/person@1",
+  "slug": "livingston",
+  "names": {
+    "display": "? Livingston",
+    "given": "?",
+    "surname": "Livingston",
+    "married": "Livingston",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [
+      1757
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1065"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": [
+      {
+        "id": 1757,
+        "unionId": "F1065",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000208305042821@",
+    "geniId": "6000000208305042821",
+    "rfn": "geni:6000000208305042821",
+    "changed": "19 AUG 2024"
+  },
+  "page": {
+    "route": "people/4493/",
+    "canonical": "https://www.genepedia.org/people/4493/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

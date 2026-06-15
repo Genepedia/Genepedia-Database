@@ -1,0 +1,124 @@
+{
+  "id": 3651,
+  "schema": "genepedia/person@1",
+  "slug": "hester-christina-meintjes-3651",
+  "names": {
+    "display": "Hester Christina Meintjes",
+    "given": "Hester Christina",
+    "surname": "Meintjes",
+    "married": "Hendrikz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 DEC 1895",
+      "year": 1895,
+      "iso": "1895-12-24",
+      "precision": "exact",
+      "display": "December 24, 1895",
+      "place": "Aberdeen, EC, South Africa",
+      "location": {
+        "label": "Aberdeen, EC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Aberdeen",
+        "postalCode": "6270",
+        "county": "",
+        "stateProvince": "EC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "MAR 1983",
+      "year": 1983,
+      "iso": "1983-03",
+      "precision": "exact",
+      "display": "March 1983",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1404,
+      3650
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3652,
+      3653,
+      3654,
+      3655,
+      3656,
+      3657,
+      3658,
+      3659,
+      3660,
+      3661
+    ],
+    "parentUnions": [
+      "F878"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1404,
+        "unionId": "F878",
+        "type": "biological"
+      },
+      {
+        "id": 3650,
+        "unionId": "F878",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000019880110624@",
+    "geniId": "6000000019880110624",
+    "rfn": "geni:6000000019880110624",
+    "changed": "03 JUN 2026"
+  },
+  "page": {
+    "route": "people/3651/",
+    "canonical": "https://www.genepedia.org/people/3651/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.205Z"
+}

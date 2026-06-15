@@ -1,0 +1,156 @@
+{
+  "id": 3798,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-gertuida-jacoba-hanekom",
+  "names": {
+    "display": "Cornelia Gertuida Jacoba Hanekom",
+    "given": "Cornelia Gertuida Jacoba",
+    "surname": "Hanekom",
+    "married": "Brynard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "12 AUG 1886",
+      "year": 1886,
+      "iso": "1886-08-12",
+      "precision": "exact",
+      "display": "August 12, 1886",
+      "place": "Calvinia, NC, South Africa",
+      "location": {
+        "label": "Calvinia, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "8190",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "13 NOV 1968",
+      "year": 1968,
+      "iso": "1968-11-13",
+      "precision": "exact",
+      "display": "November 13, 1968",
+      "place": null
+    },
+    "baptism": {
+      "date": "8 FEB 1887",
+      "year": 1887,
+      "iso": "1887-02-08",
+      "precision": "exact",
+      "display": "February 8, 1887",
+      "place": "Ceres, WC, South Africa",
+      "location": {
+        "label": "Ceres, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Ceres",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1441
+    ],
+    "exSpouses": [],
+    "children": [
+      3799,
+      3800,
+      3801,
+      3802
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F905"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1441,
+        "unionId": "F905",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3799,
+        "unionId": "F905",
+        "type": "biological"
+      },
+      {
+        "id": 3800,
+        "unionId": "F905",
+        "type": "biological"
+      },
+      {
+        "id": 3801,
+        "unionId": "F905",
+        "type": "biological"
+      },
+      {
+        "id": 3802,
+        "unionId": "F905",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000058880572898@",
+    "geniId": "6000000058880572898",
+    "rfn": "geni:6000000058880572898",
+    "changed": "20 JAN 2026"
+  },
+  "page": {
+    "route": "people/3798/",
+    "canonical": "https://www.genepedia.org/people/3798/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

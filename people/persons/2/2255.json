@@ -1,0 +1,131 @@
+{
+  "id": 2255,
+  "schema": "genepedia/person@1",
+  "slug": "frederick-willem-du-plessis-roselt",
+  "names": {
+    "display": "Frederick Willem Du Plessis Roselt",
+    "given": "Frederick Willem Du Plessis",
+    "surname": "Roselt",
+    "married": "Roselt",
+    "nick": "Duppie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "5 DEC 1970",
+      "year": 1970,
+      "iso": "1970-12-05",
+      "precision": "exact",
+      "display": "December 5, 1970",
+      "place": null
+    },
+    "death": {
+      "date": "31 MAY 2009",
+      "year": 2009,
+      "iso": "2009-05-31",
+      "precision": "exact",
+      "display": "May 31, 2009",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/48/9a/41/f1/5344484027d33195/duppie_original.jpg?hash=43980d68df69729a4b34924f01109c44105f68dcc33d15a940a1cd26394e0c46.1789455599",
+      "alt": "Frederick Willem Du Plessis Roselt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/48/9a/41/f1/5344484027d33195/duppie_original.jpg?hash=43980d68df69729a4b34924f01109c44105f68dcc33d15a940a1cd26394e0c46.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/2f/c8/18/88/5344484027f01658/duppie_3_original.jpg?hash=c9ac7cd6422ed273fd9d7e281fe8f829533aa7a81876bd4a7f89a00dd688f5b0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/d9/99/9f/6f/5344484027c055ee/duppie_roselt_original.jpg?hash=e34b566cde229bfa20bf6155518c1a04a980628dbc544de83db11eccdaf04f58.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      913,
+      2250
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2251,
+      2252,
+      2253,
+      2254,
+      2256
+    ],
+    "parentUnions": [
+      "F572"
+    ],
+    "spouseUnions": [
+      "F1397"
+    ],
+    "parentLinks": [
+      {
+        "id": 913,
+        "unionId": "F572",
+        "type": "biological"
+      },
+      {
+        "id": 2250,
+        "unionId": "F572",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029218206991@",
+    "geniId": "6000000029218206991",
+    "rfn": "geni:6000000029218206991",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/2255/",
+    "canonical": "https://www.genepedia.org/people/2255/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

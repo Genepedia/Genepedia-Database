@@ -1,0 +1,161 @@
+{
+  "id": 3243,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-maria-elizabeth-nieuwoudt",
+  "names": {
+    "display": "Johanna Maria Elizabeth Nieuwoudt",
+    "given": "Johanna Maria Elizabeth",
+    "surname": "Nieuwoudt",
+    "married": "Mouton",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 MAR 1875",
+      "year": 1875,
+      "iso": "1875-03-09",
+      "precision": "exact",
+      "display": "March 9, 1875",
+      "place": "Groenrivier, Calvinia, NC, South Africa",
+      "location": {
+        "label": "Groenrivier, Calvinia, NC, South Africa",
+        "placeName": "Groenrivier",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "2 SEP 1903",
+      "year": 1903,
+      "iso": "1903-09-02",
+      "precision": "exact",
+      "display": "September 2, 1903",
+      "place": "Windhoek, Vanrhynsdorp, WC, South Africa",
+      "location": {
+        "label": "Windhoek, Vanrhynsdorp, WC, South Africa",
+        "placeName": "Windhoek",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vanrhynsdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/b3/e0/26/f6/5344484ef1b06e65/johanna_maria_elizabeth_mouton_nieuwoudt_1874_-_1903_original.jpg?hash=7b6a62694ccb177f2fda712576dfe02bcb282d6b60c383ff82403f6bb82696bf.1789455599",
+      "alt": "Johanna Maria Elizabeth Nieuwoudt"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/b3/e0/26/f6/5344484ef1b06e65/johanna_maria_elizabeth_mouton_nieuwoudt_1874_-_1903_original.jpg?hash=7b6a62694ccb177f2fda712576dfe02bcb282d6b60c383ff82403f6bb82696bf.1789455599",
+        "form": "",
+        "title": "Johanna Maria Elizabeth Mouton (Nieuwoudt) 1874 - 1903.jpg",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1293
+    ],
+    "exSpouses": [],
+    "children": [
+      3244,
+      3245,
+      3246,
+      3247
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F797"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1293,
+        "unionId": "F797",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3244,
+        "unionId": "F797",
+        "type": "biological"
+      },
+      {
+        "id": 3245,
+        "unionId": "F797",
+        "type": "biological"
+      },
+      {
+        "id": 3246,
+        "unionId": "F797",
+        "type": "biological"
+      },
+      {
+        "id": 3247,
+        "unionId": "F797",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000107456722406@",
+    "geniId": "6000000107456722406",
+    "rfn": "geni:6000000107456722406",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/3243/",
+    "canonical": "https://www.genepedia.org/people/3243/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

@@ -1,0 +1,202 @@
+{
+  "id": 2319,
+  "schema": "genepedia/person@1",
+  "slug": "maria-johanna-chatarina-van-wyk",
+  "names": {
+    "display": "Maria Johanna Chatarina van Wyk",
+    "given": "Maria Johanna Chatarina",
+    "surname": "van Wyk",
+    "married": "Sinden",
+    "nick": "Marie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 SEP 1926",
+      "year": 1926,
+      "iso": "1926-09-26",
+      "precision": "exact",
+      "display": "September 26, 1926",
+      "place": null
+    },
+    "death": {
+      "date": "10 OCT 2007",
+      "year": 2007,
+      "iso": "2007-10-10",
+      "precision": "exact",
+      "display": "October 10, 2007",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Main Cemetery, Bucklands",
+      "location": {
+        "label": "Main Cemetery, Bucklands",
+        "placeName": "Main Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bucklands",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/16/79/25/16/5344485ed76aa662/blb0111c_original.jpg?hash=334413d2af69717cba86e4cd111717f99c490d896c74e90f2abed63ff0d4ae59.1789455599",
+      "alt": "Maria Johanna Chatarina van Wyk"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/16/79/25/16/5344485ed76aa662/blb0111c_original.jpg?hash=334413d2af69717cba86e4cd111717f99c490d896c74e90f2abed63ff0d4ae59.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/46/31/24/a7/5344485ed765204f/blb0111a_original.jpg?hash=c839013774e2c232cb9544707663e9ec2262713b06cf91bcf19bb4867a36743c.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/b2/33/6f/ca/5344483db029937a/trou_foto_hendrik_se_pa_en_ma_original.jpg?hash=6a7c41763fdc7af0811ae4b5a81e0b0e0365fecebdc8ca100293c8818bde300f.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/92/3b/ec/81/5344483c878acc50/tif87nej_original.jpg?hash=4043c82ca60e99a914e585f14b8b1b4bb6db0e0e33edd9e7e3586507a2b6be49.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2196
+    ],
+    "spouses": [
+      929
+    ],
+    "exSpouses": [],
+    "children": [
+      2320,
+      2321,
+      2322,
+      2323,
+      2324,
+      2325,
+      2326
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1358"
+    ],
+    "spouseUnions": [
+      "F588"
+    ],
+    "parentLinks": [
+      {
+        "id": 2196,
+        "unionId": "F1358",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 929,
+        "unionId": "F588",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2320,
+        "unionId": "F588",
+        "type": "biological"
+      },
+      {
+        "id": 2321,
+        "unionId": "F588",
+        "type": "biological"
+      },
+      {
+        "id": 2322,
+        "unionId": "F588",
+        "type": "biological"
+      },
+      {
+        "id": 2323,
+        "unionId": "F588",
+        "type": "biological"
+      },
+      {
+        "id": 2324,
+        "unionId": "F588",
+        "type": "biological"
+      },
+      {
+        "id": 2325,
+        "unionId": "F588",
+        "type": "biological"
+      },
+      {
+        "id": 2326,
+        "unionId": "F588",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028162413977@",
+    "geniId": "6000000028162413977",
+    "rfn": "geni:6000000028162413977",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2319/",
+    "canonical": "https://www.genepedia.org/people/2319/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 3523,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-isabella-frederika-de-beer",
+  "names": {
+    "display": "Susanna Isabella Frederika de Beer",
+    "given": "Susanna Isabella Frederika",
+    "surname": "de Beer",
+    "married": "Swanepoel",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 24 FEB 1878",
+      "year": 1878,
+      "iso": "1878-02-24",
+      "precision": "about",
+      "display": "about February 24, 1878",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1388,
+      3517
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3518,
+      3519,
+      3520,
+      3521,
+      3522,
+      3524
+    ],
+    "parentUnions": [
+      "F860"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1388,
+        "unionId": "F860",
+        "type": "biological"
+      },
+      {
+        "id": 3517,
+        "unionId": "F860",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000042431168378@",
+    "geniId": "6000000042431168378",
+    "rfn": "geni:6000000042431168378",
+    "changed": "22 SEP 2020"
+  },
+  "page": {
+    "route": "people/3523/",
+    "canonical": "https://www.genepedia.org/people/3523/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.204Z"
+}

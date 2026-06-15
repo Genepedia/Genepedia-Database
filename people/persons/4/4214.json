@@ -1,0 +1,128 @@
+{
+  "id": 4214,
+  "schema": "genepedia/person@1",
+  "slug": "susanna-maria-margaretha-du-plooy",
+  "names": {
+    "display": "Susanna Maria Margaretha du Plooy",
+    "given": "Susanna Maria Margaretha",
+    "surname": "du Plooy",
+    "married": "du Plooy",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 JAN 1818",
+      "year": 1818,
+      "iso": "1818-01-25",
+      "precision": "exact",
+      "display": "January 25, 1818",
+      "place": null
+    },
+    "death": {
+      "date": "1835",
+      "year": 1835,
+      "iso": "1835",
+      "precision": "exact",
+      "display": "1835",
+      "place": null
+    },
+    "baptism": {
+      "date": "3 MAY 1818",
+      "year": 1818,
+      "iso": "1818-05-03",
+      "precision": "exact",
+      "display": "May 3, 1818",
+      "place": "Cradock, South Africa",
+      "location": {
+        "label": "Cradock, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cradock",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4212,
+      4213
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4215,
+      4216,
+      4217,
+      1601,
+      4218,
+      4219,
+      4220
+    ],
+    "parentUnions": [
+      "F990"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4212,
+        "unionId": "F990",
+        "type": "biological"
+      },
+      {
+        "id": 4213,
+        "unionId": "F990",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000013471282565@",
+    "geniId": "6000000013471282565",
+    "rfn": "geni:6000000013471282565",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4214/",
+    "canonical": "https://www.genepedia.org/people/4214/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

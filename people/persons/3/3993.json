@@ -1,0 +1,102 @@
+{
+  "id": 3993,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-jacobs",
+  "names": {
+    "display": "Johannes Jacobs",
+    "given": "Johannes",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 MAR 1880",
+      "year": 1880,
+      "iso": "1880-03-18",
+      "precision": "exact",
+      "display": "March 18, 1880",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1538,
+      3987
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3988,
+      3989,
+      3990,
+      3991,
+      3992,
+      3994,
+      3995,
+      3996,
+      3997,
+      3998,
+      3999
+    ],
+    "parentUnions": [
+      "F934"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1538,
+        "unionId": "F934",
+        "type": "biological"
+      },
+      {
+        "id": 3987,
+        "unionId": "F934",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000185124538845@",
+    "geniId": "6000000185124538845",
+    "rfn": "geni:6000000185124538845",
+    "changed": "22 MAY 2022"
+  },
+  "page": {
+    "route": "people/3993/",
+    "canonical": "https://www.genepedia.org/people/3993/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

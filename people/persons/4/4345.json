@@ -1,0 +1,86 @@
+{
+  "id": 4345,
+  "schema": "genepedia/person@1",
+  "slug": "theresa-erica-maclachlan",
+  "names": {
+    "display": "Theresa Erica Maclachlan",
+    "given": "Theresa Erica",
+    "surname": "Maclachlan",
+    "married": "Maclachlan",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1670,
+      4342
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4343,
+      4344
+    ],
+    "parentUnions": [
+      "F1025"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1670,
+        "unionId": "F1025",
+        "type": "biological"
+      },
+      {
+        "id": 4342,
+        "unionId": "F1025",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I3943435069580117648@",
+    "geniId": "3943435069580117648",
+    "rfn": "geni:3943435069580117648",
+    "changed": "12 APR 2023"
+  },
+  "page": {
+    "route": "people/4345/",
+    "canonical": "https://www.genepedia.org/people/4345/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

@@ -1,0 +1,121 @@
+{
+  "id": 2040,
+  "schema": "genepedia/person@1",
+  "slug": "maria-sophia-kleynhans",
+  "names": {
+    "display": "Maria Sophia Kleynhans",
+    "given": "Maria Sophia",
+    "surname": "Kleynhans",
+    "married": "van Rooyen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1855",
+      "year": 1855,
+      "iso": "1855",
+      "precision": "about",
+      "display": "about 1855",
+      "place": "Cradock, Cape Province, South Africa",
+      "location": {
+        "label": "Cradock, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cradock",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2029,
+      2030
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2031,
+      2032,
+      2033,
+      2034,
+      2035,
+      2036,
+      2037,
+      2038,
+      2039,
+      840,
+      2041,
+      2042
+    ],
+    "parentUnions": [
+      "F530"
+    ],
+    "spouseUnions": [
+      "F1257"
+    ],
+    "parentLinks": [
+      {
+        "id": 2029,
+        "unionId": "F530",
+        "type": "biological"
+      },
+      {
+        "id": 2030,
+        "unionId": "F530",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000055811653176@",
+    "geniId": "6000000055811653176",
+    "rfn": "geni:6000000055811653176",
+    "changed": "26 MAR 2026"
+  },
+  "page": {
+    "route": "people/2040/",
+    "canonical": "https://www.genepedia.org/people/2040/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.188Z"
+}

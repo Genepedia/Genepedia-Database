@@ -1,0 +1,123 @@
+{
+  "id": 4710,
+  "schema": "genepedia/person@1",
+  "slug": "jacob-petrus-andries-strauss",
+  "names": {
+    "display": "Jacob Petrus Andries Strauss",
+    "given": "Jacob Petrus Andries",
+    "surname": "Strauss",
+    "married": "Strauss",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "SEP 1888",
+      "year": 1888,
+      "iso": "1888-09",
+      "precision": "exact",
+      "display": "September 1888",
+      "place": "Philippolis, Free State, South Africa",
+      "location": {
+        "label": "Philippolis, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Philippolis",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "15 JAN 1952",
+      "year": 1952,
+      "iso": "1952-01-15",
+      "precision": "exact",
+      "display": "January 15, 1952",
+      "place": "Vereeniging, Gauteng, South Africa",
+      "location": {
+        "label": "Vereeniging, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Vereeniging",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1870
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1123"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1870,
+        "unionId": "F1123",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066267776067@",
+    "geniId": "6000000066267776067",
+    "rfn": "geni:6000000066267776067",
+    "changed": "02 SEP 2017"
+  },
+  "page": {
+    "route": "people/4710/",
+    "canonical": "https://www.genepedia.org/people/4710/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

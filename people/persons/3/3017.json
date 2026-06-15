@@ -1,0 +1,137 @@
+{
+  "id": 3017,
+  "schema": "genepedia/person@1",
+  "slug": "johan-david-gerhardus-steenkamp",
+  "names": {
+    "display": "Johan David Gerhardus Steenkamp",
+    "given": "Johan David Gerhardus",
+    "surname": "Steenkamp",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "21 FEB 1875",
+      "year": 1875,
+      "iso": "1875-02-21",
+      "precision": "exact",
+      "display": "February 21, 1875",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "10 APR 1875",
+      "year": 1875,
+      "iso": "1875-04-10",
+      "precision": "exact",
+      "display": "April 10, 1875",
+      "place": "Heilbron, Suid-Afrika",
+      "location": {
+        "label": "Heilbron, Suid-Afrika",
+        "placeName": "Heilbron, Suid-Afrika",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://www.geni.com/images/documents/doc.png",
+      "alt": "Johan David Gerhardus Steenkamp"
+    },
+    "items": [
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Botha Web Site",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3008,
+      3009
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1194,
+      3010,
+      3011,
+      3012,
+      3013,
+      3014,
+      3015,
+      3016,
+      3018,
+      3019,
+      3020
+    ],
+    "parentUnions": [
+      "F737"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3008,
+        "unionId": "F737",
+        "type": "biological"
+      },
+      {
+        "id": 3009,
+        "unionId": "F737",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000216925310887@",
+    "geniId": "6000000216925310887",
+    "rfn": "geni:6000000216925310887",
+    "changed": "12 JUN 2025"
+  },
+  "page": {
+    "route": "people/3017/",
+    "canonical": "https://www.genepedia.org/people/3017/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3177,
+  "schema": "genepedia/person@1",
+  "slug": "tobie-van-zyl",
+  "names": {
+    "display": "Tobie Van Zyl",
+    "given": "Tobie",
+    "surname": "Van Zyl",
+    "married": "Van Zyl",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3174,
+      1273
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3175,
+      3176
+    ],
+    "parentUnions": [
+      "F779"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3174,
+        "unionId": "F779",
+        "type": "biological"
+      },
+      {
+        "id": 1273,
+        "unionId": "F779",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000007781190117@",
+    "geniId": "6000000007781190117",
+    "rfn": "geni:6000000007781190117",
+    "changed": "13 DEC 2014"
+  },
+  "page": {
+    "route": "people/3177/",
+    "canonical": "https://www.genepedia.org/people/3177/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.195Z"
+}

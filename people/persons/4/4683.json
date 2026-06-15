@@ -1,0 +1,95 @@
+{
+  "id": 4683,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-cornelius-pretorius-4683",
+  "names": {
+    "display": "Michiel Cornelius Pretorius",
+    "given": "Michiel Cornelius",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BET 1909 AND 1918",
+      "year": 1909,
+      "iso": "1918",
+      "precision": "exact",
+      "display": "1918",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4679,
+      1864
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4680,
+      4681,
+      4682,
+      4684
+    ],
+    "parentUnions": [
+      "F1115"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4679,
+        "unionId": "F1115",
+        "type": "biological"
+      },
+      {
+        "id": 1864,
+        "unionId": "F1115",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000198528093827@",
+    "geniId": "6000000198528093827",
+    "rfn": "geni:6000000198528093827",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4683/",
+    "canonical": "https://www.genepedia.org/people/4683/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

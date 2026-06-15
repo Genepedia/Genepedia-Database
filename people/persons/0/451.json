@@ -1,0 +1,206 @@
+{
+  "id": 451,
+  "schema": "genepedia/person@1",
+  "slug": "john-henry-davis",
+  "names": {
+    "display": "John Henry Davis",
+    "given": "John Henry",
+    "surname": "Davis",
+    "married": "Davis",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "25 AUG 1879",
+      "year": 1879,
+      "iso": "1879-08-25",
+      "precision": "exact",
+      "display": "August 25, 1879",
+      "place": "Hopetown, NC, South Africa",
+      "location": {
+        "label": "Hopetown, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Hopetown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 APR 1956",
+      "year": 1956,
+      "iso": "1956-04-16",
+      "precision": "exact",
+      "display": "April 16, 1956",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/09/1c/4e/05/53444838c501305f/p25_aux_190_256_original.jpg?hash=6e8deb3d45d142a5dff9e00baf41a211d326e692691b6fafb93607bddc14e287.1789455599",
+      "alt": "John Henry Davis"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/09/1c/4e/05/53444838c501305f/p25_aux_190_256_original.jpg?hash=6e8deb3d45d142a5dff9e00baf41a211d326e692691b6fafb93607bddc14e287.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/31/a4/a0/2a/534448424357e380/john_davis_martha_davis_josina_davis-crop_-_copy-crop_original.jpg?hash=059cc3ea9e3b9b1683ffd4728fdf2cb6bee01259984f2221734c8a572709209d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://www.geni.com/images/documents/doc.png",
+        "form": "",
+        "title": "Potgieter Web Site",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      447,
+      448
+    ],
+    "spouses": [
+      1159
+    ],
+    "exSpouses": [],
+    "children": [
+      1160,
+      1161,
+      1162,
+      1163,
+      1164
+    ],
+    "siblings": [
+      449,
+      168,
+      450,
+      452,
+      453,
+      454,
+      455,
+      456
+    ],
+    "parentUnions": [
+      "F136"
+    ],
+    "spouseUnions": [
+      "F306"
+    ],
+    "parentLinks": [
+      {
+        "id": 447,
+        "unionId": "F136",
+        "type": "biological"
+      },
+      {
+        "id": 448,
+        "unionId": "F136",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1159,
+        "unionId": "F306",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1160,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1161,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1162,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1163,
+        "unionId": "F306",
+        "type": "biological"
+      },
+      {
+        "id": 1164,
+        "unionId": "F306",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000012223766993@",
+    "geniId": "6000000012223766993",
+    "rfn": "geni:6000000012223766993",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/451/",
+    "canonical": "https://www.genepedia.org/people/451/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

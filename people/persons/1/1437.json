@@ -1,0 +1,242 @@
+{
+  "id": 1437,
+  "schema": "genepedia/person@1",
+  "slug": "willem-gabriel-brynard",
+  "names": {
+    "display": "Willem Gabriel Brynard",
+    "given": "Willem Gabriel",
+    "surname": "Brynard",
+    "married": "Brynard",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 MAR 1868",
+      "year": 1868,
+      "iso": "1868-03-01",
+      "precision": "exact",
+      "display": "March 1, 1868",
+      "place": null
+    },
+    "death": {
+      "date": "30 AUG 1946",
+      "year": 1946,
+      "iso": "1946-08-30",
+      "precision": "exact",
+      "display": "August 30, 1946",
+      "place": "Urban area / Western Cape, STELLENBOSCH, Onder-Papegaaiberg, Main cemetery, Stellenbosch, WC, South Africa",
+      "location": {
+        "label": "Urban area / Western Cape, STELLENBOSCH, Onder-Papegaaiberg, Main cemetery, Stellenbosch, WC, South Africa",
+        "placeName": "Urban area / Western Cape, STELLENBOSCH, Onder-Papegaaiberg, Main cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Stellenbosch",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Stellenbosch, WC, South Africa",
+      "location": {
+        "label": "Stellenbosch, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Stellenbosch",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1435,
+      1434
+    ],
+    "spouses": [
+      3782
+    ],
+    "exSpouses": [],
+    "children": [
+      3783,
+      3784,
+      3785,
+      3786,
+      3787,
+      3788,
+      3789,
+      3790,
+      3791,
+      3792,
+      3793,
+      3794,
+      3795,
+      3796
+    ],
+    "siblings": [
+      1436,
+      578,
+      1438,
+      1439,
+      1440,
+      1441,
+      1442,
+      1443
+    ],
+    "parentUnions": [
+      "F364"
+    ],
+    "spouseUnions": [
+      "F903"
+    ],
+    "parentLinks": [
+      {
+        "id": 1435,
+        "unionId": "F364",
+        "type": "biological"
+      },
+      {
+        "id": 1434,
+        "unionId": "F364",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 3782,
+        "unionId": "F903",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3783,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3784,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3785,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3786,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3787,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3788,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3789,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3790,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3791,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3792,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3793,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3794,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3795,
+        "unionId": "F903",
+        "type": "biological"
+      },
+      {
+        "id": 3796,
+        "unionId": "F903",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000053773130934@",
+    "geniId": "6000000053773130934",
+    "rfn": "geni:6000000053773130934",
+    "changed": "17 JAN 2026"
+  },
+  "page": {
+    "route": "people/1437/",
+    "canonical": "https://www.genepedia.org/people/1437/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

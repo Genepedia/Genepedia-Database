@@ -1,0 +1,121 @@
+{
+  "id": 2782,
+  "schema": "genepedia/person@1",
+  "slug": "elsie-catharina",
+  "names": {
+    "display": "Elsie Catharina",
+    "given": "Elsie Catharina",
+    "surname": "Faber",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 MAY 1919",
+      "year": 1919,
+      "iso": "1919-05-15",
+      "precision": "exact",
+      "display": "May 15, 1919",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "20 JUL 1919",
+      "year": 1919,
+      "iso": "1919-07-20",
+      "precision": "exact",
+      "display": "July 20, 1919",
+      "place": "'Klein Boetsap', Reivilo, NW, South Africa",
+      "location": {
+        "label": "'Klein Boetsap', Reivilo, NW, South Africa",
+        "placeName": "'Klein Boetsap'",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Reivilo",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NW",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      2780,
+      1130
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2781,
+      2783,
+      2784,
+      2785,
+      2786,
+      2787,
+      2788
+    ],
+    "parentUnions": [
+      "F690"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2780,
+        "unionId": "F690",
+        "type": "biological"
+      },
+      {
+        "id": 1130,
+        "unionId": "F690",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000215554123830@",
+    "geniId": "6000000215554123830",
+    "rfn": "geni:6000000215554123830",
+    "changed": "28 MAR 2025"
+  },
+  "page": {
+    "route": "people/2782/",
+    "canonical": "https://www.genepedia.org/people/2782/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

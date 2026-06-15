@@ -1,0 +1,87 @@
+{
+  "id": 4376,
+  "schema": "genepedia/person@1",
+  "slug": "private-4376",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1714,
+      4372
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4373,
+      4374,
+      4375
+    ],
+    "parentUnions": [
+      "F1036"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1714,
+        "unionId": "F1036",
+        "type": "biological"
+      },
+      {
+        "id": 4372,
+        "unionId": "F1036",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000080822336150@",
+    "geniId": "6000000080822336150",
+    "rfn": "geni:6000000080822336150",
+    "changed": "18 OCT 2025"
+  },
+  "page": {
+    "route": "people/4376/",
+    "canonical": "https://www.genepedia.org/people/4376/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

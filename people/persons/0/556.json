@@ -1,0 +1,147 @@
+{
+  "id": 556,
+  "schema": "genepedia/person@1",
+  "slug": "ansori-esterhuyse",
+  "names": {
+    "display": "Ansori Esterhuyse",
+    "given": "Ansori",
+    "surname": "Esterhuyse",
+    "married": "Dippenaar",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "19 MAR 1971",
+      "year": 1971,
+      "iso": "1971-03-19",
+      "precision": "exact",
+      "display": "March 19, 1971",
+      "place": "Calvinia, South Africa",
+      "location": {
+        "label": "Calvinia, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/79/a6/f1/ab/5344486602adfb31/adf671f1-3219-4a57-8d3a-8c9dee39f2f8_original.jpg?hash=a41c32ca0beb1d30a64f00b0f2223bbf338db8ba8092be3cbef1e3bc497ab783.1789455599",
+      "alt": "Ansori Esterhuyse"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/79/a6/f1/ab/5344486602adfb31/adf671f1-3219-4a57-8d3a-8c9dee39f2f8_original.jpg?hash=a41c32ca0beb1d30a64f00b0f2223bbf338db8ba8092be3cbef1e3bc497ab783.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      551,
+      212
+    ],
+    "spouses": [
+      1367
+    ],
+    "exSpouses": [],
+    "children": [
+      1368,
+      1369
+    ],
+    "siblings": [
+      552,
+      553,
+      554,
+      555
+    ],
+    "parentUnions": [
+      "F161"
+    ],
+    "spouseUnions": [
+      "F351"
+    ],
+    "parentLinks": [
+      {
+        "id": 551,
+        "unionId": "F161",
+        "type": "biological"
+      },
+      {
+        "id": 212,
+        "unionId": "F161",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1367,
+        "unionId": "F351",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1368,
+        "unionId": "F351",
+        "type": "biological"
+      },
+      {
+        "id": 1369,
+        "unionId": "F351",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000027227602391@",
+    "geniId": "6000000027227602391",
+    "rfn": "geni:6000000027227602391",
+    "changed": "15 JUN 2024"
+  },
+  "page": {
+    "route": "people/556/",
+    "canonical": "https://www.genepedia.org/people/556/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

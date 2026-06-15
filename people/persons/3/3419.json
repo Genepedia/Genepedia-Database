@@ -1,0 +1,124 @@
+{
+  "id": 3419,
+  "schema": "genepedia/person@1",
+  "slug": "gert-johannes-jacobus-visser",
+  "names": {
+    "display": "Gert Johannes Jacobus Visser",
+    "given": "Gert Johannes Jacobus",
+    "surname": "Visser",
+    "married": "Visser",
+    "nick": "Gert Jacobus Johannes",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 JUN 1833",
+      "year": 1833,
+      "iso": "1833-06-06",
+      "precision": "exact",
+      "display": "June 6, 1833",
+      "place": "Piketberg, WC, South Africa",
+      "location": {
+        "label": "Piketberg, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Piketberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1916",
+      "year": 1916,
+      "iso": "1916",
+      "precision": "exact",
+      "display": "1916",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3417,
+      3418
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3420,
+      3421,
+      3422,
+      3423,
+      3424,
+      1343,
+      3425,
+      3426,
+      3427,
+      3428
+    ],
+    "parentUnions": [
+      "F838"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3417,
+        "unionId": "F838",
+        "type": "biological"
+      },
+      {
+        "id": 3418,
+        "unionId": "F838",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000006243710871@",
+    "geniId": "6000000006243710871",
+    "rfn": "geni:6000000006243710871",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3419/",
+    "canonical": "https://www.genepedia.org/people/3419/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.197Z"
+}

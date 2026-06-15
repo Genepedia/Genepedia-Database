@@ -1,0 +1,191 @@
+{
+  "id": 930,
+  "schema": "genepedia/person@1",
+  "slug": "frederika-elizabeth-sinden",
+  "names": {
+    "display": "Frederika Elizabeth Sinden",
+    "given": "Frederika Elizabeth",
+    "surname": "Sinden",
+    "married": "Smit",
+    "nick": "Freda",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 FEB 1928",
+      "year": 1928,
+      "iso": "1928-02-13",
+      "precision": "exact",
+      "display": "February 13, 1928",
+      "place": null
+    },
+    "death": {
+      "date": "6 AUG 2013",
+      "year": 2013,
+      "iso": "2013-08-06",
+      "precision": "exact",
+      "display": "August 6, 2013",
+      "place": "Johannesburg, Gauteng, South Africa",
+      "location": {
+        "label": "Johannesburg, Gauteng, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Gauteng",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "8 APR 1928",
+      "year": 1928,
+      "iso": "1928-04-08",
+      "precision": "exact",
+      "display": "April 8, 1928",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ca/81/ca/b5/534448413331d07c/10400248_54900752577_6341_n_original.jpg?hash=9765783e73cf2fc70e5b44a6e3cbe335502f96a14cbccbdf02add01201fa784d.1789455599",
+      "alt": "Frederika Elizabeth Sinden"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ca/81/ca/b5/534448413331d07c/10400248_54900752577_6341_n_original.jpg?hash=9765783e73cf2fc70e5b44a6e3cbe335502f96a14cbccbdf02add01201fa784d.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/ef/e9/57/19/5344484456be5289/record-image_3qsq-g9z5-l7w9_original.jpg?hash=ed5e98e7cb63d520c05a3f99a1f1542e048c019f4f0cfeb080c529fe1b18a1fc.1789455599",
+        "form": "",
+        "title": "record-image trou 1953 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      927,
+      375
+    ],
+    "spouses": [
+      2327
+    ],
+    "exSpouses": [],
+    "children": [
+      2328,
+      2329,
+      2330
+    ],
+    "siblings": [
+      928,
+      929,
+      931,
+      932,
+      933
+    ],
+    "parentUnions": [
+      "F257"
+    ],
+    "spouseUnions": [
+      "F589"
+    ],
+    "parentLinks": [
+      {
+        "id": 927,
+        "unionId": "F257",
+        "type": "biological"
+      },
+      {
+        "id": 375,
+        "unionId": "F257",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2327,
+        "unionId": "F589",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2328,
+        "unionId": "F589",
+        "type": "biological"
+      },
+      {
+        "id": 2329,
+        "unionId": "F589",
+        "type": "biological"
+      },
+      {
+        "id": 2330,
+        "unionId": "F589",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028162882165@",
+    "geniId": "6000000028162882165",
+    "rfn": "geni:6000000028162882165",
+    "changed": "27 APR 2022"
+  },
+  "page": {
+    "route": "people/930/",
+    "canonical": "https://www.genepedia.org/people/930/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.179Z"
+}

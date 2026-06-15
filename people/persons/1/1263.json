@@ -1,0 +1,113 @@
+{
+  "id": 1263,
+  "schema": "genepedia/person@1",
+  "slug": "anna-susanna-marais-1263",
+  "names": {
+    "display": "Anna Susanna Marais",
+    "given": "Anna Susanna",
+    "surname": "Marais",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "9 SEP 1868",
+      "year": 1868,
+      "iso": "1868-09-09",
+      "precision": "exact",
+      "display": "September 9, 1868",
+      "place": "Beaufort West, Western Cape, South Africa",
+      "location": {
+        "label": "Beaufort West, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Beaufort West",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1258,
+      1259
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1260,
+      1261,
+      524,
+      1262,
+      1264,
+      1265
+    ],
+    "parentUnions": [
+      "F328"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1258,
+        "unionId": "F328",
+        "type": "biological"
+      },
+      {
+        "id": 1259,
+        "unionId": "F328",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000073581611089@",
+    "geniId": "6000000073581611089",
+    "rfn": "geni:6000000073581611089",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1263/",
+    "canonical": "https://www.genepedia.org/people/1263/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

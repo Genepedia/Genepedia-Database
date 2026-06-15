@@ -1,0 +1,113 @@
+{
+  "id": 3075,
+  "schema": "genepedia/person@1",
+  "slug": "nicolas-casparus-meyer",
+  "names": {
+    "display": "Nicolas Casparus Meyer",
+    "given": "Nicolas Casparus",
+    "surname": "Meyer",
+    "married": "Meyer",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "24 JUN 1907",
+      "year": 1907,
+      "iso": "1907-06-24",
+      "precision": "exact",
+      "display": "June 24, 1907",
+      "place": null
+    },
+    "death": {
+      "date": "15 JAN 1956",
+      "year": 1956,
+      "iso": "1956-01-15",
+      "precision": "exact",
+      "display": "January 15, 1956",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      3076
+    ],
+    "exSpouses": [],
+    "children": [
+      3077,
+      1231,
+      3078
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1904"
+    ],
+    "spouseUnions": [
+      "F757"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 3076,
+        "unionId": "F757",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 3077,
+        "unionId": "F757",
+        "type": "biological"
+      },
+      {
+        "id": 1231,
+        "unionId": "F757",
+        "type": "biological"
+      },
+      {
+        "id": 3078,
+        "unionId": "F757",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000207508325821@",
+    "geniId": "6000000207508325821",
+    "rfn": "geni:6000000207508325821",
+    "changed": "11 MAR 2025"
+  },
+  "page": {
+    "route": "people/3075/",
+    "canonical": "https://www.genepedia.org/people/3075/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

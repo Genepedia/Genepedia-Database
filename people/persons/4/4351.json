@@ -1,0 +1,97 @@
+{
+  "id": 4351,
+  "schema": "genepedia/person@1",
+  "slug": "private-4351",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1684
+    ],
+    "exSpouses": [],
+    "children": [
+      4352,
+      4353,
+      4354
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1028"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1684,
+        "unionId": "F1028",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4352,
+        "unionId": "F1028",
+        "type": "biological"
+      },
+      {
+        "id": 4353,
+        "unionId": "F1028",
+        "type": "biological"
+      },
+      {
+        "id": 4354,
+        "unionId": "F1028",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000003274854331@",
+    "geniId": "6000000003274854331",
+    "rfn": "geni:6000000003274854331",
+    "changed": "26 NOV 2014"
+  },
+  "page": {
+    "route": "people/4351/",
+    "canonical": "https://www.genepedia.org/people/4351/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.211Z"
+}

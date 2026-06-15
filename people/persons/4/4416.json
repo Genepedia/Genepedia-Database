@@ -1,0 +1,148 @@
+{
+  "id": 4416,
+  "schema": "genepedia/person@1",
+  "slug": "elizabeth-johanna-corrie",
+  "names": {
+    "display": "Elizabeth Johanna Corrie",
+    "given": "Elizabeth Johanna",
+    "surname": "Corrie",
+    "married": "Swart",
+    "nick": "Bessie",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 AUG 1929",
+      "year": 1929,
+      "iso": "1929-08-01",
+      "precision": "exact",
+      "display": "August 1, 1929",
+      "place": null
+    },
+    "death": {
+      "date": "7 JUN 2009",
+      "year": 2009,
+      "iso": "2009-06-07",
+      "precision": "exact",
+      "display": "June 7, 2009",
+      "place": null
+    },
+    "baptism": {
+      "date": "13 OCT 1929",
+      "year": 1929,
+      "iso": "1929-10-13",
+      "precision": "exact",
+      "display": "October 13, 1929",
+      "place": "Brakpan, Transvaal, South Africa",
+      "location": {
+        "label": "Brakpan, Transvaal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Brakpan",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Transvaal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/9f/ae/73/bc/5344483ae208a959/img-20130629-00483_original.jpg?hash=7c1ab7f7b33e408c03abbfba679d520d892096add93e31094eebb97825c02e11.1789455599",
+      "alt": "Elizabeth Johanna Corrie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/9f/ae/73/bc/5344483ae208a959/img-20130629-00483_original.jpg?hash=7c1ab7f7b33e408c03abbfba679d520d892096add93e31094eebb97825c02e11.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/d8/8a/20/b9/5344483b80493219/roberts_louwrens_alettajohanna_original.pdf?hash=1511f2eba3b9429b8bf58a88dc46c8936bac9ea4507f61b9b11bee6e6800b65d.1789455599",
+        "form": "",
+        "title": "Death Notice - ROBERTS (LOUWRENS) Aletta Johanna",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/7e/b7/c6/ee/5344483f18daf27b/record-image_3qs7-l9z5-rldk_original.jpg?hash=abe35ca6e3a76ff11a08e6fdf0c447c4faadea3130efd0d81a6780b461aa3fb5.1789455599",
+        "form": "",
+        "title": "CORRIE E. J. M. Baptism",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1723,
+      4414
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4415
+    ],
+    "parentUnions": [
+      "F1044"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1723,
+        "unionId": "F1044",
+        "type": "biological"
+      },
+      {
+        "id": 4414,
+        "unionId": "F1044",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020800758272@",
+    "geniId": "6000000020800758272",
+    "rfn": "geni:6000000020800758272",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/4416/",
+    "canonical": "https://www.genepedia.org/people/4416/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

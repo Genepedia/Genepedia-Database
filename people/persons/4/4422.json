@@ -1,0 +1,135 @@
+{
+  "id": 4422,
+  "schema": "genepedia/person@1",
+  "slug": "william-redvers-harris",
+  "names": {
+    "display": "William Redvers Harris",
+    "given": "William Redvers",
+    "surname": "Harris",
+    "married": "Harris",
+    "nick": "Chick",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "28 OCT 1899",
+      "year": 1899,
+      "iso": "1899-10-28",
+      "precision": "exact",
+      "display": "October 28, 1899",
+      "place": "South Africa",
+      "location": {
+        "label": "South Africa",
+        "placeName": "South Africa",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Howick, KwaZulu-Natal, South Africa",
+      "location": {
+        "label": "Howick, KwaZulu-Natal, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Howick",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "KwaZulu-Natal",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/2a/e4/22/48/5344483f7846b696/record-image_s3hy-68jq-yvn_original.jpg?hash=31b56b700d18fcbf5de6e1f3f93064bfbc5f3360cf06a7221946a0c91d3dee91.1789455599",
+      "alt": "William Redvers Harris"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/2a/e4/22/48/5344483f7846b696/record-image_s3hy-68jq-yvn_original.jpg?hash=31b56b700d18fcbf5de6e1f3f93064bfbc5f3360cf06a7221946a0c91d3dee91.1789455599",
+        "form": "",
+        "title": "HARRIS, W.R. & EAGLESTONE (BORN CORRIE), J.M.A. Marriage Certificate",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1725
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1046"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1725,
+        "unionId": "F1046",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028744821942@",
+    "geniId": "6000000028744821942",
+    "rfn": "geni:6000000028744821942",
+    "changed": "12 DEC 2024"
+  },
+  "page": {
+    "route": "people/4422/",
+    "canonical": "https://www.genepedia.org/people/4422/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

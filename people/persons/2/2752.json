@@ -1,0 +1,77 @@
+{
+  "id": 2752,
+  "schema": "genepedia/person@1",
+  "slug": "jan-swiegers",
+  "names": {
+    "display": "Jan Swiegers",
+    "given": "Jan",
+    "surname": "Swiegers",
+    "married": "Swiegers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1114
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F677"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1114,
+        "unionId": "F677",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056970448953@",
+    "geniId": "6000000056970448953",
+    "rfn": "geni:6000000056970448953",
+    "changed": "04 MAY 2022"
+  },
+  "page": {
+    "route": "people/2752/",
+    "canonical": "https://www.genepedia.org/people/2752/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

@@ -1,0 +1,118 @@
+{
+  "id": 4865,
+  "schema": "genepedia/person@1",
+  "slug": "jan-frederick-botes",
+  "names": {
+    "display": "Jan Frederick Botes",
+    "given": "Jan Frederick",
+    "surname": "Botes",
+    "married": "Botes",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "23 SEP 1916",
+      "year": 1916,
+      "iso": "1916-09-23",
+      "precision": "exact",
+      "display": "September 23, 1916",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "21 JAN 1917",
+      "year": 1917,
+      "iso": "1917-01-21",
+      "precision": "exact",
+      "display": "January 21, 1917",
+      "place": "Phillipstown",
+      "location": {
+        "label": "Phillipstown",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Phillipstown",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4861,
+      1906
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4862,
+      4863,
+      4864,
+      4866
+    ],
+    "parentUnions": [
+      "F1157"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4861,
+        "unionId": "F1157",
+        "type": "biological"
+      },
+      {
+        "id": 1906,
+        "unionId": "F1157",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000190853864828@",
+    "geniId": "6000000190853864828",
+    "rfn": "geni:6000000190853864828",
+    "changed": "17 JAN 2023"
+  },
+  "page": {
+    "route": "people/4865/",
+    "canonical": "https://www.genepedia.org/people/4865/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.215Z"
+}

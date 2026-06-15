@@ -1,0 +1,104 @@
+{
+  "id": 2569,
+  "schema": "genepedia/person@1",
+  "slug": "josua-stephanus-fourie",
+  "names": {
+    "display": "Josua Stephanus Fourie",
+    "given": "Josua Stephanus",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "20 JAN 1793",
+      "year": 1793,
+      "iso": "1793-01-20",
+      "precision": "exact",
+      "display": "January 20, 1793",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "21 JAN 1793",
+      "year": 1793,
+      "iso": "1793-01-21",
+      "precision": "exact",
+      "display": "January 21, 1793",
+      "place": null
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2565,
+      2566
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2567,
+      2568,
+      1060,
+      2570,
+      2571,
+      2572
+    ],
+    "parentUnions": [
+      "F639"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2565,
+        "unionId": "F639",
+        "type": "biological"
+      },
+      {
+        "id": 2566,
+        "unionId": "F639",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000023047346803@",
+    "geniId": "6000000023047346803",
+    "rfn": "geni:6000000023047346803",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/2569/",
+    "canonical": "https://www.genepedia.org/people/2569/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

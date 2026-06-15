@@ -1,0 +1,127 @@
+{
+  "id": 497,
+  "schema": "genepedia/person@1",
+  "slug": "dawid-fourie",
+  "names": {
+    "display": "Dawid Fourie",
+    "given": "Dawid",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "5 APR 1939",
+      "year": 1939,
+      "iso": "1939-04-05",
+      "precision": "exact",
+      "display": "April 5, 1939",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      175,
+      494
+    ],
+    "spouses": [
+      1227
+    ],
+    "exSpouses": [],
+    "children": [
+      1228,
+      1229,
+      1230
+    ],
+    "siblings": [
+      495,
+      496,
+      498,
+      499,
+      500,
+      501
+    ],
+    "parentUnions": [
+      "F143"
+    ],
+    "spouseUnions": [
+      "F318"
+    ],
+    "parentLinks": [
+      {
+        "id": 175,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 494,
+        "unionId": "F143",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1227,
+        "unionId": "F318",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1228,
+        "unionId": "F318",
+        "type": "biological"
+      },
+      {
+        "id": 1229,
+        "unionId": "F318",
+        "type": "biological"
+      },
+      {
+        "id": 1230,
+        "unionId": "F318",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204146520853@",
+    "geniId": "6000000204146520853",
+    "rfn": "geni:6000000204146520853",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/497/",
+    "canonical": "https://www.genepedia.org/people/497/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

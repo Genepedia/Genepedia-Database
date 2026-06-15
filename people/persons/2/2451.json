@@ -1,0 +1,135 @@
+{
+  "id": 2451,
+  "schema": "genepedia/person@1",
+  "slug": "magdalena-francina-jooste",
+  "names": {
+    "display": "Magdalena Francina Jooste",
+    "given": "Magdalena Francina",
+    "surname": "Jooste",
+    "married": "Keet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "17 APR 1833",
+      "year": 1833,
+      "iso": "1833-04-17",
+      "precision": "exact",
+      "display": "April 17, 1833",
+      "place": "Tulbagh",
+      "location": {
+        "label": "Tulbagh",
+        "placeName": "Tulbagh",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "18 APR 1895",
+      "year": 1895,
+      "iso": "1895-04-18",
+      "precision": "exact",
+      "display": "April 18, 1895",
+      "place": "Johannesburg",
+      "location": {
+        "label": "Johannesburg",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Johannesburg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2447,
+      2448
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1001,
+      2449,
+      2450
+    ],
+    "parentUnions": [
+      "F616"
+    ],
+    "spouseUnions": [
+      "F1497"
+    ],
+    "parentLinks": [
+      {
+        "id": 2447,
+        "unionId": "F616",
+        "type": "biological"
+      },
+      {
+        "id": 2448,
+        "unionId": "F616",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000209477845858@",
+    "geniId": "6000000209477845858",
+    "rfn": "geni:6000000209477845858",
+    "changed": "30 SEP 2024"
+  },
+  "page": {
+    "route": "people/2451/",
+    "canonical": "https://www.genepedia.org/people/2451/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,111 @@
+{
+  "id": 3048,
+  "schema": "genepedia/person@1",
+  "slug": "don-steenkamp",
+  "names": {
+    "display": "Don Steenkamp",
+    "given": "Don",
+    "surname": "Steenkamp",
+    "married": "Steenkamp",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "ABT 1996",
+      "year": 1996,
+      "iso": "1996",
+      "precision": "about",
+      "display": "about 1996",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b5/c2/b1/cc/5344486855aabd0b/msedge_xtyigvcxmj_original.jpg?hash=c410ada22dd286fa57143d89ccf9ecf30e38310497d30a8ce18f3e217d777911.1789455599",
+      "alt": "Don Steenkamp"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b5/c2/b1/cc/5344486855aabd0b/msedge_xtyigvcxmj_original.jpg?hash=c410ada22dd286fa57143d89ccf9ecf30e38310497d30a8ce18f3e217d777911.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/0a/f8/ad/32/5344486855a9a3c6/msedge_b7gtuwxpzu_original.jpg?hash=8bedd5f8f3e2e5246d5c4dc682c4070a1dfe1b4eca7d4c7e57c51597206e5279.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1218,
+      3047
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3049
+    ],
+    "parentUnions": [
+      "F747"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1218,
+        "unionId": "F747",
+        "type": "biological"
+      },
+      {
+        "id": 3047,
+        "unionId": "F747",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000209123307865@",
+    "geniId": "6000000209123307865",
+    "rfn": "geni:6000000209123307865",
+    "changed": "24 DEC 2025"
+  },
+  "page": {
+    "route": "people/3048/",
+    "canonical": "https://www.genepedia.org/people/3048/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

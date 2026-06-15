@@ -1,0 +1,154 @@
+{
+  "id": 114,
+  "schema": "genepedia/person@1",
+  "slug": "delene-zenobia-lurie",
+  "names": {
+    "display": "Delene Zenobia Lurie",
+    "given": "Delene Zenobia",
+    "surname": "Lurie",
+    "married": "van Bosch",
+    "nick": "Hester Susara Van Wyk",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "2 FEB 1956",
+      "year": 1956,
+      "iso": "1956-02-02",
+      "precision": "exact",
+      "display": "February 2, 1956",
+      "place": "Zimbabwe",
+      "location": {
+        "label": "Zimbabwe",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Zimbabwe",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/b4/89/5f/17/534448656ed89935/362671862_3508093246146784_7134008613042806417_n_original.jpg?hash=2d4c97dd5a00c6a8edf9212364f91305937aad1c825fde8e553366991a140716.1789455599",
+      "alt": "Delene Zenobia Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/b4/89/5f/17/534448656ed89935/362671862_3508093246146784_7134008613042806417_n_original.jpg?hash=2d4c97dd5a00c6a8edf9212364f91305937aad1c825fde8e553366991a140716.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      110,
+      109
+    ],
+    "spouses": [
+      309
+    ],
+    "exSpouses": [],
+    "children": [
+      310,
+      311,
+      312
+    ],
+    "siblings": [
+      111,
+      112,
+      35,
+      113,
+      115
+    ],
+    "parentUnions": [
+      "F40"
+    ],
+    "spouseUnions": [
+      "F100"
+    ],
+    "parentLinks": [
+      {
+        "id": 110,
+        "unionId": "F40",
+        "type": "biological"
+      },
+      {
+        "id": 109,
+        "unionId": "F40",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 309,
+        "unionId": "F100",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 310,
+        "unionId": "F100",
+        "type": "biological"
+      },
+      {
+        "id": 311,
+        "unionId": "F100",
+        "type": "biological"
+      },
+      {
+        "id": 312,
+        "unionId": "F100",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204016603840@",
+    "geniId": "6000000204016603840",
+    "rfn": "geni:6000000204016603840",
+    "changed": "07 AUG 2024"
+  },
+  "page": {
+    "route": "people/114/",
+    "canonical": "https://www.genepedia.org/people/114/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

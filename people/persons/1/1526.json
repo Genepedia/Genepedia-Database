@@ -1,0 +1,98 @@
+{
+  "id": 1526,
+  "schema": "genepedia/person@1",
+  "slug": "hendrick-diederick-germishuizen",
+  "names": {
+    "display": "Hendrick Diederick Germishuizen",
+    "given": "Hendrick Diederick",
+    "surname": "Germishuizen",
+    "married": "Germishuizen",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1851",
+      "year": 1851,
+      "iso": "1851",
+      "precision": "exact",
+      "display": "1851",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1522,
+      1523
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1524,
+      1525,
+      1527,
+      1528,
+      1529,
+      1530,
+      622
+    ],
+    "parentUnions": [
+      "F392"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1522,
+        "unionId": "F392",
+        "type": "biological"
+      },
+      {
+        "id": 1523,
+        "unionId": "F392",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000178713022890@",
+    "geniId": "6000000178713022890",
+    "rfn": "geni:6000000178713022890",
+    "changed": "23 SEP 2021"
+  },
+  "page": {
+    "route": "people/1526/",
+    "canonical": "https://www.genepedia.org/people/1526/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.182Z"
+}

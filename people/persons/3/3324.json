@@ -1,0 +1,97 @@
+{
+  "id": 3324,
+  "schema": "genepedia/person@1",
+  "slug": "johannes-david-maritz-van-taak",
+  "names": {
+    "display": "Johannes David Maritz van Taak",
+    "given": "Johannes David Maritz",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "Jan",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "31 MAR 1919",
+      "year": 1919,
+      "iso": "1919-03-31",
+      "precision": "exact",
+      "display": "March 31, 1919",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1311,
+      3321
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3322,
+      3323,
+      3325,
+      3326,
+      3327,
+      3328
+    ],
+    "parentUnions": [
+      "F814"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1311,
+        "unionId": "F814",
+        "type": "biological"
+      },
+      {
+        "id": 3321,
+        "unionId": "F814",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000029052260908@",
+    "geniId": "6000000029052260908",
+    "rfn": "geni:6000000029052260908",
+    "changed": "21 MAY 2022"
+  },
+  "page": {
+    "route": "people/3324/",
+    "canonical": "https://www.genepedia.org/people/3324/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

@@ -1,0 +1,95 @@
+{
+  "id": 2507,
+  "schema": "genepedia/person@1",
+  "slug": "catharina-petronella-botma",
+  "names": {
+    "display": "Catharina Petronella Botma",
+    "given": "Catharina Petronella",
+    "surname": "Botma",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1867",
+      "year": 1867,
+      "iso": "1867",
+      "precision": "about",
+      "display": "about 1867",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2504,
+      1016
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2505,
+      2506
+    ],
+    "parentUnions": [
+      "F626"
+    ],
+    "spouseUnions": [
+      "F1536"
+    ],
+    "parentLinks": [
+      {
+        "id": 2504,
+        "unionId": "F626",
+        "type": "biological"
+      },
+      {
+        "id": 1016,
+        "unionId": "F626",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000039971803827@",
+    "geniId": "6000000039971803827",
+    "rfn": "geni:6000000039971803827",
+    "changed": "08 AUG 2025"
+  },
+  "page": {
+    "route": "people/2507/",
+    "canonical": "https://www.genepedia.org/people/2507/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

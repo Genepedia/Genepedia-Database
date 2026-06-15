@@ -1,0 +1,187 @@
+{
+  "id": 213,
+  "schema": "genepedia/person@1",
+  "slug": "anna-louisa-van-taak",
+  "names": {
+    "display": "Anna Louisa van Taak",
+    "given": "Anna Louisa",
+    "surname": "van Taak",
+    "married": "Theron",
+    "nick": "van Deventer",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "15 NOV 1937",
+      "year": 1937,
+      "iso": "1937-11-15",
+      "precision": "exact",
+      "display": "November 15, 1937",
+      "place": "Nieuwoudtville, Cape Province, South Africa",
+      "location": {
+        "label": "Nieuwoudtville, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Nieuwoudtville",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "10 AUG 2024",
+      "year": 2024,
+      "iso": "2024-08-10",
+      "precision": "exact",
+      "display": "August 10, 2024",
+      "place": "Upington, Northern Cape, South Africa",
+      "location": {
+        "label": "Upington, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Upington",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/5a/86/64/c3/534448660562f98d/screenshot_2024-06-17_140511_original.jpg?hash=c8be1be8c3379c8ae56f47db0d77d1ffac6872415f645f4f3302ee30ba71f018.1789455599",
+      "alt": "Anna Louisa van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/5a/86/64/c3/534448660562f98d/screenshot_2024-06-17_140511_original.jpg?hash=c8be1be8c3379c8ae56f47db0d77d1ffac6872415f645f4f3302ee30ba71f018.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      210,
+      211
+    ],
+    "spouses": [
+      557,
+      558
+    ],
+    "exSpouses": [],
+    "children": [
+      559,
+      560,
+      561,
+      562
+    ],
+    "siblings": [
+      212,
+      65
+    ],
+    "parentUnions": [
+      "F68"
+    ],
+    "spouseUnions": [
+      "F162",
+      "F163"
+    ],
+    "parentLinks": [
+      {
+        "id": 210,
+        "unionId": "F68",
+        "type": "biological"
+      },
+      {
+        "id": 211,
+        "unionId": "F68",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 557,
+        "unionId": "F162",
+        "role": "husband"
+      },
+      {
+        "id": 558,
+        "unionId": "F163",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 559,
+        "unionId": "F163",
+        "type": "biological"
+      },
+      {
+        "id": 560,
+        "unionId": "F163",
+        "type": "biological"
+      },
+      {
+        "id": 561,
+        "unionId": "F163",
+        "type": "biological"
+      },
+      {
+        "id": 562,
+        "unionId": "F163",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020383418443@",
+    "geniId": "6000000020383418443",
+    "rfn": "geni:6000000020383418443",
+    "changed": "23 AUG 2024"
+  },
+  "page": {
+    "route": "people/213/",
+    "canonical": "https://www.genepedia.org/people/213/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

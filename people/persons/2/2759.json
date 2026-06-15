@@ -1,0 +1,147 @@
+{
+  "id": 2759,
+  "schema": "genepedia/person@1",
+  "slug": "cornelis-coenraad-scheepers-2759",
+  "names": {
+    "display": "Cornelis Coenraad Scheepers",
+    "given": "Cornelis Coenraad",
+    "surname": "Scheepers",
+    "married": "Scheepers",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JAN 1828",
+      "year": 1828,
+      "iso": "1828-01-18",
+      "precision": "exact",
+      "display": "January 18, 1828",
+      "place": null
+    },
+    "death": {
+      "date": "6 AUG 1915",
+      "year": 1915,
+      "iso": "1915-08-06",
+      "precision": "exact",
+      "display": "August 6, 1915",
+      "place": "Cape, South Africa",
+      "location": {
+        "label": "Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      2760
+    ],
+    "exSpouses": [],
+    "children": [
+      1120,
+      2761,
+      2762,
+      2763,
+      2764,
+      2765
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1710"
+    ],
+    "spouseUnions": [
+      "F683"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 2760,
+        "unionId": "F683",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1120,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2761,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2762,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2763,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2764,
+        "unionId": "F683",
+        "type": "biological"
+      },
+      {
+        "id": 2765,
+        "unionId": "F683",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000071238892850@",
+    "geniId": "6000000071238892850",
+    "rfn": "geni:6000000071238892850",
+    "changed": "03 JUL 2023"
+  },
+  "page": {
+    "route": "people/2759/",
+    "canonical": "https://www.genepedia.org/people/2759/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

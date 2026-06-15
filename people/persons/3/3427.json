@@ -1,0 +1,140 @@
+{
+  "id": 3427,
+  "schema": "genepedia/person@1",
+  "slug": "floris-visser",
+  "names": {
+    "display": "Floris Visser",
+    "given": "Floris",
+    "surname": "Visser",
+    "married": "Visser",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1 NOV 1852",
+      "year": 1852,
+      "iso": "1852-11-01",
+      "precision": "exact",
+      "display": "November 1, 1852",
+      "place": "Piketberg, Western Cape, South Africa",
+      "location": {
+        "label": "Piketberg, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Piketberg",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "15 MAY 1853",
+      "year": 1853,
+      "iso": "1853-05-15",
+      "precision": "exact",
+      "display": "May 15, 1853",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3417,
+      3418
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3419,
+      3420,
+      3421,
+      3422,
+      3423,
+      3424,
+      1343,
+      3425,
+      3426,
+      3428
+    ],
+    "parentUnions": [
+      "F838"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3417,
+        "unionId": "F838",
+        "type": "biological"
+      },
+      {
+        "id": 3418,
+        "unionId": "F838",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000006357054433@",
+    "geniId": "6000000006357054433",
+    "rfn": "geni:6000000006357054433",
+    "changed": "13 MAY 2025"
+  },
+  "page": {
+    "route": "people/3427/",
+    "canonical": "https://www.genepedia.org/people/3427/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.197Z"
+}

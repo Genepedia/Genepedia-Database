@@ -1,0 +1,103 @@
+{
+  "id": 1785,
+  "schema": "genepedia/person@1",
+  "slug": "wendy-katherine-lurie",
+  "names": {
+    "display": "Wendy Katherine Lurie",
+    "given": "Wendy Katherine",
+    "surname": "Lurie",
+    "married": "Lurie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/31/cf/e7/57/534448663b4e9be9/13775983_1022639827851650_6468966789472359159_n_original.jpg?hash=ed0dce613f936497554e35a91418f63fcbba273b88b6182ee6da3ee63db02912.1789455599",
+      "alt": "Wendy Katherine Lurie"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/31/cf/e7/57/534448663b4e9be9/13775983_1022639827851650_6468966789472359159_n_original.jpg?hash=ed0dce613f936497554e35a91418f63fcbba273b88b6182ee6da3ee63db02912.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      746
+    ],
+    "exSpouses": [],
+    "children": [
+      1786,
+      1787
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F468"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 746,
+        "unionId": "F468",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1786,
+        "unionId": "F468",
+        "type": "biological"
+      },
+      {
+        "id": 1787,
+        "unionId": "F468",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206405132821@",
+    "geniId": "6000000206405132821",
+    "rfn": "geni:6000000206405132821",
+    "changed": "20 JUL 2024"
+  },
+  "page": {
+    "route": "people/1785/",
+    "canonical": "https://www.genepedia.org/people/1785/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.184Z"
+}

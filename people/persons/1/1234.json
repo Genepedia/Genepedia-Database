@@ -1,0 +1,120 @@
+{
+  "id": 1234,
+  "schema": "genepedia/person@1",
+  "slug": "mona-fourie",
+  "names": {
+    "display": "Mona Fourie",
+    "given": "Mona",
+    "surname": "Kemp",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "6 JUL 1954",
+      "year": 1954,
+      "iso": "1954-07-06",
+      "precision": "exact",
+      "display": "July 6, 1954",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3087,
+      3086
+    ],
+    "spouses": [
+      499
+    ],
+    "exSpouses": [],
+    "children": [
+      1235,
+      1236,
+      1237
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F761"
+    ],
+    "spouseUnions": [
+      "F320"
+    ],
+    "parentLinks": [
+      {
+        "id": 3087,
+        "unionId": "F761",
+        "type": "biological"
+      },
+      {
+        "id": 3086,
+        "unionId": "F761",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 499,
+        "unionId": "F320",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1235,
+        "unionId": "F320",
+        "type": "biological"
+      },
+      {
+        "id": 1236,
+        "unionId": "F320",
+        "type": "biological"
+      },
+      {
+        "id": 1237,
+        "unionId": "F320",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000222121755884@",
+    "geniId": "6000000222121755884",
+    "rfn": "geni:6000000222121755884",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/1234/",
+    "canonical": "https://www.genepedia.org/people/1234/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.181Z"
+}

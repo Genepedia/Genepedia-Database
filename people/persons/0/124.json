@@ -1,0 +1,152 @@
+{
+  "id": 124,
+  "schema": "genepedia/person@1",
+  "slug": "max-du-preez",
+  "names": {
+    "display": "Max Du Preez",
+    "given": "Max",
+    "surname": "Du Preez",
+    "married": "Berhens",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "BET 15 MAY 1916 AND 15 MAY 1934",
+      "year": 1916,
+      "iso": "1934-05-15",
+      "precision": "exact",
+      "display": "May 15, 1934",
+      "place": null
+    },
+    "death": {
+      "date": "27 MAR 2009",
+      "year": 2009,
+      "iso": "2009-03-27",
+      "precision": "exact",
+      "display": "March 27, 2009",
+      "place": "Bloemfontein, Free-State, South Africa",
+      "location": {
+        "label": "Bloemfontein, Free-State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemfontein",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free-State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/10/5d/0e/96/53444865fe97230b/screenshot_2024-06-12_174249_original.jpg?hash=d6dfce09e8b0919508602a281939ff05c69ca57b99a6c8add4e75d6a192038f9.1789455599",
+      "alt": "Max Du Preez"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/10/5d/0e/96/53444865fe97230b/screenshot_2024-06-12_174249_original.jpg?hash=d6dfce09e8b0919508602a281939ff05c69ca57b99a6c8add4e75d6a192038f9.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      322,
+      323
+    ],
+    "spouses": [
+      125
+    ],
+    "exSpouses": [],
+    "children": [
+      126,
+      37
+    ],
+    "siblings": [
+      324,
+      325
+    ],
+    "parentUnions": [
+      "F104"
+    ],
+    "spouseUnions": [
+      "F44"
+    ],
+    "parentLinks": [
+      {
+        "id": 322,
+        "unionId": "F104",
+        "type": "biological"
+      },
+      {
+        "id": 323,
+        "unionId": "F104",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 125,
+        "unionId": "F44",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 126,
+        "unionId": "F44",
+        "type": "biological"
+      },
+      {
+        "id": 37,
+        "unionId": "F44",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000206406291850@",
+    "geniId": "6000000206406291850",
+    "rfn": "geni:6000000206406291850",
+    "changed": "06 DEC 2024"
+  },
+  "page": {
+    "route": "people/124/",
+    "canonical": "https://www.genepedia.org/people/124/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.175Z"
+}

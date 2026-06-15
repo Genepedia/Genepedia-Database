@@ -1,0 +1,108 @@
+{
+  "id": 2713,
+  "schema": "genepedia/person@1",
+  "slug": "cornelis-francois-maritz",
+  "names": {
+    "display": "Cornelis Francois Maritz",
+    "given": "Cornelis Francois",
+    "surname": "Maritz",
+    "married": "Maritz",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "11 OCT 1894",
+      "year": 1894,
+      "iso": "1894-10-11",
+      "precision": "exact",
+      "display": "October 11, 1894",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1093,
+      2712
+    ],
+    "spouses": [
+      1110
+    ],
+    "exSpouses": [],
+    "children": [
+      2741
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F669"
+    ],
+    "spouseUnions": [
+      "F674"
+    ],
+    "parentLinks": [
+      {
+        "id": 1093,
+        "unionId": "F669",
+        "type": "biological"
+      },
+      {
+        "id": 2712,
+        "unionId": "F669",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1110,
+        "unionId": "F674",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2741,
+        "unionId": "F674",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000056970359936@",
+    "geniId": "6000000056970359936",
+    "rfn": "geni:6000000056970359936",
+    "changed": "21 MAR 2025"
+  },
+  "page": {
+    "route": "people/2713/",
+    "canonical": "https://www.genepedia.org/people/2713/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.192Z"
+}

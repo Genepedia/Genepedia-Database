@@ -1,0 +1,159 @@
+{
+  "id": 545,
+  "schema": "genepedia/person@1",
+  "slug": "thomas-arnoldus-theron-van-taak",
+  "names": {
+    "display": "Thomas Arnoldus Theron van Taak",
+    "given": "Thomas Arnoldus Theron",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "2 JUL 1918",
+      "year": 1918,
+      "iso": "1918-07-02",
+      "precision": "exact",
+      "display": "July 2, 1918",
+      "place": null
+    },
+    "death": {
+      "date": "14 JUL 1980",
+      "year": 1980,
+      "iso": "1980-07-14",
+      "precision": "exact",
+      "display": "July 14, 1980",
+      "place": null
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Paarl, Western Cape, South Africa",
+      "location": {
+        "label": "Paarl, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Paarl",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/4f/a5/ea/3f/5344483ae898605d/taak_thomas_arnoldus_theron_van_1918-1980_-_paarl_original.jpg?hash=0d1f785acda5c693695d761a87e70ad7fb55929edc799d545ff9468c7b60f9c0.1789455599",
+      "alt": "Thomas Arnoldus Theron van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/4f/a5/ea/3f/5344483ae898605d/taak_thomas_arnoldus_theron_van_1918-1980_-_paarl_original.jpg?hash=0d1f785acda5c693695d761a87e70ad7fb55929edc799d545ff9468c7b60f9c0.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      538,
+      537
+    ],
+    "spouses": [
+      1333
+    ],
+    "exSpouses": [],
+    "children": [
+      1334
+    ],
+    "siblings": [
+      539,
+      540,
+      541,
+      210,
+      542,
+      543,
+      544
+    ],
+    "parentUnions": [
+      "F159"
+    ],
+    "spouseUnions": [
+      "F344"
+    ],
+    "parentLinks": [
+      {
+        "id": 538,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 537,
+        "unionId": "F159",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1333,
+        "unionId": "F344",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1334,
+        "unionId": "F344",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000020387256046@",
+    "geniId": "6000000020387256046",
+    "rfn": "geni:6000000020387256046",
+    "changed": "19 JUN 2020"
+  },
+  "page": {
+    "route": "people/545/",
+    "canonical": "https://www.genepedia.org/people/545/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

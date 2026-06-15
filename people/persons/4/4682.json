@@ -1,0 +1,102 @@
+{
+  "id": 4682,
+  "schema": "genepedia/person@1",
+  "slug": "michiel-johan-bester-pretorius",
+  "names": {
+    "display": "Michiel Johan Bester Pretorius",
+    "given": "Michiel Johan Bester",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 OCT 1908",
+      "year": 1908,
+      "iso": "1908-10-04",
+      "precision": "exact",
+      "display": "October 4, 1908",
+      "place": null
+    },
+    "death": {
+      "date": "17 AUG 1952",
+      "year": 1952,
+      "iso": "1952-08-17",
+      "precision": "exact",
+      "display": "August 17, 1952",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4679,
+      1864
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4680,
+      4681,
+      4683,
+      4684
+    ],
+    "parentUnions": [
+      "F1115"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4679,
+        "unionId": "F1115",
+        "type": "biological"
+      },
+      {
+        "id": 1864,
+        "unionId": "F1115",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000198527972846@",
+    "geniId": "6000000198527972846",
+    "rfn": "geni:6000000198527972846",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/4682/",
+    "canonical": "https://www.genepedia.org/people/4682/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

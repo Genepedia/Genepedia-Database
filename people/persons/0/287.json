@@ -1,0 +1,126 @@
+{
+  "id": 287,
+  "schema": "genepedia/person@1",
+  "slug": "johanna-christina-van-der-merwe",
+  "names": {
+    "display": "Johanna Christina van der Merwe",
+    "given": "Johanna Christina",
+    "surname": "van der Merwe",
+    "married": "Olwage",
+    "nick": "Joey",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1932",
+      "year": 1932,
+      "iso": "1932",
+      "precision": "exact",
+      "display": "1932",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      285,
+      286
+    ],
+    "spouses": [
+      715
+    ],
+    "exSpouses": [],
+    "children": [
+      716,
+      717,
+      718
+    ],
+    "siblings": [
+      288,
+      107,
+      289,
+      290,
+      291
+    ],
+    "parentUnions": [
+      "F93"
+    ],
+    "spouseUnions": [
+      "F202"
+    ],
+    "parentLinks": [
+      {
+        "id": 285,
+        "unionId": "F93",
+        "type": "biological"
+      },
+      {
+        "id": 286,
+        "unionId": "F93",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 715,
+        "unionId": "F202",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 716,
+        "unionId": "F202",
+        "type": "biological"
+      },
+      {
+        "id": 717,
+        "unionId": "F202",
+        "type": "biological"
+      },
+      {
+        "id": 718,
+        "unionId": "F202",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000080408142961@",
+    "geniId": "6000000080408142961",
+    "rfn": "geni:6000000080408142961",
+    "changed": "18 OCT 2025"
+  },
+  "page": {
+    "route": "people/287/",
+    "canonical": "https://www.genepedia.org/people/287/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

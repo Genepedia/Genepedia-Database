@@ -1,0 +1,124 @@
+{
+  "id": 1098,
+  "schema": "genepedia/person@1",
+  "slug": "petrus-johannes-fourie-1098",
+  "names": {
+    "display": "Petrus Johannes Fourie",
+    "given": "Petrus Johannes",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 MAY 1885",
+      "year": 1885,
+      "iso": "1885-05-22",
+      "precision": "exact",
+      "display": "May 22, 1885",
+      "place": null
+    },
+    "death": {
+      "date": "2 JUN 1928",
+      "year": 1928,
+      "iso": "1928-06-02",
+      "precision": "exact",
+      "display": "June 2, 1928",
+      "place": "Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Douglas, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      435,
+      1095
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1096,
+      1097,
+      1099,
+      1100,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
+    ],
+    "parentUnions": [
+      "F291"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 435,
+        "unionId": "F291",
+        "type": "biological"
+      },
+      {
+        "id": 1095,
+        "unionId": "F291",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000056635606127@",
+    "geniId": "6000000056635606127",
+    "rfn": "geni:6000000056635606127",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/1098/",
+    "canonical": "https://www.genepedia.org/people/1098/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

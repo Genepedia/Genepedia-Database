@@ -1,0 +1,92 @@
+{
+  "id": 2541,
+  "schema": "genepedia/person@1",
+  "slug": "private-2541",
+  "names": {
+    "display": "Private",
+    "given": "",
+    "surname": "",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1028,
+      2537
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2538,
+      2539,
+      2540,
+      2542,
+      2543,
+      2544
+    ],
+    "parentUnions": [
+      "F631"
+    ],
+    "spouseUnions": [
+      "F1558"
+    ],
+    "parentLinks": [
+      {
+        "id": 1028,
+        "unionId": "F631",
+        "type": "biological"
+      },
+      {
+        "id": 2537,
+        "unionId": "F631",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000040062976272@",
+    "geniId": "6000000040062976272",
+    "rfn": "geni:6000000040062976272",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2541/",
+    "canonical": "https://www.genepedia.org/people/2541/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.190Z"
+}

@@ -1,0 +1,137 @@
+{
+  "id": 3759,
+  "schema": "genepedia/person@1",
+  "slug": "anna-catharina-elizabeth-stoman",
+  "names": {
+    "display": "Anna Catharina Elizabeth Stoman",
+    "given": "Anna Catharina Elizabeth",
+    "surname": "Stoman",
+    "married": "Vermeulen",
+    "nick": "Anna Johanna Catharina Stoman",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 JUN 1848",
+      "year": 1848,
+      "iso": "1848-06-06",
+      "precision": "exact",
+      "display": "June 6, 1848",
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "13 MAY 1880",
+      "year": 1880,
+      "iso": "1880-05-13",
+      "precision": "exact",
+      "display": "May 13, 1880",
+      "place": "\"Kwaggafontein\", dist. Fraserburg",
+      "location": {
+        "label": "\"Kwaggafontein\", dist. Fraserburg",
+        "placeName": "\"Kwaggafontein\", dist. Fraserburg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3755,
+      3754
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3756,
+      3757,
+      1434,
+      3758,
+      3760,
+      3761,
+      3762
+    ],
+    "parentUnions": [
+      "F899"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3755,
+        "unionId": "F899",
+        "type": "biological"
+      },
+      {
+        "id": 3754,
+        "unionId": "F899",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000017544510652@",
+    "geniId": "6000000017544510652",
+    "rfn": "geni:6000000017544510652",
+    "changed": "20 MAY 2025"
+  },
+  "page": {
+    "route": "people/3759/",
+    "canonical": "https://www.genepedia.org/people/3759/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.206Z"
+}

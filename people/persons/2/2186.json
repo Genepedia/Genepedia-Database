@@ -1,0 +1,177 @@
+{
+  "id": 2186,
+  "schema": "genepedia/person@1",
+  "slug": "zacharia-petronella-jacobs",
+  "names": {
+    "display": "Zacharia Petronella Jacobs",
+    "given": "Zacharia Petronella",
+    "surname": "Jacobs",
+    "married": "Sinden",
+    "nick": "Sagratje",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "1867",
+      "year": 1867,
+      "iso": "1867",
+      "precision": "exact",
+      "display": "1867",
+      "place": "Cape",
+      "location": {
+        "label": "Cape",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "11 JUN 1916",
+      "year": 1916,
+      "iso": "1916-06-11",
+      "precision": "exact",
+      "display": "June 11, 1916",
+      "place": "Bucklands, Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Bucklands, Douglas, Northern Cape, South Africa",
+        "placeName": "Bucklands",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "House duties",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/2e/81/6f/6a/53444843de1a9433/record-image_3q9m-c91q-89ql-9_original.jpg?hash=bce7efc6e9dfa7742dcb0bba9d0c900137c02b3550afa2e188f6ed1fad70cec9.1789455599",
+      "alt": "Zacharia Petronella Jacobs"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/2e/81/6f/6a/53444843de1a9433/record-image_3q9m-c91q-89ql-9_original.jpg?hash=bce7efc6e9dfa7742dcb0bba9d0c900137c02b3550afa2e188f6ed1fad70cec9.1789455599",
+        "form": "",
+        "title": "record-image_dood .jpg",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/24/f0/8b/ce/53444861d0b5fdf6/record-image__original.jpg?hash=9ebf41b20827781580b3039570458717c917fa5c870b7826a7223c446db4e392.1789455599",
+        "form": "",
+        "title": "record-image_trou 1892 .jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/83/b7/34/b5/53444861d0bcd3e5/record-image__original.jpg?hash=274355c3eacde07636571655a972da7edd932c4a667f2b0d81c835d3a7157860.1789455599",
+        "form": "",
+        "title": "record-image_dood 1 .jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      896
+    ],
+    "exSpouses": [],
+    "children": [
+      2187,
+      2188,
+      2189,
+      2190
+    ],
+    "siblings": [],
+    "parentUnions": [
+      "F1346"
+    ],
+    "spouseUnions": [
+      "F558"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 896,
+        "unionId": "F558",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2187,
+        "unionId": "F558",
+        "type": "biological"
+      },
+      {
+        "id": 2188,
+        "unionId": "F558",
+        "type": "biological"
+      },
+      {
+        "id": 2189,
+        "unionId": "F558",
+        "type": "biological"
+      },
+      {
+        "id": 2190,
+        "unionId": "F558",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000028102597189@",
+    "geniId": "6000000028102597189",
+    "rfn": "geni:6000000028102597189",
+    "changed": "01 NOV 2022"
+  },
+  "page": {
+    "route": "people/2186/",
+    "canonical": "https://www.genepedia.org/people/2186/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

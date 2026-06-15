@@ -1,0 +1,97 @@
+{
+  "id": 3386,
+  "schema": "genepedia/person@1",
+  "slug": "lodewyk-prins",
+  "names": {
+    "display": "Lodewyk Prins",
+    "given": "Lodewyk",
+    "surname": "Prins",
+    "married": "Prins",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "14 NOV 1853",
+      "year": 1853,
+      "iso": "1853-11-14",
+      "precision": "exact",
+      "display": "November 14, 1853",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      3383,
+      3384
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3385,
+      1335,
+      3387,
+      3388,
+      3389,
+      3390
+    ],
+    "parentUnions": [
+      "F832"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3383,
+        "unionId": "F832",
+        "type": "biological"
+      },
+      {
+        "id": 3384,
+        "unionId": "F832",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000131249267025@",
+    "geniId": "6000000131249267025",
+    "rfn": "geni:6000000131249267025",
+    "changed": "10 DEC 2024"
+  },
+  "page": {
+    "route": "people/3386/",
+    "canonical": "https://www.genepedia.org/people/3386/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.196Z"
+}

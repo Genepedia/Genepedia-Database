@@ -1,0 +1,95 @@
+{
+  "id": 4095,
+  "schema": "genepedia/person@1",
+  "slug": "aletta-sophia-frederika-van-zyl",
+  "names": {
+    "display": "Aletta Sophia Frederika van Zyl",
+    "given": "Aletta Sophia Frederika",
+    "surname": "van Zyl",
+    "married": "Meiring",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "ABT 1883",
+      "year": 1883,
+      "iso": "1883",
+      "precision": "about",
+      "display": "about 1883",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4090,
+      1551
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4091,
+      4092,
+      4093,
+      4094
+    ],
+    "parentUnions": [
+      "F948"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4090,
+        "unionId": "F948",
+        "type": "biological"
+      },
+      {
+        "id": 1551,
+        "unionId": "F948",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000187845147852@",
+    "geniId": "6000000187845147852",
+    "rfn": "geni:6000000187845147852",
+    "changed": "07 OCT 2022"
+  },
+  "page": {
+    "route": "people/4095/",
+    "canonical": "https://www.genepedia.org/people/4095/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.209Z"
+}

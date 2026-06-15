@@ -1,0 +1,108 @@
+{
+  "id": 283,
+  "schema": "genepedia/person@1",
+  "slug": "mareli-olivier",
+  "names": {
+    "display": "Mareli Olivier",
+    "given": "Mareli",
+    "surname": "Olivier",
+    "married": "Erasmus",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/5a/22/88/f1/53444865a0e6171d/11156284_10153302449702265_2149455446371308520_n_original.jpg?hash=3d247ebd5bc67150db9477e960e9cf9e2db8342fb537353729368a59d3427321.1789455599",
+      "alt": "Mareli Olivier"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/5a/22/88/f1/53444865a0e6171d/11156284_10153302449702265_2149455446371308520_n_original.jpg?hash=3d247ebd5bc67150db9477e960e9cf9e2db8342fb537353729368a59d3427321.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      281,
+      282
+    ],
+    "spouses": [
+      707
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      105,
+      284
+    ],
+    "parentUnions": [
+      "F92"
+    ],
+    "spouseUnions": [
+      "F199"
+    ],
+    "parentLinks": [
+      {
+        "id": 281,
+        "unionId": "F92",
+        "type": "biological"
+      },
+      {
+        "id": 282,
+        "unionId": "F92",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 707,
+        "unionId": "F199",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000204069144831@",
+    "geniId": "6000000204069144831",
+    "rfn": "geni:6000000204069144831",
+    "changed": "07 APR 2024"
+  },
+  "page": {
+    "route": "people/283/",
+    "canonical": "https://www.genepedia.org/people/283/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.176Z"
+}

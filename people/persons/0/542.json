@@ -1,0 +1,197 @@
+{
+  "id": 542,
+  "schema": "genepedia/person@1",
+  "slug": "gert-johannes-van-taak",
+  "names": {
+    "display": "Gert Johannes van Taak",
+    "given": "Gert Johannes",
+    "surname": "van Taak",
+    "married": "van Taak",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "4 MAR 1908",
+      "year": 1908,
+      "iso": "1908-03-04",
+      "precision": "exact",
+      "display": "March 4, 1908",
+      "place": "Elandsberg, Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Elandsberg, Clanwilliam, Cape Province, South Africa",
+        "placeName": "Elandsberg",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "19 FEB 1966",
+      "year": 1966,
+      "iso": "1966-02-19",
+      "precision": "exact",
+      "display": "February 19, 1966",
+      "place": null
+    },
+    "baptism": {
+      "date": "8 DEC 1908",
+      "year": 1908,
+      "iso": "1908-12-08",
+      "precision": "exact",
+      "display": "December 8, 1908",
+      "place": "Clanwilliam, Cape Province, South Africa",
+      "location": {
+        "label": "Clanwilliam, Cape Province, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Clanwilliam",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Cape Province",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Calvinia, Northern Cape, South Africa",
+      "location": {
+        "label": "Calvinia, Northern Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Calvinia",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p13/ac/c9/62/0a/5344483c4717b749/jeb98mut_original.jpg?hash=33dc63662294107a516c7b51096e292ab5a1e9acb72e8c9d73dab649d622949e.1789455599",
+      "alt": "Gert Johannes van Taak"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p13/ac/c9/62/0a/5344483c4717b749/jeb98mut_original.jpg?hash=33dc63662294107a516c7b51096e292ab5a1e9acb72e8c9d73dab649d622949e.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p13/37/ae/ae/57/5344483c4714b6a5/mum55xex_original.jpg?hash=60b76f4ccdc32705fd1deb735f86d54593f2edcc4f1e079476428e57355de5ce.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      538,
+      537
+    ],
+    "spouses": [
+      1319
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      539,
+      540,
+      541,
+      210,
+      543,
+      544,
+      545
+    ],
+    "parentUnions": [
+      "F159"
+    ],
+    "spouseUnions": [
+      "F340"
+    ],
+    "parentLinks": [
+      {
+        "id": 538,
+        "unionId": "F159",
+        "type": "biological"
+      },
+      {
+        "id": 537,
+        "unionId": "F159",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1319,
+        "unionId": "F340",
+        "role": "partner"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020383132758@",
+    "geniId": "6000000020383132758",
+    "rfn": "geni:6000000020383132758",
+    "changed": "12 DEC 2022"
+  },
+  "page": {
+    "route": "people/542/",
+    "canonical": "https://www.genepedia.org/people/542/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

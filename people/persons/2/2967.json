@@ -1,0 +1,95 @@
+{
+  "id": 2967,
+  "schema": "genepedia/person@1",
+  "slug": "anna-magdalena-magdalena-de-lange",
+  "names": {
+    "display": "Anna Magdalena Magdalena de Lange",
+    "given": "Anna Magdalena Magdalena",
+    "surname": "de Lange",
+    "married": "Swanepoel . Swarts",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "19 NOV 1923",
+      "year": 1923,
+      "iso": "1923-11-19",
+      "precision": "exact",
+      "display": "November 19, 1923",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2966,
+      1180
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2968
+    ],
+    "parentUnions": [
+      "F725"
+    ],
+    "spouseUnions": [
+      "F1859",
+      "F1860"
+    ],
+    "parentLinks": [
+      {
+        "id": 2966,
+        "unionId": "F725",
+        "type": "biological"
+      },
+      {
+        "id": 1180,
+        "unionId": "F725",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000060902364920@",
+    "geniId": "6000000060902364920",
+    "rfn": "geni:6000000060902364920",
+    "changed": "05 JAN 2026"
+  },
+  "page": {
+    "route": "people/2967/",
+    "canonical": "https://www.genepedia.org/people/2967/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.194Z"
+}

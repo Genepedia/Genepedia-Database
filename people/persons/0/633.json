@@ -1,0 +1,88 @@
+{
+  "id": 633,
+  "schema": "genepedia/person@1",
+  "slug": "hendrik-francois-van-niekerk",
+  "names": {
+    "display": "Hendrik Francois van Niekerk",
+    "given": "Hendrik Francois",
+    "surname": "van Niekerk",
+    "married": "van Niekerk",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      628,
+      629
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      239,
+      630,
+      631,
+      632
+    ],
+    "parentUnions": [
+      "F176"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 628,
+        "unionId": "F176",
+        "type": "biological"
+      },
+      {
+        "id": 629,
+        "unionId": "F176",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000024848128481@",
+    "geniId": "6000000024848128481",
+    "rfn": "geni:6000000024848128481",
+    "changed": "15 FEB 2025"
+  },
+  "page": {
+    "route": "people/633/",
+    "canonical": "https://www.genepedia.org/people/633/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.178Z"
+}

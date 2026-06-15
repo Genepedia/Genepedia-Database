@@ -1,0 +1,104 @@
+{
+  "id": 598,
+  "schema": "genepedia/person@1",
+  "slug": "rachael-cornelia-van-der-merwe",
+  "names": {
+    "display": "Rachael Cornelia van der Merwe",
+    "given": "Rachael Cornelia",
+    "surname": "van der Merwe",
+    "married": "Venter",
+    "nick": "de Beer",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "28 APR 1946",
+      "year": 1946,
+      "iso": "1946-04-28",
+      "precision": "exact",
+      "display": "April 28, 1946",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      220
+    ],
+    "exSpouses": [],
+    "children": [
+      599,
+      600,
+      601
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F168"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 220,
+        "unionId": "F168",
+        "role": "husband"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 599,
+        "unionId": "F168",
+        "type": "biological"
+      },
+      {
+        "id": 600,
+        "unionId": "F168",
+        "type": "biological"
+      },
+      {
+        "id": 601,
+        "unionId": "F168",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000119028544961@",
+    "geniId": "6000000119028544961",
+    "rfn": "geni:6000000119028544961",
+    "changed": "23 APR 2024"
+  },
+  "page": {
+    "route": "people/598/",
+    "canonical": "https://www.genepedia.org/people/598/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

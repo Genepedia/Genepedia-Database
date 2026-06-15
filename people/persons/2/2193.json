@@ -1,0 +1,184 @@
+{
+  "id": 2193,
+  "schema": "genepedia/person@1",
+  "slug": "abraham-paulus-sinden-2193",
+  "names": {
+    "display": "Abraham Paulus Sinden",
+    "given": "Abraham Paulus",
+    "surname": "Sinden",
+    "married": "Sinden",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "16 SEP 1901",
+      "year": 1901,
+      "iso": "1901-09-16",
+      "precision": "exact",
+      "display": "September 16, 1901",
+      "place": null
+    },
+    "death": {
+      "date": "19 FEB 1975",
+      "year": 1975,
+      "iso": "1975-02-19",
+      "precision": "exact",
+      "display": "February 19, 1975",
+      "place": "Jan Kempdorp, South Africa",
+      "location": {
+        "label": "Jan Kempdorp, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Jan Kempdorp",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": {
+      "date": "9 AUG 1926",
+      "year": 1926,
+      "iso": "1926-08-09",
+      "precision": "exact",
+      "display": "August 9, 1926",
+      "place": "Herbert, South Africa",
+      "location": {
+        "label": "Herbert, South Africa",
+        "placeName": "Herbert",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Jan Kempdorp Cemetry",
+      "location": {
+        "label": "Jan Kempdorp Cemetry",
+        "placeName": "Jan Kempdorp Cemetry",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      897,
+      2191
+    ],
+    "spouses": [
+      2693
+    ],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2192,
+      927,
+      2194,
+      2195,
+      2196,
+      2197,
+      2198,
+      2199,
+      2200,
+      2201,
+      2202,
+      2203,
+      2204
+    ],
+    "parentUnions": [
+      "F559"
+    ],
+    "spouseUnions": [
+      "F1355"
+    ],
+    "parentLinks": [
+      {
+        "id": 897,
+        "unionId": "F559",
+        "type": "biological"
+      },
+      {
+        "id": 2191,
+        "unionId": "F559",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 2693,
+        "unionId": "F1355",
+        "role": "wife"
+      }
+    ],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000028064168005@",
+    "geniId": "6000000028064168005",
+    "rfn": "geni:6000000028064168005",
+    "changed": "28 APR 2022"
+  },
+  "page": {
+    "route": "people/2193/",
+    "canonical": "https://www.genepedia.org/people/2193/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

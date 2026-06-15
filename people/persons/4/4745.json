@@ -1,0 +1,122 @@
+{
+  "id": 4745,
+  "schema": "genepedia/person@1",
+  "slug": "gabriel-jacobus-bester-venter",
+  "names": {
+    "display": "Gabriel Jacobus Bester Venter",
+    "given": "Gabriel Jacobus Bester",
+    "surname": "Venter",
+    "married": "Venter",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "6 OCT 1920",
+      "year": 1920,
+      "iso": "1920-10-06",
+      "precision": "exact",
+      "display": "October 6, 1920",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "17 APR 1921",
+      "year": 1921,
+      "iso": "1921-04-17",
+      "precision": "exact",
+      "display": "April 17, 1921",
+      "place": "Smithfield, Free State, South Africa",
+      "location": {
+        "label": "Smithfield, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Smithfield",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4742,
+      1879
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4743,
+      4744,
+      4746,
+      4747,
+      4748,
+      4749,
+      4750,
+      4751
+    ],
+    "parentUnions": [
+      "F1130"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4742,
+        "unionId": "F1130",
+        "type": "biological"
+      },
+      {
+        "id": 1879,
+        "unionId": "F1130",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000066415786821@",
+    "geniId": "6000000066415786821",
+    "rfn": "geni:6000000066415786821",
+    "changed": "16 MAR 2019"
+  },
+  "page": {
+    "route": "people/4745/",
+    "canonical": "https://www.genepedia.org/people/4745/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.214Z"
+}

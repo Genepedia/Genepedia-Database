@@ -1,0 +1,134 @@
+{
+  "id": 495,
+  "schema": "genepedia/person@1",
+  "slug": "philippus-chrisstoffel-fourie",
+  "names": {
+    "display": "Philippus Chrisstoffel Fourie",
+    "given": "Philippus Chrisstoffel",
+    "surname": "Fourie",
+    "married": "Fourie",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "26 JAN 1931",
+      "year": 1931,
+      "iso": "1931-01-26",
+      "precision": "exact",
+      "display": "January 26, 1931",
+      "place": null
+    },
+    "death": {
+      "date": "AFT 2010",
+      "year": 2010,
+      "iso": "2010",
+      "precision": "after",
+      "display": "after 2010",
+      "place": null
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      175,
+      494
+    ],
+    "spouses": [
+      1221
+    ],
+    "exSpouses": [],
+    "children": [
+      1222,
+      1223,
+      1224
+    ],
+    "siblings": [
+      496,
+      497,
+      498,
+      499,
+      500,
+      501
+    ],
+    "parentUnions": [
+      "F143"
+    ],
+    "spouseUnions": [
+      "F316"
+    ],
+    "parentLinks": [
+      {
+        "id": 175,
+        "unionId": "F143",
+        "type": "biological"
+      },
+      {
+        "id": 494,
+        "unionId": "F143",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 1221,
+        "unionId": "F316",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 1222,
+        "unionId": "F316",
+        "type": "biological"
+      },
+      {
+        "id": 1223,
+        "unionId": "F316",
+        "type": "biological"
+      },
+      {
+        "id": 1224,
+        "unionId": "F316",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000204144455897@",
+    "geniId": "6000000204144455897",
+    "rfn": "geni:6000000204144455897",
+    "changed": "07 NOV 2025"
+  },
+  "page": {
+    "route": "people/495/",
+    "canonical": "https://www.genepedia.org/people/495/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.177Z"
+}

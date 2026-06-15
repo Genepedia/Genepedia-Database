@@ -1,0 +1,85 @@
+{
+  "id": 4495,
+  "schema": "genepedia/person@1",
+  "slug": "friedman-4495",
+  "names": {
+    "display": "? Friedman",
+    "given": "?",
+    "surname": "Friedman",
+    "married": "Friedman",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "unknown",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      4494,
+      1758
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4496
+    ],
+    "parentUnions": [
+      "F1066"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4494,
+        "unionId": "F1066",
+        "type": "biological"
+      },
+      {
+        "id": 1758,
+        "unionId": "F1066",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000208304911848@",
+    "geniId": "6000000208304911848",
+    "rfn": "geni:6000000208304911848",
+    "changed": "19 AUG 2024"
+  },
+  "page": {
+    "route": "people/4495/",
+    "canonical": "https://www.genepedia.org/people/4495/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.212Z"
+}

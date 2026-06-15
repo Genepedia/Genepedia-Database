@@ -1,0 +1,95 @@
+{
+  "id": 2306,
+  "schema": "genepedia/person@1",
+  "slug": "hester-getrude-jacobs",
+  "names": {
+    "display": "Hester Getrude Jacobs",
+    "given": "Hester Getrude",
+    "surname": "Jacobs",
+    "married": "Jacobs",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "28 MAY 1947",
+      "year": 1947,
+      "iso": "1947-05-28",
+      "precision": "exact",
+      "display": "May 28, 1947",
+      "place": null
+    },
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      2304,
+      923
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      2305,
+      2307,
+      2308,
+      2309
+    ],
+    "parentUnions": [
+      "F585"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 2304,
+        "unionId": "F585",
+        "type": "biological"
+      },
+      {
+        "id": 923,
+        "unionId": "F585",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000002768506791@",
+    "geniId": "6000000002768506791",
+    "rfn": "geni:6000000002768506791",
+    "changed": "23 NOV 2014"
+  },
+  "page": {
+    "route": "people/2306/",
+    "canonical": "https://www.genepedia.org/people/2306/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

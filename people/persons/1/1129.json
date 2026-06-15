@@ -1,0 +1,119 @@
+{
+  "id": 1129,
+  "schema": "genepedia/person@1",
+  "slug": "jacoba-adriana",
+  "names": {
+    "display": "Jacoba Adriana",
+    "given": "Jacoba Adriana",
+    "surname": "Fourie",
+    "married": "",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "3 JUL 1899",
+      "year": 1899,
+      "iso": "1899-07-03",
+      "precision": "exact",
+      "display": "July 3, 1899",
+      "place": null
+    },
+    "death": null,
+    "baptism": {
+      "date": "11 NOV 1900",
+      "year": 1900,
+      "iso": "1900-11-11",
+      "precision": "exact",
+      "display": "November 11, 1900",
+      "place": "Griekwastad, NC, South Africa",
+      "location": {
+        "label": "Griekwastad, NC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Griekwastad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "NC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      441,
+      1126
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1127,
+      1128,
+      1130,
+      1131,
+      1132
+    ],
+    "parentUnions": [
+      "F298"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 441,
+        "unionId": "F298",
+        "type": "biological"
+      },
+      {
+        "id": 1126,
+        "unionId": "F298",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000186940758829@",
+    "geniId": "6000000186940758829",
+    "rfn": "geni:6000000186940758829",
+    "changed": "02 SEP 2022"
+  },
+  "page": {
+    "route": "people/1129/",
+    "canonical": "https://www.genepedia.org/people/1129/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

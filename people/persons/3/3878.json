@@ -1,0 +1,144 @@
+{
+  "id": 3878,
+  "schema": "genepedia/person@1",
+  "slug": "frederik-jacob-geyer",
+  "names": {
+    "display": "Frederik Jacob Geyer",
+    "given": "Frederik Jacob",
+    "surname": "Geyer",
+    "married": "Geyer",
+    "nick": "Fredrik Jacob",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "13 AUG 1819",
+      "year": 1819,
+      "iso": "1819-08-13",
+      "precision": "exact",
+      "display": "August 13, 1819",
+      "place": "Cape Town, WC, South Africa",
+      "location": {
+        "label": "Cape Town, WC, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "7785",
+        "county": "",
+        "stateProvince": "WC",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": null,
+    "baptism": {
+      "date": "29 AUG 1819",
+      "year": 1819,
+      "iso": "1819-08-29",
+      "precision": "exact",
+      "display": "August 29, 1819",
+      "place": "Cape Town, Western Cape, South Africa",
+      "location": {
+        "label": "Cape Town, Western Cape, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Cape Town",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Western Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      3873,
+      3872
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      3874,
+      3875,
+      3876,
+      3877,
+      3879,
+      3880,
+      3881,
+      3882,
+      3883,
+      3884,
+      1523,
+      3885,
+      3886,
+      3887
+    ],
+    "parentUnions": [
+      "F919"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 3873,
+        "unionId": "F919",
+        "type": "biological"
+      },
+      {
+        "id": 3872,
+        "unionId": "F919",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000021314226438@",
+    "geniId": "6000000021314226438",
+    "rfn": "geni:6000000021314226438",
+    "changed": "27 APR 2025"
+  },
+  "page": {
+    "route": "people/3878/",
+    "canonical": "https://www.genepedia.org/people/3878/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.207Z"
+}

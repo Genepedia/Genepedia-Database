@@ -1,0 +1,140 @@
+{
+  "id": 4148,
+  "schema": "genepedia/person@1",
+  "slug": "jacobus-frederik-pretorius",
+  "names": {
+    "display": "Jacobus Frederik Pretorius",
+    "given": "Jacobus Frederik",
+    "surname": "Pretorius",
+    "married": "Pretorius",
+    "nick": "Kootjie",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "22 JUN 1858",
+      "year": 1858,
+      "iso": "1858-06-22",
+      "precision": "exact",
+      "display": "June 22, 1858",
+      "place": "Soetvlei, Kroonstad, Soputh Africa",
+      "location": {
+        "label": "Soetvlei, Kroonstad, Soputh Africa",
+        "placeName": "Soetvlei",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Kroonstad",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "Soputh Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "SEP 1932",
+      "year": 1932,
+      "iso": "1932-09",
+      "precision": "exact",
+      "display": "September 1932",
+      "place": "Cado, Frankfort",
+      "location": {
+        "label": "Cado, Frankfort",
+        "placeName": "Cado",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Frankfort",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "boer, Afrikaskop, Heilbron",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      4146,
+      4145
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      4147,
+      4149,
+      1575,
+      4150,
+      4151,
+      4152,
+      4153,
+      4154,
+      4155,
+      4156
+    ],
+    "parentUnions": [
+      "F966"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 4146,
+        "unionId": "F966",
+        "type": "biological"
+      },
+      {
+        "id": 4145,
+        "unionId": "F966",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000020842734809@",
+    "geniId": "6000000020842734809",
+    "rfn": "geni:6000000020842734809",
+    "changed": "26 JUN 2025"
+  },
+  "page": {
+    "route": "people/4148/",
+    "canonical": "https://www.genepedia.org/people/4148/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.210Z"
+}

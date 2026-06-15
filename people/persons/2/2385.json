@@ -1,0 +1,188 @@
+{
+  "id": 2385,
+  "schema": "genepedia/person@1",
+  "slug": "pieter-andries-cloete-2385",
+  "names": {
+    "display": "Pieter Andries Cloete",
+    "given": "Pieter Andries",
+    "surname": "Cloete",
+    "married": "Cloete",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 JUN 1864",
+      "year": 1864,
+      "iso": "1864-06-18",
+      "precision": "exact",
+      "display": "June 18, 1864",
+      "place": "Kaffirskop, South Africa",
+      "location": {
+        "label": "Kaffirskop, South Africa",
+        "placeName": "Kaffirskop",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "1 OCT 1938",
+      "year": 1938,
+      "iso": "1938-10-01",
+      "precision": "exact",
+      "display": "October 1, 1938",
+      "place": "Bucklands, Douglas, Northern Cape, South Africa",
+      "location": {
+        "label": "Bucklands, Douglas, Northern Cape, South Africa",
+        "placeName": "Bucklands",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Douglas",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": {
+      "date": null,
+      "year": null,
+      "iso": null,
+      "precision": "exact",
+      "display": null,
+      "place": "Main Cemetery, Bucklands, Northern Cape, South Africa",
+      "location": {
+        "label": "Main Cemetery, Bucklands, Northern Cape, South Africa",
+        "placeName": "Main Cemetery",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bucklands",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Northern Cape",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      },
+      "type": "burial"
+    }
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": {
+      "local": null,
+      "remote": "https://media.geni.com/p14/65/5d/cb/47/5344486169e77ebe/pieter_andries_cloete_1864-1938_bucklands_northern_cape_original.jpg?hash=2ef98238731085c808942be6c6fb1c874595ae2fcc82abe9c9bf4f3a37a9ca68.1789455599",
+      "alt": "Pieter Andries Cloete"
+    },
+    "items": [
+      {
+        "remote": "https://media.geni.com/p14/65/5d/cb/47/5344486169e77ebe/pieter_andries_cloete_1864-1938_bucklands_northern_cape_original.jpg?hash=2ef98238731085c808942be6c6fb1c874595ae2fcc82abe9c9bf4f3a37a9ca68.1789455599",
+        "form": "",
+        "title": "",
+        "primary": true,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/89/71/ec/56/5344486169e82e85/pieter_andries_cloete_1864-1938_bucklands_original.jpg?hash=580bf2ebc1a47c45cc483baae23d0e49ca4e00273b2ba8cc599634feecd9627b.1789455599",
+        "form": "",
+        "title": "",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/b3/ab/ae/3f/53444861674fe3ef/pieter_andries_cloete_marriage_15_april_1889_griekwastad_original.jpg?hash=a53c759fc5f6aa59e5aa24fb8f9300792f216da4656517a489bc4501f3610359.1789455599",
+        "form": "",
+        "title": "Pieter Andries Cloete Marriage 15 April 1889 Griekwastad.jpg",
+        "primary": false,
+        "local": null
+      },
+      {
+        "remote": "https://media.geni.com/p14/fc/7e/9e/73/5344486169e200db/pieter_andries_cloete_information_of_a_death_5_oct_1938_bucklands_douglas_original.jpg?hash=7651169a0a3bf40388d22aaefe4fd4cab16d438193d20db04c4d4b82bf43df89.1789455599",
+        "form": "",
+        "title": "Pieter Andries Cloete Information of a death 5 Oct 1938 Bucklands Douglas.jpg",
+        "primary": false,
+        "local": null
+      }
+    ]
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      956
+    ],
+    "exSpouses": [],
+    "children": [
+      2386
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F602"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 956,
+        "unionId": "F602",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 2386,
+        "unionId": "F602",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000071759656972@",
+    "geniId": "6000000071759656972",
+    "rfn": "geni:6000000071759656972",
+    "changed": "27 AUG 2022"
+  },
+  "page": {
+    "route": "people/2385/",
+    "canonical": "https://www.genepedia.org/people/2385/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.189Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1006,
+  "schema": "genepedia/person@1",
+  "slug": "cornelia-hester-johanna-jooste",
+  "names": {
+    "display": "Cornelia Hester Johanna Jooste",
+    "given": "Cornelia Hester Johanna",
+    "surname": "Jooste",
+    "married": "Jooste",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "female",
+  "living": true,
+  "events": {
+    "birth": null,
+    "death": null,
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": null,
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1000,
+      1001
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      1002,
+      416,
+      1003,
+      1004,
+      1005,
+      1007
+    ],
+    "parentUnions": [
+      "F277"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1000,
+        "unionId": "F277",
+        "type": "biological"
+      },
+      {
+        "id": 1001,
+        "unionId": "F277",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {
+    "gedcomXref": "@I6000000097043882037@",
+    "geniId": "6000000097043882037",
+    "rfn": "geni:6000000097043882037",
+    "changed": "19 JUN 2019"
+  },
+  "page": {
+    "route": "people/1006/",
+    "canonical": "https://www.genepedia.org/people/1006/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.180Z"
+}

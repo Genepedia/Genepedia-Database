@@ -1,0 +1,192 @@
+{
+  "id": 1555,
+  "schema": "genepedia/person@1",
+  "slug": "david-hendrik-mellet",
+  "names": {
+    "display": "David Hendrik Mellet",
+    "given": "David Hendrik",
+    "surname": "Mellet",
+    "married": "Mellet",
+    "nick": "",
+    "aliases": []
+  },
+  "sex": "male",
+  "living": false,
+  "events": {
+    "birth": {
+      "date": "18 AUG 1857",
+      "year": 1857,
+      "iso": "1857-08-18",
+      "precision": "exact",
+      "display": "August 18, 1857",
+      "place": "Boshof, Free State, South Africa",
+      "location": {
+        "label": "Boshof, Free State, South Africa",
+        "placeName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Boshof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "Free State",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "death": {
+      "date": "16 JAN 1909",
+      "year": 1909,
+      "iso": "1909-01-16",
+      "precision": "exact",
+      "display": "January 16, 1909",
+      "place": "Vaal River, Bloemhof, North West, South Africa",
+      "location": {
+        "label": "Vaal River, Bloemhof, North West, South Africa",
+        "placeName": "Vaal River",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressLine3": "",
+        "city": "Bloemhof",
+        "postalCode": "",
+        "county": "",
+        "stateProvince": "North West",
+        "country": "South Africa",
+        "countryCode": "",
+        "latitude": "",
+        "longitude": "",
+        "source": ""
+      }
+    },
+    "baptism": null,
+    "burial": null
+  },
+  "lastResidence": null,
+  "lastResidenceLocation": null,
+  "occupation": "Farmer",
+  "attributes": {
+    "hairColor": null,
+    "eyeColor": null,
+    "height": null,
+    "weight": null,
+    "ethnicity": null,
+    "religion": null,
+    "politicalViews": null,
+    "languages": [],
+    "hobbies": [],
+    "shoeSize": null,
+    "smoking": null
+  },
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": true
+  },
+  "relationships": {
+    "parents": [
+      1549,
+      1550
+    ],
+    "spouses": [
+      4109
+    ],
+    "exSpouses": [],
+    "children": [
+      4110,
+      4111,
+      4112,
+      4113,
+      4114,
+      4115,
+      4116
+    ],
+    "siblings": [
+      1551,
+      1552,
+      629,
+      1553,
+      1554,
+      1556,
+      1557,
+      1558
+    ],
+    "parentUnions": [
+      "F396"
+    ],
+    "spouseUnions": [
+      "F951"
+    ],
+    "parentLinks": [
+      {
+        "id": 1549,
+        "unionId": "F396",
+        "type": "biological"
+      },
+      {
+        "id": 1550,
+        "unionId": "F396",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [
+      {
+        "id": 4109,
+        "unionId": "F951",
+        "role": "wife"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 4110,
+        "unionId": "F951",
+        "type": "biological"
+      },
+      {
+        "id": 4111,
+        "unionId": "F951",
+        "type": "biological"
+      },
+      {
+        "id": 4112,
+        "unionId": "F951",
+        "type": "biological"
+      },
+      {
+        "id": 4113,
+        "unionId": "F951",
+        "type": "biological"
+      },
+      {
+        "id": 4114,
+        "unionId": "F951",
+        "type": "biological"
+      },
+      {
+        "id": 4115,
+        "unionId": "F951",
+        "type": "biological"
+      },
+      {
+        "id": 4116,
+        "unionId": "F951",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {
+    "gedcomXref": "@I6000000084728632643@",
+    "geniId": "6000000084728632643",
+    "rfn": "geni:6000000084728632643",
+    "changed": "01 MAY 2022"
+  },
+  "page": {
+    "route": "people/1555/",
+    "canonical": "https://www.genepedia.org/people/1555/"
+  },
+  "generatedAt": "2026-06-15T17:28:05.183Z"
+}
