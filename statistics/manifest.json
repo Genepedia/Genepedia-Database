@@ -1,6 +1,7 @@
 {
-  "schema": "genepedia/statistics/manifest@1",
+  "schema": "genepedia/statistics/manifest@2",
   "updatedAt": "2026-06-20T00:00:00.000Z",
+  "windows": ["24h", "3d", "7d", "30d", "60d", "90d", "6m", "1y", "all"],
   "files": {
     "profile-views.json": {
       "schema": "genepedia/statistics/profile-views@2",
@@ -10,12 +11,20 @@
       "schema": "genepedia/statistics/search-queries@1",
       "updatedAt": "2026-06-20T00:00:00.000Z"
     },
+    "hourly-rollups.json": {
+      "schema": "genepedia/statistics/hourly-rollups@1",
+      "updatedAt": "2026-06-20T00:00:00.000Z"
+    },
     "daily-rollups.json": {
-      "schema": "genepedia/statistics/daily-rollups@1",
+      "schema": "genepedia/statistics/daily-rollups@2",
+      "updatedAt": "2026-06-20T00:00:00.000Z"
+    },
+    "leaderboards.json": {
+      "schema": "genepedia/statistics/leaderboards@1",
       "updatedAt": "2026-06-20T00:00:00.000Z"
     },
     "summary.json": {
-      "schema": "genepedia/statistics/summary@1",
+      "schema": "genepedia/statistics/summary@2",
       "updatedAt": "2026-06-20T00:00:00.000Z"
     }
   }

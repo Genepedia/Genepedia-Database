@@ -1,10 +1,11 @@
 {
-  "schema": "genepedia/statistics/summary@1",
+  "schema": "genepedia/statistics/summary@2",
   "generatedAt": "2026-06-20T00:00:00.000Z",
+  "windows": ["24h", "3d", "7d", "30d", "60d", "90d", "6m", "1y", "all"],
   "totals": {
     "profileViews": 0,
     "searches": 23,
-    "profilesTracked": 4,
+    "profilesTracked": 5,
     "queriesTracked": 3
   },
   "today": {
@@ -16,11 +17,46 @@
     { "kind": "person", "person_id": "15", "views": 0, "last_viewed_at": "2026-06-20T00:00:00.000Z" },
     { "kind": "person", "person_id": "1", "views": 0, "last_viewed_at": "2026-06-20T00:00:00.000Z" },
     { "kind": "person", "person_id": "2", "views": 0, "last_viewed_at": "2026-06-20T00:00:00.000Z" },
-    { "kind": "person", "person_id": "3", "views": 0, "last_viewed_at": "2026-06-20T00:00:00.000Z" }
+    { "kind": "person", "person_id": "3", "views": 0, "last_viewed_at": "2026-06-20T00:00:00.000Z" },
+    { "kind": "pet", "person_id": "1", "views": 0, "last_viewed_at": "2026-06-20T00:00:00.000Z" }
   ],
   "popularSearches": [
     { "query": "mandela", "count": 12, "last_result_count": 1, "last_searched_at": "2026-06-20T00:00:00.000Z" },
     { "query": "smith", "count": 8, "last_result_count": 3, "last_searched_at": "2026-06-19T00:00:00.000Z" },
     { "query": "census 2026", "count": 3, "last_result_count": 0, "last_searched_at": "2026-06-18T00:00:00.000Z" }
-  ]
+  ],
+  "leaderboards": {
+    "profiles": {
+      "24h": [],
+      "3d": [],
+      "7d": [],
+      "30d": [],
+      "60d": [],
+      "90d": [],
+      "6m": [],
+      "1y": [],
+      "all": [
+        { "kind": "person", "person_id": "15", "views": 0 },
+        { "kind": "person", "person_id": "1", "views": 0 },
+        { "kind": "person", "person_id": "2", "views": 0 },
+        { "kind": "person", "person_id": "3", "views": 0 },
+        { "kind": "pet", "person_id": "1", "views": 0 }
+      ]
+    },
+    "searches": {
+      "24h": [],
+      "3d": [],
+      "7d": [],
+      "30d": [],
+      "60d": [],
+      "90d": [],
+      "6m": [],
+      "1y": [],
+      "all": [
+        { "query": "mandela", "count": 12 },
+        { "query": "smith", "count": 8 },
+        { "query": "census 2026", "count": 3 }
+      ]
+    }
+  }
 }

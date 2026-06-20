@@ -1,0 +1,37 @@
+{
+  "schema": "genepedia/statistics/leaderboards@1",
+  "generatedAt": "2026-06-20T00:00:00.000Z",
+  "windows": ["24h", "3d", "7d", "30d", "60d", "90d", "6m", "1y", "all"],
+  "profiles": {
+    "24h": [],
+    "3d": [],
+    "7d": [],
+    "30d": [],
+    "60d": [],
+    "90d": [],
+    "6m": [],
+    "1y": [],
+    "all": [
+      { "kind": "person", "person_id": "15", "views": 0 },
+      { "kind": "person", "person_id": "1", "views": 0 },
+      { "kind": "person", "person_id": "2", "views": 0 },
+      { "kind": "person", "person_id": "3", "views": 0 },
+      { "kind": "pet", "person_id": "1", "views": 0 }
+    ]
+  },
+  "searches": {
+    "24h": [],
+    "3d": [],
+    "7d": [],
+    "30d": [],
+    "60d": [],
+    "90d": [],
+    "6m": [],
+    "1y": [],
+    "all": [
+      { "query": "mandela", "count": 12 },
+      { "query": "smith", "count": 8 },
+      { "query": "census 2026", "count": 3 }
+    ]
+  }
+}
