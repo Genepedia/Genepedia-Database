@@ -1,0 +1,22 @@
+{
+  "schema": "genepedia/statistics/manifest@1",
+  "updatedAt": "2026-06-20T00:00:00.000Z",
+  "files": {
+    "profile-views.json": {
+      "schema": "genepedia/statistics/profile-views@2",
+      "updatedAt": "2026-06-20T00:00:00.000Z"
+    },
+    "search-queries.json": {
+      "schema": "genepedia/statistics/search-queries@1",
+      "updatedAt": "2026-06-20T00:00:00.000Z"
+    },
+    "daily-rollups.json": {
+      "schema": "genepedia/statistics/daily-rollups@1",
+      "updatedAt": "2026-06-20T00:00:00.000Z"
+    },
+    "summary.json": {
+      "schema": "genepedia/statistics/summary@1",
+      "updatedAt": "2026-06-20T00:00:00.000Z"
+    }
+  }
+}
