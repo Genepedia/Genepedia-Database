@@ -1,0 +1,74 @@
+{
+  "id": 3,
+  "schema": "genepedia/animal@1",
+  "kind": "pet",
+  "slug": "bubbles",
+  "species": "Fish",
+  "breed": null,
+  "owner": 1,
+  "names": {
+    "display": "Bubbles",
+    "callName": "Bubbles",
+    "registeredName": null,
+    "aliases": []
+  },
+  "sex": "unknown",
+  "desexed": null,
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "2023",
+      "year": 2023,
+      "iso": "2023",
+      "precision": "exact",
+      "display": null,
+      "place": null
+    },
+    "death": null,
+    "adoption": null,
+    "desexing": null
+  },
+  "attributes": {
+    "color": null,
+    "coat": null,
+    "markings": null,
+    "eyeColor": null,
+    "weight": null,
+    "weightHistory": [],
+    "height": null,
+    "heightHistory": [],
+    "temperament": null,
+    "microchipId": null,
+    "registrationNumber": null,
+    "vaccinated": null,
+    "allergies": [],
+    "conditions": []
+  },
+  "training": [],
+  "awards": [],
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [],
+    "parentLinks": [],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {},
+  "page": {
+    "route": "pages/pets/3/",
+    "canonical": "https://www.genepedia.org/pages/pets/3/"
+  },
+  "generatedAt": "2026-06-18T16:24:25.347Z"
+}

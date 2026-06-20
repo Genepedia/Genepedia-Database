@@ -1,0 +1,92 @@
+{
+  "id": 6,
+  "schema": "genepedia/animal@1",
+  "kind": "pet",
+  "slug": "luna",
+  "species": "Dog",
+  "breed": "Labrador Retriever",
+  "owner": 1,
+  "names": {
+    "display": "Luna",
+    "callName": "Luna",
+    "registeredName": null,
+    "aliases": []
+  },
+  "sex": "female",
+  "desexed": null,
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "10 SEP 2021",
+      "year": 2021,
+      "iso": "2021-09-10",
+      "precision": "exact",
+      "display": null,
+      "place": null
+    },
+    "death": null,
+    "adoption": null,
+    "desexing": null
+  },
+  "attributes": {
+    "color": null,
+    "coat": null,
+    "markings": null,
+    "eyeColor": null,
+    "weight": null,
+    "weightHistory": [],
+    "height": null,
+    "heightHistory": [],
+    "temperament": null,
+    "microchipId": null,
+    "registrationNumber": null,
+    "vaccinated": null,
+    "allergies": [],
+    "conditions": []
+  },
+  "training": [],
+  "awards": [],
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [
+      1,
+      4
+    ],
+    "spouses": [],
+    "exSpouses": [],
+    "children": [],
+    "siblings": [
+      5
+    ],
+    "parentUnions": [
+      "F1"
+    ],
+    "spouseUnions": [],
+    "parentLinks": [
+      {
+        "id": 1,
+        "unionId": "F1",
+        "type": "biological"
+      },
+      {
+        "id": 4,
+        "unionId": "F1",
+        "type": "biological"
+      }
+    ],
+    "partnerLinks": [],
+    "childLinks": []
+  },
+  "source": {},
+  "page": {
+    "route": "pages/pets/6/",
+    "canonical": "https://www.genepedia.org/pages/pets/6/"
+  },
+  "generatedAt": "2026-06-19T06:31:22.257Z"
+}

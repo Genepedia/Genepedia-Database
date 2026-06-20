@@ -1,0 +1,58 @@
+{
+  "key": "re",
+  "count": 4,
+  "animals": [
+    {
+      "id": 4,
+      "name": "Bella",
+      "species": "Dog",
+      "breed": "Labrador Retriever",
+      "sex": "female",
+      "birthYear": 2018,
+      "deathYear": null,
+      "owner": null,
+      "slug": "bella",
+      "route": "pages/pets/4/",
+      "hasImage": false
+    },
+    {
+      "id": 6,
+      "name": "Luna",
+      "species": "Dog",
+      "breed": "Labrador Retriever",
+      "sex": "female",
+      "birthYear": 2021,
+      "deathYear": null,
+      "owner": 1,
+      "slug": "luna",
+      "route": "pages/pets/6/",
+      "hasImage": false
+    },
+    {
+      "id": 5,
+      "name": "Max",
+      "species": "Dog",
+      "breed": "Labrador Retriever",
+      "sex": "male",
+      "birthYear": 2021,
+      "deathYear": null,
+      "owner": 1,
+      "slug": "max",
+      "route": "pages/pets/5/",
+      "hasImage": false
+    },
+    {
+      "id": 1,
+      "name": "Rex",
+      "species": "Dog",
+      "breed": "Labrador Retriever",
+      "sex": "male",
+      "birthYear": 2019,
+      "deathYear": null,
+      "owner": 1,
+      "slug": "rex",
+      "route": "pages/pets/1/",
+      "hasImage": false
+    }
+  ]
+}

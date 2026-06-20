@@ -1,0 +1,26 @@
+{
+  "schema": "genepedia/animal-db@1",
+  "generatedAt": "2026-06-19T06:31:23.181Z",
+  "host": "www.genepedia.org",
+  "shardSize": 1000,
+  "routes": {
+    "profile": "pages/pets/<id>/"
+  },
+  "layout": {
+    "persons": "data/Genepedia-Database/pets/persons/<bucket>/<id>.json",
+    "unions": "data/Genepedia-Database/pets/unions/<bucket>/<id>.json",
+    "summary": "data/Genepedia-Database/pets/index/summary/<bucket>.json",
+    "search": "data/Genepedia-Database/pets/index/search/<key>.json"
+  },
+  "counts": {
+    "animals": 6,
+    "unions": 1,
+    "withMedia": 0,
+    "living": 6,
+    "species": {
+      "Dog": 4,
+      "Cat": 1,
+      "Fish": 1
+    }
+  }
+}

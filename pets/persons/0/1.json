@@ -1,0 +1,98 @@
+{
+  "id": 1,
+  "schema": "genepedia/animal@1",
+  "kind": "pet",
+  "slug": "rex",
+  "species": "Dog",
+  "breed": "Labrador Retriever",
+  "owner": 1,
+  "names": {
+    "display": "Rex",
+    "callName": "Rex",
+    "registeredName": null,
+    "aliases": []
+  },
+  "sex": "male",
+  "desexed": null,
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "14 MAY 2019",
+      "year": 2019,
+      "iso": "2019-05-14",
+      "precision": "exact",
+      "display": null,
+      "place": null
+    },
+    "death": null,
+    "adoption": null,
+    "desexing": null
+  },
+  "attributes": {
+    "color": null,
+    "coat": null,
+    "markings": null,
+    "eyeColor": null,
+    "weight": null,
+    "weightHistory": [],
+    "height": null,
+    "heightHistory": [],
+    "temperament": null,
+    "microchipId": null,
+    "registrationNumber": null,
+    "vaccinated": null,
+    "allergies": [],
+    "conditions": []
+  },
+  "training": [],
+  "awards": [],
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "spouses": [
+      4
+    ],
+    "children": [
+      5,
+      6
+    ],
+    "siblings": [],
+    "parents": [],
+    "exSpouses": [],
+    "spouseUnions": [
+      "F1"
+    ],
+    "parentUnions": [],
+    "partnerLinks": [
+      {
+        "id": 4,
+        "unionId": "F1",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 5,
+        "unionId": "F1",
+        "type": "biological"
+      },
+      {
+        "id": 6,
+        "unionId": "F1",
+        "type": "biological"
+      }
+    ],
+    "parentLinks": []
+  },
+  "source": {},
+  "page": {
+    "route": "pages/pets/1/",
+    "canonical": "https://www.genepedia.org/pages/pets/1/"
+  },
+  "generatedAt": "2026-06-19T06:31:22.257Z"
+}

@@ -1,0 +1,77 @@
+0 HEAD
+1 GEDC
+2 VERS 5.5.5
+2 FORM LINEAGE-LINKED
+3 VERS 5.5.5
+1 CHAR UTF-8
+1 SOUR GENEPEDIA
+2 NAME Genepedia
+2 VERS 1.0.0
+1 DEST GENEPEDIA
+1 FILE pets-tree.ged
+1 LANG English
+1 SUBM @U1@
+0 @U1@ SUBM
+1 NAME Genepedia
+0 @P1@ INDI
+1 NAME Rex
+1 SEX M
+1 BIRT
+2 DATE 14 MAY 2019
+1 REFN 1
+2 TYPE genepedia
+1 _PET Dog
+1 _BREED Labrador Retriever
+1 FAMS @F1@
+0 @P2@ INDI
+1 NAME Whiskers
+1 SEX F
+1 BIRT
+2 DATE 2 FEB 2021
+1 REFN 2
+2 TYPE genepedia
+1 _PET Cat
+0 @P3@ INDI
+1 NAME Bubbles
+1 SEX U
+1 BIRT
+2 DATE 2023
+1 REFN 3
+2 TYPE genepedia
+1 _PET Fish
+0 @P4@ INDI
+1 NAME Bella
+1 SEX F
+1 BIRT
+2 DATE 1 JUN 2018
+1 REFN 4
+2 TYPE genepedia
+1 _PET Dog
+1 _BREED Labrador Retriever
+1 FAMS @F1@
+0 @P5@ INDI
+1 NAME Max
+1 SEX M
+1 BIRT
+2 DATE 10 SEP 2021
+1 REFN 5
+2 TYPE genepedia
+1 _PET Dog
+1 _BREED Labrador Retriever
+1 FAMC @F1@
+0 @P6@ INDI
+1 NAME Luna
+1 SEX F
+1 BIRT
+2 DATE 10 SEP 2021
+1 REFN 6
+2 TYPE genepedia
+1 _PET Dog
+1 _BREED Labrador Retriever
+1 FAMC @F1@
+0 @F1@ FAM
+1 HUSB @P1@
+1 WIFE @P4@
+1 CHIL @P5@
+1 CHIL @P6@
+0 TRLR

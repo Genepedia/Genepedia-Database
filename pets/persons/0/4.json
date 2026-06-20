@@ -1,0 +1,98 @@
+{
+  "id": 4,
+  "schema": "genepedia/animal@1",
+  "kind": "pet",
+  "slug": "bella",
+  "species": "Dog",
+  "breed": "Labrador Retriever",
+  "owner": null,
+  "names": {
+    "display": "Bella",
+    "callName": "Bella",
+    "registeredName": null,
+    "aliases": []
+  },
+  "sex": "female",
+  "desexed": null,
+  "living": true,
+  "events": {
+    "birth": {
+      "date": "1 JUN 2018",
+      "year": 2018,
+      "iso": "2018-06-01",
+      "precision": "exact",
+      "display": null,
+      "place": null
+    },
+    "death": null,
+    "adoption": null,
+    "desexing": null
+  },
+  "attributes": {
+    "color": null,
+    "coat": null,
+    "markings": null,
+    "eyeColor": null,
+    "weight": null,
+    "weightHistory": [],
+    "height": null,
+    "heightHistory": [],
+    "temperament": null,
+    "microchipId": null,
+    "registrationNumber": null,
+    "vaccinated": null,
+    "allergies": [],
+    "conditions": []
+  },
+  "training": [],
+  "awards": [],
+  "media": {
+    "primary": null,
+    "items": []
+  },
+  "about": {
+    "hasNarrative": false
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      1
+    ],
+    "exSpouses": [],
+    "children": [
+      5,
+      6
+    ],
+    "siblings": [],
+    "parentUnions": [],
+    "spouseUnions": [
+      "F1"
+    ],
+    "parentLinks": [],
+    "partnerLinks": [
+      {
+        "id": 1,
+        "unionId": "F1",
+        "role": "partner"
+      }
+    ],
+    "childLinks": [
+      {
+        "id": 5,
+        "unionId": "F1",
+        "type": "biological"
+      },
+      {
+        "id": 6,
+        "unionId": "F1",
+        "type": "biological"
+      }
+    ]
+  },
+  "source": {},
+  "page": {
+    "route": "pages/pets/4/",
+    "canonical": "https://www.genepedia.org/pages/pets/4/"
+  },
+  "generatedAt": "2026-06-19T06:31:22.255Z"
+}
