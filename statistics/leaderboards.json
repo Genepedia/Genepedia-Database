@@ -1,7 +1,17 @@
 {
   "schema": "genepedia/statistics/leaderboards@1",
-  "generatedAt": "2026-06-20T00:00:00.000Z",
-  "windows": ["24h", "3d", "7d", "30d", "60d", "90d", "6m", "1y", "all"],
+  "generatedAt": "2026-10-04T01:44:37.267Z",
+  "windows": [
+    "24h",
+    "3d",
+    "7d",
+    "30d",
+    "60d",
+    "90d",
+    "6m",
+    "1y",
+    "all"
+  ],
   "profiles": {
     "24h": [],
     "3d": [],
@@ -12,25 +22,106 @@
     "6m": [],
     "1y": [],
     "all": [
-      { "kind": "person", "person_id": "15", "views": 0 },
-      { "kind": "person", "person_id": "1", "views": 0 },
-      { "kind": "person", "person_id": "2", "views": 0 },
-      { "kind": "person", "person_id": "3", "views": 0 }
+      {
+        "kind": "person",
+        "person_id": "1",
+        "views": 0,
+        "last_viewed_at": "2026-06-20T00:00:00.000Z"
+      },
+      {
+        "kind": "person",
+        "person_id": "15",
+        "views": 0,
+        "last_viewed_at": "2026-06-20T00:00:00.000Z"
+      },
+      {
+        "kind": "person",
+        "person_id": "2",
+        "views": 0,
+        "last_viewed_at": "2026-06-20T00:00:00.000Z"
+      },
+      {
+        "kind": "person",
+        "person_id": "3",
+        "views": 0,
+        "last_viewed_at": "2026-06-20T00:00:00.000Z"
+      }
     ]
   },
   "searches": {
-    "24h": [],
-    "3d": [],
-    "7d": [],
-    "30d": [],
-    "60d": [],
-    "90d": [],
-    "6m": [],
-    "1y": [],
+    "24h": [
+      {
+        "query": "shaun",
+        "count": 1
+      }
+    ],
+    "3d": [
+      {
+        "query": "shaun",
+        "count": 1
+      }
+    ],
+    "7d": [
+      {
+        "query": "shaun",
+        "count": 1
+      }
+    ],
+    "30d": [
+      {
+        "query": "shaun",
+        "count": 1
+      }
+    ],
+    "60d": [
+      {
+        "query": "shaun",
+        "count": 1
+      }
+    ],
+    "90d": [
+      {
+        "query": "shaun",
+        "count": 1
+      }
+    ],
+    "6m": [
+      {
+        "query": "shaun",
+        "count": 1
+      }
+    ],
+    "1y": [
+      {
+        "query": "shaun",
+        "count": 1
+      }
+    ],
     "all": [
-      { "query": "mandela", "count": 12 },
-      { "query": "smith", "count": 8 },
-      { "query": "census 2026", "count": 3 }
+      {
+        "query": "mandela",
+        "count": 12,
+        "last_result_count": 1,
+        "last_searched_at": "2026-06-20T00:00:00.000Z"
+      },
+      {
+        "query": "smith",
+        "count": 8,
+        "last_result_count": 3,
+        "last_searched_at": "2026-06-19T00:00:00.000Z"
+      },
+      {
+        "query": "census 2026",
+        "count": 3,
+        "last_result_count": 0,
+        "last_searched_at": "2026-06-18T00:00:00.000Z"
+      },
+      {
+        "query": "shaun",
+        "count": 1,
+        "last_result_count": 3,
+        "last_searched_at": "2026-10-04T01:44:34.938Z"
+      }
     ]
   }
 }
