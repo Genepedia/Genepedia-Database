@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-04T01:44:37.267Z",
+  "generatedAt": "2026-10-04T09:08:34.520Z",
   "windows": [
     "24h",
     "3d",
@@ -14,14 +14,14 @@
   ],
   "totals": {
     "profileViews": 0,
-    "searches": 24,
+    "searches": 25,
     "profilesTracked": 4,
-    "queriesTracked": 4
+    "queriesTracked": 5
   },
   "today": {
     "date": "2026-10-04",
     "profileViews": 0,
-    "searches": 1
+    "searches": 2
   },
   "popularProfiles": [
     {
@@ -73,6 +73,12 @@
       "count": 1,
       "last_result_count": 3,
       "last_searched_at": "2026-10-04T01:44:34.938Z"
+    },
+    {
+      "query": "zhang",
+      "count": 1,
+      "last_result_count": 0,
+      "last_searched_at": "2026-10-04T09:08:32.030Z"
     }
   ],
   "leaderboards": {
@@ -117,11 +123,19 @@
         {
           "query": "shaun",
           "count": 1
+        },
+        {
+          "query": "zhang",
+          "count": 1
         }
       ],
       "3d": [
         {
           "query": "shaun",
+          "count": 1
+        },
+        {
+          "query": "zhang",
           "count": 1
         }
       ],
@@ -129,11 +143,19 @@
         {
           "query": "shaun",
           "count": 1
+        },
+        {
+          "query": "zhang",
+          "count": 1
         }
       ],
       "30d": [
         {
           "query": "shaun",
+          "count": 1
+        },
+        {
+          "query": "zhang",
           "count": 1
         }
       ],
@@ -141,11 +163,19 @@
         {
           "query": "shaun",
           "count": 1
+        },
+        {
+          "query": "zhang",
+          "count": 1
         }
       ],
       "90d": [
         {
           "query": "shaun",
+          "count": 1
+        },
+        {
+          "query": "zhang",
           "count": 1
         }
       ],
@@ -153,11 +183,19 @@
         {
           "query": "shaun",
           "count": 1
+        },
+        {
+          "query": "zhang",
+          "count": 1
         }
       ],
       "1y": [
         {
           "query": "shaun",
+          "count": 1
+        },
+        {
+          "query": "zhang",
           "count": 1
         }
       ],
@@ -185,6 +223,12 @@
           "count": 1,
           "last_result_count": 3,
           "last_searched_at": "2026-10-04T01:44:34.938Z"
+        },
+        {
+          "query": "zhang",
+          "count": 1,
+          "last_result_count": 0,
+          "last_searched_at": "2026-10-04T09:08:32.030Z"
         }
       ]
     }
