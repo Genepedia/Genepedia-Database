@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/leaderboards@1",
-  "generatedAt": "2026-10-06T21:07:52.072Z",
+  "generatedAt": "2026-10-06T23:02:52.938Z",
   "windows": [
     "24h",
     "3d",
@@ -16,6 +16,11 @@
     "24h": [
       {
         "kind": "person",
+        "person_id": "903",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "2115",
         "views": 1
       },
@@ -42,17 +47,17 @@
       {
         "kind": "person",
         "person_id": "4814",
-        "views": 1
-      },
-      {
-        "kind": "person",
-        "person_id": "903",
         "views": 1
       }
     ],
     "3d": [
       {
         "kind": "person",
+        "person_id": "903",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "2115",
         "views": 1
       },
@@ -84,17 +89,17 @@
       {
         "kind": "person",
         "person_id": "4814",
-        "views": 1
-      },
-      {
-        "kind": "person",
-        "person_id": "903",
         "views": 1
       }
     ],
     "7d": [
       {
         "kind": "person",
+        "person_id": "903",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "2115",
         "views": 1
       },
@@ -126,17 +131,17 @@
       {
         "kind": "person",
         "person_id": "4814",
-        "views": 1
-      },
-      {
-        "kind": "person",
-        "person_id": "903",
         "views": 1
       }
     ],
     "30d": [
       {
         "kind": "person",
+        "person_id": "903",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "2115",
         "views": 1
       },
@@ -168,17 +173,17 @@
       {
         "kind": "person",
         "person_id": "4814",
-        "views": 1
-      },
-      {
-        "kind": "person",
-        "person_id": "903",
         "views": 1
       }
     ],
     "60d": [
       {
         "kind": "person",
+        "person_id": "903",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "2115",
         "views": 1
       },
@@ -210,17 +215,17 @@
       {
         "kind": "person",
         "person_id": "4814",
-        "views": 1
-      },
-      {
-        "kind": "person",
-        "person_id": "903",
         "views": 1
       }
     ],
     "90d": [
       {
         "kind": "person",
+        "person_id": "903",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "2115",
         "views": 1
       },
@@ -252,17 +257,17 @@
       {
         "kind": "person",
         "person_id": "4814",
-        "views": 1
-      },
-      {
-        "kind": "person",
-        "person_id": "903",
         "views": 1
       }
     ],
     "6m": [
       {
         "kind": "person",
+        "person_id": "903",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "2115",
         "views": 1
       },
@@ -294,17 +299,17 @@
       {
         "kind": "person",
         "person_id": "4814",
-        "views": 1
-      },
-      {
-        "kind": "person",
-        "person_id": "903",
         "views": 1
       }
     ],
     "1y": [
       {
         "kind": "person",
+        "person_id": "903",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "2115",
         "views": 1
       },
@@ -337,14 +342,15 @@
         "kind": "person",
         "person_id": "4814",
         "views": 1
-      },
-      {
-        "kind": "person",
-        "person_id": "903",
-        "views": 1
       }
     ],
     "all": [
+      {
+        "kind": "person",
+        "person_id": "903",
+        "views": 2,
+        "last_viewed_at": "2026-10-06T23:02:50.984Z"
+      },
       {
         "kind": "person",
         "person_id": "2115",
@@ -389,12 +395,6 @@
       },
       {
         "kind": "person",
-        "person_id": "903",
-        "views": 1,
-        "last_viewed_at": "2026-10-06T10:16:23.316Z"
-      },
-      {
-        "kind": "person",
         "person_id": "1",
         "views": 0,
         "last_viewed_at": "2026-06-20T00:00:00.000Z"
@@ -423,6 +423,10 @@
     "24h": [
       {
         "query": "kim",
+        "count": 1
+      },
+      {
+        "query": "wang",
         "count": 1
       }
     ],
@@ -454,6 +458,10 @@
       {
         "query": "smith",
         "count": 1
+      },
+      {
+        "query": "wang",
+        "count": 1
       }
     ],
     "7d": [
@@ -483,6 +491,10 @@
       },
       {
         "query": "smith",
+        "count": 1
+      },
+      {
+        "query": "wang",
         "count": 1
       }
     ],
@@ -514,6 +526,10 @@
       {
         "query": "smith",
         "count": 1
+      },
+      {
+        "query": "wang",
+        "count": 1
       }
     ],
     "60d": [
@@ -543,6 +559,10 @@
       },
       {
         "query": "smith",
+        "count": 1
+      },
+      {
+        "query": "wang",
         "count": 1
       }
     ],
@@ -574,6 +594,10 @@
       {
         "query": "smith",
         "count": 1
+      },
+      {
+        "query": "wang",
+        "count": 1
       }
     ],
     "6m": [
@@ -604,6 +628,10 @@
       {
         "query": "smith",
         "count": 1
+      },
+      {
+        "query": "wang",
+        "count": 1
       }
     ],
     "1y": [
@@ -633,6 +661,10 @@
       },
       {
         "query": "smith",
+        "count": 1
+      },
+      {
+        "query": "wang",
         "count": 1
       }
     ],
@@ -690,6 +722,12 @@
         "count": 1,
         "last_result_count": 3,
         "last_searched_at": "2026-10-04T01:44:34.938Z"
+      },
+      {
+        "query": "wang",
+        "count": 1,
+        "last_result_count": 0,
+        "last_searched_at": "2026-10-06T21:58:12.877Z"
       }
     ]
   }
