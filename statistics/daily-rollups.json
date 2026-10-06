@@ -1,18 +1,29 @@
 {
   "schema": "genepedia/statistics/daily-rollups@2",
-  "updatedAt": "2026-10-04T15:15:16.618Z",
+  "updatedAt": "2026-10-06T01:53:26.987Z",
   "days": {
     "2026-10-04": {
-      "profileViews": 0,
-      "searches": 6,
-      "profiles": {},
+      "profileViews": 1,
+      "searches": 9,
+      "profiles": {
+        "person:29": 1
+      },
       "queries": {
         "shaun": 1,
-        "zhang": 2,
+        "zhang": 3,
         "liu": 1,
         "devi": 1,
-        "wu": 1
+        "wu": 2,
+        "smith": 1
       }
+    },
+    "2026-10-06": {
+      "profileViews": 1,
+      "searches": 0,
+      "profiles": {
+        "person:378": 1
+      },
+      "queries": {}
     }
   }
 }
