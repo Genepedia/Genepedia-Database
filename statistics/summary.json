@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-06T01:53:26.987Z",
+  "generatedAt": "2026-10-06T03:25:48.265Z",
   "windows": [
     "24h",
     "3d",
@@ -13,17 +13,23 @@
     "all"
   ],
   "totals": {
-    "profileViews": 2,
+    "profileViews": 3,
     "searches": 32,
-    "profilesTracked": 6,
+    "profilesTracked": 7,
     "queriesTracked": 8
   },
   "today": {
     "date": "2026-10-06",
-    "profileViews": 1,
+    "profileViews": 2,
     "searches": 0
   },
   "popularProfiles": [
+    {
+      "kind": "person",
+      "person_id": "2115",
+      "views": 1,
+      "last_viewed_at": "2026-10-06T03:25:46.443Z"
+    },
     {
       "kind": "person",
       "person_id": "29",
@@ -116,11 +122,21 @@
       "24h": [
         {
           "kind": "person",
+          "person_id": "2115",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "378",
           "views": 1
         }
       ],
       "3d": [
+        {
+          "kind": "person",
+          "person_id": "2115",
+          "views": 1
+        },
         {
           "kind": "person",
           "person_id": "29",
@@ -135,6 +151,11 @@
       "7d": [
         {
           "kind": "person",
+          "person_id": "2115",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "29",
           "views": 1
         },
@@ -145,6 +166,11 @@
         }
       ],
       "30d": [
+        {
+          "kind": "person",
+          "person_id": "2115",
+          "views": 1
+        },
         {
           "kind": "person",
           "person_id": "29",
@@ -159,6 +185,11 @@
       "60d": [
         {
           "kind": "person",
+          "person_id": "2115",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "29",
           "views": 1
         },
@@ -169,6 +200,11 @@
         }
       ],
       "90d": [
+        {
+          "kind": "person",
+          "person_id": "2115",
+          "views": 1
+        },
         {
           "kind": "person",
           "person_id": "29",
@@ -183,6 +219,11 @@
       "6m": [
         {
           "kind": "person",
+          "person_id": "2115",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "29",
           "views": 1
         },
@@ -195,6 +236,11 @@
       "1y": [
         {
           "kind": "person",
+          "person_id": "2115",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "29",
           "views": 1
         },
@@ -205,6 +251,12 @@
         }
       ],
       "all": [
+        {
+          "kind": "person",
+          "person_id": "2115",
+          "views": 1,
+          "last_viewed_at": "2026-10-06T03:25:46.443Z"
+        },
         {
           "kind": "person",
           "person_id": "29",
