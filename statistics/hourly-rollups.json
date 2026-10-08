@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/hourly-rollups@1",
-  "updatedAt": "2026-10-08T12:12:10.308Z",
+  "updatedAt": "2026-10-08T15:09:18.727Z",
   "hours": {
     "2026-10-04T01": {
       "profileViews": 0,
@@ -264,12 +264,22 @@
       }
     },
     "2026-10-08T12": {
-      "profileViews": 1,
+      "profileViews": 3,
       "searches": 0,
       "profiles": {
-        "person:906": 1
+        "person:906": 1,
+        "person:3574": 1,
+        "person:1414": 1
       },
       "queries": {}
+    },
+    "2026-10-08T15": {
+      "profileViews": 0,
+      "searches": 1,
+      "profiles": {},
+      "queries": {
+        "kumar": 1
+      }
     }
   }
 }
