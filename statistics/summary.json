@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-08T04:06:27.925Z",
+  "generatedAt": "2026-10-08T06:13:11.866Z",
   "windows": [
     "24h",
     "3d",
@@ -14,14 +14,14 @@
   ],
   "totals": {
     "profileViews": 32,
-    "searches": 37,
+    "searches": 38,
     "profilesTracked": 34,
-    "queriesTracked": 11
+    "queriesTracked": 12
   },
   "today": {
     "date": "2026-10-08",
     "profileViews": 4,
-    "searches": 0
+    "searches": 1
   },
   "popularProfiles": [
     {
@@ -159,11 +159,6 @@
         {
           "kind": "person",
           "person_id": "3792",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "4683",
           "views": 1
         },
         {
@@ -1176,15 +1171,15 @@
     "searches": {
       "24h": [
         {
+          "query": "elon",
+          "count": 1
+        },
+        {
           "query": "kim",
           "count": 1
         },
         {
           "query": "kumar",
-          "count": 1
-        },
-        {
-          "query": "liu",
           "count": 1
         }
       ],
@@ -1192,6 +1187,10 @@
         {
           "query": "kim",
           "count": 2
+        },
+        {
+          "query": "elon",
+          "count": 1
         },
         {
           "query": "kumar",
@@ -1225,6 +1224,10 @@
         },
         {
           "query": "devi",
+          "count": 1
+        },
+        {
+          "query": "elon",
           "count": 1
         },
         {
@@ -1266,6 +1269,10 @@
           "count": 1
         },
         {
+          "query": "elon",
+          "count": 1
+        },
+        {
           "query": "kumar",
           "count": 1
         },
@@ -1301,6 +1308,10 @@
         },
         {
           "query": "devi",
+          "count": 1
+        },
+        {
+          "query": "elon",
           "count": 1
         },
         {
@@ -1342,6 +1353,10 @@
           "count": 1
         },
         {
+          "query": "elon",
+          "count": 1
+        },
+        {
           "query": "kumar",
           "count": 1
         },
@@ -1380,6 +1395,10 @@
           "count": 1
         },
         {
+          "query": "elon",
+          "count": 1
+        },
+        {
           "query": "kumar",
           "count": 1
         },
@@ -1415,6 +1434,10 @@
         },
         {
           "query": "devi",
+          "count": 1
+        },
+        {
+          "query": "elon",
           "count": 1
         },
         {
@@ -1482,6 +1505,12 @@
           "count": 1,
           "last_result_count": 0,
           "last_searched_at": "2026-10-04T13:00:55.945Z"
+        },
+        {
+          "query": "elon",
+          "count": 1,
+          "last_result_count": 0,
+          "last_searched_at": "2026-10-08T06:13:09.453Z"
         },
         {
           "query": "kumar",
