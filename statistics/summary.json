@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-12T23:06:26.761Z",
+  "generatedAt": "2026-10-12T23:34:49.349Z",
   "windows": [
     "24h",
     "3d",
@@ -13,15 +13,15 @@
     "all"
   ],
   "totals": {
-    "profileViews": 88,
-    "searches": 60,
-    "profilesTracked": 86,
+    "profileViews": 90,
+    "searches": 62,
+    "profilesTracked": 87,
     "queriesTracked": 17
   },
   "today": {
     "date": "2026-10-12",
-    "profileViews": 13,
-    "searches": 2
+    "profileViews": 15,
+    "searches": 4
   },
   "popularProfiles": [
     {
@@ -29,6 +29,12 @@
       "person_id": "3",
       "views": 2,
       "last_viewed_at": "2026-10-09T04:16:54.956Z"
+    },
+    {
+      "kind": "person",
+      "person_id": "371",
+      "views": 2,
+      "last_viewed_at": "2026-10-12T22:41:56.519Z"
     },
     {
       "kind": "person",
@@ -65,12 +71,6 @@
       "person_id": "1165",
       "views": 1,
       "last_viewed_at": "2026-10-09T03:09:39.934Z"
-    },
-    {
-      "kind": "person",
-      "person_id": "1166",
-      "views": 1,
-      "last_viewed_at": "2026-10-10T11:07:50.912Z"
     }
   ],
   "popularSearches": [
@@ -87,6 +87,12 @@
       "last_searched_at": "2026-10-04T15:15:25.025Z"
     },
     {
+      "query": "liu",
+      "count": 6,
+      "last_result_count": 38,
+      "last_searched_at": "2026-10-12T23:06:24.984Z"
+    },
+    {
       "query": "elon",
       "count": 4,
       "last_result_count": 0,
@@ -97,12 +103,6 @@
       "count": 4,
       "last_result_count": 2,
       "last_searched_at": "2026-10-08T16:21:32.018Z"
-    },
-    {
-      "query": "liu",
-      "count": 4,
-      "last_result_count": 38,
-      "last_searched_at": "2026-10-12T23:06:24.984Z"
     },
     {
       "query": "zhang",
@@ -126,6 +126,11 @@
   "leaderboards": {
     "profiles": {
       "24h": [
+        {
+          "kind": "person",
+          "person_id": "371",
+          "views": 2
+        },
         {
           "kind": "person",
           "person_id": "140",
@@ -163,12 +168,12 @@
         },
         {
           "kind": "person",
-          "person_id": "371",
+          "person_id": "6",
           "views": 1
         },
         {
           "kind": "person",
-          "person_id": "6",
+          "person_id": "882",
           "views": 1
         },
         {
@@ -193,6 +198,11 @@
         }
       ],
       "3d": [
+        {
+          "kind": "person",
+          "person_id": "371",
+          "views": 2
+        },
         {
           "kind": "person",
           "person_id": "1166",
@@ -307,17 +317,17 @@
           "kind": "person",
           "person_id": "3606",
           "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "3698",
-          "views": 1
         }
       ],
       "7d": [
         {
           "kind": "person",
           "person_id": "3",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "371",
           "views": 2
         },
         {
@@ -428,11 +438,6 @@
         {
           "kind": "person",
           "person_id": "1412",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1414",
           "views": 1
         }
       ],
@@ -444,6 +449,11 @@
         },
         {
           "kind": "person",
+          "person_id": "371",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "376",
           "views": 2
         },
@@ -550,11 +560,6 @@
         {
           "kind": "person",
           "person_id": "1412",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1414",
           "views": 1
         }
       ],
@@ -566,6 +571,11 @@
         },
         {
           "kind": "person",
+          "person_id": "371",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "376",
           "views": 2
         },
@@ -672,11 +682,6 @@
         {
           "kind": "person",
           "person_id": "1412",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1414",
           "views": 1
         }
       ],
@@ -688,6 +693,11 @@
         },
         {
           "kind": "person",
+          "person_id": "371",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "376",
           "views": 2
         },
@@ -794,11 +804,6 @@
         {
           "kind": "person",
           "person_id": "1412",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1414",
           "views": 1
         }
       ],
@@ -810,6 +815,11 @@
         },
         {
           "kind": "person",
+          "person_id": "371",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "376",
           "views": 2
         },
@@ -916,11 +926,6 @@
         {
           "kind": "person",
           "person_id": "1412",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1414",
           "views": 1
         }
       ],
@@ -932,6 +937,11 @@
         },
         {
           "kind": "person",
+          "person_id": "371",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "376",
           "views": 2
         },
@@ -1039,11 +1049,6 @@
           "kind": "person",
           "person_id": "1412",
           "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1414",
-          "views": 1
         }
       ],
       "all": [
@@ -1052,6 +1057,12 @@
           "person_id": "3",
           "views": 2,
           "last_viewed_at": "2026-10-09T04:16:54.956Z"
+        },
+        {
+          "kind": "person",
+          "person_id": "371",
+          "views": 2,
+          "last_viewed_at": "2026-10-12T22:41:56.519Z"
         },
         {
           "kind": "person",
@@ -1184,12 +1195,6 @@
           "person_id": "1412",
           "views": 1,
           "last_viewed_at": "2026-10-11T23:17:23.402Z"
-        },
-        {
-          "kind": "person",
-          "person_id": "1414",
-          "views": 1,
-          "last_viewed_at": "2026-10-08T12:28:00.153Z"
         }
       ]
     },
@@ -1197,10 +1202,14 @@
       "24h": [
         {
           "query": "liu",
-          "count": 2
+          "count": 4
         }
       ],
       "3d": [
+        {
+          "query": "liu",
+          "count": 4
+        },
         {
           "query": "roselt",
           "count": 3
@@ -1211,10 +1220,6 @@
         },
         {
           "query": "garcia",
-          "count": 2
-        },
-        {
-          "query": "liu",
           "count": 2
         },
         {
@@ -1236,6 +1241,10 @@
       ],
       "7d": [
         {
+          "query": "liu",
+          "count": 5
+        },
+        {
           "query": "elon",
           "count": 4
         },
@@ -1245,10 +1254,6 @@
         },
         {
           "query": "kumar",
-          "count": 3
-        },
-        {
-          "query": "liu",
           "count": 3
         },
         {
@@ -1290,6 +1295,10 @@
       ],
       "30d": [
         {
+          "query": "liu",
+          "count": 5
+        },
+        {
           "query": "elon",
           "count": 4
         },
@@ -1299,10 +1308,6 @@
         },
         {
           "query": "kumar",
-          "count": 3
-        },
-        {
-          "query": "liu",
           "count": 3
         },
         {
@@ -1344,6 +1349,10 @@
       ],
       "60d": [
         {
+          "query": "liu",
+          "count": 5
+        },
+        {
           "query": "elon",
           "count": 4
         },
@@ -1353,10 +1362,6 @@
         },
         {
           "query": "kumar",
-          "count": 3
-        },
-        {
-          "query": "liu",
           "count": 3
         },
         {
@@ -1398,6 +1403,10 @@
       ],
       "90d": [
         {
+          "query": "liu",
+          "count": 5
+        },
+        {
           "query": "elon",
           "count": 4
         },
@@ -1407,10 +1416,6 @@
         },
         {
           "query": "kumar",
-          "count": 3
-        },
-        {
-          "query": "liu",
           "count": 3
         },
         {
@@ -1452,6 +1457,10 @@
       ],
       "6m": [
         {
+          "query": "liu",
+          "count": 5
+        },
+        {
           "query": "elon",
           "count": 4
         },
@@ -1461,10 +1470,6 @@
         },
         {
           "query": "kumar",
-          "count": 3
-        },
-        {
-          "query": "liu",
           "count": 3
         },
         {
@@ -1506,6 +1511,10 @@
       ],
       "1y": [
         {
+          "query": "liu",
+          "count": 5
+        },
+        {
           "query": "elon",
           "count": 4
         },
@@ -1515,10 +1524,6 @@
         },
         {
           "query": "kumar",
-          "count": 3
-        },
-        {
-          "query": "liu",
           "count": 3
         },
         {
@@ -1572,6 +1577,12 @@
           "last_searched_at": "2026-10-04T15:15:25.025Z"
         },
         {
+          "query": "liu",
+          "count": 6,
+          "last_result_count": 38,
+          "last_searched_at": "2026-10-12T23:06:24.984Z"
+        },
+        {
           "query": "elon",
           "count": 4,
           "last_result_count": 0,
@@ -1582,12 +1593,6 @@
           "count": 4,
           "last_result_count": 2,
           "last_searched_at": "2026-10-08T16:21:32.018Z"
-        },
-        {
-          "query": "liu",
-          "count": 4,
-          "last_result_count": 38,
-          "last_searched_at": "2026-10-12T23:06:24.984Z"
         },
         {
           "query": "zhang",
