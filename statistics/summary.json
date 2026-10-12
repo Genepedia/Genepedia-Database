@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-12T21:46:50.468Z",
+  "generatedAt": "2026-10-12T23:06:26.761Z",
   "windows": [
     "24h",
     "3d",
@@ -13,15 +13,15 @@
     "all"
   ],
   "totals": {
-    "profileViews": 87,
-    "searches": 58,
-    "profilesTracked": 85,
+    "profileViews": 88,
+    "searches": 60,
+    "profilesTracked": 86,
     "queriesTracked": 17
   },
   "today": {
     "date": "2026-10-12",
-    "profileViews": 12,
-    "searches": 0
+    "profileViews": 13,
+    "searches": 2
   },
   "popularProfiles": [
     {
@@ -99,6 +99,12 @@
       "last_searched_at": "2026-10-08T16:21:32.018Z"
     },
     {
+      "query": "liu",
+      "count": 4,
+      "last_result_count": 38,
+      "last_searched_at": "2026-10-12T23:06:24.984Z"
+    },
+    {
       "query": "zhang",
       "count": 4,
       "last_result_count": 0,
@@ -115,12 +121,6 @@
       "count": 3,
       "last_result_count": 0,
       "last_searched_at": "2026-10-09T21:55:39.173Z"
-    },
-    {
-      "query": "roselt",
-      "count": 3,
-      "last_result_count": 88,
-      "last_searched_at": "2026-10-11T23:07:55.389Z"
     }
   ],
   "leaderboards": {
@@ -134,11 +134,6 @@
         {
           "kind": "person",
           "person_id": "1400",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1412",
           "views": 1
         },
         {
@@ -164,6 +159,11 @@
         {
           "kind": "person",
           "person_id": "370",
+          "views": 1
+        },
+        {
+          "kind": "person",
+          "person_id": "371",
           "views": 1
         },
         {
@@ -1196,8 +1196,8 @@
     "searches": {
       "24h": [
         {
-          "query": "roselt",
-          "count": 1
+          "query": "liu",
+          "count": 2
         }
       ],
       "3d": [
@@ -1211,6 +1211,10 @@
         },
         {
           "query": "garcia",
+          "count": 2
+        },
+        {
+          "query": "liu",
           "count": 2
         },
         {
@@ -1244,6 +1248,10 @@
           "count": 3
         },
         {
+          "query": "liu",
+          "count": 3
+        },
+        {
           "query": "roselt",
           "count": 3
         },
@@ -1261,10 +1269,6 @@
         },
         {
           "query": "devi",
-          "count": 1
-        },
-        {
-          "query": "liu",
           "count": 1
         },
         {
@@ -1298,6 +1302,10 @@
           "count": 3
         },
         {
+          "query": "liu",
+          "count": 3
+        },
+        {
           "query": "roselt",
           "count": 3
         },
@@ -1315,10 +1323,6 @@
         },
         {
           "query": "devi",
-          "count": 1
-        },
-        {
-          "query": "liu",
           "count": 1
         },
         {
@@ -1352,6 +1356,10 @@
           "count": 3
         },
         {
+          "query": "liu",
+          "count": 3
+        },
+        {
           "query": "roselt",
           "count": 3
         },
@@ -1369,10 +1377,6 @@
         },
         {
           "query": "devi",
-          "count": 1
-        },
-        {
-          "query": "liu",
           "count": 1
         },
         {
@@ -1406,6 +1410,10 @@
           "count": 3
         },
         {
+          "query": "liu",
+          "count": 3
+        },
+        {
           "query": "roselt",
           "count": 3
         },
@@ -1423,10 +1431,6 @@
         },
         {
           "query": "devi",
-          "count": 1
-        },
-        {
-          "query": "liu",
           "count": 1
         },
         {
@@ -1460,6 +1464,10 @@
           "count": 3
         },
         {
+          "query": "liu",
+          "count": 3
+        },
+        {
           "query": "roselt",
           "count": 3
         },
@@ -1477,10 +1485,6 @@
         },
         {
           "query": "devi",
-          "count": 1
-        },
-        {
-          "query": "liu",
           "count": 1
         },
         {
@@ -1514,6 +1518,10 @@
           "count": 3
         },
         {
+          "query": "liu",
+          "count": 3
+        },
+        {
           "query": "roselt",
           "count": 3
         },
@@ -1531,10 +1539,6 @@
         },
         {
           "query": "devi",
-          "count": 1
-        },
-        {
-          "query": "liu",
           "count": 1
         },
         {
@@ -1580,6 +1584,12 @@
           "last_searched_at": "2026-10-08T16:21:32.018Z"
         },
         {
+          "query": "liu",
+          "count": 4,
+          "last_result_count": 38,
+          "last_searched_at": "2026-10-12T23:06:24.984Z"
+        },
+        {
           "query": "zhang",
           "count": 4,
           "last_result_count": 0,
@@ -1620,12 +1630,6 @@
           "count": 2,
           "last_result_count": 0,
           "last_searched_at": "2026-10-11T01:35:24.935Z"
-        },
-        {
-          "query": "liu",
-          "count": 2,
-          "last_result_count": 38,
-          "last_searched_at": "2026-10-07T06:51:49.943Z"
         },
         {
           "query": "shaun",
