@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/daily-rollups@2",
-  "updatedAt": "2026-10-14T23:10:08.657Z",
+  "updatedAt": "2026-10-15T00:10:55.635Z",
   "days": {
     "2026-10-04": {
       "profileViews": 1,
@@ -288,8 +288,8 @@
       }
     },
     "2026-10-14": {
-      "profileViews": 35,
-      "searches": 4,
+      "profileViews": 38,
+      "searches": 5,
       "profiles": {
         "person:3627": 2,
         "person:566": 1,
@@ -304,7 +304,7 @@
         "person:4679": 2,
         "person:3637": 2,
         "person:4959": 1,
-        "person:1864": 1,
+        "person:1864": 2,
         "person:170": 1,
         "person:3901": 1,
         "person:1123": 1,
@@ -321,14 +321,24 @@
         "person:1925": 1,
         "person:1402": 1,
         "person:3206": 1,
-        "person:4957": 1
+        "person:4957": 1,
+        "person:3630": 1,
+        "person:3710": 1
       },
       "queries": {
         "2026": 1,
-        "liu": 1,
+        "liu": 2,
         "nguyen": 1,
         "mandela": 1
       }
+    },
+    "2026-10-15": {
+      "profileViews": 1,
+      "searches": 0,
+      "profiles": {
+        "person:1286": 1
+      },
+      "queries": {}
     }
   }
 }
