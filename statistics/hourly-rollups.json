@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/hourly-rollups@1",
-  "updatedAt": "2026-10-15T09:35:40.361Z",
+  "updatedAt": "2026-10-15T10:45:16.159Z",
   "hours": {
     "2026-10-07T14": {
       "profileViews": 0,
@@ -1059,13 +1059,26 @@
       "queries": {}
     },
     "2026-10-15T09": {
-      "profileViews": 2,
+      "profileViews": 3,
       "searches": 0,
       "profiles": {
         "person:4052": 1,
-        "person:3626": 1
+        "person:3626": 1,
+        "person:3207": 1
       },
       "queries": {}
+    },
+    "2026-10-15T10": {
+      "profileViews": 3,
+      "searches": 1,
+      "profiles": {
+        "person:1284": 1,
+        "person:4956": 1,
+        "person:2019": 1
+      },
+      "queries": {
+        "mandela": 1
+      }
     }
   }
 }
