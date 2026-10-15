@@ -1,15 +1,7 @@
 {
   "schema": "genepedia/statistics/hourly-rollups@1",
-  "updatedAt": "2026-10-15T19:55:33.773Z",
+  "updatedAt": "2026-10-15T21:56:33.294Z",
   "hours": {
-    "2026-10-07T20": {
-      "profileViews": 1,
-      "searches": 0,
-      "profiles": {
-        "person:3": 1
-      },
-      "queries": {}
-    },
     "2026-10-07T22": {
       "profileViews": 1,
       "searches": 0,
@@ -1141,15 +1133,35 @@
       }
     },
     "2026-10-15T19": {
-      "profileViews": 2,
+      "profileViews": 3,
       "searches": 1,
       "profiles": {
         "person:3623": 1,
-        "person:1404": 1
+        "person:1404": 1,
+        "person:4682": 1
       },
       "queries": {
         "huang": 1
       }
+    },
+    "2026-10-15T20": {
+      "profileViews": 2,
+      "searches": 1,
+      "profiles": {
+        "person:3653": 1,
+        "person:3630": 1
+      },
+      "queries": {
+        "kumar": 1
+      }
+    },
+    "2026-10-15T21": {
+      "profileViews": 1,
+      "searches": 0,
+      "profiles": {
+        "person:1543": 1
+      },
+      "queries": {}
     }
   }
 }
