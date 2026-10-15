@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-15T13:03:29.003Z",
+  "generatedAt": "2026-10-15T15:04:08.288Z",
   "windows": [
     "24h",
     "3d",
@@ -13,14 +13,14 @@
     "all"
   ],
   "totals": {
-    "profileViews": 269,
+    "profileViews": 271,
     "searches": 74,
-    "profilesTracked": 224,
+    "profilesTracked": 226,
     "queriesTracked": 20
   },
   "today": {
     "date": "2026-10-15",
-    "profileViews": 41,
+    "profileViews": 43,
     "searches": 3
   },
   "popularProfiles": [
@@ -208,6 +208,11 @@
         },
         {
           "kind": "person",
+          "person_id": "2020",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "2026",
           "views": 1
         },
@@ -239,11 +244,6 @@
         {
           "kind": "person",
           "person_id": "3207",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "3297",
           "views": 1
         }
       ],
@@ -1307,11 +1307,11 @@
           "count": 7
         },
         {
-          "query": "kumar",
-          "count": 4
+          "query": "elon",
+          "count": 3
         },
         {
-          "query": "elon",
+          "query": "kumar",
           "count": 3
         },
         {
@@ -1385,15 +1385,15 @@
           "count": 4
         },
         {
-          "query": "kim",
-          "count": 4
-        },
-        {
           "query": "zhang",
           "count": 4
         },
         {
           "query": "devi",
+          "count": 3
+        },
+        {
+          "query": "kim",
           "count": 3
         },
         {
@@ -1463,15 +1463,15 @@
           "count": 4
         },
         {
-          "query": "kim",
-          "count": 4
-        },
-        {
           "query": "zhang",
           "count": 4
         },
         {
           "query": "devi",
+          "count": 3
+        },
+        {
+          "query": "kim",
           "count": 3
         },
         {
@@ -1541,15 +1541,15 @@
           "count": 4
         },
         {
-          "query": "kim",
-          "count": 4
-        },
-        {
           "query": "zhang",
           "count": 4
         },
         {
           "query": "devi",
+          "count": 3
+        },
+        {
+          "query": "kim",
           "count": 3
         },
         {
@@ -1619,15 +1619,15 @@
           "count": 4
         },
         {
-          "query": "kim",
-          "count": 4
-        },
-        {
           "query": "zhang",
           "count": 4
         },
         {
           "query": "devi",
+          "count": 3
+        },
+        {
+          "query": "kim",
           "count": 3
         },
         {
@@ -1697,15 +1697,15 @@
           "count": 4
         },
         {
-          "query": "kim",
-          "count": 4
-        },
-        {
           "query": "zhang",
           "count": 4
         },
         {
           "query": "devi",
+          "count": 3
+        },
+        {
+          "query": "kim",
           "count": 3
         },
         {
