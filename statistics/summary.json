@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-15T18:41:00.471Z",
+  "generatedAt": "2026-10-15T19:55:33.773Z",
   "windows": [
     "24h",
     "3d",
@@ -13,15 +13,15 @@
     "all"
   ],
   "totals": {
-    "profileViews": 287,
-    "searches": 77,
-    "profilesTracked": 237,
-    "queriesTracked": 21
+    "profileViews": 292,
+    "searches": 78,
+    "profilesTracked": 242,
+    "queriesTracked": 22
   },
   "today": {
     "date": "2026-10-15",
-    "profileViews": 59,
-    "searches": 6
+    "profileViews": 64,
+    "searches": 7
   },
   "popularProfiles": [
     {
@@ -198,6 +198,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1404",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "15",
           "views": 1
         },
@@ -239,11 +244,6 @@
         {
           "kind": "person",
           "person_id": "2269",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "2901",
           "views": 1
         }
       ],
@@ -1259,11 +1259,15 @@
           "count": 2
         },
         {
-          "query": "nguyen",
-          "count": 2
+          "query": "huang",
+          "count": 1
         },
         {
           "query": "liu",
+          "count": 1
+        },
+        {
+          "query": "nguyen",
           "count": 1
         },
         {
@@ -1298,6 +1302,10 @@
         },
         {
           "query": "devi",
+          "count": 1
+        },
+        {
+          "query": "huang",
           "count": 1
         },
         {
@@ -1352,6 +1360,10 @@
         },
         {
           "query": "chen",
+          "count": 1
+        },
+        {
+          "query": "huang",
           "count": 1
         },
         {
@@ -1437,6 +1449,10 @@
           "count": 1
         },
         {
+          "query": "huang",
+          "count": 1
+        },
+        {
           "query": "patel",
           "count": 1
         },
@@ -1516,6 +1532,10 @@
         },
         {
           "query": "chen",
+          "count": 1
+        },
+        {
+          "query": "huang",
           "count": 1
         },
         {
@@ -1601,6 +1621,10 @@
           "count": 1
         },
         {
+          "query": "huang",
+          "count": 1
+        },
+        {
           "query": "patel",
           "count": 1
         },
@@ -1683,6 +1707,10 @@
           "count": 1
         },
         {
+          "query": "huang",
+          "count": 1
+        },
+        {
           "query": "patel",
           "count": 1
         },
@@ -1762,6 +1790,10 @@
         },
         {
           "query": "chen",
+          "count": 1
+        },
+        {
+          "query": "huang",
           "count": 1
         },
         {
@@ -1887,6 +1919,12 @@
           "count": 1,
           "last_result_count": 0,
           "last_searched_at": "2026-10-09T05:14:21.945Z"
+        },
+        {
+          "query": "huang",
+          "count": 1,
+          "last_result_count": 0,
+          "last_searched_at": "2026-10-15T19:04:46.063Z"
         },
         {
           "query": "patel",
