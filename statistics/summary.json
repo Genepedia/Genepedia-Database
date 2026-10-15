@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-15T11:59:30.036Z",
+  "generatedAt": "2026-10-15T13:03:29.003Z",
   "windows": [
     "24h",
     "3d",
@@ -13,14 +13,14 @@
     "all"
   ],
   "totals": {
-    "profileViews": 267,
+    "profileViews": 269,
     "searches": 74,
-    "profilesTracked": 223,
+    "profilesTracked": 224,
     "queriesTracked": 20
   },
   "today": {
     "date": "2026-10-15",
-    "profileViews": 39,
+    "profileViews": 41,
     "searches": 3
   },
   "popularProfiles": [
@@ -223,6 +223,11 @@
         },
         {
           "kind": "person",
+          "person_id": "2901",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "3200",
           "views": 1
         },
@@ -239,11 +244,6 @@
         {
           "kind": "person",
           "person_id": "3297",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "3626",
           "views": 1
         }
       ],
@@ -387,11 +387,6 @@
         },
         {
           "kind": "person",
-          "person_id": "906",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "1284",
           "views": 2
         },
@@ -488,6 +483,11 @@
         {
           "kind": "person",
           "person_id": "4956",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "4959",
           "views": 2
         }
       ],
@@ -1194,6 +1194,12 @@
         },
         {
           "kind": "person",
+          "person_id": "2901",
+          "views": 2,
+          "last_viewed_at": "2026-10-15T13:03:26.177Z"
+        },
+        {
+          "kind": "person",
           "person_id": "3",
           "views": 2,
           "last_viewed_at": "2026-10-09T04:16:54.956Z"
@@ -1239,12 +1245,6 @@
           "person_id": "3630",
           "views": 2,
           "last_viewed_at": "2026-10-15T11:00:58.067Z"
-        },
-        {
-          "kind": "person",
-          "person_id": "3637",
-          "views": 2,
-          "last_viewed_at": "2026-10-14T22:33:00.676Z"
         }
       ]
     },
