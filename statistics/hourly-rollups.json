@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/hourly-rollups@1",
-  "updatedAt": "2026-10-16T01:33:43.403Z",
+  "updatedAt": "2026-10-16T02:40:22.035Z",
   "hours": {
     "2026-10-08T02": {
       "profileViews": 2,
@@ -1188,11 +1188,23 @@
       }
     },
     "2026-10-16T01": {
-      "profileViews": 2,
+      "profileViews": 3,
       "searches": 0,
       "profiles": {
         "person:1288": 1,
-        "person:3634": 1
+        "person:3634": 1,
+        "person:1443": 1
+      },
+      "queries": {}
+    },
+    "2026-10-16T02": {
+      "profileViews": 4,
+      "searches": 0,
+      "profiles": {
+        "person:3632": 1,
+        "person:3629": 1,
+        "person:298": 1,
+        "person:3200": 1
       },
       "queries": {}
     }
