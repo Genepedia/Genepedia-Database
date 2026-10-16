@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/daily-rollups@2",
-  "updatedAt": "2026-10-16T00:13:35.368Z",
+  "updatedAt": "2026-10-16T01:33:43.403Z",
   "days": {
     "2026-10-04": {
       "profileViews": 1,
@@ -420,12 +420,18 @@
       }
     },
     "2026-10-16": {
-      "profileViews": 1,
-      "searches": 0,
+      "profileViews": 6,
+      "searches": 1,
       "profiles": {
-        "person:2023": 1
+        "person:2023": 2,
+        "person:1405": 1,
+        "person:3652": 1,
+        "person:1288": 1,
+        "person:3634": 1
       },
-      "queries": {}
+      "queries": {
+        "kim": 1
+      }
     }
   }
 }
