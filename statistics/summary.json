@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-16T14:57:22.311Z",
+  "generatedAt": "2026-10-16T16:01:42.863Z",
   "windows": [
     "24h",
     "3d",
@@ -13,14 +13,14 @@
     "all"
   ],
   "totals": {
-    "profileViews": 398,
+    "profileViews": 416,
     "searches": 87,
-    "profilesTracked": 332,
+    "profilesTracked": 348,
     "queriesTracked": 23
   },
   "today": {
     "date": "2026-10-16",
-    "profileViews": 93,
+    "profileViews": 111,
     "searches": 5
   },
   "popularProfiles": [
@@ -50,6 +50,12 @@
     },
     {
       "kind": "person",
+      "person_id": "3200",
+      "views": 3,
+      "last_viewed_at": "2026-10-16T15:37:23.456Z"
+    },
+    {
+      "kind": "person",
       "person_id": "3207",
       "views": 3,
       "last_viewed_at": "2026-10-15T09:46:05.811Z"
@@ -65,12 +71,6 @@
       "person_id": "3627",
       "views": 3,
       "last_viewed_at": "2026-10-16T09:16:40.451Z"
-    },
-    {
-      "kind": "person",
-      "person_id": "3630",
-      "views": 3,
-      "last_viewed_at": "2026-10-15T20:52:42.602Z"
     }
   ],
   "popularSearches": [
@@ -128,17 +128,17 @@
       "24h": [
         {
           "kind": "person",
-          "person_id": "1287",
-          "views": 2
-        },
-        {
-          "kind": "person",
           "person_id": "2023",
           "views": 2
         },
         {
           "kind": "person",
           "person_id": "3197",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "3200",
           "views": 2
         },
         {
@@ -150,6 +150,11 @@
           "kind": "person",
           "person_id": "3632",
           "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "1047",
+          "views": 1
         },
         {
           "kind": "person",
@@ -183,7 +188,17 @@
         },
         {
           "kind": "person",
+          "person_id": "1172",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "1272",
+          "views": 1
+        },
+        {
+          "kind": "person",
+          "person_id": "1287",
           "views": 1
         },
         {
@@ -218,11 +233,6 @@
         },
         {
           "kind": "person",
-          "person_id": "1401",
-          "views": 1
-        },
-        {
-          "kind": "person",
           "person_id": "1403",
           "views": 1
         },
@@ -234,16 +244,6 @@
         {
           "kind": "person",
           "person_id": "1405",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1407",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1443",
           "views": 1
         }
       ],
@@ -260,17 +260,17 @@
         },
         {
           "kind": "person",
+          "person_id": "3200",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "3627",
           "views": 3
         },
         {
           "kind": "person",
           "person_id": "3630",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "3632",
           "views": 3
         },
         {
@@ -305,11 +305,6 @@
         },
         {
           "kind": "person",
-          "person_id": "3200",
-          "views": 2
-        },
-        {
-          "kind": "person",
           "person_id": "3207",
           "views": 2
         },
@@ -326,6 +321,11 @@
         {
           "kind": "person",
           "person_id": "3625",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "3632",
           "views": 2
         },
         {
@@ -365,7 +365,7 @@
         },
         {
           "kind": "person",
-          "person_id": "1051",
+          "person_id": "1047",
           "views": 1
         }
       ],
@@ -378,6 +378,11 @@
         {
           "kind": "person",
           "person_id": "1864",
+          "views": 3
+        },
+        {
+          "kind": "person",
+          "person_id": "3200",
           "views": 3
         },
         {
@@ -453,11 +458,6 @@
         {
           "kind": "person",
           "person_id": "3197",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "3200",
           "views": 2
         },
         {
@@ -514,6 +514,11 @@
         },
         {
           "kind": "person",
+          "person_id": "3200",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "3207",
           "views": 3
         },
@@ -544,11 +549,6 @@
         },
         {
           "kind": "person",
-          "person_id": "376",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "4681",
           "views": 3
         },
@@ -565,6 +565,11 @@
         {
           "kind": "person",
           "person_id": "1123",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "1172",
           "views": 2
         },
         {
@@ -605,11 +610,6 @@
         {
           "kind": "person",
           "person_id": "2251",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2269",
           "views": 2
         }
       ],
@@ -636,6 +636,11 @@
         },
         {
           "kind": "person",
+          "person_id": "3200",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "3207",
           "views": 3
         },
@@ -666,11 +671,6 @@
         },
         {
           "kind": "person",
-          "person_id": "376",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "4681",
           "views": 3
         },
@@ -687,6 +687,11 @@
         {
           "kind": "person",
           "person_id": "1123",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "1172",
           "views": 2
         },
         {
@@ -727,11 +732,6 @@
         {
           "kind": "person",
           "person_id": "2251",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2269",
           "views": 2
         }
       ],
@@ -758,6 +758,11 @@
         },
         {
           "kind": "person",
+          "person_id": "3200",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "3207",
           "views": 3
         },
@@ -788,11 +793,6 @@
         },
         {
           "kind": "person",
-          "person_id": "376",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "4681",
           "views": 3
         },
@@ -809,6 +809,11 @@
         {
           "kind": "person",
           "person_id": "1123",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "1172",
           "views": 2
         },
         {
@@ -849,11 +854,6 @@
         {
           "kind": "person",
           "person_id": "2251",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2269",
           "views": 2
         }
       ],
@@ -880,6 +880,11 @@
         },
         {
           "kind": "person",
+          "person_id": "3200",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "3207",
           "views": 3
         },
@@ -910,11 +915,6 @@
         },
         {
           "kind": "person",
-          "person_id": "376",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "4681",
           "views": 3
         },
@@ -931,6 +931,11 @@
         {
           "kind": "person",
           "person_id": "1123",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "1172",
           "views": 2
         },
         {
@@ -971,11 +976,6 @@
         {
           "kind": "person",
           "person_id": "2251",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2269",
           "views": 2
         }
       ],
@@ -1002,6 +1002,11 @@
         },
         {
           "kind": "person",
+          "person_id": "3200",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "3207",
           "views": 3
         },
@@ -1032,11 +1037,6 @@
         },
         {
           "kind": "person",
-          "person_id": "376",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "4681",
           "views": 3
         },
@@ -1053,6 +1053,11 @@
         {
           "kind": "person",
           "person_id": "1123",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "1172",
           "views": 2
         },
         {
@@ -1093,11 +1098,6 @@
         {
           "kind": "person",
           "person_id": "2251",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2269",
           "views": 2
         }
       ],
@@ -1125,6 +1125,12 @@
           "person_id": "1864",
           "views": 3,
           "last_viewed_at": "2026-10-15T17:17:23.250Z"
+        },
+        {
+          "kind": "person",
+          "person_id": "3200",
+          "views": 3,
+          "last_viewed_at": "2026-10-16T15:37:23.456Z"
         },
         {
           "kind": "person",
@@ -1200,6 +1206,12 @@
         },
         {
           "kind": "person",
+          "person_id": "1172",
+          "views": 2,
+          "last_viewed_at": "2026-10-16T15:20:07.090Z"
+        },
+        {
+          "kind": "person",
           "person_id": "1284",
           "views": 2,
           "last_viewed_at": "2026-10-15T10:17:15.237Z"
@@ -1233,18 +1245,6 @@
           "person_id": "2023",
           "views": 2,
           "last_viewed_at": "2026-10-16T00:37:23.699Z"
-        },
-        {
-          "kind": "person",
-          "person_id": "2115",
-          "views": 2,
-          "last_viewed_at": "2026-10-13T11:06:26.385Z"
-        },
-        {
-          "kind": "person",
-          "person_id": "2251",
-          "views": 2,
-          "last_viewed_at": "2026-10-13T01:59:37.902Z"
         }
       ]
     },
@@ -1293,10 +1293,6 @@
         {
           "query": "zhang",
           "count": 1
-        },
-        {
-          "query": "zhao",
-          "count": 1
         }
       ],
       "3d": [
@@ -1313,10 +1309,6 @@
           "count": 3
         },
         {
-          "query": "kumar",
-          "count": 2
-        },
-        {
           "query": "liu",
           "count": 2
         },
@@ -1330,6 +1322,10 @@
         },
         {
           "query": "kim",
+          "count": 1
+        },
+        {
+          "query": "kumar",
           "count": 1
         },
         {
@@ -1399,10 +1395,6 @@
           "count": 2
         },
         {
-          "query": "wang",
-          "count": 2
-        },
-        {
           "query": "zhang",
           "count": 2
         },
@@ -1427,6 +1419,10 @@
           "count": 1
         },
         {
+          "query": "wang",
+          "count": 1
+        },
+        {
           "query": "zhao",
           "count": 1
         }
@@ -1438,15 +1434,11 @@
         },
         {
           "query": "kumar",
-          "count": 6
+          "count": 5
         },
         {
           "query": "zhang",
           "count": 5
-        },
-        {
-          "query": "kim",
-          "count": 4
         },
         {
           "query": "2026",
@@ -1462,6 +1454,10 @@
         },
         {
           "query": "garcia",
+          "count": 3
+        },
+        {
+          "query": "kim",
           "count": 3
         },
         {
@@ -1528,15 +1524,11 @@
         },
         {
           "query": "kumar",
-          "count": 6
+          "count": 5
         },
         {
           "query": "zhang",
           "count": 5
-        },
-        {
-          "query": "kim",
-          "count": 4
         },
         {
           "query": "2026",
@@ -1552,6 +1544,10 @@
         },
         {
           "query": "garcia",
+          "count": 3
+        },
+        {
+          "query": "kim",
           "count": 3
         },
         {
@@ -1618,15 +1614,11 @@
         },
         {
           "query": "kumar",
-          "count": 6
+          "count": 5
         },
         {
           "query": "zhang",
           "count": 5
-        },
-        {
-          "query": "kim",
-          "count": 4
         },
         {
           "query": "2026",
@@ -1642,6 +1634,10 @@
         },
         {
           "query": "garcia",
+          "count": 3
+        },
+        {
+          "query": "kim",
           "count": 3
         },
         {
@@ -1708,15 +1704,11 @@
         },
         {
           "query": "kumar",
-          "count": 6
+          "count": 5
         },
         {
           "query": "zhang",
           "count": 5
-        },
-        {
-          "query": "kim",
-          "count": 4
         },
         {
           "query": "2026",
@@ -1732,6 +1724,10 @@
         },
         {
           "query": "garcia",
+          "count": 3
+        },
+        {
+          "query": "kim",
           "count": 3
         },
         {
@@ -1798,15 +1794,11 @@
         },
         {
           "query": "kumar",
-          "count": 6
+          "count": 5
         },
         {
           "query": "zhang",
           "count": 5
-        },
-        {
-          "query": "kim",
-          "count": 4
         },
         {
           "query": "2026",
@@ -1822,6 +1814,10 @@
         },
         {
           "query": "garcia",
+          "count": 3
+        },
+        {
+          "query": "kim",
           "count": 3
         },
         {
