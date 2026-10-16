@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-16T16:01:42.863Z",
+  "generatedAt": "2026-10-16T17:02:37.491Z",
   "windows": [
     "24h",
     "3d",
@@ -13,15 +13,15 @@
     "all"
   ],
   "totals": {
-    "profileViews": 416,
-    "searches": 87,
-    "profilesTracked": 348,
+    "profileViews": 441,
+    "searches": 88,
+    "profilesTracked": 372,
     "queriesTracked": 23
   },
   "today": {
     "date": "2026-10-16",
-    "profileViews": 111,
-    "searches": 5
+    "profileViews": 136,
+    "searches": 6
   },
   "popularProfiles": [
     {
@@ -153,6 +153,11 @@
         },
         {
           "kind": "person",
+          "person_id": "880",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "1047",
           "views": 1
         },
@@ -164,6 +169,16 @@
         {
           "kind": "person",
           "person_id": "1053",
+          "views": 1
+        },
+        {
+          "kind": "person",
+          "person_id": "1055",
+          "views": 1
+        },
+        {
+          "kind": "person",
+          "person_id": "1058",
           "views": 1
         },
         {
@@ -218,11 +233,6 @@
         },
         {
           "kind": "person",
-          "person_id": "1397",
-          "views": 1
-        },
-        {
-          "kind": "person",
           "person_id": "1398",
           "views": 1
         },
@@ -234,16 +244,6 @@
         {
           "kind": "person",
           "person_id": "1403",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1404",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1405",
           "views": 1
         }
       ],
@@ -365,8 +365,8 @@
         },
         {
           "kind": "person",
-          "person_id": "1047",
-          "views": 1
+          "person_id": "880",
+          "views": 2
         }
       ],
       "7d": [
@@ -1251,11 +1251,11 @@
     "searches": {
       "24h": [
         {
-          "query": "nguyen",
-          "count": 2
+          "query": "2026",
+          "count": 1
         },
         {
-          "query": "2026",
+          "query": "chen",
           "count": 1
         },
         {
@@ -1280,6 +1280,10 @@
         },
         {
           "query": "mandela",
+          "count": 1
+        },
+        {
+          "query": "nguyen",
           "count": 1
         },
         {
@@ -1311,6 +1315,10 @@
         {
           "query": "liu",
           "count": 2
+        },
+        {
+          "query": "chen",
+          "count": 1
         },
         {
           "query": "garcia",
@@ -1399,6 +1407,10 @@
           "count": 2
         },
         {
+          "query": "chen",
+          "count": 1
+        },
+        {
           "query": "huang",
           "count": 1
         },
@@ -1477,6 +1489,10 @@
           "count": 3
         },
         {
+          "query": "chen",
+          "count": 2
+        },
+        {
           "query": "shaun",
           "count": 2
         },
@@ -1491,10 +1507,6 @@
         {
           "query": "wu",
           "count": 2
-        },
-        {
-          "query": "chen",
-          "count": 1
         },
         {
           "query": "huang",
@@ -1567,6 +1579,10 @@
           "count": 3
         },
         {
+          "query": "chen",
+          "count": 2
+        },
+        {
           "query": "shaun",
           "count": 2
         },
@@ -1581,10 +1597,6 @@
         {
           "query": "wu",
           "count": 2
-        },
-        {
-          "query": "chen",
-          "count": 1
         },
         {
           "query": "huang",
@@ -1657,6 +1669,10 @@
           "count": 3
         },
         {
+          "query": "chen",
+          "count": 2
+        },
+        {
           "query": "shaun",
           "count": 2
         },
@@ -1671,10 +1687,6 @@
         {
           "query": "wu",
           "count": 2
-        },
-        {
-          "query": "chen",
-          "count": 1
         },
         {
           "query": "huang",
@@ -1747,6 +1759,10 @@
           "count": 3
         },
         {
+          "query": "chen",
+          "count": 2
+        },
+        {
           "query": "shaun",
           "count": 2
         },
@@ -1761,10 +1777,6 @@
         {
           "query": "wu",
           "count": 2
-        },
-        {
-          "query": "chen",
-          "count": 1
         },
         {
           "query": "huang",
@@ -1837,6 +1849,10 @@
           "count": 3
         },
         {
+          "query": "chen",
+          "count": 2
+        },
+        {
           "query": "shaun",
           "count": 2
         },
@@ -1851,10 +1867,6 @@
         {
           "query": "wu",
           "count": 2
-        },
-        {
-          "query": "chen",
-          "count": 1
         },
         {
           "query": "huang",
@@ -1963,6 +1975,12 @@
           "last_searched_at": "2026-10-11T18:04:55.019Z"
         },
         {
+          "query": "chen",
+          "count": 2,
+          "last_result_count": 0,
+          "last_searched_at": "2026-10-16T16:12:03.618Z"
+        },
+        {
           "query": "shaun",
           "count": 2,
           "last_result_count": 3,
@@ -1979,12 +1997,6 @@
           "count": 2,
           "last_result_count": 0,
           "last_searched_at": "2026-10-04T13:39:53.630Z"
-        },
-        {
-          "query": "chen",
-          "count": 1,
-          "last_result_count": 0,
-          "last_searched_at": "2026-10-09T05:14:21.945Z"
         },
         {
           "query": "huang",
