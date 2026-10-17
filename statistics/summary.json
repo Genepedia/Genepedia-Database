@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-17T08:36:21.478Z",
+  "generatedAt": "2026-10-17T09:44:07.344Z",
   "windows": [
     "24h",
     "3d",
@@ -13,15 +13,15 @@
     "all"
   ],
   "totals": {
-    "profileViews": 540,
-    "searches": 91,
-    "profilesTracked": 464,
+    "profileViews": 551,
+    "searches": 92,
+    "profilesTracked": 474,
     "queriesTracked": 23
   },
   "today": {
     "date": "2026-10-17",
-    "profileViews": 52,
-    "searches": 1
+    "profileViews": 63,
+    "searches": 2
   },
   "popularProfiles": [
     {
@@ -138,6 +138,11 @@
         },
         {
           "kind": "person",
+          "person_id": "3012",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "3211",
           "views": 2
         },
@@ -240,22 +245,12 @@
           "kind": "person",
           "person_id": "1390",
           "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1391",
-          "views": 1
         }
       ],
       "3d": [
         {
           "kind": "person",
           "person_id": "1287",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1864",
           "views": 3
         },
         {
@@ -285,6 +280,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1864",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "2020",
           "views": 2
         },
@@ -301,6 +301,11 @@
         {
           "kind": "person",
           "person_id": "215",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "3012",
           "views": 2
         },
         {
@@ -346,11 +351,6 @@
         {
           "kind": "person",
           "person_id": "4956",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "4959",
           "views": 2
         },
         {
@@ -467,6 +467,11 @@
         },
         {
           "kind": "person",
+          "person_id": "3012",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "3197",
           "views": 2
         },
@@ -483,11 +488,6 @@
         {
           "kind": "person",
           "person_id": "3236",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "3238",
           "views": 2
         }
       ],
@@ -1251,10 +1251,6 @@
     "searches": {
       "24h": [
         {
-          "query": "2026",
-          "count": 1
-        },
-        {
           "query": "census 2026",
           "count": 1
         },
@@ -1264,6 +1260,10 @@
         },
         {
           "query": "kumar",
+          "count": 1
+        },
+        {
+          "query": "wang",
           "count": 1
         },
         {
@@ -1333,6 +1333,10 @@
           "count": 1
         },
         {
+          "query": "wang",
+          "count": 1
+        },
+        {
           "query": "yang",
           "count": 1
         },
@@ -1387,6 +1391,10 @@
           "count": 2
         },
         {
+          "query": "wang",
+          "count": 2
+        },
+        {
           "query": "zhang",
           "count": 2
         },
@@ -1419,10 +1427,6 @@
           "count": 1
         },
         {
-          "query": "wang",
-          "count": 1
-        },
-        {
           "query": "yang",
           "count": 1
         },
@@ -1447,6 +1451,10 @@
         {
           "query": "zhang",
           "count": 5
+        },
+        {
+          "query": "wang",
+          "count": 4
         },
         {
           "query": "2026",
@@ -1474,10 +1482,6 @@
         },
         {
           "query": "roselt",
-          "count": 3
-        },
-        {
-          "query": "wang",
           "count": 3
         },
         {
@@ -1543,6 +1547,10 @@
           "count": 5
         },
         {
+          "query": "wang",
+          "count": 4
+        },
+        {
           "query": "2026",
           "count": 3
         },
@@ -1568,10 +1576,6 @@
         },
         {
           "query": "roselt",
-          "count": 3
-        },
-        {
-          "query": "wang",
           "count": 3
         },
         {
@@ -1637,6 +1641,10 @@
           "count": 5
         },
         {
+          "query": "wang",
+          "count": 4
+        },
+        {
           "query": "2026",
           "count": 3
         },
@@ -1662,10 +1670,6 @@
         },
         {
           "query": "roselt",
-          "count": 3
-        },
-        {
-          "query": "wang",
           "count": 3
         },
         {
@@ -1731,6 +1735,10 @@
           "count": 5
         },
         {
+          "query": "wang",
+          "count": 4
+        },
+        {
           "query": "2026",
           "count": 3
         },
@@ -1756,10 +1764,6 @@
         },
         {
           "query": "roselt",
-          "count": 3
-        },
-        {
-          "query": "wang",
           "count": 3
         },
         {
@@ -1825,6 +1829,10 @@
           "count": 5
         },
         {
+          "query": "wang",
+          "count": 4
+        },
+        {
           "query": "2026",
           "count": 3
         },
@@ -1850,10 +1858,6 @@
         },
         {
           "query": "roselt",
-          "count": 3
-        },
-        {
-          "query": "wang",
           "count": 3
         },
         {
@@ -1951,6 +1955,12 @@
           "last_searched_at": "2026-10-10T23:47:47.335Z"
         },
         {
+          "query": "wang",
+          "count": 4,
+          "last_result_count": 0,
+          "last_searched_at": "2026-10-17T09:25:26.481Z"
+        },
+        {
           "query": "2026",
           "count": 3,
           "last_result_count": 1,
@@ -1979,12 +1989,6 @@
           "count": 3,
           "last_result_count": 88,
           "last_searched_at": "2026-10-11T23:07:55.389Z"
-        },
-        {
-          "query": "wang",
-          "count": 3,
-          "last_result_count": 0,
-          "last_searched_at": "2026-10-11T18:04:55.019Z"
         },
         {
           "query": "chen",
