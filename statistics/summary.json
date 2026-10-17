@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-17T10:51:51.501Z",
+  "generatedAt": "2026-10-17T12:08:38.283Z",
   "windows": [
     "24h",
     "3d",
@@ -13,14 +13,14 @@
     "all"
   ],
   "totals": {
-    "profileViews": 559,
+    "profileViews": 571,
     "searches": 92,
-    "profilesTracked": 482,
+    "profilesTracked": 494,
     "queriesTracked": 23
   },
   "today": {
     "date": "2026-10-17",
-    "profileViews": 71,
+    "profileViews": 83,
     "searches": 2
   },
   "popularProfiles": [
@@ -183,6 +183,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1054",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "1055",
           "views": 1
         },
@@ -199,11 +204,6 @@
         {
           "kind": "person",
           "person_id": "1058",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1124",
           "views": 1
         },
         {
@@ -228,6 +228,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1384",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "1385",
           "views": 1
         },
@@ -239,11 +244,6 @@
         {
           "kind": "person",
           "person_id": "1388",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1389",
           "views": 1
         }
       ],
@@ -1269,10 +1269,6 @@
         {
           "query": "yang",
           "count": 1
-        },
-        {
-          "query": "zhang",
-          "count": 1
         }
       ],
       "3d": [
@@ -1395,10 +1391,6 @@
           "count": 2
         },
         {
-          "query": "zhang",
-          "count": 2
-        },
-        {
           "query": "census 2026",
           "count": 1
         },
@@ -1428,6 +1420,10 @@
         },
         {
           "query": "yang",
+          "count": 1
+        },
+        {
+          "query": "zhang",
           "count": 1
         },
         {
