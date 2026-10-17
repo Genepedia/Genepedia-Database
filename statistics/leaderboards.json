@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/leaderboards@1",
-  "generatedAt": "2026-10-17T17:46:28.048Z",
+  "generatedAt": "2026-10-17T19:01:35.428Z",
   "windows": [
     "24h",
     "3d",
@@ -14,6 +14,11 @@
   ],
   "profiles": {
     "24h": [
+      {
+        "kind": "person",
+        "person_id": "1198",
+        "views": 2
+      },
       {
         "kind": "person",
         "person_id": "2022",
@@ -128,11 +133,6 @@
         "kind": "person",
         "person_id": "1393",
         "views": 1
-      },
-      {
-        "kind": "person",
-        "person_id": "1394",
-        "views": 1
       }
     ],
     "3d": [
@@ -150,6 +150,11 @@
         "kind": "person",
         "person_id": "3630",
         "views": 3
+      },
+      {
+        "kind": "person",
+        "person_id": "1198",
+        "views": 2
       },
       {
         "kind": "person",
@@ -250,11 +255,6 @@
         "kind": "person",
         "person_id": "1047",
         "views": 1
-      },
-      {
-        "kind": "person",
-        "person_id": "1048",
-        "views": 1
       }
     ],
     "7d": [
@@ -271,11 +271,6 @@
       {
         "kind": "person",
         "person_id": "3200",
-        "views": 3
-      },
-      {
-        "kind": "person",
-        "person_id": "3296",
         "views": 3
       },
       {
@@ -317,6 +312,11 @@
         "kind": "person",
         "person_id": "4684",
         "views": 3
+      },
+      {
+        "kind": "person",
+        "person_id": "1198",
+        "views": 2
       },
       {
         "kind": "person",
@@ -467,6 +467,11 @@
       },
       {
         "kind": "person",
+        "person_id": "1198",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "1284",
         "views": 2
       },
@@ -493,11 +498,6 @@
       {
         "kind": "person",
         "person_id": "2020",
-        "views": 2
-      },
-      {
-        "kind": "person",
-        "person_id": "2022",
         "views": 2
       }
     ],
@@ -589,6 +589,11 @@
       },
       {
         "kind": "person",
+        "person_id": "1198",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "1284",
         "views": 2
       },
@@ -615,11 +620,6 @@
       {
         "kind": "person",
         "person_id": "2020",
-        "views": 2
-      },
-      {
-        "kind": "person",
-        "person_id": "2022",
         "views": 2
       }
     ],
@@ -711,6 +711,11 @@
       },
       {
         "kind": "person",
+        "person_id": "1198",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "1284",
         "views": 2
       },
@@ -737,11 +742,6 @@
       {
         "kind": "person",
         "person_id": "2020",
-        "views": 2
-      },
-      {
-        "kind": "person",
-        "person_id": "2022",
         "views": 2
       }
     ],
@@ -833,6 +833,11 @@
       },
       {
         "kind": "person",
+        "person_id": "1198",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "1284",
         "views": 2
       },
@@ -859,11 +864,6 @@
       {
         "kind": "person",
         "person_id": "2020",
-        "views": 2
-      },
-      {
-        "kind": "person",
-        "person_id": "2022",
         "views": 2
       }
     ],
@@ -955,6 +955,11 @@
       },
       {
         "kind": "person",
+        "person_id": "1198",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "1284",
         "views": 2
       },
@@ -981,11 +986,6 @@
       {
         "kind": "person",
         "person_id": "2020",
-        "views": 2
-      },
-      {
-        "kind": "person",
-        "person_id": "2022",
         "views": 2
       }
     ],
@@ -1106,6 +1106,12 @@
       },
       {
         "kind": "person",
+        "person_id": "1198",
+        "views": 2,
+        "last_viewed_at": "2026-10-17T19:01:33.676Z"
+      },
+      {
+        "kind": "person",
         "person_id": "1284",
         "views": 2,
         "last_viewed_at": "2026-10-15T10:17:15.237Z"
@@ -1127,12 +1133,6 @@
         "person_id": "1308",
         "views": 2,
         "last_viewed_at": "2026-10-16T03:52:32.028Z"
-      },
-      {
-        "kind": "person",
-        "person_id": "1402",
-        "views": 2,
-        "last_viewed_at": "2026-10-14T22:36:36.042Z"
       }
     ]
   },
@@ -1153,10 +1153,6 @@
       {
         "query": "wang",
         "count": 1
-      },
-      {
-        "query": "yang",
-        "count": 1
       }
     ],
     "3d": [
@@ -1173,11 +1169,11 @@
         "count": 3
       },
       {
-        "query": "nguyen",
-        "count": 3
+        "query": "kumar",
+        "count": 2
       },
       {
-        "query": "kumar",
+        "query": "nguyen",
         "count": 2
       },
       {
