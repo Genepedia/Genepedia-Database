@@ -1,15 +1,7 @@
 {
   "schema": "genepedia/statistics/hourly-rollups@1",
-  "updatedAt": "2026-10-18T12:08:37.845Z",
+  "updatedAt": "2026-10-18T13:26:57.556Z",
   "hours": {
-    "2026-10-10T12": {
-      "profileViews": 1,
-      "searches": 0,
-      "profiles": {
-        "person:1168": 1
-      },
-      "queries": {}
-    },
     "2026-10-10T15": {
       "profileViews": 2,
       "searches": 0,
@@ -1716,6 +1708,14 @@
         "person:3202": 1
       },
       "queries": {}
+    },
+    "2026-10-18T13": {
+      "profileViews": 0,
+      "searches": 1,
+      "profiles": {},
+      "queries": {
+        "patel": 1
+      }
     }
   }
 }
