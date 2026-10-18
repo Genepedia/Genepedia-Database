@@ -1,17 +1,7 @@
 {
   "schema": "genepedia/statistics/hourly-rollups@1",
-  "updatedAt": "2026-10-18T19:43:57.542Z",
+  "updatedAt": "2026-10-18T20:46:49.715Z",
   "hours": {
-    "2026-10-10T19": {
-      "profileViews": 3,
-      "searches": 0,
-      "profiles": {
-        "person:461": 1,
-        "person:169": 1,
-        "person:573": 1
-      },
-      "queries": {}
-    },
     "2026-10-10T20": {
       "profileViews": 0,
       "searches": 2,
@@ -1818,13 +1808,13 @@
       }
     },
     "2026-10-18T19": {
-      "profileViews": 17,
+      "profileViews": 28,
       "searches": 0,
       "profiles": {
         "person:2193": 1,
         "person:536": 1,
         "person:4948": 1,
-        "person:2997": 1,
+        "person:2997": 2,
         "person:1184": 1,
         "person:2936": 1,
         "person:1186": 1,
@@ -1836,10 +1826,36 @@
         "person:1633": 1,
         "person:2983": 1,
         "person:1182": 1,
-        "person:1199": 1,
-        "person:1200": 1
+        "person:1199": 2,
+        "person:1200": 2,
+        "person:1196": 1,
+        "person:3768": 1,
+        "person:1091": 1,
+        "person:2932": 1,
+        "person:487": 1,
+        "person:2965": 1,
+        "person:3279": 1,
+        "person:3274": 1
       },
       "queries": {}
+    },
+    "2026-10-18T20": {
+      "profileViews": 8,
+      "searches": 2,
+      "profiles": {
+        "person:1195": 1,
+        "person:3770": 1,
+        "person:4307": 1,
+        "person:2280": 1,
+        "person:3277": 1,
+        "person:4523": 1,
+        "person:663": 1,
+        "person:297": 1
+      },
+      "queries": {
+        "elon": 1,
+        "liu": 1
+      }
     }
   }
 }
