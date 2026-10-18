@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-18T16:39:42.552Z",
+  "generatedAt": "2026-10-18T17:42:44.636Z",
   "windows": [
     "24h",
     "3d",
@@ -13,15 +13,15 @@
     "all"
   ],
   "totals": {
-    "profileViews": 689,
-    "searches": 101,
-    "profilesTracked": 596,
+    "profileViews": 697,
+    "searches": 102,
+    "profilesTracked": 603,
     "queriesTracked": 23
   },
   "today": {
     "date": "2026-10-18",
-    "profileViews": 65,
-    "searches": 4
+    "profileViews": 73,
+    "searches": 5
   },
   "popularProfiles": [
     {
@@ -437,6 +437,11 @@
         },
         {
           "kind": "person",
+          "person_id": "4955",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "1198",
           "views": 2
         },
@@ -483,11 +488,6 @@
         {
           "kind": "person",
           "person_id": "2038",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2039",
           "views": 2
         }
       ],
@@ -574,6 +574,11 @@
         },
         {
           "kind": "person",
+          "person_id": "4955",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "903",
           "views": 3
         },
@@ -605,11 +610,6 @@
         {
           "kind": "person",
           "person_id": "1203",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "1284",
           "views": 2
         }
       ],
@@ -696,6 +696,11 @@
         },
         {
           "kind": "person",
+          "person_id": "4955",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "903",
           "views": 3
         },
@@ -727,11 +732,6 @@
         {
           "kind": "person",
           "person_id": "1203",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "1284",
           "views": 2
         }
       ],
@@ -818,6 +818,11 @@
         },
         {
           "kind": "person",
+          "person_id": "4955",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "903",
           "views": 3
         },
@@ -849,11 +854,6 @@
         {
           "kind": "person",
           "person_id": "1203",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "1284",
           "views": 2
         }
       ],
@@ -940,6 +940,11 @@
         },
         {
           "kind": "person",
+          "person_id": "4955",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "903",
           "views": 3
         },
@@ -971,11 +976,6 @@
         {
           "kind": "person",
           "person_id": "1203",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "1284",
           "views": 2
         }
       ],
@@ -1062,6 +1062,11 @@
         },
         {
           "kind": "person",
+          "person_id": "4955",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "903",
           "views": 3
         },
@@ -1093,11 +1098,6 @@
         {
           "kind": "person",
           "person_id": "1203",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "1284",
           "views": 2
         }
       ],
@@ -1200,6 +1200,12 @@
         },
         {
           "kind": "person",
+          "person_id": "4955",
+          "views": 3,
+          "last_viewed_at": "2026-10-18T17:19:52.619Z"
+        },
+        {
+          "kind": "person",
           "person_id": "903",
           "views": 3,
           "last_viewed_at": "2026-10-13T22:01:43.681Z"
@@ -1239,17 +1245,15 @@
           "person_id": "1203",
           "views": 2,
           "last_viewed_at": "2026-10-17T19:43:42.683Z"
-        },
-        {
-          "kind": "person",
-          "person_id": "1284",
-          "views": 2,
-          "last_viewed_at": "2026-10-15T10:17:15.237Z"
         }
       ]
     },
     "searches": {
       "24h": [
+        {
+          "query": "patel",
+          "count": 2
+        },
         {
           "query": "huang",
           "count": 1
@@ -1260,10 +1264,6 @@
         },
         {
           "query": "nguyen",
-          "count": 1
-        },
-        {
-          "query": "patel",
           "count": 1
         },
         {
@@ -1285,15 +1285,19 @@
           "count": 3
         },
         {
-          "query": "nguyen",
-          "count": 3
-        },
-        {
           "query": "huang",
           "count": 2
         },
         {
           "query": "kumar",
+          "count": 2
+        },
+        {
+          "query": "nguyen",
+          "count": 2
+        },
+        {
+          "query": "patel",
           "count": 2
         },
         {
@@ -1326,10 +1330,6 @@
         },
         {
           "query": "mandela",
-          "count": 1
-        },
-        {
-          "query": "patel",
           "count": 1
         },
         {
@@ -1379,11 +1379,11 @@
           "count": 3
         },
         {
-          "query": "huang",
-          "count": 2
+          "query": "patel",
+          "count": 3
         },
         {
-          "query": "patel",
+          "query": "huang",
           "count": 2
         },
         {
@@ -1485,6 +1485,10 @@
           "count": 3
         },
         {
+          "query": "patel",
+          "count": 3
+        },
+        {
           "query": "wu",
           "count": 3
         },
@@ -1498,10 +1502,6 @@
         },
         {
           "query": "huang",
-          "count": 2
-        },
-        {
-          "query": "patel",
           "count": 2
         },
         {
@@ -1579,6 +1579,10 @@
           "count": 3
         },
         {
+          "query": "patel",
+          "count": 3
+        },
+        {
           "query": "wu",
           "count": 3
         },
@@ -1592,10 +1596,6 @@
         },
         {
           "query": "huang",
-          "count": 2
-        },
-        {
-          "query": "patel",
           "count": 2
         },
         {
@@ -1673,6 +1673,10 @@
           "count": 3
         },
         {
+          "query": "patel",
+          "count": 3
+        },
+        {
           "query": "wu",
           "count": 3
         },
@@ -1686,10 +1690,6 @@
         },
         {
           "query": "huang",
-          "count": 2
-        },
-        {
-          "query": "patel",
           "count": 2
         },
         {
@@ -1767,6 +1767,10 @@
           "count": 3
         },
         {
+          "query": "patel",
+          "count": 3
+        },
+        {
           "query": "wu",
           "count": 3
         },
@@ -1780,10 +1784,6 @@
         },
         {
           "query": "huang",
-          "count": 2
-        },
-        {
-          "query": "patel",
           "count": 2
         },
         {
@@ -1861,6 +1861,10 @@
           "count": 3
         },
         {
+          "query": "patel",
+          "count": 3
+        },
+        {
           "query": "wu",
           "count": 3
         },
@@ -1874,10 +1878,6 @@
         },
         {
           "query": "huang",
-          "count": 2
-        },
-        {
-          "query": "patel",
           "count": 2
         },
         {
@@ -1993,6 +1993,12 @@
           "last_searched_at": "2026-10-16T04:39:16.813Z"
         },
         {
+          "query": "patel",
+          "count": 3,
+          "last_result_count": 0,
+          "last_searched_at": "2026-10-18T17:01:53.297Z"
+        },
+        {
           "query": "roselt",
           "count": 3,
           "last_result_count": 88,
@@ -2015,12 +2021,6 @@
           "count": 2,
           "last_result_count": 0,
           "last_searched_at": "2026-10-18T13:46:58.695Z"
-        },
-        {
-          "query": "patel",
-          "count": 2,
-          "last_result_count": 0,
-          "last_searched_at": "2026-10-18T13:26:55.237Z"
         },
         {
           "query": "shaun",
