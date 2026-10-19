@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-19T08:05:57.311Z",
+  "generatedAt": "2026-10-19T09:09:12.112Z",
   "windows": [
     "24h",
     "3d",
@@ -13,14 +13,14 @@
     "all"
   ],
   "totals": {
-    "profileViews": 1204,
+    "profileViews": 1231,
     "searches": 113,
-    "profilesTracked": 976,
+    "profilesTracked": 986,
     "queriesTracked": 23
   },
   "today": {
     "date": "2026-10-19",
-    "profileViews": 376,
+    "profileViews": 403,
     "searches": 7
   },
   "popularProfiles": [
@@ -138,6 +138,11 @@
         },
         {
           "kind": "person",
+          "person_id": "4308",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "1056",
           "views": 2
         },
@@ -153,12 +158,27 @@
         },
         {
           "kind": "person",
+          "person_id": "1077",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "1082",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "1087",
           "views": 2
         },
         {
           "kind": "person",
           "person_id": "1089",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "1094",
           "views": 2
         },
         {
@@ -203,6 +223,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1627",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "1629",
           "views": 2
         },
@@ -219,31 +244,6 @@
         {
           "kind": "person",
           "person_id": "1634",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2198",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2596",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2600",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2621",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2667",
           "views": 2
         }
       ],
@@ -291,6 +291,11 @@
         {
           "kind": "person",
           "person_id": "4306",
+          "views": 3
+        },
+        {
+          "kind": "person",
+          "person_id": "4308",
           "views": 3
         },
         {
@@ -361,11 +366,6 @@
         {
           "kind": "person",
           "person_id": "1065",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "1087",
           "views": 2
         }
       ],
@@ -467,6 +467,11 @@
         },
         {
           "kind": "person",
+          "person_id": "4308",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "433",
           "views": 3
         },
@@ -483,11 +488,6 @@
         {
           "kind": "person",
           "person_id": "4684",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "4955",
           "views": 3
         }
       ],
@@ -609,7 +609,7 @@
         },
         {
           "kind": "person",
-          "person_id": "433",
+          "person_id": "4308",
           "views": 3
         }
       ],
@@ -731,7 +731,7 @@
         },
         {
           "kind": "person",
-          "person_id": "433",
+          "person_id": "4308",
           "views": 3
         }
       ],
@@ -853,7 +853,7 @@
         },
         {
           "kind": "person",
-          "person_id": "433",
+          "person_id": "4308",
           "views": 3
         }
       ],
@@ -975,7 +975,7 @@
         },
         {
           "kind": "person",
-          "person_id": "433",
+          "person_id": "4308",
           "views": 3
         }
       ],
@@ -1097,7 +1097,7 @@
         },
         {
           "kind": "person",
-          "person_id": "433",
+          "person_id": "4308",
           "views": 3
         }
       ],
@@ -1242,9 +1242,9 @@
         },
         {
           "kind": "person",
-          "person_id": "433",
+          "person_id": "4308",
           "views": 3,
-          "last_viewed_at": "2026-10-19T00:14:03.024Z"
+          "last_viewed_at": "2026-10-19T08:40:19.298Z"
         }
       ]
     },
@@ -1301,10 +1301,6 @@
           "count": 3
         },
         {
-          "query": "2026",
-          "count": 2
-        },
-        {
           "query": "huang",
           "count": 2
         },
@@ -1319,6 +1315,10 @@
         {
           "query": "zhang",
           "count": 2
+        },
+        {
+          "query": "2026",
+          "count": 1
         },
         {
           "query": "census 2026",
