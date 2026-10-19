@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-19T00:56:03.171Z",
+  "generatedAt": "2026-10-19T01:58:09.539Z",
   "windows": [
     "24h",
     "3d",
@@ -13,14 +13,14 @@
     "all"
   ],
   "totals": {
-    "profileViews": 845,
+    "profileViews": 879,
     "searches": 109,
-    "profilesTracked": 704,
+    "profilesTracked": 735,
     "queriesTracked": 23
   },
   "today": {
     "date": "2026-10-19",
-    "profileViews": 17,
+    "profileViews": 51,
     "searches": 3
   },
   "popularProfiles": [
@@ -228,6 +228,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1047",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "1048",
           "views": 1
         },
@@ -239,11 +244,6 @@
         {
           "kind": "person",
           "person_id": "1057",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1058",
           "views": 1
         }
       ],
@@ -282,6 +282,11 @@
           "kind": "person",
           "person_id": "433",
           "views": 3
+        },
+        {
+          "kind": "person",
+          "person_id": "1047",
+          "views": 2
         },
         {
           "kind": "person",
@@ -361,11 +366,6 @@
         {
           "kind": "person",
           "person_id": "2030",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2032",
           "views": 2
         }
       ],
@@ -472,6 +472,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1047",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "1048",
           "views": 2
         },
@@ -483,11 +488,6 @@
         {
           "kind": "person",
           "person_id": "1057",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "1058",
           "views": 2
         }
       ],
@@ -1285,10 +1285,6 @@
         {
           "query": "smith",
           "count": 1
-        },
-        {
-          "query": "wu",
-          "count": 1
         }
       ],
       "3d": [
@@ -1489,10 +1485,6 @@
           "count": 3
         },
         {
-          "query": "garcia",
-          "count": 3
-        },
-        {
           "query": "mandela",
           "count": 3
         },
@@ -1514,6 +1506,10 @@
         },
         {
           "query": "chen",
+          "count": 2
+        },
+        {
+          "query": "garcia",
           "count": 2
         },
         {
@@ -1583,10 +1579,6 @@
           "count": 3
         },
         {
-          "query": "garcia",
-          "count": 3
-        },
-        {
           "query": "mandela",
           "count": 3
         },
@@ -1608,6 +1600,10 @@
         },
         {
           "query": "chen",
+          "count": 2
+        },
+        {
+          "query": "garcia",
           "count": 2
         },
         {
@@ -1677,10 +1673,6 @@
           "count": 3
         },
         {
-          "query": "garcia",
-          "count": 3
-        },
-        {
           "query": "mandela",
           "count": 3
         },
@@ -1702,6 +1694,10 @@
         },
         {
           "query": "chen",
+          "count": 2
+        },
+        {
+          "query": "garcia",
           "count": 2
         },
         {
@@ -1771,10 +1767,6 @@
           "count": 3
         },
         {
-          "query": "garcia",
-          "count": 3
-        },
-        {
           "query": "mandela",
           "count": 3
         },
@@ -1796,6 +1788,10 @@
         },
         {
           "query": "chen",
+          "count": 2
+        },
+        {
+          "query": "garcia",
           "count": 2
         },
         {
@@ -1865,10 +1861,6 @@
           "count": 3
         },
         {
-          "query": "garcia",
-          "count": 3
-        },
-        {
           "query": "mandela",
           "count": 3
         },
@@ -1890,6 +1882,10 @@
         },
         {
           "query": "chen",
+          "count": 2
+        },
+        {
+          "query": "garcia",
           "count": 2
         },
         {
