@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-19T23:23:39.792Z",
+  "generatedAt": "2026-10-20T00:24:32.128Z",
   "windows": [
     "24h",
     "3d",
@@ -13,15 +13,15 @@
     "all"
   ],
   "totals": {
-    "profileViews": 1675,
+    "profileViews": 1698,
     "searches": 116,
-    "profilesTracked": 1136,
+    "profilesTracked": 1152,
     "queriesTracked": 24
   },
   "today": {
-    "date": "2026-10-19",
-    "profileViews": 847,
-    "searches": 10
+    "date": "2026-10-20",
+    "profileViews": 13,
+    "searches": 0
   },
   "popularProfiles": [
     {
@@ -50,6 +50,12 @@
     },
     {
       "kind": "person",
+      "person_id": "1134",
+      "views": 4,
+      "last_viewed_at": "2026-10-19T23:43:00.713Z"
+    },
+    {
+      "kind": "person",
       "person_id": "1199",
       "views": 4,
       "last_viewed_at": "2026-10-19T18:00:37.412Z"
@@ -65,12 +71,6 @@
       "person_id": "2022",
       "views": 4,
       "last_viewed_at": "2026-10-19T20:18:56.415Z"
-    },
-    {
-      "kind": "person",
-      "person_id": "3207",
-      "views": 4,
-      "last_viewed_at": "2026-10-19T21:14:14.725Z"
     }
   ],
   "popularSearches": [
@@ -128,12 +128,17 @@
       "24h": [
         {
           "kind": "person",
-          "person_id": "4306",
-          "views": 5
+          "person_id": "1095",
+          "views": 4
         },
         {
           "kind": "person",
-          "person_id": "1095",
+          "person_id": "1134",
+          "views": 4
+        },
+        {
+          "kind": "person",
+          "person_id": "4306",
           "views": 4
         },
         {
@@ -158,7 +163,12 @@
         },
         {
           "kind": "person",
-          "person_id": "1082",
+          "person_id": "1076",
+          "views": 3
+        },
+        {
+          "kind": "person",
+          "person_id": "1078",
           "views": 3
         },
         {
@@ -183,17 +193,7 @@
         },
         {
           "kind": "person",
-          "person_id": "1102",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "1103",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1105",
           "views": 3
         },
         {
@@ -209,11 +209,6 @@
         {
           "kind": "person",
           "person_id": "1133",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1134",
           "views": 3
         },
         {
@@ -245,6 +240,11 @@
           "kind": "person",
           "person_id": "2693",
           "views": 3
+        },
+        {
+          "kind": "person",
+          "person_id": "2696",
+          "views": 3
         }
       ],
       "3d": [
@@ -256,6 +256,11 @@
         {
           "kind": "person",
           "person_id": "1095",
+          "views": 4
+        },
+        {
+          "kind": "person",
+          "person_id": "1134",
           "views": 4
         },
         {
@@ -311,6 +316,16 @@
         {
           "kind": "person",
           "person_id": "1075",
+          "views": 3
+        },
+        {
+          "kind": "person",
+          "person_id": "1076",
+          "views": 3
+        },
+        {
+          "kind": "person",
+          "person_id": "1078",
           "views": 3
         },
         {
@@ -352,21 +367,6 @@
           "kind": "person",
           "person_id": "1105",
           "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1106",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1127",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1133",
-          "views": 3
         }
       ],
       "7d": [
@@ -383,6 +383,11 @@
         {
           "kind": "person",
           "person_id": "1095",
+          "views": 4
+        },
+        {
+          "kind": "person",
+          "person_id": "1134",
           "views": 4
         },
         {
@@ -467,27 +472,22 @@
         },
         {
           "kind": "person",
+          "person_id": "1076",
+          "views": 3
+        },
+        {
+          "kind": "person",
+          "person_id": "1078",
+          "views": 3
+        },
+        {
+          "kind": "person",
           "person_id": "1082",
           "views": 3
         },
         {
           "kind": "person",
           "person_id": "1083",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1087",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1093",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1099",
           "views": 3
         }
       ],
@@ -514,6 +514,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1134",
+          "views": 4
+        },
+        {
+          "kind": "person",
           "person_id": "1199",
           "views": 4
         },
@@ -599,17 +604,12 @@
         },
         {
           "kind": "person",
-          "person_id": "1082",
+          "person_id": "1076",
           "views": 3
         },
         {
           "kind": "person",
-          "person_id": "1083",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1087",
+          "person_id": "1078",
           "views": 3
         }
       ],
@@ -636,6 +636,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1134",
+          "views": 4
+        },
+        {
+          "kind": "person",
           "person_id": "1199",
           "views": 4
         },
@@ -721,17 +726,12 @@
         },
         {
           "kind": "person",
-          "person_id": "1082",
+          "person_id": "1076",
           "views": 3
         },
         {
           "kind": "person",
-          "person_id": "1083",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1087",
+          "person_id": "1078",
           "views": 3
         }
       ],
@@ -758,6 +758,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1134",
+          "views": 4
+        },
+        {
+          "kind": "person",
           "person_id": "1199",
           "views": 4
         },
@@ -843,17 +848,12 @@
         },
         {
           "kind": "person",
-          "person_id": "1082",
+          "person_id": "1076",
           "views": 3
         },
         {
           "kind": "person",
-          "person_id": "1083",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1087",
+          "person_id": "1078",
           "views": 3
         }
       ],
@@ -880,6 +880,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1134",
+          "views": 4
+        },
+        {
+          "kind": "person",
           "person_id": "1199",
           "views": 4
         },
@@ -965,17 +970,12 @@
         },
         {
           "kind": "person",
-          "person_id": "1082",
+          "person_id": "1076",
           "views": 3
         },
         {
           "kind": "person",
-          "person_id": "1083",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1087",
+          "person_id": "1078",
           "views": 3
         }
       ],
@@ -1002,6 +1002,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1134",
+          "views": 4
+        },
+        {
+          "kind": "person",
           "person_id": "1199",
           "views": 4
         },
@@ -1087,17 +1092,12 @@
         },
         {
           "kind": "person",
-          "person_id": "1082",
+          "person_id": "1076",
           "views": 3
         },
         {
           "kind": "person",
-          "person_id": "1083",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "1087",
+          "person_id": "1078",
           "views": 3
         }
       ],
@@ -1125,6 +1125,12 @@
           "person_id": "1095",
           "views": 4,
           "last_viewed_at": "2026-10-19T21:05:56.462Z"
+        },
+        {
+          "kind": "person",
+          "person_id": "1134",
+          "views": 4,
+          "last_viewed_at": "2026-10-19T23:43:00.713Z"
         },
         {
           "kind": "person",
@@ -1230,21 +1236,15 @@
         },
         {
           "kind": "person",
-          "person_id": "1082",
+          "person_id": "1076",
           "views": 3,
-          "last_viewed_at": "2026-10-19T21:59:15.763Z"
+          "last_viewed_at": "2026-10-20T00:09:36.838Z"
         },
         {
           "kind": "person",
-          "person_id": "1083",
+          "person_id": "1078",
           "views": 3,
-          "last_viewed_at": "2026-10-19T16:40:49.240Z"
-        },
-        {
-          "kind": "person",
-          "person_id": "1087",
-          "views": 3,
-          "last_viewed_at": "2026-10-19T14:11:47.980Z"
+          "last_viewed_at": "2026-10-19T23:26:17.441Z"
         }
       ]
     },
@@ -1252,11 +1252,7 @@
       "24h": [
         {
           "query": "kim",
-          "count": 4
-        },
-        {
-          "query": "kumar",
-          "count": 2
+          "count": 3
         },
         {
           "query": "2026",
@@ -1267,7 +1263,7 @@
           "count": 1
         },
         {
-          "query": "liu",
+          "query": "kumar",
           "count": 1
         },
         {
@@ -1457,6 +1453,18 @@
           "count": 4
         },
         {
+          "query": "wang",
+          "count": 4
+        },
+        {
+          "query": "devi",
+          "count": 3
+        },
+        {
+          "query": "garcia",
+          "count": 3
+        },
+        {
           "query": "huang",
           "count": 3
         },
@@ -1469,11 +1477,11 @@
           "count": 3
         },
         {
-          "query": "smith",
+          "query": "roselt",
           "count": 3
         },
         {
-          "query": "wang",
+          "query": "smith",
           "count": 3
         },
         {
@@ -1482,14 +1490,6 @@
         },
         {
           "query": "chen",
-          "count": 2
-        },
-        {
-          "query": "devi",
-          "count": 2
-        },
-        {
-          "query": "garcia",
           "count": 2
         },
         {
@@ -1514,10 +1514,6 @@
         },
         {
           "query": "census 2026",
-          "count": 1
-        },
-        {
-          "query": "roselt",
           "count": 1
         },
         {
@@ -1555,6 +1551,18 @@
           "count": 4
         },
         {
+          "query": "wang",
+          "count": 4
+        },
+        {
+          "query": "devi",
+          "count": 3
+        },
+        {
+          "query": "garcia",
+          "count": 3
+        },
+        {
           "query": "huang",
           "count": 3
         },
@@ -1567,11 +1575,11 @@
           "count": 3
         },
         {
-          "query": "smith",
+          "query": "roselt",
           "count": 3
         },
         {
-          "query": "wang",
+          "query": "smith",
           "count": 3
         },
         {
@@ -1580,14 +1588,6 @@
         },
         {
           "query": "chen",
-          "count": 2
-        },
-        {
-          "query": "devi",
-          "count": 2
-        },
-        {
-          "query": "garcia",
           "count": 2
         },
         {
@@ -1612,10 +1612,6 @@
         },
         {
           "query": "census 2026",
-          "count": 1
-        },
-        {
-          "query": "roselt",
           "count": 1
         },
         {
@@ -1653,6 +1649,18 @@
           "count": 4
         },
         {
+          "query": "wang",
+          "count": 4
+        },
+        {
+          "query": "devi",
+          "count": 3
+        },
+        {
+          "query": "garcia",
+          "count": 3
+        },
+        {
           "query": "huang",
           "count": 3
         },
@@ -1665,11 +1673,11 @@
           "count": 3
         },
         {
-          "query": "smith",
+          "query": "roselt",
           "count": 3
         },
         {
-          "query": "wang",
+          "query": "smith",
           "count": 3
         },
         {
@@ -1678,14 +1686,6 @@
         },
         {
           "query": "chen",
-          "count": 2
-        },
-        {
-          "query": "devi",
-          "count": 2
-        },
-        {
-          "query": "garcia",
           "count": 2
         },
         {
@@ -1710,10 +1710,6 @@
         },
         {
           "query": "census 2026",
-          "count": 1
-        },
-        {
-          "query": "roselt",
           "count": 1
         },
         {
@@ -1751,6 +1747,18 @@
           "count": 4
         },
         {
+          "query": "wang",
+          "count": 4
+        },
+        {
+          "query": "devi",
+          "count": 3
+        },
+        {
+          "query": "garcia",
+          "count": 3
+        },
+        {
           "query": "huang",
           "count": 3
         },
@@ -1763,11 +1771,11 @@
           "count": 3
         },
         {
-          "query": "smith",
+          "query": "roselt",
           "count": 3
         },
         {
-          "query": "wang",
+          "query": "smith",
           "count": 3
         },
         {
@@ -1776,14 +1784,6 @@
         },
         {
           "query": "chen",
-          "count": 2
-        },
-        {
-          "query": "devi",
-          "count": 2
-        },
-        {
-          "query": "garcia",
           "count": 2
         },
         {
@@ -1808,10 +1808,6 @@
         },
         {
           "query": "census 2026",
-          "count": 1
-        },
-        {
-          "query": "roselt",
           "count": 1
         },
         {
@@ -1849,6 +1845,18 @@
           "count": 4
         },
         {
+          "query": "wang",
+          "count": 4
+        },
+        {
+          "query": "devi",
+          "count": 3
+        },
+        {
+          "query": "garcia",
+          "count": 3
+        },
+        {
           "query": "huang",
           "count": 3
         },
@@ -1861,11 +1869,11 @@
           "count": 3
         },
         {
-          "query": "smith",
+          "query": "roselt",
           "count": 3
         },
         {
-          "query": "wang",
+          "query": "smith",
           "count": 3
         },
         {
@@ -1874,14 +1882,6 @@
         },
         {
           "query": "chen",
-          "count": 2
-        },
-        {
-          "query": "devi",
-          "count": 2
-        },
-        {
-          "query": "garcia",
           "count": 2
         },
         {
@@ -1906,10 +1906,6 @@
         },
         {
           "query": "census 2026",
-          "count": 1
-        },
-        {
-          "query": "roselt",
           "count": 1
         },
         {
