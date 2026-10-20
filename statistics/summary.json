@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-20T20:36:35.076Z",
+  "generatedAt": "2026-10-20T22:14:37.547Z",
   "windows": [
     "24h",
     "3d",
@@ -13,14 +13,14 @@
     "all"
   ],
   "totals": {
-    "profileViews": 1900,
+    "profileViews": 1904,
     "searches": 119,
-    "profilesTracked": 1284,
+    "profilesTracked": 1285,
     "queriesTracked": 24
   },
   "today": {
     "date": "2026-10-20",
-    "profileViews": 215,
+    "profileViews": 219,
     "searches": 3
   },
   "popularProfiles": [
@@ -128,11 +128,6 @@
       "24h": [
         {
           "kind": "person",
-          "person_id": "1157",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "2891",
           "views": 3
         },
@@ -174,11 +169,6 @@
         {
           "kind": "person",
           "person_id": "2895",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "3207",
           "views": 2
         },
         {
@@ -243,7 +233,17 @@
         },
         {
           "kind": "person",
-          "person_id": "1082",
+          "person_id": "1084",
+          "views": 1
+        },
+        {
+          "kind": "person",
+          "person_id": "1085",
+          "views": 1
+        },
+        {
+          "kind": "person",
+          "person_id": "1086",
           "views": 1
         }
       ],
@@ -1270,7 +1270,7 @@
         },
         {
           "query": "liu",
-          "count": 4
+          "count": 3
         },
         {
           "query": "huang",
@@ -1306,14 +1306,6 @@
         },
         {
           "query": "smith",
-          "count": 1
-        },
-        {
-          "query": "zhang",
-          "count": 1
-        },
-        {
-          "query": "zhao",
           "count": 1
         },
         {
@@ -1410,7 +1402,7 @@
       "30d": [
         {
           "query": "liu",
-          "count": 15
+          "count": 13
         },
         {
           "query": "kim",
@@ -1508,7 +1500,7 @@
       "60d": [
         {
           "query": "liu",
-          "count": 15
+          "count": 13
         },
         {
           "query": "kim",
@@ -1606,7 +1598,7 @@
       "90d": [
         {
           "query": "liu",
-          "count": 15
+          "count": 13
         },
         {
           "query": "kim",
@@ -1704,7 +1696,7 @@
       "6m": [
         {
           "query": "liu",
-          "count": 15
+          "count": 13
         },
         {
           "query": "kim",
@@ -1802,7 +1794,7 @@
       "1y": [
         {
           "query": "liu",
-          "count": 15
+          "count": 13
         },
         {
           "query": "kim",
