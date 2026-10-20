@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/leaderboards@1",
-  "generatedAt": "2026-10-20T09:59:08.852Z",
+  "generatedAt": "2026-10-20T11:07:01.886Z",
   "windows": [
     "24h",
     "3d",
@@ -31,27 +31,12 @@
       },
       {
         "kind": "person",
-        "person_id": "1058",
-        "views": 2
-      },
-      {
-        "kind": "person",
         "person_id": "1060",
         "views": 2
       },
       {
         "kind": "person",
-        "person_id": "1063",
-        "views": 2
-      },
-      {
-        "kind": "person",
         "person_id": "1075",
-        "views": 2
-      },
-      {
-        "kind": "person",
-        "person_id": "1076",
         "views": 2
       },
       {
@@ -66,17 +51,17 @@
       },
       {
         "kind": "person",
+        "person_id": "1084",
+        "views": 2
+      },
+      {
+        "kind": "person",
         "person_id": "1086",
         "views": 2
       },
       {
         "kind": "person",
-        "person_id": "1088",
-        "views": 2
-      },
-      {
-        "kind": "person",
-        "person_id": "1093",
+        "person_id": "1090",
         "views": 2
       },
       {
@@ -126,12 +111,27 @@
       },
       {
         "kind": "person",
-        "person_id": "1143",
+        "person_id": "1154",
         "views": 2
       },
       {
         "kind": "person",
-        "person_id": "1154",
+        "person_id": "1156",
+        "views": 2
+      },
+      {
+        "kind": "person",
+        "person_id": "1178",
+        "views": 2
+      },
+      {
+        "kind": "person",
+        "person_id": "1183",
+        "views": 2
+      },
+      {
+        "kind": "person",
+        "person_id": "1186",
         "views": 2
       }
     ],
@@ -188,11 +188,6 @@
       },
       {
         "kind": "person",
-        "person_id": "1054",
-        "views": 3
-      },
-      {
-        "kind": "person",
         "person_id": "1058",
         "views": 3
       },
@@ -234,6 +229,11 @@
       {
         "kind": "person",
         "person_id": "1083",
+        "views": 3
+      },
+      {
+        "kind": "person",
+        "person_id": "1084",
         "views": 3
       },
       {
@@ -1140,20 +1140,24 @@
     "24h": [
       {
         "query": "kim",
-        "count": 2
+        "count": 1
       },
       {
         "query": "kumar",
+        "count": 1
+      },
+      {
+        "query": "liu",
         "count": 1
       }
     ],
     "3d": [
       {
-        "query": "kim",
-        "count": 5
+        "query": "liu",
+        "count": 6
       },
       {
-        "query": "liu",
+        "query": "kim",
         "count": 5
       },
       {
@@ -1208,7 +1212,7 @@
     "7d": [
       {
         "query": "liu",
-        "count": 7
+        "count": 8
       },
       {
         "query": "kim",
@@ -1294,7 +1298,7 @@
     "30d": [
       {
         "query": "liu",
-        "count": 14
+        "count": 15
       },
       {
         "query": "kim",
@@ -1392,7 +1396,7 @@
     "60d": [
       {
         "query": "liu",
-        "count": 14
+        "count": 15
       },
       {
         "query": "kim",
@@ -1490,7 +1494,7 @@
     "90d": [
       {
         "query": "liu",
-        "count": 14
+        "count": 15
       },
       {
         "query": "kim",
@@ -1588,7 +1592,7 @@
     "6m": [
       {
         "query": "liu",
-        "count": 14
+        "count": 15
       },
       {
         "query": "kim",
@@ -1686,7 +1690,7 @@
     "1y": [
       {
         "query": "liu",
-        "count": 14
+        "count": 15
       },
       {
         "query": "kim",
@@ -1783,16 +1787,16 @@
     ],
     "all": [
       {
+        "query": "liu",
+        "count": 15,
+        "last_result_count": 38,
+        "last_searched_at": "2026-10-20T10:51:24.284Z"
+      },
+      {
         "query": "mandela",
         "count": 15,
         "last_result_count": 1,
         "last_searched_at": "2026-10-15T18:10:04.802Z"
-      },
-      {
-        "query": "liu",
-        "count": 14,
-        "last_result_count": 38,
-        "last_searched_at": "2026-10-19T00:46:38.545Z"
       },
       {
         "query": "smith",
