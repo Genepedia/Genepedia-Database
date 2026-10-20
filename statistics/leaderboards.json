@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/leaderboards@1",
-  "generatedAt": "2026-10-20T11:07:01.886Z",
+  "generatedAt": "2026-10-20T12:11:59.123Z",
   "windows": [
     "24h",
     "3d",
@@ -14,6 +14,11 @@
   ],
   "profiles": {
     "24h": [
+      {
+        "kind": "person",
+        "person_id": "1156",
+        "views": 3
+      },
       {
         "kind": "person",
         "person_id": "1157",
@@ -52,6 +57,11 @@
       {
         "kind": "person",
         "person_id": "1084",
+        "views": 2
+      },
+      {
+        "kind": "person",
+        "person_id": "1085",
         "views": 2
       },
       {
@@ -106,17 +116,7 @@
       },
       {
         "kind": "person",
-        "person_id": "1135",
-        "views": 2
-      },
-      {
-        "kind": "person",
         "person_id": "1154",
-        "views": 2
-      },
-      {
-        "kind": "person",
-        "person_id": "1156",
         "views": 2
       },
       {
@@ -183,11 +183,6 @@
       },
       {
         "kind": "person",
-        "person_id": "1050",
-        "views": 3
-      },
-      {
-        "kind": "person",
         "person_id": "1058",
         "views": 3
       },
@@ -234,6 +229,11 @@
       {
         "kind": "person",
         "person_id": "1084",
+        "views": 3
+      },
+      {
+        "kind": "person",
+        "person_id": "1085",
         "views": 3
       },
       {
@@ -1149,15 +1149,19 @@
       {
         "query": "liu",
         "count": 1
+      },
+      {
+        "query": "wu",
+        "count": 1
       }
     ],
     "3d": [
       {
-        "query": "liu",
-        "count": 6
+        "query": "kim",
+        "count": 5
       },
       {
-        "query": "kim",
+        "query": "liu",
         "count": 5
       },
       {
@@ -1170,6 +1174,10 @@
       },
       {
         "query": "patel",
+        "count": 2
+      },
+      {
+        "query": "wu",
         "count": 2
       },
       {
@@ -1190,10 +1198,6 @@
       },
       {
         "query": "smith",
-        "count": 1
-      },
-      {
-        "query": "wu",
         "count": 1
       },
       {
@@ -1251,6 +1255,10 @@
         "count": 2
       },
       {
+        "query": "wu",
+        "count": 2
+      },
+      {
         "query": "zhang",
         "count": 2
       },
@@ -1280,10 +1288,6 @@
       },
       {
         "query": "wang",
-        "count": 1
-      },
-      {
-        "query": "wu",
         "count": 1
       },
       {
@@ -1329,6 +1333,10 @@
         "count": 4
       },
       {
+        "query": "wu",
+        "count": 4
+      },
+      {
         "query": "devi",
         "count": 3
       },
@@ -1354,10 +1362,6 @@
       },
       {
         "query": "smith",
-        "count": 3
-      },
-      {
-        "query": "wu",
         "count": 3
       },
       {
@@ -1427,6 +1431,10 @@
         "count": 4
       },
       {
+        "query": "wu",
+        "count": 4
+      },
+      {
         "query": "devi",
         "count": 3
       },
@@ -1452,10 +1460,6 @@
       },
       {
         "query": "smith",
-        "count": 3
-      },
-      {
-        "query": "wu",
         "count": 3
       },
       {
@@ -1525,6 +1529,10 @@
         "count": 4
       },
       {
+        "query": "wu",
+        "count": 4
+      },
+      {
         "query": "devi",
         "count": 3
       },
@@ -1550,10 +1558,6 @@
       },
       {
         "query": "smith",
-        "count": 3
-      },
-      {
-        "query": "wu",
         "count": 3
       },
       {
@@ -1623,6 +1627,10 @@
         "count": 4
       },
       {
+        "query": "wu",
+        "count": 4
+      },
+      {
         "query": "devi",
         "count": 3
       },
@@ -1648,10 +1656,6 @@
       },
       {
         "query": "smith",
-        "count": 3
-      },
-      {
-        "query": "wu",
         "count": 3
       },
       {
@@ -1721,6 +1725,10 @@
         "count": 4
       },
       {
+        "query": "wu",
+        "count": 4
+      },
+      {
         "query": "devi",
         "count": 3
       },
@@ -1746,10 +1754,6 @@
       },
       {
         "query": "smith",
-        "count": 3
-      },
-      {
-        "query": "wu",
         "count": 3
       },
       {
@@ -1853,6 +1857,12 @@
         "last_searched_at": "2026-10-17T09:25:26.481Z"
       },
       {
+        "query": "wu",
+        "count": 4,
+        "last_result_count": 0,
+        "last_searched_at": "2026-10-20T11:53:17.841Z"
+      },
+      {
         "query": "devi",
         "count": 3,
         "last_result_count": 0,
@@ -1881,12 +1891,6 @@
         "count": 3,
         "last_result_count": 88,
         "last_searched_at": "2026-10-11T23:07:55.389Z"
-      },
-      {
-        "query": "wu",
-        "count": 3,
-        "last_result_count": 0,
-        "last_searched_at": "2026-10-18T01:39:39.816Z"
       },
       {
         "query": "chen",
