@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-20T06:44:47.942Z",
+  "generatedAt": "2026-10-20T07:47:11.911Z",
   "windows": [
     "24h",
     "3d",
@@ -13,17 +13,23 @@
     "all"
   ],
   "totals": {
-    "profileViews": 1808,
+    "profileViews": 1825,
     "searches": 116,
-    "profilesTracked": 1219,
+    "profilesTracked": 1233,
     "queriesTracked": 24
   },
   "today": {
     "date": "2026-10-20",
-    "profileViews": 123,
+    "profileViews": 140,
     "searches": 0
   },
   "popularProfiles": [
+    {
+      "kind": "person",
+      "person_id": "1201",
+      "views": 5,
+      "last_viewed_at": "2026-10-20T07:19:07.747Z"
+    },
     {
       "kind": "person",
       "person_id": "3626",
@@ -65,12 +71,6 @@
       "person_id": "1134",
       "views": 4,
       "last_viewed_at": "2026-10-19T23:43:00.713Z"
-    },
-    {
-      "kind": "person",
-      "person_id": "1199",
-      "views": 4,
-      "last_viewed_at": "2026-10-19T18:00:37.412Z"
     }
   ],
   "popularSearches": [
@@ -128,22 +128,12 @@
       "24h": [
         {
           "kind": "person",
-          "person_id": "1148",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "2693",
           "views": 3
         },
         {
           "kind": "person",
           "person_id": "2891",
-          "views": 3
-        },
-        {
-          "kind": "person",
-          "person_id": "4306",
           "views": 3
         },
         {
@@ -218,6 +208,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1096",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "1099",
           "views": 2
         },
@@ -245,9 +240,19 @@
           "kind": "person",
           "person_id": "1106",
           "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "1133",
+          "views": 2
         }
       ],
       "3d": [
+        {
+          "kind": "person",
+          "person_id": "1201",
+          "views": 5
+        },
         {
           "kind": "person",
           "person_id": "4306",
@@ -276,11 +281,6 @@
         {
           "kind": "person",
           "person_id": "1200",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1201",
           "views": 4
         },
         {
@@ -372,6 +372,11 @@
       "7d": [
         {
           "kind": "person",
+          "person_id": "1201",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "4306",
           "views": 5
         },
@@ -403,11 +408,6 @@
         {
           "kind": "person",
           "person_id": "1200",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1201",
           "views": 4
         },
         {
@@ -494,6 +494,11 @@
       "30d": [
         {
           "kind": "person",
+          "person_id": "1201",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "3626",
           "views": 5
         },
@@ -535,11 +540,6 @@
         {
           "kind": "person",
           "person_id": "1200",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1201",
           "views": 4
         },
         {
@@ -616,6 +616,11 @@
       "60d": [
         {
           "kind": "person",
+          "person_id": "1201",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "3626",
           "views": 5
         },
@@ -657,11 +662,6 @@
         {
           "kind": "person",
           "person_id": "1200",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1201",
           "views": 4
         },
         {
@@ -738,6 +738,11 @@
       "90d": [
         {
           "kind": "person",
+          "person_id": "1201",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "3626",
           "views": 5
         },
@@ -779,11 +784,6 @@
         {
           "kind": "person",
           "person_id": "1200",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1201",
           "views": 4
         },
         {
@@ -860,6 +860,11 @@
       "6m": [
         {
           "kind": "person",
+          "person_id": "1201",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "3626",
           "views": 5
         },
@@ -901,11 +906,6 @@
         {
           "kind": "person",
           "person_id": "1200",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1201",
           "views": 4
         },
         {
@@ -982,6 +982,11 @@
       "1y": [
         {
           "kind": "person",
+          "person_id": "1201",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "3626",
           "views": 5
         },
@@ -1023,11 +1028,6 @@
         {
           "kind": "person",
           "person_id": "1200",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1201",
           "views": 4
         },
         {
@@ -1104,6 +1104,12 @@
       "all": [
         {
           "kind": "person",
+          "person_id": "1201",
+          "views": 5,
+          "last_viewed_at": "2026-10-20T07:19:07.747Z"
+        },
+        {
+          "kind": "person",
           "person_id": "3626",
           "views": 5,
           "last_viewed_at": "2026-10-19T17:31:06.404Z"
@@ -1155,12 +1161,6 @@
           "person_id": "1200",
           "views": 4,
           "last_viewed_at": "2026-10-20T01:18:32.429Z"
-        },
-        {
-          "kind": "person",
-          "person_id": "1201",
-          "views": 4,
-          "last_viewed_at": "2026-10-19T12:53:54.493Z"
         },
         {
           "kind": "person",
@@ -1331,11 +1331,11 @@
           "count": 7
         },
         {
-          "query": "kumar",
-          "count": 6
+          "query": "kim",
+          "count": 5
         },
         {
-          "query": "kim",
+          "query": "kumar",
           "count": 5
         },
         {
