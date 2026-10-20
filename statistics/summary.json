@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-20T19:30:08.014Z",
+  "generatedAt": "2026-10-20T20:36:35.076Z",
   "windows": [
     "24h",
     "3d",
@@ -13,17 +13,23 @@
     "all"
   ],
   "totals": {
-    "profileViews": 1897,
+    "profileViews": 1900,
     "searches": 119,
     "profilesTracked": 1284,
     "queriesTracked": 24
   },
   "today": {
     "date": "2026-10-20",
-    "profileViews": 212,
+    "profileViews": 215,
     "searches": 3
   },
   "popularProfiles": [
+    {
+      "kind": "person",
+      "person_id": "1200",
+      "views": 5,
+      "last_viewed_at": "2026-10-20T20:21:22.919Z"
+    },
     {
       "kind": "person",
       "person_id": "1201",
@@ -65,12 +71,6 @@
       "person_id": "1063",
       "views": 4,
       "last_viewed_at": "2026-10-20T05:54:13.272Z"
-    },
-    {
-      "kind": "person",
-      "person_id": "1095",
-      "views": 4,
-      "last_viewed_at": "2026-10-19T21:05:56.462Z"
     }
   ],
   "popularSearches": [
@@ -138,12 +138,12 @@
         },
         {
           "kind": "person",
-          "person_id": "1080",
+          "person_id": "1090",
           "views": 2
         },
         {
           "kind": "person",
-          "person_id": "1090",
+          "person_id": "1200",
           "views": 2
         },
         {
@@ -179,6 +179,11 @@
         {
           "kind": "person",
           "person_id": "3207",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "4317",
           "views": 2
         },
         {
@@ -233,21 +238,21 @@
         },
         {
           "kind": "person",
+          "person_id": "1080",
+          "views": 1
+        },
+        {
+          "kind": "person",
           "person_id": "1082",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1084",
-          "views": 1
-        },
-        {
-          "kind": "person",
-          "person_id": "1085",
           "views": 1
         }
       ],
       "3d": [
+        {
+          "kind": "person",
+          "person_id": "1200",
+          "views": 5
+        },
         {
           "kind": "person",
           "person_id": "4306",
@@ -276,11 +281,6 @@
         {
           "kind": "person",
           "person_id": "1199",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1200",
           "views": 4
         },
         {
@@ -372,6 +372,11 @@
       "7d": [
         {
           "kind": "person",
+          "person_id": "1200",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "1201",
           "views": 5
         },
@@ -408,11 +413,6 @@
         {
           "kind": "person",
           "person_id": "1199",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1200",
           "views": 4
         },
         {
@@ -494,6 +494,11 @@
       "30d": [
         {
           "kind": "person",
+          "person_id": "1200",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "1201",
           "views": 5
         },
@@ -545,11 +550,6 @@
         {
           "kind": "person",
           "person_id": "1199",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1200",
           "views": 4
         },
         {
@@ -616,6 +616,11 @@
       "60d": [
         {
           "kind": "person",
+          "person_id": "1200",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "1201",
           "views": 5
         },
@@ -667,11 +672,6 @@
         {
           "kind": "person",
           "person_id": "1199",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1200",
           "views": 4
         },
         {
@@ -738,6 +738,11 @@
       "90d": [
         {
           "kind": "person",
+          "person_id": "1200",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "1201",
           "views": 5
         },
@@ -789,11 +794,6 @@
         {
           "kind": "person",
           "person_id": "1199",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1200",
           "views": 4
         },
         {
@@ -860,6 +860,11 @@
       "6m": [
         {
           "kind": "person",
+          "person_id": "1200",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "1201",
           "views": 5
         },
@@ -911,11 +916,6 @@
         {
           "kind": "person",
           "person_id": "1199",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1200",
           "views": 4
         },
         {
@@ -982,6 +982,11 @@
       "1y": [
         {
           "kind": "person",
+          "person_id": "1200",
+          "views": 5
+        },
+        {
+          "kind": "person",
           "person_id": "1201",
           "views": 5
         },
@@ -1033,11 +1038,6 @@
         {
           "kind": "person",
           "person_id": "1199",
-          "views": 4
-        },
-        {
-          "kind": "person",
-          "person_id": "1200",
           "views": 4
         },
         {
@@ -1104,6 +1104,12 @@
       "all": [
         {
           "kind": "person",
+          "person_id": "1200",
+          "views": 5,
+          "last_viewed_at": "2026-10-20T20:21:22.919Z"
+        },
+        {
+          "kind": "person",
           "person_id": "1201",
           "views": 5,
           "last_viewed_at": "2026-10-20T07:19:07.747Z"
@@ -1167,12 +1173,6 @@
           "person_id": "1199",
           "views": 4,
           "last_viewed_at": "2026-10-19T18:00:37.412Z"
-        },
-        {
-          "kind": "person",
-          "person_id": "1200",
-          "views": 4,
-          "last_viewed_at": "2026-10-20T01:18:32.429Z"
         },
         {
           "kind": "person",
