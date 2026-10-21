@@ -1,21 +1,7 @@
 {
   "schema": "genepedia/statistics/hourly-rollups@1",
-  "updatedAt": "2026-10-21T16:27:50.817Z",
+  "updatedAt": "2026-10-21T17:29:38.384Z",
   "hours": {
-    "2026-10-13T16": {
-      "profileViews": 5,
-      "searches": 1,
-      "profiles": {
-        "person:629": 1,
-        "person:2173": 1,
-        "person:3632": 1,
-        "person:565": 1,
-        "person:2234": 1
-      },
-      "queries": {
-        "kumar": 1
-      }
-    },
     "2026-10-13T17": {
       "profileViews": 2,
       "searches": 0,
@@ -3415,23 +3401,81 @@
       "queries": {}
     },
     "2026-10-21T16": {
-      "profileViews": 10,
+      "profileViews": 31,
       "searches": 1,
       "profiles": {
         "person:2691": 1,
         "person:1094": 1,
-        "person:1116": 1,
+        "person:1116": 2,
         "person:4947": 1,
         "person:4948": 1,
         "person:2686": 1,
         "person:2841": 1,
         "person:2685": 1,
         "person:1923": 1,
-        "person:2880": 1
+        "person:2880": 1,
+        "person:4941": 1,
+        "person:2688": 1,
+        "person:4001": 1,
+        "person:3801": 1,
+        "person:172": 1,
+        "person:1929": 1,
+        "person:2611": 1,
+        "person:1927": 1,
+        "person:4681": 1,
+        "person:4940": 1,
+        "person:1928": 1,
+        "person:818": 1,
+        "person:3779": 1,
+        "person:4146": 1,
+        "person:1926": 1,
+        "person:3234": 1,
+        "person:1931": 1,
+        "person:1124": 1,
+        "person:1925": 1,
+        "person:1133": 1
       },
       "queries": {
         "ali": 1
       }
+    },
+    "2026-10-21T17": {
+      "profileViews": 31,
+      "searches": 0,
+      "profiles": {
+        "person:1165": 1,
+        "person:2855": 1,
+        "person:4942": 1,
+        "person:1101": 1,
+        "person:1098": 1,
+        "person:3016": 1,
+        "person:4002": 1,
+        "person:1126": 1,
+        "person:2794": 1,
+        "person:2797": 1,
+        "person:2790": 1,
+        "person:2795": 1,
+        "person:2791": 1,
+        "person:2793": 1,
+        "person:1067": 1,
+        "person:2799": 1,
+        "person:2942": 1,
+        "person:3756": 1,
+        "person:1046": 1,
+        "person:1049": 1,
+        "person:1057": 1,
+        "person:429": 1,
+        "person:4301": 1,
+        "person:436": 1,
+        "person:2096": 1,
+        "person:2865": 1,
+        "person:2024": 1,
+        "person:3098": 1,
+        "person:3874": 1,
+        "person:2020": 1,
+        "person:2884": 1
+      },
+      "queries": {}
     }
   }
 }
