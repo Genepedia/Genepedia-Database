@@ -1,27 +1,7 @@
 {
   "schema": "genepedia/statistics/hourly-rollups@1",
-  "updatedAt": "2026-10-22T17:41:35.172Z",
+  "updatedAt": "2026-10-22T19:13:42.667Z",
   "hours": {
-    "2026-10-14T17": {
-      "profileViews": 2,
-      "searches": 1,
-      "profiles": {
-        "person:3904": 1,
-        "person:1530": 1
-      },
-      "queries": {
-        "liu": 1
-      }
-    },
-    "2026-10-14T18": {
-      "profileViews": 2,
-      "searches": 0,
-      "profiles": {
-        "person:3706": 1,
-        "person:4053": 1
-      },
-      "queries": {}
-    },
     "2026-10-14T19": {
       "profileViews": 0,
       "searches": 1,
@@ -4101,14 +4081,38 @@
       "queries": {}
     },
     "2026-10-22T17": {
-      "profileViews": 5,
+      "profileViews": 7,
       "searches": 0,
       "profiles": {
         "person:2041": 1,
         "person:2941": 1,
         "person:3626": 1,
         "person:2936": 1,
-        "person:4334": 1
+        "person:4334": 1,
+        "person:1092": 1,
+        "person:2940": 1
+      },
+      "queries": {}
+    },
+    "2026-10-22T18": {
+      "profileViews": 5,
+      "searches": 1,
+      "profiles": {
+        "person:932": 1,
+        "person:2041": 1,
+        "person:2942": 1,
+        "person:2932": 1,
+        "person:2934": 1
+      },
+      "queries": {
+        "kim": 1
+      }
+    },
+    "2026-10-22T19": {
+      "profileViews": 1,
+      "searches": 0,
+      "profiles": {
+        "person:1850": 1
       },
       "queries": {}
     }
