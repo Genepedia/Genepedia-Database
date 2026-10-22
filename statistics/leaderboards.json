@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/leaderboards@1",
-  "generatedAt": "2026-10-22T06:04:49.881Z",
+  "generatedAt": "2026-10-22T07:04:57.584Z",
   "windows": [
     "24h",
     "3d",
@@ -14,11 +14,6 @@
   ],
   "profiles": {
     "24h": [
-      {
-        "kind": "person",
-        "person_id": "1067",
-        "views": 3
-      },
       {
         "kind": "person",
         "person_id": "1121",
@@ -51,6 +46,11 @@
       },
       {
         "kind": "person",
+        "person_id": "2778",
+        "views": 3
+      },
+      {
+        "kind": "person",
         "person_id": "2779",
         "views": 3
       },
@@ -66,11 +66,6 @@
       },
       {
         "kind": "person",
-        "person_id": "440",
-        "views": 3
-      },
-      {
-        "kind": "person",
         "person_id": "447",
         "views": 3
       },
@@ -81,17 +76,12 @@
       },
       {
         "kind": "person",
-        "person_id": "1074",
+        "person_id": "1067",
         "views": 2
       },
       {
         "kind": "person",
         "person_id": "1104",
-        "views": 2
-      },
-      {
-        "kind": "person",
-        "person_id": "1110",
         "views": 2
       },
       {
@@ -133,17 +123,22 @@
         "kind": "person",
         "person_id": "1153",
         "views": 2
+      },
+      {
+        "kind": "person",
+        "person_id": "1158",
+        "views": 2
+      },
+      {
+        "kind": "person",
+        "person_id": "1302",
+        "views": 2
       }
     ],
     "3d": [
       {
         "kind": "person",
         "person_id": "1067",
-        "views": 4
-      },
-      {
-        "kind": "person",
-        "person_id": "1148",
         "views": 4
       },
       {
@@ -179,21 +174,6 @@
       {
         "kind": "person",
         "person_id": "2695",
-        "views": 4
-      },
-      {
-        "kind": "person",
-        "person_id": "2839",
-        "views": 4
-      },
-      {
-        "kind": "person",
-        "person_id": "2841",
-        "views": 4
-      },
-      {
-        "kind": "person",
-        "person_id": "4306",
         "views": 4
       },
       {
@@ -254,6 +234,26 @@
       {
         "kind": "person",
         "person_id": "1084",
+        "views": 3
+      },
+      {
+        "kind": "person",
+        "person_id": "1088",
+        "views": 3
+      },
+      {
+        "kind": "person",
+        "person_id": "1093",
+        "views": 3
+      },
+      {
+        "kind": "person",
+        "person_id": "1094",
+        "views": 3
+      },
+      {
+        "kind": "person",
+        "person_id": "1103",
         "views": 3
       }
     ],
@@ -1139,6 +1139,10 @@
   "searches": {
     "24h": [
       {
+        "query": "liu",
+        "count": 2
+      },
+      {
         "query": "ali",
         "count": 1
       },
@@ -1148,10 +1152,6 @@
       },
       {
         "query": "kim",
-        "count": 1
-      },
-      {
-        "query": "liu",
         "count": 1
       },
       {
@@ -1173,11 +1173,11 @@
     ],
     "3d": [
       {
-        "query": "kim",
-        "count": 3
+        "query": "liu",
+        "count": 4
       },
       {
-        "query": "liu",
+        "query": "kim",
         "count": 3
       },
       {
@@ -1220,7 +1220,7 @@
     "7d": [
       {
         "query": "liu",
-        "count": 8
+        "count": 9
       },
       {
         "query": "kim",
@@ -1318,7 +1318,7 @@
     "30d": [
       {
         "query": "liu",
-        "count": 17
+        "count": 18
       },
       {
         "query": "kim",
@@ -1416,7 +1416,7 @@
     "60d": [
       {
         "query": "liu",
-        "count": 17
+        "count": 18
       },
       {
         "query": "kim",
@@ -1514,7 +1514,7 @@
     "90d": [
       {
         "query": "liu",
-        "count": 17
+        "count": 18
       },
       {
         "query": "kim",
@@ -1612,7 +1612,7 @@
     "6m": [
       {
         "query": "liu",
-        "count": 17
+        "count": 18
       },
       {
         "query": "kim",
@@ -1710,7 +1710,7 @@
     "1y": [
       {
         "query": "liu",
-        "count": 17
+        "count": 18
       },
       {
         "query": "kim",
@@ -1808,9 +1808,9 @@
     "all": [
       {
         "query": "liu",
-        "count": 17,
+        "count": 18,
         "last_result_count": 38,
-        "last_searched_at": "2026-10-22T03:02:36.119Z"
+        "last_searched_at": "2026-10-22T06:29:32.909Z"
       },
       {
         "query": "mandela",
