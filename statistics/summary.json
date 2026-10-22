@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-22T22:34:06.881Z",
+  "generatedAt": "2026-10-22T23:37:24.478Z",
   "windows": [
     "24h",
     "3d",
@@ -13,14 +13,14 @@
     "all"
   ],
   "totals": {
-    "profileViews": 3021,
+    "profileViews": 3031,
     "searches": 132,
-    "profilesTracked": 1687,
+    "profilesTracked": 1689,
     "queriesTracked": 25
   },
   "today": {
     "date": "2026-10-22",
-    "profileViews": 563,
+    "profileViews": 573,
     "searches": 5
   },
   "popularProfiles": [
@@ -183,6 +183,11 @@
         },
         {
           "kind": "person",
+          "person_id": "1432",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "1433",
           "views": 2
         },
@@ -239,11 +244,6 @@
         {
           "kind": "person",
           "person_id": "2041",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "2136",
           "views": 2
         }
       ],
@@ -365,7 +365,7 @@
         },
         {
           "kind": "person",
-          "person_id": "2770",
+          "person_id": "2746",
           "views": 3
         }
       ],
@@ -1263,10 +1263,6 @@
           "count": 1
         },
         {
-          "query": "roselt",
-          "count": 1
-        },
-        {
           "query": "zhang",
           "count": 1
         }
@@ -1327,10 +1323,6 @@
           "count": 3
         },
         {
-          "query": "nguyen",
-          "count": 3
-        },
-        {
           "query": "zhang",
           "count": 3
         },
@@ -1347,11 +1339,11 @@
           "count": 2
         },
         {
-          "query": "patel",
+          "query": "nguyen",
           "count": 2
         },
         {
-          "query": "singh",
+          "query": "patel",
           "count": 2
         },
         {
@@ -1395,6 +1387,10 @@
           "count": 1
         },
         {
+          "query": "singh",
+          "count": 1
+        },
+        {
           "query": "wang",
           "count": 1
         },
@@ -1414,7 +1410,7 @@
       "30d": [
         {
           "query": "liu",
-          "count": 17
+          "count": 16
         },
         {
           "query": "kim",
@@ -1512,7 +1508,7 @@
       "60d": [
         {
           "query": "liu",
-          "count": 17
+          "count": 16
         },
         {
           "query": "kim",
@@ -1610,7 +1606,7 @@
       "90d": [
         {
           "query": "liu",
-          "count": 17
+          "count": 16
         },
         {
           "query": "kim",
@@ -1708,7 +1704,7 @@
       "6m": [
         {
           "query": "liu",
-          "count": 17
+          "count": 16
         },
         {
           "query": "kim",
@@ -1806,7 +1802,7 @@
       "1y": [
         {
           "query": "liu",
-          "count": 17
+          "count": 16
         },
         {
           "query": "kim",
