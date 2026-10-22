@@ -1,15 +1,7 @@
 {
   "schema": "genepedia/statistics/hourly-rollups@1",
-  "updatedAt": "2026-10-22T19:13:42.667Z",
+  "updatedAt": "2026-10-22T20:14:55.831Z",
   "hours": {
-    "2026-10-14T19": {
-      "profileViews": 0,
-      "searches": 1,
-      "profiles": {},
-      "queries": {
-        "nguyen": 1
-      }
-    },
     "2026-10-14T20": {
       "profileViews": 1,
       "searches": 0,
@@ -4109,10 +4101,30 @@
       }
     },
     "2026-10-22T19": {
-      "profileViews": 1,
+      "profileViews": 8,
       "searches": 0,
       "profiles": {
-        "person:1850": 1
+        "person:1850": 1,
+        "person:929": 1,
+        "person:3859": 1,
+        "person:2998": 1,
+        "person:1631": 1,
+        "person:3113": 1,
+        "person:3363": 1,
+        "person:643": 1
+      },
+      "queries": {}
+    },
+    "2026-10-22T20": {
+      "profileViews": 6,
+      "searches": 0,
+      "profiles": {
+        "person:3361": 1,
+        "person:3625": 1,
+        "person:1204": 1,
+        "person:3178": 1,
+        "person:2705": 1,
+        "person:4157": 1
       },
       "queries": {}
     }
