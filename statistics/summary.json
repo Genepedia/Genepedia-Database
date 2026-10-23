@@ -1,6 +1,6 @@
 {
   "schema": "genepedia/statistics/summary@2",
-  "generatedAt": "2026-10-23T09:15:51.729Z",
+  "generatedAt": "2026-10-23T10:26:38.490Z",
   "windows": [
     "24h",
     "3d",
@@ -13,14 +13,14 @@
     "all"
   ],
   "totals": {
-    "profileViews": 3096,
+    "profileViews": 3113,
     "searches": 133,
-    "profilesTracked": 1708,
+    "profilesTracked": 1714,
     "queriesTracked": 25
   },
   "today": {
     "date": "2026-10-23",
-    "profileViews": 65,
+    "profileViews": 82,
     "searches": 1
   },
   "popularProfiles": [
@@ -128,11 +128,6 @@
       "24h": [
         {
           "kind": "person",
-          "person_id": "1444",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "3014",
           "views": 3
         },
@@ -148,17 +143,17 @@
         },
         {
           "kind": "person",
+          "person_id": "1426",
+          "views": 2
+        },
+        {
+          "kind": "person",
           "person_id": "1432",
           "views": 2
         },
         {
           "kind": "person",
           "person_id": "1433",
-          "views": 2
-        },
-        {
-          "kind": "person",
-          "person_id": "1450",
           "views": 2
         },
         {
@@ -218,11 +213,6 @@
         },
         {
           "kind": "person",
-          "person_id": "2985",
-          "views": 2
-        },
-        {
-          "kind": "person",
           "person_id": "3004",
           "views": 2
         },
@@ -244,6 +234,16 @@
         {
           "kind": "person",
           "person_id": "3716",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "3717",
+          "views": 2
+        },
+        {
+          "kind": "person",
+          "person_id": "3718",
           "views": 2
         }
       ],
@@ -280,11 +280,6 @@
         },
         {
           "kind": "person",
-          "person_id": "1145",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "1153",
           "views": 3
         },
@@ -310,11 +305,6 @@
         },
         {
           "kind": "person",
-          "person_id": "1637",
-          "views": 3
-        },
-        {
-          "kind": "person",
           "person_id": "172",
           "views": 3
         },
@@ -326,6 +316,11 @@
         {
           "kind": "person",
           "person_id": "2147",
+          "views": 3
+        },
+        {
+          "kind": "person",
+          "person_id": "2564",
           "views": 3
         },
         {
@@ -367,17 +362,22 @@
           "kind": "person",
           "person_id": "2746",
           "views": 3
+        },
+        {
+          "kind": "person",
+          "person_id": "2770",
+          "views": 3
         }
       ],
       "7d": [
         {
           "kind": "person",
-          "person_id": "440",
-          "views": 7
+          "person_id": "4306",
+          "views": 6
         },
         {
           "kind": "person",
-          "person_id": "4306",
+          "person_id": "440",
           "views": 6
         },
         {
@@ -1262,7 +1262,7 @@
       "3d": [
         {
           "query": "liu",
-          "count": 4
+          "count": 3
         },
         {
           "query": "devi",
@@ -1429,10 +1429,6 @@
           "count": 5
         },
         {
-          "query": "mandela",
-          "count": 4
-        },
-        {
           "query": "roselt",
           "count": 4
         },
@@ -1457,7 +1453,7 @@
           "count": 3
         },
         {
-          "query": "patel",
+          "query": "mandela",
           "count": 3
         },
         {
@@ -1478,6 +1474,10 @@
         },
         {
           "query": "li",
+          "count": 2
+        },
+        {
+          "query": "patel",
           "count": 2
         },
         {
@@ -1527,10 +1527,6 @@
           "count": 5
         },
         {
-          "query": "mandela",
-          "count": 4
-        },
-        {
           "query": "roselt",
           "count": 4
         },
@@ -1555,7 +1551,7 @@
           "count": 3
         },
         {
-          "query": "patel",
+          "query": "mandela",
           "count": 3
         },
         {
@@ -1576,6 +1572,10 @@
         },
         {
           "query": "li",
+          "count": 2
+        },
+        {
+          "query": "patel",
           "count": 2
         },
         {
@@ -1625,10 +1625,6 @@
           "count": 5
         },
         {
-          "query": "mandela",
-          "count": 4
-        },
-        {
           "query": "roselt",
           "count": 4
         },
@@ -1653,7 +1649,7 @@
           "count": 3
         },
         {
-          "query": "patel",
+          "query": "mandela",
           "count": 3
         },
         {
@@ -1674,6 +1670,10 @@
         },
         {
           "query": "li",
+          "count": 2
+        },
+        {
+          "query": "patel",
           "count": 2
         },
         {
@@ -1723,10 +1723,6 @@
           "count": 5
         },
         {
-          "query": "mandela",
-          "count": 4
-        },
-        {
           "query": "roselt",
           "count": 4
         },
@@ -1751,7 +1747,7 @@
           "count": 3
         },
         {
-          "query": "patel",
+          "query": "mandela",
           "count": 3
         },
         {
@@ -1772,6 +1768,10 @@
         },
         {
           "query": "li",
+          "count": 2
+        },
+        {
+          "query": "patel",
           "count": 2
         },
         {
@@ -1821,10 +1821,6 @@
           "count": 5
         },
         {
-          "query": "mandela",
-          "count": 4
-        },
-        {
           "query": "roselt",
           "count": 4
         },
@@ -1849,7 +1845,7 @@
           "count": 3
         },
         {
-          "query": "patel",
+          "query": "mandela",
           "count": 3
         },
         {
@@ -1870,6 +1866,10 @@
         },
         {
           "query": "li",
+          "count": 2
+        },
+        {
+          "query": "patel",
           "count": 2
         },
         {
